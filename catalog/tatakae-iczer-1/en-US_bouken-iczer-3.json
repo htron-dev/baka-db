@@ -1,12 +1,16 @@
 {
     "title": "Bouken! Iczer 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/50033.jpg",
+        "alt": "bouken-iczer-3"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "冒険！イクサー３",
     "start_date": "1990-09-25",
     "end_date": "1990-09-25",
-    "opening_song": "\"Chikai",
-    "ending_song": "#1",
+    "opening_song": "\"Chikai: Iczer 3... Kimi to (-誓い- ICZER3 ...君と)\" by Maiko Yoshino (吉野麻衣子)",
+    "ending_song": "#1: \"New Season\" by Nanami Hayase (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

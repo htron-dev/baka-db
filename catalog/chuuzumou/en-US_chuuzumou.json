@@ -1,5 +1,9 @@
 {
     "title": "Chuuzumou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/23788.jpg",
+        "alt": "chuuzumou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ちゅうずもう",

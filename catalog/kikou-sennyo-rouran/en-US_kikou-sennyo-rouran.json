@@ -1,12 +1,16 @@
 {
     "title": "Kikou Sennyo Rouran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/22629.jpg",
+        "alt": "kikou-sennyo-rouran"
+    },
     "type": "tv-serie",
     "episodes": "28",
     "original_name": "奇鋼仙女ロウラン",
     "start_date": "2002-11-15",
     "end_date": "2002-11-15",
     "opening_song": "\"Kakusei (覚醒)\" by (Instrumental)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Iroha uta\" by Myca Motomiya - female version",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

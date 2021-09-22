@@ -1,5 +1,9 @@
 {
     "title": "Hourou Musuko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208988.jpg",
+        "alt": "hourou-musuko"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "123",

@@ -1,5 +1,9 @@
 {
     "title": "Kabuki - Hana no Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2884.jpg",
+        "alt": "kabuki-hana-no-shou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

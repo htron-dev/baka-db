@@ -1,12 +1,16 @@
 {
     "title": "Violet Evergarden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
+        "alt": "violet-evergarden"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ヴァイオレット・エヴァーガーデン",
     "start_date": "2018-01-11",
     "end_date": "2018-01-11",
     "opening_song": "\"Sincerely\" by TRUE",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Michishirube (みちしるべ)\" by Minori Chihara (eps 2-8)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

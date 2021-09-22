@@ -1,5 +1,9 @@
 {
     "title": "Cutie Body",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215010.jpg",
+        "alt": "cutie-body"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

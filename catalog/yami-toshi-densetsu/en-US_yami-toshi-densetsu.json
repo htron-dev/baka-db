@@ -1,5 +1,9 @@
 {
     "title": "Yami Toshi Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142455.jpg",
+        "alt": "yami-toshi-densetsu"
+    },
     "type": "manga",
     "original_name": "闇都市伝説",
     "tags": [

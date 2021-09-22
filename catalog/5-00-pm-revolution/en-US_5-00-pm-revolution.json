@@ -1,5 +1,9 @@
 {
     "title": "5:00 PM Revolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12792.jpg",
+        "alt": "5-00-pm-revolution"
+    },
     "type": "manga",
     "volumes": "5",
     "tags": [

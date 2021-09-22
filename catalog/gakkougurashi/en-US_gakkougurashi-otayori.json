@@ -1,5 +1,9 @@
 {
     "title": "Gakkougurashi! Otayori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234856.jpg",
+        "alt": "gakkougurashi-otayori"
+    },
     "type": "manga",
     "original_name": "がっこうぐらし！～おたより～",
     "start_date": "2020-06-24",

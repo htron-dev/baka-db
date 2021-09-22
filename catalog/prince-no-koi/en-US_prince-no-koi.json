@@ -1,5 +1,9 @@
 {
     "title": "Prince no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40550.jpg",
+        "alt": "prince-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "プリンスの恋",

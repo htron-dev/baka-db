@@ -1,5 +1,9 @@
 {
     "title": "Choukyuu! Kidou Butouden G Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227503.jpg",
+        "alt": "choukyuu-kidou-butouden-g-gundam"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "67",

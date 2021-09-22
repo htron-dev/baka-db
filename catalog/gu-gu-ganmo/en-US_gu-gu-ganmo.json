@@ -1,5 +1,9 @@
 {
     "title": "Gu-Gu Ganmo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/4395.jpg",
+        "alt": "gu-gu-ganmo"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "Gu-Gu ガンモ",

@@ -1,5 +1,9 @@
 {
     "title": "Ten yori Takaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29542.jpg",
+        "alt": "ten-yori-takaku"
+    },
     "type": "manga",
     "original_name": "天より高く",
     "tags": [

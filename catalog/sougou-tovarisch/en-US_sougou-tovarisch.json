@@ -1,5 +1,9 @@
 {
     "title": "Sougou Tovarisch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78057.jpg",
+        "alt": "sougou-tovarisch"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Sekishoku Elegy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/13997.jpg",
+        "alt": "sekishoku-elegy"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "赤色エレジー",

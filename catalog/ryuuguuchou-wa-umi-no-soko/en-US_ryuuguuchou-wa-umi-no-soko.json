@@ -1,5 +1,9 @@
 {
     "title": "Ryuuguuchou wa Umi no Soko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190958.jpg",
+        "alt": "ryuuguuchou-wa-umi-no-soko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

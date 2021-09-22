@@ -1,5 +1,9 @@
 {
     "title": "Vulgar Bingo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186870.jpg",
+        "alt": "vulgar-bingo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

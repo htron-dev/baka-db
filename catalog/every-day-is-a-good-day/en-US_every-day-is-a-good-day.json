@@ -1,5 +1,9 @@
 {
     "title": "Every Day Is a Good Day",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238956.jpg",
+        "alt": "every-day-is-a-good-day"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

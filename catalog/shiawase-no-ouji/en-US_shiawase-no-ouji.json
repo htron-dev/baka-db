@@ -1,5 +1,9 @@
 {
     "title": "Shiawase no Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/64153.jpg",
+        "alt": "shiawase-no-ouji"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "しあわせの王子",

@@ -1,5 +1,9 @@
 {
     "title": "Futari wa Milky Holmes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/51931.jpg",
+        "alt": "futari-wa-milky-holmes"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ふたりはミルキィホームズ",

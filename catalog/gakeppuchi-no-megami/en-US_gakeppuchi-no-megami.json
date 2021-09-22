@@ -1,5 +1,9 @@
 {
     "title": "Gakeppuchi no Megami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/104389.jpg",
+        "alt": "gakeppuchi-no-megami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

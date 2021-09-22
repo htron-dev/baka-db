@@ -1,5 +1,9 @@
 {
     "title": "Shinjuku Swan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/75615.jpg",
+        "alt": "shinjuku-swan"
+    },
     "type": "manga",
     "volumes": "38",
     "chapters": "392",

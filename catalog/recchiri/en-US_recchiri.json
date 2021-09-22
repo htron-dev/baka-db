@@ -1,5 +1,9 @@
 {
     "title": "Recchiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223267.jpg",
+        "alt": "recchiri"
+    },
     "type": "manga",
     "original_name": "レッチリ",
     "start_date": "2016-01-27",

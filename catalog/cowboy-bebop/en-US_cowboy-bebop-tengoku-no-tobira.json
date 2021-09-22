@@ -1,5 +1,9 @@
 {
     "title": "Cowboy Bebop: Tengoku no Tobira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1439/93480.jpg",
+        "alt": "cowboy-bebop-tengoku-no-tobira"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "カウボーイビバップ 天国の扉",

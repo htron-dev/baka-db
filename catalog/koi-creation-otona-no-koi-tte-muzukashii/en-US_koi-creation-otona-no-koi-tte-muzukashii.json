@@ -1,5 +1,9 @@
 {
     "title": "Koi Creation: Otona no Koi tte Muzukashii!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195478.jpg",
+        "alt": "koi-creation-otona-no-koi-tte-muzukashii"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "恋クリエーション～大人の恋って難しい！～",

@@ -1,5 +1,9 @@
 {
     "title": "Cat Shit One JP",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131907.jpg",
+        "alt": "cat-shit-one-jp"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Cat Shit One JP",

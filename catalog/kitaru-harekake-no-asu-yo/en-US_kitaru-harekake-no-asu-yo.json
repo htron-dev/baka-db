@@ -1,5 +1,9 @@
 {
     "title": "Kitaru Harekake no Asu yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220854.jpg",
+        "alt": "kitaru-harekake-no-asu-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

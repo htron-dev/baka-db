@@ -1,5 +1,9 @@
 {
     "title": "Mou Ippon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233691.jpg",
+        "alt": "mou-ippon"
+    },
     "type": "manga",
     "original_name": "もういっぽん！",
     "start_date": "2018-10-18",

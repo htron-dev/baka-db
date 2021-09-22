@@ -1,12 +1,16 @@
 {
     "title": "Magic-Kyun! Renaissance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/80828.jpg",
+        "alt": "magic-kyun-renaissance"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "マジきゅんっ！ルネッサンス",
     "start_date": "2016-10-02",
     "end_date": "2016-10-02",
     "opening_song": "\"Magic Kyun! No.1☆ (マジきゅんっ！No.1☆)\" by ArtiSTARs",
-    "ending_song": "\"Please kiss my heart\" by ArtiSTARs [Teika Ichijouji (CV",
+    "ending_song": "\"Please kiss my heart\" by ArtiSTARs [Teika Ichijouji (CV: Yuuichirou Umehara), Aoi Suminomiya (CV: KENN), Rui Anjou (CV: Wataru Hanano), Rintarou Tatewaki (CV: Yuuki Ono), Mone Tsukushi (CV: Souta Aoi), Kanato Hibiki (CV: Takuya Eguchi)]",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

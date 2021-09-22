@@ -1,5 +1,9 @@
 {
     "title": "Douse Mou Nigerarenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227864.jpg",
+        "alt": "douse-mou-nigerarenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Amon Saga: Tsuki no Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142387.jpg",
+        "alt": "amon-saga-tsuki-no-miko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

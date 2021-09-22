@@ -1,5 +1,9 @@
 {
     "title": "Jigoku no Soubee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/66269.jpg",
+        "alt": "jigoku-no-soubee"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "じごくのそうべえ",

@@ -1,5 +1,9 @@
 {
     "title": "Trouble Love Candy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9604.jpg",
+        "alt": "trouble-love-candy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Daigaku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1762/112262.jpg",
+        "alt": "tokyo-daigaku-monogatari"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "東京大学物語",

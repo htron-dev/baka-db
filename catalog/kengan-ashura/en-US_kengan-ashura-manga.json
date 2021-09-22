@@ -1,5 +1,9 @@
 {
     "title": "Kengan Ashura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210808.jpg",
+        "alt": "kengan-ashura"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "256",

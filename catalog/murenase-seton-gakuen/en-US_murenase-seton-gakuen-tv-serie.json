@@ -1,5 +1,9 @@
 {
     "title": "Murenase! Seton Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1558/104666.jpg",
+        "alt": "murenase-seton-gakuen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "群れなせ！シートン学園",

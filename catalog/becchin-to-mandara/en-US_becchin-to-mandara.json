@@ -1,5 +1,9 @@
 {
     "title": "Becchin to Mandara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27905.jpg",
+        "alt": "becchin-to-mandara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Doukyuusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150626.jpg",
+        "alt": "doukyuusei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Yatterman x Toshiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/71507.jpg",
+        "alt": "yatterman-x-toshiba"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ヤッターマン × トウシバ",

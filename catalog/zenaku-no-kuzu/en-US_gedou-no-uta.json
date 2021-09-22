@@ -1,5 +1,9 @@
 {
     "title": "Gedou no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196376.jpg",
+        "alt": "gedou-no-uta"
+    },
     "type": "manga",
     "original_name": "外道の歌",
     "start_date": "2016-03-28",

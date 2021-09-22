@@ -1,5 +1,9 @@
 {
     "title": "Gamba: Gamba to Nakama-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75875.jpg",
+        "alt": "gamba-gamba-to-nakama-tachi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "GAMBA ガンバと仲間たち",

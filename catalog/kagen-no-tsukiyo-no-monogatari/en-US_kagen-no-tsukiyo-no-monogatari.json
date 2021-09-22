@@ -1,5 +1,9 @@
 {
     "title": "Kagen no Tsukiyo no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24870.jpg",
+        "alt": "kagen-no-tsukiyo-no-monogatari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

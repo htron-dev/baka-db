@@ -1,12 +1,16 @@
 {
     "title": "Kaichou wa Maid-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/25254.jpg",
+        "alt": "kaichou-wa-maid-sama"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "会長はメイド様!",
     "start_date": "2010-04-02",
     "end_date": "2010-04-02",
     "opening_song": "\"My Secret\" by Saaya Mizuno (水野佐彩)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yokan (予感)\" by heidi. (eps 1-15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

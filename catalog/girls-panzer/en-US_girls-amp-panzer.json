@@ -1,12 +1,16 @@
 {
     "title": "Girls &amp; Panzer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/40969.jpg",
+        "alt": "girls-amp-panzer"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ガールズ&パンツァー",
     "start_date": "2012-10-09",
     "end_date": "2012-10-09",
     "opening_song": "\"DreamRiser\" by Choucho",
-    "ending_song": "#1",
+    "ending_song": "#1: \"DreamRiser\" by Choucho (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

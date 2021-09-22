@@ -1,5 +1,9 @@
 {
     "title": "Utsuutsu Hideo Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/70429.jpg",
+        "alt": "utsuutsu-hideo-nikki"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "うつうつひでお日記",

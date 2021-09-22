@@ -1,12 +1,16 @@
 {
     "title": "Dr. Stone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1613/102576.jpg",
+        "alt": "dr-stone"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ドクターストーン",
     "start_date": "2019-07-05",
     "end_date": "2019-07-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Good Morning World!\" by BURNOUT SYNDROMES (eps 2-13)",
+    "ending_song": "#1: \"Good Morning World!\" by BURNOUT SYNDROMES (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni Kai: Tsumihoroboshi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1019.jpg",
+        "alt": "higurashi-no-naku-koro-ni-kai-tsumihoroboshi-hen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

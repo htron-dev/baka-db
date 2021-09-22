@@ -1,5 +1,9 @@
 {
     "title": "Hulu Xiao Jin Gang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1298/106621.jpg",
+        "alt": "hulu-xiao-jin-gang"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "葫芦小金刚",

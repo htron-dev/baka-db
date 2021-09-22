@@ -1,5 +1,9 @@
 {
     "title": "Kiseijuu: Sei no Kakuritsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/73178.jpg",
+        "alt": "kiseijuu-sei-no-kakuritsu"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "寄生獣 セイの格率",

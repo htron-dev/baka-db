@@ -1,5 +1,9 @@
 {
     "title": "Nessa no Kusari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82106.jpg",
+        "alt": "nessa-no-kusari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

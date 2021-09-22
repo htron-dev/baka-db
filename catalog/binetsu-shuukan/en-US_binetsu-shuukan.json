@@ -1,5 +1,9 @@
 {
     "title": "Binetsu Shuukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85187.jpg",
+        "alt": "binetsu-shuukan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kunoichi Ibun: Tenshi wa Maiorita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164506.jpg",
+        "alt": "kunoichi-ibun-tenshi-wa-maiorita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

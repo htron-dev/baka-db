@@ -1,5 +1,9 @@
 {
     "title": "Babylon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223688.jpg",
+        "alt": "babylon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

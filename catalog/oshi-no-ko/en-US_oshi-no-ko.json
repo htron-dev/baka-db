@@ -1,5 +1,9 @@
 {
     "title": "Oshi no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233991.jpg",
+        "alt": "oshi-no-ko"
+    },
     "type": "manga",
     "original_name": "推しの子",
     "start_date": "2020-04-23",

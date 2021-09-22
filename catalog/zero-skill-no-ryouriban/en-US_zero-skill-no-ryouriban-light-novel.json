@@ -1,5 +1,9 @@
 {
     "title": "Zero Skill no Ryouriban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240477.jpg",
+        "alt": "zero-skill-no-ryouriban"
+    },
     "type": "light-novel",
     "original_name": "ゼロスキルの料理番",
     "start_date": "2019-06-10",

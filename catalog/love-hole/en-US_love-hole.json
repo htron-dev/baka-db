@@ -1,5 +1,9 @@
 {
     "title": "Love Hole",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234134.jpg",
+        "alt": "love-hole"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Begin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199335.jpg",
+        "alt": "begin"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "73",

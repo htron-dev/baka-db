@@ -1,5 +1,9 @@
 {
     "title": "Your Throne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236523.jpg",
+        "alt": "your-throne"
+    },
     "type": "manhwa",
     "original_name": "하루만 네가 되고 싶어",
     "start_date": "2020-01-07",

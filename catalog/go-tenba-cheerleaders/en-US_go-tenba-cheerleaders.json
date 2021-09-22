@@ -1,5 +1,9 @@
 {
     "title": "Go! Tenba Cheerleaders",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155466.jpg",
+        "alt": "go-tenba-cheerleaders"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "62",

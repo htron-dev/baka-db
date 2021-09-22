@@ -1,5 +1,9 @@
 {
     "title": "Youkoso! Hohoemi Ryou e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44689.jpg",
+        "alt": "youkoso-hohoemi-ryou-e"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

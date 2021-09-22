@@ -1,5 +1,9 @@
 {
     "title": "Delicious!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1897.jpg",
+        "alt": "delicious"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "デリシャス!",

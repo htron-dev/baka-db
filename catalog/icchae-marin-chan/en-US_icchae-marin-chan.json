@@ -1,5 +1,9 @@
 {
     "title": "Icchae Marin-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29896.jpg",
+        "alt": "icchae-marin-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

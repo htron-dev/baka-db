@@ -1,5 +1,9 @@
 {
     "title": "Dragon Half",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/14220.jpg",
+        "alt": "dragon-half"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ドラゴンハーフ",

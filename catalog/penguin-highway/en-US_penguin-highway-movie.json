@@ -1,5 +1,9 @@
 {
     "title": "Penguin Highway",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1320/93443.jpg",
+        "alt": "penguin-highway"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ペンギン・ハイウェイ",

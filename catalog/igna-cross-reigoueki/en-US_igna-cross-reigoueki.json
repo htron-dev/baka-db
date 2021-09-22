@@ -1,5 +1,9 @@
 {
     "title": "Igna-Cross Reigoueki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192510.jpg",
+        "alt": "igna-cross-reigoueki"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "41",

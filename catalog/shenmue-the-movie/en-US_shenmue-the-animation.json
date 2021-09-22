@@ -1,5 +1,9 @@
 {
     "title": "Shenmue: The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1222/109088.jpg",
+        "alt": "shenmue-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "シェンムー",

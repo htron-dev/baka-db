@@ -1,5 +1,9 @@
 {
     "title": "Skeeter Rabbit!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219434.jpg",
+        "alt": "skeeter-rabbit"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

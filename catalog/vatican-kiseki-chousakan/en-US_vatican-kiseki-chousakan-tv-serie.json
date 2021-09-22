@@ -1,5 +1,9 @@
 {
     "title": "Vatican Kiseki Chousakan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/86746.jpg",
+        "alt": "vatican-kiseki-chousakan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "バチカン奇跡調査官",

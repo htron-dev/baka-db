@@ -1,5 +1,9 @@
 {
     "title": "Armor Amour",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149375.jpg",
+        "alt": "armor-amour"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "52",

@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Chuugoku Akujo Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142937.jpg",
+        "alt": "manga-grimm-douwa-chuugoku-akujo-den"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

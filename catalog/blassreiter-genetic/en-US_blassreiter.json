@@ -1,12 +1,16 @@
 {
     "title": "Blassreiter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/13199.jpg",
+        "alt": "blassreiter"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ブラスレイター",
     "start_date": "2008-04-06",
     "end_date": "2008-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Detarame na Zanzou (デタラメな残像)\" by GRANRODEO",
+    "ending_song": "#1: \"sad rain\" by Aki Misato",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

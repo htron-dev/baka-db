@@ -1,5 +1,9 @@
 {
     "title": "Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1381/114925.jpg",
+        "alt": "hunter"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Hunter",

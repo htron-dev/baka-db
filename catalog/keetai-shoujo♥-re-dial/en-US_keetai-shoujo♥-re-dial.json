@@ -1,8 +1,12 @@
 {
     "title": "Keetai Shoujo♥ Re:dial",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133373.jpg",
+        "alt": "keetai-shoujo♥-re-dial"
+    },
     "type": "manga",
     "volumes": "1",
-    "original_name": "ケータイ少女 ♥ Re",
+    "original_name": "ケータイ少女 ♥ Re:dial",
     "start_date": "2013-02-23",
     "tags": [
         "romance",

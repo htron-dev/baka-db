@@ -1,5 +1,9 @@
 {
     "title": "Kujakuou: Sengoku Tensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/68111.jpg",
+        "alt": "kujakuou-sengoku-tensei"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "孔雀王　～戦国転生～",

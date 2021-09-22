@@ -1,5 +1,9 @@
 {
     "title": "Ten Carat Torte!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21242.jpg",
+        "alt": "ten-carat-torte"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "264",

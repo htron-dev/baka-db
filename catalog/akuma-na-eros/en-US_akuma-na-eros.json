@@ -1,5 +1,9 @@
 {
     "title": "Akuma na Eros",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78909.jpg",
+        "alt": "akuma-na-eros"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

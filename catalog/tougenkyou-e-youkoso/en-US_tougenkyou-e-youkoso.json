@@ -1,5 +1,9 @@
 {
     "title": "Tougenkyou e Youkoso!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167278.jpg",
+        "alt": "tougenkyou-e-youkoso"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

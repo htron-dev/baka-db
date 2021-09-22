@@ -1,5 +1,9 @@
 {
     "title": "Tokkou Tennyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32161.jpg",
+        "alt": "tokkou-tennyo"
+    },
     "type": "manga",
     "volumes": "30",
     "original_name": "特攻天女",

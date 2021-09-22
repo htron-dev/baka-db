@@ -1,5 +1,9 @@
 {
     "title": "Obatalian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134273.jpg",
+        "alt": "obatalian"
+    },
     "type": "manga",
     "volumes": "13",
     "original_name": "オバタリアン",

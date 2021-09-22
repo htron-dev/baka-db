@@ -1,5 +1,9 @@
 {
     "title": "Genki Genki Non-tan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/65131.jpg",
+        "alt": "genki-genki-non-tan"
+    },
     "type": "tv-serie",
     "episodes": "15",
     "original_name": "げんき げんき ノンタン",

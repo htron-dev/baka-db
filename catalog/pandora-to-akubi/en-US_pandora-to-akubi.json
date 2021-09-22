@@ -1,5 +1,9 @@
 {
     "title": "Pandora to Akubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1847/99576.jpg",
+        "alt": "pandora-to-akubi"
+    },
     "type": "movie",
     "episodes": "2",
     "original_name": "パンドラとアクビ",

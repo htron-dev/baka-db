@@ -1,5 +1,9 @@
 {
     "title": "Tesla Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243306.jpg",
+        "alt": "tesla-note"
+    },
     "type": "manga",
     "original_name": "テスラノート",
     "start_date": "2021-01-06",

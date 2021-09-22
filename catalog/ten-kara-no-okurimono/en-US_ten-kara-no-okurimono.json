@@ -1,5 +1,9 @@
 {
     "title": "Ten kara no Okurimono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/51119.jpg",
+        "alt": "ten-kara-no-okurimono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Minna Ichiban!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/66263.jpg",
+        "alt": "minna-ichiban"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "みんないちばん！",

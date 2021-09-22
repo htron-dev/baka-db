@@ -1,5 +1,9 @@
 {
     "title": "What Does the Fox Say?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198540.jpg",
+        "alt": "what-does-the-fox-say"
+    },
     "type": "manhwa",
     "chapters": "93",
     "original_name": "What Does The Fox Say?",

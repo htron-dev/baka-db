@@ -1,5 +1,9 @@
 {
     "title": "Yu☆Gi☆Oh! Zexal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178242.jpg",
+        "alt": "yu☆-gi☆-oh-zexal"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "56",

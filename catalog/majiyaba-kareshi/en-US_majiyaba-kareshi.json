@@ -1,5 +1,9 @@
 {
     "title": "Majiyaba Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24947.jpg",
+        "alt": "majiyaba-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マジヤバ・カレシ",

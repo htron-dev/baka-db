@@ -1,5 +1,9 @@
 {
     "title": "Sakura Kanzume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130633.jpg",
+        "alt": "sakura-kanzume"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "さくらかんづめ",

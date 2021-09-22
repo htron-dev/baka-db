@@ -1,5 +1,9 @@
 {
     "title": "Saihate no Higashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/122077.jpg",
+        "alt": "saihate-no-higashi"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "49",

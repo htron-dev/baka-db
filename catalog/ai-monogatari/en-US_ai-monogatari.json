@@ -1,5 +1,9 @@
 {
     "title": "Ai Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131871.jpg",
+        "alt": "ai-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "愛物語",

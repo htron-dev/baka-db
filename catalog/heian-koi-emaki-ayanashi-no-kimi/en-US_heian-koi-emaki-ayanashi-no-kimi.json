@@ -1,5 +1,9 @@
 {
     "title": "Heian Koi Emaki: Ayanashi no Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180396.jpg",
+        "alt": "heian-koi-emaki-ayanashi-no-kimi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

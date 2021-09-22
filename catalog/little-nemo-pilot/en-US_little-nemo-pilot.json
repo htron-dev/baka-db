@@ -1,5 +1,9 @@
 {
     "title": "Little Nemo Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1972/115535.jpg",
+        "alt": "little-nemo-pilot"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "リトル・ニモ パイロット",

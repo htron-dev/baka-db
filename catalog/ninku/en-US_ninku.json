@@ -1,5 +1,9 @@
 {
     "title": "Ninku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38322.jpg",
+        "alt": "ninku"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "81",

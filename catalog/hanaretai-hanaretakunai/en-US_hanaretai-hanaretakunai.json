@@ -1,5 +1,9 @@
 {
     "title": "Hanaretai Hanaretakunai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33855.jpg",
+        "alt": "hanaretai-hanaretakunai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

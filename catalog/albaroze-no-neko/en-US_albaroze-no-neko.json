@@ -1,5 +1,9 @@
 {
     "title": "Albaroze no Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/59215.jpg",
+        "alt": "albaroze-no-neko"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "アルバローズの猫",

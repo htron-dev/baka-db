@@ -1,5 +1,9 @@
 {
     "title": "Mon Seul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18556.jpg",
+        "alt": "mon-seul"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

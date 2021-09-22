@@ -1,5 +1,9 @@
 {
     "title": "Cutey Honey Flash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41179.jpg",
+        "alt": "cutey-honey-flash"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "12",

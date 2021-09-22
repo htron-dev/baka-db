@@ -1,5 +1,9 @@
 {
     "title": "Parlor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152863.jpg",
+        "alt": "parlor"
+    },
     "type": "manga",
     "original_name": "parlor",
     "start_date": "2011-08-25",

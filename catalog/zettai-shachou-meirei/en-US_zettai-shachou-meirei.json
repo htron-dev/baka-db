@@ -1,5 +1,9 @@
 {
     "title": "Zettai Shachou Meirei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132359.jpg",
+        "alt": "zettai-shachou-meirei"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "絶対社長命令",

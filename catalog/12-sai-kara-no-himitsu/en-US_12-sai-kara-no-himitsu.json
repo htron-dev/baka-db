@@ -1,5 +1,9 @@
 {
     "title": "12-sai kara no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35162.jpg",
+        "alt": "12-sai-kara-no-himitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

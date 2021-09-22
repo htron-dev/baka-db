@@ -1,5 +1,9 @@
 {
     "title": "Macross Dynamite 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/15647.jpg",
+        "alt": "macross-dynamite-7"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "マクロスダイナマイト 7",

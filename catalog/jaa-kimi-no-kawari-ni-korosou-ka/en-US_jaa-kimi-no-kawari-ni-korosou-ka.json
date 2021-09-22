@@ -1,5 +1,9 @@
 {
     "title": "Jaa, Kimi no Kawari ni Korosou ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236378.jpg",
+        "alt": "jaa-kimi-no-kawari-ni-korosou-ka"
+    },
     "type": "manga",
     "original_name": "じゃあ、君の代わりに殺そうか?",
     "start_date": "2018-11-06",

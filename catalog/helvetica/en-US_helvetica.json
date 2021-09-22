@@ -1,5 +1,9 @@
 {
     "title": "Helvetica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201892.jpg",
+        "alt": "helvetica"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

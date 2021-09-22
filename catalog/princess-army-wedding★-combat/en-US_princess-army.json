@@ -1,5 +1,9 @@
 {
     "title": "Princess Army",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7263.jpg",
+        "alt": "princess-army"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "ぷりんせす ARMY",

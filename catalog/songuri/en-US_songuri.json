@@ -1,5 +1,9 @@
 {
     "title": "Songuri!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190239.jpg",
+        "alt": "songuri"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

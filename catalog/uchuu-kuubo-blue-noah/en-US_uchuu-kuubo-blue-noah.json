@@ -1,11 +1,15 @@
 {
     "title": "Uchuu Kuubo Blue Noah",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/27147.jpg",
+        "alt": "uchuu-kuubo-blue-noah"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "宇宙空母ブルーノア",
     "start_date": "1979-10-13",
     "end_date": "1979-10-13",
-    "opening_song": "\"Space Carrier Blue Noah",
+    "opening_song": "\"Space Carrier Blue Noah: Toward the Great Ocean\" by Mayo Kawasaki",
     "ending_song": "\"Night Cruise\" by Hiroshi Miyagawa",
     "rating": "PG - Children",
     "tags": [

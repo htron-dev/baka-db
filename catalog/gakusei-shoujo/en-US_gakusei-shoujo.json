@@ -1,5 +1,9 @@
 {
     "title": "Gakusei Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160494.jpg",
+        "alt": "gakusei-shoujo"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "楽聖少女",

@@ -1,5 +1,9 @@
 {
     "title": "Osakimochi: Ooedo Ayakashi Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226882.jpg",
+        "alt": "osakimochi-ooedo-ayakashi-kitan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

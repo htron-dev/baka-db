@@ -1,5 +1,9 @@
 {
     "title": "Ninpen Manmaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/66675.jpg",
+        "alt": "ninpen-manmaru"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "忍ペンまん丸",

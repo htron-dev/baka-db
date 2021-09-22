@@ -1,5 +1,9 @@
 {
     "title": "Sumaga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172019.jpg",
+        "alt": "sumaga"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "17",

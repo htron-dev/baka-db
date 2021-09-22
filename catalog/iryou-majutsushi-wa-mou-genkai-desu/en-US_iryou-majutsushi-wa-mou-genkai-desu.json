@@ -1,5 +1,9 @@
 {
     "title": "Iryou Majutsushi wa, Mou Genkai desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191360.jpg",
+        "alt": "iryou-majutsushi-wa-mou-genkai-desu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

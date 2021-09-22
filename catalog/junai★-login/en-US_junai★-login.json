@@ -1,5 +1,9 @@
 {
     "title": "Junai★Login",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15347.jpg",
+        "alt": "junai★-login"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

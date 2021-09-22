@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Yaban no Chizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191.jpg",
+        "alt": "tokyo-yaban-no-chizu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

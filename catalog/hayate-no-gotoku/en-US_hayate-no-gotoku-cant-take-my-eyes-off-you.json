@@ -1,12 +1,16 @@
 {
     "title": "Hayate no Gotoku! Can't Take My Eyes Off You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/73952.jpg",
+        "alt": "hayate-no-gotoku-cant-take-my-eyes-off-you"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ハヤテのごとく! CAN'T TAKE MY EYES OFF YOU",
     "start_date": "2012-10-04",
     "end_date": "2012-10-04",
     "opening_song": "\"CAN'T TAKE MY EYES OFF YOU\" by eyelis",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Koi no Wana (恋の罠)\" by Haruka Yamazaki (ep 1-2, 4-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

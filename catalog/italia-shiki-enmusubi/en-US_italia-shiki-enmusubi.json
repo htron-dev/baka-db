@@ -1,5 +1,9 @@
 {
     "title": "Italia-shiki Enmusubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/94385.jpg",
+        "alt": "italia-shiki-enmusubi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "イタリア式縁結び",

@@ -1,5 +1,9 @@
 {
     "title": "Majo to Dinner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222546.jpg",
+        "alt": "majo-to-dinner"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

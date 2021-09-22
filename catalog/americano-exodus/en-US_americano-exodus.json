@@ -1,5 +1,9 @@
 {
     "title": "Americano Exodus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228451.jpg",
+        "alt": "americano-exodus"
+    },
     "type": "manhwa",
     "original_name": "아메리카노 엑소더스",
     "start_date": "2014-05-16",

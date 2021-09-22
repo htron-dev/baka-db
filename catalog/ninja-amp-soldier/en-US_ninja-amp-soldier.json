@@ -1,5 +1,9 @@
 {
     "title": "Ninja &amp; Soldier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/69831.jpg",
+        "alt": "ninja-amp-soldier"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "NINJA & SOLDIER",

@@ -1,5 +1,9 @@
 {
     "title": "Eat-Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173371.jpg",
+        "alt": "eat-man"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "101",

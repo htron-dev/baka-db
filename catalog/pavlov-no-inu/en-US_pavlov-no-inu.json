@@ -1,5 +1,9 @@
 {
     "title": "Pavlov no Inu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151472.jpg",
+        "alt": "pavlov-no-inu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "59",

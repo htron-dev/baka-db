@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Kishidan x Knight Tale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184996.jpg",
+        "alt": "shoujo-kishidan-x-knight-tale"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Hoshi wo Tsumu Donna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6469.jpg",
+        "alt": "hoshi-wo-tsumu-donna"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

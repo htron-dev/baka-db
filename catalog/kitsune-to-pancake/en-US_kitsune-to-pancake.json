@@ -1,5 +1,9 @@
 {
     "title": "Kitsune to Pancake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206331.jpg",
+        "alt": "kitsune-to-pancake"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "47",

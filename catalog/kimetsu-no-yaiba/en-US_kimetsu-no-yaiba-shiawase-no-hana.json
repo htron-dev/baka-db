@@ -1,5 +1,9 @@
 {
     "title": "Kimetsu no Yaiba: Shiawase no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229952.jpg",
+        "alt": "kimetsu-no-yaiba-shiawase-no-hana"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

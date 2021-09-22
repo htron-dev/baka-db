@@ -1,5 +1,9 @@
 {
     "title": "Crazy For You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/7755.jpg",
+        "alt": "crazy-for-you"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

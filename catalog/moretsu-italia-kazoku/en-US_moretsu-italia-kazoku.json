@@ -1,5 +1,9 @@
 {
     "title": "Moretsu! Italia Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85723.jpg",
+        "alt": "moretsu-italia-kazoku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "モーレツ!イタリア家族",

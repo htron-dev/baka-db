@@ -1,5 +1,9 @@
 {
     "title": "Haitoku wa Amaku Mushibamu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5765.jpg",
+        "alt": "haitoku-wa-amaku-mushibamu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "The Antique Gift Shop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4732.jpg",
+        "alt": "the-antique-gift-shop"
+    },
     "type": "manhwa",
     "volumes": "10",
     "chapters": "16",

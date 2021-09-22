@@ -1,5 +1,9 @@
 {
     "title": "Ultraman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149472.jpg",
+        "alt": "ultraman"
+    },
     "type": "manga",
     "original_name": "ULTRAMAN",
     "start_date": "2011-11-01",

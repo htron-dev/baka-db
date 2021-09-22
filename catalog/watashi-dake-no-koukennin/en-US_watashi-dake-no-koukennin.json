@@ -1,5 +1,9 @@
 {
     "title": "Watashi dake no Koukennin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155650.jpg",
+        "alt": "watashi-dake-no-koukennin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "わたしだけの後見人",

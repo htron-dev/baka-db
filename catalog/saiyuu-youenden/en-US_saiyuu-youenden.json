@@ -1,5 +1,9 @@
 {
     "title": "Saiyuu Youenden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240441.jpg",
+        "alt": "saiyuu-youenden"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "102",

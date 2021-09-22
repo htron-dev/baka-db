@@ -1,5 +1,9 @@
 {
     "title": "Waon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165446.jpg",
+        "alt": "waon"
+    },
     "type": "manga",
     "chapters": "99",
     "original_name": "和おん!",

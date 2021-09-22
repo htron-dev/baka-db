@@ -1,5 +1,9 @@
 {
     "title": "Shinigami Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/38581.jpg",
+        "alt": "shinigami-alice"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

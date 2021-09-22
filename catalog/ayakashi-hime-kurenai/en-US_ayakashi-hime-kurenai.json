@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Hime Kurenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180932.jpg",
+        "alt": "ayakashi-hime-kurenai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

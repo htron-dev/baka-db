@@ -1,5 +1,9 @@
 {
     "title": "Uchurei!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/56355.jpg",
+        "alt": "uchurei"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ウチュレイ！",

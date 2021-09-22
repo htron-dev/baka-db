@@ -1,5 +1,9 @@
 {
     "title": "Elf Yu Tsukaraba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210605.jpg",
+        "alt": "elf-yu-tsukaraba"
+    },
     "type": "manga",
     "original_name": "エルフ湯つからば",
     "start_date": "2016-04-22",

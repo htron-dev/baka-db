@@ -1,5 +1,9 @@
 {
     "title": "Mote ne!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63181.jpg",
+        "alt": "mote-ne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

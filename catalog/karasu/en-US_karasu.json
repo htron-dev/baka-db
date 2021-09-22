@@ -1,5 +1,9 @@
 {
     "title": "Karasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64747.jpg",
+        "alt": "karasu"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "鴉",

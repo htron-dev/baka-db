@@ -1,5 +1,9 @@
 {
     "title": "Mahou Senshi Louie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/14045.jpg",
+        "alt": "mahou-senshi-louie"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "魔法戦士リウイ",

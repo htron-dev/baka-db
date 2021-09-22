@@ -1,5 +1,9 @@
 {
     "title": "New Tokyo Ondo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/74479.jpg",
+        "alt": "new-tokyo-ondo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ニュ～東京音頭",

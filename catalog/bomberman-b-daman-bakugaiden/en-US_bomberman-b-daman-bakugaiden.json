@@ -1,5 +1,9 @@
 {
     "title": "Bomberman B-Daman Bakugaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35103.jpg",
+        "alt": "bomberman-b-daman-bakugaiden"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "B ビーダマン爆外伝",

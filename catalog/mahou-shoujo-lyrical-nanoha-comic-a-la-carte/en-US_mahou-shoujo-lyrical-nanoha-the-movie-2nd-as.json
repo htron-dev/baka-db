@@ -1,10 +1,14 @@
 {
     "title": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1511/94432.jpg",
+        "alt": "mahou-shoujo-lyrical-nanoha-the-movie-2nd-as"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "魔法少女リリカルなのは The MOVIE 2nd A's",
     "start_date": "2012-07-14",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hohoemi no Plumage\" by Tamura Yukari",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

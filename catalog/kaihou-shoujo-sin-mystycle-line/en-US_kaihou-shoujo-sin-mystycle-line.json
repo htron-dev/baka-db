@@ -1,5 +1,9 @@
 {
     "title": "Kaihou Shoujo SIN: Mystycle Line",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139513.jpg",
+        "alt": "kaihou-shoujo-sin-mystycle-line"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

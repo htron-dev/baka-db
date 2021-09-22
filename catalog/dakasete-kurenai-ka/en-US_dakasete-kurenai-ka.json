@@ -1,5 +1,9 @@
 {
     "title": "Dakasete Kurenai ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163513.jpg",
+        "alt": "dakasete-kurenai-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

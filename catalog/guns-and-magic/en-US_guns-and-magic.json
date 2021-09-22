@@ -1,5 +1,9 @@
 {
     "title": "Guns and Magic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132081.jpg",
+        "alt": "guns-and-magic"
+    },
     "type": "light-novel",
     "original_name": "ガンズ・アンド・マジック",
     "start_date": "2014-07-10",

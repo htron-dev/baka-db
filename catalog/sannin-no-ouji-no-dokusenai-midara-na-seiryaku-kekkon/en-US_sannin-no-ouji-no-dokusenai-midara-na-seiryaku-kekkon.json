@@ -1,8 +1,12 @@
 {
     "title": "Sannin no Ouji no Dokusenai: Midara na Seiryaku Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182633.jpg",
+        "alt": "sannin-no-ouji-no-dokusenai-midara-na-seiryaku-kekkon"
+    },
     "type": "light-novel",
     "volumes": "1",
-    "original_name": "三人の王子の独占愛",
+    "original_name": "三人の王子の独占愛: みだらな政略結婚",
     "start_date": "2016-09-20",
     "tags": [
         "romance",

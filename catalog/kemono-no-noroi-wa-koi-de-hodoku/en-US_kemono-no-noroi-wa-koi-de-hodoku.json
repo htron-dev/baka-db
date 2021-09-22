@@ -1,5 +1,9 @@
 {
     "title": "Kemono no Noroi wa Koi de Hodoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246544.jpg",
+        "alt": "kemono-no-noroi-wa-koi-de-hodoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

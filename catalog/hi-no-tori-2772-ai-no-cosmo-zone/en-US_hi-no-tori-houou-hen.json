@@ -1,5 +1,9 @@
 {
     "title": "Hi no Tori: Houou-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/61253.jpg",
+        "alt": "hi-no-tori-houou-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "火の鳥　鳳凰編",

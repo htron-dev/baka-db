@@ -1,5 +1,9 @@
 {
     "title": "Kuyashii Kurai, Suki.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206379.jpg",
+        "alt": "kuyashii-kurai-suki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

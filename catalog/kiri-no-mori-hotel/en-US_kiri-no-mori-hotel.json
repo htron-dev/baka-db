@@ -1,5 +1,9 @@
 {
     "title": "Kiri-no-Mori Hotel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134169.jpg",
+        "alt": "kiri-no-mori-hotel"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

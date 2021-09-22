@@ -1,5 +1,9 @@
 {
     "title": "Shakai Futekigousha no Ana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200438.jpg",
+        "alt": "shakai-futekigousha-no-ana"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

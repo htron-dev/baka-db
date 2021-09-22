@@ -1,5 +1,9 @@
 {
     "title": "Mi Duo De Tuya Riji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1871/115600.jpg",
+        "alt": "mi-duo-de-tuya-riji"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "米多的涂鸦日记",

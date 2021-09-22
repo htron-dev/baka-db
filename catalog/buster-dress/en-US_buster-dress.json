@@ -1,5 +1,9 @@
 {
     "title": "Buster Dress",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181999.jpg",
+        "alt": "buster-dress"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

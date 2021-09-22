@@ -1,5 +1,9 @@
 {
     "title": "Happiness",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161562.jpg",
+        "alt": "happiness"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "50",

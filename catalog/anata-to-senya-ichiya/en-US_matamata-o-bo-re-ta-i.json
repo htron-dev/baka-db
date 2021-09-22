@@ -1,5 +1,9 @@
 {
     "title": "Matamata O-bo-re-ta-i",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183116.jpg",
+        "alt": "matamata-o-bo-re-ta-i"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

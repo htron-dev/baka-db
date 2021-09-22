@@ -1,5 +1,9 @@
 {
     "title": "Jijo Eiyuuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134601.jpg",
+        "alt": "jijo-eiyuuden"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Majogari no Libercinis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210927.jpg",
+        "alt": "majogari-no-libercinis"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

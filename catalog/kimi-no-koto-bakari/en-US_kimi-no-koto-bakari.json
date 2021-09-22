@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Koto Bakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65135.jpg",
+        "alt": "kimi-no-koto-bakari"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "君のことばかり",

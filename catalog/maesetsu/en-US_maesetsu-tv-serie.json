@@ -1,11 +1,15 @@
 {
     "title": "Maesetsu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1625/114783.jpg",
+        "alt": "maesetsu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "まえせつ!",
     "start_date": "2020-10-11",
     "end_date": "2020-10-11",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Sign (サイン)\" by Fubuki Kitakaze (Aguri Oonishi), Mafuyu Kogarashi (Naomi Oozora), Rin Araya (Hirome Igarashi), Nayuta Asougi (Sakura Nakamura) (ep 1)",
     "ending_song": "\"Ikagawashii Viking (いかがわしいバイキング)\" by Fubuki Kitakaze (Aguri Oonishi), Mafuyu Kogarashi (Naomi Oozora), Rin Araya (Hirome Igarashi), Nayuta Asougi (Sakura Nakamura)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Muv-Luv Alternative: Total Eclipse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135579.jpg",
+        "alt": "muv-luv-alternative-total-eclipse"
+    },
     "type": "light-novel",
     "original_name": "マブラヴ オルタネイティヴ トータル・イクリプス",
     "start_date": "2007-12-25",

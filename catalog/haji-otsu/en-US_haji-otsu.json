@@ -1,5 +1,9 @@
 {
     "title": "HajiOtsu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183079.jpg",
+        "alt": "haji-otsu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "Komisch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11781.jpg",
+        "alt": "komisch"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "コーミッシュ",

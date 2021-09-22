@@ -1,5 +1,9 @@
 {
     "title": "Hitoribocchi no Ookami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231896.jpg",
+        "alt": "hitoribocchi-no-ookami"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ひとりぼっちの狼",

@@ -1,5 +1,9 @@
 {
     "title": "Kamisama Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/2566.jpg",
+        "alt": "kamisama-kazoku"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "神様家族",

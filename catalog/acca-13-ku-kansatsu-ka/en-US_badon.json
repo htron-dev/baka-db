@@ -1,5 +1,9 @@
 {
     "title": "Badon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225930.jpg",
+        "alt": "badon"
+    },
     "type": "manga",
     "original_name": "BADON",
     "start_date": "2019-01-25",

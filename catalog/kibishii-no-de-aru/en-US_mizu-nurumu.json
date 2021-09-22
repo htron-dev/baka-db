@@ -1,5 +1,9 @@
 {
     "title": "Mizu Nurumu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/249350.jpg",
+        "alt": "mizu-nurumu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

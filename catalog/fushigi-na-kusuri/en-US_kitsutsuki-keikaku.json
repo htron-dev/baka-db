@@ -1,5 +1,9 @@
 {
     "title": "Kitsutsuki Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/36693.jpg",
+        "alt": "kitsutsuki-keikaku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キツツキ計画",

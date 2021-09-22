@@ -1,5 +1,9 @@
 {
     "title": "Hisho wa Shachou ni Kudokareru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3033.jpg",
+        "alt": "hisho-wa-shachou-ni-kudokareru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

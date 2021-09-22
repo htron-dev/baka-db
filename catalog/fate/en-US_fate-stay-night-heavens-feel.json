@@ -1,5 +1,9 @@
 {
     "title": "Fate/stay night: Heaven's Feel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159383.jpg",
+        "alt": "fate-stay-night-heavens-feel"
+    },
     "type": "manga",
     "original_name": "Fate/stay night [Heaven's Feel]",
     "start_date": "2015-05-02",

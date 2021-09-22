@@ -1,5 +1,9 @@
 {
     "title": "Kanojo ga Cafe ni Iru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219475.jpg",
+        "alt": "kanojo-ga-cafe-ni-iru"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "彼女がカフェにいる",

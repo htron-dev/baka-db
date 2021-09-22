@@ -1,5 +1,9 @@
 {
     "title": "Yarechau♥Salesman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161277.jpg",
+        "alt": "yarechau♥-salesman"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "45",

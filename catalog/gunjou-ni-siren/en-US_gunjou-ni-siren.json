@@ -1,5 +1,9 @@
 {
     "title": "Gunjou ni Siren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168246.jpg",
+        "alt": "gunjou-ni-siren"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "52",

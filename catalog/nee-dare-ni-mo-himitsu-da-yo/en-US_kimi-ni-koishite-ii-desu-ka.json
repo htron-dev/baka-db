@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Koishite Ii desu ka.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96901.jpg",
+        "alt": "kimi-ni-koishite-ii-desu-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

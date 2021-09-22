@@ -1,5 +1,9 @@
 {
     "title": "Onnanoko no Fu-shi-gi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28366.jpg",
+        "alt": "onnanoko-no-fu-shi-gi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "女の子の不・思・議",

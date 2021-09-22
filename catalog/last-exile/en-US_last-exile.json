@@ -1,5 +1,9 @@
 {
     "title": "Last Exile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/10888.jpg",
+        "alt": "last-exile"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "LAST EXILE（ラストエグザイル）",

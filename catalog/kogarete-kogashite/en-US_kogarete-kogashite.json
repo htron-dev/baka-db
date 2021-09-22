@@ -1,5 +1,9 @@
 {
     "title": "Kogarete Kogashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236270.jpg",
+        "alt": "kogarete-kogashite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

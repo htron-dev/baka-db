@@ -1,5 +1,9 @@
 {
     "title": "Histoire d'Etty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/59887.jpg",
+        "alt": "histoire-d-etty"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "histoire d`Etty エティーのものがたり",

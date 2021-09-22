@@ -1,5 +1,9 @@
 {
     "title": "Kiss yori mo Hayaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/111965.jpg",
+        "alt": "kiss-yori-mo-hayaku"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "58",

@@ -1,5 +1,9 @@
 {
     "title": "Natsuyuki Rendezvous",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179063.jpg",
+        "alt": "natsuyuki-rendezvous"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

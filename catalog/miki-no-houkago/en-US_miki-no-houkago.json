@@ -1,5 +1,9 @@
 {
     "title": "Miki no Houkago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162298.jpg",
+        "alt": "miki-no-houkago"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

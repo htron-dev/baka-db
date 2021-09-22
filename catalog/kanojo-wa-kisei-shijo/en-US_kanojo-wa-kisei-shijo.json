@@ -1,5 +1,9 @@
 {
     "title": "Kanojo wa Kisei Shijo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164642.jpg",
+        "alt": "kanojo-wa-kisei-shijo"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "彼女は帰星子女",

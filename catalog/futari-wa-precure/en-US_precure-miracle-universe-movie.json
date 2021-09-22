@@ -1,5 +1,9 @@
 {
     "title": "Precure Miracle Universe Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1908/97981.jpg",
+        "alt": "precure-miracle-universe-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画プリキュアミラクルユニバース",

@@ -1,5 +1,9 @@
 {
     "title": "Pipi Tobenai Hotaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/53081.jpg",
+        "alt": "pipi-tobenai-hotaru"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Pipi とべないホタル",

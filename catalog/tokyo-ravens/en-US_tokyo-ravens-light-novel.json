@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ravens",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150362.jpg",
+        "alt": "tokyo-ravens"
+    },
     "type": "light-novel",
     "original_name": "東京レイヴンズ",
     "start_date": "2010-05-25",

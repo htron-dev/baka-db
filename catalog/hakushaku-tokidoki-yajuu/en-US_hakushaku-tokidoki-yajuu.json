@@ -1,5 +1,9 @@
 {
     "title": "Hakushaku Tokidoki Yajuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195768.jpg",
+        "alt": "hakushaku-tokidoki-yajuu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "伯爵ときどき野獣",

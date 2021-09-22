@@ -1,5 +1,9 @@
 {
     "title": "Techigai desu ga, Heroine desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201108.jpg",
+        "alt": "techigai-desu-ga-heroine-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

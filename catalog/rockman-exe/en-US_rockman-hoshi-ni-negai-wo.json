@@ -1,5 +1,9 @@
 {
     "title": "Rockman Hoshi ni Negai wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/30310.jpg",
+        "alt": "rockman-hoshi-ni-negai-wo"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ロックマン星に願いを",

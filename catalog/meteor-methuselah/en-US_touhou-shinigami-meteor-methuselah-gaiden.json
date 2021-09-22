@@ -1,5 +1,9 @@
 {
     "title": "Touhou Shinigami: Meteor Methuselah Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14629.jpg",
+        "alt": "touhou-shinigami-meteor-methuselah-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

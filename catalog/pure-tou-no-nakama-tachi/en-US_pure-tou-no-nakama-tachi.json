@@ -1,5 +1,9 @@
 {
     "title": "Pure-tou no Nakama-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/47013.jpg",
+        "alt": "pure-tou-no-nakama-tachi"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "セレンディピティ物語 ピュア島の仲間たち",

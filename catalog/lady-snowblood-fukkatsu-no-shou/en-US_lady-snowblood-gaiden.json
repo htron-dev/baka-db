@@ -1,5 +1,9 @@
 {
     "title": "Lady Snowblood - Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32590.jpg",
+        "alt": "lady-snowblood-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

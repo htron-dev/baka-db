@@ -1,5 +1,9 @@
 {
     "title": "Yaoyoro!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177132.jpg",
+        "alt": "yaoyoro"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "やおよろっ!",

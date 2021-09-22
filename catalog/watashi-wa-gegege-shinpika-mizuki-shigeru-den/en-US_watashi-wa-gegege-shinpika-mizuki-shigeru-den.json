@@ -1,5 +1,9 @@
 {
     "title": "Watashi wa Gegege - Shinpika Mizuki Shigeru Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35921.jpg",
+        "alt": "watashi-wa-gegege-shinpika-mizuki-shigeru-den"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "2DK, G Pen, Mezamashidokei.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158983.jpg",
+        "alt": "2-dk-g-pen-mezamashidokei"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "45",

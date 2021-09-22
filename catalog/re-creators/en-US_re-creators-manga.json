@@ -1,9 +1,13 @@
 {
     "title": "Re:Creators",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199589.jpg",
+        "alt": "re-creators"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",
-    "original_name": "Re",
+    "original_name": "Re:CREATORS",
     "start_date": "2017-04-19",
     "end_date": "2017-04-19",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Ookami-san to Eroi Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220955.jpg",
+        "alt": "ookami-san-to-eroi-koto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

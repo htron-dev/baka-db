@@ -1,5 +1,9 @@
 {
     "title": "Koiami: Midori no Hitomi ni Miserarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192953.jpg",
+        "alt": "koiami-midori-no-hitomi-ni-miserarete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Hana no Aru Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/74069.jpg",
+        "alt": "hana-no-aru-seikatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

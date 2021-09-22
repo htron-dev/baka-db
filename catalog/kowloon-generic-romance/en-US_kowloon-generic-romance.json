@@ -1,5 +1,9 @@
 {
     "title": "Kowloon Generic Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227283.jpg",
+        "alt": "kowloon-generic-romance"
+    },
     "type": "manga",
     "original_name": "九龍ジェネリックロマンス",
     "start_date": "2019-11-07",

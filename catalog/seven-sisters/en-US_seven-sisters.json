@@ -1,5 +1,9 @@
 {
     "title": "Seven Sisters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188874.jpg",
+        "alt": "seven-sisters"
+    },
     "type": "manga",
     "original_name": "セブンシスターズ",
     "start_date": "2011-06-27",

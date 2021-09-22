@@ -1,5 +1,9 @@
 {
     "title": "Odai wa Kekkou desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236364.jpg",
+        "alt": "odai-wa-kekkou-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

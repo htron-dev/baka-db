@@ -1,5 +1,9 @@
 {
     "title": "Jin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159859.jpg",
+        "alt": "jin"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "137",

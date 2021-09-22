@@ -1,5 +1,9 @@
 {
     "title": "Ikemasen Ojousama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175412.jpg",
+        "alt": "ikemasen-ojousama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

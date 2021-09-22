@@ -1,5 +1,9 @@
 {
     "title": "Shen Shou Jin Gang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1084/106398.jpg",
+        "alt": "shen-shou-jin-gang"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "神兽金刚",

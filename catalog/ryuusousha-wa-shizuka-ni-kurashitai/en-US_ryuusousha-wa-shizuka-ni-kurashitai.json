@@ -1,5 +1,9 @@
 {
     "title": "Ryuusousha wa Shizuka ni Kurashitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198182.jpg",
+        "alt": "ryuusousha-wa-shizuka-ni-kurashitai"
+    },
     "type": "light-novel",
     "original_name": "竜操者は静かに暮らしたい",
     "start_date": "2017-06-23",

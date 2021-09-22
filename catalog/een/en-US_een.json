@@ -1,5 +1,9 @@
 {
     "title": "Een",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1185/108018.jpg",
+        "alt": "een"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "えーん",

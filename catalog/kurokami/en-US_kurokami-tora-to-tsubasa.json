@@ -1,5 +1,9 @@
 {
     "title": "Kurokami: Tora to Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/23018.jpg",
+        "alt": "kurokami-tora-to-tsubasa"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "黒神",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Black_God_(manga"
+            "link": "http://en.wikipedia.org/wiki/Black_God_%28manga%29"
         }
     ]
 }

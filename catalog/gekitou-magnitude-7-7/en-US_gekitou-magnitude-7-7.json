@@ -1,5 +1,9 @@
 {
     "title": "Gekitou Magnitude 7.7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177203.jpg",
+        "alt": "gekitou-magnitude-7-7"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

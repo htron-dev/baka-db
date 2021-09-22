@@ -1,5 +1,9 @@
 {
     "title": "DJ Nobunaga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/87299.jpg",
+        "alt": "dj-nobunaga"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "DJ ノブナガ",

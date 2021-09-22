@@ -1,5 +1,9 @@
 {
     "title": "Hikari no Pansy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66813.jpg",
+        "alt": "hikari-no-pansy"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "54",

@@ -1,5 +1,9 @@
 {
     "title": "Angel Cop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1377/110296.jpg",
+        "alt": "angel-cop"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "エンジェルコップ",

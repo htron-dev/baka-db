@@ -1,5 +1,9 @@
 {
     "title": "Tamachen!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160766.jpg",
+        "alt": "tamachen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

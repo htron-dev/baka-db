@@ -1,5 +1,9 @@
 {
     "title": "Osoba de Misasete!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22339.jpg",
+        "alt": "osoba-de-misasete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

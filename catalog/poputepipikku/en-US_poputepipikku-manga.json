@@ -1,5 +1,9 @@
 {
     "title": "Poputepipikku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169121.jpg",
+        "alt": "poputepipikku"
+    },
     "type": "manga",
     "original_name": "ポプテピピック",
     "start_date": "2014-08-29",

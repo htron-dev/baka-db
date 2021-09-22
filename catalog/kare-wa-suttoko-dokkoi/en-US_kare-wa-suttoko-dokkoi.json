@@ -1,5 +1,9 @@
 {
     "title": "Kare wa Suttoko Dokkoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72155.jpg",
+        "alt": "kare-wa-suttoko-dokkoi"
+    },
     "type": "manga",
     "original_name": "彼はすっとこどっ恋",
     "start_date": "2009-03-31",

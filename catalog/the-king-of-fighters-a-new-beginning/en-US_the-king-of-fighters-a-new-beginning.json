@@ -1,5 +1,9 @@
 {
     "title": "The King of Fighters: A New Beginning",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210389.jpg",
+        "alt": "the-king-of-fighters-a-new-beginning"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "31",

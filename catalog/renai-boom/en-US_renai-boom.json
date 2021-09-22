@@ -1,5 +1,9 @@
 {
     "title": "Renai Boom!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152215.jpg",
+        "alt": "renai-boom"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋愛ブーム!",

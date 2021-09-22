@@ -1,5 +1,9 @@
 {
     "title": "Hage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/66227.jpg",
+        "alt": "hage"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "はげ",

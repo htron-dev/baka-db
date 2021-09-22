@@ -1,5 +1,9 @@
 {
     "title": "Veritas",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/55069.jpg",
+        "alt": "veritas"
+    },
     "type": "manhwa",
     "volumes": "10",
     "chapters": "81",

@@ -1,5 +1,9 @@
 {
     "title": "Fate/Apocrypha Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1661/102468.jpg",
+        "alt": "fate-apocrypha-recaps"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "Fate/Apocrypha",

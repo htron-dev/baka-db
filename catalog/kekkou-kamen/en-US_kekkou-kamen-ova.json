@@ -1,5 +1,9 @@
 {
     "title": "Kekkou Kamen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/60049.jpg",
+        "alt": "kekkou-kamen"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "けっこう仮面",

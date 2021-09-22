@@ -1,5 +1,9 @@
 {
     "title": "Deatte Hitotsuki de Zecchou Jorei! @comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243458.jpg",
+        "alt": "deatte-hitotsuki-de-zecchou-jorei-comic"
+    },
     "type": "manga",
     "original_name": "出会ってひと突きで絶頂除霊！@comic",
     "start_date": "2020-03-28",

@@ -1,5 +1,9 @@
 {
     "title": "School Jack=Gunsmoke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199713.jpg",
+        "alt": "school-jack-gunsmoke"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Oren's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217098.jpg",
+        "alt": "orens"
+    },
     "type": "manga",
     "original_name": "OREN'S オーレンズ",
     "start_date": "2015-09-01",

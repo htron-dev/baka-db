@@ -1,5 +1,9 @@
 {
     "title": "Rescue YoYo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/70837.jpg",
+        "alt": "rescue-yo-yo"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "レスキュー YoYo",

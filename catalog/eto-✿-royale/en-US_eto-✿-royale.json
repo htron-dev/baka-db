@@ -1,5 +1,9 @@
 {
     "title": "Eto✿Royale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191900.jpg",
+        "alt": "eto-✿-royale"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

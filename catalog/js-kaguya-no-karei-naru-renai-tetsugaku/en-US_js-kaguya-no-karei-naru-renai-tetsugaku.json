@@ -1,5 +1,9 @@
 {
     "title": "JS Kaguya no Karei naru Renai Tetsugaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178459.jpg",
+        "alt": "js-kaguya-no-karei-naru-renai-tetsugaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

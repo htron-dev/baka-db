@@ -1,5 +1,9 @@
 {
     "title": "Digimon Adventure 02: Diablomon no Gyakushuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/82620.jpg",
+        "alt": "digimon-adventure-02-diablomon-no-gyakushuu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "デジモンアドベンチャー 02 ディアボロモンの逆襲",

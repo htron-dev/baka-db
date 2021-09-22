@@ -1,5 +1,9 @@
 {
     "title": "Ashita wa Docchi da!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186033.jpg",
+        "alt": "ashita-wa-docchi-da"
+    },
     "type": "manga",
     "original_name": "明日はどっちだ！",
     "start_date": "2015-03-31",

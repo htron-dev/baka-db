@@ -1,5 +1,9 @@
 {
     "title": "The Great Catsby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/105607.jpg",
+        "alt": "the-great-catsby"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "72",

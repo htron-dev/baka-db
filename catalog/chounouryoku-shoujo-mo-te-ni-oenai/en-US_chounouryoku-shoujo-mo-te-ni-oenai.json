@@ -1,5 +1,9 @@
 {
     "title": "Chounouryoku Shoujo mo Te ni Oenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208940.jpg",
+        "alt": "chounouryoku-shoujo-mo-te-ni-oenai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

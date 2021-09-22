@@ -1,5 +1,9 @@
 {
     "title": "Ikimono System",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157433.jpg",
+        "alt": "ikimono-system"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "イキモノシステム",

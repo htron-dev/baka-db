@@ -1,5 +1,9 @@
 {
     "title": "Futsuu no Koiko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179262.jpg",
+        "alt": "futsuu-no-koiko-chan"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "84",

@@ -1,5 +1,9 @@
 {
     "title": "Casino Gui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246948.jpg",
+        "alt": "casino-gui"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

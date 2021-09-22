@@ -1,5 +1,9 @@
 {
     "title": "Keppuu no Legends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164590.jpg",
+        "alt": "keppuu-no-legends"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

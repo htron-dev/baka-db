@@ -1,5 +1,9 @@
 {
     "title": "Chuunibyou demo Koi ga Shitai! Ren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/56643.jpg",
+        "alt": "chuunibyou-demo-koi-ga-shitai-ren"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "中二病でも恋がしたい！戀",

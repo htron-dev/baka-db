@@ -1,5 +1,9 @@
 {
     "title": "Andalusia no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137917.jpg",
+        "alt": "andalusia-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

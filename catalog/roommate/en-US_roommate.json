@@ -1,5 +1,9 @@
 {
     "title": "Roommate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18234.jpg",
+        "alt": "roommate"
+    },
     "type": "manhwa",
     "volumes": "11",
     "original_name": "룸메이트",

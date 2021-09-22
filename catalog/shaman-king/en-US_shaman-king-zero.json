@@ -1,5 +1,9 @@
 {
     "title": "Shaman King Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/97167.jpg",
+        "alt": "shaman-king-zero"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

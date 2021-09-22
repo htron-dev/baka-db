@@ -1,5 +1,9 @@
 {
     "title": "Wan Jie Du Zun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1571/114240.jpg",
+        "alt": "wan-jie-du-zun"
+    },
     "type": "ona",
     "episodes": "50",
     "original_name": "万界独尊",

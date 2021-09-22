@@ -1,5 +1,9 @@
 {
     "title": "Kako e no Tabibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/47885.jpg",
+        "alt": "kako-e-no-tabibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

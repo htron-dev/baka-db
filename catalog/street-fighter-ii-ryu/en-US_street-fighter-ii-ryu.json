@@ -1,5 +1,9 @@
 {
     "title": "Street Fighter II: Ryu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126837.jpg",
+        "alt": "street-fighter-ii-ryu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

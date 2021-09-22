@@ -1,5 +1,9 @@
 {
     "title": "Kachikachi Yama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1889/101187.jpg",
+        "alt": "kachikachi-yama"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "カチカチ山",

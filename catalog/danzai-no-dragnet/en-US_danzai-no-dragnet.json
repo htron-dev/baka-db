@@ -1,5 +1,9 @@
 {
     "title": "Danzai no Dragnet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224325.jpg",
+        "alt": "danzai-no-dragnet"
+    },
     "type": "manga",
     "original_name": "断罪のドラグネット",
     "start_date": "2018-01-24",

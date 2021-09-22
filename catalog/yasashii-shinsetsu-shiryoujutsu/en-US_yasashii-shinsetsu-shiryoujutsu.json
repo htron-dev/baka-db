@@ -1,5 +1,9 @@
 {
     "title": "Yasashii Shinsetsu Shiryoujutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235918.jpg",
+        "alt": "yasashii-shinsetsu-shiryoujutsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

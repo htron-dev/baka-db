@@ -1,5 +1,9 @@
 {
     "title": "Kocchi Muite, Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174080.jpg",
+        "alt": "kocchi-muite-ai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

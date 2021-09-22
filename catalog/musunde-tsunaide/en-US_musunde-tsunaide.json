@@ -1,5 +1,9 @@
 {
     "title": "Musunde, Tsunaide.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226913.jpg",
+        "alt": "musunde-tsunaide"
+    },
     "type": "manga",
     "original_name": "むすんで、つないで。",
     "start_date": "2019-06-08",

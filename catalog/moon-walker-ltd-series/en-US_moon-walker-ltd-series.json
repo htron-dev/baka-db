@@ -1,5 +1,9 @@
 {
     "title": "Moon Walker LTD. Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37498.jpg",
+        "alt": "moon-walker-ltd-series"
+    },
     "type": "manga",
     "chapters": "3",
     "start_date": "2010-10-25",

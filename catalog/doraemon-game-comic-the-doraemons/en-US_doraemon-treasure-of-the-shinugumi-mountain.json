@@ -1,5 +1,9 @@
 {
     "title": "Doraemon: Treasure of the Shinugumi Mountain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/57847.jpg",
+        "alt": "doraemon-treasure-of-the-shinugumi-mountain"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ドラえもん　死神山の宝物",

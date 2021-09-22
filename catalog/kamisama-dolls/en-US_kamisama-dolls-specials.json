@@ -1,5 +1,9 @@
 {
     "title": "Kamisama Dolls Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/32717.jpg",
+        "alt": "kamisama-dolls-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "神様ドォルズ",

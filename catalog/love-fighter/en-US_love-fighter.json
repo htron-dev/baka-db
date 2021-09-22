@@ -1,5 +1,9 @@
 {
     "title": "Love Fighter!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10730.jpg",
+        "alt": "love-fighter"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Helmut",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/80863.jpg",
+        "alt": "helmut"
+    },
     "type": "manhwa",
     "volumes": "4",
     "original_name": "헬무트",

@@ -1,5 +1,9 @@
 {
     "title": "Hagure Yuusha no Aesthetica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167649.jpg",
+        "alt": "hagure-yuusha-no-aesthetica"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

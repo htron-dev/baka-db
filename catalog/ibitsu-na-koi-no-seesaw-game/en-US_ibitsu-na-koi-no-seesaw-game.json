@@ -1,5 +1,9 @@
 {
     "title": "Ibitsu na Koi no Seesaw Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193252.jpg",
+        "alt": "ibitsu-na-koi-no-seesaw-game"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Ie ni Oide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159611.jpg",
+        "alt": "boku-no-ie-ni-oide"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "僕の家においで",

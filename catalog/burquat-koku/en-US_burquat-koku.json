@@ -1,5 +1,9 @@
 {
     "title": "Burquat-koku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237957.jpg",
+        "alt": "burquat-koku"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ブルクワット国",

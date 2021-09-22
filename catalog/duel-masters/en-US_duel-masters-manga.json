@@ -1,5 +1,9 @@
 {
     "title": "Duel Masters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27925.jpg",
+        "alt": "duel-masters"
+    },
     "type": "manga",
     "volumes": "17",
     "original_name": "デュエル・マスターズ",

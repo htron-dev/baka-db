@@ -1,12 +1,16 @@
 {
     "title": "Bessatsu Olympia Kyklos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1783/113441.jpg",
+        "alt": "bessatsu-olympia-kyklos"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "別冊オリンピア・キュクロス",
     "start_date": "2020-04-20",
     "end_date": "2020-04-20",
     "opening_song": "\"William Tell Overture\" by Jin Katagiri & Akihito Hayashi",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Kimi wa Hellenes (君はヘレネス)\" by Akito Hayashi (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

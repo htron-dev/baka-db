@@ -1,5 +1,9 @@
 {
     "title": "Izakaya no Ichiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/15832.jpg",
+        "alt": "izakaya-no-ichiya"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "居酒屋の一夜",

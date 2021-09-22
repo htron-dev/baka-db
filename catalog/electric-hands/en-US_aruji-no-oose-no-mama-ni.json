@@ -1,5 +1,9 @@
 {
     "title": "Aruji no Oose no Mama ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21390.jpg",
+        "alt": "aruji-no-oose-no-mama-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

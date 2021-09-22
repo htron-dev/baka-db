@@ -1,5 +1,9 @@
 {
     "title": "Uchikudakareta Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131059.jpg",
+        "alt": "uchikudakareta-ai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "打ち砕かれた愛",

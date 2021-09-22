@@ -1,5 +1,9 @@
 {
     "title": "Kirschblüte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162098.jpg",
+        "alt": "kirschblute"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "桜ノ国～キルシュブリューテ～",

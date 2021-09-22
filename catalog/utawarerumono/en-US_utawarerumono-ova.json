@@ -1,5 +1,9 @@
 {
     "title": "Utawarerumono OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/46847.jpg",
+        "alt": "utawarerumono-ova"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "OVA うたわれるもの",

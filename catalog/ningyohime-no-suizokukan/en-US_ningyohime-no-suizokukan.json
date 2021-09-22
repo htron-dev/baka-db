@@ -1,5 +1,9 @@
 {
     "title": "Ningyohime no Suizokukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192252.jpg",
+        "alt": "ningyohime-no-suizokukan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

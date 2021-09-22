@@ -1,5 +1,9 @@
 {
     "title": "Snack Akemi de Shikararete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239857.jpg",
+        "alt": "snack-akemi-de-shikararete"
+    },
     "type": "manga",
     "original_name": "スナックあけみでしかられて",
     "start_date": "2017-06-02",

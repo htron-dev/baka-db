@@ -1,5 +1,9 @@
 {
     "title": "A.F",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/9489.jpg",
+        "alt": "a-f"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Ａ.Ｆ",

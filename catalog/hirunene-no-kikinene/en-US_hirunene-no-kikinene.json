@@ -1,5 +1,9 @@
 {
     "title": "Hirunene no Kikinene",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163882.jpg",
+        "alt": "hirunene-no-kikinene"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

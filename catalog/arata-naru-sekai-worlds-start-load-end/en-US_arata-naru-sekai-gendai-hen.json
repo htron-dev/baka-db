@@ -1,5 +1,9 @@
 {
     "title": "Arata naru Sekai: Gendai-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78635.jpg",
+        "alt": "arata-naru-sekai-gendai-hen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

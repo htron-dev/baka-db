@@ -1,5 +1,9 @@
 {
     "title": "Tanin no Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35559.jpg",
+        "alt": "tanin-no-kankei"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "他人の関係",

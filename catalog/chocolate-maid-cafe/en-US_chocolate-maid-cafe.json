@@ -1,5 +1,9 @@
 {
     "title": "Chocolate - Maid Cafe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10982.jpg",
+        "alt": "chocolate-maid-cafe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Suki Dakara!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22631.jpg",
+        "alt": "kimi-ga-suki-dakara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

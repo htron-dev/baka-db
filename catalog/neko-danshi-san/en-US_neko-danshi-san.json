@@ -1,5 +1,9 @@
 {
     "title": "Neko Danshi-san!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245514.jpg",
+        "alt": "neko-danshi-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

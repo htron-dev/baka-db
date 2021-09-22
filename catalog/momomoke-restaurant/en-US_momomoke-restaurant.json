@@ -1,5 +1,9 @@
 {
     "title": "Momomoke Restaurant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188868.jpg",
+        "alt": "momomoke-restaurant"
+    },
     "type": "manga",
     "original_name": "ももも怪レストラン",
     "start_date": "2012-09-18",

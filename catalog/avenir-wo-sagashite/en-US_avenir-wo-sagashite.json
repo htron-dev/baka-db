@@ -1,5 +1,9 @@
 {
     "title": "Avenir wo Sagashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/89355.jpg",
+        "alt": "avenir-wo-sagashite"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "アベニールをさがして",

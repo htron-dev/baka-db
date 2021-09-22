@@ -1,5 +1,9 @@
 {
     "title": "Buzzer Beater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201886.jpg",
+        "alt": "buzzer-beater"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "80",

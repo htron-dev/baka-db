@@ -1,5 +1,9 @@
 {
     "title": "Samishisa no Shuuhasuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161583.jpg",
+        "alt": "samishisa-no-shuuhasuu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

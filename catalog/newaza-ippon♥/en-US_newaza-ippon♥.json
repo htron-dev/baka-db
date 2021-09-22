@@ -1,5 +1,9 @@
 {
     "title": "Newaza Ippon♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160723.jpg",
+        "alt": "newaza-ippon♥"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

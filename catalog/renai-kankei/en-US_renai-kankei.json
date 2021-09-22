@@ -1,5 +1,9 @@
 {
     "title": "Renai Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35448.jpg",
+        "alt": "renai-kankei"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋愛関係",

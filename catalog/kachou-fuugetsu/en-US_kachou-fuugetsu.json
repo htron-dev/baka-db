@@ -1,5 +1,9 @@
 {
     "title": "Kachou Fuugetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152348.jpg",
+        "alt": "kachou-fuugetsu"
+    },
     "type": "manga",
     "original_name": "花鳥風月",
     "start_date": "2011-08-12",

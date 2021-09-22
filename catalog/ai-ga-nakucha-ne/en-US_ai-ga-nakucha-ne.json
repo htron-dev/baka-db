@@ -1,5 +1,9 @@
 {
     "title": "Ai ga Nakucha ne!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19731.jpg",
+        "alt": "ai-ga-nakucha-ne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

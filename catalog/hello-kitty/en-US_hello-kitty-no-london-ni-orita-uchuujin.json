@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no London ni Orita Uchuujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/47811.jpg",
+        "alt": "hello-kitty-no-london-ni-orita-uchuujin"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのロンドンにおりた宇宙人",

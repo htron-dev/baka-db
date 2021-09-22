@@ -1,11 +1,15 @@
 {
     "title": "Getter Robo Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/56843.jpg",
+        "alt": "getter-robo-go"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ゲッターロボ號",
     "start_date": "1991-02-11",
     "end_date": "1991-02-11",
-    "opening_song": "#1",
+    "opening_song": "#1: \"21sseiki Shounen (21st Century Boy) (21 世紀少年[21st century boy])\" by Hiroyuki Takami (eps 1-14)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

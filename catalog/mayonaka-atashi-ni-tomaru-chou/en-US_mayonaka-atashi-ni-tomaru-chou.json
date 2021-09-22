@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka Atashi ni Tomaru Chou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146515.jpg",
+        "alt": "mayonaka-atashi-ni-tomaru-chou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,12 +1,16 @@
 {
     "title": "Ookami-san to Shichinin no Nakama-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75240.jpg",
+        "alt": "ookami-san-to-shichinin-no-nakama-tachi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "オオカミさんと七人の仲間たち",
     "start_date": "2010-07-01",
     "end_date": "2010-07-01",
     "opening_song": "\"Ready Go!\" by May'n (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ready Go!\" by May'n (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Ōkami-san_(light_novels"
+            "link": "http://en.wikipedia.org/wiki/Ōkami-san_%28light_novels%29"
         }
     ]
 }

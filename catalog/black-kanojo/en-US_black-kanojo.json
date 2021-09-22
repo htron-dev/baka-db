@@ -1,5 +1,9 @@
 {
     "title": "Black Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188808.jpg",
+        "alt": "black-kanojo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

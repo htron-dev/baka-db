@@ -1,11 +1,15 @@
 {
     "title": "Shingeki no Kyojin: Lost Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/89417.jpg",
+        "alt": "shingeki-no-kyojin-lost-girls"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "進撃の巨人 LOST GIRLS",
     "start_date": "2017-12-08",
     "end_date": "2017-12-08",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Call your name <Gv>\" by Gemie (eps 1, 2)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

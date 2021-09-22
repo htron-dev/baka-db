@@ -1,5 +1,9 @@
 {
     "title": "Blame Gakuen! And So On",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129687.jpg",
+        "alt": "blame-gakuen-and-so-on"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

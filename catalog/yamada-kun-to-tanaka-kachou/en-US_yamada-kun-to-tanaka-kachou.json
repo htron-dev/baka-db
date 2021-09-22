@@ -1,5 +1,9 @@
 {
     "title": "Yamada-kun to Tanaka Kachou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189629.jpg",
+        "alt": "yamada-kun-to-tanaka-kachou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

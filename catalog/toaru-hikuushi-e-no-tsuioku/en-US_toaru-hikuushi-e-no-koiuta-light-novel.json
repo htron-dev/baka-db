@@ -1,5 +1,9 @@
 {
     "title": "Toaru Hikuushi e no Koiuta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117315.jpg",
+        "alt": "toaru-hikuushi-e-no-koiuta"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "21",

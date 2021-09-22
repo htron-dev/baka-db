@@ -1,5 +1,9 @@
 {
     "title": "Area 88",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73005.jpg",
+        "alt": "area-88"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "172",

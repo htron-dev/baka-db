@@ -1,5 +1,9 @@
 {
     "title": "Mizuki Shigeru Youkai Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36325.jpg",
+        "alt": "mizuki-shigeru-youkai-collection"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

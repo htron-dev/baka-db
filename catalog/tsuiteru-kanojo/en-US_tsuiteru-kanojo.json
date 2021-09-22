@@ -1,5 +1,9 @@
 {
     "title": "Tsuiteru Kanojo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116355.jpg",
+        "alt": "tsuiteru-kanojo"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ツイテル彼女。",

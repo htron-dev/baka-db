@@ -1,5 +1,9 @@
 {
     "title": "Dakara Oshiete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158249.jpg",
+        "alt": "dakara-oshiete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "だからおしえて",

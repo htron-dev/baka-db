@@ -1,5 +1,9 @@
 {
     "title": "Neko Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225608.jpg",
+        "alt": "neko-kareshi"
+    },
     "type": "manga",
     "original_name": "猫彼氏",
     "start_date": "2016-08-31",

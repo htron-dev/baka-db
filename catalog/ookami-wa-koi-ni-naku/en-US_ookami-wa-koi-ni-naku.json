@@ -1,5 +1,9 @@
 {
     "title": "Ookami wa Koi ni Naku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178640.jpg",
+        "alt": "ookami-wa-koi-ni-naku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

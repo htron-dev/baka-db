@@ -1,5 +1,9 @@
 {
     "title": "Inu x Boku SS Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/41927.jpg",
+        "alt": "inu-x-boku-ss-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "妖狐 × 僕 SS",

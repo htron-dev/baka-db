@@ -1,5 +1,9 @@
 {
     "title": "018",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157058.jpg",
+        "alt": "018"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

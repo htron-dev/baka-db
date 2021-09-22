@@ -1,5 +1,9 @@
 {
     "title": "Millennium Mirage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3777.jpg",
+        "alt": "millennium-mirage"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

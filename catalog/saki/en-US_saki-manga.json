@@ -1,5 +1,9 @@
 {
     "title": "Saki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/50263.jpg",
+        "alt": "saki"
+    },
     "type": "manga",
     "original_name": "咲-Saki-",
     "start_date": "2006-02-03",

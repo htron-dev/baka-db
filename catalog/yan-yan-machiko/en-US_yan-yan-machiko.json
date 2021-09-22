@@ -1,5 +1,9 @@
 {
     "title": "YanYan Machiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/40785.jpg",
+        "alt": "yan-yan-machiko"
+    },
     "type": "ona",
     "episodes": "11",
     "original_name": "やんやんマチコ",

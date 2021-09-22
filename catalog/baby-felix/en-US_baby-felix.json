@@ -1,5 +1,9 @@
 {
     "title": "Baby Felix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/88777.jpg",
+        "alt": "baby-felix"
+    },
     "type": "tv-serie",
     "episodes": "65",
     "original_name": "ベイビーフィリックス",

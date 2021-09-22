@@ -1,5 +1,9 @@
 {
     "title": "Seseragi-sou no Kokoro-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206304.jpg",
+        "alt": "seseragi-sou-no-kokoro-chan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Dear, My God",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180882.jpg",
+        "alt": "dear-my-god"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

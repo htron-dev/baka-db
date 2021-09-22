@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online: Kirito no Aincrad Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192597.jpg",
+        "alt": "sword-art-online-kirito-no-aincrad-night"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Ninjala Episode 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1444/106767.jpg",
+        "alt": "ninjala-episode-0"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ニンジャラ エピソード０",

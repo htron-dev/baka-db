@@ -1,12 +1,16 @@
 {
     "title": "K",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/47607.jpg",
+        "alt": "k"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "K",
     "start_date": "2012-10-05",
     "end_date": "2012-10-05",
     "opening_song": "\"KINGS\" by angela",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tsumetai Heya, Hitori (冷たい部屋、一人)\" by Neko (Mikako Komatsu) (eps 2-5, 7-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/K_(anime"
+            "link": "http://en.wikipedia.org/wiki/K_%28anime%29"
         }
     ]
 }

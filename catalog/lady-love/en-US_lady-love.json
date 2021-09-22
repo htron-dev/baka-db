@@ -1,5 +1,9 @@
 {
     "title": "Lady Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96003.jpg",
+        "alt": "lady-love"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Muteki Eiyuu Esgaier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133571.jpg",
+        "alt": "muteki-eiyuu-esgaier"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

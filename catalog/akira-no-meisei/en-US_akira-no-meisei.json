@@ -1,5 +1,9 @@
 {
     "title": "Akira no Meisei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/97521.jpg",
+        "alt": "akira-no-meisei"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

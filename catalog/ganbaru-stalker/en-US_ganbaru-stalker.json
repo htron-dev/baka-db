@@ -1,5 +1,9 @@
 {
     "title": "Ganbaru! Stalker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151951.jpg",
+        "alt": "ganbaru-stalker"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

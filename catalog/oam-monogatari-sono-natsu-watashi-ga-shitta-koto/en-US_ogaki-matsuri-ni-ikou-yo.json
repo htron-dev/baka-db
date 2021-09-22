@@ -1,5 +1,9 @@
 {
     "title": "Ogaki Matsuri ni Ikou yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1425/106763.jpg",
+        "alt": "ogaki-matsuri-ni-ikou-yo"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "大垣まつりにいこうよ！",

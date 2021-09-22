@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Shoten e Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/88315.jpg",
+        "alt": "momoiro-shoten-e-youkoso"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "38",

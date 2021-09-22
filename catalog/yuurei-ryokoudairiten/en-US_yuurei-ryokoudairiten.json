@@ -1,5 +1,9 @@
 {
     "title": "Yuurei Ryokoudairiten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14572.jpg",
+        "alt": "yuurei-ryokoudairiten"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Chokotto Anime Kemono Friends 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1020/100375.jpg",
+        "alt": "chokotto-anime-kemono-friends-3"
+    },
     "type": "ona",
     "original_name": "ちょこっとアニメ けものフレンズ３",
     "start_date": "2019-04-02",

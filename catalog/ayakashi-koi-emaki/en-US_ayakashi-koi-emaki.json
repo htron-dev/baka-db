@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Koi Emaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204993.jpg",
+        "alt": "ayakashi-koi-emaki"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

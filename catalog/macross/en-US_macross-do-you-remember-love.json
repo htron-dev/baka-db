@@ -1,5 +1,9 @@
 {
     "title": "Macross: Do You Remember Love?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1080/107017.jpg",
+        "alt": "macross-do-you-remember-love"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "超時空要塞マクロス -愛・おぼえていますか-",

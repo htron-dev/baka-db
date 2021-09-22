@@ -1,5 +1,9 @@
 {
     "title": "Bazar dé Gozarre",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/70579.jpg",
+        "alt": "bazar-de-gozarre"
+    },
     "type": "special",
     "episodes": "33",
     "original_name": "バザールでござーる",

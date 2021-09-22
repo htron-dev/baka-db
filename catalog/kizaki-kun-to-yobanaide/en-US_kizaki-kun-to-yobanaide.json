@@ -1,5 +1,9 @@
 {
     "title": "Kizaki-kun to Yobanaide!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163416.jpg",
+        "alt": "kizaki-kun-to-yobanaide"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "木崎くんと呼ばないで!",

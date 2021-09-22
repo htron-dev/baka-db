@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Uchi wa Futsuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242421.jpg",
+        "alt": "watashi-no-uchi-wa-futsuu"
+    },
     "type": "manga",
     "original_name": "わたしの家はフツー",
     "start_date": "2020-09-23",

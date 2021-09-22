@@ -1,5 +1,9 @@
 {
     "title": "Shiawase no Katachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/26056.jpg",
+        "alt": "shiawase-no-katachi"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "しあわせのかたち",

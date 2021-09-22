@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Kakumeiden Mitsurugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33633.jpg",
+        "alt": "gakuen-kakumeiden-mitsurugi"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "学園革命伝 ミツルギ; 学園革命伝ミツルギ",

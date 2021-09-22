@@ -1,5 +1,9 @@
 {
     "title": "Osora de Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37076.jpg",
+        "alt": "osora-de-garden"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "おそらでガーデン",

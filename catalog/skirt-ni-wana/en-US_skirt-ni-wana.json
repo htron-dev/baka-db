@@ -1,5 +1,9 @@
 {
     "title": "Skirt ni Wana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210941.jpg",
+        "alt": "skirt-ni-wana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

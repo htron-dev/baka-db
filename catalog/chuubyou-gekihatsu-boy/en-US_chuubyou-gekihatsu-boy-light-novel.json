@@ -1,5 +1,9 @@
 {
     "title": "Chuubyou Gekihatsu Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234194.jpg",
+        "alt": "chuubyou-gekihatsu-boy"
+    },
     "type": "light-novel",
     "original_name": "厨病激発ボーイ",
     "start_date": "2016-01-01",

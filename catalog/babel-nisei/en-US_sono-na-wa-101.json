@@ -1,5 +1,9 @@
 {
     "title": "Sono Na wa 101",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/89963.jpg",
+        "alt": "sono-na-wa-101"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "13",

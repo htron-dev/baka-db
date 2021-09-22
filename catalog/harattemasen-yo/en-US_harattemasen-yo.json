@@ -1,5 +1,9 @@
 {
     "title": "Harattemasen yo?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/122531.jpg",
+        "alt": "harattemasen-yo"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "祓ってませんよ?",

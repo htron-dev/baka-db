@@ -1,5 +1,9 @@
 {
     "title": "Warui Koto, Zenbu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237158.jpg",
+        "alt": "warui-koto-zenbu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

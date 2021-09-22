@@ -1,5 +1,9 @@
 {
     "title": "Toaru Majutsu no Index",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176880.jpg",
+        "alt": "toaru-majutsu-no-index"
+    },
     "type": "light-novel",
     "volumes": "22",
     "chapters": "133",

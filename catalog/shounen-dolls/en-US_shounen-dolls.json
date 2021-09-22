@@ -1,5 +1,9 @@
 {
     "title": "Shounen Dolls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20982.jpg",
+        "alt": "shounen-dolls"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

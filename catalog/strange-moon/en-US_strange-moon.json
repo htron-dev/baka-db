@@ -1,5 +1,9 @@
 {
     "title": "Strange Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164704.jpg",
+        "alt": "strange-moon"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ストレンジムーン",

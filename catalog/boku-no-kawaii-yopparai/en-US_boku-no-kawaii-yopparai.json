@@ -1,5 +1,9 @@
 {
     "title": "Boku no Kawaii Yopparai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224672.jpg",
+        "alt": "boku-no-kawaii-yopparai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

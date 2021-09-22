@@ -1,5 +1,9 @@
 {
     "title": "The King of Fighters: Kyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155624.jpg",
+        "alt": "the-king-of-fighters-kyo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

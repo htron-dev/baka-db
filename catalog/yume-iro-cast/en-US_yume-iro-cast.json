@@ -1,5 +1,9 @@
 {
     "title": "Yume-iro Cast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237582.jpg",
+        "alt": "yume-iro-cast"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

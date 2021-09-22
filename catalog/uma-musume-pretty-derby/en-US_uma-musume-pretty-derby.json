@@ -1,5 +1,9 @@
 {
     "title": "Uma Musume: Pretty Derby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/83024.jpg",
+        "alt": "uma-musume-pretty-derby"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ウマ娘 プリティーダービー",

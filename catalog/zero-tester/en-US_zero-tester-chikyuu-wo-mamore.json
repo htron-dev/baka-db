@@ -1,11 +1,15 @@
 {
     "title": "Zero Tester: Chikyuu wo Mamore!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/26392.jpg",
+        "alt": "zero-tester-chikyuu-wo-mamore"
+    },
     "type": "tv-serie",
     "episodes": "28",
     "original_name": "ゼロテスター 地球を守れ!",
     "start_date": "1974-06-24",
     "end_date": "1974-06-24",
-    "opening_song": "\"Zero Tester",
+    "opening_song": "\"Zero Tester: Chikyuu wo Mamore! (ゼロテスター地球を守れ!)\" by Suginami Jidou Gasshoudan",
     "ending_song": "\"Chikyuu Yousai S-5 (地球要塞 S-5)\" by Royal Knights",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

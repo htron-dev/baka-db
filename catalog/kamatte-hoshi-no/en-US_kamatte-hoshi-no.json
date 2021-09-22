@@ -1,5 +1,9 @@
 {
     "title": "Kamatte Hoshi no?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143287.jpg",
+        "alt": "kamatte-hoshi-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

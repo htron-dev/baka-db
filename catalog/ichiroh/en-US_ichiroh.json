@@ -1,5 +1,9 @@
 {
     "title": "Ichiroh!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20572.jpg",
+        "alt": "ichiroh"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "イチロー！",

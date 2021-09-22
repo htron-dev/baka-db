@@ -1,5 +1,9 @@
 {
     "title": "Finder no Hyouteki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24979.jpg",
+        "alt": "finder-no-hyouteki"
+    },
     "type": "light-novel",
     "chapters": "1",
     "original_name": "ファインダーの標的",

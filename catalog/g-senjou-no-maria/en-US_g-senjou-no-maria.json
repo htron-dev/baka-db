@@ -1,5 +1,9 @@
 {
     "title": "G-Senjou no Maria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7005.jpg",
+        "alt": "g-senjou-no-maria"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

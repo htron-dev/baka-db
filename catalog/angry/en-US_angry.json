@@ -1,5 +1,9 @@
 {
     "title": "Angry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13728.jpg",
+        "alt": "angry"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "63",

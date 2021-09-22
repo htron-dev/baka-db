@@ -1,5 +1,9 @@
 {
     "title": "Shirobe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167320.jpg",
+        "alt": "shirobe"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

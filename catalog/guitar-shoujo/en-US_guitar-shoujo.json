@@ -1,5 +1,9 @@
 {
     "title": "Guitar Shoujo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/68483.jpg",
+        "alt": "guitar-shoujo"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ギター少女!",

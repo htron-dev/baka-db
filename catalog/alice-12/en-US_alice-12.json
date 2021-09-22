@@ -1,5 +1,9 @@
 {
     "title": "Alice 12",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156661.jpg",
+        "alt": "alice-12"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ALICE12",

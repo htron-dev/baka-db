@@ -1,5 +1,9 @@
 {
     "title": "Kurogane no Ido",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217819.jpg",
+        "alt": "kurogane-no-ido"
+    },
     "type": "manga",
     "original_name": "黒鐵のイド",
     "start_date": "2017-09-25",

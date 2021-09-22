@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169796.jpg",
+        "alt": "sayonara-note"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

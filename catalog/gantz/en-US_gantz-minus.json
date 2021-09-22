@@ -1,5 +1,9 @@
 {
     "title": "Gantz/Minus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203694.jpg",
+        "alt": "gantz-minus"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

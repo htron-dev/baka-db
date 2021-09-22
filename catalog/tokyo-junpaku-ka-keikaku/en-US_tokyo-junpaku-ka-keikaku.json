@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Junpaku-ka Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37263.jpg",
+        "alt": "tokyo-junpaku-ka-keikaku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "東京純白化計画",

@@ -1,5 +1,9 @@
 {
     "title": "Gekkan Ichinen Futagumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21551.jpg",
+        "alt": "gekkan-ichinen-futagumi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "月刊 1 年 2 組",

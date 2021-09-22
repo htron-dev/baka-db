@@ -1,5 +1,9 @@
 {
     "title": "Otona no Mondai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/143431.jpg",
+        "alt": "otona-no-mondai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

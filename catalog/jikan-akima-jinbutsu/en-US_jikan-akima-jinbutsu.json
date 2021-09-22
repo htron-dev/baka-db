@@ -1,5 +1,9 @@
 {
     "title": "Jikan Akima Jinbutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26097.jpg",
+        "alt": "jikan-akima-jinbutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

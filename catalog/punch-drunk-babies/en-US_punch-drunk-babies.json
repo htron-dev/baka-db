@@ -1,5 +1,9 @@
 {
     "title": "Punch Drunk Babies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153451.jpg",
+        "alt": "punch-drunk-babies"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "-6mm no Taboo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11878.jpg",
+        "alt": "6-mm-no-taboo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

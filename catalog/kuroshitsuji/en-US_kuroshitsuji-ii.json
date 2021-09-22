@@ -1,12 +1,16 @@
 {
     "title": "Kuroshitsuji II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/50499.jpg",
+        "alt": "kuroshitsuji-ii"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "黒執事 II",
     "start_date": "2010-07-02",
     "end_date": "2010-07-02",
     "opening_song": "\"SHIVER\" by the GazettE (eps 1-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Bird\" by Matsushita Yuuya (eps 1-7, 9-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

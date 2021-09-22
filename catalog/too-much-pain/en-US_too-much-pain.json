@@ -1,5 +1,9 @@
 {
     "title": "Too Much Pain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166274.jpg",
+        "alt": "too-much-pain"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

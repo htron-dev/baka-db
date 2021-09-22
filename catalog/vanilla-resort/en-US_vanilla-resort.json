@@ -1,5 +1,9 @@
 {
     "title": "Vanilla Resort",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85767.jpg",
+        "alt": "vanilla-resort"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

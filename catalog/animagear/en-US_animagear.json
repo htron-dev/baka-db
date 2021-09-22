@@ -1,5 +1,9 @@
 {
     "title": "Animagear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1480/101749.jpg",
+        "alt": "animagear"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "アニマギア",

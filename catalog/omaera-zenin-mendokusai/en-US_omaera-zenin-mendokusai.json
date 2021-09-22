@@ -1,5 +1,9 @@
 {
     "title": "Omaera Zenin Mendokusai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132965.jpg",
+        "alt": "omaera-zenin-mendokusai"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "56",

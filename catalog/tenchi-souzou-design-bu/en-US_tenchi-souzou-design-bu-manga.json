@@ -1,5 +1,9 @@
 {
     "title": "Tenchi Souzou Design-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203926.jpg",
+        "alt": "tenchi-souzou-design-bu"
+    },
     "type": "manga",
     "original_name": "天地創造デザイン部",
     "start_date": "2017-02-22",

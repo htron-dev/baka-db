@@ -1,5 +1,9 @@
 {
     "title": "Tegamibachi Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/19573.jpg",
+        "alt": "tegamibachi-gakuen"
+    },
     "type": "special",
     "episodes": "25",
     "original_name": "テガミバチ学園",

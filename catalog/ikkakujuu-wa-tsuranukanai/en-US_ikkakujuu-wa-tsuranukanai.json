@@ -1,5 +1,9 @@
 {
     "title": "Ikkakujuu wa Tsuranukanai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237904.jpg",
+        "alt": "ikkakujuu-wa-tsuranukanai"
+    },
     "type": "manga",
     "original_name": "一角獣は貫かない!",
     "start_date": "2018-09-12",

@@ -1,5 +1,9 @@
 {
     "title": "God Eater 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1508/96233.jpg",
+        "alt": "god-eater-3"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "GOD EATER 3",

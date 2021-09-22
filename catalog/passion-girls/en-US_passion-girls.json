@@ -1,5 +1,9 @@
 {
     "title": "Passion Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/8070.jpg",
+        "alt": "passion-girls"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "パッション ガールズ",

@@ -1,5 +1,9 @@
 {
     "title": "The Showman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216934.jpg",
+        "alt": "the-showman"
+    },
     "type": "manga",
     "original_name": "THE SHOWMAN",
     "start_date": "2017-12-25",

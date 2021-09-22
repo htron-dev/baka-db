@@ -1,5 +1,9 @@
 {
     "title": "Oni wo Kau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244779.jpg",
+        "alt": "oni-wo-kau"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "59",

@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Oshi wa Akuyaku Reijou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238641.jpg",
+        "alt": "watashi-no-oshi-wa-akuyaku-reijou"
+    },
     "type": "manga",
     "original_name": "私の推しは悪役令嬢。",
     "start_date": "2020-06-18",

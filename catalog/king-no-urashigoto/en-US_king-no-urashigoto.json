@@ -1,5 +1,9 @@
 {
     "title": "King no Urashigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22849.jpg",
+        "alt": "king-no-urashigoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

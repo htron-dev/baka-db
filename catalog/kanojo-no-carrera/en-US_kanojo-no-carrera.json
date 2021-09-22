@@ -1,5 +1,9 @@
 {
     "title": "Kanojo no Carrera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170533.jpg",
+        "alt": "kanojo-no-carrera"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "272",

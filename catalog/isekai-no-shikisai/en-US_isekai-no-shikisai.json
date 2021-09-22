@@ -1,5 +1,9 @@
 {
     "title": "Isekai no Shikisai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189234.jpg",
+        "alt": "isekai-no-shikisai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

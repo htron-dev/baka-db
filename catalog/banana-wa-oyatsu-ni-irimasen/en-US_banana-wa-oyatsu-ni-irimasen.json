@@ -1,5 +1,9 @@
 {
     "title": "Banana wa Oyatsu ni Irimasen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100611.jpg",
+        "alt": "banana-wa-oyatsu-ni-irimasen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

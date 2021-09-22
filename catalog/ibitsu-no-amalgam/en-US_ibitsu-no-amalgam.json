@@ -1,5 +1,9 @@
 {
     "title": "Ibitsu no Amalgam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191479.jpg",
+        "alt": "ibitsu-no-amalgam"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

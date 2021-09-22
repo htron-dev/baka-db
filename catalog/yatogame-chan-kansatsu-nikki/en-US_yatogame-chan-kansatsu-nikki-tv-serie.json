@@ -1,11 +1,15 @@
 {
     "title": "Yatogame-chan Kansatsu Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1594/108633.jpg",
+        "alt": "yatogame-chan-kansatsu-nikki"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "八十亀ちゃんかんさつにっき",
     "start_date": "2019-04-04",
     "end_date": "2019-04-04",
-    "ending_song": "#1",
+    "ending_song": "#1: \"DELUXE DELUXE HAPPY\" by Haruka Tomatsu (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

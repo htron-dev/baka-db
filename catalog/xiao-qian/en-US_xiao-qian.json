@@ -1,5 +1,9 @@
 {
     "title": "Xiao Qian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/28202.jpg",
+        "alt": "xiao-qian"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "チャイニーズゴーストストーリー小倩",

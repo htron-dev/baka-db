@@ -1,5 +1,9 @@
 {
     "title": "Superior",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144347.jpg",
+        "alt": "superior"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "28",

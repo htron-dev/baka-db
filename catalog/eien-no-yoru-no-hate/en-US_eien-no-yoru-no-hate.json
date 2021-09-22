@@ -1,5 +1,9 @@
 {
     "title": "Eien no Yoru no Hate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226824.jpg",
+        "alt": "eien-no-yoru-no-hate"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kagi no Aita Torikago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185339.jpg",
+        "alt": "kagi-no-aita-torikago"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

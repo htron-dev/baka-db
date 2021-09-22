@@ -1,5 +1,9 @@
 {
     "title": "Yasashii dake Ja Tarinakute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17472.jpg",
+        "alt": "yasashii-dake-ja-tarinakute"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "優しいだけじゃ足りなくて",

@@ -1,5 +1,9 @@
 {
     "title": "Takarajima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/56123.jpg",
+        "alt": "takarajima"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "宝島",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Takarajima_(anime"
+            "link": "http://en.wikipedia.org/wiki/Takarajima_%28anime%29"
         }
     ]
 }

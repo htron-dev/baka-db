@@ -1,5 +1,9 @@
 {
     "title": "Shuuten Unknown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171024.jpg",
+        "alt": "shuuten-unknown"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "32",

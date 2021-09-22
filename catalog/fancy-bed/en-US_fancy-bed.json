@@ -1,5 +1,9 @@
 {
     "title": "Fancy Bed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151969.jpg",
+        "alt": "fancy-bed"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

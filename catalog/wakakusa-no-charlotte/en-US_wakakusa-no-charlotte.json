@@ -1,5 +1,9 @@
 {
     "title": "Wakakusa no Charlotte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/5035.jpg",
+        "alt": "wakakusa-no-charlotte"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "若草のシャルロット",

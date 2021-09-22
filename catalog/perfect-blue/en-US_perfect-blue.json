@@ -1,5 +1,9 @@
 {
     "title": "Perfect Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/79127.jpg",
+        "alt": "perfect-blue"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "パーフェクトブルー",

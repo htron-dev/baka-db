@@ -1,5 +1,9 @@
 {
     "title": "Dokushin Otoko no Kanpai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63575.jpg",
+        "alt": "dokushin-otoko-no-kanpai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "今夜だけのパートナー―独身男に乾杯",

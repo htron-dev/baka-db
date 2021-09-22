@@ -1,5 +1,9 @@
 {
     "title": "Tsuki to Usagi no Folklore.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186801.jpg",
+        "alt": "tsuki-to-usagi-no-folklore"
+    },
     "type": "light-novel",
     "original_name": "月とうさぎのフォークロア。",
     "start_date": "2016-12-15",

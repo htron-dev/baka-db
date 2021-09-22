@@ -1,5 +1,9 @@
 {
     "title": "Tsuki to Mizu no Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/87317.jpg",
+        "alt": "tsuki-to-mizu-no-yoru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Kanojo, Hitomishirimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235003.jpg",
+        "alt": "kanojo-hitomishirimasu"
+    },
     "type": "manga",
     "original_name": "彼女、人見知ります",
     "start_date": "2020-06-21",

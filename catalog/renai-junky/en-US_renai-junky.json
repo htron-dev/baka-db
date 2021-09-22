@@ -1,5 +1,9 @@
 {
     "title": "Renai Junky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155933.jpg",
+        "alt": "renai-junky"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

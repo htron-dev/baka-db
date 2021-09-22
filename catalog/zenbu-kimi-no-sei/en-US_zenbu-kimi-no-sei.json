@@ -1,5 +1,9 @@
 {
     "title": "Zenbu Kimi no Sei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234800.jpg",
+        "alt": "zenbu-kimi-no-sei"
+    },
     "type": "manga",
     "original_name": "ぜんぶきみの性",
     "start_date": "2019-11-27",

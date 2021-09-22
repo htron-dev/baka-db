@@ -1,5 +1,9 @@
 {
     "title": "Mistelteen no Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24783.jpg",
+        "alt": "mistelteen-no-mahou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ミストルティンの魔法",

@@ -1,5 +1,9 @@
 {
     "title": "Tori Kissa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158985.jpg",
+        "alt": "tori-kissa"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "46",

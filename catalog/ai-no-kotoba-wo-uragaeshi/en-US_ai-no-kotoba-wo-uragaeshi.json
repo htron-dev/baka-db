@@ -1,5 +1,9 @@
 {
     "title": "Ai no Kotoba wo Uragaeshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19990.jpg",
+        "alt": "ai-no-kotoba-wo-uragaeshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

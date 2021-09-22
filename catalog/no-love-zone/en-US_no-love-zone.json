@@ -1,5 +1,9 @@
 {
     "title": "No Love Zone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246318.jpg",
+        "alt": "no-love-zone"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "19",

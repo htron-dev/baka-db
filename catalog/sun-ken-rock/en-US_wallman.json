@@ -1,5 +1,9 @@
 {
     "title": "Wallman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165375.jpg",
+        "alt": "wallman"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Black Angels",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187142.jpg",
+        "alt": "black-angels"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "157",

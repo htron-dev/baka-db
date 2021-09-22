@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Watashi-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/107687.jpg",
+        "alt": "sayonara-watashi-tachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

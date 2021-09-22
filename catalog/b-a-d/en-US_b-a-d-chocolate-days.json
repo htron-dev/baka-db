@@ -1,5 +1,9 @@
 {
     "title": "B.A.D.: Chocolate Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121063.jpg",
+        "alt": "b-a-d-chocolate-days"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "17",

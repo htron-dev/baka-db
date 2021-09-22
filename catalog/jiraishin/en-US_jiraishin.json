@@ -1,5 +1,9 @@
 {
     "title": "Jiraishin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22609.jpg",
+        "alt": "jiraishin"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "72",

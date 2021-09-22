@@ -1,5 +1,9 @@
 {
     "title": "Houkago Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123011.jpg",
+        "alt": "houkago-idol"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "放課後あいどる",

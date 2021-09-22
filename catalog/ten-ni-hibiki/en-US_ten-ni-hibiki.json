@@ -1,5 +1,9 @@
 {
     "title": "Ten ni Hibiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79093.jpg",
+        "alt": "ten-ni-hibiki"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "60",

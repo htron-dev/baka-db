@@ -1,5 +1,9 @@
 {
     "title": "Shinmai Fukei Kiruko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85839.jpg",
+        "alt": "shinmai-fukei-kiruko-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

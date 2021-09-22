@@ -1,5 +1,9 @@
 {
     "title": "Ito Junji Kyoufu Manga Collection - Circus ga Kita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185884.jpg",
+        "alt": "ito-junji-kyoufu-manga-collection-circus-ga-kita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

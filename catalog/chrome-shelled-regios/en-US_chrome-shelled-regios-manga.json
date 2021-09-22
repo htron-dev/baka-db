@@ -1,5 +1,9 @@
 {
     "title": "Chrome Shelled Regios",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10121.jpg",
+        "alt": "chrome-shelled-regios"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

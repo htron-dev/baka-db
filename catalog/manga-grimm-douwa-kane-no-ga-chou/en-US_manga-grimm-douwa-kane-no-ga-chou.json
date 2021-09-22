@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Kane no ga Chou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142365.jpg",
+        "alt": "manga-grimm-douwa-kane-no-ga-chou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

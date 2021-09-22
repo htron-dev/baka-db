@@ -1,5 +1,9 @@
 {
     "title": "Ballad ni Shitekure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98111.jpg",
+        "alt": "ballad-ni-shitekure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

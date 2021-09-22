@@ -1,5 +1,9 @@
 {
     "title": "Glamorous Heroes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/87661.jpg",
+        "alt": "glamorous-heroes"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "グラマラスヒーローズ",

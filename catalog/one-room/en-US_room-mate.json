@@ -1,11 +1,15 @@
 {
     "title": "Room Mate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/85196.jpg",
+        "alt": "room-mate"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Room Mate",
     "start_date": "2017-04-12",
     "end_date": "2017-04-12",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Kimiiro Smile (君色スマイル)\" by Takumi Ashihara (Tomoaki Maeno)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

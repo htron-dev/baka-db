@@ -1,5 +1,9 @@
 {
     "title": "Tantei Akechi wa Kyouransu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206563.jpg",
+        "alt": "tantei-akechi-wa-kyouransu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

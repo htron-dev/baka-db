@@ -1,5 +1,9 @@
 {
     "title": "Honey Come Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198484.jpg",
+        "alt": "honey-come-honey"
+    },
     "type": "manga",
     "original_name": "はにかむハニー",
     "start_date": "2017-01-05",

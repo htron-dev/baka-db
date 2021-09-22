@@ -1,5 +1,9 @@
 {
     "title": "Dakara Ore ni Shina yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35500.jpg",
+        "alt": "dakara-ore-ni-shina-yo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

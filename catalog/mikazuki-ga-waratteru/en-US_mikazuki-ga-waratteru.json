@@ -1,5 +1,9 @@
 {
     "title": "Mikazuki ga Waratteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124131.jpg",
+        "alt": "mikazuki-ga-waratteru"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "42",

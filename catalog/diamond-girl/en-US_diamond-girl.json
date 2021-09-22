@@ -1,5 +1,9 @@
 {
     "title": "Diamond Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34843.jpg",
+        "alt": "diamond-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ダイアモンド・ガール",

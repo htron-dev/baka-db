@@ -1,5 +1,9 @@
 {
     "title": "Hirune Hime: Shiranai Watashi no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194478.jpg",
+        "alt": "hirune-hime-shiranai-watashi-no-monogatari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

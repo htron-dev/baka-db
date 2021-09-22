@@ -1,5 +1,9 @@
 {
     "title": "Flying Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32781.jpg",
+        "alt": "flying-dragon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

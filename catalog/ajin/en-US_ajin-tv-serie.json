@@ -1,5 +1,9 @@
 {
     "title": "Ajin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/77968.jpg",
+        "alt": "ajin"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "亜人",

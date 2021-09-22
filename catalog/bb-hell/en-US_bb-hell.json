@@ -1,5 +1,9 @@
 {
     "title": "BB.Hell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151924.jpg",
+        "alt": "bb-hell"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

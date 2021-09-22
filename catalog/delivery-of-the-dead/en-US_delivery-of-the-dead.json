@@ -1,5 +1,9 @@
 {
     "title": "Delivery of the Dead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226971.jpg",
+        "alt": "delivery-of-the-dead"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

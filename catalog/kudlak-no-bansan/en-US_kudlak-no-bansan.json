@@ -1,5 +1,9 @@
 {
     "title": "Kudlak no Bansan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168230.jpg",
+        "alt": "kudlak-no-bansan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

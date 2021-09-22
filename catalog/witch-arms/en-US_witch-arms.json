@@ -1,5 +1,9 @@
 {
     "title": "Witch Arms",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179335.jpg",
+        "alt": "witch-arms"
+    },
     "type": "light-novel",
     "original_name": "ウィッチ・アームス",
     "start_date": "2016-06-24",

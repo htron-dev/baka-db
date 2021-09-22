@@ -1,5 +1,9 @@
 {
     "title": "Majyo★Rin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25212.jpg",
+        "alt": "majyo★-rin"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Maoujou de Oyasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1448/108514.jpg",
+        "alt": "maoujou-de-oyasumi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "魔王城でおやすみ",

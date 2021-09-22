@@ -1,5 +1,9 @@
 {
     "title": "Vampire Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41190.jpg",
+        "alt": "vampire-master"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "31",

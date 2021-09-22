@@ -1,5 +1,9 @@
 {
     "title": "Hikaru no Go: Hokuto Hai e no Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78453.jpg",
+        "alt": "hikaru-no-go-hokuto-hai-e-no-michi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ヒカルの碁 北斗杯への道",

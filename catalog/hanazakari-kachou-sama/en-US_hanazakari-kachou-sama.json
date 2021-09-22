@@ -1,5 +1,9 @@
 {
     "title": "Hanazakari Kachou-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17023.jpg",
+        "alt": "hanazakari-kachou-sama"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "花ざかり課長さま",

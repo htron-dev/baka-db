@@ -1,5 +1,9 @@
 {
     "title": "Suki. Dakara Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220220.jpg",
+        "alt": "suki-dakara-suki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Toraware no Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59859.jpg",
+        "alt": "toraware-no-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "とらわれの Darling",

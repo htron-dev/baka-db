@@ -1,12 +1,16 @@
 {
     "title": "Soul Eater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/7804.jpg",
+        "alt": "soul-eater"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ソウルイーター",
     "start_date": "2008-04-07",
     "end_date": "2008-04-07",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Resonance\" by T.M.Revolution (eps 1-30)",
+    "ending_song": "#01: \"I Wanna Be\" by STANCE PUNKS (eps 1-13, 51)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

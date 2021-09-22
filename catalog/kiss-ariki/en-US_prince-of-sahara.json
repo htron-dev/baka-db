@@ -1,5 +1,9 @@
 {
     "title": "Prince of Sahara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165176.jpg",
+        "alt": "prince-of-sahara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

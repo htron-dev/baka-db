@@ -1,5 +1,9 @@
 {
     "title": "Eien wa irenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/45369.jpg",
+        "alt": "eien-wa-irenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

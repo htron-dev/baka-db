@@ -1,5 +1,9 @@
 {
     "title": "Sheikh no Proposal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42263.jpg",
+        "alt": "sheikh-no-proposal"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

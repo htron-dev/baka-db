@@ -1,5 +1,9 @@
 {
     "title": "Saboten-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158686.jpg",
+        "alt": "saboten-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "サボテン君",

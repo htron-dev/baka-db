@@ -1,5 +1,9 @@
 {
     "title": "Ameiro Curriculum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237155.jpg",
+        "alt": "ameiro-curriculum"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

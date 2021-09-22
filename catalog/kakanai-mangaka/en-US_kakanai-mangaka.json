@@ -1,5 +1,9 @@
 {
     "title": "Kakanai Mangaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157404.jpg",
+        "alt": "kakanai-mangaka"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "71",

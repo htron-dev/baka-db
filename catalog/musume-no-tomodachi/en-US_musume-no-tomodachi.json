@@ -1,5 +1,9 @@
 {
     "title": "Musume no Tomodachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223170.jpg",
+        "alt": "musume-no-tomodachi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "62",

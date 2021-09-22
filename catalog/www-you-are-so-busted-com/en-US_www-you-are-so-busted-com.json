@@ -1,5 +1,9 @@
 {
     "title": "www.You are so Busted.com",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18232.jpg",
+        "alt": "www-you-are-so-busted-com"
+    },
     "type": "manhwa",
     "volumes": "10",
     "tags": [

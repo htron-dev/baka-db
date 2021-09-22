@@ -1,11 +1,15 @@
 {
     "title": "Hyouge Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/77282.jpg",
+        "alt": "hyouge-mono"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "へうげもの",
     "start_date": "2011-04-07",
     "end_date": "2011-04-07",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Bowl Man\" by Cro-Magnon ft. IKZO (eps 1-4)",
     "ending_song": "\"KIZUNA\" by Yuki Saitou",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

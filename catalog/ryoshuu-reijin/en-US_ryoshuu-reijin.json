@@ -1,5 +1,9 @@
 {
     "title": "Ryoshuu Reijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15896.jpg",
+        "alt": "ryoshuu-reijin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

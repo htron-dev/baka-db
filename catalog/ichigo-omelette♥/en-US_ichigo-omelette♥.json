@@ -1,5 +1,9 @@
 {
     "title": "Ichigo Omelette♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39542.jpg",
+        "alt": "ichigo-omelette♥"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "いちごオムレツ ♥",

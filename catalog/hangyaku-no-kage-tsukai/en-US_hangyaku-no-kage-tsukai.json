@@ -1,5 +1,9 @@
 {
     "title": "Hangyaku no Kage Tsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/107543.jpg",
+        "alt": "hangyaku-no-kage-tsukai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

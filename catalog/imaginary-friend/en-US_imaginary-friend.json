@@ -1,5 +1,9 @@
 {
     "title": "Imaginary Friend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178717.jpg",
+        "alt": "imaginary-friend"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "イマジナリーフレンド",

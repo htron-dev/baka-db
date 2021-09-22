@@ -1,5 +1,9 @@
 {
     "title": "Saving Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/2409.jpg",
+        "alt": "saving-life"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

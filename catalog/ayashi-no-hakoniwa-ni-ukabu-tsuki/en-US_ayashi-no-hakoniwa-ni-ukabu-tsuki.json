@@ -1,5 +1,9 @@
 {
     "title": "Ayashi no Hakoniwa ni Ukabu Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222398.jpg",
+        "alt": "ayashi-no-hakoniwa-ni-ukabu-tsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

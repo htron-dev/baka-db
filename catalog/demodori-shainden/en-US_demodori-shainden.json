@@ -1,5 +1,9 @@
 {
     "title": "Demodori Shainden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/60449.jpg",
+        "alt": "demodori-shainden"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "出戻社員伝",

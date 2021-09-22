@@ -1,5 +1,9 @@
 {
     "title": "8 Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153013.jpg",
+        "alt": "8-man"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "96",

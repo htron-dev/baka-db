@@ -1,5 +1,9 @@
 {
     "title": "Anime Tengu no Kakuresato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/84579.jpg",
+        "alt": "anime-tengu-no-kakuresato"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "アニメ 天狗のかくれ里",

@@ -1,12 +1,16 @@
 {
     "title": "Kamiwaza Wanda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/79365.jpg",
+        "alt": "kamiwaza-wanda"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "カミワザ・ワンダ",
     "start_date": "2016-04-23",
     "end_date": "2016-04-23",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Wanda Nanda!? (ワンダナンダ！？)\" by DAIGO (eps 1-22)",
+    "ending_song": "#1: \"Samba de Wanda (サンバ de ワンダ)\" by Wanda (Kappei Yamaguchi) (eps 1-22)",
     "rating": "PG - Children",
     "tags": [
         "sci-fi"

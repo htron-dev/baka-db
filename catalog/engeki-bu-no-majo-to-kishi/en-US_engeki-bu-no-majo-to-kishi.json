@@ -1,5 +1,9 @@
 {
     "title": "Engeki-bu no Majo to Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186007.jpg",
+        "alt": "engeki-bu-no-majo-to-kishi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

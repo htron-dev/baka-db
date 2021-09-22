@@ -1,5 +1,9 @@
 {
     "title": "Milk Tea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247129.jpg",
+        "alt": "milk-tea"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Idol wa xxxx nante Shimasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161250.jpg",
+        "alt": "idol-wa-xxxx-nante-shimasen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "37",

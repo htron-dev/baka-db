@@ -1,5 +1,9 @@
 {
     "title": "Ningyo Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186900.jpg",
+        "alt": "ningyo-ouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

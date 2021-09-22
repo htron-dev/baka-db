@@ -1,5 +1,9 @@
 {
     "title": "Gu-Gu Ganmo (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/52767.jpg",
+        "alt": "gu-gu-ganmo-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "GU-GU ガンモ",

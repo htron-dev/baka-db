@@ -1,5 +1,9 @@
 {
     "title": "Horobishi Kemonotachi no Umi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36107.jpg",
+        "alt": "horobishi-kemonotachi-no-umi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kyochuu Sanmyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238840.jpg",
+        "alt": "kyochuu-sanmyaku"
+    },
     "type": "manga",
     "original_name": "巨蟲山脈",
     "start_date": "2019-11-05",

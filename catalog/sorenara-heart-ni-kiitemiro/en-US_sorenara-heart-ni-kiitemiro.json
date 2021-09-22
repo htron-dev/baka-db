@@ -1,5 +1,9 @@
 {
     "title": "Sorenara Heart ni Kiitemiro!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42045.jpg",
+        "alt": "sorenara-heart-ni-kiitemiro"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

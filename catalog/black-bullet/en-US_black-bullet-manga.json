@@ -1,5 +1,9 @@
 {
     "title": "Black Bullet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/92417.jpg",
+        "alt": "black-bullet"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

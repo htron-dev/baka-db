@@ -1,5 +1,9 @@
 {
     "title": "Yume no Tsuzuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174140.jpg",
+        "alt": "yume-no-tsuzuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

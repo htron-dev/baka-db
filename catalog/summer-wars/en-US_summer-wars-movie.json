@@ -1,5 +1,9 @@
 {
     "title": "Summer Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/15796.jpg",
+        "alt": "summer-wars"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "サマーウォーズ",

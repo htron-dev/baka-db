@@ -1,5 +1,9 @@
 {
     "title": "Arcade Gamer Fubuki Extra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/23357.jpg",
+        "alt": "arcade-gamer-fubuki-extra"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "アーケードゲーマーふぶき",

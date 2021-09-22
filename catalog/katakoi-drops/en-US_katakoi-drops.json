@@ -1,5 +1,9 @@
 {
     "title": "Katakoi Drops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/84313.jpg",
+        "alt": "katakoi-drops"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

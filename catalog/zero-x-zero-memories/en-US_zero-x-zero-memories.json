@@ -1,5 +1,9 @@
 {
     "title": "Zero x Zero Memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143881.jpg",
+        "alt": "zero-x-zero-memories"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

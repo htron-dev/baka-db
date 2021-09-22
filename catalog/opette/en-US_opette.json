@@ -1,5 +1,9 @@
 {
     "title": "Opette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1141/108737.jpg",
+        "alt": "opette"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Opette",

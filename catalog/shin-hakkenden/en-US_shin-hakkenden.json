@@ -1,12 +1,16 @@
 {
     "title": "Shin Hakkenden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/49801.jpg",
+        "alt": "shin-hakkenden"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "神八剣伝",
     "start_date": "1999-04-03",
     "end_date": "1999-04-03",
     "opening_song": "\"Memories\" by angela",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kitto Onaji Hoshi no Naka de (きっと同じ星の中で)\" by Friend on mine (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

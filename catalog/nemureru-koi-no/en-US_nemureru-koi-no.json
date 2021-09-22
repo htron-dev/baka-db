@@ -1,5 +1,9 @@
 {
     "title": "Nemureru Koi no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241561.jpg",
+        "alt": "nemureru-koi-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

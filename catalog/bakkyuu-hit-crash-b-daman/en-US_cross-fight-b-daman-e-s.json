@@ -1,12 +1,16 @@
 {
     "title": "Cross Fight B-Daman eS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/42247.jpg",
+        "alt": "cross-fight-b-daman-e-s"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "クロスファイト ビーダマン eS",
     "start_date": "2012-10-07",
     "end_date": "2012-10-07",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Dream\" by OUTER-TRIBE",
+    "ending_song": "#01: \"Ray of Light\" by OUTER-TRIBE",
     "rating": "G - All Ages",
     "tags": [
         "game"

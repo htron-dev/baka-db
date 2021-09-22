@@ -1,5 +1,9 @@
 {
     "title": "Bungou Stray Dogs: Dead Apple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1127/93981.jpg",
+        "alt": "bungou-stray-dogs-dead-apple"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "文豪ストレイドッグス DEAD APPLE",

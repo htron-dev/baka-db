@@ -1,5 +1,9 @@
 {
     "title": "Alice in Cyberland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/10746.jpg",
+        "alt": "alice-in-cyberland"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ありす ALICE in Cyberland",

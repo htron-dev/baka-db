@@ -1,11 +1,15 @@
 {
     "title": "Bishoujo Yuugekitai Battle Skipper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1851/96471.jpg",
+        "alt": "bishoujo-yuugekitai-battle-skipper"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "美少女遊撃隊バトルスキッパー",
     "start_date": "1995-08-23",
     "end_date": "1995-08-23",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Real Dream\" by Yarei Yasui (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

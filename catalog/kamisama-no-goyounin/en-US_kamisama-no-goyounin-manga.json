@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Goyounin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222090.jpg",
+        "alt": "kamisama-no-goyounin"
+    },
     "type": "manga",
     "original_name": "神様の御用人",
     "start_date": "2015-10-01",

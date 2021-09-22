@@ -1,5 +1,9 @@
 {
     "title": "Omedetou, Ore wa Bishoujo ni Shinkashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189950.jpg",
+        "alt": "omedetou-ore-wa-bishoujo-ni-shinkashita"
+    },
     "type": "light-novel",
     "original_name": "おめでとう、俺は美少女に進化した。",
     "start_date": "2017-02-10",

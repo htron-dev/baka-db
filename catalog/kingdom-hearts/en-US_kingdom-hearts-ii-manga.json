@@ -1,5 +1,9 @@
 {
     "title": "Kingdom Hearts II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153894.jpg",
+        "alt": "kingdom-hearts-ii"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "69",

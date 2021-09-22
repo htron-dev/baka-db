@@ -1,5 +1,9 @@
 {
     "title": "Silent World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176862.jpg",
+        "alt": "silent-world"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

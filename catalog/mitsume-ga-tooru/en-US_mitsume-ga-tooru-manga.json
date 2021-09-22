@@ -1,5 +1,9 @@
 {
     "title": "Mitsume ga Tooru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/175739.jpg",
+        "alt": "mitsume-ga-tooru"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "77",

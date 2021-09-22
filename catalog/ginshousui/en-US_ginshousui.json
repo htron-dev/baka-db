@@ -1,5 +1,9 @@
 {
     "title": "Ginshousui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18090.jpg",
+        "alt": "ginshousui"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "銀晶水",

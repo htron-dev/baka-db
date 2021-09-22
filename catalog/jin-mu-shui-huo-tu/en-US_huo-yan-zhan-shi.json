@@ -1,5 +1,9 @@
 {
     "title": "Huo Yan Zhan Shi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1122/115452.jpg",
+        "alt": "huo-yan-zhan-shi"
+    },
     "type": "tv-serie",
     "episodes": "53",
     "original_name": "火焰战士",

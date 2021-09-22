@@ -1,5 +1,9 @@
 {
     "title": "Rock'n Roll Sentou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1351/115407.jpg",
+        "alt": "rockn-roll-sentou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ロックンロール銭湯",

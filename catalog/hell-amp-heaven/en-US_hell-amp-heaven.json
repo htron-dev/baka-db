@@ -1,5 +1,9 @@
 {
     "title": "Hell &amp; Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201061.jpg",
+        "alt": "hell-amp-heaven"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kage Aru Tokoro ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19293.jpg",
+        "alt": "kage-aru-tokoro-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

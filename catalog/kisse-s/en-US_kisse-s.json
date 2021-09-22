@@ -1,5 +1,9 @@
 {
     "title": "Kisse~s",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11085.jpg",
+        "alt": "kisse-s"
+    },
     "type": "manga",
     "volumes": "16",
     "original_name": "キッシ～ズ",

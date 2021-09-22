@@ -1,5 +1,9 @@
 {
     "title": "Kiseki Goten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18829.jpg",
+        "alt": "kiseki-goten"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Sabikui Bisco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241246.jpg",
+        "alt": "sabikui-bisco"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

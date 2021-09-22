@@ -1,5 +1,9 @@
 {
     "title": "Stalker Joukadan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235921.jpg",
+        "alt": "stalker-joukadan"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "43",

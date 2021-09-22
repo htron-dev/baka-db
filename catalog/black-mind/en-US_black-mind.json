@@ -1,5 +1,9 @@
 {
     "title": "Black Mind",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82658.jpg",
+        "alt": "black-mind"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "BLACK MIND",

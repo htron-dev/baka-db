@@ -1,5 +1,9 @@
 {
     "title": "Shikoutei, Nihon ni Tatsu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126339.jpg",
+        "alt": "shikoutei-nihon-ni-tatsu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

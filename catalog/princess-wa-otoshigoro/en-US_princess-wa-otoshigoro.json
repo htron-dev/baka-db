@@ -1,5 +1,9 @@
 {
     "title": "Princess wa Otoshigoro!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163680.jpg",
+        "alt": "princess-wa-otoshigoro"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "13",

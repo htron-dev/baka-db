@@ -1,5 +1,9 @@
 {
     "title": "Netrun-mon the Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/27246.jpg",
+        "alt": "netrun-mon-the-movie"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ねとらん者 THE MOVIE",

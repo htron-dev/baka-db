@@ -1,5 +1,9 @@
 {
     "title": "Tales of Zestiria: Michibiki no Toki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160092.jpg",
+        "alt": "tales-of-zestiria-michibiki-no-toki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

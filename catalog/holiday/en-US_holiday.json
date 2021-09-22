@@ -1,5 +1,9 @@
 {
     "title": "Holiday",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82298.jpg",
+        "alt": "holiday"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

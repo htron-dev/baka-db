@@ -1,5 +1,9 @@
 {
     "title": "Yes It's Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25421.jpg",
+        "alt": "yes-its-me"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

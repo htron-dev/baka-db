@@ -1,5 +1,9 @@
 {
     "title": "Kimi wo Suki na Ryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84207.jpg",
+        "alt": "kimi-wo-suki-na-ryuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

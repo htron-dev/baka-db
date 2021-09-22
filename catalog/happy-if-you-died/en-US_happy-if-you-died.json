@@ -1,5 +1,9 @@
 {
     "title": "Happy if You Died",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206365.jpg",
+        "alt": "happy-if-you-died"
+    },
     "type": "manhwa",
     "chapters": "61",
     "original_name": "죽어도 좋아♡",

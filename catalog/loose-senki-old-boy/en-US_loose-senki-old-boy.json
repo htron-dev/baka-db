@@ -1,5 +1,9 @@
 {
     "title": "Loose Senki: Old Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179835.jpg",
+        "alt": "loose-senki-old-boy"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "79",

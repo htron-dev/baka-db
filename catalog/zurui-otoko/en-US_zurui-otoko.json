@@ -1,5 +1,9 @@
 {
     "title": "Zurui Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/1347.jpg",
+        "alt": "zurui-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

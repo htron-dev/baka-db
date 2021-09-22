@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters Horizon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193344.jpg",
+        "alt": "pocket-monsters-horizon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

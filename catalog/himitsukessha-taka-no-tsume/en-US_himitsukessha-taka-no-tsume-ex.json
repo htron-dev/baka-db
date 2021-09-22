@@ -1,11 +1,15 @@
 {
     "title": "Himitsukessha Taka no Tsume EX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/61107.jpg",
+        "alt": "himitsukessha-taka-no-tsume-ex"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "秘密結社鷹の爪 EX",
     "start_date": "2014-04-11",
     "end_date": "2014-04-11",
-    "ending_song": "#1",
+    "ending_song": "#1: \"CHAN-BA-LA Justice Densetsu (CHAN－BA－LA ジャスティス伝説)\" by Gero (eps 1-22)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

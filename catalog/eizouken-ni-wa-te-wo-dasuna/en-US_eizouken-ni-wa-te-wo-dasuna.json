@@ -1,5 +1,9 @@
 {
     "title": "Eizouken ni wa Te wo Dasuna!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219792.jpg",
+        "alt": "eizouken-ni-wa-te-wo-dasuna"
+    },
     "type": "manga",
     "original_name": "映像研には手を出すな！",
     "start_date": "2016-07-27",

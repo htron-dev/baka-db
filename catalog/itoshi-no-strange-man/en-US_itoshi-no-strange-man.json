@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Strange Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236112.jpg",
+        "alt": "itoshi-no-strange-man"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

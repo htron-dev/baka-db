@@ -1,12 +1,16 @@
 {
     "title": "PriPri Chii-chan!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/83963.jpg",
+        "alt": "pri-pri-chii-chan"
+    },
     "type": "tv-serie",
     "episodes": "36",
     "original_name": "プリプリちぃちゃん!!",
     "start_date": "2017-04-15",
     "end_date": "2017-04-15",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Tokubetsu Ichiban!! (トクベツいちばん!!)\" by Momo Asakura",
+    "ending_song": "#1: \"Honey and Loops (ハニーアンドループス)\" by Aki Toyosaki",
     "rating": "G - All Ages",
     "tags": [
         "sci-fi",

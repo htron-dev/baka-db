@@ -1,5 +1,9 @@
 {
     "title": "Kimi sae mo Ai no Kusari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3168.jpg",
+        "alt": "kimi-sae-mo-ai-no-kusari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

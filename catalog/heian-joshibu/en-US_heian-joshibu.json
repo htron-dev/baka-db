@@ -1,5 +1,9 @@
 {
     "title": "Heian Joshibu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/94471.jpg",
+        "alt": "heian-joshibu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "平安女子部!",

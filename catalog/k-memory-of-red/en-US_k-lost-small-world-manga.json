@@ -1,5 +1,9 @@
 {
     "title": "K: Lost Small World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166578.jpg",
+        "alt": "k-lost-small-world"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

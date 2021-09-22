@@ -1,5 +1,9 @@
 {
     "title": "Machi no Tom &amp; Sawyer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179088.jpg",
+        "alt": "machi-no-tom-amp-sawyer"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

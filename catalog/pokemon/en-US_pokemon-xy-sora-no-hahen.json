@@ -1,5 +1,9 @@
 {
     "title": "Pokemon XY: Sora no Hahen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/71077.jpg",
+        "alt": "pokemon-xy-sora-no-hahen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ポケットモンスター XY 宇宙の破片（そらのはへん）",

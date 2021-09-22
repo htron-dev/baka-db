@@ -1,5 +1,9 @@
 {
     "title": "Aka no Washupiel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26753.jpg",
+        "alt": "aka-no-washupiel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

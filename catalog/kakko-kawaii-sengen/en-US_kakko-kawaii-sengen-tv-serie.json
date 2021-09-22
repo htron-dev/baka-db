@@ -1,5 +1,9 @@
 {
     "title": "Kakko Kawaii Sengen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/26662.jpg",
+        "alt": "kakko-kawaii-sengen"
+    },
     "type": "tv-serie",
     "episodes": "5",
     "original_name": "カッコカワイイ宣言！",

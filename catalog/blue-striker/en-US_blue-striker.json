@@ -1,5 +1,9 @@
 {
     "title": "Blue Striker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226524.jpg",
+        "alt": "blue-striker"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

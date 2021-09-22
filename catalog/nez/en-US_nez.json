@@ -1,5 +1,9 @@
 {
     "title": "Nez",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196407.jpg",
+        "alt": "nez"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "nez[ネ]",

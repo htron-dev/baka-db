@@ -1,5 +1,9 @@
 {
     "title": "Futtemo Haretemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150102.jpg",
+        "alt": "futtemo-haretemo"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "降っても晴れても",

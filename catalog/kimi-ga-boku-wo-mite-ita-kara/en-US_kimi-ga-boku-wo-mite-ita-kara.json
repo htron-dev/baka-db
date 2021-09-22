@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Boku wo Mite Ita kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/56233.jpg",
+        "alt": "kimi-ga-boku-wo-mite-ita-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

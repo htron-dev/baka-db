@@ -1,5 +1,9 @@
 {
     "title": "Alive: Saishuu Shinkateki Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185482.jpg",
+        "alt": "alive-saishuu-shinkateki-shounen"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "83",

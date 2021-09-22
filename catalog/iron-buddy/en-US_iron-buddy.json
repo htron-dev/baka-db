@@ -1,5 +1,9 @@
 {
     "title": "Iron Buddy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194438.jpg",
+        "alt": "iron-buddy"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

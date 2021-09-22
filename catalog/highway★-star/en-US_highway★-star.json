@@ -1,5 +1,9 @@
 {
     "title": "Highway★Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/154397.jpg",
+        "alt": "highway★-star"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

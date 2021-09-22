@@ -1,5 +1,9 @@
 {
     "title": "Special A",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137871.jpg",
+        "alt": "special-a"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "104",

@@ -1,5 +1,9 @@
 {
     "title": "Tao Hua Yuan Ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75288.jpg",
+        "alt": "tao-hua-yuan-ji"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "桃花源记",

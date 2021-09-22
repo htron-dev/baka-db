@@ -1,5 +1,9 @@
 {
     "title": "Otomental",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98501.jpg",
+        "alt": "otomental"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

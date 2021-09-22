@@ -1,5 +1,9 @@
 {
     "title": "Ikoku Meiro no Croisée",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128771.jpg",
+        "alt": "ikoku-meiro-no-croisee"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

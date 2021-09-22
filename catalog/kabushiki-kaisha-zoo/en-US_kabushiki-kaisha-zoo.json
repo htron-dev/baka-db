@@ -1,5 +1,9 @@
 {
     "title": "Kabushiki Kaisha Zoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71660.jpg",
+        "alt": "kabushiki-kaisha-zoo"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "株式会社 ZOO",

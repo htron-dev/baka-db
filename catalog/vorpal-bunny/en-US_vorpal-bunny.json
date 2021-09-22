@@ -1,5 +1,9 @@
 {
     "title": "Vorpal Bunny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164035.jpg",
+        "alt": "vorpal-bunny"
+    },
     "type": "light-novel",
     "original_name": "ボーパルバニー",
     "start_date": "2015-09-18",

@@ -1,12 +1,16 @@
 {
     "title": "Samurai Flamenco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/54319.jpg",
+        "alt": "samurai-flamenco"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "サムライフラメンコ",
     "start_date": "2013-10-11",
     "end_date": "2013-10-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"JUST ONE LIFE\" by SPYAIR (eps 1-11)",
+    "ending_song": "#1: \"Date TIME (デート TIME)\" by Mineral Miracle Muse (ミネラル ★ ミラクル ★ ミューズ) (eps 1-9, 11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

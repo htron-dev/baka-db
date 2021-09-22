@@ -1,5 +1,9 @@
 {
     "title": "Minmei Shobou Taizen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245018.jpg",
+        "alt": "minmei-shobou-taizen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "民明書房大全",

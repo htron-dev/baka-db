@@ -1,5 +1,9 @@
 {
     "title": "Doko ni Iku?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33568.jpg",
+        "alt": "doko-ni-iku"
+    },
     "type": "manga",
     "original_name": "何処に行く?",
     "tags": [

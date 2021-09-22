@@ -1,5 +1,9 @@
 {
     "title": "This Witch of Mine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228265.jpg",
+        "alt": "this-witch-of-mine"
+    },
     "type": "manhwa",
     "original_name": "나의 마녀",
     "start_date": "2015-08-25",

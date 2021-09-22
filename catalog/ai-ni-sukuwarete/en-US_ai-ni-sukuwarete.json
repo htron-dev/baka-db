@@ -1,5 +1,9 @@
 {
     "title": "Ai ni Sukuwarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227177.jpg",
+        "alt": "ai-ni-sukuwarete"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "愛に救われて",

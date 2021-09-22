@@ -1,5 +1,9 @@
 {
     "title": "Heart of Freaks",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/162251.jpg",
+        "alt": "heart-of-freaks"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "Heart of Freaks",

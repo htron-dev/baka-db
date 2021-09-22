@@ -1,5 +1,9 @@
 {
     "title": "Kaitei-koku no Koutsu Anzen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1957/99484.jpg",
+        "alt": "kaitei-koku-no-koutsu-anzen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "海底国の交通安全",

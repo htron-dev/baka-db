@@ -1,5 +1,9 @@
 {
     "title": "Rhyming Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204346.jpg",
+        "alt": "rhyming-man"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

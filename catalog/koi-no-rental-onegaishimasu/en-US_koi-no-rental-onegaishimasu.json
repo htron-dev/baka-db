@@ -1,5 +1,9 @@
 {
     "title": "Koi no Rental Onegaishimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199703.jpg",
+        "alt": "koi-no-rental-onegaishimasu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "恋のレンタルお願いします",

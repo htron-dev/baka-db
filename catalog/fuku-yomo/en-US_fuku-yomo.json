@@ -1,5 +1,9 @@
 {
     "title": "Fuku Yomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33810.jpg",
+        "alt": "fuku-yomo"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "82",

@@ -1,5 +1,9 @@
 {
     "title": "Ai no Moto ni Tsudoe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10916.jpg",
+        "alt": "ai-no-moto-ni-tsudoe"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "愛のもとに集え",

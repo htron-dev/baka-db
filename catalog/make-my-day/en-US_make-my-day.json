@@ -1,5 +1,9 @@
 {
     "title": "Make My Day",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1038/115671.jpg",
+        "alt": "make-my-day"
+    },
     "type": "ona",
     "original_name": "MAKE MY DAY",
     "rating": "None",

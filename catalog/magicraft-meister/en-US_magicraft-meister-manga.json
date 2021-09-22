@@ -1,5 +1,9 @@
 {
     "title": "Magicraft Meister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206020.jpg",
+        "alt": "magicraft-meister"
+    },
     "type": "manga",
     "original_name": "マギクラフト・マイスター",
     "start_date": "2017-08-21",

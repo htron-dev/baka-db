@@ -1,5 +1,9 @@
 {
     "title": "Chanda Gou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/71309.jpg",
+        "alt": "chanda-gou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "チャンダ号",

@@ -1,5 +1,9 @@
 {
     "title": "Zanki x 99",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215583.jpg",
+        "alt": "zanki-x-99"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

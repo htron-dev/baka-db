@@ -1,5 +1,9 @@
 {
     "title": "Hataraki Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228093.jpg",
+        "alt": "hataraki-man"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

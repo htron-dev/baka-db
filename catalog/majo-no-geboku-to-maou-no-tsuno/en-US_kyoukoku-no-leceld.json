@@ -1,5 +1,9 @@
 {
     "title": "Kyoukoku no Leceld",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231372.jpg",
+        "alt": "kyoukoku-no-leceld"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

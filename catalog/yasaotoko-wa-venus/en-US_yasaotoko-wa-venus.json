@@ -1,5 +1,9 @@
 {
     "title": "Yasaotoko wa Venus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168226.jpg",
+        "alt": "yasaotoko-wa-venus"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

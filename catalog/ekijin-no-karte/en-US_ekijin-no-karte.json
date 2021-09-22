@@ -1,5 +1,9 @@
 {
     "title": "Ekijin no Karte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244188.jpg",
+        "alt": "ekijin-no-karte"
+    },
     "type": "manga",
     "original_name": "疫神のカルテ",
     "start_date": "2020-11-13",

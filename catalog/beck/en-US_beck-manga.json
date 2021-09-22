@@ -1,5 +1,9 @@
 {
     "title": "Beck",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171795.jpg",
+        "alt": "beck"
+    },
     "type": "manga",
     "volumes": "34",
     "chapters": "103",

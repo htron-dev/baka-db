@@ -1,5 +1,9 @@
 {
     "title": "Gangster Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18216.jpg",
+        "alt": "gangster-hero"
+    },
     "type": "manhwa",
     "volumes": "13",
     "original_name": "건달 히어로",

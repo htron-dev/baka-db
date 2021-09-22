@@ -1,7 +1,11 @@
 {
     "title": "Re: Sukeban Deka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248714.jpg",
+        "alt": "re-sukeban-deka"
+    },
     "type": "manga",
-    "original_name": "RE",
+    "original_name": "RE:スケバン刑事〈デカ〉",
     "start_date": "2021-02-05",
     "tags": [
         "action",

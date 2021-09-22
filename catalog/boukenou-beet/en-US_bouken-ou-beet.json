@@ -1,12 +1,16 @@
 {
     "title": "Bouken Ou Beet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/21569.jpg",
+        "alt": "bouken-ou-beet"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "冒険王ビィト",
     "start_date": "2004-09-30",
     "end_date": "2004-09-30",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Emotion\" by Sunbrain",
+    "ending_song": "#1: \"pureness\" by Nana Kitade (eps 1-13)",
     "rating": "PG - Children",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Freaky Highschool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/85047.jpg",
+        "alt": "freaky-highschool"
+    },
     "type": "tv-serie",
     "episodes": "69",
     "original_name": "ふりぃきぃ～はいすく～る",

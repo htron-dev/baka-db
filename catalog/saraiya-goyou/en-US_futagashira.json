@@ -1,5 +1,9 @@
 {
     "title": "Futagashira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/60207.jpg",
+        "alt": "futagashira"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "54",

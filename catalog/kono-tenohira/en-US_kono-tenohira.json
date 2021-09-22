@@ -1,5 +1,9 @@
 {
     "title": "Kono Tenohira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150855.jpg",
+        "alt": "kono-tenohira"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "このてのひら",

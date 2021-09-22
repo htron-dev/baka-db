@@ -1,5 +1,9 @@
 {
     "title": "Clematica Kutsuten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/42364.jpg",
+        "alt": "clematica-kutsuten"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

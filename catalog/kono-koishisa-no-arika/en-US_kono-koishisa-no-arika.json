@@ -1,5 +1,9 @@
 {
     "title": "Kono Koishisa no Arika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158849.jpg",
+        "alt": "kono-koishisa-no-arika"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "この恋しさの在り処",

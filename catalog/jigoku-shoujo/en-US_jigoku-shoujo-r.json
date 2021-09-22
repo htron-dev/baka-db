@@ -1,5 +1,9 @@
 {
     "title": "Jigoku Shoujo R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144833.jpg",
+        "alt": "jigoku-shoujo-r"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "44",

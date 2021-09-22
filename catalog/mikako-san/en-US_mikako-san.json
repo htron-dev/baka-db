@@ -1,5 +1,9 @@
 {
     "title": "Mikako-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171113.jpg",
+        "alt": "mikako-san"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "221",

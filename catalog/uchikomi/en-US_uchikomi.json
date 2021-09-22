@@ -1,5 +1,9 @@
 {
     "title": "Uchikomi!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178608.jpg",
+        "alt": "uchikomi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "63",

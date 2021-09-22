@@ -1,5 +1,9 @@
 {
     "title": "Teppan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35224.jpg",
+        "alt": "teppan"
+    },
     "type": "manga",
     "original_name": "てっぱん!",
     "start_date": "2010-06-29",

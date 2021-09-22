@@ -1,5 +1,9 @@
 {
     "title": "Mai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/76699.jpg",
+        "alt": "mai"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "53",

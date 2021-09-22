@@ -1,5 +1,9 @@
 {
     "title": "Tattoo Hearts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236273.jpg",
+        "alt": "tattoo-hearts"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

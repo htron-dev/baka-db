@@ -1,5 +1,9 @@
 {
     "title": "Boku no Sensei wa Fever with Motoman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27107.jpg",
+        "alt": "boku-no-sensei-wa-fever-with-motoman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

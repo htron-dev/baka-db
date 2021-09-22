@@ -1,5 +1,9 @@
 {
     "title": "Shiawase Haitatsu Taneko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/28900.jpg",
+        "alt": "shiawase-haitatsu-taneko"
+    },
     "type": "tv-serie",
     "original_name": "しあわせ配達おみくじタネコ",
     "start_date": "2011-03-26",

@@ -1,5 +1,9 @@
 {
     "title": "Coffee Ikaga Deshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1674/94360.jpg",
+        "alt": "coffee-ikaga-deshou"
+    },
     "type": "ona",
     "episodes": "30",
     "original_name": "珈琲いかがでしょう",

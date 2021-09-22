@@ -1,5 +1,9 @@
 {
     "title": "Ingress: Tokyo Anomaly",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198558.jpg",
+        "alt": "ingress-tokyo-anomaly"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

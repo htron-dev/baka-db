@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Kerykeion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162582.jpg",
+        "alt": "kuro-no-kerykeion"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Taishou Otome Otogibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1822/113767.jpg",
+        "alt": "taishou-otome-otogibanashi"
+    },
     "type": "tv-serie",
     "original_name": "大正処女御伽話",
     "start_date": "2021-10-20",

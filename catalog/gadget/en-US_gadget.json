@@ -1,5 +1,9 @@
 {
     "title": "Gadget",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162909.jpg",
+        "alt": "gadget"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "26",

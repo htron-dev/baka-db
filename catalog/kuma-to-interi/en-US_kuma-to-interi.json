@@ -1,5 +1,9 @@
 {
     "title": "Kuma to Interi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/19039.jpg",
+        "alt": "kuma-to-interi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

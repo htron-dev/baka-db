@@ -1,5 +1,9 @@
 {
     "title": "Bamboo Blade C",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134511.jpg",
+        "alt": "bamboo-blade-c"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

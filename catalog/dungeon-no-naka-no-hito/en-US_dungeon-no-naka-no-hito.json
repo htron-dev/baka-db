@@ -1,5 +1,9 @@
 {
     "title": "Dungeon no Naka no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244530.jpg",
+        "alt": "dungeon-no-naka-no-hito"
+    },
     "type": "manga",
     "original_name": "ダンジョンの中のひと",
     "start_date": "2020-06-19",

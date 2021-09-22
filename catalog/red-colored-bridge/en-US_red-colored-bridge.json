@@ -1,5 +1,9 @@
 {
     "title": "Red Colored Bridge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/69171.jpg",
+        "alt": "red-colored-bridge"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "赤い太鼓橋",

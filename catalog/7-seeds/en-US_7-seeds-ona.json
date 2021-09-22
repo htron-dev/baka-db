@@ -1,5 +1,9 @@
 {
     "title": "7 Seeds",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1219/116954.jpg",
+        "alt": "7-seeds"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "7SEEDS",

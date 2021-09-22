@@ -1,5 +1,9 @@
 {
     "title": "Kin Gin Kokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9653.jpg",
+        "alt": "kin-gin-kokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "金・銀・心",

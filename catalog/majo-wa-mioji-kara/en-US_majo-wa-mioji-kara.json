@@ -1,5 +1,9 @@
 {
     "title": "Majo wa Mioji kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/213007.jpg",
+        "alt": "majo-wa-mioji-kara"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "49",

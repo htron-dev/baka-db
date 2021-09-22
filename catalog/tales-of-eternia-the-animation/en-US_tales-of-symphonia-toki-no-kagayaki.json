@@ -1,5 +1,9 @@
 {
     "title": "Tales of Symphonia: Toki no Kagayaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16972.jpg",
+        "alt": "tales-of-symphonia-toki-no-kagayaki"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "テイルズ オブ シンフォニア 久遠〈とき〉の輝き",

@@ -1,5 +1,9 @@
 {
     "title": "Ameiro Paradox",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/64901.jpg",
+        "alt": "ameiro-paradox"
+    },
     "type": "manga",
     "original_name": "飴色パラドックス",
     "start_date": "2009-12-14",

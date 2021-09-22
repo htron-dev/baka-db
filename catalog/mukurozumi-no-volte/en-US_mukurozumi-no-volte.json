@@ -1,5 +1,9 @@
 {
     "title": "Mukurozumi no Volte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226005.jpg",
+        "alt": "mukurozumi-no-volte"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

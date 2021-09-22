@@ -1,5 +1,9 @@
 {
     "title": "Sono Koi ni wa Wake ga Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33252.jpg",
+        "alt": "sono-koi-ni-wa-wake-ga-aru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Eiyuu Toshi no Bakadomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167514.jpg",
+        "alt": "eiyuu-toshi-no-bakadomo"
+    },
     "type": "light-novel",
     "original_name": "英雄都市のバカども",
     "start_date": "2015-11-20",

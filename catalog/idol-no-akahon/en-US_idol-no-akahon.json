@@ -1,5 +1,9 @@
 {
     "title": "Idol no Akahon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10850.jpg",
+        "alt": "idol-no-akahon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "20",

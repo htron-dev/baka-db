@@ -1,5 +1,9 @@
 {
     "title": "Yotsuba to!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57369.jpg",
+        "alt": "yotsuba-to"
+    },
     "type": "manga",
     "original_name": "よつばと!",
     "start_date": "2003-03-21",

@@ -1,5 +1,9 @@
 {
     "title": "Chuldong! Animal Rescue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1313/114497.jpg",
+        "alt": "chuldong-animal-rescue"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "출동! 애니멀 레스큐",

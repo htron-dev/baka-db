@@ -1,5 +1,9 @@
 {
     "title": "Jukai Ningyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185843.jpg",
+        "alt": "jukai-ningyo"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Cambria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192223.jpg",
+        "alt": "cambria"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

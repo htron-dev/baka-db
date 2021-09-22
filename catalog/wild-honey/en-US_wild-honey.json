@@ -1,5 +1,9 @@
 {
     "title": "Wild Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152104.jpg",
+        "alt": "wild-honey"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

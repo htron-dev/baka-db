@@ -1,5 +1,9 @@
 {
     "title": "Ouka Ryou Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2289.jpg",
+        "alt": "ouka-ryou-wars"
+    },
     "type": "manga",
     "volumes": "4",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Watashi ni Tenshi ga Maiorita!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196509.jpg",
+        "alt": "watashi-ni-tenshi-ga-maiorita"
+    },
     "type": "manga",
     "original_name": "私に天使が舞い降りた！",
     "start_date": "2016-11-18",

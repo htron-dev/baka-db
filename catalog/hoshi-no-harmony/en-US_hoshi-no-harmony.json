@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Harmony",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185732.jpg",
+        "alt": "hoshi-no-harmony"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

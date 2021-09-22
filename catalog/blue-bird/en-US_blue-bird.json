@@ -1,5 +1,9 @@
 {
     "title": "Blue Bird",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/122397.jpg",
+        "alt": "blue-bird"
+    },
     "type": "manhwa",
     "volumes": "4",
     "original_name": "블루버드 blue Bird",

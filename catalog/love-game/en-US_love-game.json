@@ -1,5 +1,9 @@
 {
     "title": "Love Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36802.jpg",
+        "alt": "love-game"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "2003-12-20",

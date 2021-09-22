@@ -1,5 +1,9 @@
 {
     "title": "Macross Δ Movie 2: Zettai Live!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1212/109593.jpg",
+        "alt": "macross-δ-movie-2-zettai-live"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版マクロス Δ 絶対 LIVE!!!!!!",

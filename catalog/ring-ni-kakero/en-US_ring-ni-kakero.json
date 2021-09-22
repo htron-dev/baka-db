@@ -1,5 +1,9 @@
 {
     "title": "Ring ni Kakero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187140.jpg",
+        "alt": "ring-ni-kakero"
+    },
     "type": "manga",
     "volumes": "25",
     "chapters": "122",

@@ -1,5 +1,9 @@
 {
     "title": "Sakura Sakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188945.jpg",
+        "alt": "sakura-sakura"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "40",

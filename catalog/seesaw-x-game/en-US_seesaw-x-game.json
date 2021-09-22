@@ -1,5 +1,9 @@
 {
     "title": "Seesaw x Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167270.jpg",
+        "alt": "seesaw-x-game"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

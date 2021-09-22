@@ -1,5 +1,9 @@
 {
     "title": "Seven Nights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85077.jpg",
+        "alt": "seven-nights"
+    },
     "type": "light-novel",
     "original_name": "セヴンナイツ",
     "start_date": "2007-12-07",

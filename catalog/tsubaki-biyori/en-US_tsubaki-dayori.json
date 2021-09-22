@@ -1,5 +1,9 @@
 {
     "title": "Tsubaki Dayori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41966.jpg",
+        "alt": "tsubaki-dayori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

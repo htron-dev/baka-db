@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Tengoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21335.jpg",
+        "alt": "gakuen-tengoku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "学園天国",

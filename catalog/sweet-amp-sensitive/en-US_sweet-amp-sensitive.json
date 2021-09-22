@@ -1,5 +1,9 @@
 {
     "title": "Sweet &amp; Sensitive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95397.jpg",
+        "alt": "sweet-amp-sensitive"
+    },
     "type": "manhwa",
     "volumes": "18",
     "chapters": "44",

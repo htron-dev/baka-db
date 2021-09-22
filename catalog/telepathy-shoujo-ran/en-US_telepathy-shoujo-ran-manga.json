@@ -1,5 +1,9 @@
 {
     "title": "Telepathy Shoujo \"Ran\"",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120303.jpg",
+        "alt": "telepathy-shoujo-ran"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "42",

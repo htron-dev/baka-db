@@ -1,5 +1,9 @@
 {
     "title": "Actor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132749.jpg",
+        "alt": "actor"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "アクター",

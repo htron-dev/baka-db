@@ -1,12 +1,16 @@
 {
     "title": "Hai! Akko Desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1358/99405.jpg",
+        "alt": "hai-akko-desu"
+    },
     "type": "tv-serie",
     "episodes": "164",
     "original_name": "ハーイあっこです",
     "start_date": "1988-10-12",
     "end_date": "1988-10-12",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hare Nochi Hare (晴れのち晴れ)\" by Akiko Kosaka",
+    "ending_song": "#1: \"Okaeri Nasai (おかえりなさい)\" by Ushio Hashimoto",
     "rating": "G - All Ages",
     "tags": [
         "romance",

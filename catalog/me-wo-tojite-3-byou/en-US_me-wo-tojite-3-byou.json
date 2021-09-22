@@ -1,5 +1,9 @@
 {
     "title": "Me wo Tojite 3-byou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72873.jpg",
+        "alt": "me-wo-tojite-3-byou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Saikyou Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162307.jpg",
+        "alt": "saikyou-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

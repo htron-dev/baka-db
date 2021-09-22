@@ -1,5 +1,9 @@
 {
     "title": "Teach",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/70721.jpg",
+        "alt": "teach"
+    },
     "type": "tv-serie",
     "episodes": "5",
     "original_name": "ティーチ",

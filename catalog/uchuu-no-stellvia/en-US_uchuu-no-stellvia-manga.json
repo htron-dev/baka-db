@@ -1,5 +1,9 @@
 {
     "title": "Uchuu no Stellvia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17466.jpg",
+        "alt": "uchuu-no-stellvia"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

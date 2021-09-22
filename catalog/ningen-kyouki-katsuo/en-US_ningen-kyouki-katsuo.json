@@ -1,5 +1,9 @@
 {
     "title": "Ningen Kyouki Katsuo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36023.jpg",
+        "alt": "ningen-kyouki-katsuo"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "77",

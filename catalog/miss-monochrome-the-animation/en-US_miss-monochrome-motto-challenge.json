@@ -1,5 +1,9 @@
 {
     "title": "Miss Monochrome: Motto Challenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165849.jpg",
+        "alt": "miss-monochrome-motto-challenge"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

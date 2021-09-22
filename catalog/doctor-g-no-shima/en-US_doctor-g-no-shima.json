@@ -1,5 +1,9 @@
 {
     "title": "Doctor G no Shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/25875.jpg",
+        "alt": "doctor-g-no-shima"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

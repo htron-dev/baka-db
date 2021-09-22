@@ -1,11 +1,15 @@
 {
     "title": "TV-ban Pokemon Special Masara Town-hen Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76468.jpg",
+        "alt": "tv-ban-pokemon-special-masara-town-hen-recaps"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "TV 版 ポケットモンスター スペシャル マサラタウン編 総集編",
     "start_date": "2000-09-29",
     "opening_song": "\"Mezase Pokémon Master (めざせポケモンマスター)\" by Rica Matsumoto",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Nyaasu no Uta\" by Inuko Inuyama",
     "rating": "PG - Children",
     "tags": [
         "action",
@@ -25,7 +29,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Pok%C3%A9mon_(anime"
+            "link": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_%28anime%29"
         }
     ]
 }

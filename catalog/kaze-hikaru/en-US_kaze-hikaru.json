@@ -1,5 +1,9 @@
 {
     "title": "Kaze Hikaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15861.jpg",
+        "alt": "kaze-hikaru"
+    },
     "type": "manga",
     "volumes": "45",
     "original_name": "風光る",

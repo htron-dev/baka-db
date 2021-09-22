@@ -1,5 +1,9 @@
 {
     "title": "Kekkon no Jouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117553.jpg",
+        "alt": "kekkon-no-jouken"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "結婚の条件",

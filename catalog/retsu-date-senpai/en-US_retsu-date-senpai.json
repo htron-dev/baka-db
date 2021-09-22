@@ -1,5 +1,9 @@
 {
     "title": "Retsu!!! Date-Senpai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/82758.jpg",
+        "alt": "retsu-date-senpai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

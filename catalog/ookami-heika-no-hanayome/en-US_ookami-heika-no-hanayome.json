@@ -1,5 +1,9 @@
 {
     "title": "Ookami-heika no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163577.jpg",
+        "alt": "ookami-heika-no-hanayome"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "118",

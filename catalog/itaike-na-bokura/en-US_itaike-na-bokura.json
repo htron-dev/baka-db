@@ -1,5 +1,9 @@
 {
     "title": "Itaike na Bokura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82702.jpg",
+        "alt": "itaike-na-bokura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

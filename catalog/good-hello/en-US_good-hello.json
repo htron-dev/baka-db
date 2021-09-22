@@ -1,5 +1,9 @@
 {
     "title": "Good Hello",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230519.jpg",
+        "alt": "good-hello"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

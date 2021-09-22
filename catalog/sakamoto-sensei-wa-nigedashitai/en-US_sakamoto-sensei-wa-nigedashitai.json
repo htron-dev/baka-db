@@ -1,5 +1,9 @@
 {
     "title": "Sakamoto-sensei wa Nigedashitai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222975.jpg",
+        "alt": "sakamoto-sensei-wa-nigedashitai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

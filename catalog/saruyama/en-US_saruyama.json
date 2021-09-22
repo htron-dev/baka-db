@@ -1,5 +1,9 @@
 {
     "title": "Saruyama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171479.jpg",
+        "alt": "saruyama"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "33",

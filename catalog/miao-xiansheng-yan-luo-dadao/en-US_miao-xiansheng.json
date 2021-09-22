@@ -1,5 +1,9 @@
 {
     "title": "Miao Xiansheng",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1001/108593.jpg",
+        "alt": "miao-xiansheng"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "妙先生",

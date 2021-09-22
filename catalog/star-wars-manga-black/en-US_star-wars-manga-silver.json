@@ -1,5 +1,9 @@
 {
     "title": "Star Wars Manga Silver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33497.jpg",
+        "alt": "star-wars-manga-silver"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

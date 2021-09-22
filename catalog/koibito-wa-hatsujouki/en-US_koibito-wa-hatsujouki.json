@@ -1,5 +1,9 @@
 {
     "title": "Koibito wa Hatsujouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39859.jpg",
+        "alt": "koibito-wa-hatsujouki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

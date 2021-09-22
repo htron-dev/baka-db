@@ -1,5 +1,9 @@
 {
     "title": "~Mahou Gakuen~ Lunar!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26816.jpg",
+        "alt": "mahou-gakuen-lunar"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

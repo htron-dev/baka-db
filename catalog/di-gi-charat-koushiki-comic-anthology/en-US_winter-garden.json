@@ -1,5 +1,9 @@
 {
     "title": "Winter Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1718.jpg",
+        "alt": "winter-garden"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ウィンターガーデン",

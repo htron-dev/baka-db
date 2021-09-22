@@ -1,5 +1,9 @@
 {
     "title": "Dear Noman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234993.jpg",
+        "alt": "dear-noman"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

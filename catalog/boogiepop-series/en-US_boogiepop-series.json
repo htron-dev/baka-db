@@ -1,5 +1,9 @@
 {
     "title": "Boogiepop Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208765.jpg",
+        "alt": "boogiepop-series"
+    },
     "type": "light-novel",
     "original_name": "ブギーポップシリーズ",
     "start_date": "1998-02-10",

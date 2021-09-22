@@ -1,5 +1,9 @@
 {
     "title": "Ookami to Koushinryou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153860.jpg",
+        "alt": "ookami-to-koushinryou"
+    },
     "type": "light-novel",
     "original_name": "狼と香辛料",
     "start_date": "2006-02-10",

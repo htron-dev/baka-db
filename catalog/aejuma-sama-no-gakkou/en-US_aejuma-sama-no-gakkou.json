@@ -1,5 +1,9 @@
 {
     "title": "Aejuma-sama no Gakkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204367.jpg",
+        "alt": "aejuma-sama-no-gakkou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

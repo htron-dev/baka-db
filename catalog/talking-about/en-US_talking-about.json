@@ -1,5 +1,9 @@
 {
     "title": "Talking About...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14402.jpg",
+        "alt": "talking-about"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "17",

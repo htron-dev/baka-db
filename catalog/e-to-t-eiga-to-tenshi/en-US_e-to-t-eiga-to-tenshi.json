@@ -1,5 +1,9 @@
 {
     "title": "E to T.: Eiga to Tenshi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153802.jpg",
+        "alt": "e-to-t-eiga-to-tenshi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "52",

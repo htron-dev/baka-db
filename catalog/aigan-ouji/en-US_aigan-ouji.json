@@ -1,5 +1,9 @@
 {
     "title": "Aigan Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58121.jpg",
+        "alt": "aigan-ouji"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "愛玩王子",

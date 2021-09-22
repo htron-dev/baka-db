@@ -1,11 +1,15 @@
 {
     "title": "Fate/Grand Carnival",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1239/117596.jpg",
+        "alt": "fate-grand-carnival"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "Fate/Grand Carnival 第一特異宴 英霊限界大祭オリンピア",
     "start_date": "2020-12-31",
     "end_date": "2020-12-31",
-    "opening_song": "#1 cont. 1",
+    "opening_song": "#1 cont. 1: \"Super☆Affection (すーぱー ☆ あふぇくしょん)\" by Mash Kyrielight (Rie Takahashi), Nitocris (Minami Tanaka), Elizabeth Báthory (Rumi Ookubo), Shuten-douji (Aoi Yuuki), Ibaraki-douji (Nao Touyama), Queen Medb (Ayane Sakura),",
     "ending_song": "\"Wonderful Carnival\" by Masaaki Endoh",
     "rating": "None",
     "tags": [

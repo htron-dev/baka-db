@@ -1,5 +1,9 @@
 {
     "title": "The Breaker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177826.jpg",
+        "alt": "the-breaker"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ザ・ブレイカー",

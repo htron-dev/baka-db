@@ -1,5 +1,9 @@
 {
     "title": "Kase-san Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215181.jpg",
+        "alt": "kase-san-series"
+    },
     "type": "manga",
     "original_name": "加瀬さんシリーズ",
     "start_date": "2010-08-25",

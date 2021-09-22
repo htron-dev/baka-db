@@ -1,5 +1,9 @@
 {
     "title": "Nekomata Manma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222519.jpg",
+        "alt": "nekomata-manma"
+    },
     "type": "manga",
     "original_name": "猫又まんま",
     "start_date": "2018-05-22",

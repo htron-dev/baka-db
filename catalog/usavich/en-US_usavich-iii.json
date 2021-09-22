@@ -1,5 +1,9 @@
 {
     "title": "Usavich III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/15659.jpg",
+        "alt": "usavich-iii"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ウサビッチ III",

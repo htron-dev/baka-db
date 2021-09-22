@@ -1,5 +1,9 @@
 {
     "title": "Kusuriyubi ga Shitteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204452.jpg",
+        "alt": "kusuriyubi-ga-shitteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

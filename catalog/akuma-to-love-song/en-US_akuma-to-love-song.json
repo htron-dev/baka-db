@@ -1,5 +1,9 @@
 {
     "title": "Akuma to Love Song",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134595.jpg",
+        "alt": "akuma-to-love-song"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "91",

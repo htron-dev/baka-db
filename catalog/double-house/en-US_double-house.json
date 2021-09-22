@@ -1,5 +1,9 @@
 {
     "title": "Double House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21131.jpg",
+        "alt": "double-house"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

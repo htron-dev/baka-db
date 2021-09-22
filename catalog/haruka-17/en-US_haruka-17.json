@@ -1,5 +1,9 @@
 {
     "title": "Haruka 17",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219782.jpg",
+        "alt": "haruka-17"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "188",

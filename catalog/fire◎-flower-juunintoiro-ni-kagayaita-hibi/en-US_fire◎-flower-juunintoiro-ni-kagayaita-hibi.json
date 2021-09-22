@@ -1,9 +1,13 @@
 {
     "title": "Fire◎Flower: Juunintoiro ni Kagayaita Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/106277.jpg",
+        "alt": "fire◎-flower-juunintoiro-ni-kagayaita-hibi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",
-    "original_name": "Fire◎Flower",
+    "original_name": "Fire◎Flower: 十人十色に輝いた日々",
     "start_date": "2013-08-26",
     "tags": [
         "drama"

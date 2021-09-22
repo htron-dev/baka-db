@@ -1,5 +1,9 @@
 {
     "title": "Walkure Romanze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/108341.jpg",
+        "alt": "walkure-romanze"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ワルキューレロマンツェ",

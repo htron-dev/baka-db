@@ -1,5 +1,9 @@
 {
     "title": "Wagamama mo Kimi no Tame Nara Ikura demo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208342.jpg",
+        "alt": "wagamama-mo-kimi-no-tame-nara-ikura-demo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

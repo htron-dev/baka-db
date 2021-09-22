@@ -1,5 +1,9 @@
 {
     "title": "Kaichou no Joker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82378.jpg",
+        "alt": "kaichou-no-joker"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "39",

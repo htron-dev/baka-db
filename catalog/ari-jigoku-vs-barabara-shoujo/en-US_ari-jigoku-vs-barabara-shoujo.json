@@ -1,5 +1,9 @@
 {
     "title": "Ari Jigoku vs Barabara Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89581.jpg",
+        "alt": "ari-jigoku-vs-barabara-shoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

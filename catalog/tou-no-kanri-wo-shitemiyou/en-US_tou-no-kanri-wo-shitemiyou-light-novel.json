@@ -1,5 +1,9 @@
 {
     "title": "Tou no Kanri wo Shitemiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227836.jpg",
+        "alt": "tou-no-kanri-wo-shitemiyou"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "45",

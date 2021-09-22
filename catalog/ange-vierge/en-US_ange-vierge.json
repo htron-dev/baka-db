@@ -1,5 +1,9 @@
 {
     "title": "Ange Vierge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/80684.jpg",
+        "alt": "ange-vierge"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アンジュ・ヴィエルジュ",

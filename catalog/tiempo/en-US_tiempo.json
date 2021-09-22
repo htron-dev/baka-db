@@ -1,5 +1,9 @@
 {
     "title": "Tiempo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223412.jpg",
+        "alt": "tiempo"
+    },
     "type": "manga",
     "original_name": "TIEMPO-ティエンポ-",
     "start_date": "2018-08-09",

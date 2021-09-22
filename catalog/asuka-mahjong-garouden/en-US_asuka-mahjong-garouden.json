@@ -1,5 +1,9 @@
 {
     "title": "Asuka: Mahjong Garouden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164234.jpg",
+        "alt": "asuka-mahjong-garouden"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

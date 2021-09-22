@@ -1,5 +1,9 @@
 {
     "title": "Maou no Hisho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196083.jpg",
+        "alt": "maou-no-hisho"
+    },
     "type": "manga",
     "original_name": "魔王の秘書",
     "start_date": "2016-04-27",

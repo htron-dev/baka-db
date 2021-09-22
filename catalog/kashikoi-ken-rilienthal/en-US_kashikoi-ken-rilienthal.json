@@ -1,5 +1,9 @@
 {
     "title": "Kashikoi Ken Rilienthal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30211.jpg",
+        "alt": "kashikoi-ken-rilienthal"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

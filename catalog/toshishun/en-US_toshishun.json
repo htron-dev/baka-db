@@ -1,5 +1,9 @@
 {
     "title": "Toshishun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/74759.jpg",
+        "alt": "toshishun"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "杜子春",

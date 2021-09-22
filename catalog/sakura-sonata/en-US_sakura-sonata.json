@@ -1,5 +1,9 @@
 {
     "title": "Sakura Sonata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124401.jpg",
+        "alt": "sakura-sonata"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "さくらソナタ",

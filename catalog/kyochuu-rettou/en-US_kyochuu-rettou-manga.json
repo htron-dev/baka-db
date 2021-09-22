@@ -1,5 +1,9 @@
 {
     "title": "Kyochuu Rettou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154671.jpg",
+        "alt": "kyochuu-rettou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "24",

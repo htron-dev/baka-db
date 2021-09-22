@@ -1,5 +1,9 @@
 {
     "title": "Ao no Haha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136265.jpg",
+        "alt": "ao-no-haha"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

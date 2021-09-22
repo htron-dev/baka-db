@@ -1,5 +1,9 @@
 {
     "title": "Apartment of Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167202.jpg",
+        "alt": "apartment-of-gundam"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

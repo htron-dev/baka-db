@@ -1,5 +1,9 @@
 {
     "title": "Senzoku de Aishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30154.jpg",
+        "alt": "senzoku-de-aishite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Mousou One-Room",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121573.jpg",
+        "alt": "mousou-one-room"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

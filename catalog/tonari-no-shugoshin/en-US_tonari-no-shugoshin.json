@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Shugoshin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39913.jpg",
+        "alt": "tonari-no-shugoshin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

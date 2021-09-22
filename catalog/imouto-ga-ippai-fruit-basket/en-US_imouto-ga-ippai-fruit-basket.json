@@ -1,5 +1,9 @@
 {
     "title": "Imouto ga Ippai: Fruit Basket",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166794.jpg",
+        "alt": "imouto-ga-ippai-fruit-basket"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

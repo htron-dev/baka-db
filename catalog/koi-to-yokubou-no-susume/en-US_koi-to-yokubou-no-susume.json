@@ -1,5 +1,9 @@
 {
     "title": "Koi to Yokubou no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151292.jpg",
+        "alt": "koi-to-yokubou-no-susume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

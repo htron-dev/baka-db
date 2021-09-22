@@ -1,5 +1,9 @@
 {
     "title": "Kirai ja Nai kedo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137691.jpg",
+        "alt": "kirai-ja-nai-kedo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

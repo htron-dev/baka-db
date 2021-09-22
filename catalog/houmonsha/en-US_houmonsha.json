@@ -1,5 +1,9 @@
 {
     "title": "Houmonsha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17880.jpg",
+        "alt": "houmonsha"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "訪問者",

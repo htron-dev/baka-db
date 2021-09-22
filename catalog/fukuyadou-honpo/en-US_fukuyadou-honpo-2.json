@@ -1,5 +1,9 @@
 {
     "title": "Fukuyadou Honpo 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201053.jpg",
+        "alt": "fukuyadou-honpo-2"
+    },
     "type": "manga",
     "original_name": "福家堂本舗 弐",
     "start_date": "2016-08-12",

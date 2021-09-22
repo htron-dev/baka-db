@@ -1,5 +1,9 @@
 {
     "title": "Dragon Crisis!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36756.jpg",
+        "alt": "dragon-crisis"
+    },
     "type": "light-novel",
     "volumes": "13",
     "chapters": "86",

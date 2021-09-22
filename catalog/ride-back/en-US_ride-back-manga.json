@@ -1,5 +1,9 @@
 {
     "title": "RideBack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/55443.jpg",
+        "alt": "ride-back"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "62",

@@ -1,5 +1,9 @@
 {
     "title": "Pyun Pyun Maru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/42965.jpg",
+        "alt": "pyun-pyun-maru"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ピュンピュン丸",

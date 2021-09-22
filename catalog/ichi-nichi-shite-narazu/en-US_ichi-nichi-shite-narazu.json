@@ -1,5 +1,9 @@
 {
     "title": "Ichi Nichi Shite Narazu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1592/112485.jpg",
+        "alt": "ichi-nichi-shite-narazu"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "一日にして成らず",

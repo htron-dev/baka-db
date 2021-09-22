@@ -1,5 +1,9 @@
 {
     "title": "Nijiiro Days OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/83487.jpg",
+        "alt": "nijiiro-days-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "虹色デイズ OVA",

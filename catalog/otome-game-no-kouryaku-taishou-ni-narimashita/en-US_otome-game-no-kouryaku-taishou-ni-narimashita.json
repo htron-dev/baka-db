@@ -1,5 +1,9 @@
 {
     "title": "Otome Game no Kouryaku Taishou ni Narimashita....",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164372.jpg",
+        "alt": "otome-game-no-kouryaku-taishou-ni-narimashita"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "16",

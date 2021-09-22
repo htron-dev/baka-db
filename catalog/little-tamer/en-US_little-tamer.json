@@ -1,5 +1,9 @@
 {
     "title": "Little Tamer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182601.jpg",
+        "alt": "little-tamer"
+    },
     "type": "light-novel",
     "original_name": "リトルテイマー",
     "start_date": "2016-09-10",

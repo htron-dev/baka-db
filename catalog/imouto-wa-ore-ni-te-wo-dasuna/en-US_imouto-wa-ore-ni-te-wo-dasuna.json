@@ -1,5 +1,9 @@
 {
     "title": "Imouto wa Ore ni Te wo Dasuna!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163465.jpg",
+        "alt": "imouto-wa-ore-ni-te-wo-dasuna"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "妹は僕に手を出すなっ!",

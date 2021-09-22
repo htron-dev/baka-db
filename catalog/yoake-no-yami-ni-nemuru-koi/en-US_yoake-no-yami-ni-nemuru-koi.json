@@ -1,5 +1,9 @@
 {
     "title": "Yoake no Yami ni Nemuru Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/116787.jpg",
+        "alt": "yoake-no-yami-ni-nemuru-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

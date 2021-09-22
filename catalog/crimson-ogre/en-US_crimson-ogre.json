@@ -1,5 +1,9 @@
 {
     "title": "Crimson Ogre",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123685.jpg",
+        "alt": "crimson-ogre"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "クリムゾン・オーガ",

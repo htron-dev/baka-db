@@ -1,5 +1,9 @@
 {
     "title": "Nintama Rantarou Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/3649.jpg",
+        "alt": "nintama-rantarou-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画　忍たま乱太郎",

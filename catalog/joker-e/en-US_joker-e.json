@@ -1,5 +1,9 @@
 {
     "title": "Joker e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18453.jpg",
+        "alt": "joker-e"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ジョカへ.....",

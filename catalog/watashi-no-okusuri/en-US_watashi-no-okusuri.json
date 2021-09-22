@@ -1,5 +1,9 @@
 {
     "title": "Watashi no + Okusuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40651.jpg",
+        "alt": "watashi-no-okusuri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

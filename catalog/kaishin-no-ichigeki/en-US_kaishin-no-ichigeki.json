@@ -1,5 +1,9 @@
 {
     "title": "Kaishin no Ichigeki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237800.jpg",
+        "alt": "kaishin-no-ichigeki"
+    },
     "type": "manga",
     "original_name": "かいしんのいちげき！",
     "start_date": "2019-10-21",

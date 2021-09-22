@@ -1,5 +1,9 @@
 {
     "title": "Harumination",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168299.jpg",
+        "alt": "harumination"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "151",

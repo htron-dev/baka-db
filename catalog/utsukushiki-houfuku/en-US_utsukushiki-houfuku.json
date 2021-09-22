@@ -1,5 +1,9 @@
 {
     "title": "Utsukushiki Houfuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227548.jpg",
+        "alt": "utsukushiki-houfuku"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "美しき報復",

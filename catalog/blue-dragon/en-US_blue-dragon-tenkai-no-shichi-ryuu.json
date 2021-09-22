@@ -1,12 +1,16 @@
 {
     "title": "Blue Dragon: Tenkai no Shichi Ryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/21147.jpg",
+        "alt": "blue-dragon-tenkai-no-shichi-ryuu"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "BLUE DRAGON 天界の七竜",
     "start_date": "2008-04-05",
     "end_date": "2008-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hikari no Sasu Hō e (光の指す方へ)\" by JiLL-Decoy association (eps 1-26)",
+    "ending_song": "#1: \"Tsubomi (蕾)\" by JiLL-Decoy association (eps 1-14)",
     "rating": "PG - Children",
     "tags": [
         "adventure",

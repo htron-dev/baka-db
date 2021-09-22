@@ -1,5 +1,9 @@
 {
     "title": "Katawarezuki, Renren toshite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246671.jpg",
+        "alt": "katawarezuki-renren-toshite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

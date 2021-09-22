@@ -1,5 +1,9 @@
 {
     "title": "Chi no Wadachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200350.jpg",
+        "alt": "chi-no-wadachi"
+    },
     "type": "manga",
     "original_name": "血の轍",
     "start_date": "2017-02-24",

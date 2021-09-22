@@ -1,5 +1,9 @@
 {
     "title": "Unmei ja Nai Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208340.jpg",
+        "alt": "unmei-ja-nai-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

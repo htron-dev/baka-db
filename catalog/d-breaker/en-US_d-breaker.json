@@ -1,5 +1,9 @@
 {
     "title": "D-breaker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163114.jpg",
+        "alt": "d-breaker"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "14",

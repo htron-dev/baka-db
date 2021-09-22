@@ -1,5 +1,9 @@
 {
     "title": "Oneechan no Imouto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168919.jpg",
+        "alt": "oneechan-no-imouto"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "お姉ちゃんの妹",

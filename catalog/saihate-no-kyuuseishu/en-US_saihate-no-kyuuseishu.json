@@ -1,5 +1,9 @@
 {
     "title": "Saihate no Kyuuseishu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121935.jpg",
+        "alt": "saihate-no-kyuuseishu"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

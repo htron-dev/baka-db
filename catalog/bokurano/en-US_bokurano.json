@@ -1,5 +1,9 @@
 {
     "title": "Bokurano",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/57107.jpg",
+        "alt": "bokurano"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "66",

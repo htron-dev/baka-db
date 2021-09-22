@@ -1,5 +1,9 @@
 {
     "title": "Hero Hero-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/31023.jpg",
+        "alt": "hero-hero-kun"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "へろへろくん",

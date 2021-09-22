@@ -1,5 +1,9 @@
 {
     "title": "Digital Juice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/17437.jpg",
+        "alt": "digital-juice"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "デジタルジュース",

@@ -1,5 +1,9 @@
 {
     "title": "S-shiki Communication",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131701.jpg",
+        "alt": "s-shiki-communication"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Gatapishi-Sha de Ikou!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6236.jpg",
+        "alt": "gatapishi-sha-de-ikou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ガタピシ車でいこう!!",

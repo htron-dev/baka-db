@@ -1,5 +1,9 @@
 {
     "title": "Opera no Kaijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78717.jpg",
+        "alt": "opera-no-kaijin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "オペラ座の怪人",

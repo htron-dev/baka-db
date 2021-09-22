@@ -1,5 +1,9 @@
 {
     "title": "The Sword of Emperor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/80609.jpg",
+        "alt": "the-sword-of-emperor"
+    },
     "type": "manhwa",
     "volumes": "8",
     "chapters": "44",

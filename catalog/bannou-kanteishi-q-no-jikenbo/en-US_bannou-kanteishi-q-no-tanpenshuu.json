@@ -1,5 +1,9 @@
 {
     "title": "Bannou Kanteishi Q no Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155598.jpg",
+        "alt": "bannou-kanteishi-q-no-tanpenshuu"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "10",

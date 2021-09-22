@@ -1,12 +1,16 @@
 {
     "title": "Nagasarete Airantou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75254.jpg",
+        "alt": "nagasarete-airantou"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ながされて藍蘭島",
     "start_date": "2007-04-05",
     "end_date": "2007-04-05",
     "opening_song": "\"Days\" by Yui Horie",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Say Cheese!\" by Yui Horie (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

@@ -1,5 +1,9 @@
 {
     "title": "JoJo no Kimyou na Bouken II: Golden Heart/Golden Ring",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117969.jpg",
+        "alt": "jo-jo-no-kimyou-na-bouken-ii-golden-heart-golden-ring"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

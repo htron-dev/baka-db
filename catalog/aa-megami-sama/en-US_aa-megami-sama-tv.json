@@ -1,12 +1,16 @@
 {
     "title": "Aa! Megami-sama! (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/17841.jpg",
+        "alt": "aa-megami-sama-tv"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ああっ女神さまっ",
     "start_date": "2005-01-07",
     "end_date": "2005-01-07",
     "opening_song": "\"Open Your Mind ~Chiisana Hane Hirogete~ (OPEN YOUR MIND 〜小さな羽根ひろげて〜)\" by Yoko Ishida",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Negai (願い)\" by Yoko Ishida (eps 1-12, 24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

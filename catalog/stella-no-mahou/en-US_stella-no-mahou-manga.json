@@ -1,5 +1,9 @@
 {
     "title": "Stella no Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130093.jpg",
+        "alt": "stella-no-mahou"
+    },
     "type": "manga",
     "original_name": "ステラのまほう",
     "start_date": "2012-08-18",

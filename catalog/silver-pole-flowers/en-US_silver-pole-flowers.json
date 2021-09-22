@@ -1,5 +1,9 @@
 {
     "title": "Silver Pole Flowers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238461.jpg",
+        "alt": "silver-pole-flowers"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "35",

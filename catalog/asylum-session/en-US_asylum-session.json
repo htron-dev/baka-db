@@ -1,5 +1,9 @@
 {
     "title": "Asylum Session",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1796/112242.jpg",
+        "alt": "asylum-session"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アジール・セッション",

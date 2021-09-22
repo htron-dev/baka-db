@@ -1,5 +1,9 @@
 {
     "title": "Himeyaka na Delta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5091.jpg",
+        "alt": "himeyaka-na-delta"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "秘めやかなデルタ",

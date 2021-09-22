@@ -1,5 +1,9 @@
 {
     "title": "Inu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179530.jpg",
+        "alt": "inu"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "65",

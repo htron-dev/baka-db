@@ -1,5 +1,9 @@
 {
     "title": "Kamishibai Itazura Tanuki no Maki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/85261.jpg",
+        "alt": "kamishibai-itazura-tanuki-no-maki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "紙芝居 いたづら狸の卷",

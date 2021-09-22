@@ -1,9 +1,13 @@
 {
     "title": "Emanon - Sasurai Emanon Episode: 1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/116575.jpg",
+        "alt": "emanon-sasurai-emanon-episode-1"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",
-    "original_name": "EMANON さすらいエマノン Episode",
+    "original_name": "EMANON さすらいエマノン Episode:1",
     "start_date": "2008-10-18",
     "end_date": "2008-10-18",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Tsutsun de Hiraite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67867.jpg",
+        "alt": "tsutsun-de-hiraite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

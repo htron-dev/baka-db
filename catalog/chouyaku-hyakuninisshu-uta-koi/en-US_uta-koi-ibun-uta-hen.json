@@ -1,5 +1,9 @@
 {
     "title": "Uta Koi. Ibun Uta Hen.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81570.jpg",
+        "alt": "uta-koi-ibun-uta-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "うた恋い。異聞 うた変。",

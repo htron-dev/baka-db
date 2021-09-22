@@ -1,5 +1,9 @@
 {
     "title": "Happy Family",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/48397.jpg",
+        "alt": "happy-family"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ハッピー・ファミリー",

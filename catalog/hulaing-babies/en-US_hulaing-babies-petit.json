@@ -1,5 +1,9 @@
 {
     "title": "Hulaing Babies Petit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1454/104460.jpg",
+        "alt": "hulaing-babies-petit"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "フライングベイビーズ ☆ プチ",

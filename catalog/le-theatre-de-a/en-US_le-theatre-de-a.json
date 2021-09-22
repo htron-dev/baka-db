@@ -1,5 +1,9 @@
 {
     "title": "Le Théâtre de A",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73567.jpg",
+        "alt": "le-theatre-de-a"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

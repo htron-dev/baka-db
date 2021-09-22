@@ -1,5 +1,9 @@
 {
     "title": "Lost Song",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1494/91963.jpg",
+        "alt": "lost-song"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "LOST SONG",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Lost_Song_(anime"
+            "link": "https://en.wikipedia.org/wiki/Lost_Song_%28anime%29"
         }
     ]
 }

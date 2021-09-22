@@ -1,5 +1,9 @@
 {
     "title": "Magical Pâtissière Kosaki-chan!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157716.jpg",
+        "alt": "magical-patissiere-kosaki-chan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

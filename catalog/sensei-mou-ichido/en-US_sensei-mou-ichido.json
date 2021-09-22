@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Mou Ichido...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33165.jpg",
+        "alt": "sensei-mou-ichido"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

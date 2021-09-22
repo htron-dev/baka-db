@@ -1,5 +1,9 @@
 {
     "title": "Anata wo Zutto Aishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/72593.jpg",
+        "alt": "anata-wo-zutto-aishiteru"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "あなたをずっとあいしてる",

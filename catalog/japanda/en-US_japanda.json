@@ -1,5 +1,9 @@
 {
     "title": "Japanda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1400/103107.jpg",
+        "alt": "japanda"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ジャパンダ",

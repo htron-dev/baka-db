@@ -1,5 +1,9 @@
 {
     "title": "Letchu, Getchu, Saru Getchu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75759.jpg",
+        "alt": "letchu-getchu-saru-getchu"
+    },
     "type": "tv-serie",
     "episodes": "76",
     "original_name": "レッチュ ゲッチュ サルゲッチュ",
@@ -21,7 +25,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Ape_Escape_(shorts"
+            "link": "http://en.wikipedia.org/wiki/Ape_Escape_%28shorts%29"
         }
     ]
 }

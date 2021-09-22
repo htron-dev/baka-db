@@ -1,5 +1,9 @@
 {
     "title": "Shukumei no Partner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41760.jpg",
+        "alt": "shukumei-no-partner"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

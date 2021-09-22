@@ -1,5 +1,9 @@
 {
     "title": "Majuu Sensen: The Apocalypse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1708.jpg",
+        "alt": "majuu-sensen-the-apocalypse"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "魔獣戦線 THE APOCALYPSE",

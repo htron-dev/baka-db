@@ -1,5 +1,9 @@
 {
     "title": "Count Down",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/71852.jpg",
+        "alt": "count-down"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "カウントダウン",

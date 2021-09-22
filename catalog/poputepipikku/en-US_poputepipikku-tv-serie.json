@@ -1,11 +1,15 @@
 {
     "title": "Poputepipikku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/88816.jpg",
+        "alt": "poputepipikku"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ポプテピピック",
     "start_date": "2018-01-07",
     "end_date": "2018-01-07",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Twinkling star\" by Drop Stars (ep 1)",
     "ending_song": "\"POPPY PAPPY DAY\" by",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

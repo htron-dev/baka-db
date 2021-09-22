@@ -1,5 +1,9 @@
 {
     "title": "Jashin Kouryakusha no Sengi Kyoudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176689.jpg",
+        "alt": "jashin-kouryakusha-no-sengi-kyoudou"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "21",

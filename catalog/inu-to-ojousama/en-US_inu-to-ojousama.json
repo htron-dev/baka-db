@@ -1,5 +1,9 @@
 {
     "title": "Inu to Ojousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85769.jpg",
+        "alt": "inu-to-ojousama"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "犬とお嬢様",

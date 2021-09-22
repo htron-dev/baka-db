@@ -1,5 +1,9 @@
 {
     "title": "Nekogahara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175772.jpg",
+        "alt": "nekogahara"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

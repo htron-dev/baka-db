@@ -1,5 +1,9 @@
 {
     "title": "24-ku no Hanako-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239980.jpg",
+        "alt": "24-ku-no-hanako-san"
+    },
     "type": "manga",
     "original_name": "24 区の花子さん",
     "start_date": "2020-01-18",

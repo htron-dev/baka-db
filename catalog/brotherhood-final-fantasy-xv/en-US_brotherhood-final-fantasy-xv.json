@@ -1,5 +1,9 @@
 {
     "title": "Brotherhood: Final Fantasy XV",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/79397.jpg",
+        "alt": "brotherhood-final-fantasy-xv"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "BROTHERHOOD FINAL FANTASY XV",

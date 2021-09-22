@@ -1,5 +1,9 @@
 {
     "title": "Sasurai Afro Tanaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169034.jpg",
+        "alt": "sasurai-afro-tanaka"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "118",

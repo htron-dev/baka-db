@@ -1,12 +1,16 @@
 {
     "title": "Kodomo no Jikan (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/28234.jpg",
+        "alt": "kodomo-no-jikan-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "こどものじかん",
     "start_date": "2007-10-12",
     "end_date": "2007-10-12",
     "opening_song": "\"Rettsu! Ohime-sama Dakko (れっつ！おひめさまだっこ)\" by Eri Kitamura, Kei Shindou, and Mai Kadowaki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hanamaru☆Sensation (ハナマル ☆ センセイション)\" by Little Non",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "comedy",

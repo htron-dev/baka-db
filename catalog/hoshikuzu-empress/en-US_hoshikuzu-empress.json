@@ -1,5 +1,9 @@
 {
     "title": "Hoshikuzu Empress",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162739.jpg",
+        "alt": "hoshikuzu-empress"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "21",

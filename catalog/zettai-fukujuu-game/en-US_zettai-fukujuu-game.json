@@ -1,5 +1,9 @@
 {
     "title": "Zettai Fukujuu Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176560.jpg",
+        "alt": "zettai-fukujuu-game"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

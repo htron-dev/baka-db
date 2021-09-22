@@ -1,5 +1,9 @@
 {
     "title": "Dancing Policeman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/87159.jpg",
+        "alt": "dancing-policeman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

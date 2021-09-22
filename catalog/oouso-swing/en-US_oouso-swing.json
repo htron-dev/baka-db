@@ -1,5 +1,9 @@
 {
     "title": "Oouso Swing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109531.jpg",
+        "alt": "oouso-swing"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

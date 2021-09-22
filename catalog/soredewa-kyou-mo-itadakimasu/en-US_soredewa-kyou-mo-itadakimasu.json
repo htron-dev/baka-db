@@ -1,5 +1,9 @@
 {
     "title": "Soredewa Kyou mo Itadakimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/90809.jpg",
+        "alt": "soredewa-kyou-mo-itadakimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

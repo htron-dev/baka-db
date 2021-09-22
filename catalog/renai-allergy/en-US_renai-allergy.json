@@ -1,5 +1,9 @@
 {
     "title": "Renai Allergy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235118.jpg",
+        "alt": "renai-allergy"
+    },
     "type": "manga",
     "original_name": "恋愛アレルギー",
     "start_date": "2017-03-01",

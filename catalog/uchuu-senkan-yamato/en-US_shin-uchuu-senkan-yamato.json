@@ -1,5 +1,9 @@
 {
     "title": "Shin Uchuu Senkan Yamato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58659.jpg",
+        "alt": "shin-uchuu-senkan-yamato"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

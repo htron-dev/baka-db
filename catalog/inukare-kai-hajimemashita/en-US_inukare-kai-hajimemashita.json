@@ -1,5 +1,9 @@
 {
     "title": "Inukare, Kai Hajimemashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240282.jpg",
+        "alt": "inukare-kai-hajimemashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

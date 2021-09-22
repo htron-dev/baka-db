@@ -1,5 +1,9 @@
 {
     "title": "Hakuou Shijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153681.jpg",
+        "alt": "hakuou-shijin"
+    },
     "type": "light-novel",
     "original_name": "白桜四神",
     "start_date": "2013-03-30",

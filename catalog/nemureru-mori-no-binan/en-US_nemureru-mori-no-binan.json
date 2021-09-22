@@ -1,5 +1,9 @@
 {
     "title": "Nemureru Mori no Binan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/73047.jpg",
+        "alt": "nemureru-mori-no-binan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

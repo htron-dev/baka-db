@@ -1,5 +1,9 @@
 {
     "title": "Boukun wa Dokusenyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42715.jpg",
+        "alt": "boukun-wa-dokusenyoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",
@@ -12,7 +16,6 @@
         "Habara",
         "Yoshikadu (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

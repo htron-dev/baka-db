@@ -1,5 +1,9 @@
 {
     "title": "Kagirinaki Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/60889.jpg",
+        "alt": "kagirinaki-rakuen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "限りなき楽園",

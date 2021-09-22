@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Katasumi, Kiss no Zanzou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/8914.jpg",
+        "alt": "houkago-no-katasumi-kiss-no-zanzou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

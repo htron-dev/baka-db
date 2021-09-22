@@ -1,5 +1,9 @@
 {
     "title": "Fruit, Gateau au Chocolat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217206.jpg",
+        "alt": "fruit-gateau-au-chocolat"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

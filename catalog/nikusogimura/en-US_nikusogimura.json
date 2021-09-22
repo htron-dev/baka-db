@@ -1,5 +1,9 @@
 {
     "title": "Nikusogimura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230340.jpg",
+        "alt": "nikusogimura"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Captain Herlock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/62619.jpg",
+        "alt": "captain-herlock"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キャプテンハーロック",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Space_Pirate_Captain_Harlock_(film"
+            "link": "http://en.wikipedia.org/wiki/Space_Pirate_Captain_Harlock_%28film%29"
         }
     ]
 }

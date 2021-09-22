@@ -1,11 +1,15 @@
 {
     "title": "Yuukan Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/73828.jpg",
+        "alt": "yuukan-club"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "有閑倶楽部",
     "start_date": "1991-07-25",
     "end_date": "1991-07-25",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shake Dance\" by Toy Boys (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mystery",

@@ -1,5 +1,9 @@
 {
     "title": "Qin Shi Ming Yue: Yi Zhe Ru Shi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1491/91323.jpg",
+        "alt": "qin-shi-ming-yue-yi-zhe-ru-shi"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "秦时明月之医者入世",
@@ -25,7 +29,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/The_Legend_of_Qin_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/The_Legend_of_Qin_%28TV_series%29"
         }
     ]
 }

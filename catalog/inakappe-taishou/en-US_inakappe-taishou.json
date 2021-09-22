@@ -1,5 +1,9 @@
 {
     "title": "Inakappe Taishou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/59671.jpg",
+        "alt": "inakappe-taishou"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "いなかっぺ大将",

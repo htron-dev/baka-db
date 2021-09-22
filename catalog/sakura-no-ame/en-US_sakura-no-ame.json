@@ -1,5 +1,9 @@
 {
     "title": "Sakura no Ame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117013.jpg",
+        "alt": "sakura-no-ame"
+    },
     "type": "light-novel",
     "original_name": "桜ノ雨",
     "start_date": "2012-02-21",

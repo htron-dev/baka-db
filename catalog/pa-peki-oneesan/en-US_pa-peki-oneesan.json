@@ -1,5 +1,9 @@
 {
     "title": "Pa-peki! Oneesan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36292.jpg",
+        "alt": "pa-peki-oneesan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "パーペキ!お姉さん",
@@ -12,7 +16,6 @@
         "Nagano",
         "Akane (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

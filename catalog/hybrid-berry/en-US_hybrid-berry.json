@@ -1,5 +1,9 @@
 {
     "title": "Hybrid Berry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20358.jpg",
+        "alt": "hybrid-berry"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

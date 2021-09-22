@@ -1,5 +1,9 @@
 {
     "title": "\"Bungaku Shoujo\" Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16232.jpg",
+        "alt": "bungaku-shoujo-series"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "74",

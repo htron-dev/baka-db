@@ -1,5 +1,9 @@
 {
     "title": "Uchi no Majo Shirimasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171720.jpg",
+        "alt": "uchi-no-majo-shirimasen-ka"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

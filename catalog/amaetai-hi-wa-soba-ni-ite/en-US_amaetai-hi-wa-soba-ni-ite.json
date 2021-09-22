@@ -1,5 +1,9 @@
 {
     "title": "Amaetai Hi wa Soba ni Ite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204826.jpg",
+        "alt": "amaetai-hi-wa-soba-ni-ite"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

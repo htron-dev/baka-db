@@ -1,5 +1,9 @@
 {
     "title": "Yuri x Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128985.jpg",
+        "alt": "yuri-x-bara"
+    },
     "type": "light-novel",
     "original_name": "百合 × 薔薇",
     "start_date": "2011-03-25",

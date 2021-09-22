@@ -1,5 +1,9 @@
 {
     "title": "Sennen Gahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167181.jpg",
+        "alt": "sennen-gahou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "センネン画報",

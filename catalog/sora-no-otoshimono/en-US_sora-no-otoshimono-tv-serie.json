@@ -1,12 +1,16 @@
 {
     "title": "Sora no Otoshimono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/50307.jpg",
+        "alt": "sora-no-otoshimono"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "そらのおとしもの",
     "start_date": "2009-10-05",
     "end_date": "2009-10-05",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Ring My Bell (Main Vocal Hitomi)\" by Blue Drops (eps 1-10, 12)",
+    "ending_song": "#01: \"Soba ni Irareru Dake de (そばにいられるだけで )\" by Blue Drops (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

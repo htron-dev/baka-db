@@ -1,5 +1,9 @@
 {
     "title": "Bakemonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210355.jpg",
+        "alt": "bakemonogatari"
+    },
     "type": "manga",
     "original_name": "化物語",
     "start_date": "2018-03-14",

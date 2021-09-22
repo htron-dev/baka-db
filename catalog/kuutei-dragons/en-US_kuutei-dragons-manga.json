@@ -1,5 +1,9 @@
 {
     "title": "Kuutei Dragons",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185834.jpg",
+        "alt": "kuutei-dragons"
+    },
     "type": "manga",
     "original_name": "空挺ドラゴンズ",
     "start_date": "2016-06-07",

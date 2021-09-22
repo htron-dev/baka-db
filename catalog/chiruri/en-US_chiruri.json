@@ -1,5 +1,9 @@
 {
     "title": "Chiruri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1787/101133.jpg",
+        "alt": "chiruri"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "チルリ",

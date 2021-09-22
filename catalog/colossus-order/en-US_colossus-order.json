@@ -1,5 +1,9 @@
 {
     "title": "Colossus Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137657.jpg",
+        "alt": "colossus-order"
+    },
     "type": "manga",
     "original_name": "COLOSSUS ORDER コロッサス・オーダー",
     "start_date": "2013-04-20",

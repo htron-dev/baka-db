@@ -1,5 +1,9 @@
 {
     "title": "Gakuentou ni Majo wa Odoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193673.jpg",
+        "alt": "gakuentou-ni-majo-wa-odoru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Slayers Next",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1165/92536.jpg",
+        "alt": "slayers-next"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "スレイヤーズ NEXT",

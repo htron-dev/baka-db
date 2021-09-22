@@ -1,5 +1,9 @@
 {
     "title": "Kenshirou ni Yoroshiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232991.jpg",
+        "alt": "kenshirou-ni-yoroshiku"
+    },
     "type": "manga",
     "original_name": "ケンシロウによろしく",
     "start_date": "2020-03-16",

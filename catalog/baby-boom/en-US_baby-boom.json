@@ -1,5 +1,9 @@
 {
     "title": "Baby Boom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173595.jpg",
+        "alt": "baby-boom"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ベビーブーム",

@@ -1,5 +1,9 @@
 {
     "title": "Next Senki Ehrgeiz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1627/110624.jpg",
+        "alt": "next-senki-ehrgeiz"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ネクスト戦記エーアガイツ",

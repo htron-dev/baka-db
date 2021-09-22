@@ -1,5 +1,9 @@
 {
     "title": "Virtual-san wa Miteiru Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1604/98213.jpg",
+        "alt": "virtual-san-wa-miteiru-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "バーチャルさんはみている",

@@ -1,5 +1,9 @@
 {
     "title": "Kyou kara Hajimeru Osananajimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244886.jpg",
+        "alt": "kyou-kara-hajimeru-osananajimi"
+    },
     "type": "manga",
     "original_name": "今日から始める幼なじみ",
     "start_date": "2021-04-20",

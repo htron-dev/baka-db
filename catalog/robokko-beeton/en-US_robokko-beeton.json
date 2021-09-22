@@ -1,5 +1,9 @@
 {
     "title": "Robokko Beeton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/53671.jpg",
+        "alt": "robokko-beeton"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ろぼっ子ビートン",

@@ -1,12 +1,16 @@
 {
     "title": "Rosario to Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/75242.jpg",
+        "alt": "rosario-to-vampire"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ロザリオとバンパイア",
     "start_date": "2008-01-03",
     "end_date": "2008-01-03",
     "opening_song": "\"COSMIC LOVE\" by Nana Mizuki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"COSMIC LOVE\" by Nana Mizuki (ep 1, 13)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "harem",

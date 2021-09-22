@@ -1,5 +1,9 @@
 {
     "title": "Pink no Teisoutai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72377.jpg",
+        "alt": "pink-no-teisoutai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

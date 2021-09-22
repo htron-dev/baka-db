@@ -1,5 +1,9 @@
 {
     "title": "Sonna ni Iu nara Daiteyaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238116.jpg",
+        "alt": "sonna-ni-iu-nara-daiteyaru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

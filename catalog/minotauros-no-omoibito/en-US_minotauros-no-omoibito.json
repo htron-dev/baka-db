@@ -1,5 +1,9 @@
 {
     "title": "Minotauros no Omoibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229426.jpg",
+        "alt": "minotauros-no-omoibito"
+    },
     "type": "manga",
     "original_name": "ミノタウロスの想い人",
     "start_date": "2019-09-12",

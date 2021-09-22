@@ -1,5 +1,9 @@
 {
     "title": "Itazura Privacy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233063.jpg",
+        "alt": "itazura-privacy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Inu no Iru Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/103679.jpg",
+        "alt": "inu-no-iru-seikatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

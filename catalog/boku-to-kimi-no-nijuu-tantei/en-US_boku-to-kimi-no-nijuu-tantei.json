@@ -1,5 +1,9 @@
 {
     "title": "Boku to Kimi no Nijuu Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237375.jpg",
+        "alt": "boku-to-kimi-no-nijuu-tantei"
+    },
     "type": "manga",
     "original_name": "ボクとキミの二重探偵",
     "start_date": "2020-03-04",

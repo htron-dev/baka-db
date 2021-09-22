@@ -1,5 +1,9 @@
 {
     "title": "Kenja no Tsurugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164596.jpg",
+        "alt": "kenja-no-tsurugi"
+    },
     "type": "light-novel",
     "original_name": "賢者の剣",
     "start_date": "2015-09-30",

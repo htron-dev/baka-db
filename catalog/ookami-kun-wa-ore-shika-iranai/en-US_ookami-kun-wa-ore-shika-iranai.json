@@ -1,5 +1,9 @@
 {
     "title": "Ookami-kun wa Ore shika Iranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231945.jpg",
+        "alt": "ookami-kun-wa-ore-shika-iranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Hanaoni Tobira no Sakaimeya-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164662.jpg",
+        "alt": "hanaoni-tobira-no-sakaimeya-san"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

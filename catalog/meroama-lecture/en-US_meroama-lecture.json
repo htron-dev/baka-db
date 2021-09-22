@@ -1,5 +1,9 @@
 {
     "title": "Meroama Lecture",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10945.jpg",
+        "alt": "meroama-lecture"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Osananajimi to, Kiss Shitakunakunai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205169.jpg",
+        "alt": "osananajimi-to-kiss-shitakunakunai"
+    },
     "type": "manga",
     "original_name": "幼なじみと、キスしたくなくない。",
     "start_date": "2017-05-20",

@@ -1,5 +1,9 @@
 {
     "title": "Shin Sangoku Shimai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232361.jpg",
+        "alt": "shin-sangoku-shimai"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Coffee wo Shizuka ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237848.jpg",
+        "alt": "coffee-wo-shizuka-ni"
+    },
     "type": "manga",
     "original_name": "珈琲をしづかに",
     "start_date": "2019-04-22",

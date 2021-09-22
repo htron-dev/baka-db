@@ -1,5 +1,9 @@
 {
     "title": "Dusk Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62009.jpg",
+        "alt": "dusk-story"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

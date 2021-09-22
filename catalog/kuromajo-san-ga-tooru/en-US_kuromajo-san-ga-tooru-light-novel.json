@@ -1,5 +1,9 @@
 {
     "title": "Kuromajo-san ga Tooru!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149358.jpg",
+        "alt": "kuromajo-san-ga-tooru"
+    },
     "type": "light-novel",
     "original_name": "黒魔女さんが通る!!",
     "start_date": "2005-09-15",

@@ -1,5 +1,9 @@
 {
     "title": "Midnight Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193799.jpg",
+        "alt": "midnight-blue"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

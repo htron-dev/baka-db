@@ -1,12 +1,16 @@
 {
     "title": "Neon Genesis Evangelion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+        "alt": "neon-genesis-evangelion"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "新世紀エヴァンゲリオン",
     "start_date": "1995-10-04",
     "end_date": "1995-10-04",
     "opening_song": "\"Zankoku na Tenshi no Thesis (残酷な天使のテーゼ, A Cruel Angel's Thesis)\" by Yoko Takahashi",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Fly Me to the Moon\" by Claire",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

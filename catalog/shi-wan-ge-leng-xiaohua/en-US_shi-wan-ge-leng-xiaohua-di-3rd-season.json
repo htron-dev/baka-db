@@ -1,5 +1,9 @@
 {
     "title": "Shi Wan Ge Leng Xiaohua Di 3rd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/79767.jpg",
+        "alt": "shi-wan-ge-leng-xiaohua-di-3rd-season"
+    },
     "type": "ona",
     "episodes": "49",
     "original_name": "十万个冷笑话第 3 季",
@@ -22,7 +26,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/One_Hundred_Thousand_Bad_Jokes_(film"
+            "link": "https://en.wikipedia.org/wiki/One_Hundred_Thousand_Bad_Jokes_%28film%29"
         }
     ]
 }

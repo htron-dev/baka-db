@@ -1,5 +1,9 @@
 {
     "title": "Dragon Kishidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180630.jpg",
+        "alt": "dragon-kishidan"
+    },
     "type": "manga",
     "volumes": "26",
     "original_name": "ドラゴン騎士団",

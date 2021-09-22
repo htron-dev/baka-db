@@ -1,5 +1,9 @@
 {
     "title": "Initial D Battle Stage 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1236/113306.jpg",
+        "alt": "initial-d-battle-stage-3"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "INITIAL D BATTLE STAGE 3",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/List_of_Initial_D_episodes#Initial_D:_Battle_Stage_3_(2021"
+            "link": "https://en.wikipedia.org/wiki/List_of_Initial_D_episodes#Initial_D:_Battle_Stage_3_%282021%29"
         }
     ]
 }

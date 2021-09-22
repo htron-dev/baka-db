@@ -1,5 +1,9 @@
 {
     "title": "One Piece",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/55539.jpg",
+        "alt": "one-piece"
+    },
     "type": "manga",
     "original_name": "ONE PIECE",
     "start_date": "1997-07-22",

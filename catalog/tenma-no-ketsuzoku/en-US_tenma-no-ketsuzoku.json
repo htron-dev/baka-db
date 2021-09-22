@@ -1,5 +1,9 @@
 {
     "title": "Tenma no Ketsuzoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1900.jpg",
+        "alt": "tenma-no-ketsuzoku"
+    },
     "type": "manga",
     "volumes": "24",
     "original_name": "天馬の血族",

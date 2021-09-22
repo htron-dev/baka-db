@@ -1,5 +1,9 @@
 {
     "title": "Atashi wa Sore wo Gaman Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77769.jpg",
+        "alt": "atashi-wa-sore-wo-gaman-dekinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

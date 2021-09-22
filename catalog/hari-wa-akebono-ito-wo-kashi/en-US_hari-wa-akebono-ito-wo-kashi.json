@@ -1,5 +1,9 @@
 {
     "title": "Hari wa Akebono Ito wo Kashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191954.jpg",
+        "alt": "hari-wa-akebono-ito-wo-kashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Koudai-ke no Hitobito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126855.jpg",
+        "alt": "koudai-ke-no-hitobito"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "47",

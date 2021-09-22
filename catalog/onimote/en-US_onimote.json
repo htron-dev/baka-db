@@ -1,5 +1,9 @@
 {
     "title": "Onimote",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166785.jpg",
+        "alt": "onimote"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "54",

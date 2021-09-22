@@ -1,5 +1,9 @@
 {
     "title": "Manpuku Yuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149556.jpg",
+        "alt": "manpuku-yuri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

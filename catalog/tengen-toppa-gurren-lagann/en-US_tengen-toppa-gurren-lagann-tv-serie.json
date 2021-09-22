@@ -1,12 +1,16 @@
 {
     "title": "Tengen Toppa Gurren Lagann",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+        "alt": "tengen-toppa-gurren-lagann"
+    },
     "type": "tv-serie",
     "episodes": "27",
     "original_name": "天元突破グレンラガン",
     "start_date": "2007-04-01",
     "end_date": "2007-04-01",
     "opening_song": "\"Sorairo Days (空色デイズ)\" by Shoko Nakagawa (eps 1-14, 16-26)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"UNDERGROUND\" by HIGH VOLTAGE (eps 1-15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

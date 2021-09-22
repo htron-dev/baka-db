@@ -1,5 +1,9 @@
 {
     "title": "Fuyubara Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/43123.jpg",
+        "alt": "fuyubara-hime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "FairlyLife",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32517.jpg",
+        "alt": "fairly-life"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

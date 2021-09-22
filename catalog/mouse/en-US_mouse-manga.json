@@ -1,5 +1,9 @@
 {
     "title": "Mouse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174374.jpg",
+        "alt": "mouse"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "117",

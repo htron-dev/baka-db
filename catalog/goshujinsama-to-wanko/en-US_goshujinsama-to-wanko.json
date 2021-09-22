@@ -1,5 +1,9 @@
 {
     "title": "Goshujinsama to Wanko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/47101.jpg",
+        "alt": "goshujinsama-to-wanko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

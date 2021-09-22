@@ -1,5 +1,9 @@
 {
     "title": "Oretachi no Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172277.jpg",
+        "alt": "oretachi-no-quest"
+    },
     "type": "light-novel",
     "original_name": "俺たちのクエスト",
     "start_date": "2016-02-10",

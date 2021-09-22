@@ -1,12 +1,16 @@
 {
     "title": "Project ARMS: The 2nd Chapter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/72859.jpg",
+        "alt": "project-arms-the-2nd-chapter"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "PROJECT ARMS -The 2nd Chapter-",
     "start_date": "2001-10-06",
     "end_date": "2001-10-06",
     "opening_song": "\"Time Waits for No One\" by WAG",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Timeless Sleep\" by Garnet Crow (eps 1-14)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

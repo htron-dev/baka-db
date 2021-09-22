@@ -1,5 +1,9 @@
 {
     "title": "Anima Yell!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1051/93862.jpg",
+        "alt": "anima-yell"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アニマエール！",

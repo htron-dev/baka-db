@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Pleiades: Prism Palette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155670.jpg",
+        "alt": "houkago-no-pleiades-prism-palette"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

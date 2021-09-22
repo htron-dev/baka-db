@@ -1,5 +1,9 @@
 {
     "title": "Break-Age",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/61153.jpg",
+        "alt": "break-age"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "BREAK-AGE",

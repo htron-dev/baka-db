@@ -1,11 +1,15 @@
 {
     "title": "Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/73595.jpg",
+        "alt": "danna-ga-nani-wo-itteiru-ka-wakaranai-ken-2-sure-me"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "旦那が何を言っているかわからない件 2 スレ目",
     "start_date": "2015-04-03",
     "end_date": "2015-04-03",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yuruganu Futari ~Ai no Sanka~ (ゆるがぬふたり～愛の讃歌～)\" by Kaoru & Hajime (Yukari Tamura & Kenichi Suzumura) (eps 1-5, 7, 9-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

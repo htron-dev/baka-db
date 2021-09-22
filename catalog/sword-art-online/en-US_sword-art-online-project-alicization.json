@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online: Project Alicization",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201451.jpg",
+        "alt": "sword-art-online-project-alicization"
+    },
     "type": "manga",
     "original_name": "ソードアート・オンライン プロジェクト・アリシゼーション",
     "start_date": "2016-08-09",

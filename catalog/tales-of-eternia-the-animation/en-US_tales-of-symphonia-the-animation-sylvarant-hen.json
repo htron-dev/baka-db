@@ -1,12 +1,16 @@
 {
     "title": "Tales of Symphonia The Animation: Sylvarant-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/77063.jpg",
+        "alt": "tales-of-symphonia-the-animation-sylvarant-hen"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "テイルズオブシンフォニア THE ANIMATION シルヴァラント編",
     "start_date": "2007-06-08",
     "end_date": "2007-06-08",
     "opening_song": "\"ALMATERIA\" by Eri Kawai",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Negai (願い)\" by Kaori Hikita (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

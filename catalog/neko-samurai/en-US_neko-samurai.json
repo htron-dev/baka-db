@@ -1,5 +1,9 @@
 {
     "title": "Neko Samurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25250.jpg",
+        "alt": "neko-samurai"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ネコ侍",

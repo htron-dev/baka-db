@@ -1,5 +1,9 @@
 {
     "title": "Fate/hollow ataraxia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115043.jpg",
+        "alt": "fate-hollow-ataraxia"
+    },
     "type": "manga",
     "original_name": "Fate/hollow ataraxia",
     "start_date": "2013-05-25",

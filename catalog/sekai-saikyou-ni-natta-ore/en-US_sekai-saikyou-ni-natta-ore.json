@@ -1,5 +1,9 @@
 {
     "title": "Sekai Saikyou ni Natta Ore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201496.jpg",
+        "alt": "sekai-saikyou-ni-natta-ore"
+    },
     "type": "light-novel",
     "original_name": "世界最強になった俺",
     "start_date": "2017-10-21",

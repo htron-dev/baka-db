@@ -1,5 +1,9 @@
 {
     "title": "Hetalia World☆Stars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152056.jpg",
+        "alt": "hetalia-world☆-stars"
+    },
     "type": "manga",
     "original_name": "ヘタリア World☆Stars",
     "start_date": "2014-09-22",

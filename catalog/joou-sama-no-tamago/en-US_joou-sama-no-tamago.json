@@ -1,5 +1,9 @@
 {
     "title": "Joou-sama no Tamago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14635.jpg",
+        "alt": "joou-sama-no-tamago"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

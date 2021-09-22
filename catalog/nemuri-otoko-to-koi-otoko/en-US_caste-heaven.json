@@ -1,5 +1,9 @@
 {
     "title": "Caste Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158991.jpg",
+        "alt": "caste-heaven"
+    },
     "type": "manga",
     "original_name": "カーストヘヴン",
     "start_date": "2014-03-07",

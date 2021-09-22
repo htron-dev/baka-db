@@ -1,5 +1,9 @@
 {
     "title": "Guitar wo Motta Shounen: Kikaider vs. Inazuman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/23337.jpg",
+        "alt": "guitar-wo-motta-shounen-kikaider-vs-inazuman"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ギターを持った少年 -キカイダー VS イナズマン-",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Kikaider_(anime"
+            "link": "http://en.wikipedia.org/wiki/Kikaider_%28anime%29#the_Boy_Who_Carried_a_Guitar:_Kikaider_vs._Inazuman"
         }
     ]
 }

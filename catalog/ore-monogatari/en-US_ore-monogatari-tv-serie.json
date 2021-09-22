@@ -1,12 +1,16 @@
 {
     "title": "Ore Monogatari!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/69455.jpg",
+        "alt": "ore-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "俺物語!!",
     "start_date": "2015-04-09",
     "end_date": "2015-04-09",
     "opening_song": "\"Miraikei Answer (未来形 Answer)\" by TRUSTRICK (eps 1-23)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shiawase no Arika (幸せのありか)\" by LOCAL CONNECT (eps 1-23)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

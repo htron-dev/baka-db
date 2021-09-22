@@ -1,5 +1,9 @@
 {
     "title": "Choujigen Game Neptune: Megami Tsuushin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120037.jpg",
+        "alt": "choujigen-game-neptune-megami-tsuushin"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

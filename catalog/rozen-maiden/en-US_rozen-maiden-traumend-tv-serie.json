@@ -1,5 +1,9 @@
 {
     "title": "Rozen Maiden: Träumend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/10242.jpg",
+        "alt": "rozen-maiden-traumend"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ローゼンメイデン トロイメント",

@@ -1,5 +1,9 @@
 {
     "title": "Anata wa Iyarashii Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223876.jpg",
+        "alt": "anata-wa-iyarashii-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Vigilante",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178756.jpg",
+        "alt": "vigilante"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "ヴィジランテ",

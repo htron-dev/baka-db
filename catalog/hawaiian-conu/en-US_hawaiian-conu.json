@@ -1,5 +1,9 @@
 {
     "title": "Hawaiian Conu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1127/93313.jpg",
+        "alt": "hawaiian-conu"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ハワイアン コヌ",

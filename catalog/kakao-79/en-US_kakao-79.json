@@ -1,5 +1,9 @@
 {
     "title": "Kakao 79%",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207049.jpg",
+        "alt": "kakao-79"
+    },
     "type": "manga",
     "original_name": "カカオ 79%",
     "start_date": "2015-05-02",

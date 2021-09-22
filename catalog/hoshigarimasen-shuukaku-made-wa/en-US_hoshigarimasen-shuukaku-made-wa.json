@@ -1,5 +1,9 @@
 {
     "title": "Hoshigarimasen Shuukaku made wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229886.jpg",
+        "alt": "hoshigarimasen-shuukaku-made-wa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Alps no Shoujo Heidi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1338/110897.jpg",
+        "alt": "alps-no-shoujo-heidi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "アルプスの少女ハイジ",

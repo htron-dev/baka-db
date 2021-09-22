@@ -1,5 +1,9 @@
 {
     "title": "Shugo Chara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135293.jpg",
+        "alt": "shugo-chara"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "55",

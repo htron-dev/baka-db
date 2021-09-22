@@ -1,5 +1,9 @@
 {
     "title": "Tonimo Kakunimo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237959.jpg",
+        "alt": "tonimo-kakunimo"
+    },
     "type": "manga",
     "original_name": "兎にも角にも",
     "start_date": "2019-03-07",

@@ -1,5 +1,9 @@
 {
     "title": "NOW",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1395.jpg",
+        "alt": "now"
+    },
     "type": "manhwa",
     "volumes": "25",
     "original_name": "나우",

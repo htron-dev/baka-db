@@ -1,11 +1,15 @@
 {
     "title": "Chitose Get You!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/50537.jpg",
+        "alt": "chitose-get-you"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ちとせげっちゅ!!",
     "start_date": "2012-07-02",
     "end_date": "2012-07-02",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Chitose Get You!! no Uta (ちとせげっちゅ!!の歌)\" by Sayaka Nakaya, Sora Tokui & MAKO",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

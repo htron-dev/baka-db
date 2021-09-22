@@ -1,5 +1,9 @@
 {
     "title": "Semai Sekai no Identity",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203193.jpg",
+        "alt": "semai-sekai-no-identity"
+    },
     "type": "manga",
     "original_name": "狭い世界のアイデンティティー",
     "start_date": "2016-08-22",

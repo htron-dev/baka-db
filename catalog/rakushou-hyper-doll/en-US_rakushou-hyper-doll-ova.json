@@ -1,5 +1,9 @@
 {
     "title": "Rakushou! Hyper Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/29206.jpg",
+        "alt": "rakushou-hyper-doll"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "楽勝! ハイパードール",

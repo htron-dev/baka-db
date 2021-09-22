@@ -1,5 +1,9 @@
 {
     "title": "Warau Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/83702.jpg",
+        "alt": "warau-tsuki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "笑う月",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Moete Ii desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/33794.jpg",
+        "alt": "kimi-ni-moete-ii-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

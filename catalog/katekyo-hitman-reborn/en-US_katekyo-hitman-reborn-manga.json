@@ -1,5 +1,9 @@
 {
     "title": "Katekyo Hitman Reborn!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32291.jpg",
+        "alt": "katekyo-hitman-reborn"
+    },
     "type": "manga",
     "volumes": "42",
     "chapters": "411",

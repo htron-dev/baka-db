@@ -1,5 +1,9 @@
 {
     "title": "Yasashii Lion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1238/112799.jpg",
+        "alt": "yasashii-lion"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "やさしいライオン",

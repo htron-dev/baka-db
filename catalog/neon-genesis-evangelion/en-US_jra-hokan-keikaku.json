@@ -1,5 +1,9 @@
 {
     "title": "JRA Hokan Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/78558.jpg",
+        "alt": "jra-hokan-keikaku"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "JRA 補完計画",

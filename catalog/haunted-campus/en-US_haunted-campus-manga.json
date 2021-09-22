@@ -1,5 +1,9 @@
 {
     "title": "Haunted Campus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215087.jpg",
+        "alt": "haunted-campus"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

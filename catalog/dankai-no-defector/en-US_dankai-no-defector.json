@@ -1,5 +1,9 @@
 {
     "title": "Dankai no Defector",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164132.jpg",
+        "alt": "dankai-no-defector"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "断界の欠喚士〈ディフェクター〉",

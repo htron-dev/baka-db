@@ -1,5 +1,9 @@
 {
     "title": "Mokushiroku Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177137.jpg",
+        "alt": "mokushiroku-alice"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

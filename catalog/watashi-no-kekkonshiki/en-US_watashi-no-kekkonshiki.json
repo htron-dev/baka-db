@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Kekkonshiki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/66807.jpg",
+        "alt": "watashi-no-kekkonshiki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "私の結婚式!",

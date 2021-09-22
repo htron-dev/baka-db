@@ -1,5 +1,9 @@
 {
     "title": "Hoshizora no Shita, Kimi no Koe dake wo Dakishimeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228383.jpg",
+        "alt": "hoshizora-no-shita-kimi-no-koe-dake-wo-dakishimeru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

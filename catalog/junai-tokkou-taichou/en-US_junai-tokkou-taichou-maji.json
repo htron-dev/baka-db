@@ -1,5 +1,9 @@
 {
     "title": "Junai Tokkou Taichou! Maji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171063.jpg",
+        "alt": "junai-tokkou-taichou-maji"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

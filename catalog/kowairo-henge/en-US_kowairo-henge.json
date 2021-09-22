@@ -1,5 +1,9 @@
 {
     "title": "Kowairo Henge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79989.jpg",
+        "alt": "kowairo-henge"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

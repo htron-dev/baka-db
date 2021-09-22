@@ -1,5 +1,9 @@
 {
     "title": "Rensai Shuuryou! Shounen Jump Ougon-ki no Butaiura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225200.jpg",
+        "alt": "rensai-shuuryou-shounen-jump-ougon-ki-no-butaiura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

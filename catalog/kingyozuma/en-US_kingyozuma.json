@@ -1,5 +1,9 @@
 {
     "title": "Kingyozuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230877.jpg",
+        "alt": "kingyozuma"
+    },
     "type": "manga",
     "original_name": "金魚妻",
     "start_date": "2016-02-24",

@@ -1,5 +1,9 @@
 {
     "title": "50cm no Isshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/244397.jpg",
+        "alt": "50-cm-no-isshou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

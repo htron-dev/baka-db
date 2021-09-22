@@ -1,5 +1,9 @@
 {
     "title": "Dame Ningen Jan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21258.jpg",
+        "alt": "dame-ningen-jan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

@@ -1,5 +1,9 @@
 {
     "title": "Amazing Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30345.jpg",
+        "alt": "amazing-kiss"
+    },
     "type": "manhwa",
     "original_name": "어메이징 키스",
     "tags": [

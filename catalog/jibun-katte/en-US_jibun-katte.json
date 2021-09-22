@@ -1,5 +1,9 @@
 {
     "title": "Jibun Katte.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175506.jpg",
+        "alt": "jibun-katte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

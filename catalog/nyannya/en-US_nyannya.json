@@ -1,5 +1,9 @@
 {
     "title": "Nyannya!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19083.jpg",
+        "alt": "nyannya"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "にゃんにゃ!",

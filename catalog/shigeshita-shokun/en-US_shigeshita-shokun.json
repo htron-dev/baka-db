@@ -1,5 +1,9 @@
 {
     "title": "Shigeshita Shokun!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/67099.jpg",
+        "alt": "shigeshita-shokun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

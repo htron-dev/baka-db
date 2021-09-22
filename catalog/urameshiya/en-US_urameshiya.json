@@ -1,5 +1,9 @@
 {
     "title": "Urameshiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45443.jpg",
+        "alt": "urameshiya"
+    },
     "type": "manga",
     "original_name": "うらめしや",
     "tags": [

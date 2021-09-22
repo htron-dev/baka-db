@@ -1,5 +1,9 @@
 {
     "title": "Kakushigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/83525.jpg",
+        "alt": "kakushigoto"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "かくしごと",

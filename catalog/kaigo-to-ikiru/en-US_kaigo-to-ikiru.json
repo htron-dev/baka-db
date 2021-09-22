@@ -1,5 +1,9 @@
 {
     "title": "Kaigo to Ikiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1818/103921.jpg",
+        "alt": "kaigo-to-ikiru"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "介護と生きる",

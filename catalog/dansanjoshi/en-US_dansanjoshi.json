@@ -1,5 +1,9 @@
 {
     "title": "Dansanjoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188776.jpg",
+        "alt": "dansanjoshi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "83",

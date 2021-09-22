@@ -1,5 +1,9 @@
 {
     "title": "Deadlock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34262.jpg",
+        "alt": "deadlock"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "デッドロック",

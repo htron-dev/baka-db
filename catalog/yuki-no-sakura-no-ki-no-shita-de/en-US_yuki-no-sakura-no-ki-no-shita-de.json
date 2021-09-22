@@ -1,5 +1,9 @@
 {
     "title": "Yuki no Sakura no Ki no Shita de...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153975.jpg",
+        "alt": "yuki-no-sakura-no-ki-no-shita-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

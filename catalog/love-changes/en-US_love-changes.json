@@ -1,5 +1,9 @@
 {
     "title": "Love Changes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79227.jpg",
+        "alt": "love-changes"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

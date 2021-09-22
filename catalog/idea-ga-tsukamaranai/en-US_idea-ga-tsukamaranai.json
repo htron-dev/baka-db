@@ -1,5 +1,9 @@
 {
     "title": "Idea ga Tsukamaranai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/74775.jpg",
+        "alt": "idea-ga-tsukamaranai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アイデアが捕まらない。",

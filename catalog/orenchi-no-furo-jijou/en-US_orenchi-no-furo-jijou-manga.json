@@ -1,5 +1,9 @@
 {
     "title": "Orenchi no Furo Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/90859.jpg",
+        "alt": "orenchi-no-furo-jijou"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "114",

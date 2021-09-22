@@ -1,5 +1,9 @@
 {
     "title": "Sanchoku♥Hounyuu Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202231.jpg",
+        "alt": "sanchoku♥-hounyuu-musume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

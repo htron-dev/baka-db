@@ -1,5 +1,9 @@
 {
     "title": "Noise:Dragora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186000.jpg",
+        "alt": "noise-dragora"
+    },
     "type": "light-novel",
     "original_name": "ノイズ：ドラゴラ",
     "start_date": "2016-10-08",

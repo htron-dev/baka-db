@@ -1,5 +1,9 @@
 {
     "title": "Tesso no Ori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199532.jpg",
+        "alt": "tesso-no-ori"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Kodoku na Taka wa Hitokoishikute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174464.jpg",
+        "alt": "kodoku-na-taka-wa-hitokoishikute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Samurai-tachi no Meiji Ishin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96699.jpg",
+        "alt": "samurai-tachi-no-meiji-ishin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Gin no Saji 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/57995.jpg",
+        "alt": "gin-no-saji-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "銀の匙 2nd シーズン",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Silver_Spoon_(manga"
+            "link": "https://en.wikipedia.org/wiki/Silver_Spoon_%28manga%29"
         }
     ]
 }

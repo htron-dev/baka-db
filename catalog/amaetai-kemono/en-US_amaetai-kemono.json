@@ -1,5 +1,9 @@
 {
     "title": "Amaetai Kemono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248492.jpg",
+        "alt": "amaetai-kemono"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

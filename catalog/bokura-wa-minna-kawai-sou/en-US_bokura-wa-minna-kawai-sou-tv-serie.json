@@ -1,12 +1,16 @@
 {
     "title": "Bokura wa Minna Kawai-sou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/64629.jpg",
+        "alt": "bokura-wa-minna-kawai-sou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "僕らはみんな河合荘",
     "start_date": "2014-04-04",
     "end_date": "2014-04-04",
     "opening_song": "\"Itsuka no, Ikutsuka no Kimi to no Sekai (いつかの、いくつかのきみとのせかい)\" by fhána",
-    "ending_song": "\"My Sweet Shelter\" by Ritsu Kawai (CV",
+    "ending_song": "\"My Sweet Shelter\" by Ritsu Kawai (CV: Kana Hanazawa), Mayumi Nishikino (CV: Rina Satou), Sayaka Watanabe (CV: Hisako Kanemoto)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

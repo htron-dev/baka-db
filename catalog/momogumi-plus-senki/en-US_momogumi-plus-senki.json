@@ -1,5 +1,9 @@
 {
     "title": "Momogumi Plus Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171358.jpg",
+        "alt": "momogumi-plus-senki"
+    },
     "type": "manga",
     "original_name": "桃組プラス戦記",
     "start_date": "2005-03-24",

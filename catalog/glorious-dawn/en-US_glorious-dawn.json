@@ -1,5 +1,9 @@
 {
     "title": "Glorious Dawn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161768.jpg",
+        "alt": "glorious-dawn"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "106",

@@ -1,5 +1,9 @@
 {
     "title": "Dengeki! Pikachu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/155945.jpg",
+        "alt": "dengeki-pikachu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

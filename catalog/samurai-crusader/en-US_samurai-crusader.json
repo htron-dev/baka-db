@@ -1,5 +1,9 @@
 {
     "title": "Samurai Crusader",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4602.jpg",
+        "alt": "samurai-crusader"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "34",

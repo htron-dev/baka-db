@@ -1,5 +1,9 @@
 {
     "title": "Girls & Panzer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117699.jpg",
+        "alt": "girls-panzer"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

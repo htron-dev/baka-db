@@ -1,5 +1,9 @@
 {
     "title": "Teizokurei Monophobia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179634.jpg",
+        "alt": "teizokurei-monophobia"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "27",

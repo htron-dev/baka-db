@@ -1,5 +1,9 @@
 {
     "title": "Yofukashi no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224212.jpg",
+        "alt": "yofukashi-no-uta"
+    },
     "type": "manga",
     "original_name": "よふかしのうた",
     "start_date": "2019-08-28",

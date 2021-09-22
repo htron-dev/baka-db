@@ -1,5 +1,9 @@
 {
     "title": "Pure Shield",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1042/109004.jpg",
+        "alt": "pure-shield"
+    },
     "type": "special",
     "episodes": "1",
     "start_date": "2010-10-07",

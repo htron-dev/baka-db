@@ -1,5 +1,9 @@
 {
     "title": "Senjou no Valkyria: Gallian Chronicles",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15795.jpg",
+        "alt": "senjou-no-valkyria-gallian-chronicles"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "14",

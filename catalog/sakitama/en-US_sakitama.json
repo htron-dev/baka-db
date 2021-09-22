@@ -1,5 +1,9 @@
 {
     "title": "Sakitama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209194.jpg",
+        "alt": "sakitama"
+    },
     "type": "manga",
     "original_name": "さきたま",
     "start_date": "2015-10-13",

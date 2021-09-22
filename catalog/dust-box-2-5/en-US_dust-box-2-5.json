@@ -1,5 +1,9 @@
 {
     "title": "Dust Box 2.5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187409.jpg",
+        "alt": "dust-box-2-5"
+    },
     "type": "manga",
     "original_name": "ダストボックス 2.5",
     "start_date": "2015-12-29",

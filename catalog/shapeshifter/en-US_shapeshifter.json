@@ -1,5 +1,9 @@
 {
     "title": "Shapeshifter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224017.jpg",
+        "alt": "shapeshifter"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

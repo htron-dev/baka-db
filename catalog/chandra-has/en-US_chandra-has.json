@@ -1,5 +1,9 @@
 {
     "title": "Chandra Has",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226460.jpg",
+        "alt": "chandra-has"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Gregory Horror Show: The Last Train",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1543/110077.jpg",
+        "alt": "gregory-horror-show-the-last-train"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "グレゴリーホラーショー - The Last Train",

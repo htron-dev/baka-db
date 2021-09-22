@@ -1,5 +1,9 @@
 {
     "title": "Nerawareta Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/43807.jpg",
+        "alt": "nerawareta-gakuen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ねらわれた学園",

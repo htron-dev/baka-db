@@ -1,5 +1,9 @@
 {
     "title": "Ryuuou no Oshigoto!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170997.jpg",
+        "alt": "ryuuou-no-oshigoto"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "83",

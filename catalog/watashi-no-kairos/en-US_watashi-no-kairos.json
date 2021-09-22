@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Kairos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179161.jpg",
+        "alt": "watashi-no-kairos"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

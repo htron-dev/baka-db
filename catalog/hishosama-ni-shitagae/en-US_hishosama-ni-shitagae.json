@@ -1,5 +1,9 @@
 {
     "title": "Hishosama ni Shitagae!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79505.jpg",
+        "alt": "hishosama-ni-shitagae"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "秘書さまに従え!",

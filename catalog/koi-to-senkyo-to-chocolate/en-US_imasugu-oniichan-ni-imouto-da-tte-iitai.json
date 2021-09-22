@@ -1,5 +1,9 @@
 {
     "title": "Imasugu Oniichan ni Imouto da tte Iitai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/106241.jpg",
+        "alt": "imasugu-oniichan-ni-imouto-da-tte-iitai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

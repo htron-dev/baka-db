@@ -1,5 +1,9 @@
 {
     "title": "Mukade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169135.jpg",
+        "alt": "mukade"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

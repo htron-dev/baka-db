@@ -1,5 +1,9 @@
 {
     "title": "Photon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1984/94161.jpg",
+        "alt": "photon"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "フォトン",
@@ -37,7 +41,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Photon_(anime"
+            "link": "http://en.wikipedia.org/wiki/Photon_%28anime%29"
         }
     ]
 }

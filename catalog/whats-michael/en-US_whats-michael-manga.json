@@ -1,5 +1,9 @@
 {
     "title": "What's Michael?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203273.jpg",
+        "alt": "whats-michael"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "172",

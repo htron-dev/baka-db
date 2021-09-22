@@ -1,5 +1,9 @@
 {
     "title": "Star Ocean: The Second Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22278.jpg",
+        "alt": "star-ocean-the-second-story"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "スターオーシャン セカンドストーリー",

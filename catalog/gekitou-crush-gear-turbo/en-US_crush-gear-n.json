@@ -1,5 +1,9 @@
 {
     "title": "Crush Gear N",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120897.jpg",
+        "alt": "crush-gear-n"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

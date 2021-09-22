@@ -1,5 +1,9 @@
 {
     "title": "Sakamoto desu ga?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160912.jpg",
+        "alt": "sakamoto-desu-ga"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

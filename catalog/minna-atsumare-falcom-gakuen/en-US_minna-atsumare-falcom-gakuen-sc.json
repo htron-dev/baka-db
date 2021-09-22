@@ -1,5 +1,9 @@
 {
     "title": "Minna Atsumare! Falcom Gakuen SC",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/73956.jpg",
+        "alt": "minna-atsumare-falcom-gakuen-sc"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "みんな集まれ！ファルコム学園ＳＣ",

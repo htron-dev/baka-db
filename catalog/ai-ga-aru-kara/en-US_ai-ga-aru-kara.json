@@ -1,5 +1,9 @@
 {
     "title": "Ai ga Aru kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/81890.jpg",
+        "alt": "ai-ga-aru-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

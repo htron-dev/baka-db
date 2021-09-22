@@ -1,12 +1,16 @@
 {
     "title": "A3! Season Spring &amp; Summer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1421/105605.jpg",
+        "alt": "a-3-season-spring-amp-summer"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "A3! SEASON SPRING & SUMMER",
     "start_date": "2020-01-14",
     "end_date": "2020-01-14",
     "opening_song": "\"Act! Addict! Actors!\" by A3ders!",
-    "ending_song": "#1",
+    "ending_song": "#1: \"HOME\" by Spring",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

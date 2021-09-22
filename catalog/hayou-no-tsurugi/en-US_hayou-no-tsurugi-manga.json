@@ -1,5 +1,9 @@
 {
     "title": "Hayou no Tsurugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128409.jpg",
+        "alt": "hayou-no-tsurugi"
+    },
     "type": "manga",
     "original_name": "破妖の剣",
     "tags": [

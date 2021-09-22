@@ -1,5 +1,9 @@
 {
     "title": "Hero Tantei Nick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239568.jpg",
+        "alt": "hero-tantei-nick"
+    },
     "type": "manga",
     "original_name": "ヒーロー探偵ニック",
     "start_date": "2020-06-04",

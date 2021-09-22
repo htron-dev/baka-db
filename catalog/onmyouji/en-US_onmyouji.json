@@ -1,5 +1,9 @@
 {
     "title": "Onmyouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22068.jpg",
+        "alt": "onmyouji"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "118",

@@ -1,5 +1,9 @@
 {
     "title": "Hashire! Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2201.jpg",
+        "alt": "hashire-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

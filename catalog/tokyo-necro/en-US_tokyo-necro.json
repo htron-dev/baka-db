@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Necro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184754.jpg",
+        "alt": "tokyo-necro"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

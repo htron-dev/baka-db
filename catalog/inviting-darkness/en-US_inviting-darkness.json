@@ -1,5 +1,9 @@
 {
     "title": "Inviting Darkness",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24823.jpg",
+        "alt": "inviting-darkness"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

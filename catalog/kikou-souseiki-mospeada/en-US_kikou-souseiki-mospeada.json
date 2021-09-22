@@ -1,5 +1,9 @@
 {
     "title": "Kikou Souseiki Mospeada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/61913.jpg",
+        "alt": "kikou-souseiki-mospeada"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "機甲創世記モスピーダ",

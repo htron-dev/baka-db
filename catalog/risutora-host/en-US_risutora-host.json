@@ -1,5 +1,9 @@
 {
     "title": "Risutora Host",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39484.jpg",
+        "alt": "risutora-host"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "リストラホスト",

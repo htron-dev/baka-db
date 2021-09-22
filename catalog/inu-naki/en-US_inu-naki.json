@@ -1,5 +1,9 @@
 {
     "title": "Inu Naki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195633.jpg",
+        "alt": "inu-naki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Every Day Every Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150820.jpg",
+        "alt": "every-day-every-night"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,11 +1,15 @@
 {
     "title": "Double-J",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/31695.jpg",
+        "alt": "double-j"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "だぶるじぇい",
     "start_date": "2011-06-29",
     "end_date": "2011-06-29",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Wani to Shampoo (ワニとシャンプー)\" by Momoiro Clover Z (eps 1-10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

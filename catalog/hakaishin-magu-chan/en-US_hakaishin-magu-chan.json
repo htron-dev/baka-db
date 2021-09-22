@@ -1,5 +1,9 @@
 {
     "title": "Hakaishin Magu-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237234.jpg",
+        "alt": "hakaishin-magu-chan"
+    },
     "type": "manga",
     "original_name": "破壊神マグちゃん",
     "start_date": "2020-06-22",

@@ -1,5 +1,9 @@
 {
     "title": "Sore de wa Sassoku Buonappetito!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85729.jpg",
+        "alt": "sore-de-wa-sassoku-buonappetito"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "それではさっそく Buonappetito!",

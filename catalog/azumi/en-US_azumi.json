@@ -1,5 +1,9 @@
 {
     "title": "Azumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/75047.jpg",
+        "alt": "azumi"
+    },
     "type": "manga",
     "volumes": "48",
     "chapters": "350",

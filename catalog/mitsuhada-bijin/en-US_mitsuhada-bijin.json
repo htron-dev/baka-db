@@ -1,5 +1,9 @@
 {
     "title": "Mitsuhada Bijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37529.jpg",
+        "alt": "mitsuhada-bijin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

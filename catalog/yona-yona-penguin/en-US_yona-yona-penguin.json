@@ -1,5 +1,9 @@
 {
     "title": "Yona Yona Penguin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/17367.jpg",
+        "alt": "yona-yona-penguin"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "よなよなペンギン",

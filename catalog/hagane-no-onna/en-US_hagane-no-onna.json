@@ -1,5 +1,9 @@
 {
     "title": "Hagane no Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40511.jpg",
+        "alt": "hagane-no-onna"
+    },
     "type": "manga",
     "original_name": "ハガネの女",
     "tags": [

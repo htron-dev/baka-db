@@ -1,5 +1,9 @@
 {
     "title": "Days of the Sock Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205785.jpg",
+        "alt": "days-of-the-sock-monster"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "20",

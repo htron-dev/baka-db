@@ -1,5 +1,9 @@
 {
     "title": "Douse, Mero Mero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5903.jpg",
+        "alt": "douse-mero-mero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

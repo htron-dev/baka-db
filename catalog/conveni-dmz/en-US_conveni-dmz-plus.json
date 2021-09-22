@@ -1,5 +1,9 @@
 {
     "title": "Conveni DMZ Plus!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197947.jpg",
+        "alt": "conveni-dmz-plus"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

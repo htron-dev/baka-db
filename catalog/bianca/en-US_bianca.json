@@ -1,5 +1,9 @@
 {
     "title": "Bianca",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45649.jpg",
+        "alt": "bianca"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

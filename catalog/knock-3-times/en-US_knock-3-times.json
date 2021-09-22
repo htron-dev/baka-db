@@ -1,5 +1,9 @@
 {
     "title": "Knock 3 Times",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2811.jpg",
+        "alt": "knock-3-times"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Haitoku no Rakuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247153.jpg",
+        "alt": "haitoku-no-rakuin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "背徳の烙印",

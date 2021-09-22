@@ -1,5 +1,9 @@
 {
     "title": "Kono Kyoushi, Zettai Wazato.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242921.jpg",
+        "alt": "kono-kyoushi-zettai-wazato"
+    },
     "type": "manga",
     "original_name": "この教師、絶対わざと。",
     "start_date": "2020-09-19",

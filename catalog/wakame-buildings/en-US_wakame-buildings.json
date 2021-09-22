@@ -1,5 +1,9 @@
 {
     "title": "Wakame Buildings",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1887/111013.jpg",
+        "alt": "wakame-buildings"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ワカメビルディング",

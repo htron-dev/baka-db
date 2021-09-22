@@ -1,5 +1,9 @@
 {
     "title": "Baby Baby Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24589.jpg",
+        "alt": "baby-baby-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

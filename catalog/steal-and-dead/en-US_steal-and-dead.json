@@ -1,5 +1,9 @@
 {
     "title": "Steal and Dead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171745.jpg",
+        "alt": "steal-and-dead"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

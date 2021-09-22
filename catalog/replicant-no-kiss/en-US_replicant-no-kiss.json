@@ -1,5 +1,9 @@
 {
     "title": "Replicant no Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10599.jpg",
+        "alt": "replicant-no-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

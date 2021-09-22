@@ -1,5 +1,9 @@
 {
     "title": "Lilt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/87637.jpg",
+        "alt": "lilt"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Lilt",

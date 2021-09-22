@@ -1,5 +1,9 @@
 {
     "title": "Origami Warriors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/24902.jpg",
+        "alt": "origami-warriors"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "摺紙戰士",

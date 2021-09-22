@@ -1,5 +1,9 @@
 {
     "title": "Arslan Senki (TV): Fuujin Ranbu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/80681.jpg",
+        "alt": "arslan-senki-tv-fuujin-ranbu"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "アルスラーン戦記 風塵乱舞",

@@ -1,5 +1,9 @@
 {
     "title": "Koko wa Ima kara Rinri desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203658.jpg",
+        "alt": "koko-wa-ima-kara-rinri-desu"
+    },
     "type": "manga",
     "original_name": "ここは今から倫理です。",
     "start_date": "2016-10-26",

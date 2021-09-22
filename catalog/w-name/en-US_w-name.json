@@ -1,5 +1,9 @@
 {
     "title": "W Name",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35241.jpg",
+        "alt": "w-name"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "Ｗネーム",

@@ -1,5 +1,9 @@
 {
     "title": "Itsumo no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25628.jpg",
+        "alt": "itsumo-no-hanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "いつものはなし",

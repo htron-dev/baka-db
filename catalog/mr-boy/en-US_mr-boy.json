@@ -1,5 +1,9 @@
 {
     "title": "Mr. Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241375.jpg",
+        "alt": "mr-boy"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

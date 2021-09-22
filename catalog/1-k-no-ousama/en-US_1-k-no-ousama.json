@@ -1,5 +1,9 @@
 {
     "title": "1K no Ousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226774.jpg",
+        "alt": "1-k-no-ousama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

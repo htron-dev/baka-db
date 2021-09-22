@@ -1,5 +1,9 @@
 {
     "title": "Skyhigh: Karma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133015.jpg",
+        "alt": "skyhigh-karma"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

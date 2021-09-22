@@ -1,5 +1,9 @@
 {
     "title": "King of Fighters: Another Day",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/12676.jpg",
+        "alt": "king-of-fighters-another-day"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "ザ・キング・オブ・ファイターズ アナザーデイ",

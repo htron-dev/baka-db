@@ -1,5 +1,9 @@
 {
     "title": "Oshinobi Heika no Senzoku Jijo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191594.jpg",
+        "alt": "oshinobi-heika-no-senzoku-jijo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

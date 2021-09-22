@@ -1,5 +1,9 @@
 {
     "title": "Motto! Ojamajo Doremi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/36629.jpg",
+        "alt": "motto-ojamajo-doremi"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "も〜っと！おジャ魔女どれみ",

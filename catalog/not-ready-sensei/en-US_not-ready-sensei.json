@@ -1,5 +1,9 @@
 {
     "title": "Not Ready Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10532.jpg",
+        "alt": "not-ready-sensei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

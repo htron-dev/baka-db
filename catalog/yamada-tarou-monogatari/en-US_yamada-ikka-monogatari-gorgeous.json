@@ -1,5 +1,9 @@
 {
     "title": "Yamada Ikka Monogatari Gorgeous",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/80815.jpg",
+        "alt": "yamada-ikka-monogatari-gorgeous"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Man Eater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158520.jpg",
+        "alt": "man-eater"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

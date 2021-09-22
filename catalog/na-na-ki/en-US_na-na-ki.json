@@ -1,5 +1,9 @@
 {
     "title": "Na*Na*Ki!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7702.jpg",
+        "alt": "na-na-ki"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ナ＊ナ＊キ!!",

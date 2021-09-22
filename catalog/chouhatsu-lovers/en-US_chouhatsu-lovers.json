@@ -1,5 +1,9 @@
 {
     "title": "Chouhatsu Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156346.jpg",
+        "alt": "chouhatsu-lovers"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

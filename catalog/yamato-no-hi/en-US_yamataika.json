@@ -1,5 +1,9 @@
 {
     "title": "Yamataika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229538.jpg",
+        "alt": "yamataika"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Tasogare Otome x Amnesia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188846.jpg",
+        "alt": "tasogare-otome-x-amnesia"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "54",

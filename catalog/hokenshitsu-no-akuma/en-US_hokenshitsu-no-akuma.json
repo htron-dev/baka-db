@@ -1,5 +1,9 @@
 {
     "title": "Hokenshitsu no Akuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64585.jpg",
+        "alt": "hokenshitsu-no-akuma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

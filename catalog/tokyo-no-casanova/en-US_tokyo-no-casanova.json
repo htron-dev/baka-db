@@ -1,5 +1,9 @@
 {
     "title": "Tokyo no Casanova",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29223.jpg",
+        "alt": "tokyo-no-casanova"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

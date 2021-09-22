@@ -1,5 +1,9 @@
 {
     "title": "16-sai: KISS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20733.jpg",
+        "alt": "16-sai-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

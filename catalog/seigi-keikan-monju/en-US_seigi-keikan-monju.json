@@ -1,5 +1,9 @@
 {
     "title": "Seigi Keikan Monju",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194907.jpg",
+        "alt": "seigi-keikan-monju"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "81",

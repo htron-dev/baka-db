@@ -1,5 +1,9 @@
 {
     "title": "Ai wa Kakukatariki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181341.jpg",
+        "alt": "ai-wa-kakukatariki"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "愛はかく語りき",

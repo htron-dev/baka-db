@@ -1,5 +1,9 @@
 {
     "title": "Hashitte Yuke Dokomademo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30508.jpg",
+        "alt": "hashitte-yuke-dokomademo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

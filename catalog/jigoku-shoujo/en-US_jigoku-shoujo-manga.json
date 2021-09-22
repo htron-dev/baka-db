@@ -1,5 +1,9 @@
 {
     "title": "Jigoku Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190949.jpg",
+        "alt": "jigoku-shoujo"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "40",

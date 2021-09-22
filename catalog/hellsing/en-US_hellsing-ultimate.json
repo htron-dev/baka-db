@@ -1,11 +1,15 @@
 {
     "title": "Hellsing Ultimate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/7333.jpg",
+        "alt": "hellsing-ultimate"
+    },
     "type": "ova",
     "episodes": "10",
     "original_name": "HELLSING OVA",
     "start_date": "2006-02-10",
     "end_date": "2006-02-10",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gradus Vita\" by Hayato Matsuo, performed by the Warsaw Philharmonic Orchestra (eps 1, 10)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

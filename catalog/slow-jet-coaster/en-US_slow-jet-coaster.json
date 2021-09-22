@@ -1,5 +1,9 @@
 {
     "title": "Slow Jet Coaster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247862.jpg",
+        "alt": "slow-jet-coaster"
+    },
     "type": "manga",
     "original_name": "スロー・ジェットコースター",
     "start_date": "2021-02-24",

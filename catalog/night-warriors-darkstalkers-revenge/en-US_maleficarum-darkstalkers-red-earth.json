@@ -1,5 +1,9 @@
 {
     "title": "Maleficarum: Darkstalkers/Red Earth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37741.jpg",
+        "alt": "maleficarum-darkstalkers-red-earth"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

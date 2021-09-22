@@ -1,5 +1,9 @@
 {
     "title": "Saitei Megami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/145385.jpg",
+        "alt": "saitei-megami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

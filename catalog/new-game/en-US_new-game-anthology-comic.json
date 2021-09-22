@@ -1,5 +1,9 @@
 {
     "title": "New Game! Anthology Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241401.jpg",
+        "alt": "new-game-anthology-comic"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "35",

@@ -1,5 +1,9 @@
 {
     "title": "Mutant Hanako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33118.jpg",
+        "alt": "mutant-hanako"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ミュータント花子",

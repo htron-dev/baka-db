@@ -1,12 +1,16 @@
 {
     "title": "Grisaia no Kajitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1645/112632.jpg",
+        "alt": "grisaia-no-kajitsu"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "グリザイアの果実",
     "start_date": "2014-10-05",
     "end_date": "2014-10-05",
     "opening_song": "\"Rakuen no Tsubasa (楽園の翼)\" By Maon Kurosaki (eps 2-4, 6-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Eden's Song\" by Hana (ep 2)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "drama",

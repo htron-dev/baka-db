@@ -1,5 +1,9 @@
 {
     "title": "Kirara no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150068.jpg",
+        "alt": "kirara-no-hoshi"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "57",

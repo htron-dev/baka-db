@@ -1,5 +1,9 @@
 {
     "title": "One Piece Novel: Mugiwara Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232215.jpg",
+        "alt": "one-piece-novel-mugiwara-stories"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

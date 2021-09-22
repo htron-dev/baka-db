@@ -1,5 +1,9 @@
 {
     "title": "Rocking You!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227422.jpg",
+        "alt": "rocking-you"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ロッキンユー!!!",

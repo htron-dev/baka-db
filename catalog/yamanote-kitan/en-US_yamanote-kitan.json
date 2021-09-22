@@ -1,5 +1,9 @@
 {
     "title": "Yamanote Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133257.jpg",
+        "alt": "yamanote-kitan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

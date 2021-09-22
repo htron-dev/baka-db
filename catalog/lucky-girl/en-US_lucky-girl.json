@@ -1,5 +1,9 @@
 {
     "title": "Lucky Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196972.jpg",
+        "alt": "lucky-girl"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "ラッキーガール",

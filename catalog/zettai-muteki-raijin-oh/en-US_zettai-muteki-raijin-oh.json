@@ -1,5 +1,9 @@
 {
     "title": "Zettai Muteki Raijin-Oh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1152/91073.jpg",
+        "alt": "zettai-muteki-raijin-oh"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "絶対無敵ライジンオー",

@@ -1,12 +1,16 @@
 {
     "title": "Katanagatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/50023.jpg",
+        "alt": "katanagatari"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "刀語",
     "start_date": "2010-01-26",
     "end_date": "2010-01-26",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Meiya Kadenrou (冥夜花伝廊)\" by Minami Kuribayashi (eps 1-7)",
+    "ending_song": "#01: \"Tasogare no Gekka (誰そ彼の月華)\" by Yousei Teikoku",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

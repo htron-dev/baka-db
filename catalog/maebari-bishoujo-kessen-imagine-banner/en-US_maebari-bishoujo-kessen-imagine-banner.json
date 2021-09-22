@@ -1,5 +1,9 @@
 {
     "title": "Maebari Bishoujo Kessen!: Imagine Banner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247638.jpg",
+        "alt": "maebari-bishoujo-kessen-imagine-banner"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

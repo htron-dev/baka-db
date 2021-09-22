@@ -1,12 +1,16 @@
 {
     "title": "Hinomaruzumou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1974/95289.jpg",
+        "alt": "hinomaruzumou"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "火ノ丸相撲",
     "start_date": "2018-10-05",
     "end_date": "2018-10-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"FIRE GROUND\" by Official HIGE DANdism (Official 髭男 dism)",
+    "ending_song": "#1: \"Hiizuru Basho (日出ズル場所)\" by Omedetai Atama de Naniyori (オメでたい頭でなにより)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "martial-arts",

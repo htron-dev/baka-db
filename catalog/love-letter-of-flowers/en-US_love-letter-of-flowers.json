@@ -1,5 +1,9 @@
 {
     "title": "Love Letter of Flowers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/10351.jpg",
+        "alt": "love-letter-of-flowers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

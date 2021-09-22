@@ -1,5 +1,9 @@
 {
     "title": "Ubume no Natsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120947.jpg",
+        "alt": "ubume-no-natsu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "10",

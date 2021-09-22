@@ -1,5 +1,9 @@
 {
     "title": "Sono Te wo Shitteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63881.jpg",
+        "alt": "sono-te-wo-shitteiru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "その手を知っている",

@@ -1,5 +1,9 @@
 {
     "title": "Kagome no Mura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191176.jpg",
+        "alt": "kagome-no-mura"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

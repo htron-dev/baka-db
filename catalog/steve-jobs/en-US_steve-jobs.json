@@ -1,5 +1,9 @@
 {
     "title": "Steve Jobs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197237.jpg",
+        "alt": "steve-jobs"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "25",

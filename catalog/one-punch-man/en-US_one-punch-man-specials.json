@@ -1,11 +1,15 @@
 {
     "title": "One Punch Man Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1452/97840.jpg",
+        "alt": "one-punch-man-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "ワンパンマン",
     "start_date": "2015-12-24",
     "end_date": "2015-12-24",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Saitama no One Punch Ondo (サイタマのワンパン音頭)\" by Saitama (Makoto Furukawa) (ep 1, 4)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Chuldong! Super Wings 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1328/101000.jpg",
+        "alt": "chuldong-super-wings-3"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "출동! 슈퍼윙스3",

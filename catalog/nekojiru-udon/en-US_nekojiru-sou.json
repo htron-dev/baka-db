@@ -1,5 +1,9 @@
 {
     "title": "Nekojiru-sou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/84241.jpg",
+        "alt": "nekojiru-sou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ねこぢる草",

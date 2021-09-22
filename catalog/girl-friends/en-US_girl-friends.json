@@ -1,5 +1,9 @@
 {
     "title": "Girl Friends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112021.jpg",
+        "alt": "girl-friends"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "35",

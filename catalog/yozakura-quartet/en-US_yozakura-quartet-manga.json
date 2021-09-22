@@ -1,5 +1,9 @@
 {
     "title": "Yozakura Quartet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153963.jpg",
+        "alt": "yozakura-quartet"
+    },
     "type": "manga",
     "original_name": "夜桜四重奏～ヨザクラカルテット～",
     "start_date": "2006-01-26",

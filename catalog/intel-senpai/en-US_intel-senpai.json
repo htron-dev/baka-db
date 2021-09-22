@@ -1,5 +1,9 @@
 {
     "title": "Intel Senpai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44939.jpg",
+        "alt": "intel-senpai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

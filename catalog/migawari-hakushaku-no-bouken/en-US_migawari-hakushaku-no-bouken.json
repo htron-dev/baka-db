@@ -1,5 +1,9 @@
 {
     "title": "Migawari Hakushaku no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119111.jpg",
+        "alt": "migawari-hakushaku-no-bouken"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "32",

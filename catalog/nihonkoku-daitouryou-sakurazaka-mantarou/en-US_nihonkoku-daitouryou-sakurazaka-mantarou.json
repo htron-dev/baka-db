@@ -1,5 +1,9 @@
 {
     "title": "Nihonkoku Daitouryou: Sakurazaka Mantarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181676.jpg",
+        "alt": "nihonkoku-daitouryou-sakurazaka-mantarou"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "151",

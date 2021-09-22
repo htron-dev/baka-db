@@ -1,5 +1,9 @@
 {
     "title": "Muv-Luv Alternative: Total Eclipse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/67389.jpg",
+        "alt": "muv-luv-alternative-total-eclipse"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

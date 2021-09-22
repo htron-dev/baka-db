@@ -1,5 +1,9 @@
 {
     "title": "Hospi Meshi: Minna no Gohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231274.jpg",
+        "alt": "hospi-meshi-minna-no-gohan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Gotou ni Naritai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/20090.jpg",
+        "alt": "gotou-ni-naritai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "５等になりたい。",

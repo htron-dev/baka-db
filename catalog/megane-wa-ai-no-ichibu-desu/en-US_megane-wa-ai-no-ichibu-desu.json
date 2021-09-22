@@ -1,5 +1,9 @@
 {
     "title": "Megane wa Ai no Ichibu desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237795.jpg",
+        "alt": "megane-wa-ai-no-ichibu-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Selection Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1174/113554.jpg",
+        "alt": "selection-project"
+    },
     "type": "tv-serie",
     "original_name": "SELECTION PROJECT",
     "start_date": "2021-10-20",

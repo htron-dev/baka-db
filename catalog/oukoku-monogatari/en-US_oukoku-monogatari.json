@@ -1,5 +1,9 @@
 {
     "title": "Oukoku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210301.jpg",
+        "alt": "oukoku-monogatari"
+    },
     "type": "manga",
     "original_name": "王国物語",
     "start_date": "2017-04-19",

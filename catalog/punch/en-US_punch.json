@@ -1,5 +1,9 @@
 {
     "title": "Punch!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154484.jpg",
+        "alt": "punch"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Katayoku no Khronos Gear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/38787.jpg",
+        "alt": "katayoku-no-khronos-gear"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "片翼のクロノスギア",

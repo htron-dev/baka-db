@@ -1,5 +1,9 @@
 {
     "title": "Almond wo Nanatsubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225743.jpg",
+        "alt": "almond-wo-nanatsubu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Slow Step",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26703.jpg",
+        "alt": "slow-step"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "55",

@@ -1,5 +1,9 @@
 {
     "title": "009-1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/19998.jpg",
+        "alt": "009-1"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゼロゼロナインワン",

@@ -1,5 +1,9 @@
 {
     "title": "Shinigami no Kyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119705.jpg",
+        "alt": "shinigami-no-kyou"
+    },
     "type": "manga",
     "original_name": "死神のキョウ",
     "start_date": "2010-10-27",

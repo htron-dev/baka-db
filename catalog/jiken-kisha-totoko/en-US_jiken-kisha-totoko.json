@@ -1,5 +1,9 @@
 {
     "title": "Jiken Kisha Totoko!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164073.jpg",
+        "alt": "jiken-kisha-totoko"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

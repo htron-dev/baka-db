@@ -1,5 +1,9 @@
 {
     "title": "Jinja no Susume: Boku to Miko to Shinshoku to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6720.jpg",
+        "alt": "jinja-no-susume-boku-to-miko-to-shinshoku-to"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

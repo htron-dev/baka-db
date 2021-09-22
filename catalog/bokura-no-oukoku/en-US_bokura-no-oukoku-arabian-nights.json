@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Oukoku Arabian Nights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44601.jpg",
+        "alt": "bokura-no-oukoku-arabian-nights"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

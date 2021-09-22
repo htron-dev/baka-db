@@ -1,5 +1,9 @@
 {
     "title": "Three Wolves Mountain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21477.jpg",
+        "alt": "three-wolves-mountain"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

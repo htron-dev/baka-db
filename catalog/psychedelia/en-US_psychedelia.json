@@ -1,5 +1,9 @@
 {
     "title": "Psychedelia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25373.jpg",
+        "alt": "psychedelia"
+    },
     "type": "manhwa",
     "tags": [
         "adventure",

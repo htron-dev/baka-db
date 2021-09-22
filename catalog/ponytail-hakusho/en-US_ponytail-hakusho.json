@@ -1,5 +1,9 @@
 {
     "title": "Ponytail Hakusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159826.jpg",
+        "alt": "ponytail-hakusho"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "21",

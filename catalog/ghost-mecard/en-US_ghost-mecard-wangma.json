@@ -1,5 +1,9 @@
 {
     "title": "Ghost Mecard Wangma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1134/114453.jpg",
+        "alt": "ghost-mecard-wangma"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "요괴메카드 왕마",

@@ -1,5 +1,9 @@
 {
     "title": "Gravitation: The Novel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4973.jpg",
+        "alt": "gravitation-the-novel"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

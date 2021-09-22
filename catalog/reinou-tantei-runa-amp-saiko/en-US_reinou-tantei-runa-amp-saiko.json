@@ -1,5 +1,9 @@
 {
     "title": "Reinou Tantei Runa &amp; Saiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21177.jpg",
+        "alt": "reinou-tantei-runa-amp-saiko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Asa Gohan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83190.jpg",
+        "alt": "kimi-to-asa-gohan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

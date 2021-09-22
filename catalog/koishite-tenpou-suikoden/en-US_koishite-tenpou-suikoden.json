@@ -1,5 +1,9 @@
 {
     "title": "Koishite Tenpou Suikoden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152948.jpg",
+        "alt": "koishite-tenpou-suikoden"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋して天保水滸伝",

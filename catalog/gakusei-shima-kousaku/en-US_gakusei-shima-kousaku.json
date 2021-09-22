@@ -1,5 +1,9 @@
 {
     "title": "Gakusei Shima Kousaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159516.jpg",
+        "alt": "gakusei-shima-kousaku"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "66",

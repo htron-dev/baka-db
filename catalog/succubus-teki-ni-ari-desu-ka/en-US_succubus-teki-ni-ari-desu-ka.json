@@ -1,5 +1,9 @@
 {
     "title": "Succubus-teki ni Ari desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200247.jpg",
+        "alt": "succubus-teki-ni-ari-desu-ka"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "サキュバス的にありですか？",

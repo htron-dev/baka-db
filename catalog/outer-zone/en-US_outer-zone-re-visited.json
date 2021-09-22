@@ -1,7 +1,11 @@
 {
     "title": "Outer Zone: Re:Visited",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189008.jpg",
+        "alt": "outer-zone-re-visited"
+    },
     "type": "manga",
-    "original_name": "アウターゾーン リ",
+    "original_name": "アウターゾーン リ:ビジテッド",
     "start_date": "2011-10-17",
     "tags": [
         "mystery",

@@ -1,5 +1,9 @@
 {
     "title": "Ishikeri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75304.jpg",
+        "alt": "ishikeri"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "石けり",

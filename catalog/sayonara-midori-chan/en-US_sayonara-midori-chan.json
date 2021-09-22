@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Midori-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41197.jpg",
+        "alt": "sayonara-midori-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

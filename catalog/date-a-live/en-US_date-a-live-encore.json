@@ -1,5 +1,9 @@
 {
     "title": "Date A Live: Encore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121831.jpg",
+        "alt": "date-a-live-encore"
+    },
     "type": "light-novel",
     "original_name": "デート・ア・ライブ アンコール",
     "start_date": "2011-03-19",

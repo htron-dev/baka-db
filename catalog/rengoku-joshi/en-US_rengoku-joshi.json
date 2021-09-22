@@ -1,5 +1,9 @@
 {
     "title": "Rengoku Joshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211806.jpg",
+        "alt": "rengoku-joshi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

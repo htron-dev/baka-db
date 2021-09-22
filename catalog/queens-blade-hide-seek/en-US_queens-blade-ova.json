@@ -1,5 +1,9 @@
 {
     "title": "Queen's Blade OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/30145.jpg",
+        "alt": "queens-blade-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "クイーンズブレイド",

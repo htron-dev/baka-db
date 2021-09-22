@@ -1,12 +1,16 @@
 {
     "title": "Asobot Senki Gokuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/5030.jpg",
+        "alt": "asobot-senki-gokuu"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "アソボット戦記五九",
     "start_date": "2002-10-01",
     "end_date": "2002-10-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"BESIDE YOU~Boku wo Yobu Koe~\" by BoA (eps 1-25)",
+    "ending_song": "#1: \"iWAKE YOUR LOVE!\" by move (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Ore no Mono ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192568.jpg",
+        "alt": "soredemo-ore-no-mono-ni-naru"
+    },
     "type": "manga",
     "original_name": "それでも俺のものになる",
     "start_date": "2015-11-30",

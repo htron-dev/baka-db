@@ -1,5 +1,9 @@
 {
     "title": "Maken Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177044.jpg",
+        "alt": "maken-senki"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "11",

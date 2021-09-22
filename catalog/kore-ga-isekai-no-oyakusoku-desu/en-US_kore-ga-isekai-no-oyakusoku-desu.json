@@ -1,5 +1,9 @@
 {
     "title": "Kore ga Isekai no Oyakusoku desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176899.jpg",
+        "alt": "kore-ga-isekai-no-oyakusoku-desu"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "19",

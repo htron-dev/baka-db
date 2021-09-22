@@ -1,5 +1,9 @@
 {
     "title": "Bodaiju",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36424.jpg",
+        "alt": "bodaiju"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

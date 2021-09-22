@@ -1,5 +1,9 @@
 {
     "title": "BAR Kiraware Yasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71721.jpg",
+        "alt": "bar-kiraware-yasai"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "BAR 嫌われ野菜",

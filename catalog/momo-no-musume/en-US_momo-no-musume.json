@@ -1,5 +1,9 @@
 {
     "title": "Momo no Musume!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83717.jpg",
+        "alt": "momo-no-musume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

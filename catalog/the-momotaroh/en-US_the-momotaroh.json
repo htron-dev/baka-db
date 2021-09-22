@@ -1,5 +1,9 @@
 {
     "title": "The Momotaroh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228673.jpg",
+        "alt": "the-momotaroh"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "109",

@@ -1,5 +1,9 @@
 {
     "title": "Kagekuri Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215594.jpg",
+        "alt": "kagekuri-kitan"
+    },
     "type": "manga",
     "original_name": "影繰姫譚",
     "start_date": "2018-09-27",

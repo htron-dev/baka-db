@@ -1,5 +1,9 @@
 {
     "title": "Ousama Game The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/88190.jpg",
+        "alt": "ousama-game-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "王様ゲーム The Animation",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E7%8E%8B%E6%A7%98%E3%82%B2%E3%83%BC%E3%83%A0_(%E5%B0%8F%E8%AA%AC"
+            "link": "https://ja.wikipedia.org/wiki/%E7%8E%8B%E6%A7%98%E3%82%B2%E3%83%BC%E3%83%A0_%28%E5%B0%8F%E8%AA%AC%29"
         }
     ]
 }

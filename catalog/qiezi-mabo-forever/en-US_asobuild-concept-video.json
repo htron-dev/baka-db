@@ -1,5 +1,9 @@
 {
     "title": "Asobuild Concept Video",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1543/99700.jpg",
+        "alt": "asobuild-concept-video"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "アソビルティザームービー",

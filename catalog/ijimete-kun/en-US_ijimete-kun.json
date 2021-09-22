@@ -1,5 +1,9 @@
 {
     "title": "Ijimete-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195913.jpg",
+        "alt": "ijimete-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Natsu ni Tokeru Himitsu no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225088.jpg",
+        "alt": "natsu-ni-tokeru-himitsu-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

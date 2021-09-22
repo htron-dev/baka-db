@@ -1,5 +1,9 @@
 {
     "title": "Koi no Hanashi wo, Shiyou ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172039.jpg",
+        "alt": "koi-no-hanashi-wo-shiyou-ka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

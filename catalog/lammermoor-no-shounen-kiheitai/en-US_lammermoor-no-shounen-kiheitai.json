@@ -1,5 +1,9 @@
 {
     "title": "Lammermoor no Shounen Kiheitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200748.jpg",
+        "alt": "lammermoor-no-shounen-kiheitai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

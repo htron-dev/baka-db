@@ -1,9 +1,13 @@
 {
     "title": "Doraemon (2005)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/23935.jpg",
+        "alt": "doraemon-2005"
+    },
     "type": "tv-serie",
     "original_name": "ドラえもん (2005)",
     "start_date": "2005-04-22",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Doraemon's Song (ドラえもんのうた)\" by 12 Girls Band (女子十二楽坊) (ep 1-21)",
     "ending_song": "\"Odore Dore Dora Doraemon Ondo 2007 (踊れ・どれ・ドラ ドラえもん音頭 2007)\" by Wasabi Mizuta",
     "rating": "PG - Children",
     "tags": [

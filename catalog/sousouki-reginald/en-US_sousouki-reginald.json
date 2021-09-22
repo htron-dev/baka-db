@@ -1,5 +1,9 @@
 {
     "title": "Sousouki Reginald",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/105977.jpg",
+        "alt": "sousouki-reginald"
+    },
     "type": "manga",
     "chapters": "12",
     "original_name": "葬送鬼レギナルト",

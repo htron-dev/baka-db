@@ -1,5 +1,9 @@
 {
     "title": "Rennyo Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/47227.jpg",
+        "alt": "rennyo-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "蓮如物語",

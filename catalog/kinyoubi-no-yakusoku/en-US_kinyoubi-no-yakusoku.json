@@ -1,5 +1,9 @@
 {
     "title": "Kinyoubi no Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88419.jpg",
+        "alt": "kinyoubi-no-yakusoku"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "金曜日の約束",

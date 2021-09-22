@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Katakoi Melancholy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236262.jpg",
+        "alt": "bokura-no-katakoi-melancholy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

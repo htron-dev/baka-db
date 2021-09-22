@@ -1,5 +1,9 @@
 {
     "title": "Imasugu Yametai Ars Magica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159287.jpg",
+        "alt": "imasugu-yametai-ars-magica"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

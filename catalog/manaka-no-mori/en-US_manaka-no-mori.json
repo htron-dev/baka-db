@@ -1,5 +1,9 @@
 {
     "title": "Manaka no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205172.jpg",
+        "alt": "manaka-no-mori"
+    },
     "type": "manga",
     "original_name": "まなかの杜",
     "start_date": "2017-04-08",

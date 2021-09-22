@@ -1,5 +1,9 @@
 {
     "title": "Omukae Shibuya-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220929.jpg",
+        "alt": "omukae-shibuya-kun"
+    },
     "type": "manga",
     "original_name": "お迎え渋谷くん",
     "start_date": "2018-03-28",

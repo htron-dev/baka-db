@@ -1,5 +1,9 @@
 {
     "title": "DOLL: IC in a Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11704.jpg",
+        "alt": "doll-ic-in-a-doll"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "Vicky and Johnny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/80376.jpg",
+        "alt": "vicky-and-johnny"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "비키와 조니",

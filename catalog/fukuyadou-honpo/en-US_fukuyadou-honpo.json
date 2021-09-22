@@ -1,5 +1,9 @@
 {
     "title": "Fukuyadou Honpo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189291.jpg",
+        "alt": "fukuyadou-honpo"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "50",

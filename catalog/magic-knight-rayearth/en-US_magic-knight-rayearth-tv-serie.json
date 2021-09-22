@@ -1,5 +1,9 @@
 {
     "title": "Magic Knight Rayearth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1683/97042.jpg",
+        "alt": "magic-knight-rayearth"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "魔法騎士（マジックナイト）レイアース",

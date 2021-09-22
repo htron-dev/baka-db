@@ -1,12 +1,16 @@
 {
     "title": "Kakumeiki Valvrave",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/49251.jpg",
+        "alt": "kakumeiki-valvrave"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "革命機ヴァルヴレイヴ",
     "start_date": "2013-04-12",
     "end_date": "2013-04-12",
     "opening_song": "\"Preserved Roses\" by T.M.Revolution x Nana Mizuki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Preserved Roses\" by T.M.Revolution x Nana Mizuki (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

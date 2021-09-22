@@ -1,5 +1,9 @@
 {
     "title": "Nude",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10791.jpg",
+        "alt": "nude"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

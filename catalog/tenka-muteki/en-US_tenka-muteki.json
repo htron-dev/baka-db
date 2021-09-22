@@ -1,5 +1,9 @@
 {
     "title": "Tenka Muteki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162735.jpg",
+        "alt": "tenka-muteki"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Gensui Kakka no Aisai Kyouiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193302.jpg",
+        "alt": "gensui-kakka-no-aisai-kyouiku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Dosukoi Sushi Zumou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1788/113633.jpg",
+        "alt": "dosukoi-sushi-zumou"
+    },
     "type": "tv-serie",
     "original_name": "どすこいすしずもう",
     "start_date": "2021-04-03",

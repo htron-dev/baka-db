@@ -1,5 +1,9 @@
 {
     "title": "Ai ga Nakutemo Kutteyukemasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20929.jpg",
+        "alt": "ai-ga-nakutemo-kutteyukemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

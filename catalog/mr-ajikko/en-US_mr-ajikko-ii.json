@@ -1,5 +1,9 @@
 {
     "title": "Mr Ajikko II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160913.jpg",
+        "alt": "mr-ajikko-ii"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "117",

@@ -1,5 +1,9 @@
 {
     "title": "Koukishin wa Joshikousei wo Korosu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215618.jpg",
+        "alt": "koukishin-wa-joshikousei-wo-korosu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "30",

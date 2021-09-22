@@ -1,5 +1,9 @@
 {
     "title": "Karin Zouketsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/86977.jpg",
+        "alt": "karin-zouketsuki"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "60",

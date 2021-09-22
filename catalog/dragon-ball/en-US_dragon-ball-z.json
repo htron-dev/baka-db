@@ -1,12 +1,16 @@
 {
     "title": "Dragon Ball Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1607/117271.jpg",
+        "alt": "dragon-ball-z"
+    },
     "type": "tv-serie",
     "episodes": "291",
     "original_name": "ドラゴンボール Z",
     "start_date": "1989-04-26",
     "end_date": "1989-04-26",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Cha-La Head-Cha-La\" by Hironobu Kageyama (eps 1-199)",
+    "ending_song": "#1: \"Dete Koi Tobikiri ZENKAI Power!\" by MANNA (eps 1-199)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

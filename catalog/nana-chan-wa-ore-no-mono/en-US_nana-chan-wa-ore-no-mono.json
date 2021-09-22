@@ -1,5 +1,9 @@
 {
     "title": "Nana-chan wa Ore no Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85435.jpg",
+        "alt": "nana-chan-wa-ore-no-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "菜々ちゃんは俺のもの",

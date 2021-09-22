@@ -1,5 +1,9 @@
 {
     "title": "Kiichi!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/77367.jpg",
+        "alt": "kiichi"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "87",

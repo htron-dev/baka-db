@@ -1,5 +1,9 @@
 {
     "title": "Yume kara Sametemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202092.jpg",
+        "alt": "yume-kara-sametemo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "49",

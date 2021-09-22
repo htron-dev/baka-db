@@ -1,5 +1,9 @@
 {
     "title": "Darling wa Gaikokujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27861.jpg",
+        "alt": "darling-wa-gaikokujin"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ダーリンは外国人",

@@ -1,5 +1,9 @@
 {
     "title": "They, Too, Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4897.jpg",
+        "alt": "they-too-love"
+    },
     "type": "manhwa",
     "volumes": "7",
     "chapters": "36",

@@ -1,11 +1,15 @@
 {
     "title": "Hello!! Kiniro Mosaic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1107/117611.jpg",
+        "alt": "hello-kiniro-mosaic"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ハロー!!きんいろモザイク",
     "start_date": "2015-04-06",
     "end_date": "2015-04-06",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Yume-iro Parade! (夢色パレード！)\" by Rhodanthe\\* (eps 1-9, 11-12)",
     "ending_song": "\"My Best Friends\" by Rhodanthe\\*",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "MapleStory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/4868.jpg",
+        "alt": "maple-story"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "メイプルストーリー",

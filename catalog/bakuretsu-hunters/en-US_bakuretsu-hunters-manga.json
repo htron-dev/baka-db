@@ -1,5 +1,9 @@
 {
     "title": "Bakuretsu Hunters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157573.jpg",
+        "alt": "bakuretsu-hunters"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "72",

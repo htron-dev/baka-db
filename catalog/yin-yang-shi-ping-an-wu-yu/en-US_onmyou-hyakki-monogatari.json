@@ -1,5 +1,9 @@
 {
     "title": "Onmyou Hyakki Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1339/103981.jpg",
+        "alt": "onmyou-hyakki-monogatari"
+    },
     "type": "tv-serie",
     "original_name": "陰陽百鬼物語",
     "rating": "None",

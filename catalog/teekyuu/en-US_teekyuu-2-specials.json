@@ -1,10 +1,14 @@
 {
     "title": "Teekyuu 2 Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/56005.jpg",
+        "alt": "teekyuu-2-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "てーきゅう 2",
     "start_date": "2013-10-25",
-    "opening_song": "\"Menimeni Manimani (メニメニマニマニ)\" by Nasuno Takamiya (CV",
+    "opening_song": "\"Menimeni Manimani (メニメニマニマニ)\" by Nasuno Takamiya (CV: Kyoko Narumi)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Itsuka Kimitachi mo Otona ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/97433.jpg",
+        "alt": "itsuka-kimitachi-mo-otona-ni-naru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

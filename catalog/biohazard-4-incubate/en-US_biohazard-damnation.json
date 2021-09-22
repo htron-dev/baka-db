@@ -1,5 +1,9 @@
 {
     "title": "Biohazard: Damnation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/42299.jpg",
+        "alt": "biohazard-damnation"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "バイオハザード ダムネーション",

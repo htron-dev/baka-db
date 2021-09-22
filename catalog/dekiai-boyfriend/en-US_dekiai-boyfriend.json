@@ -1,5 +1,9 @@
 {
     "title": "Dekiai Boyfriend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246747.jpg",
+        "alt": "dekiai-boyfriend"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

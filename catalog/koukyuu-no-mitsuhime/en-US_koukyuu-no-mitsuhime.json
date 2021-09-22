@@ -1,5 +1,9 @@
 {
     "title": "Koukyuu no Mitsuhime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199149.jpg",
+        "alt": "koukyuu-no-mitsuhime"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "後宮の蜜姫",

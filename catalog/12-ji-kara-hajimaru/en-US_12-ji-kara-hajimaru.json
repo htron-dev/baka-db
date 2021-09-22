@@ -1,5 +1,9 @@
 {
     "title": "12-ji kara Hajimaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175395.jpg",
+        "alt": "12-ji-kara-hajimaru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

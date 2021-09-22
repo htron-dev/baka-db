@@ -1,5 +1,9 @@
 {
     "title": "Kenritsu Chikyuu Boueigun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15827.jpg",
+        "alt": "kenritsu-chikyuu-boueigun"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "県立地球防衛軍",

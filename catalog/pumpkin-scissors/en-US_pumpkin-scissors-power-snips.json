@@ -1,7 +1,11 @@
 {
     "title": "Pumpkin Scissors: Power Snips",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228627.jpg",
+        "alt": "pumpkin-scissors-power-snips"
+    },
     "type": "manga",
-    "original_name": "Pumpkin Scissors",
+    "original_name": "Pumpkin Scissors: Power Snips",
     "start_date": "2011-10-20",
     "tags": [
         "action",

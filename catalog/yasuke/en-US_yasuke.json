@@ -1,5 +1,9 @@
 {
     "title": "Yasuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1684/114647.jpg",
+        "alt": "yasuke"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "YASUKE －ヤスケ－",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Yasuke_(anime"
+            "link": "https://en.wikipedia.org/wiki/Yasuke_%28anime%29"
         }
     ]
 }

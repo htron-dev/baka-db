@@ -1,5 +1,9 @@
 {
     "title": "Aiyoku no Eustia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149507.jpg",
+        "alt": "aiyoku-no-eustia"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "穢翼のユースティア",

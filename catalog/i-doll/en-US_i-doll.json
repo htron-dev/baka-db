@@ -1,5 +1,9 @@
 {
     "title": "I-Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38853.jpg",
+        "alt": "i-doll"
+    },
     "type": "manhwa",
     "tags": [
         "drama",

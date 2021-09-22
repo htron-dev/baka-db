@@ -1,5 +1,9 @@
 {
     "title": "Haitoku no Rensa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178052.jpg",
+        "alt": "haitoku-no-rensa"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

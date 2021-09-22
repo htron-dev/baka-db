@@ -1,5 +1,9 @@
 {
     "title": "Futei de Furachi na Ani desu ga.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147733.jpg",
+        "alt": "futei-de-furachi-na-ani-desu-ga"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

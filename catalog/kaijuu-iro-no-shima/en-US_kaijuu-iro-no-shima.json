@@ -1,5 +1,9 @@
 {
     "title": "Kaijuu-iro no Shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245002.jpg",
+        "alt": "kaijuu-iro-no-shima"
+    },
     "type": "manga",
     "original_name": "かいじゅう色の島",
     "start_date": "2018-09-25",

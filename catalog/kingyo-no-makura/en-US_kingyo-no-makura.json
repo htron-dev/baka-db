@@ -1,5 +1,9 @@
 {
     "title": "Kingyo no Makura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172440.jpg",
+        "alt": "kingyo-no-makura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

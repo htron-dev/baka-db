@@ -1,5 +1,9 @@
 {
     "title": "Haruko no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/76313.jpg",
+        "alt": "haruko-no-bouken"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "春子の冒険",

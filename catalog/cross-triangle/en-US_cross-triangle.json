@@ -1,5 +1,9 @@
 {
     "title": "Cross Triangle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12105.jpg",
+        "alt": "cross-triangle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

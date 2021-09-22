@@ -1,5 +1,9 @@
 {
     "title": "Solomon no Shihen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124699.jpg",
+        "alt": "solomon-no-shihen"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ソロモンの詩篇",

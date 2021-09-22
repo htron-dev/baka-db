@@ -1,5 +1,9 @@
 {
     "title": "Lily System",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228205.jpg",
+        "alt": "lily-system"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "23",

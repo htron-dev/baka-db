@@ -1,12 +1,16 @@
 {
     "title": "Itsudatte Bokura no Koi wa 10 cm Datta.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/89554.jpg",
+        "alt": "itsudatte-bokura-no-koi-wa-10-cm-datta"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "いつだって僕らの恋は 10 センチだった。",
     "start_date": "2017-11-25",
     "end_date": "2017-11-25",
     "opening_song": "\"Non-Fantasy (ノンファンタジー)\" by LIP x LIP",
-    "ending_song": "#1 conti.",
+    "ending_song": "#1 conti.: (東京ウインターセッション feat.瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜)\" (eps 1-5)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

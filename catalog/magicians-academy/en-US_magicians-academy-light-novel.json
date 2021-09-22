@@ -1,5 +1,9 @@
 {
     "title": "Magician's Academy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128265.jpg",
+        "alt": "magicians-academy"
+    },
     "type": "light-novel",
     "volumes": "9",
     "original_name": "まじしゃんず・あかでみい",

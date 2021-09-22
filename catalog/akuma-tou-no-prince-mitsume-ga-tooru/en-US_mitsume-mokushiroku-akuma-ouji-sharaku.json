@@ -1,5 +1,9 @@
 {
     "title": "Mitsume Mokushiroku: Akuma Ouji Sharaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227232.jpg",
+        "alt": "mitsume-mokushiroku-akuma-ouji-sharaku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Kirari Books Meisouchuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244623.jpg",
+        "alt": "kirari-books-meisouchuu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "きらりブックス迷走中！",

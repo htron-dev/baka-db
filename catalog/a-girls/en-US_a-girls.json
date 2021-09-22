@@ -1,5 +1,9 @@
 {
     "title": "A Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34978.jpg",
+        "alt": "a-girls"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

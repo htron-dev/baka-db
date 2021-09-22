@@ -1,5 +1,9 @@
 {
     "title": "Pixy Gale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167210.jpg",
+        "alt": "pixy-gale"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

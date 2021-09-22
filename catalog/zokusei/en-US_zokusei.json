@@ -1,5 +1,9 @@
 {
     "title": "Zokusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16529.jpg",
+        "alt": "zokusei"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "84",

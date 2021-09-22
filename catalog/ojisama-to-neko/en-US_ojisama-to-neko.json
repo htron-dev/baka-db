@@ -1,5 +1,9 @@
 {
     "title": "Ojisama to Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208216.jpg",
+        "alt": "ojisama-to-neko"
+    },
     "type": "manga",
     "original_name": "おじさまと猫",
     "start_date": "2017-06-12",

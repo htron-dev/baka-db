@@ -1,5 +1,9 @@
 {
     "title": "Asari-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/64365.jpg",
+        "alt": "asari-chan"
+    },
     "type": "tv-serie",
     "episodes": "54",
     "original_name": "あさりちゃん",

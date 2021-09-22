@@ -1,5 +1,9 @@
 {
     "title": "Shishi mo Kobamazu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193233.jpg",
+        "alt": "shishi-mo-kobamazu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

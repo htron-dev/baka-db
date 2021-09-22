@@ -1,5 +1,9 @@
 {
     "title": "Nanika Mochigattemasu ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151568.jpg",
+        "alt": "nanika-mochigattemasu-ka"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

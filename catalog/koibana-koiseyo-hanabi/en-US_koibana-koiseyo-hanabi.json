@@ -1,5 +1,9 @@
 {
     "title": "Koibana!: Koiseyo Hanabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191476.jpg",
+        "alt": "koibana-koiseyo-hanabi"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "70",

@@ -1,5 +1,9 @@
 {
     "title": "Kanzukasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178437.jpg",
+        "alt": "kanzukasa"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

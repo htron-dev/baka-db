@@ -1,5 +1,9 @@
 {
     "title": "Makeruna Baby!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137951.jpg",
+        "alt": "makeruna-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

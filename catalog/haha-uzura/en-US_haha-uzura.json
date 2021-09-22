@@ -1,5 +1,9 @@
 {
     "title": "Haha Uzura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/66233.jpg",
+        "alt": "haha-uzura"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "母うずら",

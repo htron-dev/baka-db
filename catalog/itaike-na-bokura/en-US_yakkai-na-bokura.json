@@ -1,5 +1,9 @@
 {
     "title": "Yakkai na Bokura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201075.jpg",
+        "alt": "yakkai-na-bokura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

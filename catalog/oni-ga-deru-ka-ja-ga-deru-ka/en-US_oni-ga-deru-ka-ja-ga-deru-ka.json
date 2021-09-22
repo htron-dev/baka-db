@@ -1,5 +1,9 @@
 {
     "title": "Oni ga Deru ka Ja ga Deru ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164008.jpg",
+        "alt": "oni-ga-deru-ka-ja-ga-deru-ka"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

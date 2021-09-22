@@ -1,5 +1,9 @@
 {
     "title": "Kotokoto Karutetto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62745.jpg",
+        "alt": "kotokoto-karutetto"
+    },
     "type": "manga",
     "original_name": "ことこと　かるてっと",
     "tags": [

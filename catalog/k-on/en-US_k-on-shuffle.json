@@ -1,5 +1,9 @@
 {
     "title": "K-On! Shuffle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244141.jpg",
+        "alt": "k-on-shuffle"
+    },
     "type": "manga",
     "original_name": "けいおん！Shuffle",
     "start_date": "2018-07-09",

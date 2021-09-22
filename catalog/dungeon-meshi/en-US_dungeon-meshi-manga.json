@@ -1,5 +1,9 @@
 {
     "title": "Dungeon Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148949.jpg",
+        "alt": "dungeon-meshi"
+    },
     "type": "manga",
     "original_name": "ダンジョン飯",
     "start_date": "2014-02-15",

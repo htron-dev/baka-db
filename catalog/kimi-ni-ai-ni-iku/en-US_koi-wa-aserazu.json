@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Aserazu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135811.jpg",
+        "alt": "koi-wa-aserazu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

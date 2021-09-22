@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Gokudou Oniisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245030.jpg",
+        "alt": "koisuru-gokudou-oniisan"
+    },
     "type": "manga",
     "original_name": "恋する極道おにいさん",
     "start_date": "2020-12-20",

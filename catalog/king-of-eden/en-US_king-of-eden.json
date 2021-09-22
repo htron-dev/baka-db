@@ -1,5 +1,9 @@
 {
     "title": "King of Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245272.jpg",
+        "alt": "king-of-eden"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "51",

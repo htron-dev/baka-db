@@ -1,5 +1,9 @@
 {
     "title": "2 People",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248365.jpg",
+        "alt": "2-people"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "24",

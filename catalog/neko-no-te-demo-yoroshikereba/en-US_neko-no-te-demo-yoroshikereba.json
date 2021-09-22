@@ -1,5 +1,9 @@
 {
     "title": "Neko no Te demo Yoroshikereba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239635.jpg",
+        "alt": "neko-no-te-demo-yoroshikereba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

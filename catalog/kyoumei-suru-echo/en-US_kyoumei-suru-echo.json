@@ -1,5 +1,9 @@
 {
     "title": "Kyoumei suru Echo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42735.jpg",
+        "alt": "kyoumei-suru-echo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

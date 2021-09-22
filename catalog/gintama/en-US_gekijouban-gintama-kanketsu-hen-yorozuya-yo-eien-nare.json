@@ -1,5 +1,9 @@
 {
     "title": "Gekijouban Gintama: Kanketsu-hen - Yorozuya yo Eien Nare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160222.jpg",
+        "alt": "gekijouban-gintama-kanketsu-hen-yorozuya-yo-eien-nare"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "21",

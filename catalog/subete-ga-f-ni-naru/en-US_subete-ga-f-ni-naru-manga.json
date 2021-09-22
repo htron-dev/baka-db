@@ -1,5 +1,9 @@
 {
     "title": "Subete ga F ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166579.jpg",
+        "alt": "subete-ga-f-ni-naru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

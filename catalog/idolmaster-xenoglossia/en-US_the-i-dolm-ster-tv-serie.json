@@ -1,12 +1,16 @@
 {
     "title": "The iDOLM@STER",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/41085.jpg",
+        "alt": "the-i-dolm-ster"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "アイドルマスター",
     "start_date": "2011-07-08",
     "end_date": "2011-07-08",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"READY!!\" by 765PRO ALLSTARS (eps 2-12)",
+    "ending_song": "#01: \"The world is all one!!\" by 765PRO ALLSTARS (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

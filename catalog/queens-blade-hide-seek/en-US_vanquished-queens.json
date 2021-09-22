@@ -1,5 +1,9 @@
 {
     "title": "Vanquished Queens",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/48917.jpg",
+        "alt": "vanquished-queens"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "ヴァンキッシュド・クイーンズ",

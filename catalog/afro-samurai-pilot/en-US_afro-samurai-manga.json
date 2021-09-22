@@ -1,5 +1,9 @@
 {
     "title": "Afro Samurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/25025.jpg",
+        "alt": "afro-samurai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

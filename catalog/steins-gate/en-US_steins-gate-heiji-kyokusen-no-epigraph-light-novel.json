@@ -1,5 +1,9 @@
 {
     "title": "Steins;Gate: Heiji Kyokusen no Epigraph",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128903.jpg",
+        "alt": "steins-gate-heiji-kyokusen-no-epigraph"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "Steins;Gate 閉時曲線のエピグラフ",

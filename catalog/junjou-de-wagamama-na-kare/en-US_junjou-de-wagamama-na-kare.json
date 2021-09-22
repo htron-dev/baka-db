@@ -1,5 +1,9 @@
 {
     "title": "Junjou de Wagamama na Kare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16018.jpg",
+        "alt": "junjou-de-wagamama-na-kare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

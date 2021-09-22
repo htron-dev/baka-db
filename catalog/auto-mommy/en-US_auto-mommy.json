@@ -1,5 +1,9 @@
 {
     "title": "Auto Mommy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/18636.jpg",
+        "alt": "auto-mommy"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Auto Mommy",

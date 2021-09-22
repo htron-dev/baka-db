@@ -1,5 +1,9 @@
 {
     "title": "Gakkou no Kaidan no Odoriba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161962.jpg",
+        "alt": "gakkou-no-kaidan-no-odoriba"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "10",

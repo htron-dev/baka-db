@@ -1,5 +1,9 @@
 {
     "title": "Another Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239683.jpg",
+        "alt": "another-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "S.P.Y.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/89527.jpg",
+        "alt": "s-p-y"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

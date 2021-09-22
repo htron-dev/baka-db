@@ -1,5 +1,9 @@
 {
     "title": "Hirunaka no Ryuusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/63891.jpg",
+        "alt": "hirunaka-no-ryuusei"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "86",

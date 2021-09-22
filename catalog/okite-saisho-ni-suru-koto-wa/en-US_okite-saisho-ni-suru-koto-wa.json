@@ -1,5 +1,9 @@
 {
     "title": "Okite Saisho ni Suru Koto wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157237.jpg",
+        "alt": "okite-saisho-ni-suru-koto-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

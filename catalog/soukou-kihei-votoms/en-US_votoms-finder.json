@@ -1,5 +1,9 @@
 {
     "title": "Votoms Finder",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/23339.jpg",
+        "alt": "votoms-finder"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ボトムズファインダー",

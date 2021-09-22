@@ -1,12 +1,16 @@
 {
     "title": "Tales of Symphonia The Animation: Tethe'alla-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/23211.jpg",
+        "alt": "tales-of-symphonia-the-animation-tethealla-hen"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "テイルズ オブ シンフォニア THE ANIMATION テセアラ編",
     "start_date": "2010-03-25",
     "end_date": "2010-03-25",
     "opening_song": "\"Tenkuu no Canaria (天空のカナリア)\" by Nana Mizuki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Inori no Kanata (祈りの彼方)\" by Akiko Shikata (eps 1-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

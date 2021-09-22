@@ -1,5 +1,9 @@
 {
     "title": "Chotto Tobashisugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17242.jpg",
+        "alt": "chotto-tobashisugi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

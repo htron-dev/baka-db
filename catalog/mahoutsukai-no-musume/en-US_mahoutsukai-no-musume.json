@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai no Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77381.jpg",
+        "alt": "mahoutsukai-no-musume"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "34",

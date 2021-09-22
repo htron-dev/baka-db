@@ -1,5 +1,9 @@
 {
     "title": "Gourmet Gakuen Toriko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166546.jpg",
+        "alt": "gourmet-gakuen-toriko"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "60",

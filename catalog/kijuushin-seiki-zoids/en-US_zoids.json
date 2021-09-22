@@ -1,12 +1,16 @@
 {
     "title": "Zoids",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/15412.jpg",
+        "alt": "zoids"
+    },
     "type": "tv-serie",
     "episodes": "67",
     "original_name": "ゾイド",
     "start_date": "1999-09-04",
     "end_date": "1999-09-04",
     "opening_song": "\"Wild Flowers\" by RAMAR",
-    "ending_song": "#02",
+    "ending_song": "#02: \"Chase\" by Develop=Frame",
     "rating": "PG - Children",
     "tags": [
         "action",

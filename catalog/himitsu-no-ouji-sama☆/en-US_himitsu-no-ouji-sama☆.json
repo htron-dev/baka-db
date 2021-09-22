@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Ouji-sama☆",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230195.jpg",
+        "alt": "himitsu-no-ouji-sama☆"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

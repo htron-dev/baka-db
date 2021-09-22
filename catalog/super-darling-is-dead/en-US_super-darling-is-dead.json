@@ -1,5 +1,9 @@
 {
     "title": "Super Darling is Dead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247981.jpg",
+        "alt": "super-darling-is-dead"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

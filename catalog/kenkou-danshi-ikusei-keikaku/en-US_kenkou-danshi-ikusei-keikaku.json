@@ -1,5 +1,9 @@
 {
     "title": "Kenkou Danshi Ikusei Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91653.jpg",
+        "alt": "kenkou-danshi-ikusei-keikaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Meteor-san Strike desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34406.jpg",
+        "alt": "meteor-san-strike-desu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

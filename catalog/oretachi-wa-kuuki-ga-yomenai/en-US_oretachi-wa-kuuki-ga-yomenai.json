@@ -1,5 +1,9 @@
 {
     "title": "Oretachi wa Kuuki ga Yomenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184254.jpg",
+        "alt": "oretachi-wa-kuuki-ga-yomenai"
+    },
     "type": "light-novel",
     "original_name": "俺たちは空気が読めない",
     "start_date": "2016-10-25",

@@ -1,5 +1,9 @@
 {
     "title": "Kuutei Dragons",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1211/116017.jpg",
+        "alt": "kuutei-dragons"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "空挺ドラゴンズ",

@@ -1,5 +1,9 @@
 {
     "title": "Cyborg 009 (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/22076.jpg",
+        "alt": "cyborg-009-tv"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "サイボーグ 009",

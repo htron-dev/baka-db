@@ -1,5 +1,9 @@
 {
     "title": "Norakuro Nitouhei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/71980.jpg",
+        "alt": "norakuro-nitouhei"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "のらくろ二等兵",

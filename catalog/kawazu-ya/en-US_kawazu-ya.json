@@ -1,5 +1,9 @@
 {
     "title": "Kawazu-ya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191608.jpg",
+        "alt": "kawazu-ya"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "47",

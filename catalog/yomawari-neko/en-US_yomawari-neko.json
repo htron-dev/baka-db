@@ -1,5 +1,9 @@
 {
     "title": "Yomawari Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180090.jpg",
+        "alt": "yomawari-neko"
+    },
     "type": "manga",
     "original_name": "夜廻り猫",
     "start_date": "2016-06-30",

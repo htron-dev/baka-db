@@ -1,5 +1,9 @@
 {
     "title": "Survival: Another Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27398.jpg",
+        "alt": "survival-another-story"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Asagao wa Yoru kara Saku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246385.jpg",
+        "alt": "asagao-wa-yoru-kara-saku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

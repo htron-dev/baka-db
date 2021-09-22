@@ -1,5 +1,9 @@
 {
     "title": "Renchi na Himoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159765.jpg",
+        "alt": "renchi-na-himoto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

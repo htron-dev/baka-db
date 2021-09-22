@@ -1,5 +1,9 @@
 {
     "title": "JS no Torisetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244162.jpg",
+        "alt": "js-no-torisetsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

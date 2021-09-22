@@ -1,5 +1,9 @@
 {
     "title": "Seirei no Moribito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208051.jpg",
+        "alt": "seirei-no-moribito"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

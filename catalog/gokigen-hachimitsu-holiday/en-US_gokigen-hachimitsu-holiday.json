@@ -1,5 +1,9 @@
 {
     "title": "Gokigen Hachimitsu Holiday",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154942.jpg",
+        "alt": "gokigen-hachimitsu-holiday"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

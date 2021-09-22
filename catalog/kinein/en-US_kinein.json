@@ -1,5 +1,9 @@
 {
     "title": "Kinein!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26600.jpg",
+        "alt": "kinein"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

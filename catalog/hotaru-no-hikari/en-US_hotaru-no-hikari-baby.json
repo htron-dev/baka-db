@@ -1,5 +1,9 @@
 {
     "title": "Hotaru no Hikari Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208959.jpg",
+        "alt": "hotaru-no-hikari-baby"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "34",

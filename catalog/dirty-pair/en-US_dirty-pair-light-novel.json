@@ -1,5 +1,9 @@
 {
     "title": "Dirty Pair",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32275.jpg",
+        "alt": "dirty-pair"
+    },
     "type": "light-novel",
     "volumes": "7",
     "original_name": "ダーティペアの大冒険",

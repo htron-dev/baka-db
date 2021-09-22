@@ -1,5 +1,9 @@
 {
     "title": "Takamagahara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189779.jpg",
+        "alt": "takamagahara"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

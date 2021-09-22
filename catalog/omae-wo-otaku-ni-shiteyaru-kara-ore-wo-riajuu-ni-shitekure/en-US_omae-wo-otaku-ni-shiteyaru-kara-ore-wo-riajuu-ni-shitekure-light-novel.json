@@ -1,5 +1,9 @@
 {
     "title": "Omae wo Otaku ni Shiteyaru kara, Ore wo Riajuu ni Shitekure!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175093.jpg",
+        "alt": "omae-wo-otaku-ni-shiteyaru-kara-ore-wo-riajuu-ni-shitekure"
+    },
     "type": "light-novel",
     "volumes": "15",
     "original_name": "おまえをオタクにしてやるから、俺をリア充にしてくれ！",

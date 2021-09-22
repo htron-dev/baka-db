@@ -1,5 +1,9 @@
 {
     "title": "Shiiku Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207982.jpg",
+        "alt": "shiiku-shoujo"
+    },
     "type": "manga",
     "original_name": "飼育少女",
     "start_date": "2017-05-01",

@@ -1,5 +1,9 @@
 {
     "title": "Seitokai no Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129867.jpg",
+        "alt": "seitokai-no-himegoto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "52",

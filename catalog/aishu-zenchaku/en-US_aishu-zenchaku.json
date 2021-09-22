@@ -1,5 +1,9 @@
 {
     "title": "Aishu Zenchaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194583.jpg",
+        "alt": "aishu-zenchaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "愛執染着",

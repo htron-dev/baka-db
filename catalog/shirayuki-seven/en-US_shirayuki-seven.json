@@ -1,5 +1,9 @@
 {
     "title": "Shirayuki Seven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39344.jpg",
+        "alt": "shirayuki-seven"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

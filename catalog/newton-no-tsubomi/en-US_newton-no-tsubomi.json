@@ -1,5 +1,9 @@
 {
     "title": "Newton no Tsubomi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241543.jpg",
+        "alt": "newton-no-tsubomi"
+    },
     "type": "manga",
     "chapters": "30",
     "original_name": "ニュートンの蕾",

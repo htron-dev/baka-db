@@ -1,5 +1,9 @@
 {
     "title": "Crossroad: Ano Hi no Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153456.jpg",
+        "alt": "crossroad-ano-hi-no-yakusoku"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "クロスロード～あの日の約束",

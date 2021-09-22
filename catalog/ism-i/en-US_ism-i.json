@@ -1,5 +1,9 @@
 {
     "title": "Ism/i",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/87083.jpg",
+        "alt": "ism-i"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ism/i -イズミ-",

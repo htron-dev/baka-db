@@ -1,5 +1,9 @@
 {
     "title": "Memories Off",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/13174.jpg",
+        "alt": "memories-off"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "Memories Off (メモリーズオフ)",

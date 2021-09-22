@@ -1,5 +1,9 @@
 {
     "title": "Takaya: Yoake no Enjin-ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227268.jpg",
+        "alt": "takaya-yoake-no-enjin-ou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

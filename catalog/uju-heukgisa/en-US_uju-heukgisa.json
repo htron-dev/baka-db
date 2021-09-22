@@ -1,5 +1,9 @@
 {
     "title": "Uju Heukgisa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/45162.jpg",
+        "alt": "uju-heukgisa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "우주 흑기사",

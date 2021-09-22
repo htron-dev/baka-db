@@ -1,5 +1,9 @@
 {
     "title": "Legendz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175444.jpg",
+        "alt": "legendz"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

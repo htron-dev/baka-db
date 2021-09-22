@@ -1,11 +1,15 @@
 {
     "title": "Kitsune no Koe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1305/97626.jpg",
+        "alt": "kitsune-no-koe"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "狐狸之声",
     "start_date": "2018-10-05",
     "end_date": "2018-10-05",
-    "opening_song": "\"COME",
+    "opening_song": "\"COME:BACK Stage!\" by LoveDesire",
     "ending_song": "\"HOPE\" by Kano",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

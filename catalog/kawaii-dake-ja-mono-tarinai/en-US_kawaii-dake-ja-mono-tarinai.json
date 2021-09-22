@@ -1,5 +1,9 @@
 {
     "title": "Kawaii dake ja Mono Tarinai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22666.jpg",
+        "alt": "kawaii-dake-ja-mono-tarinai"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "カワイイだけじゃモノ足りない！",

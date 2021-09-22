@@ -1,5 +1,9 @@
 {
     "title": "Zwart Closet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/108453.jpg",
+        "alt": "zwart-closet"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

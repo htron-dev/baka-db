@@ -1,5 +1,9 @@
 {
     "title": "Seol Hui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72791.jpg",
+        "alt": "seol-hui"
+    },
     "type": "manhwa",
     "original_name": "설희",
     "tags": [

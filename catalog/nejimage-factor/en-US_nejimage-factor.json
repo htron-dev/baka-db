@@ -1,5 +1,9 @@
 {
     "title": "Nejimage Factor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155743.jpg",
+        "alt": "nejimage-factor"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "32",

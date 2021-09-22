@@ -1,5 +1,9 @@
 {
     "title": "Nanako SOS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/6635.jpg",
+        "alt": "nanako-sos"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ななこ SOS",

@@ -1,5 +1,9 @@
 {
     "title": "Hakoniwa Kigeki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134925.jpg",
+        "alt": "hakoniwa-kigeki"
+    },
     "type": "manga",
     "original_name": "ハコニワ喜劇",
     "tags": [

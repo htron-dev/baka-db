@@ -1,5 +1,9 @@
 {
     "title": "Code Geass: Hangyaku no Lelouch Re;",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226466.jpg",
+        "alt": "code-geass-hangyaku-no-lelouch-re"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

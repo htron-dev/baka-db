@@ -1,5 +1,9 @@
 {
     "title": "Tenohira no Uchuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18423.jpg",
+        "alt": "tenohira-no-uchuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

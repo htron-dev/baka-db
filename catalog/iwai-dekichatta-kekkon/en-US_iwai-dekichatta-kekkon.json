@@ -1,5 +1,9 @@
 {
     "title": "Iwai! Dekichatta Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45021.jpg",
+        "alt": "iwai-dekichatta-kekkon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

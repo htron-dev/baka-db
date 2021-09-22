@@ -1,5 +1,9 @@
 {
     "title": "Washimo 3rd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/74290.jpg",
+        "alt": "washimo-3rd-season"
+    },
     "type": "tv-serie",
     "episodes": "44",
     "original_name": "わしも 第 3 期",

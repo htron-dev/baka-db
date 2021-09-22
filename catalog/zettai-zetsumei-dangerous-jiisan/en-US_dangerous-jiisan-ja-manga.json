@@ -1,5 +1,9 @@
 {
     "title": "Dangerous Jiisan Ja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190072.jpg",
+        "alt": "dangerous-jiisan-ja"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "180",

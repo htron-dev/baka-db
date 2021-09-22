@@ -1,5 +1,9 @@
 {
     "title": "Vendemiaire no Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1331.jpg",
+        "alt": "vendemiaire-no-tsubasa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

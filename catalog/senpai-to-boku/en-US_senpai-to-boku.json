@@ -1,5 +1,9 @@
 {
     "title": "Senpai to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129169.jpg",
+        "alt": "senpai-to-boku"
+    },
     "type": "light-novel",
     "original_name": "先輩とぼく",
     "start_date": "2004-02-10",

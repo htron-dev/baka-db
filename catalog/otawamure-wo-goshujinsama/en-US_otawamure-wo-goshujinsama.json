@@ -1,5 +1,9 @@
 {
     "title": "Otawamure wo! Goshujinsama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/90587.jpg",
+        "alt": "otawamure-wo-goshujinsama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

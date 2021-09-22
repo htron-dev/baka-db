@@ -1,5 +1,9 @@
 {
     "title": "Himawari no You ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/66147.jpg",
+        "alt": "himawari-no-you-ni"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ひまわりのように",

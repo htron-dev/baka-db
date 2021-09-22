@@ -1,5 +1,9 @@
 {
     "title": "Xenosfeed Online",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181323.jpg",
+        "alt": "xenosfeed-online"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Appleseed Databook",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29246.jpg",
+        "alt": "appleseed-databook"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

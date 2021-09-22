@@ -1,5 +1,9 @@
 {
     "title": "Kono Ai wa, Itan.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196661.jpg",
+        "alt": "kono-ai-wa-itan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

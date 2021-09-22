@@ -1,5 +1,9 @@
 {
     "title": "Afurete Shimau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198382.jpg",
+        "alt": "afurete-shimau"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

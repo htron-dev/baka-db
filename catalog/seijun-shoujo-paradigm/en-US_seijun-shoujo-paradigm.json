@@ -1,5 +1,9 @@
 {
     "title": "Seijun Shoujo Paradigm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150670.jpg",
+        "alt": "seijun-shoujo-paradigm"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

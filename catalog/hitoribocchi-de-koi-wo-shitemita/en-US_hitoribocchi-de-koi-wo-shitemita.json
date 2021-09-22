@@ -1,5 +1,9 @@
 {
     "title": "Hitoribocchi de Koi wo shitemita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239452.jpg",
+        "alt": "hitoribocchi-de-koi-wo-shitemita"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

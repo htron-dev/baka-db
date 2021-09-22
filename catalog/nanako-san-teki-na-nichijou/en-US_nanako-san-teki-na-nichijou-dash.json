@@ -1,5 +1,9 @@
 {
     "title": "Nanako-san-teki na Nichijou Dash!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172693.jpg",
+        "alt": "nanako-san-teki-na-nichijou-dash"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "49",

@@ -1,5 +1,9 @@
 {
     "title": "Rocket Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198872.jpg",
+        "alt": "rocket-man"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "38",

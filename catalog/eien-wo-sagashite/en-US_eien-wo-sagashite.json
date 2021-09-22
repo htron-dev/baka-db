@@ -1,5 +1,9 @@
 {
     "title": "Eien wo Sagashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64845.jpg",
+        "alt": "eien-wo-sagashite"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "永遠をさがして",

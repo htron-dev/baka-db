@@ -1,5 +1,9 @@
 {
     "title": "Manga Sadou: Manga de Yomu Sauna-dou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231113.jpg",
+        "alt": "manga-sadou-manga-de-yomu-sauna-dou"
+    },
     "type": "manga",
     "original_name": "マンガ サ道～マンガで読むサウナ道～",
     "start_date": "2014-09-18",

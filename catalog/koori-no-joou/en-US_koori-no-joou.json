@@ -1,5 +1,9 @@
 {
     "title": "Koori no Joou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164559.jpg",
+        "alt": "koori-no-joou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

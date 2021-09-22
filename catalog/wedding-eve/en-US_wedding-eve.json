@@ -1,5 +1,9 @@
 {
     "title": "Wedding Eve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20008.jpg",
+        "alt": "wedding-eve"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ウエディング・イブ",

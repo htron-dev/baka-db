@@ -1,5 +1,9 @@
 {
     "title": "Nagomi Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/71851.jpg",
+        "alt": "nagomi-club"
+    },
     "type": "manga",
     "original_name": "なごみクラブ",
     "start_date": "2005-07-11",

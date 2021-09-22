@@ -1,5 +1,9 @@
 {
     "title": "Sentiment no Yukue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204846.jpg",
+        "alt": "sentiment-no-yukue"
+    },
     "type": "manga",
     "original_name": "センチメントの行方",
     "start_date": "2017-05-30",

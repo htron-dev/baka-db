@@ -1,5 +1,9 @@
 {
     "title": "Assassins Pride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1267/103421.jpg",
+        "alt": "assassins-pride"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アサシンズプライド",

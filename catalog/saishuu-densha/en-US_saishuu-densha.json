@@ -1,5 +1,9 @@
 {
     "title": "Saishuu Densha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225997.jpg",
+        "alt": "saishuu-densha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

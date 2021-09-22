@@ -1,5 +1,9 @@
 {
     "title": "Sleeping Strega",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163288.jpg",
+        "alt": "sleeping-strega"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "30",

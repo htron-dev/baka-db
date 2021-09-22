@@ -1,5 +1,9 @@
 {
     "title": "Sekai de Ichiban Tsuyoku Naritai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173110.jpg",
+        "alt": "sekai-de-ichiban-tsuyoku-naritai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

@@ -1,5 +1,9 @@
 {
     "title": "Hakui no Kyouhansha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154157.jpg",
+        "alt": "hakui-no-kyouhansha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

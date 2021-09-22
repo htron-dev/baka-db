@@ -1,5 +1,9 @@
 {
     "title": "Yukiko no Hourensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183124.jpg",
+        "alt": "yukiko-no-hourensou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

@@ -1,5 +1,9 @@
 {
     "title": "Koehime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/32397.jpg",
+        "alt": "koehime"
+    },
     "type": "manga",
     "original_name": "声姫",
     "start_date": "2009-06-16",

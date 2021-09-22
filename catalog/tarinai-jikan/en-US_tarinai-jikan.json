@@ -1,5 +1,9 @@
 {
     "title": "Tarinai Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11246.jpg",
+        "alt": "tarinai-jikan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

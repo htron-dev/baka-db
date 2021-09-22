@@ -1,5 +1,9 @@
 {
     "title": "Koukyuu no Musubibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245031.jpg",
+        "alt": "koukyuu-no-musubibito"
+    },
     "type": "manga",
     "original_name": "後宮の結び人",
     "start_date": "2021-01-04",

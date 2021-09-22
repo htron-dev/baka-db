@@ -1,5 +1,9 @@
 {
     "title": "RabbiTube: Creator ni Challenge!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1101/115601.jpg",
+        "alt": "rabbi-tube-creator-ni-challenge"
+    },
     "type": "ona",
     "original_name": "『RabbiTube』クリエイターにチャレンジ！",
     "start_date": "2020-01-24",

@@ -1,5 +1,9 @@
 {
     "title": "Koukyuu Hitan: Koutei no Mitsuai, Koukei no Mitsuai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181319.jpg",
+        "alt": "koukyuu-hitan-koutei-no-mitsuai-koukei-no-mitsuai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

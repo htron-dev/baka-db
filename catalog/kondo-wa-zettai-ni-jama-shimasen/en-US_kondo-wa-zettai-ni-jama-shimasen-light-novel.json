@@ -1,5 +1,9 @@
 {
     "title": "Kondo wa Zettai ni Jama Shimasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225334.jpg",
+        "alt": "kondo-wa-zettai-ni-jama-shimasen"
+    },
     "type": "light-novel",
     "original_name": "今度は絶対に邪魔しませんっ！",
     "start_date": "2019-03-28",

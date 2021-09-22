@@ -1,5 +1,9 @@
 {
     "title": "Saiyuuki Reload",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172702.jpg",
+        "alt": "saiyuuki-reload"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "66",

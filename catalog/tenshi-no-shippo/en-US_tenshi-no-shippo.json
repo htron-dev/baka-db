@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Shippo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124379.jpg",
+        "alt": "tenshi-no-shippo"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "天使のしっぽ",

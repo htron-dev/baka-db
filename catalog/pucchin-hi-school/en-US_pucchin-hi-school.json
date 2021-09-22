@@ -1,5 +1,9 @@
 {
     "title": "Pucchin Hi! School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14971.jpg",
+        "alt": "pucchin-hi-school"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ぷっちん Hi!School",

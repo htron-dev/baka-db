@@ -1,5 +1,9 @@
 {
     "title": "Tama yori Hayaku!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11251.jpg",
+        "alt": "tama-yori-hayaku"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "弾丸より疾く!!",

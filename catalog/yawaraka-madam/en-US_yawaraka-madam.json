@@ -1,5 +1,9 @@
 {
     "title": "Yawaraka Madam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82150.jpg",
+        "alt": "yawaraka-madam"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

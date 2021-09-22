@@ -1,5 +1,9 @@
 {
     "title": "Criminal World Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160014.jpg",
+        "alt": "criminal-world-order"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "5",

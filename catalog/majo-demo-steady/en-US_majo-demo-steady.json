@@ -1,5 +1,9 @@
 {
     "title": "Majo demo Steady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/24678.jpg",
+        "alt": "majo-demo-steady"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "魔女でもステディ",

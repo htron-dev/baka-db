@@ -1,5 +1,9 @@
 {
     "title": "Nora wo Tsuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201647.jpg",
+        "alt": "nora-wo-tsuku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

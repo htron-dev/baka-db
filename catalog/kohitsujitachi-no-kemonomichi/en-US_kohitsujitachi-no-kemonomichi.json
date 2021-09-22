@@ -1,5 +1,9 @@
 {
     "title": "Kohitsujitachi no Kemonomichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5979.jpg",
+        "alt": "kohitsujitachi-no-kemonomichi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "子羊たちの獣道",

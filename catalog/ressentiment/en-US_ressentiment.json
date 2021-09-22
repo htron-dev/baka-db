@@ -1,5 +1,9 @@
 {
     "title": "Ressentiment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/52573.jpg",
+        "alt": "ressentiment"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "49",

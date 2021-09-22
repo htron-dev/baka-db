@@ -1,5 +1,9 @@
 {
     "title": "Shinigami Saikoro Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230779.jpg",
+        "alt": "shinigami-saikoro-game"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

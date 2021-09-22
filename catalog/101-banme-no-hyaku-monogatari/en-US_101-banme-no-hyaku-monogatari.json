@@ -1,5 +1,9 @@
 {
     "title": "101-banme no Hyaku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165226.jpg",
+        "alt": "101-banme-no-hyaku-monogatari"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "51",

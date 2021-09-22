@@ -1,5 +1,9 @@
 {
     "title": "Shiawase no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229842.jpg",
+        "alt": "shiawase-no-jikan"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "187",

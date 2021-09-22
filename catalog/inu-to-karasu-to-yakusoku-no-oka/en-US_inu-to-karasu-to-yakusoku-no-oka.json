@@ -1,5 +1,9 @@
 {
     "title": "Inu to Karasu to Yakusoku no Oka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/52247.jpg",
+        "alt": "inu-to-karasu-to-yakusoku-no-oka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Buffalo 5-nin Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/107201.jpg",
+        "alt": "buffalo-5-nin-musume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

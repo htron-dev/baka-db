@@ -1,5 +1,9 @@
 {
     "title": "Yuusei no Fool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158519.jpg",
+        "alt": "yuusei-no-fool"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

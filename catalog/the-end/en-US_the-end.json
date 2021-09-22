@@ -1,5 +1,9 @@
 {
     "title": "The End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139055.jpg",
+        "alt": "the-end"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

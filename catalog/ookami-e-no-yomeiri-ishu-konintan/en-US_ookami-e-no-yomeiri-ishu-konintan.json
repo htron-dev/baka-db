@@ -1,5 +1,9 @@
 {
     "title": "Ookami e no Yomeiri: Ishu Konintan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225324.jpg",
+        "alt": "ookami-e-no-yomeiri-ishu-konintan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Gaksital",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150570.jpg",
+        "alt": "gaksital"
+    },
     "type": "manhwa",
     "volumes": "1",
     "original_name": "각시탈",

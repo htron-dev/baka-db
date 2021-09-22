@@ -1,5 +1,9 @@
 {
     "title": "Shirobako: Kaminoyama Koukou Animation Doukoukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168190.jpg",
+        "alt": "shirobako-kaminoyama-koukou-animation-doukoukai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

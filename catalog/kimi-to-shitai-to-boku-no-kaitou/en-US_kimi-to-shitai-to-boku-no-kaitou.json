@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Shitai to Boku no Kaitou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/119977.jpg",
+        "alt": "kimi-to-shitai-to-boku-no-kaitou"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "キミと死体とボクの解答",

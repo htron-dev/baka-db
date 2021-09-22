@@ -1,5 +1,9 @@
 {
     "title": "Ibara no Okite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22760.jpg",
+        "alt": "ibara-no-okite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

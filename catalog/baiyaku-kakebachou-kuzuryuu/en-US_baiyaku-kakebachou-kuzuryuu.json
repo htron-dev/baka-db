@@ -1,5 +1,9 @@
 {
     "title": "Baiyaku Kakebachou Kuzuryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/65687.jpg",
+        "alt": "baiyaku-kakebachou-kuzuryuu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

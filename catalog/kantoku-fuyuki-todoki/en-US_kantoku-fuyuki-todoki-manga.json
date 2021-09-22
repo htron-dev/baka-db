@@ -1,5 +1,9 @@
 {
     "title": "Kantoku Fuyuki Todoki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29840.jpg",
+        "alt": "kantoku-fuyuki-todoki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "22",

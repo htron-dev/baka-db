@@ -1,5 +1,9 @@
 {
     "title": "Monochrome: Teito Ninpouchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167331.jpg",
+        "alt": "monochrome-teito-ninpouchou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

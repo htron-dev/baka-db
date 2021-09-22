@@ -1,5 +1,9 @@
 {
     "title": "Mabinogi Staccato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32187.jpg",
+        "alt": "mabinogi-staccato"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マビノギ　スタッカート",

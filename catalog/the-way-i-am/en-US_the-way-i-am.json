@@ -1,5 +1,9 @@
 {
     "title": "The Way I Am",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/73081.jpg",
+        "alt": "the-way-i-am"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

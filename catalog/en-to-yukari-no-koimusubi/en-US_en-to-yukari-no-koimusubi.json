@@ -1,5 +1,9 @@
 {
     "title": "En to Yukari no Koimusubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215478.jpg",
+        "alt": "en-to-yukari-no-koimusubi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

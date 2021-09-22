@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Dead Line",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31744.jpg",
+        "alt": "tokyo-dead-line"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

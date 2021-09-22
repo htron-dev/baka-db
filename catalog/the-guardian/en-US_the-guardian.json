@@ -1,5 +1,9 @@
 {
     "title": "The Guardian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3086.jpg",
+        "alt": "the-guardian"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

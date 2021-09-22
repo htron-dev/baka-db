@@ -1,5 +1,9 @@
 {
     "title": "Through the Windows",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1641/107618.jpg",
+        "alt": "through-the-windows"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Through the Windows",

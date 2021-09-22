@@ -1,5 +1,9 @@
 {
     "title": "Akaneko no Akuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150472.jpg",
+        "alt": "akaneko-no-akuma"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "あかねこの悪魔",

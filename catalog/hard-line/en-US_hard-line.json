@@ -1,5 +1,9 @@
 {
     "title": "Hard Line",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41800.jpg",
+        "alt": "hard-line"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "ハードライン",

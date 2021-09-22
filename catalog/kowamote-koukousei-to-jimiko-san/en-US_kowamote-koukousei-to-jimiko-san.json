@@ -1,5 +1,9 @@
 {
     "title": "Kowamote Koukousei to Jimiko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225356.jpg",
+        "alt": "kowamote-koukousei-to-jimiko-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

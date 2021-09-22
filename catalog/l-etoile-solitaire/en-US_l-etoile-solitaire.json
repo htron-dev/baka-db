@@ -1,5 +1,9 @@
 {
     "title": "L'Etoile Solitaire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5491.jpg",
+        "alt": "l-etoile-solitaire"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

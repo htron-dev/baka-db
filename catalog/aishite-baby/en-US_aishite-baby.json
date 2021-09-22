@@ -1,5 +1,9 @@
 {
     "title": "Aishite Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81694.jpg",
+        "alt": "aishite-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

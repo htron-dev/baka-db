@@ -1,5 +1,9 @@
 {
     "title": "Kono Machi de Kimi ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154283.jpg",
+        "alt": "kono-machi-de-kimi-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "この街で君に",

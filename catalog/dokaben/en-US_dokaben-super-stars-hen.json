@@ -1,5 +1,9 @@
 {
     "title": "Dokaben: Super Stars-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139071.jpg",
+        "alt": "dokaben-super-stars-hen"
+    },
     "type": "manga",
     "volumes": "45",
     "chapters": "397",

@@ -1,12 +1,16 @@
 {
     "title": "Hikaru no Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78317.jpg",
+        "alt": "hikaru-no-go"
+    },
     "type": "tv-serie",
     "episodes": "75",
     "original_name": "ヒカルの碁",
     "start_date": "2001-10-10",
     "end_date": "2001-10-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Get Over\" by dream (eps 1-30)",
+    "ending_song": "#1: \"Bokura no Bouken\" by Kids Alive (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

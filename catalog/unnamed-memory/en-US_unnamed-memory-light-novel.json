@@ -1,5 +1,9 @@
 {
     "title": "Unnamed Memory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245253.jpg",
+        "alt": "unnamed-memory"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "60",

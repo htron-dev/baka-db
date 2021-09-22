@@ -1,5 +1,9 @@
 {
     "title": "Reizouko Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179470.jpg",
+        "alt": "reizouko-tantei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

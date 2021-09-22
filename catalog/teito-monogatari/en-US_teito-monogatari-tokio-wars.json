@@ -1,5 +1,9 @@
 {
     "title": "Teito Monogatari: Tokio Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115237.jpg",
+        "alt": "teito-monogatari-tokio-wars"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

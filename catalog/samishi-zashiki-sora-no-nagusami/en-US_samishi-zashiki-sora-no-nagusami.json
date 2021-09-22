@@ -1,5 +1,9 @@
 {
     "title": "Samishi Zashiki Sora no Nagusami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40736.jpg",
+        "alt": "samishi-zashiki-sora-no-nagusami"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "淋座敷空慰",

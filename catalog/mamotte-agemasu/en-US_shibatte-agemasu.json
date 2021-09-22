@@ -1,5 +1,9 @@
 {
     "title": "Shibatte Agemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/46223.jpg",
+        "alt": "shibatte-agemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Nae ga Yuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149291.jpg",
+        "alt": "nae-ga-yuru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

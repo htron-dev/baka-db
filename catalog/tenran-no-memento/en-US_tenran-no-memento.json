@@ -1,5 +1,9 @@
 {
     "title": "Tenran no Memento",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187124.jpg",
+        "alt": "tenran-no-memento"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "B Reaction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15045.jpg",
+        "alt": "b-reaction"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

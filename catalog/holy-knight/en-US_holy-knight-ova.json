@@ -1,5 +1,9 @@
 {
     "title": "Holy Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/41841.jpg",
+        "alt": "holy-knight"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "Holy Knight (ホーリーナイト)",

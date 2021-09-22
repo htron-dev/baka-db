@@ -1,5 +1,9 @@
 {
     "title": "Heartcatch Precure!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181254.jpg",
+        "alt": "heartcatch-precure"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

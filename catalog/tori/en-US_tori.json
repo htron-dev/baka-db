@@ -1,5 +1,9 @@
 {
     "title": "Tori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/72726.jpg",
+        "alt": "tori"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "鳥",

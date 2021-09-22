@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama no Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10355.jpg",
+        "alt": "ouji-sama-no-kanojo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

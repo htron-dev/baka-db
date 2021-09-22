@@ -1,5 +1,9 @@
 {
     "title": "Shisha no Sasayaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119019.jpg",
+        "alt": "shisha-no-sasayaki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

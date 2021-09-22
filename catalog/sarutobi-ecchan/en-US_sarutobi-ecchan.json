@@ -1,5 +1,9 @@
 {
     "title": "Sarutobi Ecchan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/59333.jpg",
+        "alt": "sarutobi-ecchan"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "さるとびエッちゃん",

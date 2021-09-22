@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Mew Mew",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177748.jpg",
+        "alt": "tokyo-mew-mew"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "32",

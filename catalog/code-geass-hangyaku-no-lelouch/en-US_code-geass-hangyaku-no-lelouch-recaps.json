@@ -1,12 +1,16 @@
 {
     "title": "Code Geass: Hangyaku no Lelouch Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/22569.jpg",
+        "alt": "code-geass-hangyaku-no-lelouch-recaps"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "コードギアス 反逆のルルーシュ",
     "start_date": "2006-12-01",
     "end_date": "2006-12-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"COLORS\" by FLOW (ep 1)",
+    "ending_song": "#1: \"Yuukyou Seishunka (勇侠青春謳)\" by Ali Project (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

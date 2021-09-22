@@ -1,5 +1,9 @@
 {
     "title": "Shounen Mahoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179919.jpg",
+        "alt": "shounen-mahoushi"
+    },
     "type": "manga",
     "volumes": "19",
     "original_name": "少年魔法士",

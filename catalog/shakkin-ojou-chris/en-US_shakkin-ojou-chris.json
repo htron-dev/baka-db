@@ -1,5 +1,9 @@
 {
     "title": "Shakkin Ojou Chris",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168621.jpg",
+        "alt": "shakkin-ojou-chris"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "16",

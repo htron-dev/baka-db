@@ -1,5 +1,9 @@
 {
     "title": "1001 Nights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/7032.jpg",
+        "alt": "1001-nights"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "1001 Nights",

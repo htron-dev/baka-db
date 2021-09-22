@@ -1,5 +1,9 @@
 {
     "title": "Rakunou Milk!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159268.jpg",
+        "alt": "rakunou-milk"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "57",

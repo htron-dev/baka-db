@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Shirokuma Tokubetsu-ban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/88842.jpg",
+        "alt": "koisuru-shirokuma-tokubetsu-ban"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "恋するシロクマ 特別版",

@@ -1,5 +1,9 @@
 {
     "title": "Eigo xx Sensei (Kari)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246757.jpg",
+        "alt": "eigo-xx-sensei-kari"
+    },
     "type": "manga",
     "original_name": "英語 ×× センセイ（仮）",
     "start_date": "2020-03-18",

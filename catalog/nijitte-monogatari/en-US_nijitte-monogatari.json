@@ -1,5 +1,9 @@
 {
     "title": "Nijitte Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205887.jpg",
+        "alt": "nijitte-monogatari"
+    },
     "type": "manga",
     "volumes": "110",
     "chapters": "1254",

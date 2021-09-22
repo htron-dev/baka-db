@@ -1,5 +1,9 @@
 {
     "title": "A-un",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149249.jpg",
+        "alt": "a-un"
+    },
     "type": "manga",
     "original_name": "阿・吽",
     "start_date": "2014-05-27",

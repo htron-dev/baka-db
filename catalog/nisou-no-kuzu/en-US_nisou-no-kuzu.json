@@ -1,5 +1,9 @@
 {
     "title": "Nisou no Kuzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/59755.jpg",
+        "alt": "nisou-no-kuzu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "二層の葛",

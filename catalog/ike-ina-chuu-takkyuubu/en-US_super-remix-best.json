@@ -1,5 +1,9 @@
 {
     "title": "Super Remix Best",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16659.jpg",
+        "alt": "super-remix-best"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

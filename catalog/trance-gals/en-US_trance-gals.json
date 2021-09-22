@@ -1,5 +1,9 @@
 {
     "title": "Trance Gals",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148479.jpg",
+        "alt": "trance-gals"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

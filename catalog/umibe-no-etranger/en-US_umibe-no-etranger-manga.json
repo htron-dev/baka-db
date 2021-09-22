@@ -1,5 +1,9 @@
 {
     "title": "Umibe no Étranger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134281.jpg",
+        "alt": "umibe-no-etranger"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

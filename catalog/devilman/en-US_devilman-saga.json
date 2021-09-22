@@ -1,5 +1,9 @@
 {
     "title": "Devilman Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159421.jpg",
+        "alt": "devilman-saga"
+    },
     "type": "manga",
     "volumes": "13",
     "original_name": "デビルマンサーガ",

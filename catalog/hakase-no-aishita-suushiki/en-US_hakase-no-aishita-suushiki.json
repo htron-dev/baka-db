@@ -1,5 +1,9 @@
 {
     "title": "Hakase no Aishita Suushiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244215.jpg",
+        "alt": "hakase-no-aishita-suushiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Tribal 12",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199627.jpg",
+        "alt": "tribal-12"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Handsome na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193120.jpg",
+        "alt": "handsome-na-kanojo"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "41",

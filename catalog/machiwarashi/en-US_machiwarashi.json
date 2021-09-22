@@ -1,5 +1,9 @@
 {
     "title": "Machiwarashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191027.jpg",
+        "alt": "machiwarashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Shaman King: Flowers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/97165.jpg",
+        "alt": "shaman-king-flowers"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

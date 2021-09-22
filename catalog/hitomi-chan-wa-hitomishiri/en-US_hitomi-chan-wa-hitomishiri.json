@@ -1,5 +1,9 @@
 {
     "title": "Hitomi-chan wa Hitomishiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217887.jpg",
+        "alt": "hitomi-chan-wa-hitomishiri"
+    },
     "type": "manga",
     "original_name": "瞳ちゃんは人見知り",
     "start_date": "2018-09-20",

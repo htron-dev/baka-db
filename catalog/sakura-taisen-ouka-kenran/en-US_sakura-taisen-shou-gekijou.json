@@ -1,5 +1,9 @@
 {
     "title": "Sakura Taisen: Shou Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/74539.jpg",
+        "alt": "sakura-taisen-shou-gekijou"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "サクラ大戦 ショウ劇場",

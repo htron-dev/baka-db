@@ -1,5 +1,9 @@
 {
     "title": "Iya yo Iya yo mo?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226707.jpg",
+        "alt": "iya-yo-iya-yo-mo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

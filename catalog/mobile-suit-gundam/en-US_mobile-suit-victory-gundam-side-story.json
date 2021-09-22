@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Victory Gundam Side Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58661.jpg",
+        "alt": "mobile-suit-victory-gundam-side-story"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

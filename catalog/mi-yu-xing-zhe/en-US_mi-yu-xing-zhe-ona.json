@@ -1,5 +1,9 @@
 {
     "title": "Mi Yu Xing Zhe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1869/104422.jpg",
+        "alt": "mi-yu-xing-zhe"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "迷域行者",

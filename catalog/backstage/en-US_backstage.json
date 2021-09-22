@@ -1,5 +1,9 @@
 {
     "title": "Backstage!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191537.jpg",
+        "alt": "backstage"
+    },
     "type": "manga",
     "original_name": "バックステージ！",
     "start_date": "2016-09-24",

@@ -1,5 +1,9 @@
 {
     "title": "Setsunai Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37872.jpg",
+        "alt": "setsunai-himitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "せつない秘密",

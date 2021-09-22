@@ -1,5 +1,9 @@
 {
     "title": "Beast Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169235.jpg",
+        "alt": "beast-master"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Mars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191262.jpg",
+        "alt": "mars"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "59",

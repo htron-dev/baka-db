@@ -1,5 +1,9 @@
 {
     "title": "Kachou to Watashi no Okazudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215788.jpg",
+        "alt": "kachou-to-watashi-no-okazudou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "42",

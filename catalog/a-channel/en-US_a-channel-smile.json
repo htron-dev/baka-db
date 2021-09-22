@@ -1,5 +1,9 @@
 {
     "title": "A-Channel+smile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/35321.jpg",
+        "alt": "a-channel-smile"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "A チャンネル+smile（プラス スマイル）",

@@ -1,5 +1,9 @@
 {
     "title": "Reset World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176062.jpg",
+        "alt": "reset-world"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "リセット・ワールド",

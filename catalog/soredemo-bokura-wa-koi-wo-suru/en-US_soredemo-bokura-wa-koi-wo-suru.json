@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Bokura wa Koi wo Suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149947.jpg",
+        "alt": "soredemo-bokura-wa-koi-wo-suru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

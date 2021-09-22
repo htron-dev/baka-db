@@ -1,5 +1,9 @@
 {
     "title": "Ai to Yobanaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227553.jpg",
+        "alt": "ai-to-yobanaide"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "愛と呼ばないで",

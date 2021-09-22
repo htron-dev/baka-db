@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Deatte kara Boku wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237147.jpg",
+        "alt": "kimi-to-deatte-kara-boku-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

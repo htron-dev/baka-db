@@ -1,5 +1,9 @@
 {
     "title": "Ii kara Shibaraku Damattero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242036.jpg",
+        "alt": "ii-kara-shibaraku-damattero"
+    },
     "type": "manga",
     "original_name": "いいからしばらく黙ってろ！",
     "start_date": "2020-08-05",

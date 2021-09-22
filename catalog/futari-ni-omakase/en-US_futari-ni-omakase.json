@@ -1,5 +1,9 @@
 {
     "title": "Futari ni Omakase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113117.jpg",
+        "alt": "futari-ni-omakase"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "2 人におまかせ",

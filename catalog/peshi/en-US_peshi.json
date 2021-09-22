@@ -1,5 +1,9 @@
 {
     "title": "Peshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175256.jpg",
+        "alt": "peshi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "58",

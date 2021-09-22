@@ -1,5 +1,9 @@
 {
     "title": "Kawaii Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165638.jpg",
+        "alt": "kawaii-hunter"
+    },
     "type": "manga",
     "chapters": "19",
     "original_name": "かわいいハンター",

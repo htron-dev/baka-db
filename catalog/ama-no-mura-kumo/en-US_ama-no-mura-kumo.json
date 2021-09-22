@@ -1,5 +1,9 @@
 {
     "title": "Ama no Mura Kumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64463.jpg",
+        "alt": "ama-no-mura-kumo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

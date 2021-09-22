@@ -1,5 +1,9 @@
 {
     "title": "Massugu ni Ikou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/87627.jpg",
+        "alt": "massugu-ni-ikou"
+    },
     "type": "manga",
     "volumes": "26",
     "original_name": "まっすぐにいこう。",

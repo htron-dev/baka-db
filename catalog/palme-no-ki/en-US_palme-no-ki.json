@@ -1,5 +1,9 @@
 {
     "title": "Palme no Ki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/12909.jpg",
+        "alt": "palme-no-ki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "パルムの樹",

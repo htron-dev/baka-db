@@ -1,5 +1,9 @@
 {
     "title": "Hyper Ultra Girlish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206416.jpg",
+        "alt": "hyper-ultra-girlish"
+    },
     "type": "manga",
     "original_name": "ハイパーウルトラガーリッシュ",
     "start_date": "2016-06-27",

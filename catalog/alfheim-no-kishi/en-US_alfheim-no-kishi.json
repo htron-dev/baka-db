@@ -1,5 +1,9 @@
 {
     "title": "Alfheim no Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78933.jpg",
+        "alt": "alfheim-no-kishi"
+    },
     "type": "manga",
     "volumes": "54",
     "original_name": "妖精国の騎士",

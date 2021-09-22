@@ -1,5 +1,9 @@
 {
     "title": "Umbrella Fighter!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/83668.jpg",
+        "alt": "umbrella-fighter"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "アンブレラ ファイター！",

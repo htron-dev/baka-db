@@ -1,5 +1,9 @@
 {
     "title": "DRAMAtical Murder",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/77137.jpg",
+        "alt": "dram-atical-murder"
+    },
     "type": "manga",
     "original_name": "DRAMAtical Murder",
     "start_date": "2012-08-11",

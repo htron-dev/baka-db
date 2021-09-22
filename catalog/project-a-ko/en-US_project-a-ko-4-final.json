@@ -1,5 +1,9 @@
 {
     "title": "Project A-Ko 4: Final",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/29212.jpg",
+        "alt": "project-a-ko-4-final"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "プロジェクト A 子 -FINAL-",

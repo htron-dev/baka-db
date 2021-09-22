@@ -1,5 +1,9 @@
 {
     "title": "Yuukan Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176258.jpg",
+        "alt": "yuukan-club"
+    },
     "type": "manga",
     "original_name": "有閑倶楽部",
     "tags": [

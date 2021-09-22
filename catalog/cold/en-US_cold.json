@@ -1,5 +1,9 @@
 {
     "title": "Cold",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21135.jpg",
+        "alt": "cold"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

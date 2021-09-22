@@ -1,5 +1,9 @@
 {
     "title": "Chi wo Kakeru Niji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163032.jpg",
+        "alt": "chi-wo-kakeru-niji"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

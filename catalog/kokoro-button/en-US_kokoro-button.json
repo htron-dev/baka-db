@@ -1,5 +1,9 @@
 {
     "title": "Kokoro Button",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168910.jpg",
+        "alt": "kokoro-button"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "60",

@@ -1,5 +1,9 @@
 {
     "title": "Rumspringa no Joukei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220589.jpg",
+        "alt": "rumspringa-no-joukei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

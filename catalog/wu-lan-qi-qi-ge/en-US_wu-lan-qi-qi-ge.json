@@ -1,5 +1,9 @@
 {
     "title": "Wu Lan Qi Qi Ge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/76389.jpg",
+        "alt": "wu-lan-qi-qi-ge"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "烏蘭其其格",

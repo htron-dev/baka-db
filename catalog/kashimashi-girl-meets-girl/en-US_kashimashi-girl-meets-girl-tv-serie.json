@@ -1,12 +1,16 @@
 {
     "title": "Kashimashi: Girl Meets Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/19498.jpg",
+        "alt": "kashimashi-girl-meets-girl"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "かしまし〜ガール・ミーツ・ガール〜",
     "start_date": "2006-01-12",
     "end_date": "2006-01-12",
     "opening_song": "\"Koi suru kokoro\" by eufonius",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Koi suru kokoro\" by eufonius (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

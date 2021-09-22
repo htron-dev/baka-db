@@ -1,5 +1,9 @@
 {
     "title": "Mushihime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166267.jpg",
+        "alt": "mushihime"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

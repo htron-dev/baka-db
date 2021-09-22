@@ -1,5 +1,9 @@
 {
     "title": "Eh? Heibon desu yo??",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186485.jpg",
+        "alt": "eh-heibon-desu-yo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

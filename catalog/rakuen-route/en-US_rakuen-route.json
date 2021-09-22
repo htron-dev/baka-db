@@ -1,5 +1,9 @@
 {
     "title": "Rakuen Route",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/100093.jpg",
+        "alt": "rakuen-route"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "楽園ルウト",

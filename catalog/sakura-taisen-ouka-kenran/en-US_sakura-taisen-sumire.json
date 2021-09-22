@@ -1,5 +1,9 @@
 {
     "title": "Sakura Taisen: Sumire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/25431.jpg",
+        "alt": "sakura-taisen-sumire"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "『サクラ大戦』～神崎すみれ引退記念～「す・み・れ」",

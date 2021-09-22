@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Kimon no Protocol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164320.jpg",
+        "alt": "koisuru-kimon-no-protocol"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Saihate Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226325.jpg",
+        "alt": "saihate-drive"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

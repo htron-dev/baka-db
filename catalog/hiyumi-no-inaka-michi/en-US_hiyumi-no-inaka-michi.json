@@ -1,5 +1,9 @@
 {
     "title": "Hiyumi no Inaka Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227619.jpg",
+        "alt": "hiyumi-no-inaka-michi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

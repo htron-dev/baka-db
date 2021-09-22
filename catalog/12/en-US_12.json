@@ -1,5 +1,9 @@
 {
     "title": "12",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/70229.jpg",
+        "alt": "12"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Romance Killer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179247.jpg",
+        "alt": "romance-killer"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "52",

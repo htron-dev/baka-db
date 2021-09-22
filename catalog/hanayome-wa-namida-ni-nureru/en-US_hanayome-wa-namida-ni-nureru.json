@@ -1,5 +1,9 @@
 {
     "title": "Hanayome wa Namida ni Nureru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67307.jpg",
+        "alt": "hanayome-wa-namida-ni-nureru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

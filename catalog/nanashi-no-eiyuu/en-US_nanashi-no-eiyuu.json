@@ -1,5 +1,9 @@
 {
     "title": "Nanashi no Eiyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201626.jpg",
+        "alt": "nanashi-no-eiyuu"
+    },
     "type": "light-novel",
     "original_name": "名無しの英雄",
     "start_date": "2017-10-16",

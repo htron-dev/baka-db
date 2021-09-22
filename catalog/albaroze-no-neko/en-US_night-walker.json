@@ -1,5 +1,9 @@
 {
     "title": "NightWalker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79539.jpg",
+        "alt": "night-walker"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

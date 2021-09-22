@@ -1,5 +1,9 @@
 {
     "title": "Anata ga Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28513.jpg",
+        "alt": "anata-ga-paradise"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あなたがパラダイス",

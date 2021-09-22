@@ -1,12 +1,16 @@
 {
     "title": "Persona: Trinity Soul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1231/97049.jpg",
+        "alt": "persona-trinity-soul"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ペルソナ 〜トリニティ・ソウル〜",
     "start_date": "2008-01-05",
     "end_date": "2008-01-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Breakin' Through\" by Shuuhei Kita (eps 1-13)",
+    "ending_song": "#1: \"SUICIDES LOVE STORY\" by Nana Kitade (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

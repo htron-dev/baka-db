@@ -1,5 +1,9 @@
 {
     "title": "Goodbye, DonGlees!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1568/117628.jpg",
+        "alt": "goodbye-don-glees"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "グッバイ、ドン・グリーズ！",

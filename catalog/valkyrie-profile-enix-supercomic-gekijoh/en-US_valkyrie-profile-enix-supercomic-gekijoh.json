@@ -1,5 +1,9 @@
 {
     "title": "Valkyrie Profile Enix Supercomic Gekijoh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35078.jpg",
+        "alt": "valkyrie-profile-enix-supercomic-gekijoh"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "ヴァルキリープロファイル",

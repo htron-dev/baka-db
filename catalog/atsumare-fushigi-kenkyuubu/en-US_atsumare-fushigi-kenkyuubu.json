@@ -1,5 +1,9 @@
 {
     "title": "Atsumare! Fushigi Kenkyuubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194322.jpg",
+        "alt": "atsumare-fushigi-kenkyuubu"
+    },
     "type": "manga",
     "original_name": "あつまれ！ふしぎ研究部",
     "start_date": "2016-09-29",

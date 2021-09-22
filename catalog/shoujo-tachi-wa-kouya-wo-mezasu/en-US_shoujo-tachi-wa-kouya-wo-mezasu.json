@@ -1,5 +1,9 @@
 {
     "title": "Shoujo-tachi wa Kouya wo Mezasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/77837.jpg",
+        "alt": "shoujo-tachi-wa-kouya-wo-mezasu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "少女たちは荒野を目指す",

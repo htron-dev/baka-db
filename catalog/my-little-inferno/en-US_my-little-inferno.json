@@ -1,5 +1,9 @@
 {
     "title": "My Little Inferno",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235524.jpg",
+        "alt": "my-little-inferno"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

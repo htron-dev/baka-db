@@ -1,5 +1,9 @@
 {
     "title": "Kaiki Shininchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247903.jpg",
+        "alt": "kaiki-shininchou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

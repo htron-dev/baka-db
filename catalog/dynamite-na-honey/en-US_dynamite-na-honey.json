@@ -1,5 +1,9 @@
 {
     "title": "Dynamite na Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5763.jpg",
+        "alt": "dynamite-na-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ダイナマイトなハニー",

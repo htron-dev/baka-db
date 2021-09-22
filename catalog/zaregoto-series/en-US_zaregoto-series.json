@@ -1,5 +1,9 @@
 {
     "title": "Zaregoto Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157901.jpg",
+        "alt": "zaregoto-series"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "71",

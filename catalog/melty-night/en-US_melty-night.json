@@ -1,5 +1,9 @@
 {
     "title": "Melty Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159484.jpg",
+        "alt": "melty-night"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "Melty Night",

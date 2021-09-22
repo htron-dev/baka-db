@@ -1,5 +1,9 @@
 {
     "title": "Chronic Love - Tsuioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22550.jpg",
+        "alt": "chronic-love-tsuioku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kaitou Saint Tail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171555.jpg",
+        "alt": "kaitou-saint-tail"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "33",

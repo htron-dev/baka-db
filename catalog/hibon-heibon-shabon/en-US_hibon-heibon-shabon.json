@@ -1,5 +1,9 @@
 {
     "title": "Hibon Heibon Shabon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235518.jpg",
+        "alt": "hibon-heibon-shabon"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "非凡・平凡・シャボン!",

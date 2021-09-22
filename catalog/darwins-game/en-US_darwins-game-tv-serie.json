@@ -1,5 +1,9 @@
 {
     "title": "Darwin's Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1016/107222.jpg",
+        "alt": "darwins-game"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "ダーウィンズゲーム",

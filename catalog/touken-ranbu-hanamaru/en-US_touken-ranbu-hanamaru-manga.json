@@ -1,5 +1,9 @@
 {
     "title": "Touken Ranbu: Hanamaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197919.jpg",
+        "alt": "touken-ranbu-hanamaru"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

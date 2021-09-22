@@ -1,5 +1,9 @@
 {
     "title": "Rondo Capricione",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12789.jpg",
+        "alt": "rondo-capricione"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ロンドカプリチオーソ",

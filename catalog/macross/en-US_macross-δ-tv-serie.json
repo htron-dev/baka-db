@@ -1,12 +1,16 @@
 {
     "title": "Macross Δ",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/79376.jpg",
+        "alt": "macross-δ"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "マクロス Δ（デルタ）",
     "start_date": "2016-04-03",
     "end_date": "2016-04-03",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Ichido dake no Koi nara (一度だけの恋なら)\" by Walküre (ワルキューレ) (Mikumo Δ JUNNA, Freyja Δ Minori Suzuki, Kaname Δ Kiyono Yasuno, Makina Δ Nozomi Nishida, Reina Δ Nao Touyama) (eps 2-12, 14)",
+    "ending_song": "#01: \"Ikenai Borderline (いけないボーダーライン)\" by Walküre (ワルキューレ) (Mikumo Δ JUNNA, Freyja Δ Minori Suzuki, Kaname Δ Kiyono Yasuno, Makina Δ Nozomi Nishida, Reina Δ Nao Touyama) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

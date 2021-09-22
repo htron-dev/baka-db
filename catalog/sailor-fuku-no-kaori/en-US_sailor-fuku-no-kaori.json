@@ -1,5 +1,9 @@
 {
     "title": "Sailor Fuku no Kaori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20825.jpg",
+        "alt": "sailor-fuku-no-kaori"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

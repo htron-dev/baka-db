@@ -1,5 +1,9 @@
 {
     "title": "Gowapper 5 Gordam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/60417.jpg",
+        "alt": "gowapper-5-gordam"
+    },
     "type": "tv-serie",
     "episodes": "36",
     "original_name": "ゴワッパー 5 ゴーダム",

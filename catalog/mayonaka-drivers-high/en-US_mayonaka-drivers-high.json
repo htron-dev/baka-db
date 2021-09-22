@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka Driver's High",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245632.jpg",
+        "alt": "mayonaka-drivers-high"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

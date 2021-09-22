@@ -1,5 +1,9 @@
 {
     "title": "Saa Koi ni Ochitamae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6061.jpg",
+        "alt": "saa-koi-ni-ochitamae"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

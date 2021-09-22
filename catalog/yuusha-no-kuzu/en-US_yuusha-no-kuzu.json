@@ -1,5 +1,9 @@
 {
     "title": "Yuusha no Kuzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186321.jpg",
+        "alt": "yuusha-no-kuzu"
+    },
     "type": "light-novel",
     "original_name": "勇者のクズ",
     "start_date": "2016-12-24",

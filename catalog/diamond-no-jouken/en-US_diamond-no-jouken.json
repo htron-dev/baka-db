@@ -1,5 +1,9 @@
 {
     "title": "Diamond no Jouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14600.jpg",
+        "alt": "diamond-no-jouken"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

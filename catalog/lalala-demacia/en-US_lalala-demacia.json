@@ -1,5 +1,9 @@
 {
     "title": "Lalala Demacia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1017/114410.jpg",
+        "alt": "lalala-demacia"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "啦啦啦德玛西亚",

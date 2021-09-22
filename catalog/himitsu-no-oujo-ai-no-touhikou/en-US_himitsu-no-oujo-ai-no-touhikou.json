@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Oujo, Ai no Touhikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194925.jpg",
+        "alt": "himitsu-no-oujo-ai-no-touhikou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

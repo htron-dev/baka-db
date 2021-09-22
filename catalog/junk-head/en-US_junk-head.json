@@ -1,5 +1,9 @@
 {
     "title": "Junk Head",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1414/101049.jpg",
+        "alt": "junk-head"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "JUNK HEAD",

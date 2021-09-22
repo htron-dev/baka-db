@@ -1,5 +1,9 @@
 {
     "title": "Shokugeki no Souma: à la Carte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120167.jpg",
+        "alt": "shokugeki-no-souma-a-la-carte"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "24",

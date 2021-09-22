@@ -1,5 +1,9 @@
 {
     "title": "Otome Bare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232406.jpg",
+        "alt": "otome-bare"
+    },
     "type": "manga",
     "original_name": "おとめバレ",
     "start_date": "2018-02-27",

@@ -1,5 +1,9 @@
 {
     "title": "Afro Samurai Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/67723.jpg",
+        "alt": "afro-samurai-pilot"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "アフロサムライ",

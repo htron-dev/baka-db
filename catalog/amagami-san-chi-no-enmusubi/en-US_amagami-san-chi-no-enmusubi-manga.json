@@ -1,5 +1,9 @@
 {
     "title": "Amagami-san Chi no Enmusubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247864.jpg",
+        "alt": "amagami-san-chi-no-enmusubi"
+    },
     "type": "manga",
     "original_name": "甘神さんちの縁結び",
     "start_date": "2021-04-21",

@@ -1,5 +1,9 @@
 {
     "title": "Totteoki no ABC",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44243.jpg",
+        "alt": "totteoki-no-abc"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "とっておきの ABC",

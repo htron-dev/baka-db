@@ -1,5 +1,9 @@
 {
     "title": "Space Ship EE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21309.jpg",
+        "alt": "space-ship-ee"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

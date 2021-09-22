@@ -1,5 +1,9 @@
 {
     "title": "Shigatsu wa Kimi no Uso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/102691.jpg",
+        "alt": "shigatsu-wa-kimi-no-uso"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "44",

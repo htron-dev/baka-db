@@ -1,5 +1,9 @@
 {
     "title": "Yamato yo Eien ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61021.jpg",
+        "alt": "yamato-yo-eien-ni"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ヤマトよ永遠に",

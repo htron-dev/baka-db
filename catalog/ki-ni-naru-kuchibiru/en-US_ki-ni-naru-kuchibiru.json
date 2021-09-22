@@ -1,5 +1,9 @@
 {
     "title": "Ki ni Naru Kuchibiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85573.jpg",
+        "alt": "ki-ni-naru-kuchibiru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "気になるくちびる",

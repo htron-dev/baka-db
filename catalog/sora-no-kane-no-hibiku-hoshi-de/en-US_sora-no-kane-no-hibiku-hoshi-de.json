@@ -1,5 +1,9 @@
 {
     "title": "Sora no Kane no Hibiku Hoshi de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196711.jpg",
+        "alt": "sora-no-kane-no-hibiku-hoshi-de"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "86",

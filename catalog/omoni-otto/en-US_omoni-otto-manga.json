@@ -1,5 +1,9 @@
 {
     "title": "Omoni Otto.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221482.jpg",
+        "alt": "omoni-otto"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "おもにおっと。",

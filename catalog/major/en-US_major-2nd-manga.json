@@ -1,5 +1,9 @@
 {
     "title": "Major 2nd",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157412.jpg",
+        "alt": "major-2nd"
+    },
     "type": "manga",
     "original_name": "MAJOR 2nd",
     "start_date": "2015-03-11",

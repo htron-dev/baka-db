@@ -1,5 +1,9 @@
 {
     "title": "Wakeari Bukken ni Wakeari.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223849.jpg",
+        "alt": "wakeari-bukken-ni-wakeari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

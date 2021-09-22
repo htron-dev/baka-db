@@ -1,5 +1,9 @@
 {
     "title": "Je t'aime Scandal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38657.jpg",
+        "alt": "je-taime-scandal"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ジュテーム・スキャンダル",

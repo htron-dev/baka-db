@@ -1,5 +1,9 @@
 {
     "title": "Jikan no Arukikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72827.jpg",
+        "alt": "jikan-no-arukikata"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "時間の歩き方",

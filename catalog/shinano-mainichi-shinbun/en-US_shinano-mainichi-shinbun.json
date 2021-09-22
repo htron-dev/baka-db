@@ -1,5 +1,9 @@
 {
     "title": "Shinano Mainichi Shinbun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/64593.jpg",
+        "alt": "shinano-mainichi-shinbun"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "信濃毎日新聞",

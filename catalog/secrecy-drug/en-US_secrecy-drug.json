@@ -1,5 +1,9 @@
 {
     "title": "Secrecy Drug",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2210.jpg",
+        "alt": "secrecy-drug"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

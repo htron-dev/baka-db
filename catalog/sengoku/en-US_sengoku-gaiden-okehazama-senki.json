@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Gaiden: Okehazama Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165059.jpg",
+        "alt": "sengoku-gaiden-okehazama-senki"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "38",

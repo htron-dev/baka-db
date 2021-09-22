@@ -1,5 +1,9 @@
 {
     "title": "Hakurou no Samurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226490.jpg",
+        "alt": "hakurou-no-samurai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Otome Senshi Lovely 5!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30628.jpg",
+        "alt": "otome-senshi-lovely-5"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

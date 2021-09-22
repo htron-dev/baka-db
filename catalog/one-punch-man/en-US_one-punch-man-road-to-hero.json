@@ -1,5 +1,9 @@
 {
     "title": "One Punch Man: Road to Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/76392.jpg",
+        "alt": "one-punch-man-road-to-hero"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ワンパンマン OVA「ロード・トゥ・ヒーロー」",

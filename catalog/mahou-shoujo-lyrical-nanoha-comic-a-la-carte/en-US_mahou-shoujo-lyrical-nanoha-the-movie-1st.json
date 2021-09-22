@@ -1,10 +1,14 @@
 {
     "title": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1058/94433.jpg",
+        "alt": "mahou-shoujo-lyrical-nanoha-the-movie-1st"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "魔法少女リリカルなのは The MOVIE 1st",
     "start_date": "2010-01-23",
-    "ending_song": "#1",
+    "ending_song": "#1: \"My wish My love\" by Yukari Tamura",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

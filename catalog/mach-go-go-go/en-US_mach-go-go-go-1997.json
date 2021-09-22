@@ -1,12 +1,16 @@
 {
     "title": "Mach GoGoGo (1997)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/6010.jpg",
+        "alt": "mach-go-go-go-1997"
+    },
     "type": "tv-serie",
     "episodes": "34",
     "original_name": "マッハ GoGoGo",
     "start_date": "1997-01-09",
     "end_date": "1997-01-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Junpaku no Energy (純白の勇気（エナジー）)\" by Kentarou Hayami",
+    "ending_song": "#1: \"FLY TO THE DREAM\" by Youko Kubota",
     "rating": "PG - Children",
     "tags": [
         "adventure",

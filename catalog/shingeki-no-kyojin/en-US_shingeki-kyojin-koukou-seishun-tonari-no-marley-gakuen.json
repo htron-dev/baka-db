@@ -1,5 +1,9 @@
 {
     "title": "Shingeki! Kyojin Koukou: Seishun! Tonari no Marley Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241996.jpg",
+        "alt": "shingeki-kyojin-koukou-seishun-tonari-no-marley-gakuen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

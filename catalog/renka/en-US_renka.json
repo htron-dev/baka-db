@@ -1,5 +1,9 @@
 {
     "title": "Renka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3352.jpg",
+        "alt": "renka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,11 +1,15 @@
 {
     "title": "Skull Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1273/115661.jpg",
+        "alt": "skull-man"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "スカルマン SKULL MAN",
     "start_date": "2007-04-29",
     "end_date": "2007-04-29",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Hikari no Machi\" by TOKIO",
     "ending_song": "\"Ashita wa Ashita no Kimi ga Umareru (明日は明日の君が生まれる)\" by Chocolove from AKB48",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

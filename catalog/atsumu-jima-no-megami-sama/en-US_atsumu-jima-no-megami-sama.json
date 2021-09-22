@@ -1,5 +1,9 @@
 {
     "title": "Atsumu-jima no Megami-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202240.jpg",
+        "alt": "atsumu-jima-no-megami-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

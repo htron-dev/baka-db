@@ -1,5 +1,9 @@
 {
     "title": "Koigokoro wa Neko wo mo Nurasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95287.jpg",
+        "alt": "koigokoro-wa-neko-wo-mo-nurasu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋心は猫をも濡らす",

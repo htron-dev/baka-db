@@ -1,5 +1,9 @@
 {
     "title": "Cinderella Closet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227050.jpg",
+        "alt": "cinderella-closet"
+    },
     "type": "manga",
     "original_name": "シンデレラ クロゼット",
     "start_date": "2019-06-13",

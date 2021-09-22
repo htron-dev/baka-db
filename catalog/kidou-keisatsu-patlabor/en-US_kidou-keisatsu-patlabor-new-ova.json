@@ -1,12 +1,16 @@
 {
     "title": "Kidou Keisatsu Patlabor: New OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1183/96504.jpg",
+        "alt": "kidou-keisatsu-patlabor-new-ova"
+    },
     "type": "ova",
     "episodes": "16",
     "original_name": "機動警察パトレイバー　 NEW OVA",
     "start_date": "1990-11-22",
     "end_date": "1990-11-22",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Condition Green ~Kinkyu Hasshin~ (コンディション・グリーン~緊急発進~)\" by Hiroko Kasahara (eps 1, 2, 5, 6)",
+    "ending_song": "#1: \"Paradise no Kakuritsu (パラダイスの確率)\" by JA-JA (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

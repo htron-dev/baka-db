@@ -1,5 +1,9 @@
 {
     "title": "Uchi ni Oide yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206667.jpg",
+        "alt": "uchi-ni-oide-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

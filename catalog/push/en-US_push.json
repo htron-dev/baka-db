@@ -1,5 +1,9 @@
 {
     "title": "Push",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/5778.jpg",
+        "alt": "push"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "プッシュ",

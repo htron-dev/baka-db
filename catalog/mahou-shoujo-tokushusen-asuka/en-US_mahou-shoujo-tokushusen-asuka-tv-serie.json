@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Tokushusen Asuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1514/100469.jpg",
+        "alt": "mahou-shoujo-tokushusen-asuka"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "魔法少女特殊戦あすか",

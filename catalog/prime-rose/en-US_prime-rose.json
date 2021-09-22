@@ -1,5 +1,9 @@
 {
     "title": "Prime Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36211.jpg",
+        "alt": "prime-rose"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "プライム・ローズ",

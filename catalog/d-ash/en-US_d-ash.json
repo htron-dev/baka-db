@@ -1,5 +1,9 @@
 {
     "title": "D-ash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152363.jpg",
+        "alt": "d-ash"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "54",

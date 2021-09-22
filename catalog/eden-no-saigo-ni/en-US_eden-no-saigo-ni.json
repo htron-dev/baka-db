@@ -1,5 +1,9 @@
 {
     "title": "Eden no Saigo ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130699.jpg",
+        "alt": "eden-no-saigo-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

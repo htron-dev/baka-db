@@ -1,5 +1,9 @@
 {
     "title": "Doraemon: The Day When I Was Born",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/29008.jpg",
+        "alt": "doraemon-the-day-when-i-was-born"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラえもん ぼくの生まれた日",

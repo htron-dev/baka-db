@@ -1,5 +1,9 @@
 {
     "title": "Seto no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185286.jpg",
+        "alt": "seto-no-hanayome"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "79",

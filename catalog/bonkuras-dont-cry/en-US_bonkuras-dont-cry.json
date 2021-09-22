@@ -1,5 +1,9 @@
 {
     "title": "Bonkuras, Don't Cry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179135.jpg",
+        "alt": "bonkuras-dont-cry"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

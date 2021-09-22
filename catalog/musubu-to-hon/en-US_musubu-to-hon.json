@@ -1,5 +1,9 @@
 {
     "title": "Musubu to Hon.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246827.jpg",
+        "alt": "musubu-to-hon"
+    },
     "type": "light-novel",
     "original_name": "むすぶと本。",
     "start_date": "2020-06-26",

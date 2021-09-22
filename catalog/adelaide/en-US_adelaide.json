@@ -1,5 +1,9 @@
 {
     "title": "Adelaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233792.jpg",
+        "alt": "adelaide"
+    },
     "type": "manhwa",
     "original_name": "아델라이드",
     "start_date": "2017-12-22",

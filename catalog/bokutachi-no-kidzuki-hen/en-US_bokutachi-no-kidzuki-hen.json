@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi no Kidzuki-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1793/104566.jpg",
+        "alt": "bokutachi-no-kidzuki-hen"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "僕たちの気づき篇",

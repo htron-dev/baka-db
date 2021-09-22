@@ -1,5 +1,9 @@
 {
     "title": "Detective Conan: The Lost Ship in the Sky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240561.jpg",
+        "alt": "detective-conan-the-lost-ship-in-the-sky"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

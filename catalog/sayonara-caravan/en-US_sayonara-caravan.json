@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Caravan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38827.jpg",
+        "alt": "sayonara-caravan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

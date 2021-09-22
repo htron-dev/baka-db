@@ -1,12 +1,16 @@
 {
     "title": "Fullmetal Alchemist: Brotherhood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg",
+        "alt": "fullmetal-alchemist-brotherhood"
+    },
     "type": "tv-serie",
     "episodes": "64",
     "original_name": "鋼の錬金術師 FULLMETAL ALCHEMIST",
     "start_date": "2009-04-05",
     "end_date": "2009-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"again\" by YUI (eps 1-14)",
+    "ending_song": "#1: \"Uso (嘘)\" by SID (eps 1-14)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

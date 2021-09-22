@@ -1,5 +1,9 @@
 {
     "title": "Kiseki no Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116359.jpg",
+        "alt": "kiseki-no-shounen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

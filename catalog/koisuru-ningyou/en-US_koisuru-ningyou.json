@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Ningyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2412.jpg",
+        "alt": "koisuru-ningyou"
+    },
     "type": "manga",
     "original_name": "恋する人形",
     "tags": [

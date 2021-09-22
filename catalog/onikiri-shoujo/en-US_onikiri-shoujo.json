@@ -1,5 +1,9 @@
 {
     "title": "Onikiri Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1909/91251.jpg",
+        "alt": "onikiri-shoujo"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "鬼斬少女",

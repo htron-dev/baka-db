@@ -1,5 +1,9 @@
 {
     "title": "Kamuya Ride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/214808.jpg",
+        "alt": "kamuya-ride"
+    },
     "type": "manga",
     "original_name": "カムヤライド",
     "start_date": "2018-01-12",

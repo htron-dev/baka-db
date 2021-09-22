@@ -1,5 +1,9 @@
 {
     "title": "Ojamajo Doremi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170598.jpg",
+        "alt": "ojamajo-doremi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

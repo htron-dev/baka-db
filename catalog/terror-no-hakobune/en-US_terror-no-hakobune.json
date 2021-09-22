@@ -1,5 +1,9 @@
 {
     "title": "Terror no Hakobune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131987.jpg",
+        "alt": "terror-no-hakobune"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "テロルの箱船",

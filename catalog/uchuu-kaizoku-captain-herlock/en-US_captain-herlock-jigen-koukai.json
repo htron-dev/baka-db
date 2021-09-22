@@ -1,5 +1,9 @@
 {
     "title": "Captain Herlock: Jigen Koukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168234.jpg",
+        "alt": "captain-herlock-jigen-koukai"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "52",

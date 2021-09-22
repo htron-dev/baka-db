@@ -1,5 +1,9 @@
 {
     "title": "Sensou no Tsukurikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1444/93487.jpg",
+        "alt": "sensou-no-tsukurikata"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "戦争のつくりかた",

@@ -1,5 +1,9 @@
 {
     "title": "Rainbow no Anime Bako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/70843.jpg",
+        "alt": "rainbow-no-anime-bako"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "レイン坊のアニメ箱",

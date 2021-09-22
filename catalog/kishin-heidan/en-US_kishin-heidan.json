@@ -1,5 +1,9 @@
 {
     "title": "Kishin Heidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1409/97288.jpg",
+        "alt": "kishin-heidan"
+    },
     "type": "ova",
     "episodes": "7",
     "original_name": "機神兵団",

@@ -1,5 +1,9 @@
 {
     "title": "Croket!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25364.jpg",
+        "alt": "croket"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "コロッケ!",

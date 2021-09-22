@@ -1,5 +1,9 @@
 {
     "title": "Harinezumi no Harry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220656.jpg",
+        "alt": "harinezumi-no-harry"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

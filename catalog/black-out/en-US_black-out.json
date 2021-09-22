@@ -1,5 +1,9 @@
 {
     "title": "Black Out",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168063.jpg",
+        "alt": "black-out"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

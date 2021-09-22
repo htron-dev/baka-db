@@ -1,5 +1,9 @@
 {
     "title": "S to F",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121551.jpg",
+        "alt": "s-to-f"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

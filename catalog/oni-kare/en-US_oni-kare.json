@@ -1,5 +1,9 @@
 {
     "title": "Oni Kare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140985.jpg",
+        "alt": "oni-kare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

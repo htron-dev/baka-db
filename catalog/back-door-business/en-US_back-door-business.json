@@ -1,5 +1,9 @@
 {
     "title": "Back Door Business",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224848.jpg",
+        "alt": "back-door-business"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

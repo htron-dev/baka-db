@@ -1,5 +1,9 @@
 {
     "title": "Iyaya Iyaya mo Suki no Uchi?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212131.jpg",
+        "alt": "iyaya-iyaya-mo-suki-no-uchi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

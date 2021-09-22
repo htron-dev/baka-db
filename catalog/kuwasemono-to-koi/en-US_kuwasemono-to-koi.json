@@ -1,5 +1,9 @@
 {
     "title": "Kuwasemono to Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193961.jpg",
+        "alt": "kuwasemono-to-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "くわせ者と恋",

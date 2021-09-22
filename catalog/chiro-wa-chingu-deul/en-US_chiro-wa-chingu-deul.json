@@ -1,5 +1,9 @@
 {
     "title": "Chiro-wa Chingu-deul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1163/93285.jpg",
+        "alt": "chiro-wa-chingu-deul"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "치로와 친구들",

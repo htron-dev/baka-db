@@ -1,5 +1,9 @@
 {
     "title": "Rampage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33927.jpg",
+        "alt": "rampage"
+    },
     "type": "manga",
     "original_name": "ランペイジ",
     "tags": [

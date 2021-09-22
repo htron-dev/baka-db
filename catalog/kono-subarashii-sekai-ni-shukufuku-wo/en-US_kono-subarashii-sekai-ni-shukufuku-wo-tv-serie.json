@@ -1,12 +1,16 @@
 {
     "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/77831.jpg",
+        "alt": "kono-subarashii-sekai-ni-shukufuku-wo"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "この素晴らしい世界に祝福を！",
     "start_date": "2016-01-14",
     "end_date": "2016-01-14",
     "opening_song": "\"fantastic dreamer\" by Machico (eps 2-10)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"fantastic dreamer\" by Machico (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

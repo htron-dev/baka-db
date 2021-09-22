@@ -1,5 +1,9 @@
 {
     "title": "Teddy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/72759.jpg",
+        "alt": "teddy"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "テディ",

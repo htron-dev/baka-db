@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Himitsu no Hanazono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10915.jpg",
+        "alt": "kimi-to-himitsu-no-hanazono"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

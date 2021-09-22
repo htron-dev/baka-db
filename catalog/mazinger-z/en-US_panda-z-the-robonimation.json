@@ -1,5 +1,9 @@
 {
     "title": "Panda-Z: The Robonimation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2428.jpg",
+        "alt": "panda-z-the-robonimation"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "パンダーゼット THE ROBONIMATION",

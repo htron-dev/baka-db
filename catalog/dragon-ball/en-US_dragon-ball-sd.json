@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball SD",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135399.jpg",
+        "alt": "dragon-ball-sd"
+    },
     "type": "manga",
     "original_name": "ドラゴンボール SD",
     "start_date": "2010-12-03",

@@ -1,5 +1,9 @@
 {
     "title": "Meirei, Kimi wo Hanasanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/71075.jpg",
+        "alt": "meirei-kimi-wo-hanasanai"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "命令、キミを離さない",

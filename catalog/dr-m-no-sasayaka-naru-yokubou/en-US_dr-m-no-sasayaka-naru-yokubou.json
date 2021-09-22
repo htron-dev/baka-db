@@ -1,5 +1,9 @@
 {
     "title": "Dr. M no Sasayaka naru Yokubou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131009.jpg",
+        "alt": "dr-m-no-sasayaka-naru-yokubou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

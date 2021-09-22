@@ -1,5 +1,9 @@
 {
     "title": "Chameleon Jail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66393.jpg",
+        "alt": "chameleon-jail"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

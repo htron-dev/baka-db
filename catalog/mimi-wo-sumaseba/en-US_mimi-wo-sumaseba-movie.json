@@ -1,5 +1,9 @@
 {
     "title": "Mimi wo Sumaseba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1899/109259.jpg",
+        "alt": "mimi-wo-sumaseba"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "耳をすませば",

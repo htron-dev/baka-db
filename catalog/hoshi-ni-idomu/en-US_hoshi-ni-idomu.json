@@ -1,5 +1,9 @@
 {
     "title": "Hoshi ni Idomu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149371.jpg",
+        "alt": "hoshi-ni-idomu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

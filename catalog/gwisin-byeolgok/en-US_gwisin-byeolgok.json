@@ -1,5 +1,9 @@
 {
     "title": "Gwisin Byeolgok",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/49085.jpg",
+        "alt": "gwisin-byeolgok"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "귀신별곡",

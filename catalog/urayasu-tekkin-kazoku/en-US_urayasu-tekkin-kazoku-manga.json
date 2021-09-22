@@ -1,5 +1,9 @@
 {
     "title": "Urayasu Tekkin Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46209.jpg",
+        "alt": "urayasu-tekkin-kazoku"
+    },
     "type": "manga",
     "volumes": "31",
     "original_name": "浦安鉄筋家族",

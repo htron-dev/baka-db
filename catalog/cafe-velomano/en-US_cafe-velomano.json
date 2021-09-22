@@ -1,5 +1,9 @@
 {
     "title": "Café Velomano",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/102051.jpg",
+        "alt": "cafe-velomano"
+    },
     "type": "manhwa",
     "original_name": "카페 벨로마노",
     "tags": [

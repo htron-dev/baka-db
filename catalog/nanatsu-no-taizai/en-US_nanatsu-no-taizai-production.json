@@ -1,5 +1,9 @@
 {
     "title": "Nanatsu no Taizai Production",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180367.jpg",
+        "alt": "nanatsu-no-taizai-production"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "76",

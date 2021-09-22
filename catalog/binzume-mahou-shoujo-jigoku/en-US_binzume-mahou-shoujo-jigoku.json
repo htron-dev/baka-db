@@ -1,5 +1,9 @@
 {
     "title": "Binzume Mahou Shoujo Jigoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138591.jpg",
+        "alt": "binzume-mahou-shoujo-jigoku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Cult no Omoide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167486.jpg",
+        "alt": "cult-no-omoide"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "カルトの思い出",

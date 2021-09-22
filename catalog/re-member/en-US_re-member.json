@@ -1,5 +1,9 @@
 {
     "title": "ReMember",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/77259.jpg",
+        "alt": "re-member"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "91",

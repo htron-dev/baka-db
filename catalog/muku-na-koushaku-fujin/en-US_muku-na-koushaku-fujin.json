@@ -1,5 +1,9 @@
 {
     "title": "Muku na Koushaku Fujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40050.jpg",
+        "alt": "muku-na-koushaku-fujin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

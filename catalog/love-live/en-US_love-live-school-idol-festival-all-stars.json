@@ -1,5 +1,9 @@
 {
     "title": "Love Live! School Idol Festival All Stars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1943/102566.jpg",
+        "alt": "love-live-school-idol-festival-all-stars"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ラブライブ！スクールアイドルフェスティバル ALL STARS",

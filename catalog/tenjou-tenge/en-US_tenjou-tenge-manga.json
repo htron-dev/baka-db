@@ -1,5 +1,9 @@
 {
     "title": "Tenjou Tenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57219.jpg",
+        "alt": "tenjou-tenge"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "136",

@@ -1,5 +1,9 @@
 {
     "title": "Kuroko ni Koi wa, Irimasen.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225491.jpg",
+        "alt": "kuroko-ni-koi-wa-irimasen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Seinaru Usotsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117073.jpg",
+        "alt": "seinaru-usotsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

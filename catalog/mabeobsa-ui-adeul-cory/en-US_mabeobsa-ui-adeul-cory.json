@@ -1,5 +1,9 @@
 {
     "title": "Mabeobsa-ui Adeul Cory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/72012.jpg",
+        "alt": "mabeobsa-ui-adeul-cory"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "마법사의 아들 코리",

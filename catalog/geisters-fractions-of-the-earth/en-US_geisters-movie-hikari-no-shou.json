@@ -1,5 +1,9 @@
 {
     "title": "Geisters Movie: Hikari no Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/85624.jpg",
+        "alt": "geisters-movie-hikari-no-shou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 ガイスターズ 光の章",

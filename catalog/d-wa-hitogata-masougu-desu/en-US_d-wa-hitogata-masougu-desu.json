@@ -1,5 +1,9 @@
 {
     "title": "D wa Hitogata Masougu desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163053.jpg",
+        "alt": "d-wa-hitogata-masougu-desu"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "35",

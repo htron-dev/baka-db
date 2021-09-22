@@ -1,5 +1,9 @@
 {
     "title": "I Hate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178060.jpg",
+        "alt": "i-hate"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

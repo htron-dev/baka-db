@@ -1,5 +1,9 @@
 {
     "title": "Guin Saga: Shichinin no Madoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20121.jpg",
+        "alt": "guin-saga-shichinin-no-madoushi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

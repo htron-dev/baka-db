@@ -1,11 +1,15 @@
 {
     "title": "Nisemonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1044/103654.jpg",
+        "alt": "nisemonogatari"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "偽物語",
     "start_date": "2012-01-08",
     "end_date": "2012-01-08",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Futakotome (二言目)\" by Hitagi Senjougahara (Chiwa Saito) (TV Broadcast and BD/DVD: eps 1, 3)",
     "ending_song": "\"Naisho no Hanashi (ナイショの話)\" by ClariS",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

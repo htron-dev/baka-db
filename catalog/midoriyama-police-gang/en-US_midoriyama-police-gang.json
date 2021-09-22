@@ -1,5 +1,9 @@
 {
     "title": "Midoriyama Police Gang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238737.jpg",
+        "alt": "midoriyama-police-gang"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

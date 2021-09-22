@@ -1,5 +1,9 @@
 {
     "title": "Ixion Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175968.jpg",
+        "alt": "ixion-saga"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

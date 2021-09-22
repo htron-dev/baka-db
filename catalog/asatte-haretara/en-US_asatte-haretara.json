@@ -1,5 +1,9 @@
 {
     "title": "Asatte Haretara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10032.jpg",
+        "alt": "asatte-haretara"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あさって晴れたら",

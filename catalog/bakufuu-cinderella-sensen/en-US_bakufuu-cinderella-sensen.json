@@ -1,5 +1,9 @@
 {
     "title": "Bakufuu Cinderella Sensen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20403.jpg",
+        "alt": "bakufuu-cinderella-sensen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

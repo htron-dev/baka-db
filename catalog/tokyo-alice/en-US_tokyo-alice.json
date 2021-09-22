@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161352.jpg",
+        "alt": "tokyo-alice"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "86",

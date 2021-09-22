@@ -1,5 +1,9 @@
 {
     "title": "Dai Eiyuu ga Mushoku de Nani ga Warui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176315.jpg",
+        "alt": "dai-eiyuu-ga-mushoku-de-nani-ga-warui"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "84",

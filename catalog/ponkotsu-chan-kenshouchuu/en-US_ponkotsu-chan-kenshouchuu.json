@@ -1,5 +1,9 @@
 {
     "title": "Ponkotsu-chan Kenshouchuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222545.jpg",
+        "alt": "ponkotsu-chan-kenshouchuu"
+    },
     "type": "manga",
     "original_name": "ポンコツちゃん検証中",
     "start_date": "2019-04-24",

@@ -1,12 +1,16 @@
 {
     "title": "Enen no Shouboutai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1664/103275.jpg",
+        "alt": "enen-no-shouboutai"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "炎炎ノ消防隊",
     "start_date": "2019-07-06",
     "end_date": "2019-07-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Inferno (インフェルノ)\" by Mrs.GREEN APPLE (eps 1-14)",
+    "ending_song": "#1: \"veil\" by Keina Suda (eps 1-14)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Sakura-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188411.jpg",
+        "alt": "itoshi-no-sakura-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "56",

@@ -1,5 +1,9 @@
 {
     "title": "Yasashiku Shinaide, Naichau kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78293.jpg",
+        "alt": "yasashiku-shinaide-naichau-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Zoumotsujima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230532.jpg",
+        "alt": "zoumotsujima"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

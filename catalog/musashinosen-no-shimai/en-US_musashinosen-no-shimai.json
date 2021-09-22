@@ -1,5 +1,9 @@
 {
     "title": "Musashinosen no Shimai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36236.jpg",
+        "alt": "musashinosen-no-shimai"
+    },
     "type": "manga",
     "original_name": "武蔵野線の姉妹",
     "start_date": "2008-06-03",

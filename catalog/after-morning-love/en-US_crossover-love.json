@@ -1,5 +1,9 @@
 {
     "title": "Crossover Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181202.jpg",
+        "alt": "crossover-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

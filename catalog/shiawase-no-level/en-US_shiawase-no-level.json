@@ -1,5 +1,9 @@
 {
     "title": "Shiawase no Level",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6226.jpg",
+        "alt": "shiawase-no-level"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

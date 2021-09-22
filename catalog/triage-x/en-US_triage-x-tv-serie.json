@@ -1,12 +1,16 @@
 {
     "title": "Triage X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/73682.jpg",
+        "alt": "triage-x"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "トリアージ X",
     "start_date": "2015-04-09",
     "end_date": "2015-04-09",
     "opening_song": "\"triage\" by Saeko Zougou featuring Nagareda Project",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Soleil Moa (ソレーユ・モア)\" by Kazutomi Yamamoto (eps 1-9)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "One Piece: Loguetown-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167765.jpg",
+        "alt": "one-piece-loguetown-hen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ONE PIECE ローグタウン編",

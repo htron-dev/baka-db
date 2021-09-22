@@ -1,5 +1,9 @@
 {
     "title": "Kaze ni Natte Uta ni Natte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19997.jpg",
+        "alt": "kaze-ni-natte-uta-ni-natte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

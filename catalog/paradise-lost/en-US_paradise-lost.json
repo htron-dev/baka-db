@@ -1,5 +1,9 @@
 {
     "title": "Paradise Lost",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155679.jpg",
+        "alt": "paradise-lost"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Natsu-iro Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/90013.jpg",
+        "alt": "natsu-iro-danshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

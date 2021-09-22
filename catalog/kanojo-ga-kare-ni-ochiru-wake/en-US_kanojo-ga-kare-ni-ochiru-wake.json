@@ -1,5 +1,9 @@
 {
     "title": "Kanojo ga Kare ni Ochiru Wake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39722.jpg",
+        "alt": "kanojo-ga-kare-ni-ochiru-wake"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Black Lagoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/25596.jpg",
+        "alt": "black-lagoon"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "BLACK LAGOON",

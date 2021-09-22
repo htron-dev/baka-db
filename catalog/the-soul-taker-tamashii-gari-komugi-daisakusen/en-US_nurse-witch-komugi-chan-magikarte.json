@@ -1,12 +1,16 @@
 {
     "title": "Nurse Witch Komugi-chan Magikarte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/77618.jpg",
+        "alt": "nurse-witch-komugi-chan-magikarte"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "ナースウィッチ小麦ちゃんマジカルて",
     "start_date": "2002-08-23",
     "end_date": "2002-08-23",
     "opening_song": "\"Ai no MEDISUN (愛のメディスン; Medicine of Love)\" by Haruko Momoi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Otome no Mahou de Ponde Ke Wa (オトメの魔法でポンデ・ケ・ワ)\" by Haruko Momoi (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

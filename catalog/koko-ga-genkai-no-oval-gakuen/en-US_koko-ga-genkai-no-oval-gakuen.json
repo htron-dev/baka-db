@@ -1,5 +1,9 @@
 {
     "title": "Koko ga Genkai no Oval Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115723.jpg",
+        "alt": "koko-ga-genkai-no-oval-gakuen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

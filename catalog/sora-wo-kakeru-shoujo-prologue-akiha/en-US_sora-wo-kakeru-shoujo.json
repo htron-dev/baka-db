@@ -1,12 +1,16 @@
 {
     "title": "Sora wo Kakeru Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/74071.jpg",
+        "alt": "sora-wo-kakeru-shoujo"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "宇宙をかける少女",
     "start_date": "2009-01-06",
     "end_date": "2009-01-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Rara Eve Shinseiki (裸々イヴ新世紀)\" by ALI PROJECT (eps 1- 8, 10-14)",
+    "ending_song": "#1: \"Sora wa Shōjo no Tomodachisa (宇宙は少女のともだちさ)\" by Mako, Aya Endo, and Yui Makino (eps 1-8, 10-15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

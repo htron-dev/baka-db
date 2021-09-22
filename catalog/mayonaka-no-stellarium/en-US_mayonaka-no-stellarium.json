@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka no Stellarium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202326.jpg",
+        "alt": "mayonaka-no-stellarium"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

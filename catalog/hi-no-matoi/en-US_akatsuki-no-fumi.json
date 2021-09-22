@@ -1,5 +1,9 @@
 {
     "title": "Akatsuki no Fumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81910.jpg",
+        "alt": "akatsuki-no-fumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

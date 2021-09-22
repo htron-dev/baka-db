@@ -1,5 +1,9 @@
 {
     "title": "Akuma-chan wa Momoiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203622.jpg",
+        "alt": "akuma-chan-wa-momoiro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

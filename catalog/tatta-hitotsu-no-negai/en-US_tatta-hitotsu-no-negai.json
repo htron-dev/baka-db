@@ -1,5 +1,9 @@
 {
     "title": "Tatta Hitotsu no, Negai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124029.jpg",
+        "alt": "tatta-hitotsu-no-negai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

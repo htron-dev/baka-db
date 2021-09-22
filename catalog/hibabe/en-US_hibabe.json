@@ -1,5 +1,9 @@
 {
     "title": "Hibabe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1998/115594.jpg",
+        "alt": "hibabe"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "海贝贝",

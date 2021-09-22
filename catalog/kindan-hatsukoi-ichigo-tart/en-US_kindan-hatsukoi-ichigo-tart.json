@@ -1,5 +1,9 @@
 {
     "title": "Kindan, Hatsukoi, Ichigo Tart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167666.jpg",
+        "alt": "kindan-hatsukoi-ichigo-tart"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Jumbo Max",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248121.jpg",
+        "alt": "jumbo-max"
+    },
     "type": "manga",
     "original_name": "JUMBO MAX",
     "start_date": "2020-04-25",

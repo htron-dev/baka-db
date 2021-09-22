@@ -1,5 +1,9 @@
 {
     "title": "Oto☆Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/99111.jpg",
+        "alt": "oto☆-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Rokudou no Onna-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187985.jpg",
+        "alt": "rokudou-no-onna-tachi"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "233",

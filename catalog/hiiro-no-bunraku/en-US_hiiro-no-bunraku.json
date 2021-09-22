@@ -1,5 +1,9 @@
 {
     "title": "Hiiro no Bunraku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203486.jpg",
+        "alt": "hiiro-no-bunraku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

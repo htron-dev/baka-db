@@ -1,5 +1,9 @@
 {
     "title": "Ano Natsu ga Owaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17698.jpg",
+        "alt": "ano-natsu-ga-owaru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

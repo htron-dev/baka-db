@@ -1,5 +1,9 @@
 {
     "title": "Shinjuku Connective",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194304.jpg",
+        "alt": "shinjuku-connective"
+    },
     "type": "light-novel",
     "original_name": "新宿コネクティブ",
     "start_date": "2017-05-01",

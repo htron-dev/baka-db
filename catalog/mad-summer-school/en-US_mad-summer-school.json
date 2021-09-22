@@ -1,5 +1,9 @@
 {
     "title": "Mad Summer School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229968.jpg",
+        "alt": "mad-summer-school"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

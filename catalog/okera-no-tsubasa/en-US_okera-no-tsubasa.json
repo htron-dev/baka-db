@@ -1,5 +1,9 @@
 {
     "title": "Okera no Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130735.jpg",
+        "alt": "okera-no-tsubasa"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "54",

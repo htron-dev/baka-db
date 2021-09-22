@@ -1,5 +1,9 @@
 {
     "title": "Joshikou dakara Safe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235864.jpg",
+        "alt": "joshikou-dakara-safe"
+    },
     "type": "manga",
     "original_name": "女子校だからセーフ",
     "start_date": "2019-10-09",

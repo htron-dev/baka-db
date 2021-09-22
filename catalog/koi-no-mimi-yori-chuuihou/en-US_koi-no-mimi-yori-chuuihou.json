@@ -1,5 +1,9 @@
 {
     "title": "Koi no Mimi Yori Chuuihou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36186.jpg",
+        "alt": "koi-no-mimi-yori-chuuihou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

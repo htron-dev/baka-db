@@ -1,5 +1,9 @@
 {
     "title": "Yoru dake no Aijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247190.jpg",
+        "alt": "yoru-dake-no-aijin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "夜だけの愛人",

@@ -1,5 +1,9 @@
 {
     "title": "Hyoukai no Leqkel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195591.jpg",
+        "alt": "hyoukai-no-leqkel"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "漂海のレクキール",

@@ -1,5 +1,9 @@
 {
     "title": "Bloody Monday",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/57141.jpg",
+        "alt": "bloody-monday"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "96",

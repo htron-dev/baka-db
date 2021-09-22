@@ -1,5 +1,9 @@
 {
     "title": "Mugyutto! Black Clover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1066/101736.jpg",
+        "alt": "mugyutto-black-clover"
+    },
     "type": "ona",
     "episodes": "8",
     "original_name": "むぎゅっと！ブラッククローバー",

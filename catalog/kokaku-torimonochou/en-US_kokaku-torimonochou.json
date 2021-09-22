@@ -1,5 +1,9 @@
 {
     "title": "Kokaku Torimonochou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26220.jpg",
+        "alt": "kokaku-torimonochou"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "胡鶴捕物帳",

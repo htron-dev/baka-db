@@ -1,5 +1,9 @@
 {
     "title": "Kaikan Love Crazy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91283.jpg",
+        "alt": "kaikan-love-crazy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

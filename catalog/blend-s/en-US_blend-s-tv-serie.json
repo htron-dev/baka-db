@@ -1,12 +1,16 @@
 {
     "title": "Blend S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/88286.jpg",
+        "alt": "blend-s"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ブレンド・S",
     "start_date": "2017-10-08",
     "end_date": "2017-10-08",
     "opening_song": "\"Bon Appétit♡S (ぼなぺてぃーと ♡S)\" by Blend A (Azumi Waki, Akari Kito, Anzu Haruno)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Detarame na Minus to Plus ni Okeru Blend Ko (デタラメなマイナスとプラスにおけるブレンド考)\" by BLEND-A (Azumi Waki, Akari Kito, Anzu Haruno) (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

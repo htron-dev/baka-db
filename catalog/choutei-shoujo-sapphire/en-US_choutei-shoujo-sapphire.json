@@ -1,5 +1,9 @@
 {
     "title": "Choutei Shoujo Sapphire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162482.jpg",
+        "alt": "choutei-shoujo-sapphire"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "11",

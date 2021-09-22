@@ -1,5 +1,9 @@
 {
     "title": "Chou Tokkyuu Hikarian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/74463.jpg",
+        "alt": "chou-tokkyuu-hikarian"
+    },
     "type": "tv-serie",
     "episodes": "156",
     "original_name": "超特急ヒカリアン",

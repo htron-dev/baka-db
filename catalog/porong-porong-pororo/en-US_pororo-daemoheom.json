@@ -1,5 +1,9 @@
 {
     "title": "Pororo Daemoheom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/66613.jpg",
+        "alt": "pororo-daemoheom"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "뽀로로의 대모험",

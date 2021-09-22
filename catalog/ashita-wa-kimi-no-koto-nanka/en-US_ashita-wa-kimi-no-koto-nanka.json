@@ -1,5 +1,9 @@
 {
     "title": "Ashita wa Kimi no Koto nanka.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237048.jpg",
+        "alt": "ashita-wa-kimi-no-koto-nanka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

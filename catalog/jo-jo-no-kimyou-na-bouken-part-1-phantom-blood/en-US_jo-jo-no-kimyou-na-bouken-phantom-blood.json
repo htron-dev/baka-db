@@ -1,5 +1,9 @@
 {
     "title": "JoJo no Kimyou na Bouken: Phantom Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/50055.jpg",
+        "alt": "jo-jo-no-kimyou-na-bouken-phantom-blood"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ジョジョの奇妙な冒険 ファントム ブラッド",

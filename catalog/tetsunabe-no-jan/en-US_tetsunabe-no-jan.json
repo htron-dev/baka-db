@@ -1,5 +1,9 @@
 {
     "title": "Tetsunabe no Jan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150687.jpg",
+        "alt": "tetsunabe-no-jan"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "251",

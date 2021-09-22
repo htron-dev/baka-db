@@ -1,5 +1,9 @@
 {
     "title": "Okaasan Futari Itemo Ii kana!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175505.jpg",
+        "alt": "okaasan-futari-itemo-ii-kana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

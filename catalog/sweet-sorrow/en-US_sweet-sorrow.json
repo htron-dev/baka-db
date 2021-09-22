@@ -1,5 +1,9 @@
 {
     "title": "Sweet Sorrow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222602.jpg",
+        "alt": "sweet-sorrow"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Darling, Iikagen ni Shiyagare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224008.jpg",
+        "alt": "darling-iikagen-ni-shiyagare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

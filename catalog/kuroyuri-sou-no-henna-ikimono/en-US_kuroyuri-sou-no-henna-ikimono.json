@@ -1,5 +1,9 @@
 {
     "title": "Kuroyuri-sou no Henna Ikimono.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203503.jpg",
+        "alt": "kuroyuri-sou-no-henna-ikimono"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

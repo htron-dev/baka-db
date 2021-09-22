@@ -1,5 +1,9 @@
 {
     "title": "Gekijou Danji!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189646.jpg",
+        "alt": "gekijou-danji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

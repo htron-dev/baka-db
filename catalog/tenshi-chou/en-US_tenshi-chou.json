@@ -1,5 +1,9 @@
 {
     "title": "Tenshi-chou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170060.jpg",
+        "alt": "tenshi-chou"
+    },
     "type": "manga",
     "original_name": "天使庁",
     "start_date": "2002-09-21",

@@ -1,5 +1,9 @@
 {
     "title": "Furachi na Otokotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/87991.jpg",
+        "alt": "furachi-na-otokotachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

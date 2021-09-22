@@ -1,5 +1,9 @@
 {
     "title": "Sore wa Tabete wa Ikemasen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18261.jpg",
+        "alt": "sore-wa-tabete-wa-ikemasen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

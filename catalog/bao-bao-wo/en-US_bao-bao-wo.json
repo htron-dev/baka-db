@@ -1,5 +1,9 @@
 {
     "title": "Bao Bao Wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1990/115372.jpg",
+        "alt": "bao-bao-wo"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "抱抱我",

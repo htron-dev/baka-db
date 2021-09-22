@@ -1,12 +1,16 @@
 {
     "title": "NG Knight Ramune &amp; 40 DX: Wakuwaku Jikuu - Honoo no Daisousasen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/21575.jpg",
+        "alt": "ng-knight-ramune-amp-40-dx-wakuwaku-jikuu-honoo-no-daisousasen"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "NG 騎士ラムネ&40DX ワクワク時空 炎の大捜査戦",
     "start_date": "1993-06-23",
     "end_date": "1993-06-23",
     "opening_song": "\"Tobidase! Seishun (飛び出せ!セーシュン)\" by Takeshi Kusao, Kazuki Yao",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Lullaby Agetai (ララバイ ☆ あ・げ・た・い)\" by Megumi Hayashibara, Kotono Mitsuishi",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

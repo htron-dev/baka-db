@@ -1,5 +1,9 @@
 {
     "title": "Mizumaho: Mizugi ni Nattara Mahou wo Daseta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230721.jpg",
+        "alt": "mizumaho-mizugi-ni-nattara-mahou-wo-daseta"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

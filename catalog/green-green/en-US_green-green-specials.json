@@ -1,5 +1,9 @@
 {
     "title": "Green Green Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/5068.jpg",
+        "alt": "green-green-specials"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "グリーングリーン キャラクター DVD",

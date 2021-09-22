@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ghost Trip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17224.jpg",
+        "alt": "tokyo-ghost-trip"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "23",

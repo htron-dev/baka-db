@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Yokogao shika Mirenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234777.jpg",
+        "alt": "kimi-no-yokogao-shika-mirenai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

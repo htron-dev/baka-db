@@ -1,5 +1,9 @@
 {
     "title": "Core Scramble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100485.jpg",
+        "alt": "core-scramble"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "24",

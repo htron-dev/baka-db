@@ -1,5 +1,9 @@
 {
     "title": "Kissing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6153.jpg",
+        "alt": "kissing"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

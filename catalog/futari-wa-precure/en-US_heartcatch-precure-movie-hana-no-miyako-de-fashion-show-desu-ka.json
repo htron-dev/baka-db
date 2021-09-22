@@ -1,11 +1,15 @@
 {
     "title": "Heartcatch Precure! Movie: Hana no Miyako de Fashion Show... Desu ka!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/25737.jpg",
+        "alt": "heartcatch-precure-movie-hana-no-miyako-de-fashion-show-desu-ka"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ハートキャッチプリキュア！花の都でファッションショー・・・ですか！？",
     "start_date": "2010-10-30",
     "opening_song": "\"Alright! Heartcatch Precure! for the Movie (Alright! ハートキャッチプリキュア! for the Movie)\" by Aya Ikeda",
-    "ending_song": "\"Tomorrow Song",
+    "ending_song": "\"Tomorrow Song: Ashita no Uta for the Movie (Tomorrow Song 〜あしたのうた〜for the Movie)\" by Mayu Kudou",
     "rating": "G - All Ages",
     "tags": [
         "fantasy",

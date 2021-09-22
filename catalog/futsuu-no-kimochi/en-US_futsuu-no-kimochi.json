@@ -1,5 +1,9 @@
 {
     "title": "Futsuu no Kimochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206402.jpg",
+        "alt": "futsuu-no-kimochi"
+    },
     "type": "manga",
     "original_name": "ふつうのきもち",
     "start_date": "2018-01-26",

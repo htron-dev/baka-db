@@ -1,12 +1,16 @@
 {
     "title": "D-Frag!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1662/112108.jpg",
+        "alt": "d-frag"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ディーふらぐ！",
     "start_date": "2014-01-07",
     "end_date": "2014-01-07",
     "opening_song": "\"Stalemate! (すているめいと!)\" by IOSYS jk Girls (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Stalemate! (すているめいと!)\" by IOSYS jk Girls (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "game",

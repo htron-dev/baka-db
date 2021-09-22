@@ -1,5 +1,9 @@
 {
     "title": "Fujishiro-san-kei.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/104581.jpg",
+        "alt": "fujishiro-san-kei"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "藤代さん系。",

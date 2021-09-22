@@ -1,5 +1,9 @@
 {
     "title": "Kiseijuu Reversi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225856.jpg",
+        "alt": "kiseijuu-reversi"
+    },
     "type": "manga",
     "original_name": "寄生獣リバーシ",
     "start_date": "2018-03-02",

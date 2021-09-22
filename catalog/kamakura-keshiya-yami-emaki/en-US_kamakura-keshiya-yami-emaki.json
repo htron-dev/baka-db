@@ -1,5 +1,9 @@
 {
     "title": "Kamakura Keshiya Yami Emaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225217.jpg",
+        "alt": "kamakura-keshiya-yami-emaki"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

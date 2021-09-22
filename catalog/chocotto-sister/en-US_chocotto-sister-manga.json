@@ -1,5 +1,9 @@
 {
     "title": "Chocotto Sister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/752.jpg",
+        "alt": "chocotto-sister"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "71",

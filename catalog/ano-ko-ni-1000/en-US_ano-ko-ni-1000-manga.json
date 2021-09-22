@@ -1,5 +1,9 @@
 {
     "title": "Ano Ko ni 1000%",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198396.jpg",
+        "alt": "ano-ko-ni-1000"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "あのこに 1000%",

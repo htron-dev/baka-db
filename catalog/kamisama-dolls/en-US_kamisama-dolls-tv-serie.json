@@ -1,12 +1,16 @@
 {
     "title": "Kamisama Dolls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/50393.jpg",
+        "alt": "kamisama-dolls"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "神様ドォルズ",
     "start_date": "2011-07-06",
     "end_date": "2011-07-06",
     "opening_song": "\"Fukanzen Nenshou (不完全燃焼)\" by Chiaki Ishikawa",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Switch ga Haittara (スイッチが入ったら)\" by Chiaki Ishikawa (eps 1-6, 8-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

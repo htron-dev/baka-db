@@ -1,5 +1,9 @@
 {
     "title": "Nisekare (Kari)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232545.jpg",
+        "alt": "nisekare-kari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

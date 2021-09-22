@@ -1,5 +1,9 @@
 {
     "title": "Kojou no Wedding",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227157.jpg",
+        "alt": "kojou-no-wedding"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "古城のウエディング",

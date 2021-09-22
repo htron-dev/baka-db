@@ -1,5 +1,9 @@
 {
     "title": "Doll Star: Kotodama Tsukai Ihon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19432.jpg",
+        "alt": "doll-star-kotodama-tsukai-ihon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

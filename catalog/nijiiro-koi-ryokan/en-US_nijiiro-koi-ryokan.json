@@ -1,5 +1,9 @@
 {
     "title": "Nijiiro Koi Ryokan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11706.jpg",
+        "alt": "nijiiro-koi-ryokan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

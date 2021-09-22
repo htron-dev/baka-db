@@ -1,5 +1,9 @@
 {
     "title": "Fate/strange Fake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145617.jpg",
+        "alt": "fate-strange-fake"
+    },
     "type": "manga",
     "original_name": "Fate/strange Fake",
     "start_date": "2015-01-10",

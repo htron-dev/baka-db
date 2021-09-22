@@ -1,5 +1,9 @@
 {
     "title": "Little Witch Academia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/42989.jpg",
+        "alt": "little-witch-academia"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "リトルウィッチアカデミア",

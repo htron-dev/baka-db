@@ -1,5 +1,9 @@
 {
     "title": "3-nen Kimengumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159912.jpg",
+        "alt": "3-nen-kimengumi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "78",

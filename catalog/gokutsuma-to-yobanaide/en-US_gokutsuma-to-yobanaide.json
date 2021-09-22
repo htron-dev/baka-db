@@ -1,5 +1,9 @@
 {
     "title": "Gokutsuma to Yobanaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153362.jpg",
+        "alt": "gokutsuma-to-yobanaide"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ゴク妻と呼ばないで",

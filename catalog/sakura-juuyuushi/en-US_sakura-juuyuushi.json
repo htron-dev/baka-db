@@ -1,5 +1,9 @@
 {
     "title": "Sakura Juuyuushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196737.jpg",
+        "alt": "sakura-juuyuushi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

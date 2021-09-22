@@ -1,5 +1,9 @@
 {
     "title": "Sono Musume, Musashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167220.jpg",
+        "alt": "sono-musume-musashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

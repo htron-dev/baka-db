@@ -1,5 +1,9 @@
 {
     "title": "Renai Kagaku Jikkenshitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79747.jpg",
+        "alt": "renai-kagaku-jikkenshitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

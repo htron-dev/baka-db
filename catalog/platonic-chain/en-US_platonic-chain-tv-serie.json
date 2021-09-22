@@ -1,5 +1,9 @@
 {
     "title": "Platonic Chain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/83128.jpg",
+        "alt": "platonic-chain"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "プラトニック・チェーン",

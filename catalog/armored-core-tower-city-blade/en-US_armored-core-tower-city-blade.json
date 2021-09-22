@@ -1,5 +1,9 @@
 {
     "title": "Armored Core: Tower City Blade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145557.jpg",
+        "alt": "armored-core-tower-city-blade"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Mr. Morning",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21407.jpg",
+        "alt": "mr-morning"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

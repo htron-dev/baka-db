@@ -1,5 +1,9 @@
 {
     "title": "Chishiryou no Renjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186020.jpg",
+        "alt": "chishiryou-no-renjou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

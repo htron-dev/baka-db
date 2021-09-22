@@ -1,5 +1,9 @@
 {
     "title": "Soine-ya Honpo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174918.jpg",
+        "alt": "soine-ya-honpo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

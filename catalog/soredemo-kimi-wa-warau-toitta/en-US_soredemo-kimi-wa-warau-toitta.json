@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Kimi wa Warau Toitta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43677.jpg",
+        "alt": "soredemo-kimi-wa-warau-toitta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

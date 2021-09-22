@@ -1,5 +1,9 @@
 {
     "title": "Doubutsu ga Oishasan!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/136857.jpg",
+        "alt": "doubutsu-ga-oishasan"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "動物がお医者さん!?",

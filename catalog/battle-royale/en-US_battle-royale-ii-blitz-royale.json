@@ -1,5 +1,9 @@
 {
     "title": "Battle Royale II: Blitz Royale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200210.jpg",
+        "alt": "battle-royale-ii-blitz-royale"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

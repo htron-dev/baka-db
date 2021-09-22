@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Dennou Tanteidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/110107.jpg",
+        "alt": "tokyo-dennou-tanteidan"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Ryle to Louis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189514.jpg",
+        "alt": "ryle-to-louis"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

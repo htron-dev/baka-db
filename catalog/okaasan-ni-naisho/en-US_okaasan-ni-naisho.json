@@ -1,5 +1,9 @@
 {
     "title": "Okaasan ni Naisho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/76370.jpg",
+        "alt": "okaasan-ni-naisho"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "おかあさんにないしょ",

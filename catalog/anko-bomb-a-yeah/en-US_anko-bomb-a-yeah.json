@@ -1,5 +1,9 @@
 {
     "title": "Anko Bomb-a-Yeah!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36815.jpg",
+        "alt": "anko-bomb-a-yeah"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "杏子ボンバイエ！！",

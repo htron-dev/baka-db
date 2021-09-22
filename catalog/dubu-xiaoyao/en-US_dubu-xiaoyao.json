@@ -1,5 +1,9 @@
 {
     "title": "Dubu Xiaoyao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1429/108132.jpg",
+        "alt": "dubu-xiaoyao"
+    },
     "type": "ona",
     "episodes": "160",
     "original_name": "独步逍遥",

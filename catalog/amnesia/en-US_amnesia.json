@@ -1,12 +1,16 @@
 {
     "title": "Amnesia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/45308.jpg",
+        "alt": "amnesia"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "AMNESIA",
     "start_date": "2013-01-07",
     "end_date": "2013-01-07",
     "opening_song": "\"Zoetrope\" by Nagi Yanagi (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Recall\" by Ray (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Amnesia_(2011_video_game"
+            "link": "https://en.wikipedia.org/wiki/Amnesia_%282011_video_game%29#Anime"
         }
     ]
 }

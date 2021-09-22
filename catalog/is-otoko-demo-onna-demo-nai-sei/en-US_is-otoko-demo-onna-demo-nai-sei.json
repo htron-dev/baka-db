@@ -1,5 +1,9 @@
 {
     "title": "IS: Otoko demo Onna demo Nai Sei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208862.jpg",
+        "alt": "is-otoko-demo-onna-demo-nai-sei"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "82",

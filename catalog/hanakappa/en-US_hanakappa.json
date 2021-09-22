@@ -1,5 +1,9 @@
 {
     "title": "Hanakappa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1105/90503.jpg",
+        "alt": "hanakappa"
+    },
     "type": "tv-serie",
     "original_name": "はなかっぱ",
     "start_date": "2010-03-29",

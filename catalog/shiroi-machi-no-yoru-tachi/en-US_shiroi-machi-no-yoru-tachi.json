@@ -1,5 +1,9 @@
 {
     "title": "Shiroi Machi no Yoru-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195327.jpg",
+        "alt": "shiroi-machi-no-yoru-tachi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

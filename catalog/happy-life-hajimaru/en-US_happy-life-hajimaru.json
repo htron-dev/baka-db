@@ -1,5 +1,9 @@
 {
     "title": "Happy Life Hajimaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175969.jpg",
+        "alt": "happy-life-hajimaru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Yudan-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153037.jpg",
+        "alt": "yudan-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

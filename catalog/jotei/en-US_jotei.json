@@ -1,5 +1,9 @@
 {
     "title": "Jotei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/45589.jpg",
+        "alt": "jotei"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "279",

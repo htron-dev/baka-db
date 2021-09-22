@@ -1,5 +1,9 @@
 {
     "title": "Un na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150977.jpg",
+        "alt": "un-na-kanojo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

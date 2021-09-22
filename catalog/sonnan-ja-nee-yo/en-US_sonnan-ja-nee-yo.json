@@ -1,5 +1,9 @@
 {
     "title": "Sonnan ja nee yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35930.jpg",
+        "alt": "sonnan-ja-nee-yo"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "38",

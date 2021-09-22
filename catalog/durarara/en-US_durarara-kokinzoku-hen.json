@@ -1,5 +1,9 @@
 {
     "title": "Durarara!! Kokinzoku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149952.jpg",
+        "alt": "durarara-kokinzoku-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

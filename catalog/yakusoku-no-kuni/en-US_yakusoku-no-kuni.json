@@ -1,5 +1,9 @@
 {
     "title": "Yakusoku no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191782.jpg",
+        "alt": "yakusoku-no-kuni"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "約束の国",

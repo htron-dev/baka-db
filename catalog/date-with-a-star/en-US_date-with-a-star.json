@@ -1,5 +1,9 @@
 {
     "title": "Date With A Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10402.jpg",
+        "alt": "date-with-a-star"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スタアとデート",

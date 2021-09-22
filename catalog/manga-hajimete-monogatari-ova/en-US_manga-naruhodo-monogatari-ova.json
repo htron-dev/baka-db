@@ -1,5 +1,9 @@
 {
     "title": "Manga Naruhodo Monogatari OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/72314.jpg",
+        "alt": "manga-naruhodo-monogatari-ova"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "まんがなるほど物語",

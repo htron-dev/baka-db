@@ -1,5 +1,9 @@
 {
     "title": "Hajime Algorithm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203930.jpg",
+        "alt": "hajime-algorithm"
+    },
     "type": "manga",
     "original_name": "はじめアルゴリズム",
     "start_date": "2017-09-07",

@@ -1,5 +1,9 @@
 {
     "title": "Gokudou-san Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241797.jpg",
+        "alt": "gokudou-san-series"
+    },
     "type": "light-novel",
     "original_name": "極道さんシリーズ",
     "start_date": "2016-06-30",

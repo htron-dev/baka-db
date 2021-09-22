@@ -1,5 +1,9 @@
 {
     "title": "Trinity Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/24649.jpg",
+        "alt": "trinity-blood"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "トリニティ・ブラッド",

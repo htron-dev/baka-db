@@ -1,5 +1,9 @@
 {
     "title": "Suiryuu Kitouden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19347.jpg",
+        "alt": "suiryuu-kitouden"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

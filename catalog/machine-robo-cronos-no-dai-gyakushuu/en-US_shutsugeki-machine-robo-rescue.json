@@ -1,5 +1,9 @@
 {
     "title": "Shutsugeki! Machine Robo Rescue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/28127.jpg",
+        "alt": "shutsugeki-machine-robo-rescue"
+    },
     "type": "tv-serie",
     "episodes": "53",
     "original_name": "出撃！マシンロボレスキュー",

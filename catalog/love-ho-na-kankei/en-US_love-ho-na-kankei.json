@@ -1,5 +1,9 @@
 {
     "title": "Love Ho na Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6352.jpg",
+        "alt": "love-ho-na-kankei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

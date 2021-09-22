@@ -1,12 +1,16 @@
 {
     "title": "Ai no Wakakusa Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/3210.jpg",
+        "alt": "ai-no-wakakusa-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "愛の若草物語",
     "start_date": "1987-01-11",
     "end_date": "1987-01-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Wakakusa no Shoutaijou (若草の招待状)\" by Eri Nitta (eps 01-14)",
+    "ending_song": "#1: \"Sekiyou to Kaze to Melody (夕陽と風とメロディ)\" by Eri Nitta (eps 01-14)",
     "rating": "G - All Ages",
     "tags": [
         "drama",

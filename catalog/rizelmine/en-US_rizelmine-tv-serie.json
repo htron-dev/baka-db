@@ -1,12 +1,16 @@
 {
     "title": "Rizelmine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/22990.jpg",
+        "alt": "rizelmine"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "りぜるまいん",
     "start_date": "2002-04-03",
     "end_date": "2002-04-03",
     "opening_song": "\"Hajimete Shimasho!\" by Rie Kugimiya",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Honki PAWAA no Dasshu!\" by Rie Kugimiya (eps 01-12, 24)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "sci-fi",

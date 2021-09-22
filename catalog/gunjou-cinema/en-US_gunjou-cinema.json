@@ -1,5 +1,9 @@
 {
     "title": "Gunjou Cinema",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/60271.jpg",
+        "alt": "gunjou-cinema"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

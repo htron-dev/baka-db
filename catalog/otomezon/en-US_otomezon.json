@@ -1,5 +1,9 @@
 {
     "title": "Otomezon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36309.jpg",
+        "alt": "otomezon"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "オトメゾン",

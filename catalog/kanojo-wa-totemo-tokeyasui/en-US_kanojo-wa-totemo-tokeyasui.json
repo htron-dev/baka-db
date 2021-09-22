@@ -1,5 +1,9 @@
 {
     "title": "Kanojo wa Totemo Tokeyasui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178620.jpg",
+        "alt": "kanojo-wa-totemo-tokeyasui"
+    },
     "type": "light-novel",
     "original_name": "彼女はとても溶けやすい",
     "start_date": "2016-06-10",

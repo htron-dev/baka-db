@@ -1,5 +1,9 @@
 {
     "title": "Kazoku ni Narou yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193831.jpg",
+        "alt": "kazoku-ni-narou-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

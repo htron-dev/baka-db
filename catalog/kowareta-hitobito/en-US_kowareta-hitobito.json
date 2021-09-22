@@ -1,5 +1,9 @@
 {
     "title": "Kowareta Hitobito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172030.jpg",
+        "alt": "kowareta-hitobito"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

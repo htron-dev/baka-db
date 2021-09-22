@@ -1,5 +1,9 @@
 {
     "title": "AIKa Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/14628.jpg",
+        "alt": "ai-ka-zero"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "AIKa ZERO",

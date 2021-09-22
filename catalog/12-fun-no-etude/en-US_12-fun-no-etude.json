@@ -1,5 +1,9 @@
 {
     "title": "12-fun no Étude",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164277.jpg",
+        "alt": "12-fun-no-etude"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

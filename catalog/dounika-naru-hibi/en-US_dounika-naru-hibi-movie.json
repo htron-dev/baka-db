@@ -1,5 +1,9 @@
 {
     "title": "Dounika Naru Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1924/106583.jpg",
+        "alt": "dounika-naru-hibi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "どうにかなる日々",

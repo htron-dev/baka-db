@@ -1,5 +1,9 @@
 {
     "title": "Saku-chan to Nozomi-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206137.jpg",
+        "alt": "saku-chan-to-nozomi-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

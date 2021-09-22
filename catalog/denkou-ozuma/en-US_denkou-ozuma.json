@@ -1,5 +1,9 @@
 {
     "title": "Denkou Ozuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61029.jpg",
+        "alt": "denkou-ozuma"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "電光オズマ",

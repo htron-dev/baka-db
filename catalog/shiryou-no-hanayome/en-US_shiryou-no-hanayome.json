@@ -1,5 +1,9 @@
 {
     "title": "Shiryou no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/53131.jpg",
+        "alt": "shiryou-no-hanayome"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Im",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160713.jpg",
+        "alt": "im"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "45",

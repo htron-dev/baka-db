@@ -1,10 +1,14 @@
 {
     "title": "Mobile Suit Gundam AGE: Memory of Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/52775.jpg",
+        "alt": "mobile-suit-gundam-age-memory-of-eden"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "機動戦士ガンダム AGE MEMORY OF EDEN",
     "start_date": "2013-07-26",
-    "ending_song": "#1",
+    "ending_song": "#1: \"My World\" by SPYAIR (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

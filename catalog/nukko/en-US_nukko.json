@@ -1,5 +1,9 @@
 {
     "title": "Nukko.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/58907.jpg",
+        "alt": "nukko"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ぬっこ。",

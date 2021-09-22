@@ -1,12 +1,16 @@
 {
     "title": "Shin Megami Tensei Devil Children: Light &amp; Dark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/23110.jpg",
+        "alt": "shin-megami-tensei-devil-children-light-amp-dark"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "真･女神転生Ｄチルドレン ライト＆ダーク",
     "start_date": "2002-10-05",
     "end_date": "2002-10-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Light & Dark: Toki wo Sukue! (ライト&ダーク~時を救え!)\" by Osamu Masaki (eps 1-28)",
+    "ending_song": "#1: \"Happy Life (ハッピーライフ)\" by Little Voice (eps 1-28)",
     "rating": "PG - Children",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Tsurune: Kazemai Koukou Kyuudoubu Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1652/109899.jpg",
+        "alt": "tsurune-kazemai-koukou-kyuudoubu-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ツルネ ―風舞高校弓道部―",

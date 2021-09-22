@@ -1,5 +1,9 @@
 {
     "title": "Kigyou Senshi Yamazaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29918.jpg",
+        "alt": "kigyou-senshi-yamazaki"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "企業戦士 YAMAZAKI",

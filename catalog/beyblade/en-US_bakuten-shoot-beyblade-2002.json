@@ -1,12 +1,16 @@
 {
     "title": "Bakuten Shoot Beyblade 2002",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1669.jpg",
+        "alt": "bakuten-shoot-beyblade-2002"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "爆転シュート　ベイブレード 2002",
     "start_date": "2002-01-07",
     "end_date": "2002-01-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Let's Beyblade\" by Sick Kid featuring Lukas Rossi",
+    "ending_song": "#1: \"Urban Love\" by Shiori (eps 1-21)",
     "rating": "PG - Children",
     "tags": [
         "action",

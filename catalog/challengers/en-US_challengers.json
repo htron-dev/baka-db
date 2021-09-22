@@ -1,5 +1,9 @@
 {
     "title": "Challengers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5480.jpg",
+        "alt": "challengers"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

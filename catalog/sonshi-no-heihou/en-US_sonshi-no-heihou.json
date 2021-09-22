@@ -1,5 +1,9 @@
 {
     "title": "Sonshi no Heihou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/80529.jpg",
+        "alt": "sonshi-no-heihou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

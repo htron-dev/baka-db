@@ -1,5 +1,9 @@
 {
     "title": "Sora to Umi no Aida",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210924.jpg",
+        "alt": "sora-to-umi-no-aida"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Shin Minashigo Hutch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/20347.jpg",
+        "alt": "shin-minashigo-hutch"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "新みなしごハッチ",

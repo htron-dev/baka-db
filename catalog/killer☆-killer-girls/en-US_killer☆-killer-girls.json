@@ -1,5 +1,9 @@
 {
     "title": "Killer☆Killer Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225498.jpg",
+        "alt": "killer☆-killer-girls"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

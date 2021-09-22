@@ -1,5 +1,9 @@
 {
     "title": "Hyakunen Kesshou Mokuroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/142171.jpg",
+        "alt": "hyakunen-kesshou-mokuroku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

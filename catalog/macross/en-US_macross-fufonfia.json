@@ -1,5 +1,9 @@
 {
     "title": "Macross Fufonfia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/9501.jpg",
+        "alt": "macross-fufonfia"
+    },
     "type": "ona",
     "episodes": "20",
     "original_name": "マクロス fufonfia",

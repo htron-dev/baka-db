@@ -1,5 +1,9 @@
 {
     "title": "Qi Jiguang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1964/115458.jpg",
+        "alt": "qi-jiguang"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "戚继光",

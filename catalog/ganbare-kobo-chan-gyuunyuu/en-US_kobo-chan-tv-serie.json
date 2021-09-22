@@ -1,12 +1,16 @@
 {
     "title": "Kobo-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1017/99304.jpg",
+        "alt": "kobo-chan"
+    },
     "type": "tv-serie",
     "episodes": "63",
     "original_name": "コボちゃん",
     "start_date": "1992-10-19",
     "end_date": "1992-10-19",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Nippon Cha! Cha! Cha! (ニッポン チャ！チャ！チャ！)\" by Konpeitou (eps 1-10)",
+    "ending_song": "#1: \"Yume no Okazu (夢のおかず)\" by Cherish (チェリッシュ) (eps 1-20)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

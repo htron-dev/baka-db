@@ -1,5 +1,9 @@
 {
     "title": "Urthotics",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132361.jpg",
+        "alt": "urthotics"
+    },
     "type": "manga",
     "original_name": "Urthotics ウルソシス",
     "start_date": "2013-10-09",

@@ -1,5 +1,9 @@
 {
     "title": "Mahoui Neko to Ibarahime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187543.jpg",
+        "alt": "mahoui-neko-to-ibarahime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Lily C.A.T.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/5157.jpg",
+        "alt": "lily-c-a-t"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "LILY-C.A.T.",

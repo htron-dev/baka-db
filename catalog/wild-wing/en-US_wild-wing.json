@@ -1,5 +1,9 @@
 {
     "title": "Wild Wing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/111683.jpg",
+        "alt": "wild-wing"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

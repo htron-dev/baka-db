@@ -1,5 +1,9 @@
 {
     "title": "Hayan Ma-eum Baeggu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1662/111205.jpg",
+        "alt": "hayan-ma-eum-baeggu"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "하얀 마음 백구",

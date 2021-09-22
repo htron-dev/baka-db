@@ -1,5 +1,9 @@
 {
     "title": "Ultra Red",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202681.jpg",
+        "alt": "ultra-red"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

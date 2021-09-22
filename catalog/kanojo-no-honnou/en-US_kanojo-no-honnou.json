@@ -1,5 +1,9 @@
 {
     "title": "Kanojo no Honnou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14007.jpg",
+        "alt": "kanojo-no-honnou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

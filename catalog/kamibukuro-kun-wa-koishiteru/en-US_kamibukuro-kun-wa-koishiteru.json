@@ -1,5 +1,9 @@
 {
     "title": "Kamibukuro-kun wa Koishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236284.jpg",
+        "alt": "kamibukuro-kun-wa-koishiteru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

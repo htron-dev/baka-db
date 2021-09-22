@@ -1,5 +1,9 @@
 {
     "title": "Otaku no Seiza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/69359.jpg",
+        "alt": "otaku-no-seiza"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "おたくの星座",

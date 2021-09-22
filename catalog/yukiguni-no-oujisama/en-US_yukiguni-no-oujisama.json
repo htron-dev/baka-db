@@ -1,5 +1,9 @@
 {
     "title": "Yukiguni no Oujisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/60323.jpg",
+        "alt": "yukiguni-no-oujisama"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "雪国の王子さま",

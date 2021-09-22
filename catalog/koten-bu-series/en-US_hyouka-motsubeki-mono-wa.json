@@ -1,5 +1,9 @@
 {
     "title": "Hyouka: Motsubeki Mono wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/50363.jpg",
+        "alt": "hyouka-motsubeki-mono-wa"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "氷菓 持つべきものは",

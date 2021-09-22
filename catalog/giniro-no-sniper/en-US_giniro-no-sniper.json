@@ -1,5 +1,9 @@
 {
     "title": "Giniro no Sniper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/218107.jpg",
+        "alt": "giniro-no-sniper"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

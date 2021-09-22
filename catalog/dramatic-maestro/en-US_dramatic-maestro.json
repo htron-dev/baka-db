@@ -1,5 +1,9 @@
 {
     "title": "Dramatic Maestro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/26304.jpg",
+        "alt": "dramatic-maestro"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

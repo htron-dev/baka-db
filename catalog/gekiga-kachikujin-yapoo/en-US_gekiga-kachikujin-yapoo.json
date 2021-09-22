@@ -1,5 +1,9 @@
 {
     "title": "Gekiga Kachikujin Yapoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190568.jpg",
+        "alt": "gekiga-kachikujin-yapoo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

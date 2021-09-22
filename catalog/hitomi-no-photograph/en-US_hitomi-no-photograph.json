@@ -1,5 +1,9 @@
 {
     "title": "Hitomi no Photograph",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36109.jpg",
+        "alt": "hitomi-no-photograph"
+    },
     "type": "manga",
     "original_name": "瞳のフォトグラフ",
     "start_date": "2008-09-03",

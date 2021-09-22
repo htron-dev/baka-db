@@ -1,5 +1,9 @@
 {
     "title": "Tansa Quest!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/82036.jpg",
+        "alt": "tansa-quest"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "たんさくえすと！",

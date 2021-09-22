@@ -1,5 +1,9 @@
 {
     "title": "Dark Edge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1439.jpg",
+        "alt": "dark-edge"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "다크엣지",

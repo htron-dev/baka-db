@@ -1,12 +1,16 @@
 {
     "title": "Hunter x Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/19473.jpg",
+        "alt": "hunter-x-hunter"
+    },
     "type": "tv-serie",
     "episodes": "62",
     "original_name": "HUNTER×HUNTER（ハンター × ハンター）",
     "start_date": "1999-10-16",
     "end_date": "1999-10-16",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Ohayou (おはよう)\" by Keno (eps 1-48)",
+    "ending_song": "#1: \"Kaze no Uta; Song of the Wind\" by Minako Honda (eps 1-31)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Hunter_×_Hunter_(1999_TV_series"
+            "link": "http://en.wikipedia.org/wiki/Hunter_×_Hunter_%281999_TV_series%29"
         }
     ]
 }

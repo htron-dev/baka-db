@@ -1,5 +1,9 @@
 {
     "title": "Kiryuu Senki Nargas",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146609.jpg",
+        "alt": "kiryuu-senki-nargas"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "42",

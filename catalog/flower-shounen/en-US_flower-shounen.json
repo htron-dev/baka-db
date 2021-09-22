@@ -1,5 +1,9 @@
 {
     "title": "Flower Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151653.jpg",
+        "alt": "flower-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "フラワー少年",

@@ -1,5 +1,9 @@
 {
     "title": "Kani ni Sasowarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226804.jpg",
+        "alt": "kani-ni-sasowarete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

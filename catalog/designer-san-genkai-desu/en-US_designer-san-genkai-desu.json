@@ -1,5 +1,9 @@
 {
     "title": "Designer-san, Genkai desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203211.jpg",
+        "alt": "designer-san-genkai-desu"
+    },
     "type": "manga",
     "original_name": "デザイナーさん、限界です。",
     "start_date": "2017-09-19",

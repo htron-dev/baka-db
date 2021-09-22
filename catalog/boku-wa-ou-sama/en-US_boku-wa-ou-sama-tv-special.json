@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Ou-sama (TV) Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/63743.jpg",
+        "alt": "boku-wa-ou-sama-tv-special"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ぼくは王さま (2013)",

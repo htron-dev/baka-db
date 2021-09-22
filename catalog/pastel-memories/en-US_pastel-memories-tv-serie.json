@@ -1,5 +1,9 @@
 {
     "title": "Pastel Memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1563/95294.jpg",
+        "alt": "pastel-memories"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ぱすてるメモリーズ",

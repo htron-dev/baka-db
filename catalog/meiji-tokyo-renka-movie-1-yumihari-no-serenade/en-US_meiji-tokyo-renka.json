@@ -1,12 +1,16 @@
 {
     "title": "Meiji Tokyo Renka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1205/96175.jpg",
+        "alt": "meiji-tokyo-renka"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "明治東亰恋伽",
     "start_date": "2019-01-09",
     "end_date": "2019-01-09",
     "opening_song": "\"Tsuki Akari no Rhapsodia (月灯りの狂詩曲)\" by KENN",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hoshikuzu no Yomibito (星屑の詠み人)\" by Ougai Mori (Daisuke Namikawa) & Shouzou Hishida (KENN) (eps 1, 4, 9, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

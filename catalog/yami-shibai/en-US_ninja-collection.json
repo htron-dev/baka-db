@@ -1,5 +1,9 @@
 {
     "title": "Ninja Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1997/108104.jpg",
+        "alt": "ninja-collection"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "忍者コレクション",

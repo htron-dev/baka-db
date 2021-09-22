@@ -1,5 +1,9 @@
 {
     "title": "Kira Kira Kira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/47287.jpg",
+        "alt": "kira-kira-kira"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "きらきらきら",

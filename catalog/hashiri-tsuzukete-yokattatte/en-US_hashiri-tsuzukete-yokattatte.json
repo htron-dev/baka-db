@@ -1,5 +1,9 @@
 {
     "title": "Hashiri Tsuzukete Yokattatte.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1533/94555.jpg",
+        "alt": "hashiri-tsuzukete-yokattatte"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "走り続けてよかったって。",

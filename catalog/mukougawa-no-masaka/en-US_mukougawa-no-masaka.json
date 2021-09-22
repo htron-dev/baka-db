@@ -1,5 +1,9 @@
 {
     "title": "Mukougawa no Masaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155554.jpg",
+        "alt": "mukougawa-no-masaka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

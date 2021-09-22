@@ -1,5 +1,9 @@
 {
     "title": "Genocyber",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13389.jpg",
+        "alt": "genocyber"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

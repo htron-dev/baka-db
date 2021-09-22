@@ -1,5 +1,9 @@
 {
     "title": "Jibaku-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186970.jpg",
+        "alt": "jibaku-kun"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

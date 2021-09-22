@@ -1,5 +1,9 @@
 {
     "title": "Octave",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192724.jpg",
+        "alt": "octave"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "36",

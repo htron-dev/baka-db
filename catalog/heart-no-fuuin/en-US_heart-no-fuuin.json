@@ -1,5 +1,9 @@
 {
     "title": "Heart no Fuuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18950.jpg",
+        "alt": "heart-no-fuuin"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

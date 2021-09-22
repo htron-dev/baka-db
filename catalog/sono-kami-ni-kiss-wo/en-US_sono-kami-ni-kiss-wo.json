@@ -1,5 +1,9 @@
 {
     "title": "Sono Kami ni Kiss wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10440.jpg",
+        "alt": "sono-kami-ni-kiss-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

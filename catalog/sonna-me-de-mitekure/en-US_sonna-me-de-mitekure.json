@@ -1,5 +1,9 @@
 {
     "title": "Sonna Me de Mitekure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158268.jpg",
+        "alt": "sonna-me-de-mitekure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Fenrir",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234877.jpg",
+        "alt": "fenrir"
+    },
     "type": "manga",
     "original_name": "フェンリル",
     "start_date": "2018-08-25",

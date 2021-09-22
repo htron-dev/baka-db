@@ -1,5 +1,9 @@
 {
     "title": "Kaze ga Gotoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24033.jpg",
+        "alt": "kaze-ga-gotoku"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "風が如く",

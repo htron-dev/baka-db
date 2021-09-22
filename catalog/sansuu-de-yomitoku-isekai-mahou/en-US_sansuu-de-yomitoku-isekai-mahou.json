@@ -1,5 +1,9 @@
 {
     "title": "Sansuu de Yomitoku Isekai Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203958.jpg",
+        "alt": "sansuu-de-yomitoku-isekai-mahou"
+    },
     "type": "light-novel",
     "original_name": "算数で読み解く異世界魔法",
     "start_date": "2017-02-10",

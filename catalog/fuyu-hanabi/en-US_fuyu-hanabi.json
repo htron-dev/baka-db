@@ -1,5 +1,9 @@
 {
     "title": "Fuyu Hanabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73517.jpg",
+        "alt": "fuyu-hanabi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

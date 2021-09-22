@@ -1,5 +1,9 @@
 {
     "title": "Kimi Nakute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41713.jpg",
+        "alt": "kimi-nakute"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "君なくて",

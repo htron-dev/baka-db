@@ -1,5 +1,9 @@
 {
     "title": "Amakute Oishii Seikatsu Shidou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153372.jpg",
+        "alt": "amakute-oishii-seikatsu-shidou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "甘くておいしい生活指導",

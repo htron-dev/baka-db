@@ -1,12 +1,16 @@
 {
     "title": "Danball Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1937/94703.jpg",
+        "alt": "danball-senki"
+    },
     "type": "tv-serie",
     "episodes": "44",
     "original_name": "ダンボール戦機",
     "start_date": "2011-03-02",
     "end_date": "2011-03-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"1 Dream\" by Little Blue boX (eps 1-24)",
+    "ending_song": "#1: \"Boku no Chokinbako (僕の貯金箱)\" by Hiroki Maekawa (前川紘毅) (eps 1-24)",
     "rating": "G - All Ages",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Mirai-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119039.jpg",
+        "alt": "itoshi-no-mirai-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

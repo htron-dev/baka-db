@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Tattoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41312.jpg",
+        "alt": "tenshi-no-tattoo"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "天使の TATTOO",

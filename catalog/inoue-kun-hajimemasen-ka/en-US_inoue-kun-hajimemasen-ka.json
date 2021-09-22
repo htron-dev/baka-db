@@ -1,5 +1,9 @@
 {
     "title": "Inoue-kun Hajimemasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237737.jpg",
+        "alt": "inoue-kun-hajimemasen-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

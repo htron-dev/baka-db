@@ -1,5 +1,9 @@
 {
     "title": "Kizuchi no Sasoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240347.jpg",
+        "alt": "kizuchi-no-sasoi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

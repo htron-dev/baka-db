@@ -1,5 +1,9 @@
 {
     "title": "JDC Tribute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44285.jpg",
+        "alt": "jdc-tribute"
+    },
     "type": "light-novel",
     "volumes": "10",
     "original_name": "JDC トリビュート",

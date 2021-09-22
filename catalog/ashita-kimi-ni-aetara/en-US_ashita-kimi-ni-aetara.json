@@ -1,5 +1,9 @@
 {
     "title": "Ashita, Kimi ni Aetara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197357.jpg",
+        "alt": "ashita-kimi-ni-aetara"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

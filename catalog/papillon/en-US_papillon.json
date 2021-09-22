@@ -1,5 +1,9 @@
 {
     "title": "Papillon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/20318.jpg",
+        "alt": "papillon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

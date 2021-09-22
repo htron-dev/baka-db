@@ -1,5 +1,9 @@
 {
     "title": "Chocolate Girl Extra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174827.jpg",
+        "alt": "chocolate-girl-extra"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

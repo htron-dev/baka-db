@@ -1,5 +1,9 @@
 {
     "title": "Kitanai Kimi ga Ichiban Kawaii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228905.jpg",
+        "alt": "kitanai-kimi-ga-ichiban-kawaii"
+    },
     "type": "manga",
     "original_name": "きたない君がいちばんかわいい",
     "start_date": "2019-06-18",

@@ -1,5 +1,9 @@
 {
     "title": "G-on Riders",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31361.jpg",
+        "alt": "g-on-riders"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "G-on らいだーす",

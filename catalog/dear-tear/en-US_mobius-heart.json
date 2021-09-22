@@ -1,5 +1,9 @@
 {
     "title": "Mobius Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246606.jpg",
+        "alt": "mobius-heart"
+    },
     "type": "manga",
     "original_name": "メビウスハート",
     "start_date": "2018-08-31",

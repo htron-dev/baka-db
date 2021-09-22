@@ -1,5 +1,9 @@
 {
     "title": "Kakegurui××",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1496/96519.jpg",
+        "alt": "kakegurui"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "賭ケグルイ ××",

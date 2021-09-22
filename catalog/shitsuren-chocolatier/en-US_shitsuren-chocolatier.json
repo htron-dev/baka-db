@@ -1,5 +1,9 @@
 {
     "title": "Shitsuren Chocolatier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158516.jpg",
+        "alt": "shitsuren-chocolatier"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "43",

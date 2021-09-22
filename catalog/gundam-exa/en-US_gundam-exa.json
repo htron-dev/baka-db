@@ -1,5 +1,9 @@
 {
     "title": "Gundam EXA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/94379.jpg",
+        "alt": "gundam-exa"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "34",

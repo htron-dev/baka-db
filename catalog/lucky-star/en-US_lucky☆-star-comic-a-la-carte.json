@@ -1,5 +1,9 @@
 {
     "title": "Lucky☆Star: Comic à la carte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79465.jpg",
+        "alt": "lucky☆-star-comic-a-la-carte"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "らき ☆ すたコミックアラカルト",

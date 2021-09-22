@@ -1,5 +1,9 @@
 {
     "title": "Koukyuu no Arika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40363.jpg",
+        "alt": "koukyuu-no-arika"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

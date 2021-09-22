@@ -1,5 +1,9 @@
 {
     "title": "Ane-san Countdown!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73289.jpg",
+        "alt": "ane-san-countdown"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

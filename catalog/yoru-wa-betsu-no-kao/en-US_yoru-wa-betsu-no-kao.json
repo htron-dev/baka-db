@@ -1,5 +1,9 @@
 {
     "title": "Yoru wa Betsu no Kao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41134.jpg",
+        "alt": "yoru-wa-betsu-no-kao"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

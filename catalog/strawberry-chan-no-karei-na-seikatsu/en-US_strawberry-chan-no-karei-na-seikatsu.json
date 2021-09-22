@@ -1,5 +1,9 @@
 {
     "title": "Strawberry-chan no Karei na Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61153.jpg",
+        "alt": "strawberry-chan-no-karei-na-seikatsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "51",

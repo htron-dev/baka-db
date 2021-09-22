@@ -1,5 +1,9 @@
 {
     "title": "Tengoku wo Yumemiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164087.jpg",
+        "alt": "tengoku-wo-yumemiteru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "天国を夢みてる",

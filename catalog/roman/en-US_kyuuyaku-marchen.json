@@ -1,5 +1,9 @@
 {
     "title": "Kyuuyaku Märchen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180310.jpg",
+        "alt": "kyuuyaku-marchen"
+    },
     "type": "manga",
     "original_name": "旧約 Märchen",
     "start_date": "2015-07-25",

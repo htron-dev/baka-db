@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Lollipop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156016.jpg",
+        "alt": "hatsukoi-lollipop"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

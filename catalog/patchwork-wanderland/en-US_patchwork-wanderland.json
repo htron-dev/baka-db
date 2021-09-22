@@ -1,5 +1,9 @@
 {
     "title": "Patchwork! Wanderland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163958.jpg",
+        "alt": "patchwork-wanderland"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Mist Gears Blast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222143.jpg",
+        "alt": "mist-gears-blast"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

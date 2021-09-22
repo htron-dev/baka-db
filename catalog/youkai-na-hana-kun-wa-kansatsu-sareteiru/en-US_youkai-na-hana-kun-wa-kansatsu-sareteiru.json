@@ -1,5 +1,9 @@
 {
     "title": "Youkai na Hana-kun wa Kansatsu sareteiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231685.jpg",
+        "alt": "youkai-na-hana-kun-wa-kansatsu-sareteiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

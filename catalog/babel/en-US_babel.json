@@ -1,5 +1,9 @@
 {
     "title": "Babel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226975.jpg",
+        "alt": "babel"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "37",

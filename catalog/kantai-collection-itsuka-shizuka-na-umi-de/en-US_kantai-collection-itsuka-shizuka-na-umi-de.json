@@ -1,5 +1,9 @@
 {
     "title": "Kantai Collection: Itsuka Shizuka na Umi de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146697.jpg",
+        "alt": "kantai-collection-itsuka-shizuka-na-umi-de"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

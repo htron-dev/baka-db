@@ -1,5 +1,9 @@
 {
     "title": "Juukinzoku Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188467.jpg",
+        "alt": "juukinzoku-kanojo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

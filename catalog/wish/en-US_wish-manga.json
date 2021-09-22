@@ -1,5 +1,9 @@
 {
     "title": "Wish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/17942.jpg",
+        "alt": "wish"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Kaitou Shounen Jokers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200151.jpg",
+        "alt": "kaitou-shounen-jokers"
+    },
     "type": "manga",
     "original_name": "怪盗少年ジョーカーズ",
     "start_date": "2017-09-15",

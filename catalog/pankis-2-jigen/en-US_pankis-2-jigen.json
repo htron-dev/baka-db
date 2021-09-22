@@ -1,5 +1,9 @@
 {
     "title": "Pankis! 2-jigen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/74251.jpg",
+        "alt": "pankis-2-jigen"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ぱんきす! 2 次元",

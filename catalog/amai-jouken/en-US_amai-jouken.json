@@ -1,5 +1,9 @@
 {
     "title": "Amai Jouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28438.jpg",
+        "alt": "amai-jouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

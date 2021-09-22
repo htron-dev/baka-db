@@ -1,5 +1,9 @@
 {
     "title": "Buja's Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7510.jpg",
+        "alt": "bujas-diary"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "13",

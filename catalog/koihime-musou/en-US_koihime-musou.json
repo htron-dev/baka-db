@@ -1,12 +1,16 @@
 {
     "title": "Koihime†Musou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/20740.jpg",
+        "alt": "koihime-musou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "恋姫†無双",
     "start_date": "2008-07-09",
     "end_date": "2008-07-09",
     "opening_song": "\"flower of bravery\" by fripSide",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yappari Sekai wa Atashi☆Legend!! (やっぱり世界はあたし ☆ れじぇんど!!)\" by fripSide NAO project! (eps 1-11)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

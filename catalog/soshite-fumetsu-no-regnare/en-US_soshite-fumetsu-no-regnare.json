@@ -1,5 +1,9 @@
 {
     "title": "Soshite Fumetsu no Regnare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161041.jpg",
+        "alt": "soshite-fumetsu-no-regnare"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Katsuragi-san wa Tori Tsukare Yasui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248083.jpg",
+        "alt": "katsuragi-san-wa-tori-tsukare-yasui"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

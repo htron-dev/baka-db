@@ -1,5 +1,9 @@
 {
     "title": "Ne no Kuni no Kumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165681.jpg",
+        "alt": "ne-no-kuni-no-kumo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "K.O.K: King of Kuzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193972.jpg",
+        "alt": "k-o-k-king-of-kuzu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

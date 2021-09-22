@@ -1,5 +1,9 @@
 {
     "title": "Dear My Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23551.jpg",
+        "alt": "dear-my-girls"
+    },
     "type": "manhwa",
     "volumes": "9",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "B.Q. The Fly Book",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37275.jpg",
+        "alt": "b-q-the-fly-book"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Shanghai Tokkyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83424.jpg",
+        "alt": "shanghai-tokkyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Nagisa Fortissimo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163221.jpg",
+        "alt": "nagisa-fortissimo"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "35",

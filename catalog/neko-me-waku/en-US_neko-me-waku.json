@@ -1,5 +1,9 @@
 {
     "title": "Neko Me~waku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130849.jpg",
+        "alt": "neko-me-waku"
+    },
     "type": "manga",
     "original_name": "ねこめ～わく",
     "tags": [

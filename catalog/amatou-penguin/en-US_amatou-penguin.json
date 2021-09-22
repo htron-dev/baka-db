@@ -1,5 +1,9 @@
 {
     "title": "Amatou Penguin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155718.jpg",
+        "alt": "amatou-penguin"
+    },
     "type": "manga",
     "original_name": "甘党ペンギン",
     "start_date": "2010-08-28",

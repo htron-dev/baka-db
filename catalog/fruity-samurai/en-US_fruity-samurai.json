@@ -1,5 +1,9 @@
 {
     "title": "Fruity Samurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/72213.jpg",
+        "alt": "fruity-samurai"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "フルーティー侍",

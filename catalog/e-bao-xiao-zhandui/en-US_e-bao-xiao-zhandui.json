@@ -1,5 +1,9 @@
 {
     "title": "E Bao Xiao Zhandui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1974/115489.jpg",
+        "alt": "e-bao-xiao-zhandui"
+    },
     "type": "tv-serie",
     "episodes": "96",
     "original_name": "鹅堡小战队",

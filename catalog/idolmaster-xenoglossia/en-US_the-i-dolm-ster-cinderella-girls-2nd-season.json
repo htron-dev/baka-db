@@ -1,12 +1,16 @@
 {
     "title": "The iDOLM@STER Cinderella Girls 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75120.jpg",
+        "alt": "the-i-dolm-ster-cinderella-girls-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アイドルマスター シンデレラガールズ 2nd シーズン",
     "start_date": "2015-07-18",
     "end_date": "2015-07-18",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Star!!\" by CINDERELLA PROJECT (ep 1)",
+    "ending_song": "#1: \"Yume-iro Harmony (夢色ハーモニー)\" by CINDERELLA PROJECT (eps 1-3, 7-9)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

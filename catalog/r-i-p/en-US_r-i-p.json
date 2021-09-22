@@ -1,5 +1,9 @@
 {
     "title": "R.I.P.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/114751.jpg",
+        "alt": "r-i-p"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

@@ -1,12 +1,16 @@
 {
     "title": "Majutsushi Orphen: Revenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/61841.jpg",
+        "alt": "majutsushi-orphen-revenge"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "魔術士オーフェン Revenge",
     "start_date": "1999-10-02",
     "end_date": "1999-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Sondemotte Kiss\" by 7House (eps 1-11)",
+    "ending_song": "#1: \"Love, Yes I Do\" by Chinatsu Miyoshi (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

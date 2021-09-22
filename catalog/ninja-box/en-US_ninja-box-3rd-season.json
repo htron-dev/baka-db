@@ -1,5 +1,9 @@
 {
     "title": "Ninja Box 3rd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1021/108530.jpg",
+        "alt": "ninja-box-3rd-season"
+    },
     "type": "ona",
     "original_name": "ニンジャボックス シーズン３",
     "start_date": "2020-03-26",

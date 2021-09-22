@@ -1,5 +1,9 @@
 {
     "title": "Showa Furo Fushi Densetsu Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/75883.jpg",
+        "alt": "showa-furo-fushi-densetsu-vampire"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "41",

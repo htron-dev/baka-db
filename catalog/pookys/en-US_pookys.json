@@ -1,5 +1,9 @@
 {
     "title": "Pooky's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1790/114720.jpg",
+        "alt": "pookys"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Pooky's",

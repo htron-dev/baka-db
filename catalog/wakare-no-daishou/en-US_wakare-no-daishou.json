@@ -1,5 +1,9 @@
 {
     "title": "Wakare no Daishou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247023.jpg",
+        "alt": "wakare-no-daishou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "別れの代償",

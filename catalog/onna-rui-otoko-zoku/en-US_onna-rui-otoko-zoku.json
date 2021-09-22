@@ -1,5 +1,9 @@
 {
     "title": "Onna Rui Otoko Zoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15320.jpg",
+        "alt": "onna-rui-otoko-zoku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "女類男族",

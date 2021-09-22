@@ -1,5 +1,9 @@
 {
     "title": "Kare Cafe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208360.jpg",
+        "alt": "kare-cafe"
+    },
     "type": "manga",
     "original_name": "カレカフェ",
     "start_date": "2018-02-24",

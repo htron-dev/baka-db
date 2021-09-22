@@ -1,5 +1,9 @@
 {
     "title": "Otogi Juushi Akazukin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180974.jpg",
+        "alt": "otogi-juushi-akazukin"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

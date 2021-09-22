@@ -1,5 +1,9 @@
 {
     "title": "Ai Naki Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42551.jpg",
+        "alt": "ai-naki-kekkon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

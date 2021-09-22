@@ -1,5 +1,9 @@
 {
     "title": "Tales of Symphonia: Shokuzai no Kratos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159967.jpg",
+        "alt": "tales-of-symphonia-shokuzai-no-kratos"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "テイルズ オブ シンフォニア 贖罪のクラトス",

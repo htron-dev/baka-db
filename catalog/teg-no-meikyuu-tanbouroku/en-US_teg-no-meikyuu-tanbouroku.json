@@ -1,5 +1,9 @@
 {
     "title": "Teg no Meikyuu Tanbouroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177796.jpg",
+        "alt": "teg-no-meikyuu-tanbouroku"
+    },
     "type": "light-novel",
     "original_name": "テグスの迷宮探訪録",
     "start_date": "2015-06-29",

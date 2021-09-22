@@ -1,5 +1,9 @@
 {
     "title": "Tsuki to Honoo no Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161417.jpg",
+        "alt": "tsuki-to-honoo-no-senki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

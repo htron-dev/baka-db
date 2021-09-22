@@ -1,5 +1,9 @@
 {
     "title": "Made in Abyss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161645.jpg",
+        "alt": "made-in-abyss"
+    },
     "type": "manga",
     "original_name": "メイドインアビス",
     "start_date": "2012-10-20",

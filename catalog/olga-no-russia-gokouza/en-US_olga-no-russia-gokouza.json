@@ -1,5 +1,9 @@
 {
     "title": "Olga no Russia Gokouza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1416/105573.jpg",
+        "alt": "olga-no-russia-gokouza"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "オリガのロシア語講座",

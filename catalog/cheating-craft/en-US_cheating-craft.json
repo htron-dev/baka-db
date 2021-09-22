@@ -1,5 +1,9 @@
 {
     "title": "Cheating Craft",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/81891.jpg",
+        "alt": "cheating-craft"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "チーティングクラフト",

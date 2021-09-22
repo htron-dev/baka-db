@@ -1,5 +1,9 @@
 {
     "title": "Datte Asobi desho?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149211.jpg",
+        "alt": "datte-asobi-desho"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

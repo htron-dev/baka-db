@@ -1,5 +1,9 @@
 {
     "title": "Mono suru Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219074.jpg",
+        "alt": "mono-suru-hito"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

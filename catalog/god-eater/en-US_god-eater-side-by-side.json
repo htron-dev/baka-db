@@ -1,5 +1,9 @@
 {
     "title": "God Eater: Side by Side",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227573.jpg",
+        "alt": "god-eater-side-by-side"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

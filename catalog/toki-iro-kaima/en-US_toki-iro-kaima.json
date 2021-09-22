@@ -1,11 +1,15 @@
 {
     "title": "Toki-iro Kaima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/52345.jpg",
+        "alt": "toki-iro-kaima"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "朱鷺色怪魔",
     "start_date": "1989-04-20",
     "end_date": "1989-04-20",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Crystal Live (クリスタルライブ)\" by Wayu Suzumiya (ep 1)",
     "rating": "None",
     "tags": [
         "horror",

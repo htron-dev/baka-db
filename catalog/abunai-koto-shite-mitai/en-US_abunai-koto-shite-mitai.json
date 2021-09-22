@@ -1,5 +1,9 @@
 {
     "title": "Abunai Koto Shite Mitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20974.jpg",
+        "alt": "abunai-koto-shite-mitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

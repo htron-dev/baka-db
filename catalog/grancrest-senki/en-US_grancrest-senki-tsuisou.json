@@ -1,5 +1,9 @@
 {
     "title": "Grancrest Senki Tsuisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1795/91146.jpg",
+        "alt": "grancrest-senki-tsuisou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "グランクレスト戦記 追想",

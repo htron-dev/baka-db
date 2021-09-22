@@ -1,5 +1,9 @@
 {
     "title": "Romeo x Romeo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30328.jpg",
+        "alt": "romeo-x-romeo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

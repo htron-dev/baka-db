@@ -1,5 +1,9 @@
 {
     "title": "Hot Shot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152391.jpg",
+        "alt": "hot-shot"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "HOT SHOT ホットショット",

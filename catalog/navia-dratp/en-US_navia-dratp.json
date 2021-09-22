@@ -1,5 +1,9 @@
 {
     "title": "Navia Dratp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/11572.jpg",
+        "alt": "navia-dratp"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "NAVIA DRATP",

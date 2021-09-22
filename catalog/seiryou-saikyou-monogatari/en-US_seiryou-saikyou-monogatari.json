@@ -1,5 +1,9 @@
 {
     "title": "Seiryou Saikyou Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5909.jpg",
+        "alt": "seiryou-saikyou-monogatari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "14",

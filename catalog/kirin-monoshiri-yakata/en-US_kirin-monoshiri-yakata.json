@@ -1,5 +1,9 @@
 {
     "title": "Kirin Monoshiri Yakata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/60327.jpg",
+        "alt": "kirin-monoshiri-yakata"
+    },
     "type": "tv-serie",
     "episodes": "1565",
     "original_name": "キリンものしり館",

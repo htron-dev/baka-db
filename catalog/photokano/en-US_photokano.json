@@ -1,12 +1,16 @@
 {
     "title": "Photokano",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/49199.jpg",
+        "alt": "photokano"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "フォトカノ",
     "start_date": "2013-04-05",
     "end_date": "2013-04-05",
     "opening_song": "\"Koisuru Lens (恋するレンズ)\" by Kaori Hayato",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Smile F (スマイル F)\" by Utakano♪ (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "ecchi",

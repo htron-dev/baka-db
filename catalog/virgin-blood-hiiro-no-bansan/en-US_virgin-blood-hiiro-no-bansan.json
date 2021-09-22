@@ -1,5 +1,9 @@
 {
     "title": "Virgin Blood: Hiiro no Bansan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136811.jpg",
+        "alt": "virgin-blood-hiiro-no-bansan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

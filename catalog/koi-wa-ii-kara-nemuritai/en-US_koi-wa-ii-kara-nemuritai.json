@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Ii kara Nemuritai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/244275.jpg",
+        "alt": "koi-wa-ii-kara-nemuritai"
+    },
     "type": "manga",
     "original_name": "恋はいいから眠りたい!",
     "start_date": "2019-06-27",

@@ -1,5 +1,9 @@
 {
     "title": "Déra Cinéma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168700.jpg",
+        "alt": "dera-cinema"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "82",

@@ -1,5 +1,9 @@
 {
     "title": "Badass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230882.jpg",
+        "alt": "badass"
+    },
     "type": "manga",
     "original_name": "Badass",
     "start_date": "2018-02-28",

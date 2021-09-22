@@ -1,5 +1,9 @@
 {
     "title": "Animal♂Jungle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82030.jpg",
+        "alt": "animal♂-jungle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

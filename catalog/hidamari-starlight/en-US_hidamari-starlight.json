@@ -1,5 +1,9 @@
 {
     "title": "Hidamari Starlight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228626.jpg",
+        "alt": "hidamari-starlight"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Hajimari wa Sayonara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169570.jpg",
+        "alt": "hajimari-wa-sayonara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

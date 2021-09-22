@@ -1,5 +1,9 @@
 {
     "title": "Haru Meguru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117277.jpg",
+        "alt": "haru-meguru"
+    },
     "type": "manga",
     "original_name": "春巡る",
     "start_date": "2012-07-26",

@@ -1,5 +1,9 @@
 {
     "title": "DATA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11780.jpg",
+        "alt": "data"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "DATA",

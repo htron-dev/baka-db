@@ -1,12 +1,16 @@
 {
     "title": "Mizuiro Jidai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/49613.jpg",
+        "alt": "mizuiro-jidai"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "水色時代",
     "start_date": "1996-04-04",
     "end_date": "1996-04-04",
     "opening_song": "\"Mizuiro Jidai\" by Jun Yoneya",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ano Koro no Youni\" by Masami Suzuki (eps 1-25, 39)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

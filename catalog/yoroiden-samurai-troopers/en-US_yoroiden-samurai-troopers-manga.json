@@ -1,5 +1,9 @@
 {
     "title": "Yoroiden Samurai Troopers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42449.jpg",
+        "alt": "yoroiden-samurai-troopers"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

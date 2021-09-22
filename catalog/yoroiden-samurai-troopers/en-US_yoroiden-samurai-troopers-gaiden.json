@@ -1,12 +1,16 @@
 {
     "title": "Yoroiden Samurai Troopers Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1484/92210.jpg",
+        "alt": "yoroiden-samurai-troopers-gaiden"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "鎧伝サムライトルーパー外伝",
     "start_date": "1989-04-30",
     "end_date": "1989-04-30",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Stardust Ice (スターダストアイズ)\" by Mariko Uranishi (浦西真理子)",
+    "ending_song": "#1: \"Faraway\" by Mariko Uranishi",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

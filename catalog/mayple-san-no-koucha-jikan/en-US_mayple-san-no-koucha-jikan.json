@@ -1,5 +1,9 @@
 {
     "title": "Mayple-san no Koucha Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/68503.jpg",
+        "alt": "mayple-san-no-koucha-jikan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

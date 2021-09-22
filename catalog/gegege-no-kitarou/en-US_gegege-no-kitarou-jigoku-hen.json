@@ -1,5 +1,9 @@
 {
     "title": "Gegege no Kitarou: Jigoku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/90097.jpg",
+        "alt": "gegege-no-kitarou-jigoku-hen"
+    },
     "type": "tv-serie",
     "episodes": "7",
     "original_name": "ゲゲゲの鬼太郎　地獄編",

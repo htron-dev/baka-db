@@ -1,5 +1,9 @@
 {
     "title": "Dog Days Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/70713.jpg",
+        "alt": "dog-days-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ドッグデイズ",

@@ -1,5 +1,9 @@
 {
     "title": "Love Story wa Guuzen ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193514.jpg",
+        "alt": "love-story-wa-guuzen-ni"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

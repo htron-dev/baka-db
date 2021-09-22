@@ -1,11 +1,15 @@
 {
     "title": "Vlad Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1796/110394.jpg",
+        "alt": "vlad-love"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "ぶらどらぶ",
     "start_date": "2020-12-18",
     "end_date": "2020-12-18",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Winds Of Transylvania\" by LOVEBITES",
     "ending_song": "\"Akai Ame (赤い雨)\" by alan & Ayasa (Japan)",
     "rating": "None",
     "tags": [

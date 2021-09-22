@@ -1,12 +1,16 @@
 {
     "title": "Kami nomi zo Shiru Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/43361.jpg",
+        "alt": "kami-nomi-zo-shiru-sekai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "神のみぞ知るセカイ",
     "start_date": "2010-10-07",
     "end_date": "2010-10-07",
     "opening_song": "\"God only knows Daisanmaku (God only knows 第三幕)\" by Oratorio The World God Only Knows",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Koi no Shirushi (コイノシルシ) feat. Ayumi Takahara\" by Kami no Mizo Shiri-tai featuring Ayana Taketatsu (ep 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

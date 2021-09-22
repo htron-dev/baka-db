@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Pikachu no Natsumatsuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/12259.jpg",
+        "alt": "pokemon-pikachu-no-natsumatsuri"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ピカチュウのなつまつり",

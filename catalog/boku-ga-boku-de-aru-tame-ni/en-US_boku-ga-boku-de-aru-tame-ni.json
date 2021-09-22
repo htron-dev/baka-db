@@ -1,5 +1,9 @@
 {
     "title": "Boku ga Boku de Aru Tame ni.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176008.jpg",
+        "alt": "boku-ga-boku-de-aru-tame-ni"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "58",

@@ -1,5 +1,9 @@
 {
     "title": "Majo-senpai Nippou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239879.jpg",
+        "alt": "majo-senpai-nippou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "43",

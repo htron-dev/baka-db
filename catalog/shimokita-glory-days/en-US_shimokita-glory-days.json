@@ -1,5 +1,9 @@
 {
     "title": "Shimokita Glory Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37833.jpg",
+        "alt": "shimokita-glory-days"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "130",

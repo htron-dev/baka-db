@@ -1,5 +1,9 @@
 {
     "title": "Tanjou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/81346.jpg",
+        "alt": "tanjou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "誕生！",

@@ -1,5 +1,9 @@
 {
     "title": "Kare no Amai Yubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40296.jpg",
+        "alt": "kare-no-amai-yubi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "彼の甘い指",

@@ -1,5 +1,9 @@
 {
     "title": "Tari Tari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/71697.jpg",
+        "alt": "tari-tari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

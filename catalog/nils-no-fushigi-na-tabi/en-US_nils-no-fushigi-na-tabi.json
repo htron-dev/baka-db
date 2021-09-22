@@ -1,12 +1,16 @@
 {
     "title": "Nils no Fushigi na Tabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2296.jpg",
+        "alt": "nils-no-fushigi-na-tabi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ニルスのふしぎな旅",
     "start_date": "1980-01-08",
     "end_date": "1980-01-08",
     "opening_song": "\"Nils no Fushigi na Tabi (ニルスのふしぎな旅)\" by Katsumi Kahashi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Nils Holgersson (Instrumental)\" by Karel Svoboda",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

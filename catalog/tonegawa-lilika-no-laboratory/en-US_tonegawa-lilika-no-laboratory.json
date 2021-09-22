@@ -1,5 +1,9 @@
 {
     "title": "Tonegawa Lilika no Laboratory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165067.jpg",
+        "alt": "tonegawa-lilika-no-laboratory"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

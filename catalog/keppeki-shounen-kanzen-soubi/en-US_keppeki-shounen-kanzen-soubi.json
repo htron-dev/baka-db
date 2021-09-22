@@ -1,5 +1,9 @@
 {
     "title": "Keppeki Shounen Kanzen Soubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15739.jpg",
+        "alt": "keppeki-shounen-kanzen-soubi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

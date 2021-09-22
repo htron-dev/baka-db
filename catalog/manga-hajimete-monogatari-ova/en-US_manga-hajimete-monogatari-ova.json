@@ -1,5 +1,9 @@
 {
     "title": "Manga Hajimete Monogatari OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/72118.jpg",
+        "alt": "manga-hajimete-monogatari-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "まんがはじめて物語",

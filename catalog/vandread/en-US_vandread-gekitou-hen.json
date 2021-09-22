@@ -1,5 +1,9 @@
 {
     "title": "Vandread: Gekitou-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/23643.jpg",
+        "alt": "vandread-gekitou-hen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ヴァンドレッド　激闘篇",

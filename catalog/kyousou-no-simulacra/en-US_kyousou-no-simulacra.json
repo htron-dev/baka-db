@@ -1,5 +1,9 @@
 {
     "title": "Kyousou no Simulacra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/49355.jpg",
+        "alt": "kyousou-no-simulacra"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

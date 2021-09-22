@@ -1,5 +1,9 @@
 {
     "title": "8-gatsu Outlaw",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193290.jpg",
+        "alt": "8-gatsu-outlaw"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

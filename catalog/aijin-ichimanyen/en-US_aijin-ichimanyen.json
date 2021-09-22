@@ -1,5 +1,9 @@
 {
     "title": "Aijin Ichimanyen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5740.jpg",
+        "alt": "aijin-ichimanyen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "愛人いちまんえん",

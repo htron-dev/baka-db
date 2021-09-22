@@ -1,5 +1,9 @@
 {
     "title": "Ninja Slayer Kills",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188573.jpg",
+        "alt": "ninja-slayer-kills"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

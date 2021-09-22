@@ -1,5 +1,9 @@
 {
     "title": "Sentou Yousei Yukikaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/32707.jpg",
+        "alt": "sentou-yousei-yukikaze"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "戦闘妖精雪風",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Yukikaze_(anime"
+            "link": "http://en.wikipedia.org/wiki/Yukikaze_%28anime%29"
         }
     ]
 }

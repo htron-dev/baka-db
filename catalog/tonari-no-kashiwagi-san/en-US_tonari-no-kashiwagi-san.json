@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Kashiwagi-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181053.jpg",
+        "alt": "tonari-no-kashiwagi-san"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "84",

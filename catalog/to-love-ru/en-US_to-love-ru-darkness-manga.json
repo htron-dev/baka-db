@@ -1,5 +1,9 @@
 {
     "title": "To LOVE-Ru Darkness",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109331.jpg",
+        "alt": "to-love-ru-darkness"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "100",

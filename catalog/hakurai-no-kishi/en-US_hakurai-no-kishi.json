@@ -1,5 +1,9 @@
 {
     "title": "Hakurai no Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234815.jpg",
+        "alt": "hakurai-no-kishi"
+    },
     "type": "manga",
     "original_name": "白雷の騎士",
     "start_date": "2019-10-22",

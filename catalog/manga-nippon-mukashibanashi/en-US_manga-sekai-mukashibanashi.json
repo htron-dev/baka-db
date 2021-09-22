@@ -1,12 +1,16 @@
 {
     "title": "Manga Sekai Mukashibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/22964.jpg",
+        "alt": "manga-sekai-mukashibanashi"
+    },
     "type": "tv-serie",
     "episodes": "127",
     "original_name": "まんが世界昔ばなし",
     "start_date": "1976-10-07",
     "end_date": "1976-10-07",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Uba uba ukyakya\" by Mariko Miyagi",
+    "ending_song": "#01: \"Yume o mi ta no\" by Mariko Miyagi",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

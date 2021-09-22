@@ -1,5 +1,9 @@
 {
     "title": "Arcana - Henka☆Gijinka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39449.jpg",
+        "alt": "arcana-henka☆-gijinka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

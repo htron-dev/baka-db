@@ -1,5 +1,9 @@
 {
     "title": "Popee the Performer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1682/110199.jpg",
+        "alt": "popee-the-performer"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "POPEE the ぱフォーマー",

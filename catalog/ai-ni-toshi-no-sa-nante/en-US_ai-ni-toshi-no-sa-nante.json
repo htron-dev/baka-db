@@ -1,5 +1,9 @@
 {
     "title": "Ai ni Toshi no Sa Nante",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23597.jpg",
+        "alt": "ai-ni-toshi-no-sa-nante"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Kishin Houkou Demonbane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/75567.jpg",
+        "alt": "kishin-houkou-demonbane"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

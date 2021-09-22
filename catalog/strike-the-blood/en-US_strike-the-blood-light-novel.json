@@ -1,5 +1,9 @@
 {
     "title": "Strike the Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163502.jpg",
+        "alt": "strike-the-blood"
+    },
     "type": "light-novel",
     "volumes": "22",
     "chapters": "157",

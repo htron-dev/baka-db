@@ -1,5 +1,9 @@
 {
     "title": "Susume! Kitako Housoubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/34755.jpg",
+        "alt": "susume-kitako-housoubu"
+    },
     "type": "manga",
     "original_name": "すすめ!きたこーほうそうぶ",
     "tags": [

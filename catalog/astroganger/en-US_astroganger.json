@@ -1,5 +1,9 @@
 {
     "title": "Astroganger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/57971.jpg",
+        "alt": "astroganger"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "アストロガンガー",

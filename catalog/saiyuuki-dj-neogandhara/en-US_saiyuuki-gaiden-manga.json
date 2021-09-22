@@ -1,5 +1,9 @@
 {
     "title": "Saiyuuki Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155034.jpg",
+        "alt": "saiyuuki-gaiden"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

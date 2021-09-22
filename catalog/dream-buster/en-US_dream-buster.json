@@ -1,5 +1,9 @@
 {
     "title": "Dream Buster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61425.jpg",
+        "alt": "dream-buster"
+    },
     "type": "manga",
     "original_name": "ドリームバスター",
     "tags": [

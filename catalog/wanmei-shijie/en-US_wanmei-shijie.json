@@ -1,5 +1,9 @@
 {
     "title": "Wanmei Shijie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1086/111576.jpg",
+        "alt": "wanmei-shijie"
+    },
     "type": "ona",
     "episodes": "78",
     "original_name": "完美世界",

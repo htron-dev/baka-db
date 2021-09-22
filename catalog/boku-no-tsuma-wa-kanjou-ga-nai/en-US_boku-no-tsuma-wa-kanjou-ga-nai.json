@@ -1,5 +1,9 @@
 {
     "title": "Boku no Tsuma wa Kanjou ga Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235672.jpg",
+        "alt": "boku-no-tsuma-wa-kanjou-ga-nai"
+    },
     "type": "manga",
     "original_name": "僕の妻は感情がない",
     "start_date": "2019-08-05",

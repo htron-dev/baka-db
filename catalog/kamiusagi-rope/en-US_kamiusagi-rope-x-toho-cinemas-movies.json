@@ -1,5 +1,9 @@
 {
     "title": "Kamiusagi Rope x TOHO Cinemas (Movies)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/85035.jpg",
+        "alt": "kamiusagi-rope-x-toho-cinemas-movies"
+    },
     "type": "movie",
     "original_name": "紙兎ロペ TOHO シネマズ",
     "start_date": "2014-01-11",

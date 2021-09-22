@@ -1,5 +1,9 @@
 {
     "title": "Appleseed XIII Remix Movie 2: Yogen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/37085.jpg",
+        "alt": "appleseed-xiii-remix-movie-2-yogen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場リミックス版 APPLESEED XIII ～予言～",

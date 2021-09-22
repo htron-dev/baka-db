@@ -1,5 +1,9 @@
 {
     "title": "Hakusai Anime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/53423.jpg",
+        "alt": "hakusai-anime"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "白菜アニメ",

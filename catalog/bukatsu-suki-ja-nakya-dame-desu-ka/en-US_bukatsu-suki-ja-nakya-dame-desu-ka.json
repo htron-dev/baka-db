@@ -1,5 +1,9 @@
 {
     "title": "Bukatsu, Suki ja Nakya Dame desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211524.jpg",
+        "alt": "bukatsu-suki-ja-nakya-dame-desu-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

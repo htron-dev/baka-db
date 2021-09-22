@@ -1,11 +1,15 @@
 {
     "title": "Chibikko Kaijuu Yadamon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/22709.jpg",
+        "alt": "chibikko-kaijuu-yadamon"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ちびっこ怪獣ヤダモン",
     "start_date": "1967-10-02",
     "end_date": "1967-10-02",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Yadamon (ヤダモン)\" by Young Fresh, Sonomi Nakajima (eps 1-13)",
     "rating": "None",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "The Sky Crawlers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/8212.jpg",
+        "alt": "the-sky-crawlers"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "スカイ・クロラ",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/The_Sky_Crawlers_(film"
+            "link": "http://en.wikipedia.org/wiki/The_Sky_Crawlers_%28film%29"
         }
     ]
 }

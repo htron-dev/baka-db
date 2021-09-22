@@ -1,5 +1,9 @@
 {
     "title": "Toshi Densetsu Jr.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238914.jpg",
+        "alt": "toshi-densetsu-jr"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

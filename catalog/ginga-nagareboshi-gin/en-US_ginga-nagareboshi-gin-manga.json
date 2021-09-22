@@ -1,5 +1,9 @@
 {
     "title": "Ginga Nagareboshi Gin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37649.jpg",
+        "alt": "ginga-nagareboshi-gin"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "55",

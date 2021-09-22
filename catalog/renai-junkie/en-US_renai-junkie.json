@@ -1,5 +1,9 @@
 {
     "title": "Renai Junkie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198223.jpg",
+        "alt": "renai-junkie"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "231",

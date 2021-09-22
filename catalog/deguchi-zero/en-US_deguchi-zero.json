@@ -1,5 +1,9 @@
 {
     "title": "Deguchi Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171508.jpg",
+        "alt": "deguchi-zero"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "59",

@@ -1,5 +1,9 @@
 {
     "title": "Kami Pro.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159692.jpg",
+        "alt": "kami-pro"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

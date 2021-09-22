@@ -1,5 +1,9 @@
 {
     "title": "Princess Shoukougun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/11421.jpg",
+        "alt": "princess-shoukougun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

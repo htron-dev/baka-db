@@ -1,5 +1,9 @@
 {
     "title": "Koredakara Anime tte Yatsu wa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146867.jpg",
+        "alt": "koredakara-anime-tte-yatsu-wa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

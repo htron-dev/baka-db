@@ -1,5 +1,9 @@
 {
     "title": "Shinkyoku Soukai Polyphonica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1610/95574.jpg",
+        "alt": "shinkyoku-soukai-polyphonica"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "神曲奏界ポリフォニカ",

@@ -1,5 +1,9 @@
 {
     "title": "Imakara Anata wo Kyouhaku Shimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203945.jpg",
+        "alt": "imakara-anata-wo-kyouhaku-shimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

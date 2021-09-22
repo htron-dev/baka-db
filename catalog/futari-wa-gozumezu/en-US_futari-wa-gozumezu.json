@@ -1,5 +1,9 @@
 {
     "title": "Futari wa Gozumezu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124703.jpg",
+        "alt": "futari-wa-gozumezu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

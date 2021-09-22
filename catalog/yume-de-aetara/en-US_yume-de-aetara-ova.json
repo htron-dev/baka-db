@@ -1,12 +1,16 @@
 {
     "title": "Yume de Aetara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/67403.jpg",
+        "alt": "yume-de-aetara"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "夢で逢えたら",
     "start_date": "1998-04-21",
     "end_date": "1998-04-21",
-    "opening_song": "\"Aisuru Koto wo Oshiete (愛することを教えて)\" by Nagisa Shiozaki (CV",
-    "ending_song": "#1",
+    "opening_song": "\"Aisuru Koto wo Oshiete (愛することを教えて)\" by Nagisa Shiozaki (CV: Mami Kingetsu) (eps 1-2)",
+    "ending_song": "#1: \"Dear\" by Nagisa Shiozaki (CV: Mami Kingetsu) (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

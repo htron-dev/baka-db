@@ -1,5 +1,9 @@
 {
     "title": "Flower Festival",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28760.jpg",
+        "alt": "flower-festival"
+    },
     "type": "manga",
     "volumes": "2",
     "start_date": "1988-07-19",

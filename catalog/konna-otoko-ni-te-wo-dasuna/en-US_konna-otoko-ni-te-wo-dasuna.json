@@ -1,5 +1,9 @@
 {
     "title": "Konna Otoko ni Te wo Dasuna!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237757.jpg",
+        "alt": "konna-otoko-ni-te-wo-dasuna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

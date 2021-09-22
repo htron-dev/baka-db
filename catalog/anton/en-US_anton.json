@@ -1,5 +1,9 @@
 {
     "title": "Anton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116311.jpg",
+        "alt": "anton"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

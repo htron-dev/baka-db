@@ -1,5 +1,9 @@
 {
     "title": "Cat's♥Eye",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/100809.jpg",
+        "alt": "cats♥-eye"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "39",

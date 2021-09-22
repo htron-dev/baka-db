@@ -1,5 +1,9 @@
 {
     "title": "Kuroi Nekomen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76161.jpg",
+        "alt": "kuroi-nekomen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "黒いねこ面",

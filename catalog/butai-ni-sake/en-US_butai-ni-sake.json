@@ -1,5 +1,9 @@
 {
     "title": "Butai ni Sake!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237490.jpg",
+        "alt": "butai-ni-sake"
+    },
     "type": "manga",
     "original_name": "舞台に咲け!",
     "start_date": "2020-04-28",

@@ -1,5 +1,9 @@
 {
     "title": "Kamisama Hajimemashita: Kako-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/81250.jpg",
+        "alt": "kamisama-hajimemashita-kako-hen"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "神様はじめました～過去編～",

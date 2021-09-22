@@ -1,5 +1,9 @@
 {
     "title": "Golden★Kids",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/28397.jpg",
+        "alt": "golden★-kids"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "ゴールデン ★ キッズ",

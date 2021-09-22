@@ -1,5 +1,9 @@
 {
     "title": "1000-en Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204637.jpg",
+        "alt": "1000-en-hero"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "145",

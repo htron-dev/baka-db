@@ -1,5 +1,9 @@
 {
     "title": "WonderLand",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3370.jpg",
+        "alt": "wonder-land"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "10",

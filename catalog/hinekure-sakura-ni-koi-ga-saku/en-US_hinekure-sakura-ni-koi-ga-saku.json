@@ -1,5 +1,9 @@
 {
     "title": "Hinekure Sakura ni Koi ga Saku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225700.jpg",
+        "alt": "hinekure-sakura-ni-koi-ga-saku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

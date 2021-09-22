@@ -1,5 +1,9 @@
 {
     "title": "Suite Precure♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41408.jpg",
+        "alt": "suite-precure♪"
+    },
     "type": "manga",
     "chapters": "13",
     "original_name": "スイートプリキュア ♪",

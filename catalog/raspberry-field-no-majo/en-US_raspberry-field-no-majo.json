@@ -1,5 +1,9 @@
 {
     "title": "Raspberry Field no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17223.jpg",
+        "alt": "raspberry-field-no-majo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

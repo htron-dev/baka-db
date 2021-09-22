@@ -1,5 +1,9 @@
 {
     "title": "Kamisama Drop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188973.jpg",
+        "alt": "kamisama-drop"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "44",

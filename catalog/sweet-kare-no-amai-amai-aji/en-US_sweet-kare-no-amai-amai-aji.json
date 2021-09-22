@@ -1,5 +1,9 @@
 {
     "title": "Sweet: Kare no Amai Amai Aji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30153.jpg",
+        "alt": "sweet-kare-no-amai-amai-aji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

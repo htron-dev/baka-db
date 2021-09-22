@@ -1,5 +1,9 @@
 {
     "title": "True Love: Kishi no Namida-hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182805.jpg",
+        "alt": "true-love-kishi-no-namida-hime"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

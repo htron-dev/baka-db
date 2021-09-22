@@ -1,5 +1,9 @@
 {
     "title": "Umimachi Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219711.jpg",
+        "alt": "umimachi-diary"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "37",

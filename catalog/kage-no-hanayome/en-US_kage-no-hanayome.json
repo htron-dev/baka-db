@@ -1,5 +1,9 @@
 {
     "title": "Kage no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185341.jpg",
+        "alt": "kage-no-hanayome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

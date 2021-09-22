@@ -1,5 +1,9 @@
 {
     "title": "Notes.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/190302.jpg",
+        "alt": "notes"
+    },
     "type": "light-novel",
     "chapters": "8",
     "original_name": "Notes.",

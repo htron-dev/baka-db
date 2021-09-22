@@ -1,5 +1,9 @@
 {
     "title": "Youkoso, Fairy's Inn e!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196362.jpg",
+        "alt": "youkoso-fairys-inn-e"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "ようこそ、フェアリーズ・インへ！",

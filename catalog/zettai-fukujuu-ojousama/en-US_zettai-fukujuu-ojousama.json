@@ -1,5 +1,9 @@
 {
     "title": "Zettai Fukujuu Ojousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/105111.jpg",
+        "alt": "zettai-fukujuu-ojousama"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "絶対服従お嬢様",

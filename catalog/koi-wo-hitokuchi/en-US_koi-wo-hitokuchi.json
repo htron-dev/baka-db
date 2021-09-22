@@ -1,5 +1,9 @@
 {
     "title": "Koi wo Hitokuchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155985.jpg",
+        "alt": "koi-wo-hitokuchi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

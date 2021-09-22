@@ -1,5 +1,9 @@
 {
     "title": "Seiyuu Unit Hajimemashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160963.jpg",
+        "alt": "seiyuu-unit-hajimemashita"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

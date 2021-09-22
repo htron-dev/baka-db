@@ -1,5 +1,9 @@
 {
     "title": "Harenchi Golfer Juubee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196448.jpg",
+        "alt": "harenchi-golfer-juubee"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

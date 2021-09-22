@@ -1,5 +1,9 @@
 {
     "title": "Nihon no Obake-banashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/84591.jpg",
+        "alt": "nihon-no-obake-banashi"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "日本のおばけ話",

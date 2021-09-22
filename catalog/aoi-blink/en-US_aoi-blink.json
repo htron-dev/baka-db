@@ -1,5 +1,9 @@
 {
     "title": "Aoi Blink",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/50063.jpg",
+        "alt": "aoi-blink"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "青いブリンク",

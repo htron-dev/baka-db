@@ -1,5 +1,9 @@
 {
     "title": "Ojousan to Yobanaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203199.jpg",
+        "alt": "ojousan-to-yobanaide"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

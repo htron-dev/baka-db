@@ -1,5 +1,9 @@
 {
     "title": "Neko Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/13999.jpg",
+        "alt": "neko-machi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "猫町",

@@ -1,5 +1,9 @@
 {
     "title": "Koi, Hirari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126515.jpg",
+        "alt": "koi-hirari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

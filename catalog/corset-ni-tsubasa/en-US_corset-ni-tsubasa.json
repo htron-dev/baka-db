@@ -1,5 +1,9 @@
 {
     "title": "Corset ni Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151873.jpg",
+        "alt": "corset-ni-tsubasa"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "49",

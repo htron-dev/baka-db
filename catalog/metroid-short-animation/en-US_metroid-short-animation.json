@@ -1,5 +1,9 @@
 {
     "title": "Metroid Short Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1285/91252.jpg",
+        "alt": "metroid-short-animation"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "METROID short animation",

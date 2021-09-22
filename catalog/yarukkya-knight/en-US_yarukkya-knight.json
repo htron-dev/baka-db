@@ -1,5 +1,9 @@
 {
     "title": "Yarukkya Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/109039.jpg",
+        "alt": "yarukkya-knight"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "やるっきゃ騎士〈ナイト〉",

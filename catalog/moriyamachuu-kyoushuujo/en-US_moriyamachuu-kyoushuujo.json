@@ -1,5 +1,9 @@
 {
     "title": "Moriyamachuu Kyoushuujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166348.jpg",
+        "alt": "moriyamachuu-kyoushuujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

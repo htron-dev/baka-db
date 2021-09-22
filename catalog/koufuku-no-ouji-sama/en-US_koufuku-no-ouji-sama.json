@@ -1,5 +1,9 @@
 {
     "title": "Koufuku no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137207.jpg",
+        "alt": "koufuku-no-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

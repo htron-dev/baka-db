@@ -1,5 +1,9 @@
 {
     "title": "Happy End Kuso Kurae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224513.jpg",
+        "alt": "happy-end-kuso-kurae"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

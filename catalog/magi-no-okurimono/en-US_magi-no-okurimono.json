@@ -1,5 +1,9 @@
 {
     "title": "Magi no Okurimono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163666.jpg",
+        "alt": "magi-no-okurimono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

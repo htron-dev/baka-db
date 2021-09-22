@@ -1,5 +1,9 @@
 {
     "title": "Kaukuwai-Koukaima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21006.jpg",
+        "alt": "kaukuwai-koukaima"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

@@ -1,5 +1,9 @@
 {
     "title": "Puu-Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/28722.jpg",
+        "alt": "puu-neko"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "プ～ねこ",

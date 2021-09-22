@@ -1,5 +1,9 @@
 {
     "title": "Geboku ni Narimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6239.jpg",
+        "alt": "geboku-ni-narimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

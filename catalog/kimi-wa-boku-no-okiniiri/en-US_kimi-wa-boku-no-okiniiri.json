@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Boku no Okiniiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238118.jpg",
+        "alt": "kimi-wa-boku-no-okiniiri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

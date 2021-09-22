@@ -1,5 +1,9 @@
 {
     "title": "Karimen Love Crisis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58583.jpg",
+        "alt": "karimen-love-crisis"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

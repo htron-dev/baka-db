@@ -1,5 +1,9 @@
 {
     "title": "Karasu no Itoshi Kyoto Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223368.jpg",
+        "alt": "karasu-no-itoshi-kyoto-meshi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "61",

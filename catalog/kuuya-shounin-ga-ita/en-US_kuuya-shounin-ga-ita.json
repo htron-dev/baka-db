@@ -1,5 +1,9 @@
 {
     "title": "Kuuya Shounin ga Ita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210921.jpg",
+        "alt": "kuuya-shounin-ga-ita"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "空也上人がいた",

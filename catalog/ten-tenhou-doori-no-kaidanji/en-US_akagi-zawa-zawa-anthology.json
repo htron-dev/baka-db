@@ -1,5 +1,9 @@
 {
     "title": "Akagi: Zawa... Zawa... Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/75467.jpg",
+        "alt": "akagi-zawa-zawa-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "37",

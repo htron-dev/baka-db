@@ -1,5 +1,9 @@
 {
     "title": "Andersen Monogatari (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/69035.jpg",
+        "alt": "andersen-monogatari-tv"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "アンデルセン物語",

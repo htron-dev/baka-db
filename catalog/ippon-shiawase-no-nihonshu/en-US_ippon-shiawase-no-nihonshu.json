@@ -1,5 +1,9 @@
 {
     "title": "Ippon!!: Shiawase no Nihonshu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244135.jpg",
+        "alt": "ippon-shiawase-no-nihonshu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

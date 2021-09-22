@@ -1,5 +1,9 @@
 {
     "title": "Robot no Momo-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167815.jpg",
+        "alt": "robot-no-momo-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

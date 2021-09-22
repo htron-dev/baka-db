@@ -1,5 +1,9 @@
 {
     "title": "Tale of Fairy Tail: Ice Trail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164272.jpg",
+        "alt": "tale-of-fairy-tail-ice-trail"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

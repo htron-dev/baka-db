@@ -1,5 +1,9 @@
 {
     "title": "Himekoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/52067.jpg",
+        "alt": "himekoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

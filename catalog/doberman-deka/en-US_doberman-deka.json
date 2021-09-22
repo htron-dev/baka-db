@@ -1,5 +1,9 @@
 {
     "title": "Doberman Deka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133111.jpg",
+        "alt": "doberman-deka"
+    },
     "type": "manga",
     "volumes": "29",
     "original_name": "ドーベルマン刑事",

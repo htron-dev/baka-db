@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Owari Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153545.jpg",
+        "alt": "sekai-no-owari-monogatari"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "SEKAI NO OWARI 物語",

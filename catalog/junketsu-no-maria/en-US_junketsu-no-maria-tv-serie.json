@@ -1,12 +1,16 @@
 {
     "title": "Junketsu no Maria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/69301.jpg",
+        "alt": "junketsu-no-maria"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "純潔のマリア",
     "start_date": "2015-01-11",
     "end_date": "2015-01-11",
     "opening_song": "\"Philosophy of Dear World\" by ZAQ (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Philosophy of Dear World\" by ZAQ (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "comedy",

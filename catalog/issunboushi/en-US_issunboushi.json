@@ -1,5 +1,9 @@
 {
     "title": "Issunboushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1091/101185.jpg",
+        "alt": "issunboushi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "一寸法師",

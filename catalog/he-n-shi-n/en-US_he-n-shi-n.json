@@ -1,5 +1,9 @@
 {
     "title": "He/n/shi/n",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125539.jpg",
+        "alt": "he-n-shi-n"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

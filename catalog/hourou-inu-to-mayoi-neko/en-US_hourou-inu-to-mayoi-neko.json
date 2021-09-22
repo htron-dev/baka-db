@@ -1,5 +1,9 @@
 {
     "title": "Hourou Inu to Mayoi Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238269.jpg",
+        "alt": "hourou-inu-to-mayoi-neko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

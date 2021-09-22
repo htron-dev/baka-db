@@ -1,5 +1,9 @@
 {
     "title": "Rubi Yoyo 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1970/115312.jpg",
+        "alt": "rubi-yoyo-2"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "乐比悠悠 2",

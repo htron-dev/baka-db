@@ -1,5 +1,9 @@
 {
     "title": "Raid on Tokyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132421.jpg",
+        "alt": "raid-on-tokyo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "レイド・オン・トーキョー",

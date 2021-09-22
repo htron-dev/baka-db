@@ -1,5 +1,9 @@
 {
     "title": "Flash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178538.jpg",
+        "alt": "flash"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

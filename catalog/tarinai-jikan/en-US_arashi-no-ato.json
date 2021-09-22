@@ -1,5 +1,9 @@
 {
     "title": "Arashi no Ato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11247.jpg",
+        "alt": "arashi-no-ato"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

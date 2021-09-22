@@ -1,5 +1,9 @@
 {
     "title": "Duan Nao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/82664.jpg",
+        "alt": "duan-nao"
+    },
     "type": "ona",
     "episodes": "16",
     "original_name": "端脑",
@@ -24,7 +28,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://zh.wikipedia.org/wiki/%E7%AB%AF%E8%84%91_(%E6%BC%AB%E7%94%BB"
+            "link": "https://zh.wikipedia.org/wiki/%E7%AB%AF%E8%84%91_%28%E6%BC%AB%E7%94%BB%29"
         }
     ]
 }

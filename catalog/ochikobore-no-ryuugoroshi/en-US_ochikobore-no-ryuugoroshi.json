@@ -1,5 +1,9 @@
 {
     "title": "Ochikobore no Ryuugoroshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160876.jpg",
+        "alt": "ochikobore-no-ryuugoroshi"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "25",

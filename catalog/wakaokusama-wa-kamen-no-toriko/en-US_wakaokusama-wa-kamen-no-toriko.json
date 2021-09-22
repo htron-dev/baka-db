@@ -1,5 +1,9 @@
 {
     "title": "Wakaokusama wa Kamen no Toriko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194767.jpg",
+        "alt": "wakaokusama-wa-kamen-no-toriko"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "若奥様は仮面の虜",

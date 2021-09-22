@@ -1,5 +1,9 @@
 {
     "title": "Zoku Hoshi Mamoru Inu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207063.jpg",
+        "alt": "zoku-hoshi-mamoru-inu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

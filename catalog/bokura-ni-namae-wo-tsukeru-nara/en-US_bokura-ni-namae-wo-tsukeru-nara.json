@@ -1,5 +1,9 @@
 {
     "title": "Bokura ni Namae wo Tsukeru nara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245705.jpg",
+        "alt": "bokura-ni-namae-wo-tsukeru-nara"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

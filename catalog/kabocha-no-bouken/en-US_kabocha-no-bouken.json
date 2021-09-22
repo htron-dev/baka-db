@@ -1,5 +1,9 @@
 {
     "title": "Kabocha no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226877.jpg",
+        "alt": "kabocha-no-bouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

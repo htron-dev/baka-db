@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam AGE: First Evolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64165.jpg",
+        "alt": "kidou-senshi-gundam-age-first-evolution"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

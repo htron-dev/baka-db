@@ -1,5 +1,9 @@
 {
     "title": "Grace Door",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24641.jpg",
+        "alt": "grace-door"
+    },
     "type": "manga",
     "original_name": "GRACE DOOR 執事と罪; GRACE DOOR 乙女ロードと執事と扉",
     "tags": [

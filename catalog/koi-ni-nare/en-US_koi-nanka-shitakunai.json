@@ -1,5 +1,9 @@
 {
     "title": "Koi nanka Shitakunai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160803.jpg",
+        "alt": "koi-nanka-shitakunai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

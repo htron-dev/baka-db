@@ -1,11 +1,15 @@
 {
     "title": "Lupin III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/15625.jpg",
+        "alt": "lupin-iii"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "ルパン三世",
     "start_date": "1971-10-24",
     "end_date": "1971-10-24",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Lupin Sansei Sono 1\" by Charlie Kosei (eps 1-3, 9)",
     "ending_song": "\"Lupin Sansei Sono 2\" by Charlie Kosei",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

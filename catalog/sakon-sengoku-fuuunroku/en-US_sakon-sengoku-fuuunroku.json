@@ -1,5 +1,9 @@
 {
     "title": "Sakon: Sengoku Fuuunroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189905.jpg",
+        "alt": "sakon-sengoku-fuuunroku"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "33",

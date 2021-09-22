@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Share Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166187.jpg",
+        "alt": "tokyo-share-story"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

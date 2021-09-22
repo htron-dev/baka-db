@@ -1,5 +1,9 @@
 {
     "title": "Heisei Kyouiku Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/21356.jpg",
+        "alt": "heisei-kyouiku-jijou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "平成教育事情",

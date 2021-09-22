@@ -1,12 +1,16 @@
 {
     "title": "Star Driver: Kagayaki no Takuto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/25953.jpg",
+        "alt": "star-driver-kagayaki-no-takuto"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "STAR DRIVER 輝きのタクト",
     "start_date": "2010-10-03",
     "end_date": "2010-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Gravity Zero\" by Aqua Timez (eps 1-13)",
+    "ending_song": "#1: \"Cross Over\" by 9nine (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Kururi no Hitotose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125423.jpg",
+        "alt": "kururi-no-hitotose"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

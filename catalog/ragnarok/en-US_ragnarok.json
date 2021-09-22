@@ -1,5 +1,9 @@
 {
     "title": "Ragnarok",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153737.jpg",
+        "alt": "ragnarok"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

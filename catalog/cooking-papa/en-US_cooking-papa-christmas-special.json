@@ -1,5 +1,9 @@
 {
     "title": "Cooking Papa Christmas Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/71976.jpg",
+        "alt": "cooking-papa-christmas-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "クッキングパパ クリスマススペシャル",

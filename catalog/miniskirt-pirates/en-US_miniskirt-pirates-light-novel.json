@@ -1,5 +1,9 @@
 {
     "title": "Miniskirt Pirates",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64087.jpg",
+        "alt": "miniskirt-pirates"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "57",

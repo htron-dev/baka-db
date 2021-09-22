@@ -1,5 +1,9 @@
 {
     "title": "Saiteihen no Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130671.jpg",
+        "alt": "saiteihen-no-otoko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

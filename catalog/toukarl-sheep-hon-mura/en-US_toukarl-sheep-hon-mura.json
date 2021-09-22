@@ -1,5 +1,9 @@
 {
     "title": "Toukarl Sheep Hon Mura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64699.jpg",
+        "alt": "toukarl-sheep-hon-mura"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

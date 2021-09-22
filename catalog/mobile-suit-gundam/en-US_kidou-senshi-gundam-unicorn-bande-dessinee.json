@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam Unicorn: Bande Dessinee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187857.jpg",
+        "alt": "kidou-senshi-gundam-unicorn-bande-dessinee"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "78",

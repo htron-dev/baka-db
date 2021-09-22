@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Mousou Fudanshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120871.jpg",
+        "alt": "ikenai-mousou-fudanshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

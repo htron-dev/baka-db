@@ -1,5 +1,9 @@
 {
     "title": "Meitantei Conan: Shikkoku no Chaser",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240193.jpg",
+        "alt": "meitantei-conan-shikkoku-no-chaser"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

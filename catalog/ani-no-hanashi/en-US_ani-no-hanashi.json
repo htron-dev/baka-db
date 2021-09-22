@@ -1,5 +1,9 @@
 {
     "title": "Ani no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213975.jpg",
+        "alt": "ani-no-hanashi"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "兄の話",

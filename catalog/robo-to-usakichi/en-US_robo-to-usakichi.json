@@ -1,5 +1,9 @@
 {
     "title": "Robo to Usakichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190014.jpg",
+        "alt": "robo-to-usakichi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "16",

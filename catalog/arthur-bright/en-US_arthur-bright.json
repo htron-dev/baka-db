@@ -1,5 +1,9 @@
 {
     "title": "Arthur Bright",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203487.jpg",
+        "alt": "arthur-bright"
+    },
     "type": "manga",
     "original_name": "アーサーブライト",
     "start_date": "2017-05-25",

@@ -1,5 +1,9 @@
 {
     "title": "Waza no Tabibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/30098.jpg",
+        "alt": "waza-no-tabibito"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "技の旅人",

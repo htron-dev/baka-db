@@ -1,5 +1,9 @@
 {
     "title": "Comic Couple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151504.jpg",
+        "alt": "comic-couple"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "コミカプ",

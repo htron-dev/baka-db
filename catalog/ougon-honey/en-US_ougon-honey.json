@@ -1,5 +1,9 @@
 {
     "title": "Ougon Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/84583.jpg",
+        "alt": "ougon-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "黄金ハニー",

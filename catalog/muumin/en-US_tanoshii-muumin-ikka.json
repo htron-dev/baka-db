@@ -1,12 +1,16 @@
 {
     "title": "Tanoshii Muumin Ikka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/26765.jpg",
+        "alt": "tanoshii-muumin-ikka"
+    },
     "type": "tv-serie",
     "episodes": "78",
     "original_name": "楽しいムーミン一家",
     "start_date": "1990-04-12",
     "end_date": "1990-04-12",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Yume no sekai e (夢の世界へ)\" by Emiko Shiratori (eps 1-52)",
+    "ending_song": "#1: \"Tooi Akogare (遠いあこがれ)\" by Emiko Shiratori (eps 1-52)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Moomin_(1990_TV_series"
+            "link": "http://en.wikipedia.org/wiki/Moomin_%281990_TV_series%29"
         }
     ]
 }

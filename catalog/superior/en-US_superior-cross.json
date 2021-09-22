@@ -1,5 +1,9 @@
 {
     "title": "Superior Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144349.jpg",
+        "alt": "superior-cross"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

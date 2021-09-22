@@ -1,5 +1,9 @@
 {
     "title": "Anata e no Crescendo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16309.jpg",
+        "alt": "anata-e-no-crescendo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

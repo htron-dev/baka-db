@@ -1,5 +1,9 @@
 {
     "title": "Tendou no Singularity",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/141869.jpg",
+        "alt": "tendou-no-singularity"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "94",

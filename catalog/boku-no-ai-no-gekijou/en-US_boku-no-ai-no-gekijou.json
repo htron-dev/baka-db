@@ -1,5 +1,9 @@
 {
     "title": "Boku no Ai no Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/54045.jpg",
+        "alt": "boku-no-ai-no-gekijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

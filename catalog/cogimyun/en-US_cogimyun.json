@@ -1,5 +1,9 @@
 {
     "title": "Cogimyun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/87036.jpg",
+        "alt": "cogimyun"
+    },
     "type": "ona",
     "episodes": "24",
     "original_name": "こぎみゅん",

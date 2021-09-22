@@ -1,5 +1,9 @@
 {
     "title": "Ishtar no Musume: Ono Otsuu Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203179.jpg",
+        "alt": "ishtar-no-musume-ono-otsuu-den"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "64",

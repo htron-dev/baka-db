@@ -1,5 +1,9 @@
 {
     "title": "Ameagari no 10-nenme",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166468.jpg",
+        "alt": "ameagari-no-10-nenme"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

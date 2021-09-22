@@ -1,5 +1,9 @@
 {
     "title": "Metroid: Samus &amp; Joey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/61279.jpg",
+        "alt": "metroid-samus-amp-joey"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

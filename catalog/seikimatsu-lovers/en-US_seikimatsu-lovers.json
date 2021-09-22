@@ -1,5 +1,9 @@
 {
     "title": "Seikimatsu Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165622.jpg",
+        "alt": "seikimatsu-lovers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

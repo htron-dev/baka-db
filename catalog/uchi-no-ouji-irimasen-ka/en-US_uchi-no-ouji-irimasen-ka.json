@@ -1,5 +1,9 @@
 {
     "title": "Uchi no Ouji Irimasen ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42247.jpg",
+        "alt": "uchi-no-ouji-irimasen-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

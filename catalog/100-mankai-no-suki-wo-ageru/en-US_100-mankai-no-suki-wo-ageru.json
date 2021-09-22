@@ -1,5 +1,9 @@
 {
     "title": "100-mankai no Suki wo Ageru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210235.jpg",
+        "alt": "100-mankai-no-suki-wo-ageru"
+    },
     "type": "manga",
     "original_name": "100 万回のスキをあげる",
     "start_date": "2017-02-13",

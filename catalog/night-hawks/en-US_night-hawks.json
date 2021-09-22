@@ -1,5 +1,9 @@
 {
     "title": "Night=Hawks!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146109.jpg",
+        "alt": "night-hawks"
+    },
     "type": "manga",
     "chapters": "8",
     "original_name": "NIGHT=HAWKS!",

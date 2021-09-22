@@ -1,5 +1,9 @@
 {
     "title": "Ragna Crimson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202075.jpg",
+        "alt": "ragna-crimson"
+    },
     "type": "manga",
     "original_name": "ラグナクリムゾン",
     "start_date": "2017-03-22",

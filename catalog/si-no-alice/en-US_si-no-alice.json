@@ -1,5 +1,9 @@
 {
     "title": "SINoALICE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/244251.jpg",
+        "alt": "si-no-alice"
+    },
     "type": "manga",
     "original_name": "SINoALICE -シノアリス-",
     "start_date": "2019-06-06",

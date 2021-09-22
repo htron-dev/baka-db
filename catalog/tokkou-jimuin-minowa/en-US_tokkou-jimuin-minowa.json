@@ -1,5 +1,9 @@
 {
     "title": "Tokkou Jimuin Minowa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/138417.jpg",
+        "alt": "tokkou-jimuin-minowa"
+    },
     "type": "manga",
     "original_name": "特攻事務員ミノワ",
     "start_date": "2013-07-01",

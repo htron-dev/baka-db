@@ -1,5 +1,9 @@
 {
     "title": "Iinari!! Kyuuketsuhime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61259.jpg",
+        "alt": "iinari-kyuuketsuhime"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

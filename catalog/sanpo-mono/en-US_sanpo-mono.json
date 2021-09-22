@@ -1,5 +1,9 @@
 {
     "title": "Sanpo Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81460.jpg",
+        "alt": "sanpo-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Nogizaka Asuka no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239694.jpg",
+        "alt": "nogizaka-asuka-no-himitsu"
+    },
     "type": "manga",
     "original_name": "乃木坂明日夏の秘密",
     "start_date": "2019-07-26",

@@ -1,5 +1,9 @@
 {
     "title": "Zoo: Hidamari no Shi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1190/93698.jpg",
+        "alt": "zoo-hidamari-no-shi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ZOO 「陽だまりの詩（シ）」",
@@ -20,7 +24,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/ZOO_(%E4%B9%99%E4%B8%80"
+            "link": "http://ja.wikipedia.org/wiki/ZOO_%28%E4%B9%99%E4%B8%80%29"
         }
     ]
 }

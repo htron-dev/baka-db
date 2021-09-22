@@ -1,12 +1,16 @@
 {
     "title": "Casshern Sins",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/23336.jpg",
+        "alt": "casshern-sins"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "キャシャーン SINS",
     "start_date": "2008-10-02",
     "end_date": "2008-10-02",
     "opening_song": "\"Aoi Hana (青い花)\" by Color Bottle",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Reason\" by K∧N∧ (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

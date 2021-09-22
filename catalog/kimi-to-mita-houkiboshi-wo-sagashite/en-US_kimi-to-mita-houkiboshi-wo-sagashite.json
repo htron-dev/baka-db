@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Mita Houkiboshi wo Sagashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174224.jpg",
+        "alt": "kimi-to-mita-houkiboshi-wo-sagashite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

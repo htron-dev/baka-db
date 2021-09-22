@@ -1,5 +1,9 @@
 {
     "title": "Shin Megami Tensei IV: Demonic Gene",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182110.jpg",
+        "alt": "shin-megami-tensei-iv-demonic-gene"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

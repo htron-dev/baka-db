@@ -1,5 +1,9 @@
 {
     "title": "Hanayaka na Adventure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11874.jpg",
+        "alt": "hanayaka-na-adventure"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "華やかなアバンチュール",

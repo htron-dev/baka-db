@@ -1,5 +1,9 @@
 {
     "title": "Kazagake Shoujogumi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/55565.jpg",
+        "alt": "kazagake-shoujogumi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

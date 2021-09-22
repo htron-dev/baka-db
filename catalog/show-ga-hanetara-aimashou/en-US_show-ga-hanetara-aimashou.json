@@ -1,5 +1,9 @@
 {
     "title": "Show ga Hanetara Aimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24635.jpg",
+        "alt": "show-ga-hanetara-aimashou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

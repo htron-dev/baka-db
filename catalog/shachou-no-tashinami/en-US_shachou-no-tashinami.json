@@ -1,5 +1,9 @@
 {
     "title": "Shachou no Tashinami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66329.jpg",
+        "alt": "shachou-no-tashinami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

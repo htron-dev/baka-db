@@ -1,5 +1,9 @@
 {
     "title": "Argate Online",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211413.jpg",
+        "alt": "argate-online"
+    },
     "type": "manga",
     "original_name": "アルゲートオンライン",
     "start_date": "2017-07-04",

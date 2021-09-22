@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Ou-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/63739.jpg",
+        "alt": "boku-wa-ou-sama"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "ぼくは王さま",

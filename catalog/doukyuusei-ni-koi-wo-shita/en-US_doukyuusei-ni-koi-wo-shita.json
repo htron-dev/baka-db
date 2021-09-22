@@ -1,5 +1,9 @@
 {
     "title": "Doukyuusei ni Koi wo Shita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208603.jpg",
+        "alt": "doukyuusei-ni-koi-wo-shita"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190844.jpg",
+        "alt": "gakuen-alice"
+    },
     "type": "manga",
     "volumes": "31",
     "chapters": "183",

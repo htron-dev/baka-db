@@ -1,5 +1,9 @@
 {
     "title": "Blood Lad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138911.jpg",
+        "alt": "blood-lad"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Korokoro Soushi: Ooedo Kisou Tengai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151337.jpg",
+        "alt": "korokoro-soushi-ooedo-kisou-tengai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

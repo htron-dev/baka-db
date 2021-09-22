@@ -1,12 +1,16 @@
 {
     "title": "Tenkai Knights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/74140.jpg",
+        "alt": "tenkai-knights"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "テンカイナイト",
     "start_date": "2014-04-05",
     "end_date": "2014-04-05",
     "opening_song": "\"Get the glory\" by Ayako Nakanomori (中ノ森文子)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shunkan Diamond (瞬間 Diamond)\" by Rurika Yokoyama (eps 1-13)",
     "rating": "G - All Ages",
     "tags": [
         "action",

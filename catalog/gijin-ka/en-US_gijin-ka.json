@@ -1,5 +1,9 @@
 {
     "title": "Gijin-ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164255.jpg",
+        "alt": "gijin-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

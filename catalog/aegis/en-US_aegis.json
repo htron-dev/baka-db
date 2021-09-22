@@ -1,5 +1,9 @@
 {
     "title": "Aegis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203289.jpg",
+        "alt": "aegis"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "AEGIS 이지스",

@@ -1,5 +1,9 @@
 {
     "title": "Oritatabu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227480.jpg",
+        "alt": "oritatabu"
+    },
     "type": "manga",
     "original_name": "おりたたぶ",
     "start_date": "2019-07-09",

@@ -1,5 +1,9 @@
 {
     "title": "Atarashii Kanojo ga Flag wo Oraretara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171361.jpg",
+        "alt": "atarashii-kanojo-ga-flag-wo-oraretara"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

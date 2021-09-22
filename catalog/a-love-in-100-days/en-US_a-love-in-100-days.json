@@ -1,5 +1,9 @@
 {
     "title": "A Love in 100 Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18737.jpg",
+        "alt": "a-love-in-100-days"
+    },
     "type": "manhwa",
     "volumes": "13",
     "original_name": "100일 사랑",

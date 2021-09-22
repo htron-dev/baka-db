@@ -1,5 +1,9 @@
 {
     "title": "Oukoku kara Kita Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163280.jpg",
+        "alt": "oukoku-kara-kita-shounen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Bakuman.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165948.jpg",
+        "alt": "bakuman"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "バクマン。",

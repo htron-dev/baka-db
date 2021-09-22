@@ -1,5 +1,9 @@
 {
     "title": "Hot Blooded Woman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21740.jpg",
+        "alt": "hot-blooded-woman"
+    },
     "type": "manhwa",
     "volumes": "24",
     "chapters": "183",

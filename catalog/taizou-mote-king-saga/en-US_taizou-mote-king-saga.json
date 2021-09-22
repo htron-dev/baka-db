@@ -1,5 +1,9 @@
 {
     "title": "Taizou Mote King Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159354.jpg",
+        "alt": "taizou-mote-king-saga"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "90",

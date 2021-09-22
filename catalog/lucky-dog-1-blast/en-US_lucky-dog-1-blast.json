@@ -1,5 +1,9 @@
 {
     "title": "Lucky Dog 1 Blast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178408.jpg",
+        "alt": "lucky-dog-1-blast"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "49",

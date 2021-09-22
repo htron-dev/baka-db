@@ -1,12 +1,16 @@
 {
     "title": "Witch Hunter Robin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1796/91065.jpg",
+        "alt": "witch-hunter-robin"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "Witch Hunter ROBIN (ウイッチハンターロビン)",
     "start_date": "2002-07-02",
     "end_date": "2002-07-02",
     "opening_song": "\"Shell\" by Bana",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Half Pain\" by Bana (eps 01-14,16-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

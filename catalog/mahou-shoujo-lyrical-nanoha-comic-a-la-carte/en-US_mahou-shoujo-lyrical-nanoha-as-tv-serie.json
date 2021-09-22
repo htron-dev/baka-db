@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Lyrical Nanoha A's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/6767.jpg",
+        "alt": "mahou-shoujo-lyrical-nanoha-as"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "魔法少女リリカルなのは エース",

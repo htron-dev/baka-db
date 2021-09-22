@@ -1,5 +1,9 @@
 {
     "title": "Ju Chong Gongyuan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1426/115334.jpg",
+        "alt": "ju-chong-gongyuan"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "巨虫公园",

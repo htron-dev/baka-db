@@ -1,5 +1,9 @@
 {
     "title": "Fantasista Stella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124841.jpg",
+        "alt": "fantasista-stella"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "134",

@@ -1,5 +1,9 @@
 {
     "title": "Manga Hana no Kakarichou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/53869.jpg",
+        "alt": "manga-hana-no-kakarichou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "まんが花の係長",

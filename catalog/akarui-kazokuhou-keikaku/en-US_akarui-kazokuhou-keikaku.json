@@ -1,5 +1,9 @@
 {
     "title": "Akarui Kazokuhou Keikaku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131699.jpg",
+        "alt": "akarui-kazokuhou-keikaku"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "43",

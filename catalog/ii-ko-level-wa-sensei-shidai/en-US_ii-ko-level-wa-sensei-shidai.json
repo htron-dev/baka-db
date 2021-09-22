@@ -1,5 +1,9 @@
 {
     "title": "Ii Ko Level wa Sensei Shidai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230634.jpg",
+        "alt": "ii-ko-level-wa-sensei-shidai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

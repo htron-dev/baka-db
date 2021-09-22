@@ -1,5 +1,9 @@
 {
     "title": "Slapstick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202395.jpg",
+        "alt": "slapstick"
+    },
     "type": "manga",
     "original_name": "スラップスティック",
     "start_date": "2013-11-25",

@@ -1,5 +1,9 @@
 {
     "title": "Kono Koi to, Sono Mirai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176789.jpg",
+        "alt": "kono-koi-to-sono-mirai"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "74",

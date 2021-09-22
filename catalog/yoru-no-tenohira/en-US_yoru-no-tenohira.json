@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Tenohira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46531.jpg",
+        "alt": "yoru-no-tenohira"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "夜のてのひら",

@@ -1,5 +1,9 @@
 {
     "title": "Nanmu Ichibyousokusai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/7481.jpg",
+        "alt": "nanmu-ichibyousokusai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "南無一病息災",

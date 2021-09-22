@@ -1,11 +1,15 @@
 {
     "title": "Gall Force: Chikyuu Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/26526.jpg",
+        "alt": "gall-force-chikyuu-shou"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ガルフォース地球章",
     "start_date": "1989-12-25",
     "end_date": "1989-12-25",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Broken Heart\" by Noriko Hamada [Earth Chapter I]",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

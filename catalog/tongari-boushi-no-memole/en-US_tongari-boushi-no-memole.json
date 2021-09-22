@@ -1,12 +1,16 @@
 {
     "title": "Tongari Boushi no Memole",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/36819.jpg",
+        "alt": "tongari-boushi-no-memole"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "とんがり帽子のメモル",
     "start_date": "1984-03-03",
     "end_date": "1984-03-03",
     "opening_song": "\"Tongari Boushi no Memoru (とんがり帽子のメモル)\" by Satoko Yamano",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yasashii Tomodachi (優しい友達)\" by Satoko Yamano",
     "rating": "G - All Ages",
     "tags": [
         "fantasy",

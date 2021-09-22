@@ -1,5 +1,9 @@
 {
     "title": "Takako-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225496.jpg",
+        "alt": "takako-san"
+    },
     "type": "manga",
     "original_name": "タカコさん",
     "start_date": "2014-12-20",

@@ -1,5 +1,9 @@
 {
     "title": "Rakia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164508.jpg",
+        "alt": "rakia"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "ラキア",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Disney Resort: Yume ga Kanau Basho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/47557.jpg",
+        "alt": "tokyo-disney-resort-yume-ga-kanau-basho"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "東京ディズニーリゾート TVCM「夢がかなう場所」",

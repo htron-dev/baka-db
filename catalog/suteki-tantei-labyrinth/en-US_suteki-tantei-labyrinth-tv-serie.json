@@ -1,5 +1,9 @@
 {
     "title": "Suteki Tantei Labyrinth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/17592.jpg",
+        "alt": "suteki-tantei-labyrinth"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "素敵探偵 ☆ ラビリンス",

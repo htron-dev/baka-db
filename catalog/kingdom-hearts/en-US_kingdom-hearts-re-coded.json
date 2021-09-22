@@ -1,8 +1,12 @@
 {
     "title": "Kingdom Hearts Re:coded",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158379.jpg",
+        "alt": "kingdom-hearts-re-coded"
+    },
     "type": "light-novel",
     "volumes": "1",
-    "original_name": "キングダム ハーツ Re",
+    "original_name": "キングダム ハーツ Re:コーデッド",
     "start_date": "2011-07-28",
     "tags": [
         "action",

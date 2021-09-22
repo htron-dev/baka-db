@@ -1,5 +1,9 @@
 {
     "title": "Art Gangsta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227319.jpg",
+        "alt": "art-gangsta"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

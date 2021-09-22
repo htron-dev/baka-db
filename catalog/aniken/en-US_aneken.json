@@ -1,5 +1,9 @@
 {
     "title": "Aneken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202398.jpg",
+        "alt": "aneken"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "42",

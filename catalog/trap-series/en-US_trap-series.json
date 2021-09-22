@@ -1,5 +1,9 @@
 {
     "title": "Trap Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155767.jpg",
+        "alt": "trap-series"
+    },
     "type": "light-novel",
     "original_name": "トラップシーリス",
     "start_date": "2002-12-27",

@@ -1,5 +1,9 @@
 {
     "title": "Plus 20cm no Kyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29423.jpg",
+        "alt": "plus-20-cm-no-kyori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

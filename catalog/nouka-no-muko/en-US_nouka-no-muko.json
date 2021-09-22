@@ -1,5 +1,9 @@
 {
     "title": "Nouka no Muko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41209.jpg",
+        "alt": "nouka-no-muko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "3-gatsu no Dai-2 Button",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90069.jpg",
+        "alt": "3-gatsu-no-dai-2-button"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

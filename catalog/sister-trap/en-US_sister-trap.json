@@ -1,5 +1,9 @@
 {
     "title": "Sister Trap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10680.jpg",
+        "alt": "sister-trap"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

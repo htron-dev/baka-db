@@ -1,5 +1,9 @@
 {
     "title": "Dokkaebi Gamtu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/49139.jpg",
+        "alt": "dokkaebi-gamtu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "도깨비 감투",

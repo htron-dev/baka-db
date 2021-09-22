@@ -1,5 +1,9 @@
 {
     "title": "Water.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3988.jpg",
+        "alt": "water"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

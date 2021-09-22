@@ -1,10 +1,14 @@
 {
     "title": "Lupin III: Walther P38",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/72201.jpg",
+        "alt": "lupin-iii-walther-p-38"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン三世『ワルサー P38』",
     "start_date": "1997-08-01",
-    "ending_song": "\"Hitomi wo Wasurenaide (瞳を忘れないで)\" by Elen (CV",
+    "ending_song": "\"Hitomi wo Wasurenaide (瞳を忘れないで)\" by Elen (CV: Emi Shinohara)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

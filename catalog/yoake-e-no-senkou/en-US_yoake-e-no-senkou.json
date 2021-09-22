@@ -1,5 +1,9 @@
 {
     "title": "Yoake e no Senkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150736.jpg",
+        "alt": "yoake-e-no-senkou"
+    },
     "type": "manga",
     "original_name": "夜明けへの閃光",
     "start_date": "2013-10-09",

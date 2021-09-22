@@ -1,5 +1,9 @@
 {
     "title": "Shinigami-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116603.jpg",
+        "alt": "shinigami-kun"
+    },
     "type": "manga",
     "volumes": "13",
     "original_name": "死神くん",

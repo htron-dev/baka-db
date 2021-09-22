@@ -1,5 +1,9 @@
 {
     "title": "Ibara no Namida",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61707.jpg",
+        "alt": "ibara-no-namida"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

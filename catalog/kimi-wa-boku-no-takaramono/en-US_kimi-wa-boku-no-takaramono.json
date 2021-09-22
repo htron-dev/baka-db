@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Boku no Takaramono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44839.jpg",
+        "alt": "kimi-wa-boku-no-takaramono"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キミはボクの宝物",

@@ -1,5 +1,9 @@
 {
     "title": "Toubou Bengoshi Narita Makoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179705.jpg",
+        "alt": "toubou-bengoshi-narita-makoto"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "63",

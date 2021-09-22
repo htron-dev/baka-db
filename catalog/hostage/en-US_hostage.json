@@ -1,5 +1,9 @@
 {
     "title": "Hostage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3890.jpg",
+        "alt": "hostage"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

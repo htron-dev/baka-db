@@ -1,5 +1,9 @@
 {
     "title": "Taiyou no Ko Esteban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/39543.jpg",
+        "alt": "taiyou-no-ko-esteban"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "太陽の子エステバン",

@@ -1,5 +1,9 @@
 {
     "title": "Revenge Online",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175835.jpg",
+        "alt": "revenge-online"
+    },
     "type": "light-novel",
     "original_name": "リベンジ・オンライン",
     "start_date": "2016-05-01",

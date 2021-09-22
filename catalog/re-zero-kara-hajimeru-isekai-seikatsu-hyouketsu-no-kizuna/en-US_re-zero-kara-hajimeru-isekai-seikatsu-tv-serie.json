@@ -1,12 +1,16 @@
 {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/79410.jpg",
+        "alt": "re-zero-kara-hajimeru-isekai-seikatsu"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "Re：ゼロから始める異世界生活",
     "start_date": "2016-04-04",
     "end_date": "2016-04-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Redo\" by Konomi Suzuki (eps 2, 4, 6, 8, 10)",
+    "ending_song": "#1: \"STYX HELIX\" by MYTH & ROID (eps 1-5, 8-11, 25)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "psychological",

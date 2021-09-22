@@ -1,5 +1,9 @@
 {
     "title": "He was Cool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33814.jpg",
+        "alt": "he-was-cool"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "18",

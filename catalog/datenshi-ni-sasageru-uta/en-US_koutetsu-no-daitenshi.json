@@ -1,5 +1,9 @@
 {
     "title": "Koutetsu no Daitenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13983.jpg",
+        "alt": "koutetsu-no-daitenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

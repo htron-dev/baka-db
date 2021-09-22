@@ -1,5 +1,9 @@
 {
     "title": "Boku no Ai wo Shire!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112315.jpg",
+        "alt": "boku-no-ai-wo-shire"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

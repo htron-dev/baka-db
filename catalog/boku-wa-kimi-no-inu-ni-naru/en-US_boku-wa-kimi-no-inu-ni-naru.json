@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Kimi no Inu ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117859.jpg",
+        "alt": "boku-wa-kimi-no-inu-ni-naru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

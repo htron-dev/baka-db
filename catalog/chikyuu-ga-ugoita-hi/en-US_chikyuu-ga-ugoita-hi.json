@@ -1,5 +1,9 @@
 {
     "title": "Chikyuu ga Ugoita Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1943/95714.jpg",
+        "alt": "chikyuu-ga-ugoita-hi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "地球が動いた日",

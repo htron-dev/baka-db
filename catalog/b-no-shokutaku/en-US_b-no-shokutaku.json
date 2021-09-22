@@ -1,5 +1,9 @@
 {
     "title": "B no Shokutaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177993.jpg",
+        "alt": "b-no-shokutaku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

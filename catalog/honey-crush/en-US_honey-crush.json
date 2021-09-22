@@ -1,5 +1,9 @@
 {
     "title": "Honey Crush",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170597.jpg",
+        "alt": "honey-crush"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

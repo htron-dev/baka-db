@@ -1,5 +1,9 @@
 {
     "title": "Non de Poan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161213.jpg",
+        "alt": "non-de-poan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

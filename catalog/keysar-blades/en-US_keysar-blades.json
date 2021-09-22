@@ -1,5 +1,9 @@
 {
     "title": "Keysar;Blades",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159352.jpg",
+        "alt": "keysar-blades"
+    },
     "type": "light-novel",
     "original_name": "ケイサル;ブレイズ",
     "start_date": "2015-06-20",

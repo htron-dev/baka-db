@@ -1,5 +1,9 @@
 {
     "title": "Kyoukai no Kanata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/85468.jpg",
+        "alt": "kyoukai-no-kanata"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "境界の彼方",

@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Kieta Santa-san no Okurimono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/50215.jpg",
+        "alt": "hello-kitty-no-kieta-santa-san-no-okurimono"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのきえたサンタさんのおくりもの",

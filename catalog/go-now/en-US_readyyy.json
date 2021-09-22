@@ -1,5 +1,9 @@
 {
     "title": "Readyyy!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1130/95404.jpg",
+        "alt": "readyyy"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Readyyy!",

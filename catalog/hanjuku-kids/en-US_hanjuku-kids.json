@@ -1,5 +1,9 @@
 {
     "title": "Hanjuku Kids!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166501.jpg",
+        "alt": "hanjuku-kids"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "半熟キッズ!?",

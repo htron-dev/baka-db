@@ -1,5 +1,9 @@
 {
     "title": "Rising Sun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98119.jpg",
+        "alt": "rising-sun"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "121",

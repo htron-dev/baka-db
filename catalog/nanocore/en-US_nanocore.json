@@ -1,5 +1,9 @@
 {
     "title": "Nanocore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/79949.jpg",
+        "alt": "nanocore"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "纳米核心",

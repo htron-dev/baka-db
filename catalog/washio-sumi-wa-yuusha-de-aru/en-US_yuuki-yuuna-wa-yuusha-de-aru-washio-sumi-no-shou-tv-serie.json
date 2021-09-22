@@ -1,12 +1,16 @@
 {
     "title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/83012.jpg",
+        "alt": "yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "結城友奈は勇者である -鷲尾須美の章-",
     "start_date": "2017-10-07",
     "end_date": "2017-10-07",
     "opening_song": "\"Egao no Kimi e (エガオノキミへ)\" by Suzuko Mimori",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tomodachi (ともだち)\" by Sumi Washio (Suzuko Mimori), Sonoko Nogi (Kana Hanazawa), Gin Minowa (Yumiri Hanamori) (eps 2, 3, 5)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

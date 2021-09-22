@@ -1,5 +1,9 @@
 {
     "title": "Shippo no Kimochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33413.jpg",
+        "alt": "shippo-no-kimochi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "しっぽのきもち",

@@ -1,5 +1,9 @@
 {
     "title": "Momo Momo Momota-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174530.jpg",
+        "alt": "momo-momo-momota-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "37",

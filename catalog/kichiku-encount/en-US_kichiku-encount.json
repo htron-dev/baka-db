@@ -1,5 +1,9 @@
 {
     "title": "Kichiku, Encount",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155675.jpg",
+        "alt": "kichiku-encount"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

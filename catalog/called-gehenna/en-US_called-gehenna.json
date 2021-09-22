@@ -1,5 +1,9 @@
 {
     "title": "Called Gehenna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112813.jpg",
+        "alt": "called-gehenna"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "コールド・ゲヘナ",

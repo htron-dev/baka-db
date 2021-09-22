@@ -1,5 +1,9 @@
 {
     "title": "Metamorphose no Engawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216348.jpg",
+        "alt": "metamorphose-no-engawa"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "52",

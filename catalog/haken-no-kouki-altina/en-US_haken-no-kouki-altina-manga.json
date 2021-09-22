@@ -1,5 +1,9 @@
 {
     "title": "Haken no Kouki Altina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159593.jpg",
+        "alt": "haken-no-kouki-altina"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

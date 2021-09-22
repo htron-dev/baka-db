@@ -1,5 +1,9 @@
 {
     "title": "Dokumushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165110.jpg",
+        "alt": "dokumushi"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ドクムシ",

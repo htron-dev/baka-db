@@ -1,5 +1,9 @@
 {
     "title": "Hoshikuzu Telepath",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235166.jpg",
+        "alt": "hoshikuzu-telepath"
+    },
     "type": "manga",
     "original_name": "星屑テレパス",
     "start_date": "2019-06-09",

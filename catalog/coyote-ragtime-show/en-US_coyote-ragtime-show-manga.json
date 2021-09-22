@@ -1,5 +1,9 @@
 {
     "title": "Coyote Ragtime Show",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76243.jpg",
+        "alt": "coyote-ragtime-show"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

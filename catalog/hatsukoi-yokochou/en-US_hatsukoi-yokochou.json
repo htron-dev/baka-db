@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Yokochou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82200.jpg",
+        "alt": "hatsukoi-yokochou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

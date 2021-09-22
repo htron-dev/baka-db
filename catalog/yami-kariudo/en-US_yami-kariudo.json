@@ -1,5 +1,9 @@
 {
     "title": "Yami Kariudo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171242.jpg",
+        "alt": "yami-kariudo"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Red Ash: Gearworld",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/80222.jpg",
+        "alt": "red-ash-gearworld"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Red Ash -GEARWORLD-",

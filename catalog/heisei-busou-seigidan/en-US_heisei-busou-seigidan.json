@@ -1,5 +1,9 @@
 {
     "title": "Heisei Busou Seigidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40839.jpg",
+        "alt": "heisei-busou-seigidan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

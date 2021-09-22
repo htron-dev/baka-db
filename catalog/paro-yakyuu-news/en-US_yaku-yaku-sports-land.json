@@ -1,5 +1,9 @@
 {
     "title": "Yaku Yaku Sports Land",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156786.jpg",
+        "alt": "yaku-yaku-sports-land"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "To the Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1718/92971.jpg",
+        "alt": "to-the-moon"
+    },
     "type": "movie",
     "episodes": "1",
     "rating": "None",

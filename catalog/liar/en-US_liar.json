@@ -1,5 +1,9 @@
 {
     "title": "Liar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196917.jpg",
+        "alt": "liar"
+    },
     "type": "manga",
     "original_name": "liar",
     "start_date": "2015-03-16",

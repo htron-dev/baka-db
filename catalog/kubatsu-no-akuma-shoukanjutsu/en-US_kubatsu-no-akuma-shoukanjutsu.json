@@ -1,5 +1,9 @@
 {
     "title": "Kubatsu no Akuma Shoukanjutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123599.jpg",
+        "alt": "kubatsu-no-akuma-shoukanjutsu"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "九罰の悪魔召喚術",

@@ -1,5 +1,9 @@
 {
     "title": "Big Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78945.jpg",
+        "alt": "big-order"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ビッグオーダー",

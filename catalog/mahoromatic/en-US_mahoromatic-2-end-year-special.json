@@ -1,5 +1,9 @@
 {
     "title": "Mahoromatic 2 End Year Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/9745.jpg",
+        "alt": "mahoromatic-2-end-year-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "歳末スペシャル",

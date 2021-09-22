@@ -1,5 +1,9 @@
 {
     "title": "Teke-Teke★Rendezvous",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203006.jpg",
+        "alt": "teke-teke★-rendezvous"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

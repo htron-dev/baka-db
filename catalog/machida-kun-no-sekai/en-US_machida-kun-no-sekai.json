@@ -1,5 +1,9 @@
 {
     "title": "Machida-kun no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168062.jpg",
+        "alt": "machida-kun-no-sekai"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "28",

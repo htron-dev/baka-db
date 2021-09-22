@@ -1,5 +1,9 @@
 {
     "title": "Fractale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/67741.jpg",
+        "alt": "fractale"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Bijin, Hajimemashita!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191963.jpg",
+        "alt": "bijin-hajimemashita"
+    },
     "type": "manga",
     "original_name": "美人、はじめました!",
     "start_date": "2015-05-22",

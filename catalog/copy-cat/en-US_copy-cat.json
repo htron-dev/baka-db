@@ -1,5 +1,9 @@
 {
     "title": "Copy Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2685.jpg",
+        "alt": "copy-cat"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

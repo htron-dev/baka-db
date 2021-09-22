@@ -1,5 +1,9 @@
 {
     "title": "Koi to wa Yobenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150546.jpg",
+        "alt": "koi-to-wa-yobenai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

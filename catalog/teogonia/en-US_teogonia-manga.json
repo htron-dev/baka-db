@@ -1,5 +1,9 @@
 {
     "title": "Teogonia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236881.jpg",
+        "alt": "teogonia"
+    },
     "type": "manga",
     "original_name": "神統記 〈テオゴニア〉",
     "start_date": "2018-04-06",

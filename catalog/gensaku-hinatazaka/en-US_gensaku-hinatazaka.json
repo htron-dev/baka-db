@@ -1,5 +1,9 @@
 {
     "title": "Gensaku Hinatazaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242818.jpg",
+        "alt": "gensaku-hinatazaka"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "げんさく ひなたざか",

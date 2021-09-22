@@ -1,5 +1,9 @@
 {
     "title": "Oh! My Konbu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130803.jpg",
+        "alt": "oh-my-konbu"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "OH!MY コンブ",

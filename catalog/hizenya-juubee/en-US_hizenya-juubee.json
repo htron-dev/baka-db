@@ -1,5 +1,9 @@
 {
     "title": "Hizenya Juubee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/97053.jpg",
+        "alt": "hizenya-juubee"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Akagi Familia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178050.jpg",
+        "alt": "akagi-familia"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

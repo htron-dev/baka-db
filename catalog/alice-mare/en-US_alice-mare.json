@@ -1,5 +1,9 @@
 {
     "title": "Alice mare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208567.jpg",
+        "alt": "alice-mare"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

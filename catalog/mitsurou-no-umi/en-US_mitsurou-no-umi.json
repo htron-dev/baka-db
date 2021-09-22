@@ -1,5 +1,9 @@
 {
     "title": "Mitsurou no Umi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184918.jpg",
+        "alt": "mitsurou-no-umi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "1",

@@ -1,5 +1,9 @@
 {
     "title": "Hatsune Miku - Project DIVA: Omnibus Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128181.jpg",
+        "alt": "hatsune-miku-project-diva-omnibus-comic"
+    },
     "type": "manga",
     "original_name": "初音ミク -Project DIVA- オムニバスコミック",
     "start_date": "2014-06-10",

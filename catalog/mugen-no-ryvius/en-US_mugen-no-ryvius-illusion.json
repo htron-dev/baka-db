@@ -1,5 +1,9 @@
 {
     "title": "Mugen no Ryvius: Illusion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/37031.jpg",
+        "alt": "mugen-no-ryvius-illusion"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "無限のリヴァイアス イリュージョン",

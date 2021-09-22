@@ -1,5 +1,9 @@
 {
     "title": "Samurai Champloo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/56743.jpg",
+        "alt": "samurai-champloo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

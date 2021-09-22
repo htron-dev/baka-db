@@ -1,5 +1,9 @@
 {
     "title": "Ginga Patrol Jaco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120565.jpg",
+        "alt": "ginga-patrol-jaco"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

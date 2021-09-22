@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Savanna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39523.jpg",
+        "alt": "koisuru-savanna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

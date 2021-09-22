@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Kyojin: Ano Hi Kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/51715.jpg",
+        "alt": "shingeki-no-kyojin-ano-hi-kara"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "進撃の巨人 総集編「あの日から」",

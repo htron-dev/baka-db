@@ -1,5 +1,9 @@
 {
     "title": "Kaichou-san Chi no Koneko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82716.jpg",
+        "alt": "kaichou-san-chi-no-koneko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

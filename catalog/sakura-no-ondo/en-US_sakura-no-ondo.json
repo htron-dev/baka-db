@@ -1,5 +1,9 @@
 {
     "title": "Sakura no Ondo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/42283.jpg",
+        "alt": "sakura-no-ondo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "桜の温度",

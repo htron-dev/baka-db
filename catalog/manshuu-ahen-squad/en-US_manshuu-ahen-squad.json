@@ -1,5 +1,9 @@
 {
     "title": "Manshuu Ahen Squad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235098.jpg",
+        "alt": "manshuu-ahen-squad"
+    },
     "type": "manga",
     "original_name": "満州アヘンスクワッド",
     "start_date": "2020-04-09",

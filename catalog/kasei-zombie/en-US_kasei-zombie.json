@@ -1,5 +1,9 @@
 {
     "title": "Kasei Zombie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211708.jpg",
+        "alt": "kasei-zombie"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

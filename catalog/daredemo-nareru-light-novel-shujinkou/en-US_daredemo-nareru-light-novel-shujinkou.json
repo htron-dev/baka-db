@@ -1,5 +1,9 @@
 {
     "title": "Daredemo Nareru! Light Novel Shujinkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201274.jpg",
+        "alt": "daredemo-nareru-light-novel-shujinkou"
+    },
     "type": "light-novel",
     "original_name": "誰でもなれる！ラノベ主人公",
     "start_date": "2017-10-07",

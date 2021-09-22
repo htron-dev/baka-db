@@ -1,5 +1,9 @@
 {
     "title": "Aoi-san wa 16-sai Toshishita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244481.jpg",
+        "alt": "aoi-san-wa-16-sai-toshishita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

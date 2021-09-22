@@ -1,5 +1,9 @@
 {
     "title": "K: Beautiful Pieces",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229884.jpg",
+        "alt": "k-beautiful-pieces"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

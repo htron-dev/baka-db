@@ -1,5 +1,9 @@
 {
     "title": "Sasuga no Sarutobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18574.jpg",
+        "alt": "sasuga-no-sarutobi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "46",

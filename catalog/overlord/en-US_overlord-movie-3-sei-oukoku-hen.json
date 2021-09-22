@@ -1,5 +1,9 @@
 {
     "title": "Overlord Movie 3: Sei Oukoku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1291/115177.jpg",
+        "alt": "overlord-movie-3-sei-oukoku-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "OVERLORD 聖王国編",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Overlord_(novel_series"
+            "link": "https://en.wikipedia.org/wiki/Overlord_%28novel_series%29#Anime"
         }
     ]
 }

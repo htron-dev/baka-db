@@ -1,5 +1,9 @@
 {
     "title": "Pianoman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1219/106730.jpg",
+        "alt": "pianoman"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "PIANOMAN",

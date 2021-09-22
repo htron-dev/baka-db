@@ -1,5 +1,9 @@
 {
     "title": "G.R.M.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1475/115169.jpg",
+        "alt": "g-r-m"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "G.R.M.",

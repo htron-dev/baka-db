@@ -1,5 +1,9 @@
 {
     "title": "Kaminaru Hime no Innocence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163224.jpg",
+        "alt": "kaminaru-hime-no-innocence"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "31",

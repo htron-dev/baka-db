@@ -1,5 +1,9 @@
 {
     "title": "Mahouka Koukou no Rettousei: Nyuugaku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120981.jpg",
+        "alt": "mahouka-koukou-no-rettousei-nyuugaku-hen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

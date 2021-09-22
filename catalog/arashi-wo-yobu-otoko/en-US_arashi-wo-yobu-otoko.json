@@ -1,5 +1,9 @@
 {
     "title": "Arashi wo Yobu Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181481.jpg",
+        "alt": "arashi-wo-yobu-otoko"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

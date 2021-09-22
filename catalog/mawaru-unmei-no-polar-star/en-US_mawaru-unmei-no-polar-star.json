@@ -1,5 +1,9 @@
 {
     "title": "Mawaru Unmei no Polar Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160797.jpg",
+        "alt": "mawaru-unmei-no-polar-star"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

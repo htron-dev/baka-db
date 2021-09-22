@@ -1,5 +1,9 @@
 {
     "title": "Columbos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1962/110946.jpg",
+        "alt": "columbos"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "コロンボス",

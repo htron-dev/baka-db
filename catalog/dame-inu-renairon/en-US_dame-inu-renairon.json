@@ -1,5 +1,9 @@
 {
     "title": "Dame Inu Renairon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207432.jpg",
+        "alt": "dame-inu-renairon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

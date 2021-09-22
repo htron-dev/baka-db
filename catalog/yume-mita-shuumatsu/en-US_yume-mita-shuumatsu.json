@@ -1,5 +1,9 @@
 {
     "title": "Yume Mita Shuumatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30478.jpg",
+        "alt": "yume-mita-shuumatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

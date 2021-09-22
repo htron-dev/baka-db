@@ -1,5 +1,9 @@
 {
     "title": "Shonan Bakusouzoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/75369.jpg",
+        "alt": "shonan-bakusouzoku"
+    },
     "type": "manga",
     "volumes": "16",
     "original_name": "湘南爆走族",

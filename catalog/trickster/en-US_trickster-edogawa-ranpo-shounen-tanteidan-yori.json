@@ -1,12 +1,16 @@
 {
     "title": "Trickster: Edogawa Ranpo \"Shounen Tanteidan\" yori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/81133.jpg",
+        "alt": "trickster-edogawa-ranpo-shounen-tanteidan-yori"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "TRICKSTER -江戸川乱歩「少年探偵団」より-",
     "start_date": "2016-10-04",
     "end_date": "2016-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kimi dake no Boku de Iru kara (キミだけのボクでいるから)\" by GACKT (eps 1-12)",
+    "ending_song": "#1: \"1HOPE SNIPER\" by Azusa Tadokoro (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

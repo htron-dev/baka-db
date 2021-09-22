@@ -1,5 +1,9 @@
 {
     "title": "Hime Habaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78731.jpg",
+        "alt": "hime-habaki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Boku ga Kanojo ni Kiseichuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129855.jpg",
+        "alt": "boku-ga-kanojo-ni-kiseichuu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "僕が彼女に寄生中",

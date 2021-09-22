@@ -1,5 +1,9 @@
 {
     "title": "Gaishuu Isshoku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210744.jpg",
+        "alt": "gaishuu-isshoku"
+    },
     "type": "manga",
     "original_name": "ガイシューイッショク！",
     "start_date": "2017-05-26",

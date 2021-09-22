@@ -1,5 +1,9 @@
 {
     "title": "Animatope",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1335/101673.jpg",
+        "alt": "animatope"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Animatope",

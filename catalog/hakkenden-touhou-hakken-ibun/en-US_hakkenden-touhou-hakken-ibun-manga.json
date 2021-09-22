@@ -1,5 +1,9 @@
 {
     "title": "Hakkenden: Touhou Hakken Ibun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/70041.jpg",
+        "alt": "hakkenden-touhou-hakken-ibun"
+    },
     "type": "manga",
     "original_name": "八犬伝―東方八犬異聞―",
     "start_date": "2005-06-20",

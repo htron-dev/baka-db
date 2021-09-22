@@ -1,5 +1,9 @@
 {
     "title": "4-koma Chibi Maruko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234241.jpg",
+        "alt": "4-koma-chibi-maruko-chan"
+    },
     "type": "manga",
     "volumes": "13",
     "original_name": "4 コマちびまる子ちゃん",

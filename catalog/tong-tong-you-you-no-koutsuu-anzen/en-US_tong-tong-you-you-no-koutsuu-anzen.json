@@ -1,5 +1,9 @@
 {
     "title": "Tong Tong - You You no Koutsuu Anzen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1506/99040.jpg",
+        "alt": "tong-tong-you-you-no-koutsuu-anzen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "トントン・ユウユウの交通安全",
@@ -18,7 +22,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%88%E3%83%B3_(%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%91%E3%83%B3%E3%83%80"
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%88%E3%83%B3_%28%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%91%E3%83%B3%E3%83%80%29"
         }
     ]
 }

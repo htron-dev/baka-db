@@ -1,5 +1,9 @@
 {
     "title": "Todenka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45833.jpg",
+        "alt": "todenka"
+    },
     "type": "manga",
     "original_name": "とでんか",
     "tags": [

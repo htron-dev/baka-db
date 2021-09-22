@@ -1,5 +1,9 @@
 {
     "title": "Akuyaku Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166015.jpg",
+        "alt": "akuyaku-cinderella"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

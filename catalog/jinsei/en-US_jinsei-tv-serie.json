@@ -1,12 +1,16 @@
 {
     "title": "Jinsei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/64299.jpg",
+        "alt": "jinsei"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "人生相談テレビアニメーション「人生」",
     "start_date": "2014-07-06",
     "end_date": "2014-07-06",
     "opening_song": "\"Dekoboko Kaiketsu Sensation (凸凹[でこぼこ]解決せんせーしょん)\" by Ayame Tajiri and Yurika Takahashi",
-    "ending_song": "\"Jinsei☆Kimiiro (人生 ☆ キミ色)\" by Jinseiz (じんせーず) [Rino Endou (CV",
+    "ending_song": "\"Jinsei☆Kimiiro (人生 ☆ キミ色)\" by Jinseiz (じんせーず) [Rino Endou (CV: Hiyori Nitta), Fumi Kujou (CV: Moe Toyota), Ikumi Suzuki (CV: Ayaka Suwa)]",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

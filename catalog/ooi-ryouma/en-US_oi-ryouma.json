@@ -1,5 +1,9 @@
 {
     "title": "Oi! Ryouma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/71603.jpg",
+        "alt": "oi-ryouma"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "お〜い!竜馬",

@@ -1,5 +1,9 @@
 {
     "title": "M☆G☆Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10717.jpg",
+        "alt": "m☆g☆-darling"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

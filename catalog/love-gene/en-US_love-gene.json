@@ -1,5 +1,9 @@
 {
     "title": "Love Gene!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125083.jpg",
+        "alt": "love-gene"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "らぶジェネ!",

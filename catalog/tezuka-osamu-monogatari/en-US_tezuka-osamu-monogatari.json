@@ -1,5 +1,9 @@
 {
     "title": "Tezuka Osamu Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207036.jpg",
+        "alt": "tezuka-osamu-monogatari"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "手塚治虫物語",

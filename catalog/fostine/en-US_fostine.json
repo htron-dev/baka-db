@@ -1,5 +1,9 @@
 {
     "title": "Fostine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21058.jpg",
+        "alt": "fostine"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "フォスティーヌ",

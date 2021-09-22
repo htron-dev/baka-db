@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Mew Mew Olé​!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229138.jpg",
+        "alt": "tokyo-mew-mew-ole"
+    },
     "type": "manga",
     "original_name": "東京ミュウミュウ オーレ!",
     "start_date": "2019-11-30",

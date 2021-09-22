@@ -1,5 +1,9 @@
 {
     "title": "Utsukushii Yasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183522.jpg",
+        "alt": "utsukushii-yasai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

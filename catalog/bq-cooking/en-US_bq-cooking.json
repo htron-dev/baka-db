@@ -1,5 +1,9 @@
 {
     "title": "BQ Cooking!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175248.jpg",
+        "alt": "bq-cooking"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

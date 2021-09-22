@@ -1,12 +1,16 @@
 {
     "title": "Glass no Kamen (2005)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2043.jpg",
+        "alt": "glass-no-kamen-2005"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ガラスの仮面 (2005)",
     "start_date": "2005-04-06",
     "end_date": "2005-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Promise\" by Candy (eps 1-26)",
+    "ending_song": "#1: \"Yasashii Sayonara\" by Aina (eps 1-13)",
     "rating": "G - All Ages",
     "tags": [
         "drama",

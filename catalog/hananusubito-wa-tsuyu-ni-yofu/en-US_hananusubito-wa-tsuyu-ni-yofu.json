@@ -1,5 +1,9 @@
 {
     "title": "Hananusubito wa Tsuyu ni Yofu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/119249.jpg",
+        "alt": "hananusubito-wa-tsuyu-ni-yofu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

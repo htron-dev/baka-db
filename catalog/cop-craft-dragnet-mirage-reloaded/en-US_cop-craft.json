@@ -1,5 +1,9 @@
 {
     "title": "Cop Craft",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1365/103219.jpg",
+        "alt": "cop-craft"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "COP CRAFT [コップクラフト]",

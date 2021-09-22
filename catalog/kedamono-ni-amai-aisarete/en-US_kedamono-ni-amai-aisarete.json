@@ -1,5 +1,9 @@
 {
     "title": "Kedamono ni Amai Aisarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7498.jpg",
+        "alt": "kedamono-ni-amai-aisarete"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ケダモノに甘く愛されて",

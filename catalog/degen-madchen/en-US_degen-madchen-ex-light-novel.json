@@ -1,5 +1,9 @@
 {
     "title": "Degen Mädchen EX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159296.jpg",
+        "alt": "degen-madchen-ex"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

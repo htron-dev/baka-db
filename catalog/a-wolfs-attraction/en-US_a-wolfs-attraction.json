@@ -1,5 +1,9 @@
 {
     "title": "A Wolf's Attraction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7932.jpg",
+        "alt": "a-wolfs-attraction"
+    },
     "type": "manhwa",
     "volumes": "2",
     "tags": [

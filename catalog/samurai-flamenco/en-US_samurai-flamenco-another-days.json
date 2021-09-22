@@ -1,5 +1,9 @@
 {
     "title": "Samurai Flamenco: Another Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132977.jpg",
+        "alt": "samurai-flamenco-another-days"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

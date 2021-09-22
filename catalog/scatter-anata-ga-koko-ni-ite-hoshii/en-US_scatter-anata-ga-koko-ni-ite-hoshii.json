@@ -1,5 +1,9 @@
 {
     "title": "Scatter: Anata ga Koko ni Ite Hoshii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189738.jpg",
+        "alt": "scatter-anata-ga-koko-ni-ite-hoshii"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "50",

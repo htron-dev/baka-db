@@ -1,5 +1,9 @@
 {
     "title": "Bishounen Moraimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12442.jpg",
+        "alt": "bishounen-moraimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

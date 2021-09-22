@@ -1,5 +1,9 @@
 {
     "title": "Ichigo no Ouji to Entremets",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166134.jpg",
+        "alt": "ichigo-no-ouji-to-entremets"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

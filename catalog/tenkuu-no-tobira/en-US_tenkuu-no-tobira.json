@@ -1,5 +1,9 @@
 {
     "title": "Tenkuu no Tobira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158017.jpg",
+        "alt": "tenkuu-no-tobira"
+    },
     "type": "manga",
     "original_name": "天空の扉",
     "start_date": "2011-06-09",

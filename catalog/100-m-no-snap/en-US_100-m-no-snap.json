@@ -1,5 +1,9 @@
 {
     "title": "100M no Snap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197220.jpg",
+        "alt": "100-m-no-snap"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "100M のスナップ",

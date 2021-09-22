@@ -1,5 +1,9 @@
 {
     "title": "Line Offline: Salaryman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/45518.jpg",
+        "alt": "line-offline-salaryman"
+    },
     "type": "tv-serie",
     "episodes": "114",
     "original_name": "ＬＩＮＥ ＯＦＦＬＩＮＥ サラリーマン",

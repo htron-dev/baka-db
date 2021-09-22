@@ -1,11 +1,15 @@
 {
     "title": "Akkun to Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1404/90601.jpg",
+        "alt": "akkun-to-kanojo"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "あっくんとカノジョ",
     "start_date": "2018-04-06",
     "end_date": "2018-04-06",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Koi no Balloon (恋のバルーン)\" by Haruna Ooshima (大島はるな) (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

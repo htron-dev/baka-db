@@ -1,5 +1,9 @@
 {
     "title": "Confeito Darling ♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5997.jpg",
+        "alt": "confeito-darling-♪"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

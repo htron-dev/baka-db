@@ -1,5 +1,9 @@
 {
     "title": "Tsuki to Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243821.jpg",
+        "alt": "tsuki-to-usagi"
+    },
     "type": "manga",
     "original_name": "ツキトウサギ",
     "start_date": "2021-01-02",

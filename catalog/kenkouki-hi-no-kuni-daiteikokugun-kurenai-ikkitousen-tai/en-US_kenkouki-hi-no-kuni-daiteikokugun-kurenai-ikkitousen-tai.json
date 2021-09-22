@@ -1,5 +1,9 @@
 {
     "title": "Kenkouki: Hi no Kuni Daiteikokugun Kurenai Ikkitousen-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163573.jpg",
+        "alt": "kenkouki-hi-no-kuni-daiteikokugun-kurenai-ikkitousen-tai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Galkon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181508.jpg",
+        "alt": "galkon"
+    },
     "type": "light-novel",
     "original_name": "ギャルこん!",
     "start_date": "2016-09-02",

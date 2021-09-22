@@ -1,5 +1,9 @@
 {
     "title": "Doraemon: It's Summer!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1744/109537.jpg",
+        "alt": "doraemon-its-summer"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "夏だ！一番ドラえもん祭り",

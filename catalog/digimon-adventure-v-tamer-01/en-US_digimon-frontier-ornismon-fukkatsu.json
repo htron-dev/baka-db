@@ -1,5 +1,9 @@
 {
     "title": "Digimon Frontier: Ornismon Fukkatsu!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/4416.jpg",
+        "alt": "digimon-frontier-ornismon-fukkatsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "デジモンフロンティア 古代デジモン（オニスモン）復活！！",

@@ -1,5 +1,9 @@
 {
     "title": "Otonanajimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225000.jpg",
+        "alt": "otonanajimi"
+    },
     "type": "manga",
     "original_name": "おとななじみ",
     "start_date": "2019-03-28",

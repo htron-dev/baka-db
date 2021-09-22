@@ -1,5 +1,9 @@
 {
     "title": "Rental Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25286.jpg",
+        "alt": "rental-love"
+    },
     "type": "manhwa",
     "volumes": "8",
     "original_name": "사랑 대여점",

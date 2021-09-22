@@ -1,5 +1,9 @@
 {
     "title": "Clannad: Tomoyo Dearest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34937.jpg",
+        "alt": "clannad-tomoyo-dearest"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

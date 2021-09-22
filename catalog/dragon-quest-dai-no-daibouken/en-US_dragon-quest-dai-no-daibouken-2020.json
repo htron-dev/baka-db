@@ -1,10 +1,14 @@
 {
     "title": "Dragon Quest: Dai no Daibouken (2020)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1499/109126.jpg",
+        "alt": "dragon-quest-dai-no-daibouken-2020"
+    },
     "type": "tv-serie",
     "original_name": "ドラゴンクエスト ダイの大冒険",
     "start_date": "2020-10-03",
     "opening_song": "\"Ikiru wo Suru (生きるをする)\" by Macaroni Empitsu (マカロニえんぴつ)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"mother\" by Macaroni Empitsu (マカロニえんぴつ) (eps 1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Dragon_Quest:_The_Adventure_of_Dai_(2020_TV_series"
+            "link": "https://en.wikipedia.org/wiki/Dragon_Quest:_The_Adventure_of_Dai_%282020_TV_series%29"
         }
     ]
 }

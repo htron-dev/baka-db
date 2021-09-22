@@ -1,5 +1,9 @@
 {
     "title": "Picotopia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/56913.jpg",
+        "alt": "picotopia"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ピコトピア",

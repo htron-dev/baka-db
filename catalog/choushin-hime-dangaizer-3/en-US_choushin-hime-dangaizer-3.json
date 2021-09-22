@@ -1,12 +1,16 @@
 {
     "title": "Choushin Hime Dangaizer 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/15185.jpg",
+        "alt": "choushin-hime-dangaizer-3"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "超神姫ダンガイザー 3",
     "start_date": "1999-10-08",
     "end_date": "1999-10-08",
     "opening_song": "\"Neo Evolution\" by Haruna Ikezawa, Akiko Kimura, and Houko Kuwashima",
-    "ending_song": "\"Alive",
+    "ending_song": "\"Alive: Watashi wa Koko ni Iru (Alive~私はここにいる~)\" by Haruna Ikezawa",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "adventure",

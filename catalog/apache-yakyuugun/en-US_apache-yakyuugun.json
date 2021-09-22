@@ -1,5 +1,9 @@
 {
     "title": "Apache Yakyuugun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/78281.jpg",
+        "alt": "apache-yakyuugun"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "アパッチ野球軍",

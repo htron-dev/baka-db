@@ -1,5 +1,9 @@
 {
     "title": "Koi-iro Rain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206262.jpg",
+        "alt": "koi-iro-rain"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

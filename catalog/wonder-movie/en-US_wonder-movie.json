@@ -1,5 +1,9 @@
 {
     "title": "Wonder (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/67977.jpg",
+        "alt": "wonder-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "WONDER",

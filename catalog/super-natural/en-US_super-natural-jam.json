@@ -1,5 +1,9 @@
 {
     "title": "Super Natural/Jam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209919.jpg",
+        "alt": "super-natural-jam"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

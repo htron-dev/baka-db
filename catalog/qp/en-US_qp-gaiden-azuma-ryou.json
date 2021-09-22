@@ -1,5 +1,9 @@
 {
     "title": "QP Gaiden: Azuma Ryou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227967.jpg",
+        "alt": "qp-gaiden-azuma-ryou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

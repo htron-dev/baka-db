@@ -1,5 +1,9 @@
 {
     "title": "Ikebukuro-hatsu, Zensekai-yuki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188900.jpg",
+        "alt": "ikebukuro-hatsu-zensekai-yuki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

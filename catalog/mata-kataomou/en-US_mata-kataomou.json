@@ -1,5 +1,9 @@
 {
     "title": "Mata, Kataomou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193279.jpg",
+        "alt": "mata-kataomou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

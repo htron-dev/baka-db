@@ -1,5 +1,9 @@
 {
     "title": "Kinjirareta Taion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/98789.jpg",
+        "alt": "kinjirareta-taion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

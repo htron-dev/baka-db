@@ -1,5 +1,9 @@
 {
     "title": "Blue Inferior",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77263.jpg",
+        "alt": "blue-inferior"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

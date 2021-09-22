@@ -1,5 +1,9 @@
 {
     "title": "Karakuri Douji Ultimo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161533.jpg",
+        "alt": "karakuri-douji-ultimo"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "54",

@@ -1,5 +1,9 @@
 {
     "title": "Bishoujo Senshi Sailor Moon Crystal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/60085.jpg",
+        "alt": "bishoujo-senshi-sailor-moon-crystal"
+    },
     "type": "ona",
     "episodes": "26",
     "original_name": "美少女戦士セーラームーン Crystal",

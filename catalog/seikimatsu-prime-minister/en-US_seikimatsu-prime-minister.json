@@ -1,5 +1,9 @@
 {
     "title": "Seikimatsu Prime Minister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30381.jpg",
+        "alt": "seikimatsu-prime-minister"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

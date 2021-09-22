@@ -1,5 +1,9 @@
 {
     "title": "Paranoia Cage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162093.jpg",
+        "alt": "paranoia-cage"
+    },
     "type": "manga",
     "original_name": "ぱらのいあけ〜じ",
     "start_date": "2013-12-10",

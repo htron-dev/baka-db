@@ -1,5 +1,9 @@
 {
     "title": "Ebisu Ginza Tengoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168716.jpg",
+        "alt": "ebisu-ginza-tengoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

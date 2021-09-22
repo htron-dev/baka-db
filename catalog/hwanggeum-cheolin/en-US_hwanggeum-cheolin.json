@@ -1,5 +1,9 @@
 {
     "title": "Hwanggeum Cheolin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/45148.jpg",
+        "alt": "hwanggeum-cheolin"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "황금철인",

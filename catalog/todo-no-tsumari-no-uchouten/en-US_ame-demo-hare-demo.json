@@ -1,5 +1,9 @@
 {
     "title": "Ame demo Hare demo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235586.jpg",
+        "alt": "ame-demo-hare-demo"
+    },
     "type": "manga",
     "original_name": "雨でも晴れでも",
     "start_date": "2019-12-26",

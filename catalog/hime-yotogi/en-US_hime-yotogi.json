@@ -1,5 +1,9 @@
 {
     "title": "Hime Yotogi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61275.jpg",
+        "alt": "hime-yotogi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

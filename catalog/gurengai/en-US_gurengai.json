@@ -1,5 +1,9 @@
 {
     "title": "Gurengai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206005.jpg",
+        "alt": "gurengai"
+    },
     "type": "manga",
     "original_name": "愚連街",
     "start_date": "2017-08-16",

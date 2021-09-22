@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Mata, Kimi ni Sayonara no Kazu wo Miru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236165.jpg",
+        "alt": "boku-wa-mata-kimi-ni-sayonara-no-kazu-wo-miru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

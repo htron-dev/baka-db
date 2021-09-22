@@ -1,5 +1,9 @@
 {
     "title": "Gensei Ayakashi Kenbunroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33228.jpg",
+        "alt": "gensei-ayakashi-kenbunroku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "現世妖見聞録",

@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Minna Uso Bakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227622.jpg",
+        "alt": "bokura-wa-minna-uso-bakari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

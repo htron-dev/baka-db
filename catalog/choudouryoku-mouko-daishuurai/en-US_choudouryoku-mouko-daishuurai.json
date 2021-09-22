@@ -1,5 +1,9 @@
 {
     "title": "Choudouryoku Mouko Daishuurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154852.jpg",
+        "alt": "choudouryoku-mouko-daishuurai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

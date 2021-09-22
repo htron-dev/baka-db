@@ -1,5 +1,9 @@
 {
     "title": "Persona 3 Comic Anthology: Memento Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12884.jpg",
+        "alt": "persona-3-comic-anthology-memento-mori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

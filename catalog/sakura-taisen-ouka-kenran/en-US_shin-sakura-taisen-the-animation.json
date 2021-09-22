@@ -1,12 +1,16 @@
 {
     "title": "Shin Sakura Taisen the Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1341/105735.jpg",
+        "alt": "shin-sakura-taisen-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "新サクラ大戦 the Animation",
     "start_date": "2020-04-03",
     "end_date": "2020-04-03",
-    "opening_song": "\"Geki! Teikoku Kagekidan - Shinsho (檄!帝国華撃団<新章>)\" Teikoku Kagegi Dan",
-    "ending_song": "\"Sakura Yumemishi (桜夢見し)\" by Teikoku Kagegi Dan",
+    "opening_song": "\"Geki! Teikoku Kagekidan - Shinsho (檄!帝国華撃団<新章>)\" Teikoku Kagegi Dan: Hanagumi (帝国歌劇団・花組) (CV: Ayane Sakura, Saori Hayami, Ayaka Fukuhara, Hibiku Yamamura and Maaya Uchida)",
+    "ending_song": "\"Sakura Yumemishi (桜夢見し)\" by Teikoku Kagegi Dan: Hanagumi (帝国歌劇団・花組) (CV: Nana Mizuki, Manami Numakura and Sumire Uesaka)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

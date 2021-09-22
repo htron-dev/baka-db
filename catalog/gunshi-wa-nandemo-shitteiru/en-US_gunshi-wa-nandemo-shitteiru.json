@@ -1,5 +1,9 @@
 {
     "title": "Gunshi wa Nandemo Shitteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161913.jpg",
+        "alt": "gunshi-wa-nandemo-shitteiru"
+    },
     "type": "light-novel",
     "original_name": "軍師は何でも知っている",
     "start_date": "2014-07-30",

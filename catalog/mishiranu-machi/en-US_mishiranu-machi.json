@@ -1,5 +1,9 @@
 {
     "title": "Mishiranu Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/48903.jpg",
+        "alt": "mishiranu-machi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

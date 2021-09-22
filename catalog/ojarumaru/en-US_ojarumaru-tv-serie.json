@@ -1,9 +1,13 @@
 {
     "title": "Ojarumaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/8519.jpg",
+        "alt": "ojarumaru"
+    },
     "type": "tv-serie",
     "original_name": "おじゃる丸",
     "start_date": "1998-10-05",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Utahito (詠人)\" by Saburou Kitajima (ep 1-900, 1349-?)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

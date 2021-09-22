@@ -1,5 +1,9 @@
 {
     "title": "Seifuku Duty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165615.jpg",
+        "alt": "seifuku-duty"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

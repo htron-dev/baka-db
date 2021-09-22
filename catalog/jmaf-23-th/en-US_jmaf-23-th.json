@@ -1,5 +1,9 @@
 {
     "title": "JMAF23th",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1010/115142.jpg",
+        "alt": "jmaf-23-th"
+    },
     "type": "ona",
     "episodes": "1",
     "start_date": "2019-09-05",

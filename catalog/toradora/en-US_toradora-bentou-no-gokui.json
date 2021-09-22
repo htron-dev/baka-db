@@ -1,5 +1,9 @@
 {
     "title": "Toradora!: Bentou no Gokui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1756/104652.jpg",
+        "alt": "toradora-bentou-no-gokui"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "とらドラ！ 弁当の極意",

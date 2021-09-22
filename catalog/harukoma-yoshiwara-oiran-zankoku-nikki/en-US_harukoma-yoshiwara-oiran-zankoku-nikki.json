@@ -1,5 +1,9 @@
 {
     "title": "Harukoma: Yoshiwara Oiran Zankoku Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246325.jpg",
+        "alt": "harukoma-yoshiwara-oiran-zankoku-nikki"
+    },
     "type": "manga",
     "original_name": "春駒～吉原花魁残酷日記～",
     "start_date": "2019-08-20",

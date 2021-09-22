@@ -1,5 +1,9 @@
 {
     "title": "Futekinai Ongaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61775.jpg",
+        "alt": "futekinai-ongaku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "不敵ない音楽",

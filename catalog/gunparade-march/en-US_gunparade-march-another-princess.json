@@ -1,5 +1,9 @@
 {
     "title": "Gunparade March: Another Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161225.jpg",
+        "alt": "gunparade-march-another-princess"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

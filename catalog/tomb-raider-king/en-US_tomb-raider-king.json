@@ -1,5 +1,9 @@
 {
     "title": "Tomb Raider King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239408.jpg",
+        "alt": "tomb-raider-king"
+    },
     "type": "manhwa",
     "original_name": "도굴왕",
     "start_date": "2019-06-30",

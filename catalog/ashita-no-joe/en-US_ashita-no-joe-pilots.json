@@ -1,5 +1,9 @@
 {
     "title": "Ashita no Joe Pilots",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/53387.jpg",
+        "alt": "ashita-no-joe-pilots"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "あしたのジョー パイロットフィルム",

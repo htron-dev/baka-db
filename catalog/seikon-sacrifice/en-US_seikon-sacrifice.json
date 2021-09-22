@@ -1,5 +1,9 @@
 {
     "title": "Seikon Sacrifice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36763.jpg",
+        "alt": "seikon-sacrifice"
+    },
     "type": "manga",
     "original_name": "聖魂サクリファイス",
     "start_date": "2009-07-20",

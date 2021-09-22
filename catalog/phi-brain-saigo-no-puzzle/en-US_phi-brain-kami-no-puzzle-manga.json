@@ -1,5 +1,9 @@
 {
     "title": "Phi Brain: Kami no Puzzle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/74737.jpg",
+        "alt": "phi-brain-kami-no-puzzle"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

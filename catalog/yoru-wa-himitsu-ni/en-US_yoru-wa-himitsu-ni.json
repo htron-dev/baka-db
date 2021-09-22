@@ -1,5 +1,9 @@
 {
     "title": "Yoru wa Himitsu ni...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66795.jpg",
+        "alt": "yoru-wa-himitsu-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

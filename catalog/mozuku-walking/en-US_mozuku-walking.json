@@ -1,5 +1,9 @@
 {
     "title": "Mozuku, Walking!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195201.jpg",
+        "alt": "mozuku-walking"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "82",

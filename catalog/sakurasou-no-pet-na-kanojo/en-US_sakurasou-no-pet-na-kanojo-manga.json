@@ -1,5 +1,9 @@
 {
     "title": "Sakurasou no Pet na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159576.jpg",
+        "alt": "sakurasou-no-pet-na-kanojo"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "49",

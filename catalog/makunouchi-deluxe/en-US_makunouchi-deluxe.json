@@ -1,5 +1,9 @@
 {
     "title": "Makunouchi Deluxe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/55519.jpg",
+        "alt": "makunouchi-deluxe"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

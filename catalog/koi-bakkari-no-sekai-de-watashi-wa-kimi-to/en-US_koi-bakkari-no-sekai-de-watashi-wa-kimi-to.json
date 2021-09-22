@@ -1,5 +1,9 @@
 {
     "title": "Koi bakkari no Sekai de Watashi wa Kimi to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225697.jpg",
+        "alt": "koi-bakkari-no-sekai-de-watashi-wa-kimi-to"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

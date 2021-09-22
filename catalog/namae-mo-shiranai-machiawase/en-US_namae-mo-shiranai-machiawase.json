@@ -1,5 +1,9 @@
 {
     "title": "Namae mo Shiranai Machiawase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205364.jpg",
+        "alt": "namae-mo-shiranai-machiawase"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

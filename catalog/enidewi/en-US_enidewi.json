@@ -1,5 +1,9 @@
 {
     "title": "Enidewi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/132639.jpg",
+        "alt": "enidewi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

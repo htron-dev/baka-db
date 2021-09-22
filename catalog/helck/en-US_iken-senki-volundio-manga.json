@@ -1,5 +1,9 @@
 {
     "title": "Iken Senki Völundio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241050.jpg",
+        "alt": "iken-senki-volundio"
+    },
     "type": "manga",
     "original_name": "異剣戦記ヴェルンディオ",
     "start_date": "2020-08-24",

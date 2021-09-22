@@ -1,5 +1,9 @@
 {
     "title": "Idol Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21588.jpg",
+        "alt": "idol-paradise"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アイドル　パラダイス",

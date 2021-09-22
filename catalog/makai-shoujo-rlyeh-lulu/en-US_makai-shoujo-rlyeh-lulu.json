@@ -1,5 +1,9 @@
 {
     "title": "Makai Shoujo R'lyeh Lulu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168649.jpg",
+        "alt": "makai-shoujo-rlyeh-lulu"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

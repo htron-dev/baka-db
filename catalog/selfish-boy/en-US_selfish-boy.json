@@ -1,5 +1,9 @@
 {
     "title": "Selfish Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10880.jpg",
+        "alt": "selfish-boy"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "セルフィッシュ・ボーイ",

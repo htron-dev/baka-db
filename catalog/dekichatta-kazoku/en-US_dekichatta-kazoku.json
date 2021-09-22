@@ -1,5 +1,9 @@
 {
     "title": "Dekichatta Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44919.jpg",
+        "alt": "dekichatta-kazoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

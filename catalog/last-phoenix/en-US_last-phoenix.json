@@ -1,5 +1,9 @@
 {
     "title": "Last Phoenix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159213.jpg",
+        "alt": "last-phoenix"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

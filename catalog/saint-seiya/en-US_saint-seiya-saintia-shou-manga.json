@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya: Saintia Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154143.jpg",
+        "alt": "saint-seiya-saintia-shou"
+    },
     "type": "manga",
     "original_name": "聖闘士星矢 セインティア翔",
     "start_date": "2013-08-19",

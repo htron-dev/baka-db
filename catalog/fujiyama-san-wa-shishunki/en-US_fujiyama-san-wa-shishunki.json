@@ -1,5 +1,9 @@
 {
     "title": "Fujiyama-san wa Shishunki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/103925.jpg",
+        "alt": "fujiyama-san-wa-shishunki"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "67",

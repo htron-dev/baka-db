@@ -1,5 +1,9 @@
 {
     "title": "Soshite Koi ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158767.jpg",
+        "alt": "soshite-koi-ni-naru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

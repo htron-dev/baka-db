@@ -1,5 +1,9 @@
 {
     "title": "Evil Eater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115885.jpg",
+        "alt": "evil-eater"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

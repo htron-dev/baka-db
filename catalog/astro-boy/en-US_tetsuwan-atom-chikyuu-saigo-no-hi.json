@@ -1,5 +1,9 @@
 {
     "title": "Tetsuwan Atom: Chikyuu Saigo no Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1876/99379.jpg",
+        "alt": "tetsuwan-atom-chikyuu-saigo-no-hi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "鉄腕アトム ~地球最後の日~",

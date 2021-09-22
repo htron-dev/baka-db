@@ -1,5 +1,9 @@
 {
     "title": "Kiss dake ja Kaesanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10007.jpg",
+        "alt": "kiss-dake-ja-kaesanai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

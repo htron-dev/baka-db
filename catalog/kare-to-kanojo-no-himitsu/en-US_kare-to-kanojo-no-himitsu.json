@@ -1,5 +1,9 @@
 {
     "title": "Kare to Kanojo no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35231.jpg",
+        "alt": "kare-to-kanojo-no-himitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "彼と彼女のひみつ",

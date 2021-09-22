@@ -1,12 +1,16 @@
 {
     "title": "Hi☆sCoool! SeHa Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/66173.jpg",
+        "alt": "hi☆s-coool-se-ha-girls"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "Hi☆sCoool! セハガール",
     "start_date": "2014-10-08",
     "end_date": "2014-10-08",
     "opening_song": "\"SeHa Gagaganbacchau!! (セハガガガンバッちゃう！！)\" by Dreamcast (M.A.O), Sega Saturn (Minami Takahashi), Mega Drive (Shiori Izawa)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"SeHa Gagaganbacchau!! (セハガガガンバッちゃう！！)\" by Dreamcast (M.A.O), Sega Saturn (Minami Takahashi), Mega Drive (Shiori Izawa) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

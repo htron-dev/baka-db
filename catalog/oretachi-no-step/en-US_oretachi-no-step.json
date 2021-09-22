@@ -1,5 +1,9 @@
 {
     "title": "Oretachi no Step",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21466.jpg",
+        "alt": "oretachi-no-step"
+    },
     "type": "manga",
     "original_name": "俺たちのステップ",
     "start_date": "2006-11-20",

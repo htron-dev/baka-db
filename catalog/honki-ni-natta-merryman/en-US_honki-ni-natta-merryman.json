@@ -1,5 +1,9 @@
 {
     "title": "Honki ni Natta Merryman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44447.jpg",
+        "alt": "honki-ni-natta-merryman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

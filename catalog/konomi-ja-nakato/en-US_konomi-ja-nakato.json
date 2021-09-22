@@ -1,5 +1,9 @@
 {
     "title": "Konomi ja Nakato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222173.jpg",
+        "alt": "konomi-ja-nakato"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

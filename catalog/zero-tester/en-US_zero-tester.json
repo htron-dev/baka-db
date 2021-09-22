@@ -1,5 +1,9 @@
 {
     "title": "Zero Tester",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1296/96987.jpg",
+        "alt": "zero-tester"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "ゼロテスター",

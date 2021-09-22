@@ -1,5 +1,9 @@
 {
     "title": "Umareru Seibetsu wo Machigaeta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212854.jpg",
+        "alt": "umareru-seibetsu-wo-machigaeta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

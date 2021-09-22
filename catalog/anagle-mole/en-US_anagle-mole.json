@@ -1,5 +1,9 @@
 {
     "title": "Anagle Mole",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155064.jpg",
+        "alt": "anagle-mole"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "47",

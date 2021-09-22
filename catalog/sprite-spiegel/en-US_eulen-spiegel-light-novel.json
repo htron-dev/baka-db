@@ -1,5 +1,9 @@
 {
     "title": "Eulen Spiegel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154552.jpg",
+        "alt": "eulen-spiegel"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "18",

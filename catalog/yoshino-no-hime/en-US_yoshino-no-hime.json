@@ -1,5 +1,9 @@
 {
     "title": "Yoshino no Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/8933.jpg",
+        "alt": "yoshino-no-hime"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "吉野の姫制",

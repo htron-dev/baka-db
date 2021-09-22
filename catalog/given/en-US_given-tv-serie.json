@@ -1,12 +1,16 @@
 {
     "title": "Given",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1666/102238.jpg",
+        "alt": "given"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "ギヴン",
     "start_date": "2019-07-12",
     "end_date": "2019-07-12",
     "opening_song": "\"Kizuato (キヅアト)\" by Centimilimental (センチミリメンタル)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Marutsuke - Piano ver. (まるつけ -Piano ver.-)\" by Centimillimental (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Given_(manga"
+            "link": "http://en.wikipedia.org/wiki/Given_%28manga%29"
         }
     ]
 }

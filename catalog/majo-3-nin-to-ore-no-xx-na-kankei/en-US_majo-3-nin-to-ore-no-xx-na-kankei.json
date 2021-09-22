@@ -1,5 +1,9 @@
 {
     "title": "Majo 3-nin to Ore no xx na Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123277.jpg",
+        "alt": "majo-3-nin-to-ore-no-xx-na-kankei"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

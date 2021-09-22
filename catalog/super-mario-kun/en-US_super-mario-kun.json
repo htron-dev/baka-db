@@ -1,5 +1,9 @@
 {
     "title": "Super Mario-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13841.jpg",
+        "alt": "super-mario-kun"
+    },
     "type": "manga",
     "original_name": "スーパーマリオくん",
     "start_date": "1991-07-27",

@@ -1,5 +1,9 @@
 {
     "title": "Shoujo A no Higeki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191602.jpg",
+        "alt": "shoujo-a-no-higeki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "32",

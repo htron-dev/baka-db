@@ -1,5 +1,9 @@
 {
     "title": "Fumiko no Kokuhaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/20806.jpg",
+        "alt": "fumiko-no-kokuhaku"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "フミコの告白",

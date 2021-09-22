@@ -1,5 +1,9 @@
 {
     "title": "Monster Strike the Movie: Sora no Kanata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1206/93873.jpg",
+        "alt": "monster-strike-the-movie-sora-no-kanata"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "モンスターストライク THE MOVIE ソラノカナタ",

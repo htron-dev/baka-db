@@ -1,5 +1,9 @@
 {
     "title": "Little Charo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1876/93778.jpg",
+        "alt": "little-charo"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "リトル・チャロ",

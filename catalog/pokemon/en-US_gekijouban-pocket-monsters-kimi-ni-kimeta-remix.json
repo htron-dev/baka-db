@@ -1,5 +1,9 @@
 {
     "title": "Gekijouban Pocket Monsters: Kimi ni Kimeta! Remix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224951.jpg",
+        "alt": "gekijouban-pocket-monsters-kimi-ni-kimeta-remix"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Butoukai no Techou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186290.jpg",
+        "alt": "butoukai-no-techou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

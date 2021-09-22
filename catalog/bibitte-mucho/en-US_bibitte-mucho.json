@@ -1,5 +1,9 @@
 {
     "title": "Bibitte Mucho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19730.jpg",
+        "alt": "bibitte-mucho"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

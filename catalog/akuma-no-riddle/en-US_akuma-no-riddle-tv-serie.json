@@ -1,12 +1,16 @@
 {
     "title": "Akuma no Riddle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/60479.jpg",
+        "alt": "akuma-no-riddle"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "悪魔のリドル",
     "start_date": "2014-04-04",
     "end_date": "2014-04-04",
     "opening_song": "\"Soushou Innocence (創傷イノセンス)\" by Maaya Uchida",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Paradox (パラドクス)\" by Ayaka Suwa as Tokaku Azuma (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Kyoujou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247436.jpg",
+        "alt": "kyoujou"
+    },
     "type": "manga",
     "original_name": "教場",
     "start_date": "2020-12-21",

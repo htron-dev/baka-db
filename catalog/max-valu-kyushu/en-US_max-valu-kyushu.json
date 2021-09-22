@@ -1,5 +1,9 @@
 {
     "title": "MaxValu Kyushu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1244/90866.jpg",
+        "alt": "max-valu-kyushu"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "マックスバリュ九州",

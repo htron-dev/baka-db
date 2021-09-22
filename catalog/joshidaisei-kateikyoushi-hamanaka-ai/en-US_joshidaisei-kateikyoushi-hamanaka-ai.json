@@ -1,5 +1,9 @@
 {
     "title": "Joshidaisei Kateikyoushi Hamanaka Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195654.jpg",
+        "alt": "joshidaisei-kateikyoushi-hamanaka-ai"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "130",

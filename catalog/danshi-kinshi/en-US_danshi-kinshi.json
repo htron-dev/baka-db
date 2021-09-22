@@ -1,5 +1,9 @@
 {
     "title": "Danshi Kinshi!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126429.jpg",
+        "alt": "danshi-kinshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

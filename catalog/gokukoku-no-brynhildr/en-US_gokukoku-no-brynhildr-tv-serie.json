@@ -1,11 +1,15 @@
 {
     "title": "Gokukoku no Brynhildr",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/61433.jpg",
+        "alt": "gokukoku-no-brynhildr"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "極黒のブリュンヒルデ",
     "start_date": "2014-04-06",
     "end_date": "2014-04-06",
-    "opening_song": "#1",
+    "opening_song": "#1: \"BRYNHILDR IN THE DARKNESS -Ver. EJECTED-\" by Nao Tokisawa (鴇沢 直) (eps 1-9)",
     "ending_song": "\"Ichibanboshi (いちばん星)\" by Neko Kuroha (Risa Taneda), Kana Tachibana (Aya Suzaki), Kazumi Schlierenzauer (M.A.O), Kotori Takatori (Azusa Tadokoro)",
     "rating": "R+ - Mild Nudity",
     "tags": [

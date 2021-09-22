@@ -1,5 +1,9 @@
 {
     "title": "Little Charo: Touhoku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1786/93779.jpg",
+        "alt": "little-charo-touhoku-hen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "リトル・チャロ～東北編～",

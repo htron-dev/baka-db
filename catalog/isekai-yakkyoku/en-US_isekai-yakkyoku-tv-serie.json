@@ -1,5 +1,9 @@
 {
     "title": "Isekai Yakkyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1053/116557.jpg",
+        "alt": "isekai-yakkyoku"
+    },
     "type": "tv-serie",
     "original_name": "異世界薬局",
     "rating": "None",

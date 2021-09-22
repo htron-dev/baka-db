@@ -1,5 +1,9 @@
 {
     "title": "Esoragoto.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165624.jpg",
+        "alt": "esoragoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

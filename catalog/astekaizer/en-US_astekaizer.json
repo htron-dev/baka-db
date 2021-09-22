@@ -1,5 +1,9 @@
 {
     "title": "Astekaizer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169922.jpg",
+        "alt": "astekaizer"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アステカイザー",

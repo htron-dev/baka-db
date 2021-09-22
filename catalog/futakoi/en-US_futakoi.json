@@ -1,5 +1,9 @@
 {
     "title": "Futakoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/125.jpg",
+        "alt": "futakoi"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "双恋",

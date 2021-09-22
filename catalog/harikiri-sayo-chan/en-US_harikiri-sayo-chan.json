@@ -1,5 +1,9 @@
 {
     "title": "Harikiri Sayo-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16903.jpg",
+        "alt": "harikiri-sayo-chan"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "はりきりさよちゃん",

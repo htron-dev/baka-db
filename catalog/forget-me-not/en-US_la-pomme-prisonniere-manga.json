@@ -1,5 +1,9 @@
 {
     "title": "La Pomme Prisonnière",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170594.jpg",
+        "alt": "la-pomme-prisonniere"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "22",

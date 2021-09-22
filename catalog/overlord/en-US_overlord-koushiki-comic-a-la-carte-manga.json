@@ -1,5 +1,9 @@
 {
     "title": "Overlord: Koushiki Comic à la Carte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221257.jpg",
+        "alt": "overlord-koushiki-comic-a-la-carte"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "47",

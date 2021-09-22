@@ -1,12 +1,16 @@
 {
     "title": "Uchuu Kyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/37573.jpg",
+        "alt": "uchuu-kyoudai"
+    },
     "type": "tv-serie",
     "episodes": "99",
     "original_name": "宇宙兄弟",
     "start_date": "2012-04-01",
     "end_date": "2012-04-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Feel So Moon\" by Unicorn (eps 1-13)",
+    "ending_song": "#1: \"Subarashiki Sekai (素晴らしき世界)\" by Rake (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

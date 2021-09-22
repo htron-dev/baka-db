@@ -1,5 +1,9 @@
 {
     "title": "Saita Cosmos Cosmos Saita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187069.jpg",
+        "alt": "saita-cosmos-cosmos-saita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "27",

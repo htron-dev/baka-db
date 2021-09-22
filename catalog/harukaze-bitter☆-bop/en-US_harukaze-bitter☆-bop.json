@@ -1,5 +1,9 @@
 {
     "title": "Harukaze Bitter☆Bop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180632.jpg",
+        "alt": "harukaze-bitter☆-bop"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

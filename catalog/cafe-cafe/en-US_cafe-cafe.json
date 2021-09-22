@@ -1,5 +1,9 @@
 {
     "title": "Café-Café",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/104837.jpg",
+        "alt": "cafe-cafe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "20",

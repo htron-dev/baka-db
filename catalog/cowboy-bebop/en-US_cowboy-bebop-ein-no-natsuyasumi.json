@@ -1,5 +1,9 @@
 {
     "title": "Cowboy Bebop: Ein no Natsuyasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/45947.jpg",
+        "alt": "cowboy-bebop-ein-no-natsuyasumi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "アインのなつやすみ",

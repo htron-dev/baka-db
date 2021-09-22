@@ -1,5 +1,9 @@
 {
     "title": "Urashima Ryuuguu Emaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33522.jpg",
+        "alt": "urashima-ryuuguu-emaki"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "浦島龍宮絵巻",

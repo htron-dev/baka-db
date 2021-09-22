@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya: Jashin Eris",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/26806.jpg",
+        "alt": "saint-seiya-jashin-eris"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "聖闘士星矢 邪神エリス",

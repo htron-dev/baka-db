@@ -1,5 +1,9 @@
 {
     "title": "Mujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216250.jpg",
+        "alt": "mujin"
+    },
     "type": "manga",
     "original_name": "MUJIN-無尽-",
     "start_date": "2014-01-30",

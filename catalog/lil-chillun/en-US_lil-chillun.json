@@ -1,5 +1,9 @@
 {
     "title": "Li'l Chillun'",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/85861.jpg",
+        "alt": "lil-chillun"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "リルチルン",

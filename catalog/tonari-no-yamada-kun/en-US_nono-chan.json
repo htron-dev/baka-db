@@ -1,5 +1,9 @@
 {
     "title": "Nono-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/15177.jpg",
+        "alt": "nono-chan"
+    },
     "type": "tv-serie",
     "episodes": "61",
     "original_name": "ののちゃん",

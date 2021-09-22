@@ -1,5 +1,9 @@
 {
     "title": "Yoru ni mo Makezu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176270.jpg",
+        "alt": "yoru-ni-mo-makezu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

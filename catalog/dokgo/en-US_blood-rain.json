@@ -1,5 +1,9 @@
 {
     "title": "Blood Rain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222169.jpg",
+        "alt": "blood-rain"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "블러드 레인",

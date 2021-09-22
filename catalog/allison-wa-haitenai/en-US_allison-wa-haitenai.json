@@ -1,5 +1,9 @@
 {
     "title": "Allison wa Haitenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242640.jpg",
+        "alt": "allison-wa-haitenai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Kowamote Kawamote",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234192.jpg",
+        "alt": "kowamote-kawamote"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "53",

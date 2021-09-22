@@ -1,5 +1,9 @@
 {
     "title": "Nihonichi Momotarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/11635.jpg",
+        "alt": "nihonichi-momotarou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "日本一桃太郎",

@@ -1,5 +1,9 @@
 {
     "title": "Arad Senki: Slap Up Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201122.jpg",
+        "alt": "arad-senki-slap-up-party"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

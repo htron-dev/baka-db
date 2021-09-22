@@ -1,5 +1,9 @@
 {
     "title": "Aijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171677.jpg",
+        "alt": "aijin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

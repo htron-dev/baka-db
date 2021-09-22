@@ -1,5 +1,9 @@
 {
     "title": "Epee Luge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4771.jpg",
+        "alt": "epee-luge"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "エペリュージュ",

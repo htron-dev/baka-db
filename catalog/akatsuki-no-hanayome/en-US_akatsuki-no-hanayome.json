@@ -1,5 +1,9 @@
 {
     "title": "Akatsuki no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240435.jpg",
+        "alt": "akatsuki-no-hanayome"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "暁の花嫁",

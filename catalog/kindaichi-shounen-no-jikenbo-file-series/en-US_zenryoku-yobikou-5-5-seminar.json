@@ -1,8 +1,12 @@
 {
     "title": "Zenryoku Yobikou 5.5 Seminar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/80755.jpg",
+        "alt": "zenryoku-yobikou-5-5-seminar"
+    },
     "type": "ona",
     "episodes": "9",
-    "original_name": "全力予備校5.5ゼミナール",
+    "original_name": "全力予備校 5.5 ゼミナール",
     "start_date": "2015-07-20",
     "end_date": "2015-07-20",
     "rating": "PG-13 - Teens 13 or older",

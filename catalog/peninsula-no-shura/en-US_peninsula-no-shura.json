@@ -1,5 +1,9 @@
 {
     "title": "Peninsula no Shura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124293.jpg",
+        "alt": "peninsula-no-shura"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

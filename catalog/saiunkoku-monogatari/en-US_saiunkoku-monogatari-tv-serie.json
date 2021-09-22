@@ -1,5 +1,9 @@
 {
     "title": "Saiunkoku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/957.jpg",
+        "alt": "saiunkoku-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "彩雲国物語",

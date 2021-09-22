@@ -1,5 +1,9 @@
 {
     "title": "Sora e: Rescue Wings",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34269.jpg",
+        "alt": "sora-e-rescue-wings"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "空へ レスキューウイングス",

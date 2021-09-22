@@ -1,5 +1,9 @@
 {
     "title": "S to M",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223947.jpg",
+        "alt": "s-to-m"
+    },
     "type": "manga",
     "volumes": "31",
     "chapters": "271",

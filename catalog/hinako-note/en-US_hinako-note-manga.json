@@ -1,5 +1,9 @@
 {
     "title": "Hinako Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162753.jpg",
+        "alt": "hinako-note"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "68",

@@ -1,5 +1,9 @@
 {
     "title": "Wagahai wa Neko de Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149317.jpg",
+        "alt": "wagahai-wa-neko-de-aru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

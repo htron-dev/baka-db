@@ -1,5 +1,9 @@
 {
     "title": "Annyeong Totobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/89594.jpg",
+        "alt": "annyeong-totobi"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "안녕 토토비",

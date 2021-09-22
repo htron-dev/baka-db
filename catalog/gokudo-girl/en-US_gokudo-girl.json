@@ -1,5 +1,9 @@
 {
     "title": "Gokudo Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20581.jpg",
+        "alt": "gokudo-girl"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "48",

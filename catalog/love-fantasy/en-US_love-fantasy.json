@@ -1,5 +1,9 @@
 {
     "title": "Love Fantasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17862.jpg",
+        "alt": "love-fantasy"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "빙의",

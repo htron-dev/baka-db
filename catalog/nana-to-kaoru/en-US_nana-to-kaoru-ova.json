@@ -1,5 +1,9 @@
 {
     "title": "Nana to Kaoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/27379.jpg",
+        "alt": "nana-to-kaoru"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ナナとカオル",

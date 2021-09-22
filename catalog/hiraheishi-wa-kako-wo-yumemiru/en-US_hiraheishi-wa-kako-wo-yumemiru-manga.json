@@ -1,5 +1,9 @@
 {
     "title": "Hiraheishi wa Kako wo Yumemiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191228.jpg",
+        "alt": "hiraheishi-wa-kako-wo-yumemiru"
+    },
     "type": "manga",
     "original_name": "平兵士は過去を夢見る",
     "start_date": "2016-05-12",

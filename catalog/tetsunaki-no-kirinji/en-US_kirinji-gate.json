@@ -1,5 +1,9 @@
 {
     "title": "Kirinji Gate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245716.jpg",
+        "alt": "kirinji-gate"
+    },
     "type": "manga",
     "original_name": "キリンジゲート",
     "start_date": "2018-10-15",

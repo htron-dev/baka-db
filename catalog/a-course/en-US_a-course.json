@@ -1,5 +1,9 @@
 {
     "title": "A Course",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171742.jpg",
+        "alt": "a-course"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "A コース",

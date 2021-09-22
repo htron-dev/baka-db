@@ -1,5 +1,9 @@
 {
     "title": "Gdleen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1175/97146.jpg",
+        "alt": "gdleen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ガデュリン",

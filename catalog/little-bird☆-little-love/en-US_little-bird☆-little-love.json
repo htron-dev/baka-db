@@ -1,5 +1,9 @@
 {
     "title": "Little Bird☆Little Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158549.jpg",
+        "alt": "little-bird☆-little-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

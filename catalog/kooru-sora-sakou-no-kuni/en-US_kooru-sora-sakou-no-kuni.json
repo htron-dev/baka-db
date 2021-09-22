@@ -1,5 +1,9 @@
 {
     "title": "Kooru Sora, Sakou no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227561.jpg",
+        "alt": "kooru-sora-sakou-no-kuni"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

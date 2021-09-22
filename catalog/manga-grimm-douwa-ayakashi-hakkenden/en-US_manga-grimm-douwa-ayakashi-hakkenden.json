@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Ayakashi Hakkenden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137377.jpg",
+        "alt": "manga-grimm-douwa-ayakashi-hakkenden"
+    },
     "type": "manga",
     "original_name": "まんがグリム童話 妖 八犬伝",
     "start_date": "2012-11-29",

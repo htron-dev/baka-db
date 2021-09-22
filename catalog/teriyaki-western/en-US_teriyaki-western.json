@@ -1,5 +1,9 @@
 {
     "title": "Teriyaki Western",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26386.jpg",
+        "alt": "teriyaki-western"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "テリヤキウエスタン－史上最凶の無法都市－",

@@ -1,5 +1,9 @@
 {
     "title": "Fake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21333.jpg",
+        "alt": "fake"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "FAKE",

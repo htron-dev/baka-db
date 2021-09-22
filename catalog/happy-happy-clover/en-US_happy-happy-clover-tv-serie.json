@@ -1,5 +1,9 @@
 {
     "title": "Happy Happy Clover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/17267.jpg",
+        "alt": "happy-happy-clover"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "はぴはぴクローバー",

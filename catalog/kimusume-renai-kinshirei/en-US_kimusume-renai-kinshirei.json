@@ -1,5 +1,9 @@
 {
     "title": "Kimusume Renai Kinshirei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175718.jpg",
+        "alt": "kimusume-renai-kinshirei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

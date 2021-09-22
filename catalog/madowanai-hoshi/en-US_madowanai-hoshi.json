@@ -1,5 +1,9 @@
 {
     "title": "Madowanai Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173945.jpg",
+        "alt": "madowanai-hoshi"
+    },
     "type": "manga",
     "original_name": "惑わない星",
     "start_date": "2015-05-22",

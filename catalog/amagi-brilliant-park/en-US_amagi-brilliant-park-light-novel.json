@@ -1,5 +1,9 @@
 {
     "title": "Amagi Brilliant Park",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175109.jpg",
+        "alt": "amagi-brilliant-park"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "40",

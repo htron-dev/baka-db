@@ -1,5 +1,9 @@
 {
     "title": "100-man$ Kid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186340.jpg",
+        "alt": "100-man-kid"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "79",

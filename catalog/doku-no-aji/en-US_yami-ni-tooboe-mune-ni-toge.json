@@ -1,5 +1,9 @@
 {
     "title": "Yami ni Tooboe, Mune ni Toge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23021.jpg",
+        "alt": "yami-ni-tooboe-mune-ni-toge"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

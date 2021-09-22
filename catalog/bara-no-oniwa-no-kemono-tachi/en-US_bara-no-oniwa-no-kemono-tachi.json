@@ -1,5 +1,9 @@
 {
     "title": "Bara no Oniwa no Kemono-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228902.jpg",
+        "alt": "bara-no-oniwa-no-kemono-tachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

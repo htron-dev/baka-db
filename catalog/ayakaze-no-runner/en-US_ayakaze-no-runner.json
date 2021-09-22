@@ -1,5 +1,9 @@
 {
     "title": "Ayakaze no Runner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124369.jpg",
+        "alt": "ayakaze-no-runner"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "彩風のランナー",

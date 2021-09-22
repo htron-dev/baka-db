@@ -1,5 +1,9 @@
 {
     "title": "Grappler Baki Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127443.jpg",
+        "alt": "grappler-baki-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

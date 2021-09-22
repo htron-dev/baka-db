@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Kaguya-hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137373.jpg",
+        "alt": "manga-grimm-douwa-kaguya-hime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

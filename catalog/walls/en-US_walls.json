@@ -1,5 +1,9 @@
 {
     "title": "Walls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1459/97549.jpg",
+        "alt": "walls"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Walls",

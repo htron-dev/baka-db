@@ -1,5 +1,9 @@
 {
     "title": "Yume demo Nakanaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224562.jpg",
+        "alt": "yume-demo-nakanaide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

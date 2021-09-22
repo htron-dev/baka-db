@@ -1,5 +1,9 @@
 {
     "title": "Futago no Danjo ga Wakaranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240845.jpg",
+        "alt": "futago-no-danjo-ga-wakaranai"
+    },
     "type": "manga",
     "original_name": "双子の男女がわからない",
     "start_date": "2021-01-16",

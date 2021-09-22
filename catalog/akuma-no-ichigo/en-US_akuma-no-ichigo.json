@@ -1,5 +1,9 @@
 {
     "title": "Akuma no Ichigo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92533.jpg",
+        "alt": "akuma-no-ichigo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

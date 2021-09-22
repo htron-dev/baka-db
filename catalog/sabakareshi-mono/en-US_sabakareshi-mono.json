@@ -1,5 +1,9 @@
 {
     "title": "Sabakareshi Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25402.jpg",
+        "alt": "sabakareshi-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

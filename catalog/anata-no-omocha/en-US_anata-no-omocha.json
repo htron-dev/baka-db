@@ -1,5 +1,9 @@
 {
     "title": "Anata no Omocha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9114.jpg",
+        "alt": "anata-no-omocha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

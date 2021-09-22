@@ -1,5 +1,9 @@
 {
     "title": "Hoshi to Tabisuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231122.jpg",
+        "alt": "hoshi-to-tabisuru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Youjo Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186468.jpg",
+        "alt": "youjo-senki"
+    },
     "type": "manga",
     "original_name": "幼女戦記",
     "start_date": "2016-04-26",

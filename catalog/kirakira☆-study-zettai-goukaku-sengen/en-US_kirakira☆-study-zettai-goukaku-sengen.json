@@ -1,5 +1,9 @@
 {
     "title": "Kirakira☆Study: Zettai Goukaku Sengen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234913.jpg",
+        "alt": "kirakira☆-study-zettai-goukaku-sengen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "40",

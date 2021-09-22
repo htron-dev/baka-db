@@ -1,5 +1,9 @@
 {
     "title": "Dokuzakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222995.jpg",
+        "alt": "dokuzakura"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

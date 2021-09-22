@@ -1,5 +1,9 @@
 {
     "title": "Mishounen Produce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27454.jpg",
+        "alt": "mishounen-produce"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

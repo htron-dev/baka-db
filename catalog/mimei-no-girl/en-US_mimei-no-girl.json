@@ -1,5 +1,9 @@
 {
     "title": "Mimei no Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125591.jpg",
+        "alt": "mimei-no-girl"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "未明の Girl",

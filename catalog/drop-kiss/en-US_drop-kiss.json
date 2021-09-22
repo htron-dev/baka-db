@@ -1,5 +1,9 @@
 {
     "title": "Drop Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23283.jpg",
+        "alt": "drop-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ドロップキス",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Voyager Record",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/70339.jpg",
+        "alt": "tokyo-voyager-record"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

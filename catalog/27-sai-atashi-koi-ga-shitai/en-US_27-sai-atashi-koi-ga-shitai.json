@@ -1,5 +1,9 @@
 {
     "title": "27-sai: Atashi, Koi ga, Shitai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89323.jpg",
+        "alt": "27-sai-atashi-koi-ga-shitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

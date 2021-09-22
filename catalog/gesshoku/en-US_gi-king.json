@@ -1,5 +1,9 @@
 {
     "title": "GI King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38957.jpg",
+        "alt": "gi-king"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "GI キング",

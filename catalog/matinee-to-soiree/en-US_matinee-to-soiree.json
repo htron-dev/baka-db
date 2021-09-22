@@ -1,5 +1,9 @@
 {
     "title": "Matinee to Soiree",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193622.jpg",
+        "alt": "matinee-to-soiree"
+    },
     "type": "manga",
     "original_name": "マチネとソワレ",
     "start_date": "2016-11-11",

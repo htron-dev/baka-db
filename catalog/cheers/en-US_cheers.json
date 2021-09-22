@@ -1,5 +1,9 @@
 {
     "title": "Cheers!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/34587.jpg",
+        "alt": "cheers"
+    },
     "type": "manga",
     "original_name": "Cheers！",
     "start_date": "2003-11-29",

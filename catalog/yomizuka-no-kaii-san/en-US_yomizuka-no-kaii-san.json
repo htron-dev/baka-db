@@ -1,5 +1,9 @@
 {
     "title": "Yomizuka no Kaii-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230412.jpg",
+        "alt": "yomizuka-no-kaii-san"
+    },
     "type": "manga",
     "chapters": "8",
     "original_name": "四見塚の怪異さん",

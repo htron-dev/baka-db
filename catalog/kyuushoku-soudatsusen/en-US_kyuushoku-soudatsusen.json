@@ -1,5 +1,9 @@
 {
     "title": "Kyuushoku Soudatsusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231008.jpg",
+        "alt": "kyuushoku-soudatsusen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "給食争奪戦",

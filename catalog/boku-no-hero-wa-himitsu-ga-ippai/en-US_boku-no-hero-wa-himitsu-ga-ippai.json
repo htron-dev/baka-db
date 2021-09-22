@@ -1,5 +1,9 @@
 {
     "title": "Boku no Hero wa Himitsu ga Ippai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243011.jpg",
+        "alt": "boku-no-hero-wa-himitsu-ga-ippai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Haishin Yuusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1070/104956.jpg",
+        "alt": "haishin-yuusha"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "配信勇者",

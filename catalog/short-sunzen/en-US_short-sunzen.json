@@ -1,5 +1,9 @@
 {
     "title": "Short Sunzen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5324.jpg",
+        "alt": "short-sunzen"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

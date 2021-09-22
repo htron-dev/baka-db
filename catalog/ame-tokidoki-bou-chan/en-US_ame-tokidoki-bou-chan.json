@@ -1,5 +1,9 @@
 {
     "title": "Ame Tokidoki Bou-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194191.jpg",
+        "alt": "ame-tokidoki-bou-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

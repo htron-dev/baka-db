@@ -1,5 +1,9 @@
 {
     "title": "Candy no Iro wa Aka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29841.jpg",
+        "alt": "candy-no-iro-wa-aka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

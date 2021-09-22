@@ -1,5 +1,9 @@
 {
     "title": "Junk Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211886.jpg",
+        "alt": "junk-boy"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "205",

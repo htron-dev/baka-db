@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Furetara.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6267.jpg",
+        "alt": "kimi-ni-furetara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

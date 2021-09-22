@@ -1,5 +1,9 @@
 {
     "title": "Koakuma Biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230480.jpg",
+        "alt": "koakuma-biyori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

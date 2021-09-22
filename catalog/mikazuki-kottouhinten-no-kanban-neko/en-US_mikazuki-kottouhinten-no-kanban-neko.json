@@ -1,5 +1,9 @@
 {
     "title": "Mikazuki Kottouhinten no Kanban Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224280.jpg",
+        "alt": "mikazuki-kottouhinten-no-kanban-neko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

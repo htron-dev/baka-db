@@ -1,5 +1,9 @@
 {
     "title": "Familyman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/106127.jpg",
+        "alt": "familyman"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "41",

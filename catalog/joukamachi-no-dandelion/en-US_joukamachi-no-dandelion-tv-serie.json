@@ -1,5 +1,9 @@
 {
     "title": "Joukamachi no Dandelion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/82559.jpg",
+        "alt": "joukamachi-no-dandelion"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "城下町のダンデライオン",

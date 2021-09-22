@@ -1,5 +1,9 @@
 {
     "title": "Shounen Y",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159717.jpg",
+        "alt": "shounen-y"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "32",

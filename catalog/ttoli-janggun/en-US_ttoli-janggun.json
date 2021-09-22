@@ -1,5 +1,9 @@
 {
     "title": "Ttoli Janggun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/52401.jpg",
+        "alt": "ttoli-janggun"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "똘이장군 제3땅굴편",

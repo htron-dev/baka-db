@@ -1,5 +1,9 @@
 {
     "title": "Kindan Joshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1102/111039.jpg",
+        "alt": "kindan-joshi"
+    },
     "type": "tv-serie",
     "episodes": "5",
     "original_name": "禁男女子",

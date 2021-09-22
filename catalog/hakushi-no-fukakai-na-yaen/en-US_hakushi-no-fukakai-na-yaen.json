@@ -1,5 +1,9 @@
 {
     "title": "Hakushi no Fukakai na Yaen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/68209.jpg",
+        "alt": "hakushi-no-fukakai-na-yaen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

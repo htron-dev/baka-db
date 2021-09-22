@@ -1,5 +1,9 @@
 {
     "title": "Sandaime wa Ume Kukuri!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151278.jpg",
+        "alt": "sandaime-wa-ume-kukuri"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "三代目は梅くくり!",

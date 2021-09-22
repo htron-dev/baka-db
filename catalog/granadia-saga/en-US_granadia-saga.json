@@ -1,5 +1,9 @@
 {
     "title": "Granadia Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197557.jpg",
+        "alt": "granadia-saga"
+    },
     "type": "manga",
     "original_name": "グラナディアサーガ",
     "start_date": "2017-06-08",

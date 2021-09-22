@@ -1,5 +1,9 @@
 {
     "title": "Short Program 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165829.jpg",
+        "alt": "short-program-3"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

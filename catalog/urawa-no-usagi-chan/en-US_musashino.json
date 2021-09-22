@@ -1,5 +1,9 @@
 {
     "title": "Musashino!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/85104.jpg",
+        "alt": "musashino"
+    },
     "type": "tv-serie",
     "original_name": "むさしの！",
     "rating": "PG - Children",

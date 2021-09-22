@@ -1,5 +1,9 @@
 {
     "title": "Dare ni Mo Ienai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36871.jpg",
+        "alt": "dare-ni-mo-ienai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "だれにもいえない",

@@ -1,5 +1,9 @@
 {
     "title": "Love Wan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/84065.jpg",
+        "alt": "love-wan"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ラブわん!",

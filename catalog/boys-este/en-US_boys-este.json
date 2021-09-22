@@ -1,5 +1,9 @@
 {
     "title": "Boys Esté",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173662.jpg",
+        "alt": "boys-este"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "Nijuu Mensou no Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171181.jpg",
+        "alt": "nijuu-mensou-no-musume"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "48",

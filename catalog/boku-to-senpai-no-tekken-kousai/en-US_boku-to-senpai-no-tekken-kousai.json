@@ -1,5 +1,9 @@
 {
     "title": "Boku to Senpai no Tekken Kousai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150459.jpg",
+        "alt": "boku-to-senpai-no-tekken-kousai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

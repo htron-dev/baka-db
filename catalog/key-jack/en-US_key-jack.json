@@ -1,5 +1,9 @@
 {
     "title": "Key Jack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24244.jpg",
+        "alt": "key-jack"
+    },
     "type": "manga",
     "tags": [
         "action",

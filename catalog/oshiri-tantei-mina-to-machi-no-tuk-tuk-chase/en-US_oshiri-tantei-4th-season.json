@@ -1,5 +1,9 @@
 {
     "title": "Oshiri Tantei 4th Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1229/107371.jpg",
+        "alt": "oshiri-tantei-4th-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "おしりたんてい",

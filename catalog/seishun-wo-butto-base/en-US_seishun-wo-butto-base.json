@@ -1,5 +1,9 @@
 {
     "title": "Seishun wo Butto Base",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33273.jpg",
+        "alt": "seishun-wo-butto-base"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "青春をぶっとばせ",

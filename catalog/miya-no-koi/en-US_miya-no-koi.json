@@ -1,5 +1,9 @@
 {
     "title": "Miya no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203702.jpg",
+        "alt": "miya-no-koi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

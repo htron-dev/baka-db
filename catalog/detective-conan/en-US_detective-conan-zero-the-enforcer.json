@@ -1,5 +1,9 @@
 {
     "title": "Detective Conan: Zero the Enforcer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240563.jpg",
+        "alt": "detective-conan-zero-the-enforcer"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

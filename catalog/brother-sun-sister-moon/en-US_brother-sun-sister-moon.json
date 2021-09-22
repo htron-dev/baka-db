@@ -1,5 +1,9 @@
 {
     "title": "Brother Sun Sister Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207006.jpg",
+        "alt": "brother-sun-sister-moon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

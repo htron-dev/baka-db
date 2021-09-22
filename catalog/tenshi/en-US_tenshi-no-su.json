@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Su",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/114665.jpg",
+        "alt": "tenshi-no-su"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

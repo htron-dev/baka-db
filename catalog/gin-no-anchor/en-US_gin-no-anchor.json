@@ -1,5 +1,9 @@
 {
     "title": "Gin no Anchor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163708.jpg",
+        "alt": "gin-no-anchor"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "62",

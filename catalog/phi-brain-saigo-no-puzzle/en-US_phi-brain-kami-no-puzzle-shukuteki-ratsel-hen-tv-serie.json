@@ -1,12 +1,16 @@
 {
     "title": "Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/54099.jpg",
+        "alt": "phi-brain-kami-no-puzzle-shukuteki-ratsel-hen"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ファイ・ブレイン 〜神のパズル 宿敵！レイツェル編",
     "start_date": "2013-10-06",
     "end_date": "2013-10-06",
     "opening_song": "\"Destiny\" by neko",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Say Yeah!\" by Kaito Daimon (Shintaro Asanuma), Nonoha Itou (Kaori Shimizu), Gammon Sakanoue (Jun Fukuyama), Cubic G (Kouki Miyata), Anna Gram (Satsuki Yukino) (eps 1-8, 10-24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

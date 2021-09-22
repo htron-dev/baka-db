@@ -1,5 +1,9 @@
 {
     "title": "Inferno",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173142.jpg",
+        "alt": "inferno"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "31",

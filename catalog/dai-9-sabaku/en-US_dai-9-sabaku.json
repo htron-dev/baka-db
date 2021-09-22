@@ -1,5 +1,9 @@
 {
     "title": "Dai-9 Sabaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230011.jpg",
+        "alt": "dai-9-sabaku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

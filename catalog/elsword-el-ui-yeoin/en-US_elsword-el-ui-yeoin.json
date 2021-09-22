@@ -1,5 +1,9 @@
 {
     "title": "Elsword: El-ui Yeoin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/83284.jpg",
+        "alt": "elsword-el-ui-yeoin"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "엘소드 엘의 여인",

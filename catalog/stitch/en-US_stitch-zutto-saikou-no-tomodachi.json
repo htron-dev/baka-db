@@ -1,5 +1,9 @@
 {
     "title": "Stitch!: Zutto Saikou no Tomodachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1878/100543.jpg",
+        "alt": "stitch-zutto-saikou-no-tomodachi"
+    },
     "type": "tv-serie",
     "episodes": "29",
     "original_name": "スティッチ！～ずっと最高のトモダチ～",

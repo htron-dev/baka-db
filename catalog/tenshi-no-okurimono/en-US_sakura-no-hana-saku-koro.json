@@ -1,5 +1,9 @@
 {
     "title": "Sakura no Hana Saku Koro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25691.jpg",
+        "alt": "sakura-no-hana-saku-koro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

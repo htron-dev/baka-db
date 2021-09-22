@@ -1,5 +1,9 @@
 {
     "title": "Invincible Yeonbyeongeol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156332.jpg",
+        "alt": "invincible-yeonbyeongeol"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "無敵 연변걸",

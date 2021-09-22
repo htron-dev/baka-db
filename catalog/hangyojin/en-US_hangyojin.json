@@ -1,5 +1,9 @@
 {
     "title": "Hangyojin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76151.jpg",
+        "alt": "hangyojin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "半魚人",

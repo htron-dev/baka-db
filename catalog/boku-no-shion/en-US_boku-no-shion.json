@@ -1,5 +1,9 @@
 {
     "title": "Boku no Shion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/122353.jpg",
+        "alt": "boku-no-shion"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ボクの紫苑",

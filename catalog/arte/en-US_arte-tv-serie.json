@@ -1,5 +1,9 @@
 {
     "title": "Arte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1284/106945.jpg",
+        "alt": "arte"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アルテ",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Arte_(manga"
+            "link": "https://en.wikipedia.org/wiki/Arte_%28manga%29#Anime"
         }
     ]
 }

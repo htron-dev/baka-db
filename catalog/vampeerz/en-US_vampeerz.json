@@ -1,5 +1,9 @@
 {
     "title": "Vampeerz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222254.jpg",
+        "alt": "vampeerz"
+    },
     "type": "manga",
     "original_name": "ヴァンピアーズ",
     "start_date": "2019-02-19",

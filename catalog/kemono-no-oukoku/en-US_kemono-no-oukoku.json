@@ -1,5 +1,9 @@
 {
     "title": "Kemono no Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42922.jpg",
+        "alt": "kemono-no-oukoku"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "28",

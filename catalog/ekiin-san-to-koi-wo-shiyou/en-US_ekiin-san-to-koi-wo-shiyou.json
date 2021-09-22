@@ -1,5 +1,9 @@
 {
     "title": "Ekiin-san to Koi wo Shiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164102.jpg",
+        "alt": "ekiin-san-to-koi-wo-shiyou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "駅員さんと恋をしよう",

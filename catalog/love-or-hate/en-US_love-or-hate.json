@@ -1,5 +1,9 @@
 {
     "title": "Love or Hate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237922.jpg",
+        "alt": "love-or-hate"
+    },
     "type": "manhwa",
     "original_name": "러브 오어 헤이트",
     "start_date": "2018-09-22",

@@ -1,5 +1,9 @@
 {
     "title": "Tottemo! Luckyman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187162.jpg",
+        "alt": "tottemo-luckyman"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "189",

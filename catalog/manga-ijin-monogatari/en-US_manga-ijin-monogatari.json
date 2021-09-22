@@ -1,12 +1,16 @@
 {
     "title": "Manga Ijin Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/53739.jpg",
+        "alt": "manga-ijin-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "まんが偉人物語",
     "start_date": "1977-11-18",
     "end_date": "1977-11-18",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Tsuzuke Seishun-tachi yo (つづけ青春たちよ)\" by Kamayatsu Hiroshi",
+    "ending_song": "#1: \"Ari no Daitouryou (ありの大統領)\" by Kamayatsu Hiroshi",
     "rating": "G - All Ages",
     "tags": [
         "historical"

@@ -1,5 +1,9 @@
 {
     "title": "Kono Koi wa Tsumi nano ka!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210970.jpg",
+        "alt": "kono-koi-wa-tsumi-nano-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Yume no Ishibumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17911.jpg",
+        "alt": "yume-no-ishibumi"
+    },
     "type": "manga",
     "volumes": "20",
     "original_name": "夢の碑",

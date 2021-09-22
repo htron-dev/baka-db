@@ -1,5 +1,9 @@
 {
     "title": "Sweets Ouji no Hitosagashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234694.jpg",
+        "alt": "sweets-ouji-no-hitosagashi"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "スイーツ王子の人探し",

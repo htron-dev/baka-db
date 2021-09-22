@@ -1,5 +1,9 @@
 {
     "title": "Tales of Hearts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229822.jpg",
+        "alt": "tales-of-hearts"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "テイルズ オブ ハーツ",

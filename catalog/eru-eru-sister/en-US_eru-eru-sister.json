@@ -1,5 +1,9 @@
 {
     "title": "Eru-Eru Sister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/74521.jpg",
+        "alt": "eru-eru-sister"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "32",

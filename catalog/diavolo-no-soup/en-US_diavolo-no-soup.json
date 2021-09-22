@@ -1,5 +1,9 @@
 {
     "title": "Diavolo no Soup",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109025.jpg",
+        "alt": "diavolo-no-soup"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

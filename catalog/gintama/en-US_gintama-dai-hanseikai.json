@@ -1,5 +1,9 @@
 {
     "title": "Gintama: Dai Hanseikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1725/110927.jpg",
+        "alt": "gintama-dai-hanseikai"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "アニメ銀魂　大反省会",

@@ -1,5 +1,9 @@
 {
     "title": "Silent Möbius: The Motion Picture",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/32059.jpg",
+        "alt": "silent-mobius-the-motion-picture"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "サイレントメビウス／THE MOTION PICTURE",

@@ -1,5 +1,9 @@
 {
     "title": "Anime TV de Hakken! Tamagotchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/63717.jpg",
+        "alt": "anime-tv-de-hakken-tamagotchi"
+    },
     "type": "tv-serie",
     "episodes": "27",
     "original_name": "アニメ　ＴＶで発見！！　たまごっち",

@@ -1,5 +1,9 @@
 {
     "title": "Ponshu-bu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213897.jpg",
+        "alt": "ponshu-bu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "50",

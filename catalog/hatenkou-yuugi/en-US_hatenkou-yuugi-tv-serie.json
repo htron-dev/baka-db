@@ -1,5 +1,9 @@
 {
     "title": "Hatenkou Yuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/19931.jpg",
+        "alt": "hatenkou-yuugi"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "破天荒遊戯",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Dazzle_(manga"
+            "link": "http://en.wikipedia.org/wiki/Dazzle_%28manga%29"
         }
     ]
 }

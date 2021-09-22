@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball Gaiden: Tensei shitara Yamcha Datta Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202580.jpg",
+        "alt": "dragon-ball-gaiden-tensei-shitara-yamcha-datta-ken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

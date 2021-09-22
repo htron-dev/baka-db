@@ -1,5 +1,9 @@
 {
     "title": "Kuroha to Nijisuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199169.jpg",
+        "alt": "kuroha-to-nijisuke"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

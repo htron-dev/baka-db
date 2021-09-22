@@ -1,5 +1,9 @@
 {
     "title": "Iceland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183937.jpg",
+        "alt": "iceland"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アイスランド",

@@ -1,5 +1,9 @@
 {
     "title": "Cybersix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/74732.jpg",
+        "alt": "cybersix"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "サイバーシックス",

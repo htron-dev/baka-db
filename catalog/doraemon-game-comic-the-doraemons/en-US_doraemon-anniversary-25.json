@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Anniversary 25",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/90052.jpg",
+        "alt": "doraemon-anniversary-25"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラえもんアニバーサリー 25",

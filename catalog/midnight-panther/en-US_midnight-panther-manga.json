@@ -1,5 +1,9 @@
 {
     "title": "Midnight Panther",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165156.jpg",
+        "alt": "midnight-panther"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

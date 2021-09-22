@@ -1,5 +1,9 @@
 {
     "title": "Kamen Rider Stronger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23851.jpg",
+        "alt": "kamen-rider-stronger"
+    },
     "type": "manga",
     "tags": [
         "action",

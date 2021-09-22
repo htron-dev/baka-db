@@ -1,5 +1,9 @@
 {
     "title": "Rui wa Koi wo Yobu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208864.jpg",
+        "alt": "rui-wa-koi-wo-yobu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

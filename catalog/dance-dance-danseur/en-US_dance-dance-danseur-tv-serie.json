@@ -1,5 +1,9 @@
 {
     "title": "Dance Dance Danseur",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1933/117581.jpg",
+        "alt": "dance-dance-danseur"
+    },
     "type": "tv-serie",
     "original_name": "ダンス・ダンス・ダンスール",
     "rating": "None",

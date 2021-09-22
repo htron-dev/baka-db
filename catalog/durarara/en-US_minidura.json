@@ -1,5 +1,9 @@
 {
     "title": "Minidura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140991.jpg",
+        "alt": "minidura"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

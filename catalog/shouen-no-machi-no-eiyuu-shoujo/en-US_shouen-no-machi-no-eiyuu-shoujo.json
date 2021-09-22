@@ -1,5 +1,9 @@
 {
     "title": "Shouen no Machi no Eiyuu Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177709.jpg",
+        "alt": "shouen-no-machi-no-eiyuu-shoujo"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "26",

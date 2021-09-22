@@ -1,5 +1,9 @@
 {
     "title": "Sono Toki Heart wa Nusumareta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21485.jpg",
+        "alt": "sono-toki-heart-wa-nusumareta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

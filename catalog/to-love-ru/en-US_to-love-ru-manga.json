@@ -1,5 +1,9 @@
 {
     "title": "To LOVE-Ru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63339.jpg",
+        "alt": "to-love-ru"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "162",

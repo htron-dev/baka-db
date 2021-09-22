@@ -1,11 +1,15 @@
 {
     "title": "Tsukipro The Animation 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1651/116291.jpg",
+        "alt": "tsukipro-the-animation-2"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "TSUKIPRO THE ANIMATION 2",
     "start_date": "2021-07-07",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"LOVE 'Em ALL\" by SolidS",
+    "ending_song": "#01: \"KAN-ZEN-OFF-MODE\" by SolidS (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music"

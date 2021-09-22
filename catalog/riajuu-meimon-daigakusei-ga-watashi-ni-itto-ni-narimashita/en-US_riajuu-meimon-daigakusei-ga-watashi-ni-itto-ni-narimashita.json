@@ -1,5 +1,9 @@
 {
     "title": "Riajuu Meimon Daigakusei ga Watashi ni Itto ni Narimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192559.jpg",
+        "alt": "riajuu-meimon-daigakusei-ga-watashi-ni-itto-ni-narimashita"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

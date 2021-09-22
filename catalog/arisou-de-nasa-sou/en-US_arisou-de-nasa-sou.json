@@ -1,5 +1,9 @@
 {
     "title": "Arisou de NASA-sou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154546.jpg",
+        "alt": "arisou-de-nasa-sou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

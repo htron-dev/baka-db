@@ -1,5 +1,9 @@
 {
     "title": "D-Zone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30493.jpg",
+        "alt": "d-zone"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "BxB Brothers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/662.jpg",
+        "alt": "bx-b-brothers"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "70",

@@ -1,5 +1,9 @@
 {
     "title": "Nogsaegjeoncha Hamos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/86978.jpg",
+        "alt": "nogsaegjeoncha-hamos"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "녹색전차 해모수",

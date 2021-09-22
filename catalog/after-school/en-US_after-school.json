@@ -1,5 +1,9 @@
 {
     "title": "After School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92201.jpg",
+        "alt": "after-school"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "アフタースクール",

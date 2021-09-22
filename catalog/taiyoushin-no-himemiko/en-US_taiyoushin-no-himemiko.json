@@ -1,5 +1,9 @@
 {
     "title": "Taiyoushin no Himemiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182808.jpg",
+        "alt": "taiyoushin-no-himemiko"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Sakana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220192.jpg",
+        "alt": "yoru-no-sakana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

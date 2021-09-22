@@ -1,5 +1,9 @@
 {
     "title": "Release the Spyce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1623/95617.jpg",
+        "alt": "release-the-spyce"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "RELEASE THE SPYCE",

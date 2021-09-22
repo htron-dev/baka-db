@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Honki Mode!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23600.jpg",
+        "alt": "momoiro-honki-mode"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "桃色・本気モード!",

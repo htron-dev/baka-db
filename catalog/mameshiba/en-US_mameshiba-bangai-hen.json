@@ -1,5 +1,9 @@
 {
     "title": "Mameshiba Bangai-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/80697.jpg",
+        "alt": "mameshiba-bangai-hen"
+    },
     "type": "special",
     "episodes": "5",
     "original_name": "豆しば番外編",

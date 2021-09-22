@@ -1,5 +1,9 @@
 {
     "title": "Nousatsu Daddy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/141675.jpg",
+        "alt": "nousatsu-daddy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

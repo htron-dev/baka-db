@@ -1,5 +1,9 @@
 {
     "title": "Bananya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/80200.jpg",
+        "alt": "bananya"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ばなにゃ",

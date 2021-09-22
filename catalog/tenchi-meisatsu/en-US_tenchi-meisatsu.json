@@ -1,5 +1,9 @@
 {
     "title": "Tenchi Meisatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166230.jpg",
+        "alt": "tenchi-meisatsu"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "47",

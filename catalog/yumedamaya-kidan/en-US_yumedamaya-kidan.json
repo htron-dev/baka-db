@@ -1,5 +1,9 @@
 {
     "title": "Yumedamaya Kidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/89601.jpg",
+        "alt": "yumedamaya-kidan"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ゆめだまや奇談",

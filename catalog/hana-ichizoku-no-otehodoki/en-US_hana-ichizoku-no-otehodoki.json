@@ -1,5 +1,9 @@
 {
     "title": "Hana Ichizoku no Otehodoki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198014.jpg",
+        "alt": "hana-ichizoku-no-otehodoki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

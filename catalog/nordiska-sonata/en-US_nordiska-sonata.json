@@ -1,5 +1,9 @@
 {
     "title": "Nordiska Sonata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23139.jpg",
+        "alt": "nordiska-sonata"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ノルディスカ奏鳴曲",

@@ -1,5 +1,9 @@
 {
     "title": "Otona Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/43375.jpg",
+        "alt": "otona-hatsukoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Happy Jozy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/72785.jpg",
+        "alt": "happy-jozy"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ハッピージョージ",

@@ -1,5 +1,9 @@
 {
     "title": "Akito wa Card wo Hiku you desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241621.jpg",
+        "alt": "akito-wa-card-wo-hiku-you-desu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

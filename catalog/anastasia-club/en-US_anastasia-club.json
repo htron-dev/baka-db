@@ -1,5 +1,9 @@
 {
     "title": "Anastasia Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195158.jpg",
+        "alt": "anastasia-club"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

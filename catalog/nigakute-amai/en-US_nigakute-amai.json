@@ -1,5 +1,9 @@
 {
     "title": "Nigakute Amai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175342.jpg",
+        "alt": "nigakute-amai"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "81",

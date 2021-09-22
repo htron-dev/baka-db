@@ -1,5 +1,9 @@
 {
     "title": "Itoshii Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32864.jpg",
+        "alt": "itoshii-kimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

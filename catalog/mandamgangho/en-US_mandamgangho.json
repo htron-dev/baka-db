@@ -1,5 +1,9 @@
 {
     "title": "Mandamgangho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1123/93054.jpg",
+        "alt": "mandamgangho"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "만담강호",

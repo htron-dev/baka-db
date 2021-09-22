@@ -1,5 +1,9 @@
 {
     "title": "Nijigen Jumpin'",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154675.jpg",
+        "alt": "nijigen-jumpin"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

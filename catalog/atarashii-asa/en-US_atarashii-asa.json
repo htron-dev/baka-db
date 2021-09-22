@@ -1,5 +1,9 @@
 {
     "title": "Atarashii Asa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31523.jpg",
+        "alt": "atarashii-asa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

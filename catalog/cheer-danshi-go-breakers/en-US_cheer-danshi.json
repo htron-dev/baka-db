@@ -1,12 +1,16 @@
 {
     "title": "Cheer Danshi!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/80360.jpg",
+        "alt": "cheer-danshi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "チア男子!!",
     "start_date": "2016-07-05",
     "end_date": "2016-07-05",
     "opening_song": "\"Hajime no Ippo (初めの一歩)\" by Luck Life",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hajime no Ippo (初めの一歩)\" by Luck Life (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sports",

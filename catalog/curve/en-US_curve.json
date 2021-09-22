@@ -1,5 +1,9 @@
 {
     "title": "Curve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79455.jpg",
+        "alt": "curve"
+    },
     "type": "manga",
     "original_name": "カーブ",
     "tags": [

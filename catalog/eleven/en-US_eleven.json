@@ -1,5 +1,9 @@
 {
     "title": "Eleven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131451.jpg",
+        "alt": "eleven"
+    },
     "type": "manga",
     "volumes": "43",
     "chapters": "168",

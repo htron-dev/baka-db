@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Night Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204955.jpg",
+        "alt": "sengoku-night-blood"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

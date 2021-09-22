@@ -1,12 +1,16 @@
 {
     "title": "Hitoribocchi no Marumaru Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1130/99458.jpg",
+        "alt": "hitoribocchi-no-marumaru-seikatsu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ひとりぼっちの ○○ 生活",
     "start_date": "2019-04-06",
     "end_date": "2019-04-06",
     "opening_song": "\"Hitoribocchi no Monologue (ひとりぼっちのモノローグ)\" by Hitori Bocchi (Chisaki Morishita), Sunao Nako (Minami Tanaka), Honshou Aru (Akari Kito), Sotca Luckythar (Yuuko Kurose)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ne, Issho ni Kaero. (ね、いっしょにかえろ。)\" by Hitori Bocchi (Chisaki Morishita)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

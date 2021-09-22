@@ -1,5 +1,9 @@
 {
     "title": "Himegitsune no Servant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162722.jpg",
+        "alt": "himegitsune-no-servant"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "22",

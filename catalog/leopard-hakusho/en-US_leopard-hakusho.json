@@ -1,5 +1,9 @@
 {
     "title": "Leopard Hakusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27532.jpg",
+        "alt": "leopard-hakusho"
+    },
     "type": "manga",
     "original_name": "レオパード白書",
     "tags": [

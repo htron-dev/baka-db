@@ -1,5 +1,9 @@
 {
     "title": "Kiken Mix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150498.jpg",
+        "alt": "kiken-mix"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "危険 MIX",

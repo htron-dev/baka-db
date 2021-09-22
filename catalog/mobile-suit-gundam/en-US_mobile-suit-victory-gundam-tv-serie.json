@@ -1,12 +1,16 @@
 {
     "title": "Mobile Suit Victory Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1913/102693.jpg",
+        "alt": "mobile-suit-victory-gundam"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "機動戦士 V ガンダム",
     "start_date": "1993-04-02",
     "end_date": "1993-04-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Stand Up To The Victory\" by Tomohisa Kawasoe (eps 1-31)",
+    "ending_song": "#1: \"Winners Forever\" by INFIX (eps 1-31)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

@@ -1,5 +1,9 @@
 {
     "title": "Animaru Sentai Unlimited",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/86405.jpg",
+        "alt": "animaru-sentai-unlimited"
+    },
     "type": "manga",
     "original_name": "アニ ○ 戦隊 ∞",
     "tags": [

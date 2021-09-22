@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Machi wa Mawatteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/25880.jpg",
+        "alt": "soredemo-machi-wa-mawatteiru"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "それでも町は廻っている",

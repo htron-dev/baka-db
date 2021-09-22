@@ -1,5 +1,9 @@
 {
     "title": "Blaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198156.jpg",
+        "alt": "blaze"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

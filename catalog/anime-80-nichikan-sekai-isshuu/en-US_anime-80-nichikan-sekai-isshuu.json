@@ -1,5 +1,9 @@
 {
     "title": "Anime 80-nichikan Sekai Isshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/69559.jpg",
+        "alt": "anime-80-nichikan-sekai-isshuu"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "アニメ 80 日間世界一周",

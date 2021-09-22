@@ -1,5 +1,9 @@
 {
     "title": "Wan Jie Chun Qiu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1886/107254.jpg",
+        "alt": "wan-jie-chun-qiu"
+    },
     "type": "ona",
     "episodes": "56",
     "original_name": "万界春秋",

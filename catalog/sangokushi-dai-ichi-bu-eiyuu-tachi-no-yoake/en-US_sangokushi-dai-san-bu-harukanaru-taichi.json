@@ -1,5 +1,9 @@
 {
     "title": "Sangokushi: Dai San Bu - Harukanaru Taichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/18592.jpg",
+        "alt": "sangokushi-dai-san-bu-harukanaru-taichi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "三国志 第三部 遥かなる大地",

@@ -1,5 +1,9 @@
 {
     "title": "Sora ni Taiyou ga Aru Kagiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9974.jpg",
+        "alt": "sora-ni-taiyou-ga-aru-kagiri"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

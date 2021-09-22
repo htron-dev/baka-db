@@ -1,5 +1,9 @@
 {
     "title": "NOeSIS: Uso wo Tsuita Kioku no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147641.jpg",
+        "alt": "n-oe-sis-uso-wo-tsuita-kioku-no-monogatari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

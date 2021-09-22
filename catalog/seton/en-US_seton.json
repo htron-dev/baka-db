@@ -1,5 +1,9 @@
 {
     "title": "Seton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14789.jpg",
+        "alt": "seton"
+    },
     "type": "manga",
     "volumes": "4",
     "tags": [

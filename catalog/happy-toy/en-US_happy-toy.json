@@ -1,5 +1,9 @@
 {
     "title": "Happy Toy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6657.jpg",
+        "alt": "happy-toy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Swing-Style",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79305.jpg",
+        "alt": "swing-style"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

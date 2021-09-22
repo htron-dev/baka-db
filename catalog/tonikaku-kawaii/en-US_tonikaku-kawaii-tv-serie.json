@@ -1,5 +1,9 @@
 {
     "title": "Tonikaku Kawaii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg",
+        "alt": "tonikaku-kawaii"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "トニカクカワイイ",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon_(manga"
+            "link": "https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon_%28manga%29#Anime"
         }
     ]
 }

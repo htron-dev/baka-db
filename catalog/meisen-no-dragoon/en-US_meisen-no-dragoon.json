@@ -1,5 +1,9 @@
 {
     "title": "Meisen no Dragoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189152.jpg",
+        "alt": "meisen-no-dragoon"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

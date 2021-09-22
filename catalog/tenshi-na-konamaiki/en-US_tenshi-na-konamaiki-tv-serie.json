@@ -1,12 +1,16 @@
 {
     "title": "Tenshi na Konamaiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/32701.jpg",
+        "alt": "tenshi-na-konamaiki"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "天使な小生意気",
     "start_date": "2002-04-06",
     "end_date": "2002-04-06",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: ''Grand Blue'' by Kitahara Aiko (episodes 1-26)",
+    "ending_song": "#01: ''Whenever I think of you'' by Yuuka Saegusa (episodes 1-14)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

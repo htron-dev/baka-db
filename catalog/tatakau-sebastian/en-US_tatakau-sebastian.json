@@ -1,5 +1,9 @@
 {
     "title": "Tatakau! Sebastian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173233.jpg",
+        "alt": "tatakau-sebastian"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "戦う! セバスチャン",

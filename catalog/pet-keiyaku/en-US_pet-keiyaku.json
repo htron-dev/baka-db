@@ -1,5 +1,9 @@
 {
     "title": "Pet Keiyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162575.jpg",
+        "alt": "pet-keiyaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Ayumu wa Yosetekuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219724.jpg",
+        "alt": "soredemo-ayumu-wa-yosetekuru"
+    },
     "type": "manga",
     "original_name": "それでも歩は寄せてくる",
     "start_date": "2019-03-06",

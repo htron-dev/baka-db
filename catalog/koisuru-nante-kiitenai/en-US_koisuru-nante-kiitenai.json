@@ -1,5 +1,9 @@
 {
     "title": "Koisuru nante Kiitenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192619.jpg",
+        "alt": "koisuru-nante-kiitenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

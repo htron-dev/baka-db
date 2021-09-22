@@ -1,5 +1,9 @@
 {
     "title": "Hakuouki Sekkaroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239086.jpg",
+        "alt": "hakuouki-sekkaroku"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "6",

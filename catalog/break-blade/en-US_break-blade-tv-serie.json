@@ -1,5 +1,9 @@
 {
     "title": "Break Blade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/58635.jpg",
+        "alt": "break-blade"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ブレイク ブレイド",

@@ -1,5 +1,9 @@
 {
     "title": "Break Blade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160213.jpg",
+        "alt": "break-blade"
+    },
     "type": "manga",
     "original_name": "ブレイクブレイド",
     "start_date": "2006-09-12",

@@ -1,5 +1,9 @@
 {
     "title": "Artiswitch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1805/115216.jpg",
+        "alt": "artiswitch"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "Artiswitch（アーティスウィッチ）",

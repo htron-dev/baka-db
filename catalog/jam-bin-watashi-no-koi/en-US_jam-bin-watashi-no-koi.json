@@ -1,5 +1,9 @@
 {
     "title": "Jam, Bin, Watashi no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199746.jpg",
+        "alt": "jam-bin-watashi-no-koi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

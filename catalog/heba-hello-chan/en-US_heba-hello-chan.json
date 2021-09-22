@@ -1,5 +1,9 @@
 {
     "title": "Heba! Hello-chan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4026.jpg",
+        "alt": "heba-hello-chan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "42",

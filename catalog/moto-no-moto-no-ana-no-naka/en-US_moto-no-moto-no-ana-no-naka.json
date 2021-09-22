@@ -1,5 +1,9 @@
 {
     "title": "Moto no Moto no Ana no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9925.jpg",
+        "alt": "moto-no-moto-no-ana-no-naka"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "21",

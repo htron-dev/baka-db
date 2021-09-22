@@ -1,5 +1,9 @@
 {
     "title": "Dancing Colors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190567.jpg",
+        "alt": "dancing-colors"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

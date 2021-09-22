@@ -1,5 +1,9 @@
 {
     "title": "Eden's Bowy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/55197.jpg",
+        "alt": "edens-bowy"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "127",

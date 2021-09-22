@@ -1,5 +1,9 @@
 {
     "title": "Marriage Royale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154212.jpg",
+        "alt": "marriage-royale"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "57",

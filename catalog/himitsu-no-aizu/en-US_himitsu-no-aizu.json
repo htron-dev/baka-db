@@ -1,5 +1,9 @@
 {
     "title": "Himitsu No Aizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28044.jpg",
+        "alt": "himitsu-no-aizu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

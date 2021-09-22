@@ -1,5 +1,9 @@
 {
     "title": "Metronome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100265.jpg",
+        "alt": "metronome"
+    },
     "type": "manhwa",
     "original_name": "메트로놈",
     "start_date": "2010-06-16",

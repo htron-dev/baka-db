@@ -1,5 +1,9 @@
 {
     "title": "Soshite, Hare ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147183.jpg",
+        "alt": "soshite-hare-ni-naru"
+    },
     "type": "manga",
     "original_name": "そして、晴れになる",
     "start_date": "2011-09-23",

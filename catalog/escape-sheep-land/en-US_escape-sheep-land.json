@@ -1,5 +1,9 @@
 {
     "title": "Escape Sheep Land",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193583.jpg",
+        "alt": "escape-sheep-land"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "18",

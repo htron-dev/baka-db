@@ -1,5 +1,9 @@
 {
     "title": "MILPOM★ Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/72836.jpg",
+        "alt": "milpom★-pilot"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "MILPOM★ (みるぽん)",

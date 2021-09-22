@@ -1,12 +1,16 @@
 {
     "title": "Soreyuke! Uchuu Senkan Yamamoto Yohko II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1390/90154.jpg",
+        "alt": "soreyuke-uchuu-senkan-yamamoto-yohko-ii"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "それゆけ!宇宙戦艦ヤマモト・ヨーコ Ⅱ",
     "start_date": "1997-08-06",
     "end_date": "1997-08-06",
     "opening_song": "\"Souda, Zettai. (そうだ、ぜったい。)\" by Masami Okui",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Heartware Girl -Kimi no Kokoro Kanjitara- (HEARTWARE GIRL〜君のこころ感じたら〜)\" by Motoyoshi Iwasaki (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,12 +1,16 @@
 {
     "title": "Kannagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/19724.jpg",
+        "alt": "kannagi"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "かんなぎ",
     "start_date": "2008-10-04",
     "end_date": "2008-10-04",
     "opening_song": "\"motto☆Hade ni ne! (motto☆ 派手にね！)\" by Haruka Tomatsu",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Musuhi no Toki (産巣日の時)\" by Haruka Tomatsu (eps 1-9, 11-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

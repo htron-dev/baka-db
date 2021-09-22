@@ -1,5 +1,9 @@
 {
     "title": "Bijo Juku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15426.jpg",
+        "alt": "bijo-juku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

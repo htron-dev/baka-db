@@ -1,5 +1,9 @@
 {
     "title": "Shin Ace wo Nerae!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/23161.jpg",
+        "alt": "shin-ace-wo-nerae"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "新・エースをねらえ!",

@@ -1,5 +1,9 @@
 {
     "title": "Pii Natsu ga Ippai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33423.jpg",
+        "alt": "pii-natsu-ga-ippai"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "34",

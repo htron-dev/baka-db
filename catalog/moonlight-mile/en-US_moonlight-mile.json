@@ -1,5 +1,9 @@
 {
     "title": "Moonlight Mile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/49427.jpg",
+        "alt": "moonlight-mile"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "206",

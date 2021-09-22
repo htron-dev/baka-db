@@ -1,5 +1,9 @@
 {
     "title": "Tono to Issho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192319.jpg",
+        "alt": "tono-to-issho"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "殿といっしょ",

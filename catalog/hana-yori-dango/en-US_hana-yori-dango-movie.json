@@ -1,5 +1,9 @@
 {
     "title": "Hana yori Dango (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/45907.jpg",
+        "alt": "hana-yori-dango-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "花より男子",

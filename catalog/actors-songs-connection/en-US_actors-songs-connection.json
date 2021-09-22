@@ -1,12 +1,16 @@
 {
     "title": "Actors: Songs Connection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1383/103339.jpg",
+        "alt": "actors-songs-connection"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ACTORS -Songs Connection-",
     "start_date": "2019-10-06",
     "end_date": "2019-10-06",
     "opening_song": "\"Titania (ティターニア)\" by Sakutasuke (サクタスケ) [Saku Otonomiya (Gakuto Kajiwara), Sousuke Kagura (Wataru Urata), Uta Outa (Yuuya Hozumi)]",
-    "ending_song": "#1",
+    "ending_song": "#1: \"INAZUMA SHOCK\" by Sakutasuke [Saku Otonomiya (Gakuto Kajiwara), Sousuke Kagura (Wataru Urata), Uta Outa (Yuuya Hozumi)]",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

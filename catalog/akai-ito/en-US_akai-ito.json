@@ -1,5 +1,9 @@
 {
     "title": "Akai Ito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/24035.jpg",
+        "alt": "akai-ito"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "赤い糸",

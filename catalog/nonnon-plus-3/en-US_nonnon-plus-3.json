@@ -1,5 +1,9 @@
 {
     "title": "Nonnon Plus 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36856.jpg",
+        "alt": "nonnon-plus-3"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ノンノンプラス３",

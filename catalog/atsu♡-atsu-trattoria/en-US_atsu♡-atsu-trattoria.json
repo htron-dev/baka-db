@@ -1,5 +1,9 @@
 {
     "title": "Atsu♡Atsu Trattoria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82044.jpg",
+        "alt": "atsu♡-atsu-trattoria"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

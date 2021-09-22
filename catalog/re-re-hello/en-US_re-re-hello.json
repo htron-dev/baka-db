@@ -1,5 +1,9 @@
 {
     "title": "ReRe Hello",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183754.jpg",
+        "alt": "re-re-hello"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "47",

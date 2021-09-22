@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Sekai Seifuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/214999.jpg",
+        "alt": "houkago-no-sekai-seifuku"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

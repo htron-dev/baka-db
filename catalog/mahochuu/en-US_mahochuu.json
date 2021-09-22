@@ -1,5 +1,9 @@
 {
     "title": "Mahochuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178109.jpg",
+        "alt": "mahochuu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

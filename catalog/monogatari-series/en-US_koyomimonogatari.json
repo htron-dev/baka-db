@@ -1,11 +1,15 @@
 {
     "title": "Koyomimonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/77744.jpg",
+        "alt": "koyomimonogatari"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "暦物語",
     "start_date": "2016-01-10",
     "end_date": "2016-01-10",
-    "opening_song": "#01",
+    "opening_song": "#01: \"perfect slumbers\" by Yui Horie (ep 1)",
     "ending_song": "\"whiz\" by TrySail",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

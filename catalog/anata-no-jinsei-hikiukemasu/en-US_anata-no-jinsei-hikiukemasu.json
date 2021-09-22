@@ -1,5 +1,9 @@
 {
     "title": "Anata no Jinsei Hikiukemasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24517.jpg",
+        "alt": "anata-no-jinsei-hikiukemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

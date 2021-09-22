@@ -1,5 +1,9 @@
 {
     "title": "Foxy Foxy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18936.jpg",
+        "alt": "foxy-foxy"
+    },
     "type": "manga",
     "tags": [
         "yaoi"

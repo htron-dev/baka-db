@@ -1,5 +1,9 @@
 {
     "title": "Ai nante Nai Nante",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163731.jpg",
+        "alt": "ai-nante-nai-nante"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

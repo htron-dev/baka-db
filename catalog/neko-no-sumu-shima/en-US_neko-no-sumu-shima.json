@@ -1,5 +1,9 @@
 {
     "title": "Neko no Sumu Shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/37685.jpg",
+        "alt": "neko-no-sumu-shima"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "猫の棲む島",

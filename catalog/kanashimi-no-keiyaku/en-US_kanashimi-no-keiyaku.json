@@ -1,5 +1,9 @@
 {
     "title": "Kanashimi no Keiyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247032.jpg",
+        "alt": "kanashimi-no-keiyaku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "悲しみの契約",

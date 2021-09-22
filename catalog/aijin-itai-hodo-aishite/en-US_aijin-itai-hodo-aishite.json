@@ -1,5 +1,9 @@
 {
     "title": "Aijin: Itai hodo Aishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95843.jpg",
+        "alt": "aijin-itai-hodo-aishite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

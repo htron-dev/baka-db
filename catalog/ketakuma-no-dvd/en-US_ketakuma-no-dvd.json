@@ -1,5 +1,9 @@
 {
     "title": "Ketakuma no DVD",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1077/97399.jpg",
+        "alt": "ketakuma-no-dvd"
+    },
     "type": "ova",
     "episodes": "21",
     "original_name": "けたくまの DVD",

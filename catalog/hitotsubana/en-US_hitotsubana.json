@@ -1,5 +1,9 @@
 {
     "title": "Hitotsubana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198124.jpg",
+        "alt": "hitotsubana"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "68",

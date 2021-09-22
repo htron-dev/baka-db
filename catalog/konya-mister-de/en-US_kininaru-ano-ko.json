@@ -1,5 +1,9 @@
 {
     "title": "Kininaru Ano Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155717.jpg",
+        "alt": "kininaru-ano-ko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

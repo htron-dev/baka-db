@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Triangle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236888.jpg",
+        "alt": "ayakashi-triangle"
+    },
     "type": "manga",
     "original_name": "あやかしトライアングル",
     "start_date": "2020-06-15",

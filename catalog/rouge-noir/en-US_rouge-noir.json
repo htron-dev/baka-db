@@ -1,5 +1,9 @@
 {
     "title": "Rouge Noir",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14574.jpg",
+        "alt": "rouge-noir"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

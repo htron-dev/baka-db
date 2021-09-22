@@ -1,5 +1,9 @@
 {
     "title": "B5 Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198722.jpg",
+        "alt": "b-5-hime"
+    },
     "type": "manga",
     "chapters": "12",
     "original_name": "B5 姫",

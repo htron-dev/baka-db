@@ -1,5 +1,9 @@
 {
     "title": "The Cherry Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/47.jpg",
+        "alt": "the-cherry-project"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

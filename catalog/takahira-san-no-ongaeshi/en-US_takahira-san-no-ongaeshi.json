@@ -1,5 +1,9 @@
 {
     "title": "Takahira-san no Ongaeshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223635.jpg",
+        "alt": "takahira-san-no-ongaeshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

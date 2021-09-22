@@ -1,5 +1,9 @@
 {
     "title": "Benkei tai Ushiwaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/35189.jpg",
+        "alt": "benkei-tai-ushiwaka"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "べんけい対ウシワカ",

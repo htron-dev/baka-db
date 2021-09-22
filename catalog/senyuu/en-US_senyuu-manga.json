@@ -1,5 +1,9 @@
 {
     "title": "Senyuu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92325.jpg",
+        "alt": "senyuu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Boku to Kanojo no XXX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58073.jpg",
+        "alt": "boku-to-kanojo-no-xxx"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "69",

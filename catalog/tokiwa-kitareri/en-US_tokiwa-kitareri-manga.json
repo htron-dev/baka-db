@@ -1,5 +1,9 @@
 {
     "title": "Tokiwa Kitareri!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149851.jpg",
+        "alt": "tokiwa-kitareri"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "123",

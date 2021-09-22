@@ -1,5 +1,9 @@
 {
     "title": "Chuutai Afro Tanaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169044.jpg",
+        "alt": "chuutai-afro-tanaka"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "117",

@@ -1,5 +1,9 @@
 {
     "title": "Kill Wizard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/157838.jpg",
+        "alt": "kill-wizard"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

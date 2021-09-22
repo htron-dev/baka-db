@@ -1,5 +1,9 @@
 {
     "title": "Project Zeoraymer Ω",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168425.jpg",
+        "alt": "project-zeoraymer-ω"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "80",

@@ -1,5 +1,9 @@
 {
     "title": "Bull to Arukeba...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171804.jpg",
+        "alt": "bull-to-arukeba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

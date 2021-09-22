@@ -1,5 +1,9 @@
 {
     "title": "Koudelka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25215.jpg",
+        "alt": "koudelka"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

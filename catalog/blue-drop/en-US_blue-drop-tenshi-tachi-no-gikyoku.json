@@ -1,5 +1,9 @@
 {
     "title": "Blue Drop: Tenshi-tachi no Gikyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/50485.jpg",
+        "alt": "blue-drop-tenshi-tachi-no-gikyoku"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "BLUE DROP ～天使達の戯曲～",

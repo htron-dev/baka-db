@@ -1,5 +1,9 @@
 {
     "title": "Boku no Jealousy Monogatari.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204962.jpg",
+        "alt": "boku-no-jealousy-monogatari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

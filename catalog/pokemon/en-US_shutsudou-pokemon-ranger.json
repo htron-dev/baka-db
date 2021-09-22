@@ -1,5 +1,9 @@
 {
     "title": "Shutsudou!! Pokemon Ranger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224952.jpg",
+        "alt": "shutsudou-pokemon-ranger"
+    },
     "type": "manga",
     "chapters": "13",
     "original_name": "出動！！ポケモンレンジャー",

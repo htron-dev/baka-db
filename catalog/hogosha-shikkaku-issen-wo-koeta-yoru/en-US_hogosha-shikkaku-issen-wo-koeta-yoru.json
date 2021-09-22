@@ -1,5 +1,9 @@
 {
     "title": "Hogosha Shikkaku. Issen wo Koeta Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247039.jpg",
+        "alt": "hogosha-shikkaku-issen-wo-koeta-yoru"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "52",

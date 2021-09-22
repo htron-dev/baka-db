@@ -1,12 +1,16 @@
 {
     "title": "Amagami SS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/78699.jpg",
+        "alt": "amagami-ss"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "アマガミ SS",
     "start_date": "2010-07-02",
     "end_date": "2010-07-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"i Love\" by azusa (eps 1-12)",
+    "ending_song": "#1: \"Kimi no Hitomi ni Koishiteru (キミの瞳に恋してる)\" by Shizuka Itou (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

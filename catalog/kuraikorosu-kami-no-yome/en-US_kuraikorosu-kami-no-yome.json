@@ -1,5 +1,9 @@
 {
     "title": "Kuraikorosu Kami no Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192820.jpg",
+        "alt": "kuraikorosu-kami-no-yome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

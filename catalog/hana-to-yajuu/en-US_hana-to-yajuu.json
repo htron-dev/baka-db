@@ -1,5 +1,9 @@
 {
     "title": "Hana to Yajuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/48385.jpg",
+        "alt": "hana-to-yajuu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "花と野獣",

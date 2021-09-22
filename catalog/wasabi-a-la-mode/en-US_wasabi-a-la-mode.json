@@ -1,5 +1,9 @@
 {
     "title": "Wasabi a la Mode!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/91189.jpg",
+        "alt": "wasabi-a-la-mode"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

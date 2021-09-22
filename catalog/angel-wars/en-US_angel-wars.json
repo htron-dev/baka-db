@@ -1,5 +1,9 @@
 {
     "title": "Angel Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4987.jpg",
+        "alt": "angel-wars"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

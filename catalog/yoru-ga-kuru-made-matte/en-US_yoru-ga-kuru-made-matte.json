@@ -1,5 +1,9 @@
 {
     "title": "Yoru ga Kuru Made Matte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118597.jpg",
+        "alt": "yoru-ga-kuru-made-matte"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "夜が来るまで待って",

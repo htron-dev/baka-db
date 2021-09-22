@@ -1,5 +1,9 @@
 {
     "title": "Igai: The Play Dead/Alive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209989.jpg",
+        "alt": "igai-the-play-dead-alive"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "46",

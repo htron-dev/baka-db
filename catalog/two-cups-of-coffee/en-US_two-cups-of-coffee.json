@@ -1,5 +1,9 @@
 {
     "title": "Two Cups of Coffee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7022.jpg",
+        "alt": "two-cups-of-coffee"
+    },
     "type": "manhwa",
     "chapters": "1",
     "tags": [

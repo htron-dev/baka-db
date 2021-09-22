@@ -1,12 +1,16 @@
 {
     "title": "Paniponi Dash!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/68901.jpg",
+        "alt": "paniponi-dash"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ぱにぽにだっしゅ！",
     "start_date": "2005-07-04",
     "end_date": "2005-07-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kiiroi Vacances (黄色いバカンス)\" by Momotsuki Gakuen 1 Nen C Gumi (eps 1-9, 11, 13-14, 16-17, 19, 22)",
+    "ending_song": "#1: \"Girlppi\" by Momotsuki Gakuen A☆B Gumi (Sawa Ishige, Asuka Nakase, Chieko Higuchi, Ryou Hirohashi, Tsugumi Higasayama) (eps 1-7, 9-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Ookami to Mitsubachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78317.jpg",
+        "alt": "ookami-to-mitsubachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

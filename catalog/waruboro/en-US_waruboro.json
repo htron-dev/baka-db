@@ -1,5 +1,9 @@
 {
     "title": "Waruboro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18347.jpg",
+        "alt": "waruboro"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ワルボロ",

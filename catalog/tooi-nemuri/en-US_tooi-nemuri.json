@@ -1,5 +1,9 @@
 {
     "title": "Tooi Nemuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18443.jpg",
+        "alt": "tooi-nemuri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

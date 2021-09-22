@@ -1,5 +1,9 @@
 {
     "title": "Ingoshima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219884.jpg",
+        "alt": "ingoshima"
+    },
     "type": "manga",
     "original_name": "インゴシマ",
     "start_date": "2018-02-12",

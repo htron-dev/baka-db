@@ -1,5 +1,9 @@
 {
     "title": "Dark Mage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/34917.jpg",
+        "alt": "dark-mage"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Kikoushi no Mune de Otoko wa Oboreru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41636.jpg",
+        "alt": "kikoushi-no-mune-de-otoko-wa-oboreru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

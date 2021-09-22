@@ -1,5 +1,9 @@
 {
     "title": "Wanwan Sanjuushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/22968.jpg",
+        "alt": "wanwan-sanjuushi"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ワンワン三銃士",

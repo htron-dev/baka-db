@@ -1,5 +1,9 @@
 {
     "title": "I: Wish You Were Here",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1610/94731.jpg",
+        "alt": "i-wish-you-were-here"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "i -wish you were here- ～あなたがここにいてほしい～",

@@ -1,5 +1,9 @@
 {
     "title": "Kizoku Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209564.jpg",
+        "alt": "kizoku-tantei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

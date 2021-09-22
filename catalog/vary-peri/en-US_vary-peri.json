@@ -1,5 +1,9 @@
 {
     "title": "Vary Peri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1133/93044.jpg",
+        "alt": "vary-peri"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "幻变精灵之蛋糕甜心",

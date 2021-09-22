@@ -1,5 +1,9 @@
 {
     "title": "Aki no Hi wa Tsurubeotoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177250.jpg",
+        "alt": "aki-no-hi-wa-tsurubeotoshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

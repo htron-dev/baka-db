@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Ikimono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152415.jpg",
+        "alt": "koisuru-ikimono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

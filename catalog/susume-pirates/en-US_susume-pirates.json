@@ -1,5 +1,9 @@
 {
     "title": "Susume!! Pirates",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153523.jpg",
+        "alt": "susume-pirates"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "すすめ!!パイレーツ",

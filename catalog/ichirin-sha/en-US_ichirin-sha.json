@@ -1,5 +1,9 @@
 {
     "title": "Ichirin-sha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/47679.jpg",
+        "alt": "ichirin-sha"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "一輪者 ICHIRIN-SHA",

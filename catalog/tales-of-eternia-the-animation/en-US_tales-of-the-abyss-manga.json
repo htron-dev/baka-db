@@ -1,5 +1,9 @@
 {
     "title": "Tales of the Abyss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/76233.jpg",
+        "alt": "tales-of-the-abyss"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "53",

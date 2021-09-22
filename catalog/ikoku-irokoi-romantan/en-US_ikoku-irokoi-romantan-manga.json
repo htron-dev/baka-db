@@ -1,5 +1,9 @@
 {
     "title": "Ikoku Irokoi Romantan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25462.jpg",
+        "alt": "ikoku-irokoi-romantan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Ottori Sousa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33671.jpg",
+        "alt": "ottori-sousa"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "70",

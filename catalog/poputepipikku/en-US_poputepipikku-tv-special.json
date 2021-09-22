@@ -1,11 +1,15 @@
 {
     "title": "Poputepipikku TV Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1091/100387.jpg",
+        "alt": "poputepipikku-tv-special"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ポプテピピック　ＴＶスペシャル",
     "start_date": "2019-04-01",
     "opening_song": "\"last sparkle\" by Sumire Uesaka",
-    "ending_song": "#1A",
+    "ending_song": "#1A: \"Fuusen Hikou\" by Aya Uchida & Yuka Ozaki (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

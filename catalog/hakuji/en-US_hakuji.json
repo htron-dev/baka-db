@@ -1,5 +1,9 @@
 {
     "title": "Hakuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22751.jpg",
+        "alt": "hakuji"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

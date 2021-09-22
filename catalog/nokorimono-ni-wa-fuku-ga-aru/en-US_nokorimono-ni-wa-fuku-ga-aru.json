@@ -1,5 +1,9 @@
 {
     "title": "Nokorimono ni wa Fuku ga Aru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245394.jpg",
+        "alt": "nokorimono-ni-wa-fuku-ga-aru"
+    },
     "type": "manga",
     "original_name": "残り物には福がある。",
     "start_date": "2019-11-08",

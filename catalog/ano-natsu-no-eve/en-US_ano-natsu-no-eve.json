@@ -1,5 +1,9 @@
 {
     "title": "Ano Natsu no Eve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203660.jpg",
+        "alt": "ano-natsu-no-eve"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

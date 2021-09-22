@@ -1,5 +1,9 @@
 {
     "title": "Bats & Terry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/89291.jpg",
+        "alt": "bats-terry"
+    },
     "type": "manga",
     "volumes": "24",
     "original_name": "バツ&テリー",

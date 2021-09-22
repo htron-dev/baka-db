@@ -1,5 +1,9 @@
 {
     "title": "Love Me Ponpoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227361.jpg",
+        "alt": "love-me-ponpoko"
+    },
     "type": "manga",
     "original_name": "ラブ・ミー・ぽんぽこ！",
     "start_date": "2019-07-05",

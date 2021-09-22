@@ -1,5 +1,9 @@
 {
     "title": "Cake Sushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/86118.jpg",
+        "alt": "cake-sushi"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "ケーキすし",

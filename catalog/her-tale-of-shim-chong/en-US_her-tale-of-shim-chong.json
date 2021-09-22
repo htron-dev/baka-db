@@ -1,5 +1,9 @@
 {
     "title": "Her Tale of Shim Chong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229462.jpg",
+        "alt": "her-tale-of-shim-chong"
+    },
     "type": "manhwa",
     "original_name": "그녀의 심청",
     "start_date": "2017-09-12",

@@ -1,5 +1,9 @@
 {
     "title": "X-Men: The Manga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153813.jpg",
+        "alt": "x-men-the-manga"
+    },
     "type": "manga",
     "volumes": "12",
     "tags": [],

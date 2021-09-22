@@ -1,5 +1,9 @@
 {
     "title": "Restart wa Onaka wo Sukasete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234539.jpg",
+        "alt": "restart-wa-onaka-wo-sukasete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

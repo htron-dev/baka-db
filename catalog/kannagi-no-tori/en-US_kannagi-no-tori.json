@@ -1,5 +1,9 @@
 {
     "title": "Kannagi no Tori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173806.jpg",
+        "alt": "kannagi-no-tori"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "神無ノ鳥",

@@ -1,5 +1,9 @@
 {
     "title": "Himekishi Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153823.jpg",
+        "alt": "himekishi-quest"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "姫騎士くえすと",

@@ -1,5 +1,9 @@
 {
     "title": "Shomuni no Tsubo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127093.jpg",
+        "alt": "shomuni-no-tsubo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

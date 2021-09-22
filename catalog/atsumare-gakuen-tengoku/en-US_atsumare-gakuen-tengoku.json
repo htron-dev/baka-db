@@ -1,5 +1,9 @@
 {
     "title": "Atsumare! Gakuen Tengoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173163.jpg",
+        "alt": "atsumare-gakuen-tengoku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

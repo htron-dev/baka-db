@@ -1,5 +1,9 @@
 {
     "title": "Blue Period",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1757/116931.jpg",
+        "alt": "blue-period"
+    },
     "type": "tv-serie",
     "original_name": "ブルーピリオド",
     "start_date": "2021-10-20",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Blue_Period_(manga"
+            "link": "https://en.wikipedia.org/wiki/Blue_Period_%28manga%29#Anime"
         }
     ]
 }

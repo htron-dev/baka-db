@@ -1,5 +1,9 @@
 {
     "title": "Seiken Tsukai no World Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173352.jpg",
+        "alt": "seiken-tsukai-no-world-break"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

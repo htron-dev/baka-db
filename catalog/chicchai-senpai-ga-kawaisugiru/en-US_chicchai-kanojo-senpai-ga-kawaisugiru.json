@@ -1,5 +1,9 @@
 {
     "title": "Chicchai Kanojo Senpai ga Kawaisugiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229264.jpg",
+        "alt": "chicchai-kanojo-senpai-ga-kawaisugiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

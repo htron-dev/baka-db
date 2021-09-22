@@ -1,5 +1,9 @@
 {
     "title": "School Resort!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203529.jpg",
+        "alt": "school-resort"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

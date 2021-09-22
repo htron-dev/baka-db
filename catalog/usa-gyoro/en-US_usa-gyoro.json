@@ -1,5 +1,9 @@
 {
     "title": "Usa Gyoro!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149128.jpg",
+        "alt": "usa-gyoro"
+    },
     "type": "manga",
     "original_name": "うさギョロ!",
     "start_date": "2010-08-11",

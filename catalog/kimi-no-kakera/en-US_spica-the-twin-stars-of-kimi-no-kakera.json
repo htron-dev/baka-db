@@ -1,5 +1,9 @@
 {
     "title": "Spica: The twin STARS of \"Kimi no Kakera\"",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131605.jpg",
+        "alt": "spica-the-twin-stars-of-kimi-no-kakera"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

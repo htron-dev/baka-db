@@ -1,5 +1,9 @@
 {
     "title": "Happy Mari-Chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39824.jpg",
+        "alt": "happy-mari-chan"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "ハッピーまりちゃん",

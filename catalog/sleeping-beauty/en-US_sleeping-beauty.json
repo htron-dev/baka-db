@@ -1,5 +1,9 @@
 {
     "title": "Sleeping Beauty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128497.jpg",
+        "alt": "sleeping-beauty"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

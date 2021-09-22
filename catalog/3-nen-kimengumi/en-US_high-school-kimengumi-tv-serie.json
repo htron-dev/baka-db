@@ -1,12 +1,16 @@
 {
     "title": "High School! Kimengumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1146/106160.jpg",
+        "alt": "high-school-kimengumi"
+    },
     "type": "tv-serie",
     "episodes": "86",
     "original_name": "ハイスクール！奇面組",
     "start_date": "1985-10-20",
     "end_date": "1985-10-20",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Ushiroyubi Sasaregumi\" by Ushiroyubi Sasaregumi (eps 1-23)",
+    "ending_song": "#1: \"Jogakusei no Ketsui\" by Ushiroyubi Sasaregumi (eps 1-8)",
     "rating": "None",
     "tags": [
         "comedy",

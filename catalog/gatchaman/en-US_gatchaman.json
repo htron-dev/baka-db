@@ -1,5 +1,9 @@
 {
     "title": "Gatchaman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/63307.jpg",
+        "alt": "gatchaman"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "GATCHAMAN",

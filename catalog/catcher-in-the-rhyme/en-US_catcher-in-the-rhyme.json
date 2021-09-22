@@ -1,5 +1,9 @@
 {
     "title": "Catcher in the Rhyme",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207222.jpg",
+        "alt": "catcher-in-the-rhyme"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "30",

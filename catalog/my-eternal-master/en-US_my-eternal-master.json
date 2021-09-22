@@ -1,5 +1,9 @@
 {
     "title": "My Eternal Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3069.jpg",
+        "alt": "my-eternal-master"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

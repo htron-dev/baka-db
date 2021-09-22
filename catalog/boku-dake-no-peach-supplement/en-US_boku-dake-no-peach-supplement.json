@@ -1,5 +1,9 @@
 {
     "title": "Boku dake no Peach Supplement",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2712.jpg",
+        "alt": "boku-dake-no-peach-supplement"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

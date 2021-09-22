@@ -1,5 +1,9 @@
 {
     "title": "Yakushiji Ryouko no Kaiki Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/92019.jpg",
+        "alt": "yakushiji-ryouko-no-kaiki-jikenbo"
+    },
     "type": "light-novel",
     "original_name": "薬師寺涼子の怪奇事件簿",
     "start_date": "1996-10-15",

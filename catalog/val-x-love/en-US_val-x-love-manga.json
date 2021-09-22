@@ -1,5 +1,9 @@
 {
     "title": "Val x Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182523.jpg",
+        "alt": "val-x-love"
+    },
     "type": "manga",
     "original_name": "戦 × 恋（ヴァルラヴ）",
     "start_date": "2015-12-12",

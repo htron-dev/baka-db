@@ -1,5 +1,9 @@
 {
     "title": "Midnight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17026.jpg",
+        "alt": "midnight"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "53",

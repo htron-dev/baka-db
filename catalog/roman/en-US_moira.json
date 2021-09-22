@@ -1,5 +1,9 @@
 {
     "title": "Moira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165711.jpg",
+        "alt": "moira"
+    },
     "type": "manga",
     "original_name": "Moira",
     "start_date": "2015-12-19",

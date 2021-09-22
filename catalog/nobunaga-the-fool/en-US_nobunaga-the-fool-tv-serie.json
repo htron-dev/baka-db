@@ -1,12 +1,16 @@
 {
     "title": "Nobunaga the Fool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/57803.jpg",
+        "alt": "nobunaga-the-fool"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ノブナガ・ザ・フール",
     "start_date": "2014-01-06",
     "end_date": "2014-01-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"FOOL THE WORLD\" by Minori Chihara (eps 1-13)",
+    "ending_song": "#1: \"AXIS\" by STEREO DIVE FOUNDATION (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

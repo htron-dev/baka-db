@@ -1,5 +1,9 @@
 {
     "title": "Koi no Unifura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153751.jpg",
+        "alt": "koi-no-unifura"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

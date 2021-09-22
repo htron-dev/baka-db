@@ -1,5 +1,9 @@
 {
     "title": "Mashima-en",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/56849.jpg",
+        "alt": "mashima-en"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

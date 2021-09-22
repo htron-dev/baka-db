@@ -1,5 +1,9 @@
 {
     "title": "Ichigo no Gakkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28773.jpg",
+        "alt": "ichigo-no-gakkou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

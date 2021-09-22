@@ -1,5 +1,9 @@
 {
     "title": "Imokami-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96905.jpg",
+        "alt": "imokami-sama"
+    },
     "type": "manga",
     "original_name": "いもかみさま《妹神様》",
     "start_date": "2011-09-06",

@@ -1,5 +1,9 @@
 {
     "title": "Bright Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195874.jpg",
+        "alt": "bright-blood"
+    },
     "type": "light-novel",
     "original_name": "暴血覚醒《ブライト・ブラッド》",
     "start_date": "2017-05-13",

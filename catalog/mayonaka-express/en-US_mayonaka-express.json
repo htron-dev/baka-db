@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka Express",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10594.jpg",
+        "alt": "mayonaka-express"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

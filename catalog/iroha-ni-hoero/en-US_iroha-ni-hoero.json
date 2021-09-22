@@ -1,5 +1,9 @@
 {
     "title": "Iroha ni Hoero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237004.jpg",
+        "alt": "iroha-ni-hoero"
+    },
     "type": "manga",
     "original_name": "いろはにほエロ!",
     "start_date": "2019-08-09",

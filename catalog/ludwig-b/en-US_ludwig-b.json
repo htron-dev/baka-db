@@ -1,5 +1,9 @@
 {
     "title": "Ludwig B",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/175752.jpg",
+        "alt": "ludwig-b"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ルードヴィヒ・B",

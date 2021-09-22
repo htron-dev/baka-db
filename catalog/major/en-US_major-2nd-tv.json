@@ -1,12 +1,16 @@
 {
     "title": "Major 2nd (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1066/90145.jpg",
+        "alt": "major-2nd-tv"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "メジャーセカンド",
     "start_date": "2018-04-07",
     "end_date": "2018-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Koeteike (越えていけ)\" by Kyuso Nekokami (キュウソネコカミ) (eps 1-13)",
+    "ending_song": "#1: \"Pride (プライド)\" by Yu Takahashi (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Major_(manga"
+            "link": "https://en.wikipedia.org/wiki/Major_%28manga%29#Anime"
         }
     ]
 }

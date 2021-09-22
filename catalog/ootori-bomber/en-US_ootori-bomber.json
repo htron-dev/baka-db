@@ -1,5 +1,9 @@
 {
     "title": "Ootori Bomber",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240165.jpg",
+        "alt": "ootori-bomber"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "48",

@@ -1,5 +1,9 @@
 {
     "title": "Junjou to Furachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2520.jpg",
+        "alt": "junjou-to-furachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

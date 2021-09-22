@@ -1,5 +1,9 @@
 {
     "title": "Seikimatsu Leader Gaiden Takeshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143781.jpg",
+        "alt": "seikimatsu-leader-gaiden-takeshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

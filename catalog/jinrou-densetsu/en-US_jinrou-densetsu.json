@@ -1,5 +1,9 @@
 {
     "title": "Jinrou Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/47857.jpg",
+        "alt": "jinrou-densetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

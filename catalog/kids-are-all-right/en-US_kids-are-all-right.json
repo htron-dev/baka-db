@@ -1,5 +1,9 @@
 {
     "title": "Kids Are All Right",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167324.jpg",
+        "alt": "kids-are-all-right"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "55",

@@ -1,5 +1,9 @@
 {
     "title": "Shinkaigyo no Anko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162815.jpg",
+        "alt": "shinkaigyo-no-anko-san"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

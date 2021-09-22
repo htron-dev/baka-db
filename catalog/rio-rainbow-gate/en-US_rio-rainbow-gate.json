@@ -1,11 +1,15 @@
 {
     "title": "Rio: Rainbow Gate!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/27707.jpg",
+        "alt": "rio-rainbow-gate"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "リオ レインボーゲート!",
     "start_date": "2011-01-04",
     "end_date": "2011-01-04",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Sekai to Issho ni Mawarou yo! (世界と一緒にまわろうよ！)\" by Love Roulettes (eps 2-3, 5-6, 8-10)",
     "ending_song": "\"Miracle☆Chance (みらくる ☆ ちゃんす)\" by ULTRA-PRISM",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

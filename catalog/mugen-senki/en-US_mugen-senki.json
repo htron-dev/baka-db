@@ -1,5 +1,9 @@
 {
     "title": "Mugen Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125077.jpg",
+        "alt": "mugen-senki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "夢幻戦記",

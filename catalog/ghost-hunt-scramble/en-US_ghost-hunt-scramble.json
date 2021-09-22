@@ -1,5 +1,9 @@
 {
     "title": "Ghost Hunt Scramble!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25940.jpg",
+        "alt": "ghost-hunt-scramble"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ゴーストハント・スクランブル！",

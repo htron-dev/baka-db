@@ -1,5 +1,9 @@
 {
     "title": "Ushio to Tora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171897.jpg",
+        "alt": "ushio-to-tora"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "30",

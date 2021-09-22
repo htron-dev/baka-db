@@ -1,5 +1,9 @@
 {
     "title": "Jingi Naki Mukotori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232380.jpg",
+        "alt": "jingi-naki-mukotori"
+    },
     "type": "manga",
     "original_name": "仁義なき婿取り",
     "start_date": "2020-01-04",

@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Sausage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2703.jpg",
+        "alt": "momoiro-sausage"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

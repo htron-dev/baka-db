@@ -1,5 +1,9 @@
 {
     "title": "Nejimaki Mano-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149296.jpg",
+        "alt": "nejimaki-mano-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

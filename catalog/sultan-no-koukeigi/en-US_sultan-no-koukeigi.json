@@ -1,5 +1,9 @@
 {
     "title": "Sultan no Koukeigi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44621.jpg",
+        "alt": "sultan-no-koukeigi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

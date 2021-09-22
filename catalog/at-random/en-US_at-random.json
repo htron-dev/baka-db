@@ -1,5 +1,9 @@
 {
     "title": "At Random",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10890.jpg",
+        "alt": "at-random"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "夕希はづみ傑作選",

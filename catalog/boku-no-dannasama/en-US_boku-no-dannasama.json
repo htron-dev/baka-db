@@ -1,5 +1,9 @@
 {
     "title": "Boku no Dannasama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246471.jpg",
+        "alt": "boku-no-dannasama"
+    },
     "type": "manga",
     "original_name": "ボクの旦那様",
     "start_date": "2015-06-10",

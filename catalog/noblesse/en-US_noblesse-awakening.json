@@ -1,8 +1,12 @@
 {
     "title": "Noblesse: Awakening",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/78406.jpg",
+        "alt": "noblesse-awakening"
+    },
     "type": "ona",
     "episodes": "1",
-    "original_name": "Noblesse",
+    "original_name": "Noblesse: Awakening",
     "start_date": "2016-02-04",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

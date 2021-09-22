@@ -1,5 +1,9 @@
 {
     "title": "Kaibutsu Oujo Nightmare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209655.jpg",
+        "alt": "kaibutsu-oujo-nightmare"
+    },
     "type": "manga",
     "original_name": "怪物王女ナイトメア",
     "start_date": "2017-11-25",

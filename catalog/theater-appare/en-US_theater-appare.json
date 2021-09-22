@@ -1,5 +1,9 @@
 {
     "title": "Theater Appare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239776.jpg",
+        "alt": "theater-appare"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

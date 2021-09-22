@@ -1,5 +1,9 @@
 {
     "title": "Robot x Laserbeam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197882.jpg",
+        "alt": "robot-x-laserbeam"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "62",

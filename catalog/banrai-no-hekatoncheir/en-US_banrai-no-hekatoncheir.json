@@ -1,5 +1,9 @@
 {
     "title": "Banrai no Hekatoncheir",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227869.jpg",
+        "alt": "banrai-no-hekatoncheir"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

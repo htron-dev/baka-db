@@ -1,5 +1,9 @@
 {
     "title": "Tamahagane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196754.jpg",
+        "alt": "tamahagane"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

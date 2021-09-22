@@ -1,5 +1,9 @@
 {
     "title": "Boku no Dokusaisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/22651.jpg",
+        "alt": "boku-no-dokusaisha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

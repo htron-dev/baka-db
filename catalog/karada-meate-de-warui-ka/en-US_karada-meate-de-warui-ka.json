@@ -1,5 +1,9 @@
 {
     "title": "Karada Meate de Warui ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59551.jpg",
+        "alt": "karada-meate-de-warui-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

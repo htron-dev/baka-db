@@ -1,5 +1,9 @@
 {
     "title": "Sabage-bu! Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/65183.jpg",
+        "alt": "sabage-bu-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "さばげぶっ！OVA SPECIAL MISSION",

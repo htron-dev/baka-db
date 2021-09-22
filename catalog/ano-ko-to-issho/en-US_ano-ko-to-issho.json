@@ -1,5 +1,9 @@
 {
     "title": "Ano Ko to Issho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7611.jpg",
+        "alt": "ano-ko-to-issho"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "56",

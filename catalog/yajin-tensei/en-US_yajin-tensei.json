@@ -1,5 +1,9 @@
 {
     "title": "Yajin Tensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232191.jpg",
+        "alt": "yajin-tensei"
+    },
     "type": "manga",
     "original_name": "野人転生",
     "start_date": "2019-05-27",

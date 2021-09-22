@@ -1,5 +1,9 @@
 {
     "title": "Datenshi Gakuen Devil Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/105523.jpg",
+        "alt": "datenshi-gakuen-devil-paradise"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

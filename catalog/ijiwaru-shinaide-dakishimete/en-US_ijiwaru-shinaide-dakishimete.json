@@ -1,5 +1,9 @@
 {
     "title": "Ijiwaru shinaide Dakishimete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225132.jpg",
+        "alt": "ijiwaru-shinaide-dakishimete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

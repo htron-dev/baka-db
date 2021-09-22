@@ -1,5 +1,9 @@
 {
     "title": "Shiawase ni Michita Yoru no Niwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246710.jpg",
+        "alt": "shiawase-ni-michita-yoru-no-niwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

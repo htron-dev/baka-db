@@ -1,5 +1,9 @@
 {
     "title": "Zouroku no Kibyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109241.jpg",
+        "alt": "zouroku-no-kibyo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

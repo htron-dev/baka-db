@@ -1,12 +1,16 @@
 {
     "title": "Yokoyama Mitsuteru Sangokushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/76348.jpg",
+        "alt": "yokoyama-mitsuteru-sangokushi"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "横山光輝 三国志",
     "start_date": "1991-10-18",
     "end_date": "1991-10-18",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Toki no Kawa\" by FENCE OF DEFENCE",
+    "ending_song": "#1: \"Sora\" by Mimori Yusa",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

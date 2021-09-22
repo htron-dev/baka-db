@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Itsumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219796.jpg",
+        "alt": "bokura-wa-itsumo"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "71",

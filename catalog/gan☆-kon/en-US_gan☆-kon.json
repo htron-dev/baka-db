@@ -1,5 +1,9 @@
 {
     "title": "Gan☆Kon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125137.jpg",
+        "alt": "gan☆-kon"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "46",

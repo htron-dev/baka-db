@@ -1,5 +1,9 @@
 {
     "title": "Asobi ni Iku yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139873.jpg",
+        "alt": "asobi-ni-iku-yo"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "57",

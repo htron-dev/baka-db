@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Madoka★Magica: Majuu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169125.jpg",
+        "alt": "mahou-shoujo-madoka★-magica-majuu-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

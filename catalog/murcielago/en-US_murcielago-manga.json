@@ -1,5 +1,9 @@
 {
     "title": "Murciélago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123541.jpg",
+        "alt": "murcielago"
+    },
     "type": "manga",
     "original_name": "MURCIÉLAGO",
     "start_date": "2013-04-19",

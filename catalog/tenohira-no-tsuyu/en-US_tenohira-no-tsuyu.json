@@ -1,5 +1,9 @@
 {
     "title": "Tenohira no Tsuyu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172375.jpg",
+        "alt": "tenohira-no-tsuyu"
+    },
     "type": "light-novel",
     "original_name": "手のひらの露",
     "start_date": "2015-08-18",

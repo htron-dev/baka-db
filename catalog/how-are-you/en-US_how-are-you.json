@@ -1,5 +1,9 @@
 {
     "title": "How Are You?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150071.jpg",
+        "alt": "how-are-you"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ハウアーユー?",

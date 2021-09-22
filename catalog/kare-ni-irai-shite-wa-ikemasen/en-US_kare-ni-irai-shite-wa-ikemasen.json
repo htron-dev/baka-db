@@ -1,5 +1,9 @@
 {
     "title": "Kare ni Irai Shite wa Ikemasen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219337.jpg",
+        "alt": "kare-ni-irai-shite-wa-ikemasen"
+    },
     "type": "manga",
     "original_name": "彼に依頼してはいけません",
     "start_date": "2018-03-28",

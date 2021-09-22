@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Tonari ni Cute na Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32599.jpg",
+        "alt": "watashi-no-tonari-ni-cute-na-kimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

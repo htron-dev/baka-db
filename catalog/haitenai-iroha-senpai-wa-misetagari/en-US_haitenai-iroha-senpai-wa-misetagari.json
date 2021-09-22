@@ -1,5 +1,9 @@
 {
     "title": "Haitenai! Iroha-senpai wa Misetagari!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169767.jpg",
+        "alt": "haitenai-iroha-senpai-wa-misetagari"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

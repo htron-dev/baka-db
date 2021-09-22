@@ -1,5 +1,9 @@
 {
     "title": "Okyakusama wa Kamisama desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169301.jpg",
+        "alt": "okyakusama-wa-kamisama-desu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

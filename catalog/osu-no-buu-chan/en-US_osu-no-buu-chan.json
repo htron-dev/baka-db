@@ -1,5 +1,9 @@
 {
     "title": "Osu no Buu-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1985/103362.jpg",
+        "alt": "osu-no-buu-chan"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "大須のぶーちゃん",

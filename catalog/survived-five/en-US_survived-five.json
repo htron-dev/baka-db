@@ -1,5 +1,9 @@
 {
     "title": "Survived Five",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196363.jpg",
+        "alt": "survived-five"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "サヴァイヴド ファイブ",

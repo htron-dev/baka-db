@@ -1,5 +1,9 @@
 {
     "title": "Hontou wa Suki nanoni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240682.jpg",
+        "alt": "hontou-wa-suki-nanoni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

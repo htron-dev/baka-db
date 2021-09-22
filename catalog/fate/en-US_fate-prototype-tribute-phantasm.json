@@ -1,5 +1,9 @@
 {
     "title": "Fate/Prototype: Tribute Phantasm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72947.jpg",
+        "alt": "fate-prototype-tribute-phantasm"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

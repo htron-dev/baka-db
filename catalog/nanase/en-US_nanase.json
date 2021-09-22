@@ -1,5 +1,9 @@
 {
     "title": "Nanase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152337.jpg",
+        "alt": "nanase"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

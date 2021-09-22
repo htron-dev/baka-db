@@ -1,5 +1,9 @@
 {
     "title": "Arisu ga Fushigi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210423.jpg",
+        "alt": "arisu-ga-fushigi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Mirai no Utena",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/21660.jpg",
+        "alt": "mirai-no-utena"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "74",

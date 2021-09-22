@@ -1,5 +1,9 @@
 {
     "title": "Scorebook",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10974.jpg",
+        "alt": "scorebook"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スコアブック 小箱とたん作品集",

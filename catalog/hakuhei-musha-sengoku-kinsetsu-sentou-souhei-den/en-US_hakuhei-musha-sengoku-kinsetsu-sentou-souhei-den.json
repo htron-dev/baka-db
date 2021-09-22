@@ -1,5 +1,9 @@
 {
     "title": "Hakuhei Musha: Sengoku Kinsetsu Sentou Souhei Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230051.jpg",
+        "alt": "hakuhei-musha-sengoku-kinsetsu-sentou-souhei-den"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "130",

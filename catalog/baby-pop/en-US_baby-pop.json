@@ -1,5 +1,9 @@
 {
     "title": "Baby Pop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164503.jpg",
+        "alt": "baby-pop"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

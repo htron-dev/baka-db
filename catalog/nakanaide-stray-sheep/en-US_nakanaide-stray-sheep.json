@@ -1,5 +1,9 @@
 {
     "title": "Nakanaide Stray Sheep",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139345.jpg",
+        "alt": "nakanaide-stray-sheep"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "なかないでストレイシープ",

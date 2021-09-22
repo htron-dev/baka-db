@@ -1,5 +1,9 @@
 {
     "title": "Chengzi Gushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1929/115507.jpg",
+        "alt": "chengzi-gushi"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "橙子故事",

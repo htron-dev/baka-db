@@ -1,5 +1,9 @@
 {
     "title": "Piyopiyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123929.jpg",
+        "alt": "piyopiyo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

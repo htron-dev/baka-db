@@ -1,5 +1,9 @@
 {
     "title": "Sekuken!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171765.jpg",
+        "alt": "sekuken"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "12",

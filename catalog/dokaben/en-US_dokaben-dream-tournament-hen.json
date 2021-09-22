@@ -1,5 +1,9 @@
 {
     "title": "Dokaben: Dream Tournament-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210971.jpg",
+        "alt": "dokaben-dream-tournament-hen"
+    },
     "type": "manga",
     "volumes": "34",
     "original_name": "ドカベン ドリームトーナメント編",

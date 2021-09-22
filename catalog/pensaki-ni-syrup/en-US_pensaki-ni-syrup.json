@@ -1,5 +1,9 @@
 {
     "title": "Pensaki ni Syrup",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148307.jpg",
+        "alt": "pensaki-ni-syrup"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "24",

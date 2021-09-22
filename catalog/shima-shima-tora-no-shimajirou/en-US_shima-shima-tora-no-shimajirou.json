@@ -1,12 +1,16 @@
 {
     "title": "Shima Shima Tora no Shimajirou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/27049.jpg",
+        "alt": "shima-shima-tora-no-shimajirou"
+    },
     "type": "tv-serie",
     "episodes": "726",
     "original_name": "しましまとらのしまじろう",
     "start_date": "1993-12-13",
     "end_date": "1993-12-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Shimatorando Island\" by Shima Shima Kids",
+    "ending_song": "#1: \"Zutto Motto Daisuki\" by Shima Shima Kids",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

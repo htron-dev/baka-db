@@ -1,5 +1,9 @@
 {
     "title": "Koi Lemon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188958.jpg",
+        "alt": "koi-lemon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

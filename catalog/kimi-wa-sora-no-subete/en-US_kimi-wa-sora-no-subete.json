@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Sora no Subete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165576.jpg",
+        "alt": "kimi-wa-sora-no-subete"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "49",

@@ -1,5 +1,9 @@
 {
     "title": "Kuma no Gakkou: Patissier Jackie to Ohisama no Sweets",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/83800.jpg",
+        "alt": "kuma-no-gakkou-patissier-jackie-to-ohisama-no-sweets"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画くまのがっこう パティシエ・ジャッキーとおひさまのスイーツ",
@@ -9,7 +13,6 @@
     "tags": [
         "comedy"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

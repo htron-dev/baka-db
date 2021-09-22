@@ -1,5 +1,9 @@
 {
     "title": "Dominion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1450/110634.jpg",
+        "alt": "dominion"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "ドミニオン",
@@ -14,7 +18,7 @@
         "police",
         "mecha"
     ],
-    "sinopse": "Leona Ozaki joins Newport City's infamous Tank Police division. With aid of Al and her newly built mini-tank, Bonaparte, she wages war on Buaku and his cohorts, the Puma Sisters. \n\n(Source: ANN)",
+    "sinopse": "Leona Ozaki joins Newport City's infamous Tank Police division. With aid of Al and her newly built mini-tank, Bonaparte, she wages war on Buaku and his cohorts, the Puma Sisters.\n\n(Source: ANN)",
     "links": [
         {
             "text": "My Anime list",

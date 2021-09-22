@@ -1,5 +1,9 @@
 {
     "title": "Wormy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1394/98936.jpg",
+        "alt": "wormy"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "WORMY",

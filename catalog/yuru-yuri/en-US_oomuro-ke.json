@@ -1,5 +1,9 @@
 {
     "title": "Oomuro-ke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/114825.jpg",
+        "alt": "oomuro-ke"
+    },
     "type": "manga",
     "original_name": "大室家",
     "start_date": "2012-07-03",

@@ -1,5 +1,9 @@
 {
     "title": "Two Car",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204332.jpg",
+        "alt": "two-car"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

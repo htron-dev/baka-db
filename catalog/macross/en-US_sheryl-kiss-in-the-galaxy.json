@@ -1,5 +1,9 @@
 {
     "title": "Sheryl: Kiss in the Galaxy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86039.jpg",
+        "alt": "sheryl-kiss-in-the-galaxy"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "9",

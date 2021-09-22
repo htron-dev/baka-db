@@ -1,5 +1,9 @@
 {
     "title": "Knights of the Zodiac: Saint Seiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1091/101664.jpg",
+        "alt": "knights-of-the-zodiac-saint-seiya"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "Knights of the Zodiac 聖闘士星矢（仮）",

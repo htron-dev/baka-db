@@ -1,5 +1,9 @@
 {
     "title": "Tsuioku no First Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247036.jpg",
+        "alt": "tsuioku-no-first-love"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "追憶のファースト・ラブ",

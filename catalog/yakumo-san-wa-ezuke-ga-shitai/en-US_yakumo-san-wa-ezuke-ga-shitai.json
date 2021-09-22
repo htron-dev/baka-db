@@ -1,5 +1,9 @@
 {
     "title": "Yakumo-san wa Ezuke ga Shitai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195334.jpg",
+        "alt": "yakumo-san-wa-ezuke-ga-shitai"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "89",

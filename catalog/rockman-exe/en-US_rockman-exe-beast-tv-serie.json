@@ -1,5 +1,9 @@
 {
     "title": "Rockman.EXE Beast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/80910.jpg",
+        "alt": "rockman-exe-beast"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ロックマン エグゼ ＢＥＡＳＴ",

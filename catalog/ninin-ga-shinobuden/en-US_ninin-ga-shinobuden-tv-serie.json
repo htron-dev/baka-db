@@ -1,5 +1,9 @@
 {
     "title": "Ninin ga Shinobuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/6591.jpg",
+        "alt": "ninin-ga-shinobuden"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ニニンがシノブ伝",

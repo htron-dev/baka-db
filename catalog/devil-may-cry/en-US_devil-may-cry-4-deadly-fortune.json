@@ -1,5 +1,9 @@
 {
     "title": "Devil May Cry 4: Deadly Fortune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221178.jpg",
+        "alt": "devil-may-cry-4-deadly-fortune"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "23",

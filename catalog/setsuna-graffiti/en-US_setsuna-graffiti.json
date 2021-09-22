@@ -1,5 +1,9 @@
 {
     "title": "Setsuna Graffiti",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168232.jpg",
+        "alt": "setsuna-graffiti"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

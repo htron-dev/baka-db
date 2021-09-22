@@ -1,5 +1,9 @@
 {
     "title": "Terra Formars Gaiden: Onizuka Keiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178115.jpg",
+        "alt": "terra-formars-gaiden-onizuka-keiji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

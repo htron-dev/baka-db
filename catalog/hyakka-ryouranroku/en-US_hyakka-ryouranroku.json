@@ -1,5 +1,9 @@
 {
     "title": "Hyakka Ryouranroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144255.jpg",
+        "alt": "hyakka-ryouranroku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

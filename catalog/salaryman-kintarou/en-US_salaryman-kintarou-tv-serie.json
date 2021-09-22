@@ -1,5 +1,9 @@
 {
     "title": "Salaryman Kintarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/62593.jpg",
+        "alt": "salaryman-kintarou"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "サラリーマン金太郎",

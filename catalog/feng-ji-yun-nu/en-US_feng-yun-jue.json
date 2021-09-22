@@ -1,5 +1,9 @@
 {
     "title": "Feng Yun Jue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/11472.jpg",
+        "alt": "feng-yun-jue"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "風雲決",

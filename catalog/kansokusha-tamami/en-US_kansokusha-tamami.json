@@ -1,5 +1,9 @@
 {
     "title": "Kansokusha Tamami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39779.jpg",
+        "alt": "kansokusha-tamami"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

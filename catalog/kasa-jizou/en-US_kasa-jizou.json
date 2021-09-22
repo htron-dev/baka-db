@@ -1,5 +1,9 @@
 {
     "title": "Kasa Jizou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/78324.jpg",
+        "alt": "kasa-jizou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "かさじぞう",

@@ -1,5 +1,9 @@
 {
     "title": "Hakamada Piano Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14163.jpg",
+        "alt": "hakamada-piano-kyoushitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

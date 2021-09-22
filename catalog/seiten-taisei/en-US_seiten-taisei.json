@@ -1,5 +1,9 @@
 {
     "title": "Seiten Taisei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175297.jpg",
+        "alt": "seiten-taisei"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

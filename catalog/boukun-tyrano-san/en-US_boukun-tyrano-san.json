@@ -1,5 +1,9 @@
 {
     "title": "Boukun Tyrano-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/105915.jpg",
+        "alt": "boukun-tyrano-san"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "暴君ティラノさん",

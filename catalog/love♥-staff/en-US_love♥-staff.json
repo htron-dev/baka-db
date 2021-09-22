@@ -1,5 +1,9 @@
 {
     "title": "Love♥Staff",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38192.jpg",
+        "alt": "love♥-staff"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

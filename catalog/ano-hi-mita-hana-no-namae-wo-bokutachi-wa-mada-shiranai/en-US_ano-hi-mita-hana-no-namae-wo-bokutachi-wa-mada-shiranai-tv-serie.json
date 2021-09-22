@@ -1,12 +1,16 @@
 {
     "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/79697.jpg",
+        "alt": "ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "あの日見た花の名前を僕達はまだ知らない。",
     "start_date": "2011-04-15",
     "end_date": "2011-04-15",
-    "opening_song": "#01",
-    "ending_song": "#1",
+    "opening_song": "#01: \"Aoi Shiori (青い栞)\" by Galileo Galilei (eps 1-10)",
+    "ending_song": "#1: \"Dear Love\" by Remedios (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

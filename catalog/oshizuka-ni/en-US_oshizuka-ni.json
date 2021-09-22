@@ -1,5 +1,9 @@
 {
     "title": "Oshizuka ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/71583.jpg",
+        "alt": "oshizuka-ni"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おしずかに",

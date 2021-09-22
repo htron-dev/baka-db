@@ -1,5 +1,9 @@
 {
     "title": "Uchi no Kamisama ni wa Gakkari da!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224818.jpg",
+        "alt": "uchi-no-kamisama-ni-wa-gakkari-da"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

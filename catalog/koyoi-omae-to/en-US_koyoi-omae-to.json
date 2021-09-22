@@ -1,5 +1,9 @@
 {
     "title": "Koyoi Omae to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109183.jpg",
+        "alt": "koyoi-omae-to"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

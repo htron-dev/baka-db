@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Unaji ni Kanpai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11216.jpg",
+        "alt": "kimi-no-unaji-ni-kanpai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

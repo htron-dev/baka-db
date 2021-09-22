@@ -1,5 +1,9 @@
 {
     "title": "Ishigami-sama no Ossharu Koto wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243091.jpg",
+        "alt": "ishigami-sama-no-ossharu-koto-wa"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Ashita-naki Futari demo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247200.jpg",
+        "alt": "ashita-naki-futari-demo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "明日なき二人でも",

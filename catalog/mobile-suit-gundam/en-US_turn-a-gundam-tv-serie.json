@@ -1,12 +1,16 @@
 {
     "title": "Turn A Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/78330.jpg",
+        "alt": "turn-a-gundam"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "∀ ガンダム",
     "start_date": "1999-04-09",
     "end_date": "1999-04-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Turn A Turn (ターン A ターン)\" by Hideki Saijou (eps 2-38)",
+    "ending_song": "#1: \"AURA\" by Shinji Tanimura (eps 1-40)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

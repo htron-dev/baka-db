@@ -1,5 +1,9 @@
 {
     "title": "Ibitsu na Bokura no Katachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244304.jpg",
+        "alt": "ibitsu-na-bokura-no-katachi"
+    },
     "type": "manga",
     "original_name": "いびつなボクらのカタチ",
     "start_date": "2018-06-22",

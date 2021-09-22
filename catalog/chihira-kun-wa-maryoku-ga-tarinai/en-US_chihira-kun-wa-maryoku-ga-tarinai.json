@@ -1,5 +1,9 @@
 {
     "title": "Chihira-kun wa Maryoku ga Tarinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238334.jpg",
+        "alt": "chihira-kun-wa-maryoku-ga-tarinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

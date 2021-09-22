@@ -1,5 +1,9 @@
 {
     "title": "Nadete Kanadete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246339.jpg",
+        "alt": "nadete-kanadete"
+    },
     "type": "manga",
     "original_name": "なでて奏でて",
     "start_date": "2021-01-13",

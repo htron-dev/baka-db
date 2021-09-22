@@ -1,5 +1,9 @@
 {
     "title": "Kyou kara Hitman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157886.jpg",
+        "alt": "kyou-kara-hitman"
+    },
     "type": "manga",
     "volumes": "31",
     "original_name": "今日からヒットマン",

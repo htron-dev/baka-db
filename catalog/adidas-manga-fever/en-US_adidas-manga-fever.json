@@ -1,5 +1,9 @@
 {
     "title": "Adidas Manga Fever",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126553.jpg",
+        "alt": "adidas-manga-fever"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "21",

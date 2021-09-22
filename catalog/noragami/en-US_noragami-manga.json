@@ -1,5 +1,9 @@
 {
     "title": "Noragami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90899.jpg",
+        "alt": "noragami"
+    },
     "type": "manga",
     "original_name": "ノラガミ",
     "start_date": "2010-12-23",

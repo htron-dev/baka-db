@@ -1,5 +1,9 @@
 {
     "title": "Leading Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163870.jpg",
+        "alt": "leading-blood"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

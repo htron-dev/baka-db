@@ -1,12 +1,16 @@
 {
     "title": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/54389.jpg",
+        "alt": "yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "勇者になれなかった俺はしぶしぶ就職を決意しました。",
     "start_date": "2013-10-05",
     "end_date": "2013-10-05",
     "opening_song": "\"Extra Revolution (エキストラレボリューション)\" by ZAQ (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Extra Revolution (エキストラレボリューション)\" by ZAQ (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

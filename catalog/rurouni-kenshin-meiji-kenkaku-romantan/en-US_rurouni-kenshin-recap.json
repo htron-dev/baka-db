@@ -1,5 +1,9 @@
 {
     "title": "Rurouni Kenshin Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/28413.jpg",
+        "alt": "rurouni-kenshin-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "るろうに剣心",

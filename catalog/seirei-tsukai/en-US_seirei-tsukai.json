@@ -1,5 +1,9 @@
 {
     "title": "Seirei Tsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1866.jpg",
+        "alt": "seirei-tsukai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "精霊使い",

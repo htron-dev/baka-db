@@ -1,5 +1,9 @@
 {
     "title": "Kouishou Radio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/105385.jpg",
+        "alt": "kouishou-radio"
+    },
     "type": "manga",
     "original_name": "後遺症ラジオ",
     "start_date": "2010-07-07",

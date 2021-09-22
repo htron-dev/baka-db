@@ -1,5 +1,9 @@
 {
     "title": "Kokoro no Kagi wo Mitsukete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160579.jpg",
+        "alt": "kokoro-no-kagi-wo-mitsukete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

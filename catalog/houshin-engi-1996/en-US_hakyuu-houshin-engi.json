@@ -1,12 +1,16 @@
 {
     "title": "Hakyuu Houshin Engi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/88796.jpg",
+        "alt": "hakyuu-houshin-engi"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "覇穹 封神演義",
     "start_date": "2018-01-12",
     "end_date": "2018-01-12",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Keep the Heat and Fire Yourself Up\" by Fear, and Loathing in Las Vegas",
+    "ending_song": "#1: \"Madoi Mirai (間遠い未来)\" by Nagi Yanagi",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

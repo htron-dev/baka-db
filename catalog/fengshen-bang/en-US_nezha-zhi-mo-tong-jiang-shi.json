@@ -1,5 +1,9 @@
 {
     "title": "Nezha Zhi Mo Tong Jiang Shi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1759/102055.jpg",
+        "alt": "nezha-zhi-mo-tong-jiang-shi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "哪吒之魔童降世",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Ne_Zha_(2019_film"
+            "link": "https://en.wikipedia.org/wiki/Ne_Zha_%282019_film%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Hellsing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/19956.jpg",
+        "alt": "hellsing"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "Hellsing [ヘルシング]",

@@ -1,5 +1,9 @@
 {
     "title": "Suki ni Natte mo Ii no?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7592.jpg",
+        "alt": "suki-ni-natte-mo-ii-no"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

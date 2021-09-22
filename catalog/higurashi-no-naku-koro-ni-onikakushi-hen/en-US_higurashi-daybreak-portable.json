@@ -1,5 +1,9 @@
 {
     "title": "Higurashi Daybreak Portable",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137923.jpg",
+        "alt": "higurashi-daybreak-portable"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ひぐらしデイブレイク Portable",

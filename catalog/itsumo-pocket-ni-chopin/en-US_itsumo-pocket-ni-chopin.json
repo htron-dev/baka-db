@@ -1,5 +1,9 @@
 {
     "title": "Itsumo Pocket ni Chopin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4527.jpg",
+        "alt": "itsumo-pocket-ni-chopin"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "3",

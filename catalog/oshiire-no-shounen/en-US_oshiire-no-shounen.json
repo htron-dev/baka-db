@@ -1,5 +1,9 @@
 {
     "title": "Oshiire no Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116015.jpg",
+        "alt": "oshiire-no-shounen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

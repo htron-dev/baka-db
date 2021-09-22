@@ -1,5 +1,9 @@
 {
     "title": "Aoi Triton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/87373.jpg",
+        "alt": "aoi-triton"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "青いトリトン",

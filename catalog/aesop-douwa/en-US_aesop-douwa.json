@@ -1,5 +1,9 @@
 {
     "title": "Aesop Douwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/86238.jpg",
+        "alt": "aesop-douwa"
+    },
     "type": "ova",
     "episodes": "3",
     "start_date": "1993-11-21",

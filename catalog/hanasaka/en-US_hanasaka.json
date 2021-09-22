@@ -1,5 +1,9 @@
 {
     "title": "Hanasaka!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149875.jpg",
+        "alt": "hanasaka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

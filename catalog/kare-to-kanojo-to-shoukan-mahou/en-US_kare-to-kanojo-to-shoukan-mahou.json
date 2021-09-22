@@ -1,5 +1,9 @@
 {
     "title": "Kare to Kanojo to Shoukan Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164579.jpg",
+        "alt": "kare-to-kanojo-to-shoukan-mahou"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "39",

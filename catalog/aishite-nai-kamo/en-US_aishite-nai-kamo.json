@@ -1,5 +1,9 @@
 {
     "title": "Aishite Nai, kamo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191729.jpg",
+        "alt": "aishite-nai-kamo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

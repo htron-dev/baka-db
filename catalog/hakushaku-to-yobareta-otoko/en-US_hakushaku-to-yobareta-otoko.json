@@ -1,5 +1,9 @@
 {
     "title": "Hakushaku to Yobareta Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23487.jpg",
+        "alt": "hakushaku-to-yobareta-otoko"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "19",

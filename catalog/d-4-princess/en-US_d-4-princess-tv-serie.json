@@ -1,5 +1,9 @@
 {
     "title": "D4 Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/36383.jpg",
+        "alt": "d-4-princess"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "D4 プリンセス",

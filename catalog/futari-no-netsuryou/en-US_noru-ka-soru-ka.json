@@ -1,5 +1,9 @@
 {
     "title": "Noru ka Soru ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215118.jpg",
+        "alt": "noru-ka-soru-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

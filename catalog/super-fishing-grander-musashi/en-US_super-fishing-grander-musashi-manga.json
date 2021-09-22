@@ -1,5 +1,9 @@
 {
     "title": "Super Fishing Grander Musashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/92643.jpg",
+        "alt": "super-fishing-grander-musashi"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "スーパーフィッシング グランダー武蔵",

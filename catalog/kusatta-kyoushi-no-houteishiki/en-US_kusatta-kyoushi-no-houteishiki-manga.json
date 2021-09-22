@@ -1,5 +1,9 @@
 {
     "title": "Kusatta Kyoushi no Houteishiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3718.jpg",
+        "alt": "kusatta-kyoushi-no-houteishiki"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "47",

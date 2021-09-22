@@ -1,5 +1,9 @@
 {
     "title": "Artist Acro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84569.jpg",
+        "alt": "artist-acro"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "81",

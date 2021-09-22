@@ -1,5 +1,9 @@
 {
     "title": "Manga Senmon Gakkousei no Seishun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167509.jpg",
+        "alt": "manga-senmon-gakkousei-no-seishun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "43",

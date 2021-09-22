@@ -1,5 +1,9 @@
 {
     "title": "Aroma-chan wa Konya mo Hazukashii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211648.jpg",
+        "alt": "aroma-chan-wa-konya-mo-hazukashii"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

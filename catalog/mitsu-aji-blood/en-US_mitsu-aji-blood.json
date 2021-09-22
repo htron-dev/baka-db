@@ -1,5 +1,9 @@
 {
     "title": "Mitsu-aji Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125559.jpg",
+        "alt": "mitsu-aji-blood"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

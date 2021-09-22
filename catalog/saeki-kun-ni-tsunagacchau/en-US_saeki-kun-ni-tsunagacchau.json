@@ -1,5 +1,9 @@
 {
     "title": "Saeki-kun ni Tsunagacchau!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221785.jpg",
+        "alt": "saeki-kun-ni-tsunagacchau"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

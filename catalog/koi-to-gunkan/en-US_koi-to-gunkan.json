@@ -1,5 +1,9 @@
 {
     "title": "Koi to Gunkan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163827.jpg",
+        "alt": "koi-to-gunkan"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "48",

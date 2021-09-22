@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ants",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112077.jpg",
+        "alt": "tokyo-ants"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

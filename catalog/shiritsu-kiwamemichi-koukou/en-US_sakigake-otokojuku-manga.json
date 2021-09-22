@@ -1,5 +1,9 @@
 {
     "title": "Sakigake!! Otokojuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25648.jpg",
+        "alt": "sakigake-otokojuku"
+    },
     "type": "manga",
     "volumes": "34",
     "chapters": "314",

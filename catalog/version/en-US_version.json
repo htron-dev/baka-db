@@ -1,5 +1,9 @@
 {
     "title": "Version",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83555.jpg",
+        "alt": "version"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "VERSION",

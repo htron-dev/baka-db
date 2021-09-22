@@ -1,5 +1,9 @@
 {
     "title": "Chargeman Ken!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/86971.jpg",
+        "alt": "chargeman-ken"
+    },
     "type": "tv-serie",
     "episodes": "65",
     "original_name": "チャージマン研！",

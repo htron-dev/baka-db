@@ -1,5 +1,9 @@
 {
     "title": "Karneval",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/43467.jpg",
+        "alt": "karneval"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "カーニヴァル",
@@ -22,7 +26,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/カーニヴァル_(漫画"
+            "link": "http://ja.wikipedia.org/wiki/カーニヴァル_%28漫画%29"
         }
     ]
 }

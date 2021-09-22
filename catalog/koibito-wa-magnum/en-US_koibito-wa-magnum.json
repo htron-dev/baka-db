@@ -1,5 +1,9 @@
 {
     "title": "Koibito wa Magnum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39895.jpg",
+        "alt": "koibito-wa-magnum"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋人はマグナム!!",

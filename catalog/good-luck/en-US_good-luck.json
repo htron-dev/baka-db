@@ -1,5 +1,9 @@
 {
     "title": "Good Luck",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152319.jpg",
+        "alt": "good-luck"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "25",

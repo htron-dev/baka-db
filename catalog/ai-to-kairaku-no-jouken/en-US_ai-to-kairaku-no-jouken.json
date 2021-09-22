@@ -1,5 +1,9 @@
 {
     "title": "Ai to Kairaku no Jouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126507.jpg",
+        "alt": "ai-to-kairaku-no-jouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

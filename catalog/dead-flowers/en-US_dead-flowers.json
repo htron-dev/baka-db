@@ -1,5 +1,9 @@
 {
     "title": "Dead Flowers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12308.jpg",
+        "alt": "dead-flowers"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "DEAD FLOWERS",

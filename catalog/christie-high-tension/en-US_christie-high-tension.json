@@ -1,5 +1,9 @@
 {
     "title": "Christie: High Tension",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157266.jpg",
+        "alt": "christie-high-tension"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "53",

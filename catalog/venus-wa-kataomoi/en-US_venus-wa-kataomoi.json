@@ -1,5 +1,9 @@
 {
     "title": "Venus wa Kataomoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5002.jpg",
+        "alt": "venus-wa-kataomoi"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "58",

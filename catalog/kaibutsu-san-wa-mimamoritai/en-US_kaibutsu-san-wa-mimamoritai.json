@@ -1,5 +1,9 @@
 {
     "title": "Kaibutsu-san wa Mimamoritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248256.jpg",
+        "alt": "kaibutsu-san-wa-mimamoritai"
+    },
     "type": "manga",
     "original_name": "怪物さんは見守りたい",
     "start_date": "2020-05-22",

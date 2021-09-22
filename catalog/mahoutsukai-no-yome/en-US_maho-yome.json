@@ -1,5 +1,9 @@
 {
     "title": "MahoYome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/88137.jpg",
+        "alt": "maho-yome"
+    },
     "type": "ona",
     "episodes": "24",
     "original_name": "まほよめ",

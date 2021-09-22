@@ -1,5 +1,9 @@
 {
     "title": "Gundam Breaker: Battlogue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1712/117280.jpg",
+        "alt": "gundam-breaker-battlogue"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "ガンダムブレイカー バトローグ",

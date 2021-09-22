@@ -1,5 +1,9 @@
 {
     "title": "Sono Me, Kuchi hodo ni.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/51913.jpg",
+        "alt": "sono-me-kuchi-hodo-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

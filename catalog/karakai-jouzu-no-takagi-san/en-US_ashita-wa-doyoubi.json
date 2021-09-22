@@ -1,5 +1,9 @@
 {
     "title": "Ashita wa Doyoubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174835.jpg",
+        "alt": "ashita-wa-doyoubi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "53",

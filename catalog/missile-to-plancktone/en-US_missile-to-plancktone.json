@@ -1,5 +1,9 @@
 {
     "title": "Missile to Plancktone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179680.jpg",
+        "alt": "missile-to-plancktone"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

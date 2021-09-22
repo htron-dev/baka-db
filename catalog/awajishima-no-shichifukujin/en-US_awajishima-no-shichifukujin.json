@@ -1,5 +1,9 @@
 {
     "title": "Awajishima no Shichifukujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1860/109576.jpg",
+        "alt": "awajishima-no-shichifukujin"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "あわじしまの七福神",

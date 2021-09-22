@@ -1,5 +1,9 @@
 {
     "title": "3LDK, Ouji-tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238030.jpg",
+        "alt": "3-ldk-ouji-tsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Saru demo Kakeru Manga Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135557.jpg",
+        "alt": "saru-demo-kakeru-manga-kyoushitsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

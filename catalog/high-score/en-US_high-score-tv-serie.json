@@ -1,5 +1,9 @@
 {
     "title": "High Score",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/36265.jpg",
+        "alt": "high-score"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "HIGH SCORE [ハイスコア]",

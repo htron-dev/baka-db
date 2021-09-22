@@ -1,5 +1,9 @@
 {
     "title": "Jigoku Sensei Nube S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222111.jpg",
+        "alt": "jigoku-sensei-nube-s"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

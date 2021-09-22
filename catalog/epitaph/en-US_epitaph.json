@@ -1,5 +1,9 @@
 {
     "title": "Epitaph",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/40160.jpg",
+        "alt": "epitaph"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

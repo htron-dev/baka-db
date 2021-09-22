@@ -1,5 +1,9 @@
 {
     "title": "Setsuna no Aonisai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161143.jpg",
+        "alt": "setsuna-no-aonisai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Sexless Friend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67799.jpg",
+        "alt": "sexless-friend"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

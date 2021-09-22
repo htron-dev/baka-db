@@ -1,5 +1,9 @@
 {
     "title": "Hamamura Nagisa no Keisan Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118455.jpg",
+        "alt": "hamamura-nagisa-no-keisan-note"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "51",

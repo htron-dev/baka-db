@@ -1,5 +1,9 @@
 {
     "title": "Kuroneko Kashiten Hatsukoi Biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179405.jpg",
+        "alt": "kuroneko-kashiten-hatsukoi-biyori"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

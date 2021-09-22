@@ -1,5 +1,9 @@
 {
     "title": "B Group no Shounen X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186474.jpg",
+        "alt": "b-group-no-shounen-x"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Mirai Keisatsu Urashiman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1605/91989.jpg",
+        "alt": "mirai-keisatsu-urashiman"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "未来警察ウラシマン",

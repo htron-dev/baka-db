@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Noise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112617.jpg",
+        "alt": "gakuen-noise"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "学園ノイズ",

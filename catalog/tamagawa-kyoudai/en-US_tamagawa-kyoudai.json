@@ -1,5 +1,9 @@
 {
     "title": "Tamagawa Kyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/87731.jpg",
+        "alt": "tamagawa-kyoudai"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "玉川兄弟",

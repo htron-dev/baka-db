@@ -1,5 +1,9 @@
 {
     "title": "Code Geass: Boukoku no Akito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170698.jpg",
+        "alt": "code-geass-boukoku-no-akito"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "13",

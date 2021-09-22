@@ -1,5 +1,9 @@
 {
     "title": "Omou to Iu Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178754.jpg",
+        "alt": "omou-to-iu-koto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

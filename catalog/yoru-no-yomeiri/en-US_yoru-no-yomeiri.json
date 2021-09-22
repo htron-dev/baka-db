@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Yomeiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226094.jpg",
+        "alt": "yoru-no-yomeiri"
+    },
     "type": "manga",
     "original_name": "宵〈よる〉の嫁入り",
     "start_date": "2018-07-24",

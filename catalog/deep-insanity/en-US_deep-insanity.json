@@ -1,5 +1,9 @@
 {
     "title": "Deep Insanity",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228104.jpg",
+        "alt": "deep-insanity"
+    },
     "type": "manga",
     "original_name": "Deep Insanity",
     "start_date": "2020-01-24",

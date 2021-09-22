@@ -1,5 +1,9 @@
 {
     "title": "Super Comic Gekijou: Tales of Destiny 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151590.jpg",
+        "alt": "super-comic-gekijou-tales-of-destiny-2"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "スーパーコミック劇場 テイルズ オブ デスティニー 2",

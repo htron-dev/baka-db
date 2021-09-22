@@ -1,12 +1,16 @@
 {
     "title": "Tentai Senshi Sunred",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/11740.jpg",
+        "alt": "tentai-senshi-sunred"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "天体戦士サンレッド",
     "start_date": "2008-10-03",
     "end_date": "2008-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Mizunokuchi Taiyou Zoku\" by manzo (eps 1-12, 14-26)",
+    "ending_song": "#1: \"Niwatori Dango Nabe\" by Kumahachi Morino (eps 1-9, 11-15, 17-26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Housekishou no Shinjin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229682.jpg",
+        "alt": "housekishou-no-shinjin"
+    },
     "type": "manga",
     "original_name": "宝石省の新人",
     "start_date": "2019-05-27",

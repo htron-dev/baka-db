@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Kanojo no Otetsudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205946.jpg",
+        "alt": "ikenai-kanojo-no-otetsudai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

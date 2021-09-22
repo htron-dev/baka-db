@@ -1,12 +1,16 @@
 {
     "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/79156.jpg",
+        "alt": "jo-jo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ジョジョの奇妙な冒険 ダイヤモンドは砕けない",
     "start_date": "2016-04-02",
     "end_date": "2016-04-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Crazy Noisy Bizarre Town\" by THE DU (eps 2-7, 11-13)",
+    "ending_song": "#1: \"I WANT YOU\" by Savage Garden (eps 2-7, 9-16, 18-19, 21-23, 25-26, 28-33, 35, 37-38)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

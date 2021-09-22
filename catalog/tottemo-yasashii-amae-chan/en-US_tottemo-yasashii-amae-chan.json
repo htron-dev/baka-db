@@ -1,5 +1,9 @@
 {
     "title": "Tottemo Yasashii Amae-chan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202009.jpg",
+        "alt": "tottemo-yasashii-amae-chan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "48",

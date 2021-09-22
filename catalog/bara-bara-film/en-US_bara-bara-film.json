@@ -1,5 +1,9 @@
 {
     "title": "Bara Bara Film",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/72937.jpg",
+        "alt": "bara-bara-film"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "バラバラフィルム",

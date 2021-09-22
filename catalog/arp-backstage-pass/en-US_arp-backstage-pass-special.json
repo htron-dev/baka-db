@@ -1,5 +1,9 @@
 {
     "title": "ARP Backstage Pass Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1108/107861.jpg",
+        "alt": "arp-backstage-pass-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ARP Backstage Pass",

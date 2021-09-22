@@ -1,5 +1,9 @@
 {
     "title": "Kirameki no Shuuai Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195767.jpg",
+        "alt": "kirameki-no-shuuai-collection"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "煌きの執愛コレクション",

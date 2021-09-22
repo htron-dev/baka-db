@@ -1,5 +1,9 @@
 {
     "title": "Ame-iro Cocoa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1957/111714.jpg",
+        "alt": "ame-iro-cocoa"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "雨色ココア",

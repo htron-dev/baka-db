@@ -1,5 +1,9 @@
 {
     "title": "Renai Kowai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189257.jpg",
+        "alt": "renai-kowai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

@@ -1,12 +1,16 @@
 {
     "title": "Strike Witches: Operation Victory Arrow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/67859.jpg",
+        "alt": "strike-witches-operation-victory-arrow"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ストライクウィッチーズ Operation Victory Arrow",
     "start_date": "2014-12-12",
     "end_date": "2014-12-12",
     "opening_song": "\"Connect Link\" by Yoko Ishida",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Fly away\" by Minna-Dietlinde Wilcke (Rie Tanaka), Erica Hartmann (Sakura Nogawa), Gertrud Barkhorn (Mie Sonozaki) (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

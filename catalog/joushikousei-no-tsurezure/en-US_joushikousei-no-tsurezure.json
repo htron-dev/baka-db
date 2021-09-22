@@ -1,5 +1,9 @@
 {
     "title": "Joushikousei no Tsurezure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195110.jpg",
+        "alt": "joushikousei-no-tsurezure"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

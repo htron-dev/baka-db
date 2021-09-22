@@ -1,5 +1,9 @@
 {
     "title": "Idol Memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/80935.jpg",
+        "alt": "idol-memories"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アイドルメモリーズ",

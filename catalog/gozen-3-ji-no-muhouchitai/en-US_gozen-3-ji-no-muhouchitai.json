@@ -1,5 +1,9 @@
 {
     "title": "Gozen 3-ji no Muhouchitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143553.jpg",
+        "alt": "gozen-3-ji-no-muhouchitai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

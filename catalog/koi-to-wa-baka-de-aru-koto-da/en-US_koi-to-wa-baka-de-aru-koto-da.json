@@ -1,5 +1,9 @@
 {
     "title": "Koi to wa Baka de Aru Koto da",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142205.jpg",
+        "alt": "koi-to-wa-baka-de-aru-koto-da"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

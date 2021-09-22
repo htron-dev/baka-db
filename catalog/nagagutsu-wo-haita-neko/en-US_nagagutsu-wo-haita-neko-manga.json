@@ -1,5 +1,9 @@
 {
     "title": "Nagagutsu wo Haita Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/122611.jpg",
+        "alt": "nagagutsu-wo-haita-neko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

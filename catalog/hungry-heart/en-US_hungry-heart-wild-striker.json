@@ -1,12 +1,16 @@
 {
     "title": "Hungry Heart: Wild Striker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/49655.jpg",
+        "alt": "hungry-heart-wild-striker"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ハングリーハート Wild Striker",
     "start_date": "2002-09-11",
     "end_date": "2002-09-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"2nd Stage\" by Kids Alive (eps 01-42)",
+    "ending_song": "#1: \"Mi Title\" by Utaibito Hane (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

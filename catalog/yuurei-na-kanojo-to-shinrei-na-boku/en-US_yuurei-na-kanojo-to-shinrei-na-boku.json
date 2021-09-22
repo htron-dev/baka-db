@@ -1,5 +1,9 @@
 {
     "title": "Yuurei na Kanojo to Shinrei na Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179377.jpg",
+        "alt": "yuurei-na-kanojo-to-shinrei-na-boku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

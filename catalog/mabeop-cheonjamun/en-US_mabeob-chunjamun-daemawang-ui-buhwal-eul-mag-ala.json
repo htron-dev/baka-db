@@ -1,8 +1,12 @@
 {
     "title": "Mabeob Chunjamun: Daemawang-ui Buhwal-eul Mag-ala",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/71993.jpg",
+        "alt": "mabeob-chunjamun-daemawang-ui-buhwal-eul-mag-ala"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "마법천자문",
+    "original_name": "마법천자문: 대마왕의 부활을 막아라",
     "start_date": "2010-01-20",
     "rating": "G - All Ages",
     "tags": [],

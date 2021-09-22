@@ -1,12 +1,16 @@
 {
     "title": "Osananajimi ga Zettai ni Makenai Love Comedy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1111/113327.jpg",
+        "alt": "osananajimi-ga-zettai-ni-makenai-love-comedy"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "幼なじみが絶対に負けないラブコメ",
     "start_date": "2021-04-14",
     "end_date": "2021-04-14",
     "opening_song": "\"Chance! & Revenge!\" by Riko Azuna (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Senryakuteki de Yosoku Funou na Love Comedy no Ending Kyoku (戦略的で予測不能なラブコメディのエンディング曲)\" by Kuroha Shida (Inori Minase), Shirokusa Kachi (Ayane Sakura) (eps 1-8, 10-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

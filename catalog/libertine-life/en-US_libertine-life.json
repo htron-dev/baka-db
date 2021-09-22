@@ -1,5 +1,9 @@
 {
     "title": "Libertine Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14960.jpg",
+        "alt": "libertine-life"
+    },
     "type": "manga",
     "tags": [
         "shounen-ai"

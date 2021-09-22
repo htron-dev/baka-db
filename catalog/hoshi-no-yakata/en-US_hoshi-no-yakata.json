@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Yakata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6633.jpg",
+        "alt": "hoshi-no-yakata"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

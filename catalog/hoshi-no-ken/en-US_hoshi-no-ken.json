@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16107.jpg",
+        "alt": "hoshi-no-ken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,8 +1,12 @@
 {
     "title": "Detective Conan OVA 01: Conan vs. Kid vs. Yaiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1518/108529.jpg",
+        "alt": "detective-conan-ova-01-conan-vs-kid-vs-yaiba"
+    },
     "type": "ova",
     "episodes": "1",
-    "original_name": "名探偵コナン",
+    "original_name": "名探偵コナン: Conan VS KID VS YAIBA",
     "start_date": "2000-01-20",
     "ending_song": "\"Natsu No Mabaroshi\" by Garnet Crow",
     "rating": "PG-13 - Teens 13 or older",

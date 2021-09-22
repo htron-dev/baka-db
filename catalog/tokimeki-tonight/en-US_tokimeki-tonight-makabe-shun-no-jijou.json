@@ -1,5 +1,9 @@
 {
     "title": "Tokimeki Tonight: Makabe Shun no Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159407.jpg",
+        "alt": "tokimeki-tonight-makabe-shun-no-jijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

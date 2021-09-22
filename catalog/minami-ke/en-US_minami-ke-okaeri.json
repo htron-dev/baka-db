@@ -1,5 +1,9 @@
 {
     "title": "Minami-ke Okaeri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/11458.jpg",
+        "alt": "minami-ke-okaeri"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "みなみけ おかえり",

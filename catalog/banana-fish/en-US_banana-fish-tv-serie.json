@@ -1,12 +1,16 @@
 {
     "title": "Banana Fish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
+        "alt": "banana-fish"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "BANANA FISH",
     "start_date": "2018-07-06",
     "end_date": "2018-07-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"found & lost\" by Survive Said The Prophet",
+    "ending_song": "#1: \"Prayer X\" by King Gnu (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

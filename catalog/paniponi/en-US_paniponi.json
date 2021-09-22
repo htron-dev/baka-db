@@ -1,5 +1,9 @@
 {
     "title": "Paniponi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/70847.jpg",
+        "alt": "paniponi"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "パニポニ",

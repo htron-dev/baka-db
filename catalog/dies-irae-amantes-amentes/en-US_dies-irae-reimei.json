@@ -1,5 +1,9 @@
 {
     "title": "Dies Irae: Reimei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/88229.jpg",
+        "alt": "dies-irae-reimei"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Dies irae (0) 黎明",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Dies_irae_(visual_novel"
+            "link": "https://en.wikipedia.org/wiki/Dies_irae_%28visual_novel%29"
         }
     ]
 }

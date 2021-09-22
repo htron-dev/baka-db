@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Tetsugaku-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234988.jpg",
+        "alt": "houkago-no-tetsugaku-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

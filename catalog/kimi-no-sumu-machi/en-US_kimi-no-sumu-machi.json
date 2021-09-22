@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Sumu Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/77092.jpg",
+        "alt": "kimi-no-sumu-machi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "君が棲む街",

@@ -1,5 +1,9 @@
 {
     "title": "Maga Maga Yama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234982.jpg",
+        "alt": "maga-maga-yama"
+    },
     "type": "manga",
     "original_name": "マガマガヤマ",
     "start_date": "2018-09-14",

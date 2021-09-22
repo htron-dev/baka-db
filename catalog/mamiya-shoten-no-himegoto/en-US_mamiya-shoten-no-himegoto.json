@@ -1,5 +1,9 @@
 {
     "title": "Mamiya Shoten no Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170268.jpg",
+        "alt": "mamiya-shoten-no-himegoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

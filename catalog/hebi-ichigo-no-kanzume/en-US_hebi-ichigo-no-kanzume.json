@@ -1,5 +1,9 @@
 {
     "title": "Hebi Ichigo no Kanzume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29838.jpg",
+        "alt": "hebi-ichigo-no-kanzume"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "へび苺の缶詰",

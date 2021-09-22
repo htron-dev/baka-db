@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam: MS Senki Reboot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/243732.jpg",
+        "alt": "kidou-senshi-gundam-ms-senki-reboot"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

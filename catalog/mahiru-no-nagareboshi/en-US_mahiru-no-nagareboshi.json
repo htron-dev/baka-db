@@ -1,5 +1,9 @@
 {
     "title": "Mahiru no Nagareboshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40640.jpg",
+        "alt": "mahiru-no-nagareboshi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

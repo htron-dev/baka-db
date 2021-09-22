@@ -1,5 +1,9 @@
 {
     "title": "White Brand",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11140.jpg",
+        "alt": "white-brand"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

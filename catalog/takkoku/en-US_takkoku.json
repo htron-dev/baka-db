@@ -1,5 +1,9 @@
 {
     "title": "Takkoku!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173272.jpg",
+        "alt": "takkoku"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "44",

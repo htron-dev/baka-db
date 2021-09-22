@@ -1,5 +1,9 @@
 {
     "title": "Bandit 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202678.jpg",
+        "alt": "bandit-7"
+    },
     "type": "manga",
     "original_name": "バンディセブン",
     "start_date": "2016-10-08",

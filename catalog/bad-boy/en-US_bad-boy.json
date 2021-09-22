@@ -1,5 +1,9 @@
 {
     "title": "Bad Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247612.jpg",
+        "alt": "bad-boy"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "40",

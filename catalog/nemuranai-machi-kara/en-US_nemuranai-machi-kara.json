@@ -1,5 +1,9 @@
 {
     "title": "Nemuranai Machi kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15496.jpg",
+        "alt": "nemuranai-machi-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

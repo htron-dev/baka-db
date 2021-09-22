@@ -1,9 +1,13 @@
 {
     "title": "Kindaichi Shounen no Jikenbo: 20th Shuunen Kinen Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158939.jpg",
+        "alt": "kindaichi-shounen-no-jikenbo-20th-shuunen-kinen-series"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "40",
-    "original_name": "金田一少年の事件簿 20周年記念シリーズ",
+    "original_name": "金田一少年の事件簿 20 周年記念シリーズ",
     "start_date": "2012-03-07",
     "end_date": "2012-03-07",
     "tags": [

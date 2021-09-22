@@ -1,5 +1,9 @@
 {
     "title": "Kodama Maria Bungaku Shuusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239360.jpg",
+        "alt": "kodama-maria-bungaku-shuusei"
+    },
     "type": "manga",
     "original_name": "児玉まりあ文学集成",
     "start_date": "2018-04-18",

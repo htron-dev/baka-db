@@ -1,5 +1,9 @@
 {
     "title": "Saikin Kono Sekai wa Watashi dake no Mono ni Narimashita......",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175167.jpg",
+        "alt": "saikin-kono-sekai-wa-watashi-dake-no-mono-ni-narimashita"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "85",

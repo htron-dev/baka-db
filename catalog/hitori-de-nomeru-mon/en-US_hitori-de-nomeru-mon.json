@@ -1,5 +1,9 @@
 {
     "title": "Hitori de Nomeru Mon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215821.jpg",
+        "alt": "hitori-de-nomeru-mon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

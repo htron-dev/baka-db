@@ -1,5 +1,9 @@
 {
     "title": "Yume no Crayon Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116085.jpg",
+        "alt": "yume-no-crayon-oukoku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

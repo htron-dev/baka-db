@@ -1,5 +1,9 @@
 {
     "title": "CO Chuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/119953.jpg",
+        "alt": "co-chuu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

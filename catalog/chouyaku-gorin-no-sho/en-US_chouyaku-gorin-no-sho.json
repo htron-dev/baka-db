@@ -1,5 +1,9 @@
 {
     "title": "Chouyaku Gorin no Sho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248068.jpg",
+        "alt": "chouyaku-gorin-no-sho"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "超訳 五輪書",

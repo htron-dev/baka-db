@@ -1,5 +1,9 @@
 {
     "title": "Torikae Baya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184863.jpg",
+        "alt": "torikae-baya"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "65",

@@ -1,5 +1,9 @@
 {
     "title": "Endou-kun no Kansatsu Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196127.jpg",
+        "alt": "endou-kun-no-kansatsu-nikki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

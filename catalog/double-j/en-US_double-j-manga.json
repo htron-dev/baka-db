@@ -1,5 +1,9 @@
 {
     "title": "Double-J",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144095.jpg",
+        "alt": "double-j"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "106",

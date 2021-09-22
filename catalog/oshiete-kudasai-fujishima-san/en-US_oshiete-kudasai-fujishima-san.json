@@ -1,5 +1,9 @@
 {
     "title": "Oshiete Kudasai, Fujishima-san!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208565.jpg",
+        "alt": "oshiete-kudasai-fujishima-san"
+    },
     "type": "manga",
     "original_name": "教えてください、藤縞さん！",
     "start_date": "2017-03-29",

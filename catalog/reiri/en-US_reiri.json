@@ -1,5 +1,9 @@
 {
     "title": "Reiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185926.jpg",
+        "alt": "reiri"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "35",

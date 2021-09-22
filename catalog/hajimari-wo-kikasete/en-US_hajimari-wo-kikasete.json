@@ -1,5 +1,9 @@
 {
     "title": "Hajimari wo Kikasete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139395.jpg",
+        "alt": "hajimari-wo-kikasete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

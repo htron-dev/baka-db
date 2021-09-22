@@ -1,5 +1,9 @@
 {
     "title": "Bonobono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/22162.jpg",
+        "alt": "bonobono"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ぼのぼの",

@@ -1,5 +1,9 @@
 {
     "title": "Stand by Me Love Letter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190848.jpg",
+        "alt": "stand-by-me-love-letter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

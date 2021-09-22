@@ -1,5 +1,9 @@
 {
     "title": "Honoo no Signatis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163089.jpg",
+        "alt": "honoo-no-signatis"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "16",

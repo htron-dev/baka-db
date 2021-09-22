@@ -1,9 +1,13 @@
 {
     "title": "Cyber Blue: Lost Number Children",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/101315.jpg",
+        "alt": "cyber-blue-lost-number-children"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",
-    "original_name": "CYBER BLUE",
+    "original_name": "CYBER BLUE: LOST NUMBER CHILDREN -サイバーブルー 失われた子供たち-",
     "start_date": "2010-11-25",
     "end_date": "2010-11-25",
     "tags": [

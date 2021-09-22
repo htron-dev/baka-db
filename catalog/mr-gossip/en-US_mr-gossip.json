@@ -1,5 +1,9 @@
 {
     "title": "Mr. Gossip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185039.jpg",
+        "alt": "mr-gossip"
+    },
     "type": "manga",
     "original_name": "ミスターゴシップ",
     "start_date": "2016-04-24",

@@ -1,5 +1,9 @@
 {
     "title": "Robot Pulta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/70637.jpg",
+        "alt": "robot-pulta"
+    },
     "type": "tv-serie",
     "original_name": "ロボット・パルタ",
     "start_date": "1995-04-04",

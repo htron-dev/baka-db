@@ -1,5 +1,9 @@
 {
     "title": "Koisaku Potager",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184032.jpg",
+        "alt": "koisaku-potager"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

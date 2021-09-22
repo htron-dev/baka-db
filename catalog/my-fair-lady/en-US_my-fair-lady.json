@@ -1,5 +1,9 @@
 {
     "title": "My Fair Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35363.jpg",
+        "alt": "my-fair-lady"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "My フェアれでぇ",

@@ -1,5 +1,9 @@
 {
     "title": "Denshin Denrei Denwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/85274.jpg",
+        "alt": "denshin-denrei-denwa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "電信 電鈴 電話",

@@ -1,5 +1,9 @@
 {
     "title": "Hare Yuku Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202425.jpg",
+        "alt": "hare-yuku-sora"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

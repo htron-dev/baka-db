@@ -1,5 +1,9 @@
 {
     "title": "Wing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14630.jpg",
+        "alt": "wing"
+    },
     "type": "manhwa",
     "volumes": "4",
     "tags": [

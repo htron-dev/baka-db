@@ -1,5 +1,9 @@
 {
     "title": "My Home Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200302.jpg",
+        "alt": "my-home-hero"
+    },
     "type": "manga",
     "original_name": "マイホームヒーロー",
     "start_date": "2017-05-29",

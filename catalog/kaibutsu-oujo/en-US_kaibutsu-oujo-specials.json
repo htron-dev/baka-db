@@ -1,5 +1,9 @@
 {
     "title": "Kaibutsu Oujo Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/66099.jpg",
+        "alt": "kaibutsu-oujo-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "怪物王女",

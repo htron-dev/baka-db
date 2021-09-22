@@ -1,5 +1,9 @@
 {
     "title": "Gegokujou Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215359.jpg",
+        "alt": "gegokujou-monogatari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

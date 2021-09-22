@@ -1,5 +1,9 @@
 {
     "title": "Tansu Warashi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1053/103696.jpg",
+        "alt": "tansu-warashi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "たんすわらし。",

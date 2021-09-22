@@ -1,5 +1,9 @@
 {
     "title": "Nihon Omoshiro Mukashibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/34393.jpg",
+        "alt": "nihon-omoshiro-mukashibanashi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "日本おもしろ昔話",

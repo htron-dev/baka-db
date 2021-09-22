@@ -1,5 +1,9 @@
 {
     "title": "Two Will Come",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10836.jpg",
+        "alt": "two-will-come"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "18",

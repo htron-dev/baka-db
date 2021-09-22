@@ -1,5 +1,9 @@
 {
     "title": "Seishun Shonbori Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96377.jpg",
+        "alt": "seishun-shonbori-club"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "82",

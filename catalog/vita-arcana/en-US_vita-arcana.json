@@ -1,5 +1,9 @@
 {
     "title": "Vita Arcana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77127.jpg",
+        "alt": "vita-arcana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

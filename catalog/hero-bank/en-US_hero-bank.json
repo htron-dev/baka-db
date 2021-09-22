@@ -1,12 +1,16 @@
 {
     "title": "Hero Bank",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/59089.jpg",
+        "alt": "hero-bank"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ヒーローバンク",
     "start_date": "2014-04-07",
     "end_date": "2014-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kasege! Jarinko Hero (かせげ!ジャリンコヒーロー)\" by Nobuaki Kakuda (eps 1-26)",
+    "ending_song": "#1: \"Sayonara Mata Itsuka (サヨナラマタイツカ)\" by meg (eps 2-26)",
     "rating": "PG - Children",
     "tags": [
         "game"

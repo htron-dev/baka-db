@@ -1,5 +1,9 @@
 {
     "title": "Demon Possession",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121709.jpg",
+        "alt": "demon-possession"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "Demon Possession -デモンポゼッション-",

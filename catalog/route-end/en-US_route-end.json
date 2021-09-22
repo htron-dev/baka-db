@@ -1,5 +1,9 @@
 {
     "title": "Route End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196753.jpg",
+        "alt": "route-end"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "55",

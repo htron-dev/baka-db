@@ -1,5 +1,9 @@
 {
     "title": "Baby, Good Morning",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190411.jpg",
+        "alt": "baby-good-morning"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Shuukaku no Juunigatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185993.jpg",
+        "alt": "shuukaku-no-juunigatsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Zoids Wild",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227569.jpg",
+        "alt": "zoids-wild"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

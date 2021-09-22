@@ -1,5 +1,9 @@
 {
     "title": "Mayoeru Shomin ni Ai no Te wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23183.jpg",
+        "alt": "mayoeru-shomin-ni-ai-no-te-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

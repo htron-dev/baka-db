@@ -1,5 +1,9 @@
 {
     "title": "Kami no Kohitsuji -Agnus Dei-",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22472.jpg",
+        "alt": "kami-no-kohitsuji-agnus-dei"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "22",

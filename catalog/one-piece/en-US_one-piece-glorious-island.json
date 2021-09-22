@@ -1,5 +1,9 @@
 {
     "title": "One Piece: Glorious Island",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/85476.jpg",
+        "alt": "one-piece-glorious-island"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ワンピース 『GLORIOUS ISLAND』",

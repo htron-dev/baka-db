@@ -1,5 +1,9 @@
 {
     "title": "Furukoto Fuhito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/228917.jpg",
+        "alt": "furukoto-fuhito"
+    },
     "type": "manga",
     "original_name": "ふることふひと",
     "start_date": "2019-09-15",

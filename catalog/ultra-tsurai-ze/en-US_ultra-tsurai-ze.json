@@ -1,5 +1,9 @@
 {
     "title": "Ultra Tsurai ze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186936.jpg",
+        "alt": "ultra-tsurai-ze"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

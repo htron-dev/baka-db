@@ -1,5 +1,9 @@
 {
     "title": "Girl Queen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189817.jpg",
+        "alt": "girl-queen"
+    },
     "type": "manhwa",
     "volumes": "8",
     "chapters": "35",

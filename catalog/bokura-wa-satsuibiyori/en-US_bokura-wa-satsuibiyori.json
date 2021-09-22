@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Satsuibiyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158789.jpg",
+        "alt": "bokura-wa-satsuibiyori"
+    },
     "type": "light-novel",
     "chapters": "12",
     "original_name": "ぼくらは殺意日和",

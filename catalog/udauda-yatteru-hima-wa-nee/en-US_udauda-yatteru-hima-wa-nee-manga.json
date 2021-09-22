@@ -1,5 +1,9 @@
 {
     "title": "Udauda Yatteru Hima wa Nee!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/87103.jpg",
+        "alt": "udauda-yatteru-hima-wa-nee"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "188",

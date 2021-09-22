@@ -1,12 +1,16 @@
 {
     "title": "Shinsekai yori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/36775.jpg",
+        "alt": "shinsekai-yori"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "新世界より",
     "start_date": "2012-09-29",
     "end_date": "2012-09-29",
     "opening_song": "\"Yuki ni Saku Hana (雪に咲く花)\" by Maria Akizuki (Kana Hanazawa) (ep 16)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Wareta Ringo (割れたリンゴ)\" by Saki Watanabe (Risa Taneda) (eps 1-16)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "drama",

@@ -1,5 +1,9 @@
 {
     "title": "Rental Kanojo Tsukita-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235063.jpg",
+        "alt": "rental-kanojo-tsukita-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Battle Studies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160199.jpg",
+        "alt": "battle-studies"
+    },
     "type": "manga",
     "original_name": "バトルスタディーズ",
     "start_date": "2015-01-08",

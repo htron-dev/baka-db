@@ -1,5 +1,9 @@
 {
     "title": "Yorubenaki Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/27845.jpg",
+        "alt": "yorubenaki-mono"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "寄る辺無き者",

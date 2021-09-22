@@ -1,5 +1,9 @@
 {
     "title": "Runningman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/80667.jpg",
+        "alt": "runningman"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "「RUNNINGMAN」ランニングマン>",

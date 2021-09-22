@@ -1,5 +1,9 @@
 {
     "title": "Atom: The Beginning",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/86607.jpg",
+        "alt": "atom-the-beginning"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アトム ザ・ビギニング",

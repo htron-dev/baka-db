@@ -1,5 +1,9 @@
 {
     "title": "Kimi Shiruya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98011.jpg",
+        "alt": "kimi-shiruya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Seioukoku no Warawanai Heroine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200145.jpg",
+        "alt": "seioukoku-no-warawanai-heroine"
+    },
     "type": "light-novel",
     "original_name": "聖王国の笑わないヒロイン",
     "start_date": "2017-09-30",

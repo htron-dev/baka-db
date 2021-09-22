@@ -1,9 +1,13 @@
 {
     "title": "Tokyo Ghoul:re: Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230681.jpg",
+        "alt": "tokyo-ghoul-re-quest"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",
-    "original_name": "東京喰種トーキョーグール",
+    "original_name": "東京喰種トーキョーグール:re [quest]",
     "start_date": "2016-12-19",
     "tags": [
         "action",

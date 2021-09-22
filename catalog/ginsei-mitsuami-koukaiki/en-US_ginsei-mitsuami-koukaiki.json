@@ -1,5 +1,9 @@
 {
     "title": "Ginsei Mitsuami Koukaiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162938.jpg",
+        "alt": "ginsei-mitsuami-koukaiki"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "42",

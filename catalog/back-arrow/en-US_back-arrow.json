@@ -1,12 +1,16 @@
 {
     "title": "Back Arrow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1373/111546.jpg",
+        "alt": "back-arrow"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "バック・アロウ",
     "start_date": "2021-01-09",
     "end_date": "2021-01-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"dawn\" by LiSA (eps 1-12)",
+    "ending_song": "#1: \"Sekai no Hate (セカイノハテ)\" by Shuka Saitou (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

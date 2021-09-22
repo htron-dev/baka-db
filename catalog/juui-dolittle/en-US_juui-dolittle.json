@@ -1,5 +1,9 @@
 {
     "title": "Juui Dolittle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246655.jpg",
+        "alt": "juui-dolittle"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "165",

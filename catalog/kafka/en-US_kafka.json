@@ -1,5 +1,9 @@
 {
     "title": "Kafka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207126.jpg",
+        "alt": "kafka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Yasuraka Monsters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204845.jpg",
+        "alt": "yasuraka-monsters"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

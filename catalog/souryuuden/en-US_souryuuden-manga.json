@@ -1,5 +1,9 @@
 {
     "title": "Souryuuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185748.jpg",
+        "alt": "souryuuden"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

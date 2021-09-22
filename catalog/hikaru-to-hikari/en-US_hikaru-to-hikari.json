@@ -1,5 +1,9 @@
 {
     "title": "Hikaru to Hikari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176058.jpg",
+        "alt": "hikaru-to-hikari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

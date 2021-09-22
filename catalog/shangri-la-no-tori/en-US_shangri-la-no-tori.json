@@ -1,5 +1,9 @@
 {
     "title": "Shangri-La no Tori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231782.jpg",
+        "alt": "shangri-la-no-tori"
+    },
     "type": "manga",
     "original_name": "シャングリラの鳥",
     "start_date": "2017-10-28",

@@ -1,12 +1,16 @@
 {
     "title": "Seto no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/58383.jpg",
+        "alt": "seto-no-hanayome"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "瀬戸の花嫁",
     "start_date": "2007-04-02",
     "end_date": "2007-04-02",
     "opening_song": "\"Romantic summer\" by SUN&LUNAR",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ashita e no Hikari (明日への光)\" by Asuka Hinoi (1-13, 26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

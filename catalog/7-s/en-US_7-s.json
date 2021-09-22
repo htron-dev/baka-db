@@ -1,5 +1,9 @@
 {
     "title": "7's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222862.jpg",
+        "alt": "7-s"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

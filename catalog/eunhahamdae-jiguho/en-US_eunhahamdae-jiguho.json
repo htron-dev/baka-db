@@ -1,5 +1,9 @@
 {
     "title": "Eunhahamdae Jiguho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/45158.jpg",
+        "alt": "eunhahamdae-jiguho"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "은하함대 지구호",

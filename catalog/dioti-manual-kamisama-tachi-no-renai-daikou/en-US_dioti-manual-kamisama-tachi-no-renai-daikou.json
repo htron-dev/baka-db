@@ -1,5 +1,9 @@
 {
     "title": "Dioti Manual: Kamisama-tachi no Renai Daikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210027.jpg",
+        "alt": "dioti-manual-kamisama-tachi-no-renai-daikou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

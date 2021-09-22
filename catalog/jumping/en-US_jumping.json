@@ -1,5 +1,9 @@
 {
     "title": "Jumping",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2401.jpg",
+        "alt": "jumping"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ジャンピング",

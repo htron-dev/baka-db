@@ -1,5 +1,9 @@
 {
     "title": "Kono Koi ni Namidasuru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65949.jpg",
+        "alt": "kono-koi-ni-namidasuru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

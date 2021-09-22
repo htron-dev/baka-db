@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Tomodachi ga Dekiru made.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164064.jpg",
+        "alt": "kimi-ni-tomodachi-ga-dekiru-made"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "34",

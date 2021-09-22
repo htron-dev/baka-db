@@ -1,5 +1,9 @@
 {
     "title": "Bijo, Tokidoki Yajuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21020.jpg",
+        "alt": "bijo-tokidoki-yajuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

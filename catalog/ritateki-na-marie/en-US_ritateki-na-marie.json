@@ -1,5 +1,9 @@
 {
     "title": "Ritateki na Marie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241618.jpg",
+        "alt": "ritateki-na-marie"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "利他的なマリー",

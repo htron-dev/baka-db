@@ -1,5 +1,9 @@
 {
     "title": "Otona ni Natte mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156841.jpg",
+        "alt": "otona-ni-natte-mo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

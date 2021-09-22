@@ -1,5 +1,9 @@
 {
     "title": "Tasogare Ryuuseigun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166213.jpg",
+        "alt": "tasogare-ryuuseigun"
+    },
     "type": "manga",
     "original_name": "黄昏流星群",
     "start_date": "1995-11-04",

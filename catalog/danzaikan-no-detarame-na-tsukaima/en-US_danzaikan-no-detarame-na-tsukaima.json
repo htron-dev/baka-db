@@ -1,5 +1,9 @@
 {
     "title": "Danzaikan no Detarame na Tsukaima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169020.jpg",
+        "alt": "danzaikan-no-detarame-na-tsukaima"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

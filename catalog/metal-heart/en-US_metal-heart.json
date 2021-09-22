@@ -1,5 +1,9 @@
 {
     "title": "Metal Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150389.jpg",
+        "alt": "metal-heart"
+    },
     "type": "manhwa",
     "volumes": "16",
     "original_name": "메탈하트",

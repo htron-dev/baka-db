@@ -1,5 +1,9 @@
 {
     "title": "Koishii Akuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161599.jpg",
+        "alt": "koishii-akuma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

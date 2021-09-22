@@ -1,5 +1,9 @@
 {
     "title": "Strobe Light",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70095.jpg",
+        "alt": "strobe-light"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

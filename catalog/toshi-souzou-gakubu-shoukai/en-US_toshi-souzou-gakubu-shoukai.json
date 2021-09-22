@@ -1,5 +1,9 @@
 {
     "title": "Toshi Souzou Gakubu Shoukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/77232.jpg",
+        "alt": "toshi-souzou-gakubu-shoukai"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "都市創造学部紹介",

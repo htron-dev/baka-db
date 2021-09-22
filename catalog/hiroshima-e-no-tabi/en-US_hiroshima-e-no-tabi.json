@@ -1,5 +1,9 @@
 {
     "title": "Hiroshima e no Tabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/60233.jpg",
+        "alt": "hiroshima-e-no-tabi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ヒロシマへの旅",

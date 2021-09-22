@@ -1,5 +1,9 @@
 {
     "title": "Menou Futatsuki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83943.jpg",
+        "alt": "menou-futatsuki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

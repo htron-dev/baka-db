@@ -1,5 +1,9 @@
 {
     "title": "Junior Escort",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16874.jpg",
+        "alt": "junior-escort"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

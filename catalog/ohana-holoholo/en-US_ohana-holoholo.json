@@ -1,5 +1,9 @@
 {
     "title": "Ohana Holoholo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175860.jpg",
+        "alt": "ohana-holoholo"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "42",

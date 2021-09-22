@@ -1,5 +1,9 @@
 {
     "title": "Umineko no Naku Koro ni Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134977.jpg",
+        "alt": "umineko-no-naku-koro-ni-tsubasa"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

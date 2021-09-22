@@ -1,5 +1,9 @@
 {
     "title": "Mooretsu Bambi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145169.jpg",
+        "alt": "mooretsu-bambi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

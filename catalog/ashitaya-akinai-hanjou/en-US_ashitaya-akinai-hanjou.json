@@ -1,5 +1,9 @@
 {
     "title": "Ashitaya Akinai Hanjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147619.jpg",
+        "alt": "ashitaya-akinai-hanjou"
+    },
     "type": "manga",
     "original_name": "明日屋商い繁盛",
     "start_date": "2011-09-22",

@@ -1,5 +1,9 @@
 {
     "title": "Tengoku iki Tsuuka Ressha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206973.jpg",
+        "alt": "tengoku-iki-tsuuka-ressha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

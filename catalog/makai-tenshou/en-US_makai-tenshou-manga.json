@@ -1,5 +1,9 @@
 {
     "title": "Makai Tenshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157739.jpg",
+        "alt": "makai-tenshou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

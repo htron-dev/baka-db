@@ -1,5 +1,9 @@
 {
     "title": "Shi wo Utau Seiza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24825.jpg",
+        "alt": "shi-wo-utau-seiza"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

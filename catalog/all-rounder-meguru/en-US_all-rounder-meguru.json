@@ -1,5 +1,9 @@
 {
     "title": "All Rounder Meguru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63135.jpg",
+        "alt": "all-rounder-meguru"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "178",

@@ -1,5 +1,9 @@
 {
     "title": "Doubutsu no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/249540.jpg",
+        "alt": "doubutsu-no-kuni"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "56",

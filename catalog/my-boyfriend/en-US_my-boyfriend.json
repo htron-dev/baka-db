@@ -1,5 +1,9 @@
 {
     "title": "My Boyfriend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190026.jpg",
+        "alt": "my-boyfriend"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

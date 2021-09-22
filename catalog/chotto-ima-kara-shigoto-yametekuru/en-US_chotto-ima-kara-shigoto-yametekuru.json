@@ -1,5 +1,9 @@
 {
     "title": "Chotto Ima kara Shigoto Yametekuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195147.jpg",
+        "alt": "chotto-ima-kara-shigoto-yametekuru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

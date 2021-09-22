@@ -1,5 +1,9 @@
 {
     "title": "Umeya-kun no Haru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222041.jpg",
+        "alt": "umeya-kun-no-haru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

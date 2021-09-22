@@ -1,5 +1,9 @@
 {
     "title": "Senran Kagura: Shoujo-tachi no Shinei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86251.jpg",
+        "alt": "senran-kagura-shoujo-tachi-no-shinei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

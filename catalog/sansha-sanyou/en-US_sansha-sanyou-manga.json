@@ -1,5 +1,9 @@
 {
     "title": "Sansha Sanyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163660.jpg",
+        "alt": "sansha-sanyou"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "233",

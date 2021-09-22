@@ -1,5 +1,9 @@
 {
     "title": "Argento Soma Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/3194.jpg",
+        "alt": "argento-soma-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "アルジェントソーマ",

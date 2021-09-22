@@ -1,5 +1,9 @@
 {
     "title": "Aoki Densetsu Shoot! (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1453/96649.jpg",
+        "alt": "aoki-densetsu-shoot-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "蒼き伝説　シュート！",

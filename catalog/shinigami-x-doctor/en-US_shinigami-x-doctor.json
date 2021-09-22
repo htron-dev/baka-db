@@ -1,5 +1,9 @@
 {
     "title": "Shinigami x Doctor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/115483.jpg",
+        "alt": "shinigami-x-doctor"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

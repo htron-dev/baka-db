@@ -1,5 +1,9 @@
 {
     "title": "P2 - Let's Play Ping Pong!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178827.jpg",
+        "alt": "p-2-lets-play-ping-pong"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "59",

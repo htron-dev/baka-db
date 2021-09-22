@@ -1,5 +1,9 @@
 {
     "title": "Harmful Beautiful",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98319.jpg",
+        "alt": "harmful-beautiful"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ハームフル・ビューティフ",

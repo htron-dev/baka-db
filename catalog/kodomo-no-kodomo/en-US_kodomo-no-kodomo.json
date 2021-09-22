@@ -1,5 +1,9 @@
 {
     "title": "Kodomo no Kodomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129469.jpg",
+        "alt": "kodomo-no-kodomo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

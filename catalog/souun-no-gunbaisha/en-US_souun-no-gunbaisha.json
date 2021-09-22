@@ -1,5 +1,9 @@
 {
     "title": "Souun no Gunbaisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187955.jpg",
+        "alt": "souun-no-gunbaisha"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Tsuki Tsuki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178399.jpg",
+        "alt": "tsuki-tsuki"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "43",

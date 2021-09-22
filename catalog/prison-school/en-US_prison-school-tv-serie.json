@@ -1,5 +1,9 @@
 {
     "title": "Prison School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1286/112161.jpg",
+        "alt": "prison-school"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "監獄学園〈プリズンスクール〉",

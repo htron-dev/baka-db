@@ -1,5 +1,9 @@
 {
     "title": "Tales of the World: Radiant Mythology 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228991.jpg",
+        "alt": "tales-of-the-world-radiant-mythology-3"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

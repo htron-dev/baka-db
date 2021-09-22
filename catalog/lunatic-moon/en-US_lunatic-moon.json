@@ -1,5 +1,9 @@
 {
     "title": "Lunatic Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164509.jpg",
+        "alt": "lunatic-moon"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "ルナティック・ムーン",

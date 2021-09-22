@@ -1,5 +1,9 @@
 {
     "title": "Sensuikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175931.jpg",
+        "alt": "sensuikan"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "24",

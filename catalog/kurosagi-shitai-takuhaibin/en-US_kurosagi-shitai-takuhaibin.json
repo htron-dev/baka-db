@@ -1,5 +1,9 @@
 {
     "title": "Kurosagi Shitai Takuhaibin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148961.jpg",
+        "alt": "kurosagi-shitai-takuhaibin"
+    },
     "type": "manga",
     "original_name": "黒鷺死体宅配便",
     "tags": [

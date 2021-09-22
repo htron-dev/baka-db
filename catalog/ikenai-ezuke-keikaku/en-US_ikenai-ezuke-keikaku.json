@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Ezuke Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39226.jpg",
+        "alt": "ikenai-ezuke-keikaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

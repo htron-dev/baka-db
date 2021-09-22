@@ -1,5 +1,9 @@
 {
     "title": "AriKiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1788/92750.jpg",
+        "alt": "ari-kiri"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "アリキリ",

@@ -1,5 +1,9 @@
 {
     "title": "X-Men",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/30014.jpg",
+        "alt": "x-men"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "エックスメン",

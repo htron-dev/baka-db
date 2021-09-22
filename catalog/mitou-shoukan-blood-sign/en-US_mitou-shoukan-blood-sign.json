@@ -1,9 +1,13 @@
 {
     "title": "Mitou Shoukan://Blood Sign",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219837.jpg",
+        "alt": "mitou-shoukan-blood-sign"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "80",
-    "original_name": "未踏召喚",
+    "original_name": "未踏召喚://ブラッドサイン",
     "start_date": "2014-09-10",
     "end_date": "2014-09-10",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Deban Desu Yo! Onigirizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/74321.jpg",
+        "alt": "deban-desu-yo-onigirizu"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "出番ですよ!オニギリズ",

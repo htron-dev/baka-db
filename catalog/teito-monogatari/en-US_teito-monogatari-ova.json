@@ -1,5 +1,9 @@
 {
     "title": "Teito Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/88664.jpg",
+        "alt": "teito-monogatari"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "帝都物語",

@@ -1,5 +1,9 @@
 {
     "title": "Evilive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203329.jpg",
+        "alt": "evilive"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

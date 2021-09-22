@@ -1,5 +1,9 @@
 {
     "title": "Summer Ghost",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1137/116679.jpg",
+        "alt": "summer-ghost"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "サマーゴースト",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Giovanni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191546.jpg",
+        "alt": "boku-no-giovanni"
+    },
     "type": "manga",
     "original_name": "僕のジョバンニ",
     "start_date": "2016-05-28",

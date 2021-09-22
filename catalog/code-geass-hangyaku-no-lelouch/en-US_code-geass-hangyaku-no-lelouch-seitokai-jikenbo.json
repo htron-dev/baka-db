@@ -1,5 +1,9 @@
 {
     "title": "Code Geass: Hangyaku no Lelouch - Seitokai Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197076.jpg",
+        "alt": "code-geass-hangyaku-no-lelouch-seitokai-jikenbo"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "9",

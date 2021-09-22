@@ -1,5 +1,9 @@
 {
     "title": "Konya wa Take-Out Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39558.jpg",
+        "alt": "konya-wa-take-out-night"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

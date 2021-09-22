@@ -1,5 +1,9 @@
 {
     "title": "Eikou of Napoleon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17865.jpg",
+        "alt": "eikou-of-napoleon"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "栄光のナポレオン - エロイカ",

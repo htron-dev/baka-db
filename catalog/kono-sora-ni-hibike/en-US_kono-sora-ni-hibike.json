@@ -1,5 +1,9 @@
 {
     "title": "Kono Sora ni Hibike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13990.jpg",
+        "alt": "kono-sora-ni-hibike"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

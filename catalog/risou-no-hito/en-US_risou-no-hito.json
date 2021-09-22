@@ -1,5 +1,9 @@
 {
     "title": "Risou no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40460.jpg",
+        "alt": "risou-no-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "理想のひと",

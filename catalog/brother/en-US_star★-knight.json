@@ -1,5 +1,9 @@
 {
     "title": "Star★Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140359.jpg",
+        "alt": "star★-knight"
+    },
     "type": "manga",
     "original_name": "STAR★Knight",
     "start_date": "2014-01-14",

@@ -1,5 +1,9 @@
 {
     "title": "Mei-chan no Shitsuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145979.jpg",
+        "alt": "mei-chan-no-shitsuji"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "140",

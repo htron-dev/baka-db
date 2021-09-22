@@ -1,5 +1,9 @@
 {
     "title": "Tropical Hanjirou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23576.jpg",
+        "alt": "tropical-hanjirou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

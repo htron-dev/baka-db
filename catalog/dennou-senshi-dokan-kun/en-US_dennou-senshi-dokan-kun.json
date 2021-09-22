@@ -1,5 +1,9 @@
 {
     "title": "Dennou Senshi Dokan-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1091/105649.jpg",
+        "alt": "dennou-senshi-dokan-kun"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "電脳戦士 土管くん",

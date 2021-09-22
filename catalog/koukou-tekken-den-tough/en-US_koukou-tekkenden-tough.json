@@ -1,5 +1,9 @@
 {
     "title": "Koukou Tekkenden Tough",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/75339.jpg",
+        "alt": "koukou-tekkenden-tough"
+    },
     "type": "manga",
     "volumes": "42",
     "chapters": "474",

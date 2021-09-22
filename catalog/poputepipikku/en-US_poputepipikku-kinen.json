@@ -1,5 +1,9 @@
 {
     "title": "Poputepipikku Kinen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1782/93260.jpg",
+        "alt": "poputepipikku-kinen"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ポプテピ記念",

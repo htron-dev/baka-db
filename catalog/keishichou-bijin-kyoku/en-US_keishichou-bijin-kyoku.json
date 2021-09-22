@@ -1,5 +1,9 @@
 {
     "title": "Keishichou Bijin-kyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143911.jpg",
+        "alt": "keishichou-bijin-kyoku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "52",

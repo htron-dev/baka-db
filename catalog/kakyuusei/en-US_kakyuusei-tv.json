@@ -1,12 +1,16 @@
 {
     "title": "Kakyuusei (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/84837.jpg",
+        "alt": "kakyuusei-tv"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "下級生",
     "start_date": "1999-07-02",
     "end_date": "1999-07-02",
     "opening_song": "\"Every Brand-new Day\" by Mari Adachi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Girl's be UP!\" by UP^2 (あっぷ^2) (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

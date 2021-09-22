@@ -1,5 +1,9 @@
 {
     "title": "Homerarete Shingun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185308.jpg",
+        "alt": "homerarete-shingun"
+    },
     "type": "light-novel",
     "original_name": "誉められて神軍",
     "start_date": "2016-11-02",

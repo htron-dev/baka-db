@@ -1,5 +1,9 @@
 {
     "title": "Versailles no Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150494.jpg",
+        "alt": "versailles-no-cinderella"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Wrestle! The Under Ground",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158620.jpg",
+        "alt": "wrestle-the-under-ground"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

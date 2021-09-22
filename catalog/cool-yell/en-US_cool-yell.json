@@ -1,5 +1,9 @@
 {
     "title": "Cool Yell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190271.jpg",
+        "alt": "cool-yell"
+    },
     "type": "light-novel",
     "original_name": "クール・エール",
     "start_date": "2017-02-17",

@@ -1,5 +1,9 @@
 {
     "title": "Ore dake no Senzoku Alpha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239405.jpg",
+        "alt": "ore-dake-no-senzoku-alpha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

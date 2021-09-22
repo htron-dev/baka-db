@@ -1,5 +1,9 @@
 {
     "title": "Yami Shibai 6",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1911/95045.jpg",
+        "alt": "yami-shibai-6"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "闇芝居 6 期",

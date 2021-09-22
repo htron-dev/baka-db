@@ -1,5 +1,9 @@
 {
     "title": "Kumika no Mikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182439.jpg",
+        "alt": "kumika-no-mikaku"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "39",

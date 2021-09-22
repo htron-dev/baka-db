@@ -1,5 +1,9 @@
 {
     "title": "Soremite: Soredemo Rei ga Mitemitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226486.jpg",
+        "alt": "soremite-soredemo-rei-ga-mitemitai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

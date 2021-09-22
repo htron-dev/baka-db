@@ -1,5 +1,9 @@
 {
     "title": "It's My Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1998/105349.jpg",
+        "alt": "its-my-life"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "IT'S MY LIFE",

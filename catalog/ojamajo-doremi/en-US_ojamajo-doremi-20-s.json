@@ -1,5 +1,9 @@
 {
     "title": "Ojamajo Doremi 20's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229137.jpg",
+        "alt": "ojamajo-doremi-20-s"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

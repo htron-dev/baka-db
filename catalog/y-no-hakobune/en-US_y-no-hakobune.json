@@ -1,5 +1,9 @@
 {
     "title": "Y no Hakobune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227146.jpg",
+        "alt": "y-no-hakobune"
+    },
     "type": "manga",
     "original_name": "Y の箱船",
     "start_date": "2015-03-14",

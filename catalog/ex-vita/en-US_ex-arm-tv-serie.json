@@ -1,5 +1,9 @@
 {
     "title": "Ex-Arm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1847/113935.jpg",
+        "alt": "ex-arm"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "EX-ARM エクスアーム",

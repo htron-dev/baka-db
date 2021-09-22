@@ -1,5 +1,9 @@
 {
     "title": "The Wicked Queen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243613.jpg",
+        "alt": "the-wicked-queen"
+    },
     "type": "manhwa",
     "original_name": "궁에는 개꽃이 산다",
     "start_date": "2017-09-27",

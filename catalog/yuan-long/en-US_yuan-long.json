@@ -1,5 +1,9 @@
 {
     "title": "Yuan Long",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
+        "alt": "yuan-long"
+    },
     "type": "ona",
     "episodes": "16",
     "original_name": "元龙",

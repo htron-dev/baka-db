@@ -1,8 +1,12 @@
 {
     "title": "B: The Beginning Succession",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1409/112177.jpg",
+        "alt": "b-the-beginning-succession"
+    },
     "type": "ona",
     "episodes": "6",
-    "original_name": "B",
+    "original_name": "B: The Beginning Succession",
     "start_date": "2021-03-18",
     "ending_song": "\"Be Down\" by ACCAMER",
     "rating": "R+ - Mild Nudity",

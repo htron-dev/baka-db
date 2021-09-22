@@ -1,5 +1,9 @@
 {
     "title": "Rival Danshi - Cool Fighters Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29907.jpg",
+        "alt": "rival-danshi-cool-fighters-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ライバル男子",

@@ -1,5 +1,9 @@
 {
     "title": "Hanjuku Miko no Midara na Chigiri!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201039.jpg",
+        "alt": "hanjuku-miko-no-midara-na-chigiri"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "White Carol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80019.jpg",
+        "alt": "white-carol"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

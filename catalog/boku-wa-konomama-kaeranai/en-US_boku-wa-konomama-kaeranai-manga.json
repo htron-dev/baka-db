@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Konomama Kaeranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1533.jpg",
+        "alt": "boku-wa-konomama-kaeranai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

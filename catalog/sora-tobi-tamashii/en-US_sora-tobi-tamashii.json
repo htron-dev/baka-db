@@ -1,5 +1,9 @@
 {
     "title": "Sora Tobi Tamashii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/103859.jpg",
+        "alt": "sora-tobi-tamashii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

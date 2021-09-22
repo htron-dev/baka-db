@@ -1,5 +1,9 @@
 {
     "title": "Norimono Oukoku BuBu ChaCha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/63221.jpg",
+        "alt": "norimono-oukoku-bu-bu-cha-cha"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ぶぶチャチャ",

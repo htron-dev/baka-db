@@ -1,5 +1,9 @@
 {
     "title": "Eien no 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/100859.jpg",
+        "alt": "eien-no-0"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "41",

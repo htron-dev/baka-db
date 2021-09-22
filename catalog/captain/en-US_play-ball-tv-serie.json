@@ -1,12 +1,16 @@
 {
     "title": "Play Ball",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/6695.jpg",
+        "alt": "play-ball"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "プレイボール",
     "start_date": "2005-07-05",
     "end_date": "2005-07-05",
-    "opening_song": "#2",
-    "ending_song": "#2",
+    "opening_song": "#2: \"Kimi wa Nani ka ga Dekiru~Play Ball 2006~\" by Tokyo 60Watts",
+    "ending_song": "#2: \"Summertime Blues\" by Tokyo 60Watts",
     "rating": "G - All Ages",
     "tags": [
         "action",

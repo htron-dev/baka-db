@@ -1,5 +1,9 @@
 {
     "title": "Kobayashi-san Chi no Maid Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/85434.jpg",
+        "alt": "kobayashi-san-chi-no-maid-dragon"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "小林さんちのメイドラゴン",

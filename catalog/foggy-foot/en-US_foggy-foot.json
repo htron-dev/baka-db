@@ -1,5 +1,9 @@
 {
     "title": "Foggy Foot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233151.jpg",
+        "alt": "foggy-foot"
+    },
     "type": "manga",
     "original_name": "FOGGY FOOT",
     "start_date": "2020-04-24",

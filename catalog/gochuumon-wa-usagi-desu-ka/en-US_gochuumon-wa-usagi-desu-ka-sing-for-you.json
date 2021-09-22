@@ -1,10 +1,14 @@
 {
     "title": "Gochuumon wa Usagi Desu ka??: Sing for You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1684/101030.jpg",
+        "alt": "gochuumon-wa-usagi-desu-ka-sing-for-you"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ご注文はうさぎですか?? ~Sing For You~",
     "start_date": "2019-09-26",
-    "ending_song": "\"Gin no Spoon",
+    "ending_song": "\"Gin no Spoon: Blend of Memory\" (銀のスプーン ~Blend of Memory~)\" by Saki (Nana Mizuki), Chino (Inori Minase)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

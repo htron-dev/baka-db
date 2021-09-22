@@ -1,5 +1,9 @@
 {
     "title": "Hatten Tojou Renai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41337.jpg",
+        "alt": "hatten-tojou-renai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

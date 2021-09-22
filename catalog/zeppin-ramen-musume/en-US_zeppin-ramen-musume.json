@@ -1,5 +1,9 @@
 {
     "title": "Zeppin! Ramen Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240493.jpg",
+        "alt": "zeppin-ramen-musume"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "51",

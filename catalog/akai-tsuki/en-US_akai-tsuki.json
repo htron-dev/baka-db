@@ -1,5 +1,9 @@
 {
     "title": "Akai Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124367.jpg",
+        "alt": "akai-tsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "赤い月",

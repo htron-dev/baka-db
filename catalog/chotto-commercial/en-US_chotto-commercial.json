@@ -1,5 +1,9 @@
 {
     "title": "Chotto Commercial",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150394.jpg",
+        "alt": "chotto-commercial"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

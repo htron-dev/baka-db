@@ -1,5 +1,9 @@
 {
     "title": "Rainy Days, Yesterday",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159642.jpg",
+        "alt": "rainy-days-yesterday"
+    },
     "type": "manga",
     "original_name": "レイニーデイズ、イエスタデイ",
     "start_date": "2015-06-27",

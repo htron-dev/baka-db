@@ -1,5 +1,9 @@
 {
     "title": "Amamizu Linda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180747.jpg",
+        "alt": "amamizu-linda"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

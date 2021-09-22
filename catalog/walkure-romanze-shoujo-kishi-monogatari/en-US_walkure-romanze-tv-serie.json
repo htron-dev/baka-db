@@ -1,5 +1,9 @@
 {
     "title": "Walkure Romanze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/54969.jpg",
+        "alt": "walkure-romanze"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ワルキューレロマンツェ",

@@ -1,10 +1,14 @@
 {
     "title": "Kigyou Senshi Yamazaki: Long Distance Call",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1238/96361.jpg",
+        "alt": "kigyou-senshi-yamazaki-long-distance-call"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "企業戦士 YAMAZAKI ~LONG DISTANCE CALL~",
     "start_date": "1997-10-25",
-    "ending_song": "\"Ring a Ding",
+    "ending_song": "\"Ring a Ding: Tomoko no Theme (Ring a Ding-倫子のテーマ-)\" by Aoi Mizuno",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "sci-fi",

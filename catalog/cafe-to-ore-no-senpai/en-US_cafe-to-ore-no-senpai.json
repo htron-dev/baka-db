@@ -1,5 +1,9 @@
 {
     "title": "Café to Ore no Senpai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162954.jpg",
+        "alt": "cafe-to-ore-no-senpai"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "31",

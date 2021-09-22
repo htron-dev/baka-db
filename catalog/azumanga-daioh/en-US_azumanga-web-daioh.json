@@ -1,5 +1,9 @@
 {
     "title": "Azumanga Web Daioh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/59967.jpg",
+        "alt": "azumanga-web-daioh"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "あずまんが WEB 大王",

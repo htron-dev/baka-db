@@ -1,5 +1,9 @@
 {
     "title": "Cake wo Kai ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37842.jpg",
+        "alt": "cake-wo-kai-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

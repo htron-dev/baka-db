@@ -1,5 +1,9 @@
 {
     "title": "Meiun Tantei Kandagawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211916.jpg",
+        "alt": "meiun-tantei-kandagawa"
+    },
     "type": "manga",
     "original_name": "命運探偵 神田川",
     "start_date": "2017-05-29",

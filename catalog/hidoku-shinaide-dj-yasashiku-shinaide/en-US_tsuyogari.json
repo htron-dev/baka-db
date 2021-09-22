@@ -1,5 +1,9 @@
 {
     "title": "Tsuyogari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19492.jpg",
+        "alt": "tsuyogari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

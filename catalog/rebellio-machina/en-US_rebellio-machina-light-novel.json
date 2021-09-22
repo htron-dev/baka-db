@@ -1,5 +1,9 @@
 {
     "title": "Rebellio Machina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234609.jpg",
+        "alt": "rebellio-machina"
+    },
     "type": "light-novel",
     "original_name": "リベリオ・マキナ",
     "start_date": "2019-02-09",

@@ -1,12 +1,16 @@
 {
     "title": "Diamond no Ace OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/71263.jpg",
+        "alt": "diamond-no-ace-ova"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ダイヤの A[エース] OAD",
     "start_date": "2014-11-17",
     "end_date": "2014-11-17",
     "opening_song": "\"Hashire! Mirai (疾走れ！ミライ)\" by Glay",
-    "ending_song": "#1",
+    "ending_song": "#1: \"PROMISED FIELD\" by Seidou High School Baseball Club (Ryota Osaka, Nobunaga Shimazaki, Natsuki Hanae) (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

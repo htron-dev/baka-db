@@ -1,5 +1,9 @@
 {
     "title": "Suki Suki♡Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144009.jpg",
+        "alt": "suki-suki♡-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

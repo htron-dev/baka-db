@@ -1,5 +1,9 @@
 {
     "title": "Itsuka Ame ga Furu You ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7259.jpg",
+        "alt": "itsuka-ame-ga-furu-you-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

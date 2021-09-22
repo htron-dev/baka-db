@@ -1,5 +1,9 @@
 {
     "title": "Tasogare Memorandum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230527.jpg",
+        "alt": "tasogare-memorandum"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

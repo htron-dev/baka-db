@@ -1,5 +1,9 @@
 {
     "title": "Akichi Asobi: Playground",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/86131.jpg",
+        "alt": "akichi-asobi-playground"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "あきちあそび Playground",

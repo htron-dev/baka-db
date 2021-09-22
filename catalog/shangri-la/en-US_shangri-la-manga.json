@@ -1,5 +1,9 @@
 {
     "title": "Shangri-La",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173570.jpg",
+        "alt": "shangri-la"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "シャングリ・ラ",

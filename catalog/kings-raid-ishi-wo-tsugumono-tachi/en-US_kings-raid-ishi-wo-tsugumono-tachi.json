@@ -1,12 +1,16 @@
 {
     "title": "King's Raid: Ishi wo Tsugumono-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1885/109122.jpg",
+        "alt": "kings-raid-ishi-wo-tsugumono-tachi"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "キングスレイド 意志を継ぐものたち",
     "start_date": "2020-10-03",
     "end_date": "2020-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"legendary future\" by fripSide",
+    "ending_song": "#1: \"SticK Out\" by KOTOKO",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

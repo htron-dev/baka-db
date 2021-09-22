@@ -1,5 +1,9 @@
 {
     "title": "Marie-sama wo Wakarasetai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244217.jpg",
+        "alt": "marie-sama-wo-wakarasetai"
+    },
     "type": "manga",
     "original_name": "マリー様をわからせたい！",
     "start_date": "2020-10-27",

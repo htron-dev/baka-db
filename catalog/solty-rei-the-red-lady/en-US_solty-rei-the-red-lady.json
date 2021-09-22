@@ -1,5 +1,9 @@
 {
     "title": "SoltyRei - The Red Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22344.jpg",
+        "alt": "solty-rei-the-red-lady"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

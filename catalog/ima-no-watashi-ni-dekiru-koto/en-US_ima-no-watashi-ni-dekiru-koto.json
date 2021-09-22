@@ -1,5 +1,9 @@
 {
     "title": "Ima no Watashi ni Dekiru Koto...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/82196.jpg",
+        "alt": "ima-no-watashi-ni-dekiru-koto"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "イマノワタシニデキルコト…",

@@ -1,12 +1,16 @@
 {
     "title": "D.C.III: Da Capo III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/44167.jpg",
+        "alt": "d-c-iii-da-capo-iii"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "D.C.III ～ダ・カーポ III ～",
     "start_date": "2013-01-05",
     "end_date": "2013-01-05",
     "opening_song": "\"Sakura Happy Innovation (サクラハッピーイノベーション)\" by Rikka Morizono (Emi Nitta), Charles Yoshino (Ui Miyazaki), Himeno Katsuragi (Mikoi Sasaki), Sara Rukawa (Chiyo Ousaki), Aoi Hinomoto (Erika Kaiho)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Aitai yo (会いたいよ)\" by yozuca\\* (eps 1, 9-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "ecchi",

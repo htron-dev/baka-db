@@ -1,5 +1,9 @@
 {
     "title": "Ginga Eiyuu Densetsu: Eiyuu-tachi no Shouzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184033.jpg",
+        "alt": "ginga-eiyuu-densetsu-eiyuu-tachi-no-shouzou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

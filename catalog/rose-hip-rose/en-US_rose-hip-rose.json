@@ -1,5 +1,9 @@
 {
     "title": "Rose Hip Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177185.jpg",
+        "alt": "rose-hip-rose"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

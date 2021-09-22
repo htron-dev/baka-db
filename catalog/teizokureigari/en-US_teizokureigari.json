@@ -1,5 +1,9 @@
 {
     "title": "Teizokureigari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179640.jpg",
+        "alt": "teizokureigari"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

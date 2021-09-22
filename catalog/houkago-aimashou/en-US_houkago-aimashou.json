@@ -1,5 +1,9 @@
 {
     "title": "Houkago, Aimashou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234640.jpg",
+        "alt": "houkago-aimashou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

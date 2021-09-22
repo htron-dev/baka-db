@@ -1,5 +1,9 @@
 {
     "title": "Metal Fighter Miku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1160/97198.jpg",
+        "alt": "metal-fighter-miku"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "メタルファイター・MIKU",

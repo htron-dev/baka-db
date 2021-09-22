@@ -1,5 +1,9 @@
 {
     "title": "Only Mine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231614.jpg",
+        "alt": "only-mine"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

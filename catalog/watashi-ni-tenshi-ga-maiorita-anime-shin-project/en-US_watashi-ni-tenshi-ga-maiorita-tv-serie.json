@@ -1,12 +1,16 @@
 {
     "title": "Watashi ni Tenshi ga Maiorita!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1778/100470.jpg",
+        "alt": "watashi-ni-tenshi-ga-maiorita"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "私に天使が舞い降りた！",
     "start_date": "2019-01-08",
     "end_date": "2019-01-08",
     "opening_song": "\"Kimama na Tenshitachi (気ままな天使たち)\" by Wataten☆Five (わたてん ☆5（ファイブ）) (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimama na Tenshitachi (気ままな天使たち)\" by Wataten☆Five (わたてん ☆5) (eps 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

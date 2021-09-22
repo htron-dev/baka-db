@@ -1,5 +1,9 @@
 {
     "title": "Furachi na Aniki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91331.jpg",
+        "alt": "furachi-na-aniki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

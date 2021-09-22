@@ -1,5 +1,9 @@
 {
     "title": "K-On! Story Anthology Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248882.jpg",
+        "alt": "k-on-story-anthology-comic"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "42",

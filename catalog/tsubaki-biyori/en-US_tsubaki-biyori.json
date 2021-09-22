@@ -1,5 +1,9 @@
 {
     "title": "Tsubaki Biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27026.jpg",
+        "alt": "tsubaki-biyori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

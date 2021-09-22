@@ -1,5 +1,9 @@
 {
     "title": "Days (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/88507.jpg",
+        "alt": "days-tv"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "DAYS",

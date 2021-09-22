@@ -1,5 +1,9 @@
 {
     "title": "Saiyuuki: Son Gokuu Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/17996.jpg",
+        "alt": "saiyuuki-son-gokuu-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "西遊記孫悟空物語",

@@ -1,12 +1,16 @@
 {
     "title": "Arslan Senki (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/73588.jpg",
+        "alt": "arslan-senki-tv"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "アルスラーン戦記",
     "start_date": "2015-04-05",
     "end_date": "2015-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Boku no Kotoba de wa Nai, Kore wa Bokutachi no Kotoba\" (僕の言葉ではない これは僕達の言葉) by UVERworld (eps 1-13)",
+    "ending_song": "#1: \"Lapis Lazuli (ラピスラズリ)\" by Eir Aoi (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

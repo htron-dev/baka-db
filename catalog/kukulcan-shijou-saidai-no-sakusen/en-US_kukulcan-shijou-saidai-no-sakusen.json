@@ -1,5 +1,9 @@
 {
     "title": "Kukulcan: Shijou Saidai no Sakusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222256.jpg",
+        "alt": "kukulcan-shijou-saidai-no-sakusen"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

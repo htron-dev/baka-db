@@ -1,5 +1,9 @@
 {
     "title": "Chijou yori 10 Centimeters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164094.jpg",
+        "alt": "chijou-yori-10-centimeters"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

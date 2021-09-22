@@ -1,12 +1,16 @@
 {
     "title": "Fushigiboshi no☆Futagohime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/49793.jpg",
+        "alt": "fushigiboshi-no☆-futagohime"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ふしぎ星の ☆ ふたご姫",
     "start_date": "2005-04-02",
     "end_date": "2005-04-02",
     "opening_song": "\"Princess wa Akiramenai\" by FLIP-FLAP",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Oshare fantasy\" by Fine☆Rain",
     "rating": "G - All Ages",
     "tags": [
         "magic",

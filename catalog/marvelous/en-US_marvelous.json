@@ -1,5 +1,9 @@
 {
     "title": "Marvelous",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32798.jpg",
+        "alt": "marvelous"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "マーベラス",

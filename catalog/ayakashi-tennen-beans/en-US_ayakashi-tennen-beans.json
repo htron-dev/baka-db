@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Tennen Beans",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39698.jpg",
+        "alt": "ayakashi-tennen-beans"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

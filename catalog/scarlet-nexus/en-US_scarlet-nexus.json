@@ -1,5 +1,9 @@
 {
     "title": "Scarlet Nexus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1314/116004.jpg",
+        "alt": "scarlet-nexus"
+    },
     "type": "tv-serie",
     "original_name": "SCARLET NEXUS",
     "start_date": "2021-07-01",

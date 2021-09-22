@@ -1,5 +1,9 @@
 {
     "title": "Mawase! Valkyrie no Hilde-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177059.jpg",
+        "alt": "mawase-valkyrie-no-hilde-san"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

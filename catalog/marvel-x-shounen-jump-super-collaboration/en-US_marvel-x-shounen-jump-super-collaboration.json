@@ -1,5 +1,9 @@
 {
     "title": "Marvel x Shounen Jump+ Super Collaboration",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226612.jpg",
+        "alt": "marvel-x-shounen-jump-super-collaboration"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

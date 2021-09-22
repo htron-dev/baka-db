@@ -1,5 +1,9 @@
 {
     "title": "Oniichan☆Control",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35530.jpg",
+        "alt": "oniichan☆-control"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

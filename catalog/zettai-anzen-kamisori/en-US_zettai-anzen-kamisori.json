@@ -1,5 +1,9 @@
 {
     "title": "Zettai Anzen Kamisori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171039.jpg",
+        "alt": "zettai-anzen-kamisori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

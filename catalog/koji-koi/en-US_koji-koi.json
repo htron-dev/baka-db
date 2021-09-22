@@ -1,5 +1,9 @@
 {
     "title": "Koji Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202188.jpg",
+        "alt": "koji-koi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Examurai Sengoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/33643.jpg",
+        "alt": "examurai-sengoku"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "エグザムライ戦国",

@@ -1,5 +1,9 @@
 {
     "title": "Binetsu no Youna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149676.jpg",
+        "alt": "binetsu-no-youna"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "微熱のような",

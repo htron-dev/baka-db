@@ -1,5 +1,9 @@
 {
     "title": "Maton no App to Aurora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161860.jpg",
+        "alt": "maton-no-app-to-aurora"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "魔遁のアプリと青炎剣〈アウローラ〉",

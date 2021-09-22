@@ -1,5 +1,9 @@
 {
     "title": "Ajisai no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/66759.jpg",
+        "alt": "ajisai-no-uta"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "あじさいの唄",

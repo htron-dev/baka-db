@@ -1,5 +1,9 @@
 {
     "title": "Calbee Hitokuchi Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/78557.jpg",
+        "alt": "calbee-hitokuchi-gekijou"
+    },
     "type": "special",
     "episodes": "18",
     "original_name": "Calbee ひとくち劇場",

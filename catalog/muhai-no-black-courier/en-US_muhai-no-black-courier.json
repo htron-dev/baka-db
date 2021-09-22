@@ -1,5 +1,9 @@
 {
     "title": "Muhai no Black Courier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160826.jpg",
+        "alt": "muhai-no-black-courier"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

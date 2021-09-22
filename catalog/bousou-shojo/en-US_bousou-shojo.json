@@ -1,5 +1,9 @@
 {
     "title": "Bousou Shojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/53505.jpg",
+        "alt": "bousou-shojo"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "109",

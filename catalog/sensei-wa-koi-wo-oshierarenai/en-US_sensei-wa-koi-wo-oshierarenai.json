@@ -1,5 +1,9 @@
 {
     "title": "Sensei wa Koi wo Oshierarenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219617.jpg",
+        "alt": "sensei-wa-koi-wo-oshierarenai"
+    },
     "type": "manga",
     "original_name": "先生は恋を教えられない",
     "start_date": "2018-06-12",

@@ -1,5 +1,9 @@
 {
     "title": "Three Quarters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2792.jpg",
+        "alt": "three-quarters"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

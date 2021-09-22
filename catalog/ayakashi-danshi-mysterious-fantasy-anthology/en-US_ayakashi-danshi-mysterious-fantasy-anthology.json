@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Danshi - Mysterious Fantasy Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28899.jpg",
+        "alt": "ayakashi-danshi-mysterious-fantasy-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

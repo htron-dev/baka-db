@@ -1,5 +1,9 @@
 {
     "title": "Takane no Hana nara Ochitekoi!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176337.jpg",
+        "alt": "takane-no-hana-nara-ochitekoi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "72",

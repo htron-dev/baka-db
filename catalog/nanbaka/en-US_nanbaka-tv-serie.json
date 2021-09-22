@@ -1,5 +1,9 @@
 {
     "title": "Nanbaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/81399.jpg",
+        "alt": "nanbaka"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ナンバカ",

@@ -1,5 +1,9 @@
 {
     "title": "Milkman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22441.jpg",
+        "alt": "milkman"
+    },
     "type": "manga",
     "original_name": "ミルクマン",
     "start_date": "2005-05-28",

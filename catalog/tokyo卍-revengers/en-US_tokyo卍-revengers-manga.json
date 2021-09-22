@@ -1,5 +1,9 @@
 {
     "title": "Tokyo 卍 Revengers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196272.jpg",
+        "alt": "tokyo-卍-revengers"
+    },
     "type": "manga",
     "original_name": "東京卍リベンジャーズ",
     "start_date": "2017-03-01",

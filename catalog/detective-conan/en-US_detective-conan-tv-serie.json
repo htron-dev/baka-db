@@ -1,10 +1,14 @@
 {
     "title": "Detective Conan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75199.jpg",
+        "alt": "detective-conan"
+    },
     "type": "tv-serie",
     "original_name": "名探偵コナン",
     "start_date": "1996-01-08",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Mune ga Dokidoki (胸がドキドキ)\" by the High-Lows (eps 1-30)",
+    "ending_song": "#01: \"Step by Step\" by Ziggy (eps 1-26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

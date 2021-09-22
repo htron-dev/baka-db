@@ -1,5 +1,9 @@
 {
     "title": "Criminale!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188830.jpg",
+        "alt": "criminale"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

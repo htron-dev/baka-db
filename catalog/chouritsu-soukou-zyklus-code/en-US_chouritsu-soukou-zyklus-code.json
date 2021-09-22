@@ -1,5 +1,9 @@
 {
     "title": "Chouritsu Soukou Zyklus;Code",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156422.jpg",
+        "alt": "chouritsu-soukou-zyklus-code"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

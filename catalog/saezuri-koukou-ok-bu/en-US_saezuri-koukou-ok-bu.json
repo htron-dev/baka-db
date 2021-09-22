@@ -1,5 +1,9 @@
 {
     "title": "Saezuri Koukou OK-bu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166178.jpg",
+        "alt": "saezuri-koukou-ok-bu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "38",

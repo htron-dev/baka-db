@@ -1,5 +1,9 @@
 {
     "title": "Tensei shitara Warui Kuni no Musume Deshita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227049.jpg",
+        "alt": "tensei-shitara-warui-kuni-no-musume-deshita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

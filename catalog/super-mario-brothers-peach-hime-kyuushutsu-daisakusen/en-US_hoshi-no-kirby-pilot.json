@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Kirby: Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/32685.jpg",
+        "alt": "hoshi-no-kirby-pilot"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "星のカービィ パイロット版",

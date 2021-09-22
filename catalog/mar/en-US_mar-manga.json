@@ -1,5 +1,9 @@
 {
     "title": "MÄR",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165744.jpg",
+        "alt": "mar"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "161",

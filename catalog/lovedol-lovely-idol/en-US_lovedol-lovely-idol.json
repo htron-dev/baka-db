@@ -1,5 +1,9 @@
 {
     "title": "Lovedol: Lovely Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/6448.jpg",
+        "alt": "lovedol-lovely-idol"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "らぶドル～ Lovely Idol ～",

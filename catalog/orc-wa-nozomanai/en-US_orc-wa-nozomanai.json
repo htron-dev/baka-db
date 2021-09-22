@@ -1,5 +1,9 @@
 {
     "title": "Orc wa Nozomanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222328.jpg",
+        "alt": "orc-wa-nozomanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Hachi: Tokyo 23-ku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222022.jpg",
+        "alt": "hachi-tokyo-23-ku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

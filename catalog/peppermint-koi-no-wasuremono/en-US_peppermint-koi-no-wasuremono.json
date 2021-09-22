@@ -1,5 +1,9 @@
 {
     "title": "Peppermint: Koi no Wasuremono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19445.jpg",
+        "alt": "peppermint-koi-no-wasuremono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

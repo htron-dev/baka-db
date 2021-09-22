@@ -1,5 +1,9 @@
 {
     "title": "Konohana Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165035.jpg",
+        "alt": "konohana-kitan"
+    },
     "type": "manga",
     "original_name": "このはな綺譚",
     "start_date": "2014-12-29",

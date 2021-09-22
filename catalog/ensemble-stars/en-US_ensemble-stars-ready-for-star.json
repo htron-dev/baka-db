@@ -1,5 +1,9 @@
 {
     "title": "Ensemble Stars!: Ready for Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230329.jpg",
+        "alt": "ensemble-stars-ready-for-star"
+    },
     "type": "manga",
     "original_name": "あんさんぶるスターズ! Ready For Star",
     "start_date": "2019-07-07",

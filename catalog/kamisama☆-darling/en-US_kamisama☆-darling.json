@@ -1,5 +1,9 @@
 {
     "title": "Kamisama☆Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157422.jpg",
+        "alt": "kamisama☆-darling"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "神様 ☆ ダーリン",

@@ -1,5 +1,9 @@
 {
     "title": "GTO: Shonan 14 Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/56109.jpg",
+        "alt": "gto-shonan-14-days"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "77",

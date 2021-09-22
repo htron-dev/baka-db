@@ -1,5 +1,9 @@
 {
     "title": "Uki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134767.jpg",
+        "alt": "uki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

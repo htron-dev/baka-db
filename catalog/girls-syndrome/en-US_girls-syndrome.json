@@ -1,5 +1,9 @@
 {
     "title": "Girls Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134923.jpg",
+        "alt": "girls-syndrome"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

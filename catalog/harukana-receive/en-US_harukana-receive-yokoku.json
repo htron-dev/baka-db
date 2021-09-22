@@ -1,5 +1,9 @@
 {
     "title": "Harukana Receive: Yokoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1980/93259.jpg",
+        "alt": "harukana-receive-yokoku"
+    },
     "type": "ona",
     "episodes": "11",
     "original_name": "『はるかなレシーブ』予告",

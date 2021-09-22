@@ -1,5 +1,9 @@
 {
     "title": "Flutter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/59529.jpg",
+        "alt": "flutter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

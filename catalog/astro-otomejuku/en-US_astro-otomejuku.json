@@ -1,5 +1,9 @@
 {
     "title": "Astro! Otomejuku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124025.jpg",
+        "alt": "astro-otomejuku"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "27",

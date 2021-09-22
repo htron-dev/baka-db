@@ -1,5 +1,9 @@
 {
     "title": "Sono Ki ni Sasenaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19588.jpg",
+        "alt": "sono-ki-ni-sasenaide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

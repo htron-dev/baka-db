@@ -1,5 +1,9 @@
 {
     "title": "The Snack World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/78249.jpg",
+        "alt": "the-snack-world"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "スナックワールド",

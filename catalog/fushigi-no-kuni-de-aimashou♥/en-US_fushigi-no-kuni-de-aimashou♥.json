@@ -1,5 +1,9 @@
 {
     "title": "Fushigi no Kuni de Aimashou♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239819.jpg",
+        "alt": "fushigi-no-kuni-de-aimashou♥"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

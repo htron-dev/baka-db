@@ -1,5 +1,9 @@
 {
     "title": "Gunjou no Ryuu Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202592.jpg",
+        "alt": "gunjou-no-ryuu-kishi"
+    },
     "type": "light-novel",
     "original_name": "群青の竜騎士",
     "start_date": "2017-10-30",

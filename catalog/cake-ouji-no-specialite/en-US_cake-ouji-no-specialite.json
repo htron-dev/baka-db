@@ -1,5 +1,9 @@
 {
     "title": "Cake Ouji no Spécialité",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193545.jpg",
+        "alt": "cake-ouji-no-specialite"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

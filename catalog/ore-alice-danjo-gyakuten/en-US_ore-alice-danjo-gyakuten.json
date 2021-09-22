@@ -1,5 +1,9 @@
 {
     "title": "Ore Alice: Danjo Gyakuten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109157.jpg",
+        "alt": "ore-alice-danjo-gyakuten"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

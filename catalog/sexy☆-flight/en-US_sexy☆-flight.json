@@ -1,5 +1,9 @@
 {
     "title": "Sexy☆Flight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225137.jpg",
+        "alt": "sexy☆-flight"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Sensei to, Watashi wa.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224819.jpg",
+        "alt": "sensei-to-watashi-wa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

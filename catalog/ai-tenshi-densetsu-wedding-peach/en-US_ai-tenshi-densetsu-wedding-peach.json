@@ -1,12 +1,16 @@
 {
     "title": "Ai Tenshi Densetsu Wedding Peach",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/20446.jpg",
+        "alt": "ai-tenshi-densetsu-wedding-peach"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "愛天使伝説 ウェディングピーチ",
     "start_date": "1995-04-05",
     "end_date": "1995-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Yumemiru Ai Tenshi (夢見る愛天使)\" by Furil (eps 1-27)",
+    "ending_song": "#1: \"Juliet Of The 21st Century\" by Furil",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

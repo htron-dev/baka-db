@@ -1,5 +1,9 @@
 {
     "title": "Tsubakirou Cantarella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154761.jpg",
+        "alt": "tsubakirou-cantarella"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

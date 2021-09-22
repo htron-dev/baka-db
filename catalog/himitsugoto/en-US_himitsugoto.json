@@ -1,5 +1,9 @@
 {
     "title": "Himitsugoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64201.jpg",
+        "alt": "himitsugoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

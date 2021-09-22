@@ -1,5 +1,9 @@
 {
     "title": "Doubutsu Dai Yakyuu Sen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/66781.jpg",
+        "alt": "doubutsu-dai-yakyuu-sen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "動物大野球戦",

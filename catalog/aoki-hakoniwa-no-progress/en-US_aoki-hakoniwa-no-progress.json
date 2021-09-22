@@ -1,5 +1,9 @@
 {
     "title": "Aoki Hakoniwa no Progress",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159894.jpg",
+        "alt": "aoki-hakoniwa-no-progress"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "29",

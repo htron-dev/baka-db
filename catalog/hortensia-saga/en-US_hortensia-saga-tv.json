@@ -1,12 +1,16 @@
 {
     "title": "Hortensia Saga (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1558/113940.jpg",
+        "alt": "hortensia-saga-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "オルタンシア・サーガ",
     "start_date": "2021-01-07",
     "end_date": "2021-01-07",
     "opening_song": "\"LEADER\" by MY FIRST STORY",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yasou to Hakuchuumu (夜想と白昼夢)\" by Mafumafu",
     "rating": "None",
     "tags": [
         "action",

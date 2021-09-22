@@ -1,5 +1,9 @@
 {
     "title": "Young Gun Carnaval",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46069.jpg",
+        "alt": "young-gun-carnaval"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

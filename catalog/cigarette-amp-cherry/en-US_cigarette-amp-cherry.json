@@ -1,5 +1,9 @@
 {
     "title": "Cigarette &amp; Cherry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207954.jpg",
+        "alt": "cigarette-amp-cherry"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "129",

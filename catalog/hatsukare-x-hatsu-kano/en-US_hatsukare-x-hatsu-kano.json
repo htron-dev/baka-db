@@ -1,5 +1,9 @@
 {
     "title": "Hatsukare x Hatsu Kano",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34955.jpg",
+        "alt": "hatsukare-x-hatsu-kano"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

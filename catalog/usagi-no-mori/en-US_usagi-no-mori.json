@@ -1,5 +1,9 @@
 {
     "title": "Usagi no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225848.jpg",
+        "alt": "usagi-no-mori"
+    },
     "type": "manga",
     "original_name": "兎の森",
     "start_date": "2018-07-19",

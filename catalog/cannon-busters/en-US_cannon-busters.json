@@ -1,5 +1,9 @@
 {
     "title": "Cannon Busters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1452/102628.jpg",
+        "alt": "cannon-busters"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "Cannon Busters",

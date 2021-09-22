@@ -1,5 +1,9 @@
 {
     "title": "Wala! Pyeon-uijeom The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/45722.jpg",
+        "alt": "wala-pyeon-uijeom-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "와라! 편의점 the animation",

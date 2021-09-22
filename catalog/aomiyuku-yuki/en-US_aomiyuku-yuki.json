@@ -1,5 +1,9 @@
 {
     "title": "Aomiyuku Yuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/101629.jpg",
+        "alt": "aomiyuku-yuki"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "青みゆく雪",

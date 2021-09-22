@@ -1,5 +1,9 @@
 {
     "title": "Donguri no Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/12803.jpg",
+        "alt": "donguri-no-ie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "どんぐりの家",

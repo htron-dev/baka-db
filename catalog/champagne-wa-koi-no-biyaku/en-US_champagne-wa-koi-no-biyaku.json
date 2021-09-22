@@ -1,5 +1,9 @@
 {
     "title": "Champagne wa Koi no Biyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41581.jpg",
+        "alt": "champagne-wa-koi-no-biyaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

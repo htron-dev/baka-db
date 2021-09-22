@@ -1,5 +1,9 @@
 {
     "title": "Shachou to Hisho, Ai no Shoumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35086.jpg",
+        "alt": "shachou-to-hisho-ai-no-shoumei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

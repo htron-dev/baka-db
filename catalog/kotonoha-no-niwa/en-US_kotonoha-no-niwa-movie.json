@@ -1,5 +1,9 @@
 {
     "title": "Kotonoha no Niwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1597/112995.jpg",
+        "alt": "kotonoha-no-niwa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "言の葉の庭",

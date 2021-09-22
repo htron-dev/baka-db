@@ -1,5 +1,9 @@
 {
     "title": "Yorokobi wa Ude no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78297.jpg",
+        "alt": "yorokobi-wa-ude-no-naka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

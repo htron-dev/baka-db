@@ -1,5 +1,9 @@
 {
     "title": "Nozoki Ana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178011.jpg",
+        "alt": "nozoki-ana"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "117",

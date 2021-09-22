@@ -1,5 +1,9 @@
 {
     "title": "Seirei Gensouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204985.jpg",
+        "alt": "seirei-gensouki"
+    },
     "type": "manga",
     "original_name": "精霊幻想記",
     "start_date": "2017-07-07",

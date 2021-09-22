@@ -1,5 +1,9 @@
 {
     "title": "Bijutsubunai Media Kei Otarabu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28002.jpg",
+        "alt": "bijutsubunai-media-kei-otarabu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

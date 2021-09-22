@@ -1,5 +1,9 @@
 {
     "title": "Douken. - Nanohana Koukou Douga Kenkyuubu -",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/49263.jpg",
+        "alt": "douken-nanohana-koukou-douga-kenkyuubu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Night Milk Heads",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221889.jpg",
+        "alt": "night-milk-heads"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

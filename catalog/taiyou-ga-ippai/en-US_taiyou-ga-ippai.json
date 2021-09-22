@@ -1,5 +1,9 @@
 {
     "title": "Taiyou ga Ippai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138557.jpg",
+        "alt": "taiyou-ga-ippai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

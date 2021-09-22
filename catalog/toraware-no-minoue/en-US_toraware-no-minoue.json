@@ -1,5 +1,9 @@
 {
     "title": "Toraware no Minoue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123721.jpg",
+        "alt": "toraware-no-minoue"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "Cosmo Warrior Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1254/106173.jpg",
+        "alt": "cosmo-warrior-zero"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "コスモウォーリアー零",

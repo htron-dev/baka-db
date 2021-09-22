@@ -1,5 +1,9 @@
 {
     "title": "Jet Stream Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163762.jpg",
+        "alt": "jet-stream-mission"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "21",

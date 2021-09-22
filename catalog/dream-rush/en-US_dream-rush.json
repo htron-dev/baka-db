@@ -1,5 +1,9 @@
 {
     "title": "Dream Rush!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126659.jpg",
+        "alt": "dream-rush"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ドリーム・ラッシュ！",

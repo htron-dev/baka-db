@@ -1,5 +1,9 @@
 {
     "title": "The Ghost of Cartoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1081/102219.jpg",
+        "alt": "the-ghost-of-cartoon"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "The Ghost Of Cartoon",

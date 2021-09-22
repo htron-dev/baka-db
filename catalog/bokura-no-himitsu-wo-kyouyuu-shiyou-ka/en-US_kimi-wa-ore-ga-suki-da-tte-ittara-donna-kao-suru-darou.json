@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa, Ore ga Suki da tte Ittara Donna Kao suru darou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185053.jpg",
+        "alt": "kimi-wa-ore-ga-suki-da-tte-ittara-donna-kao-suru-darou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Renai no Kamisama ni Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153710.jpg",
+        "alt": "renai-no-kamisama-ni-ie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

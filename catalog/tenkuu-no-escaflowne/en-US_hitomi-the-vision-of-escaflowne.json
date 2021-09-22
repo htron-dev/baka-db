@@ -1,5 +1,9 @@
 {
     "title": "Hitomi: The Vision of Escaflowne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/10385.jpg",
+        "alt": "hitomi-the-vision-of-escaflowne"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

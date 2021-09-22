@@ -1,5 +1,9 @@
 {
     "title": "Zettai Meirei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20803.jpg",
+        "alt": "zettai-meirei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Onsen Dragon Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160881.jpg",
+        "alt": "onsen-dragon-oukoku"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Shachou, Battle no Jikan Desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1044/106309.jpg",
+        "alt": "shachou-battle-no-jikan-desu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "社長, バトルの時間です!",

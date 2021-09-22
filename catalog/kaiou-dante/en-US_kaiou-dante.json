@@ -1,5 +1,9 @@
 {
     "title": "Kaiou Dante",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186405.jpg",
+        "alt": "kaiou-dante"
+    },
     "type": "manga",
     "original_name": "海王ダンテ",
     "start_date": "2015-12-12",

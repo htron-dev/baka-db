@@ -1,5 +1,9 @@
 {
     "title": "Fujoshi Kanojo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184337.jpg",
+        "alt": "fujoshi-kanojo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

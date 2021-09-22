@@ -1,5 +1,9 @@
 {
     "title": "Adult na Kaihatsu Shitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29993.jpg",
+        "alt": "adult-na-kaihatsu-shitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

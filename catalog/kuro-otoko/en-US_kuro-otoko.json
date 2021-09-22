@@ -1,5 +1,9 @@
 {
     "title": "Kuro Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10628.jpg",
+        "alt": "kuro-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

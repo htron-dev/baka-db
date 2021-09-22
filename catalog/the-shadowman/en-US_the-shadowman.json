@@ -1,5 +1,9 @@
 {
     "title": "The Shadowman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64359.jpg",
+        "alt": "the-shadowman"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

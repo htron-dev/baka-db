@@ -1,12 +1,16 @@
 {
     "title": "Okusama ga Seitokaichou!+!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/82409.jpg",
+        "alt": "okusama-ga-seitokaichou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "おくさまが生徒会長!＋!",
     "start_date": "2016-10-02",
     "end_date": "2016-10-02",
     "opening_song": "\"Kira Kira☆Explorer (キラキラ ☆ エクスプローラ )\" by Rekka Katakiri",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Koi ni Matsuwaru Etcetera ~Wakana Ui no Baai~ (恋にまつわるエトセトラ～若菜羽衣の場合)\" by Ui Wakana (Ayana Taketatsu)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Neko no Te Kashimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239803.jpg",
+        "alt": "neko-no-te-kashimasu"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "猫の手貸します！",

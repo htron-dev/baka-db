@@ -1,12 +1,16 @@
 {
     "title": "Dragon Ball Super",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/74606.jpg",
+        "alt": "dragon-ball-super"
+    },
     "type": "tv-serie",
     "episodes": "131",
     "original_name": "ドラゴンボール超（スーパー）",
     "start_date": "2015-07-05",
     "end_date": "2015-07-05",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Chouzetsu☆Dynamic! (超絶 ☆ ダイナミック!)\" by Kazuya Yoshii (吉井和哉) (eps 1-76)",
+    "ending_song": "#01: \"Hello Hello Hello (ハローハローハロー)\" by Good Morning America (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

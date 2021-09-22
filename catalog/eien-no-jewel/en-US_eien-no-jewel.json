@@ -1,5 +1,9 @@
 {
     "title": "Eien no Jewel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38333.jpg",
+        "alt": "eien-no-jewel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

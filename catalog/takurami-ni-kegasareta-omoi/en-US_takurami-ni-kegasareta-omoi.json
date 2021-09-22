@@ -1,5 +1,9 @@
 {
     "title": "Takurami ni Kegasareta Omoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10881.jpg",
+        "alt": "takurami-ni-kegasareta-omoi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "たくらみに穢された想い",

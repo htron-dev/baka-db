@@ -1,5 +1,9 @@
 {
     "title": "Zenbu Marugoto Omae ga Warui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227897.jpg",
+        "alt": "zenbu-marugoto-omae-ga-warui"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

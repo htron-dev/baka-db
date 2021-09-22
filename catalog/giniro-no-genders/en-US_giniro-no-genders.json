@@ -1,5 +1,9 @@
 {
     "title": "Giniro no Genders",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219437.jpg",
+        "alt": "giniro-no-genders"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

@@ -1,12 +1,16 @@
 {
     "title": "Kiss Dum: Engage Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/21586.jpg",
+        "alt": "kiss-dum-engage-planet"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "キスダム -ENGAGE planet-",
     "start_date": "2007-04-04",
     "end_date": "2007-04-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Toki o Koete (時空を超えて)\" by II MIX⊿DELTA (eps 2-21)",
+    "ending_song": "#1: \"Toki o Koete (時空を超えて)\" by II MIX DELTA (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mecha",

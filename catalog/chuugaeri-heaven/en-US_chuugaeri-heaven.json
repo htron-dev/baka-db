@@ -1,5 +1,9 @@
 {
     "title": "Chuugaeri Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41610.jpg",
+        "alt": "chuugaeri-heaven"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

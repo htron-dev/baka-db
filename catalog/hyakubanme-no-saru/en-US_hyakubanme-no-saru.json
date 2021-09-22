@@ -1,5 +1,9 @@
 {
     "title": "Hyakubanme no Saru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/64151.jpg",
+        "alt": "hyakubanme-no-saru"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "100 ばんめのサル",

@@ -1,5 +1,9 @@
 {
     "title": "Hotaru no Hikari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195176.jpg",
+        "alt": "hotaru-no-hikari"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "90",

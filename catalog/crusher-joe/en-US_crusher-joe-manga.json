@@ -1,5 +1,9 @@
 {
     "title": "Crusher Joe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73459.jpg",
+        "alt": "crusher-joe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Ko Comic Anthology: Tenshin Ranman-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95871.jpg",
+        "alt": "otoko-no-ko-comic-anthology-tenshin-ranman-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

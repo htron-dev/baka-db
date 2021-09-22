@@ -1,5 +1,9 @@
 {
     "title": "Catulus Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198800.jpg",
+        "alt": "catulus-syndrome"
+    },
     "type": "manga",
     "original_name": "猫娘症候群〈かとるすしんどろーむ〉",
     "start_date": "2016-10-15",

@@ -1,5 +1,9 @@
 {
     "title": "Return",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11520.jpg",
+        "alt": "return"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

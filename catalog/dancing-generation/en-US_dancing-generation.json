@@ -1,5 +1,9 @@
 {
     "title": "Dancing Generation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163830.jpg",
+        "alt": "dancing-generation"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ダンシング・ゼネレーション",

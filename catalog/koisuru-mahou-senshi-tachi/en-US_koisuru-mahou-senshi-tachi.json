@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Mahou Senshi-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193646.jpg",
+        "alt": "koisuru-mahou-senshi-tachi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Star Red",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/57221.jpg",
+        "alt": "star-red"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "スター・レッド",

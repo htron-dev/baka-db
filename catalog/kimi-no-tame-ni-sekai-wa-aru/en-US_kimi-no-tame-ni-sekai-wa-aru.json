@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Tame ni Sekai wa Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236201.jpg",
+        "alt": "kimi-no-tame-ni-sekai-wa-aru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

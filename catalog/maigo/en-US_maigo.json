@@ -1,5 +1,9 @@
 {
     "title": "Maigo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129961.jpg",
+        "alt": "maigo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Ittekimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/84786.jpg",
+        "alt": "ittekimasu"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "いってきます。",

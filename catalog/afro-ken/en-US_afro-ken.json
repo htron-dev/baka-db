@@ -1,5 +1,9 @@
 {
     "title": "Afro-Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/63903.jpg",
+        "alt": "afro-ken"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "アフロ犬",

@@ -1,5 +1,9 @@
 {
     "title": "Sourei no Alicia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126365.jpg",
+        "alt": "sourei-no-alicia"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "創黎のアリシア",

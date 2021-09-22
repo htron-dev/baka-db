@@ -1,5 +1,9 @@
 {
     "title": "Natsu no Zenjitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/90125.jpg",
+        "alt": "natsu-no-zenjitsu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "38",

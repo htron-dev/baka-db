@@ -1,5 +1,9 @@
 {
     "title": "Navirinth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192472.jpg",
+        "alt": "navirinth"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

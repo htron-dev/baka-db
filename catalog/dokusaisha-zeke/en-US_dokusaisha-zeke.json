@@ -1,5 +1,9 @@
 {
     "title": "Dokusaisha Zeke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166784.jpg",
+        "alt": "dokusaisha-zeke"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

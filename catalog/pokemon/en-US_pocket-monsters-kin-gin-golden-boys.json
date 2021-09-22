@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters Kin Gin: Golden Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25836.jpg",
+        "alt": "pocket-monsters-kin-gin-golden-boys"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

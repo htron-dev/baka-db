@@ -1,5 +1,9 @@
 {
     "title": "Imouto wa Meshimazu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227151.jpg",
+        "alt": "imouto-wa-meshimazu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

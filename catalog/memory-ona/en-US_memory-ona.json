@@ -1,5 +1,9 @@
 {
     "title": "Memory (ONA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/24150.jpg",
+        "alt": "memory-ona"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "メモリー",

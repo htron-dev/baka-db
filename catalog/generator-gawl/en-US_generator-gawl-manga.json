@@ -1,5 +1,9 @@
 {
     "title": "Generator Gawl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64565.jpg",
+        "alt": "generator-gawl"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ジェネレイターガウル",

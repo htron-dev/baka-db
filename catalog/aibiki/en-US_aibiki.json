@@ -1,5 +1,9 @@
 {
     "title": "Aibiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/114953.jpg",
+        "alt": "aibiki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あいびき",

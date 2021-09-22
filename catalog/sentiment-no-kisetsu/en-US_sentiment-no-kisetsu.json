@@ -1,5 +1,9 @@
 {
     "title": "Sentiment no Kisetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196293.jpg",
+        "alt": "sentiment-no-kisetsu"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "80",

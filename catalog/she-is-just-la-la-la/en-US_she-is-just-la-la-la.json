@@ -1,5 +1,9 @@
 {
     "title": "She is Just La La La!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13515.jpg",
+        "alt": "she-is-just-la-la-la"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "She is just LA・LA・LA!",

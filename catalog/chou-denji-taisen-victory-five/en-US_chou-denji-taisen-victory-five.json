@@ -1,5 +1,9 @@
 {
     "title": "Chou Denji Taisen Victory Five",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207669.jpg",
+        "alt": "chou-denji-taisen-victory-five"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

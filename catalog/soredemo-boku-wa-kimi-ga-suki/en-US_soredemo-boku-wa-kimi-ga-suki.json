@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Boku wa Kimi ga Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151925.jpg",
+        "alt": "soredemo-boku-wa-kimi-ga-suki"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "44",

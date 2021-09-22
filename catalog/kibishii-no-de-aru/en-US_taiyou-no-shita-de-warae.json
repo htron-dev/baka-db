@@ -1,5 +1,9 @@
 {
     "title": "Taiyou no Shita de Warae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33042.jpg",
+        "alt": "taiyou-no-shita-de-warae"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

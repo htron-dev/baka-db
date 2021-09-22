@@ -1,5 +1,9 @@
 {
     "title": "Grander Musashi RV",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1819/94254.jpg",
+        "alt": "grander-musashi-rv"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "グランダー武蔵ＲＶ",

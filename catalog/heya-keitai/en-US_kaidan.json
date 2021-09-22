@@ -1,5 +1,9 @@
 {
     "title": "Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/59767.jpg",
+        "alt": "kaidan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "怪談",

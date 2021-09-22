@@ -1,5 +1,9 @@
 {
     "title": "Riot of the World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31905.jpg",
+        "alt": "riot-of-the-world"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ライオットオブザワールド",

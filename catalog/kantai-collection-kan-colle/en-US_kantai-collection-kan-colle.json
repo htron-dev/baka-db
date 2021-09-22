@@ -1,12 +1,16 @@
 {
     "title": "Kantai Collection: KanColle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/73954.jpg",
+        "alt": "kantai-collection-kan-colle"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "艦隊これくしょん -艦これ-",
     "start_date": "2015-01-08",
     "end_date": "2015-01-08",
     "opening_song": "\"Miiro (海色)\" by AKINO with bless4 (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Miiro (海色)\" by AKINO from bless4 (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Kantai_Collection_(anime"
+            "link": "https://en.wikipedia.org/wiki/Kantai_Collection_%28anime%29"
         }
     ]
 }

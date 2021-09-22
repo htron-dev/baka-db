@@ -1,5 +1,9 @@
 {
     "title": "Never Give Up!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186429.jpg",
+        "alt": "never-give-up"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "77",

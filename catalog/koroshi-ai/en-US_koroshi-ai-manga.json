@@ -1,5 +1,9 @@
 {
     "title": "Koroshi Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192048.jpg",
+        "alt": "koroshi-ai"
+    },
     "type": "manga",
     "original_name": "殺し愛",
     "start_date": "2015-10-15",

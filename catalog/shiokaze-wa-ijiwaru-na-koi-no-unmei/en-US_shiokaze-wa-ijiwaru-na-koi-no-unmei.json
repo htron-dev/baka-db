@@ -1,5 +1,9 @@
 {
     "title": "Shiokaze wa Ijiwaru na Koi no Unmei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192958.jpg",
+        "alt": "shiokaze-wa-ijiwaru-na-koi-no-unmei"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Ano Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169798.jpg",
+        "alt": "boku-no-ano-ko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

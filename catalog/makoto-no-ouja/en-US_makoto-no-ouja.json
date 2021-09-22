@@ -1,5 +1,9 @@
 {
     "title": "Makoto no Ouja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163848.jpg",
+        "alt": "makoto-no-ouja"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "56",

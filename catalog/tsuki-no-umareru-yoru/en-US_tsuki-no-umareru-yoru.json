@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Umareru Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22590.jpg",
+        "alt": "tsuki-no-umareru-yoru"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "月のうまれる夜",

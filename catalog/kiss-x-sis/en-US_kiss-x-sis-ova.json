@@ -1,5 +1,9 @@
 {
     "title": "Kiss x Sis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/22223.jpg",
+        "alt": "kiss-x-sis"
+    },
     "type": "ova",
     "episodes": "12",
     "original_name": "キス × シス",

@@ -1,5 +1,9 @@
 {
     "title": "Tokimeki☆Triangle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36275.jpg",
+        "alt": "tokimeki☆-triangle"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "トキメキ ☆ とらいあんぐる",

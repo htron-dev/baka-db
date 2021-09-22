@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Yaruki Meshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189596.jpg",
+        "alt": "otoko-no-yaruki-meshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

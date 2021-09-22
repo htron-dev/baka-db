@@ -1,5 +1,9 @@
 {
     "title": "Kare no Niwa ni Saku Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82728.jpg",
+        "alt": "kare-no-niwa-ni-saku-hana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

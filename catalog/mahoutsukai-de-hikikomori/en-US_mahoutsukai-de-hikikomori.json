@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai de Hikikomori?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226049.jpg",
+        "alt": "mahoutsukai-de-hikikomori"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

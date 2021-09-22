@@ -1,5 +1,9 @@
 {
     "title": "The Two Stars Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35333.jpg",
+        "alt": "the-two-stars-love"
+    },
     "type": "manhwa",
     "volumes": "11",
     "original_name": "별별 사랑따기",

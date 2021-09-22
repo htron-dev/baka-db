@@ -1,5 +1,9 @@
 {
     "title": "Plus Mimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/132341.jpg",
+        "alt": "plus-mimi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

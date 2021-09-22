@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Babysitters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/89978.jpg",
+        "alt": "gakuen-babysitters"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "学園ベビーシッターズ",

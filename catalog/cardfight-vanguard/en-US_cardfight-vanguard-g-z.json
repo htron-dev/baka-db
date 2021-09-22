@@ -1,5 +1,9 @@
 {
     "title": "Cardfight!! Vanguard G: Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/88063.jpg",
+        "alt": "cardfight-vanguard-g-z"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "CARDFIGHT!! ヴァンガード G Z",

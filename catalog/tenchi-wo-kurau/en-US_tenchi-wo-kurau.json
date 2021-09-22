@@ -1,5 +1,9 @@
 {
     "title": "Tenchi wo Kurau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151375.jpg",
+        "alt": "tenchi-wo-kurau"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "Furusato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198794.jpg",
+        "alt": "furusato"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "ふるさと",

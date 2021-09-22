@@ -1,5 +1,9 @@
 {
     "title": "Jashin Oonuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171308.jpg",
+        "alt": "jashin-oonuma"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "86",

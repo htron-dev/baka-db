@@ -1,12 +1,16 @@
 {
     "title": "ef: A Tale of Melodies.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/50519.jpg",
+        "alt": "ef-a-tale-of-melodies"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ef - a tale of melodies.",
     "start_date": "2008-10-07",
     "end_date": "2008-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"ebullient future (English)\" by TENMON featuring ELISA (eps 1-5, 7-9)",
+    "ending_song": "#1: \"Egao no Chikara (笑顔のチカラ)\" by Mai Goto (eps 2-5, 7, 9, 11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mystery",

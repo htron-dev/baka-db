@@ -1,5 +1,9 @@
 {
     "title": "My Dear Sweetheart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5967.jpg",
+        "alt": "my-dear-sweetheart"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

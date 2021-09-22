@@ -1,5 +1,9 @@
 {
     "title": "Soshite Boku wa Tohou ni Kureru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20510.jpg",
+        "alt": "soshite-boku-wa-tohou-ni-kureru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

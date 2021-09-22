@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Hitsugi: Ave Maria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26631.jpg",
+        "alt": "tenshi-no-hitsugi-ave-maria"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

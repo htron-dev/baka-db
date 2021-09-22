@@ -1,5 +1,9 @@
 {
     "title": "Blue Remains",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1377/112152.jpg",
+        "alt": "blue-remains"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ブルーリメイン",

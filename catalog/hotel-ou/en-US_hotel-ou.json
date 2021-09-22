@@ -1,5 +1,9 @@
 {
     "title": "Hotel-ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182384.jpg",
+        "alt": "hotel-ou"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

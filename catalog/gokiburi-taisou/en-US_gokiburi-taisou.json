@@ -1,5 +1,9 @@
 {
     "title": "Gokiburi Taisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/87363.jpg",
+        "alt": "gokiburi-taisou"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ゴキブリ体操",

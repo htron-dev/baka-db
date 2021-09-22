@@ -1,5 +1,9 @@
 {
     "title": "Kekkon suru tte, Hontou desu ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232925.jpg",
+        "alt": "kekkon-suru-tte-hontou-desu-ka"
+    },
     "type": "manga",
     "original_name": "結婚するって、本当ですか 365 Days To The Wedding",
     "start_date": "2020-03-16",

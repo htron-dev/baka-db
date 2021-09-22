@@ -1,5 +1,9 @@
 {
     "title": "Shounen Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152355.jpg",
+        "alt": "shounen-note"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "40",

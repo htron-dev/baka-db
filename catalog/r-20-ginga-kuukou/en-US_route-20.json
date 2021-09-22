@@ -1,5 +1,9 @@
 {
     "title": "Route 20",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1846.jpg",
+        "alt": "route-20"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

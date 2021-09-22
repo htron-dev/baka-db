@@ -1,5 +1,9 @@
 {
     "title": "Bunbuku Chagama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/63901.jpg",
+        "alt": "bunbuku-chagama"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "文福茶釜",

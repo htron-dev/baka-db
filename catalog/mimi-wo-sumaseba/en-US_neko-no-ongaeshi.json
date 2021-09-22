@@ -1,5 +1,9 @@
 {
     "title": "Neko no Ongaeshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/597.jpg",
+        "alt": "neko-no-ongaeshi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "猫の恩返し",

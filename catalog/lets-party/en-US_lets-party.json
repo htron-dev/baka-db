@@ -1,5 +1,9 @@
 {
     "title": "Let's Party!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160773.jpg",
+        "alt": "lets-party"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "Let's パーティー!",

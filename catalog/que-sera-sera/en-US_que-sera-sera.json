@@ -1,5 +1,9 @@
 {
     "title": "Que Será Será",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201868.jpg",
+        "alt": "que-sera-sera"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

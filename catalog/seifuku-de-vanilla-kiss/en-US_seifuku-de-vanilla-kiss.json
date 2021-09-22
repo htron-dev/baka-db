@@ -1,5 +1,9 @@
 {
     "title": "Seifuku de Vanilla Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154415.jpg",
+        "alt": "seifuku-de-vanilla-kiss"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "35",

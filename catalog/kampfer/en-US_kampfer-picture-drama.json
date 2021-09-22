@@ -1,5 +1,9 @@
 {
     "title": "Kämpfer Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/25042.jpg",
+        "alt": "kampfer-picture-drama"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "けんぷファー ピクチャードラマ",

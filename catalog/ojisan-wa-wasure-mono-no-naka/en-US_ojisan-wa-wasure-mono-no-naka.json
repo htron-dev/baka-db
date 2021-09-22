@@ -1,5 +1,9 @@
 {
     "title": "Ojisan wa Wasure Mono no Naka.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/61725.jpg",
+        "alt": "ojisan-wa-wasure-mono-no-naka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

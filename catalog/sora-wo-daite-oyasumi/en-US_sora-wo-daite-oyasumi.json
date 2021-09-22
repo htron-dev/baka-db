@@ -1,5 +1,9 @@
 {
     "title": "Sora wo Daite Oyasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130419.jpg",
+        "alt": "sora-wo-daite-oyasumi"
+    },
     "type": "manga",
     "chapters": "9",
     "original_name": "空をだいておやすみ",

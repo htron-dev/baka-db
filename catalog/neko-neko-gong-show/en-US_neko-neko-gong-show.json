@@ -1,5 +1,9 @@
 {
     "title": "Neko Neko Gong Show",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/88391.jpg",
+        "alt": "neko-neko-gong-show"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "ネコネコ ゴングショー",

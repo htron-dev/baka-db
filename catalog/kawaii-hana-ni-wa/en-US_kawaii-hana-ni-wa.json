@@ -1,5 +1,9 @@
 {
     "title": "Kawaii Hana ni wa,",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227640.jpg",
+        "alt": "kawaii-hana-ni-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/62327.jpg",
+        "alt": "kanai"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "カナイ",

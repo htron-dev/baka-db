@@ -1,5 +1,9 @@
 {
     "title": "4-goushitsu no Atelier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135753.jpg",
+        "alt": "4-goushitsu-no-atelier"
+    },
     "type": "manga",
     "original_name": "4 号室のアトリエ",
     "start_date": "2014-02-20",

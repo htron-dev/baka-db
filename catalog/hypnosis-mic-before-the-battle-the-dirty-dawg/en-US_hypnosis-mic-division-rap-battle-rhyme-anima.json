@@ -1,12 +1,16 @@
 {
     "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1677/106540.jpg",
+        "alt": "hypnosis-mic-division-rap-battle-rhyme-anima"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ヒプノシスマイク -Division Rap Battle- Rhyme Anima",
     "start_date": "2020-10-03",
     "end_date": "2020-10-03",
     "opening_song": "\"Hypnosis Mic -Rhyme Anima- (ヒプノシスマイク -Rhyme Anima-)\" by Division All Stars",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kizuna -Ikebukuro ver.- (絆 -IKEBUKURO ver.-)\" by Buster Bros!! (eps 1-3)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

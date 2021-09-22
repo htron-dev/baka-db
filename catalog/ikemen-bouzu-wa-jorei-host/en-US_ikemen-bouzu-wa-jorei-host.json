@@ -1,5 +1,9 @@
 {
     "title": "Ikemen Bouzu wa Jorei Host",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197490.jpg",
+        "alt": "ikemen-bouzu-wa-jorei-host"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "イケメン坊主は除霊ホスト",

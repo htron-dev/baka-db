@@ -1,5 +1,9 @@
 {
     "title": "Sono Oshi, xx ni Tsuki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234632.jpg",
+        "alt": "sono-oshi-xx-ni-tsuki"
+    },
     "type": "manga",
     "original_name": "その推し、×× につき!",
     "start_date": "2017-08-22",

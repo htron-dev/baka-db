@@ -1,5 +1,9 @@
 {
     "title": "Takeki Ryuusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13566.jpg",
+        "alt": "takeki-ryuusei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

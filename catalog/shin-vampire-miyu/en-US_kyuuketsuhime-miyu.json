@@ -1,5 +1,9 @@
 {
     "title": "Kyuuketsuhime Miyu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78948.jpg",
+        "alt": "kyuuketsuhime-miyu"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "吸血姫美夕",

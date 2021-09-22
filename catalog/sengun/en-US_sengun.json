@@ -1,5 +1,9 @@
 {
     "title": "Sengun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11925.jpg",
+        "alt": "sengun"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "戦群",

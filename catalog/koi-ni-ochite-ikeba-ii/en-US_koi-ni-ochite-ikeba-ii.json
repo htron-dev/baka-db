@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Ochite Ikeba ii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13469.jpg",
+        "alt": "koi-ni-ochite-ikeba-ii"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋に堕ちていけばいい",

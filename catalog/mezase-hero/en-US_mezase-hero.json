@@ -1,5 +1,9 @@
 {
     "title": "Mezase Hero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208875.jpg",
+        "alt": "mezase-hero"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

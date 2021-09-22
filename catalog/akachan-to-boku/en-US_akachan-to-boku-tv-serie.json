@@ -1,12 +1,16 @@
 {
     "title": "Akachan to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/49693.jpg",
+        "alt": "akachan-to-boku"
+    },
     "type": "tv-serie",
     "episodes": "35",
     "original_name": "赤ちゃんと僕",
     "start_date": "1996-07-11",
     "end_date": "1996-07-11",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"B.B.B. (Be Bad Boy)\" by Kenji Kohashi",
+    "ending_song": "#01: \"You\" by Sachiko Kumagai",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

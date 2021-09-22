@@ -1,5 +1,9 @@
 {
     "title": "Match Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142527.jpg",
+        "alt": "match-shoujo"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "40",

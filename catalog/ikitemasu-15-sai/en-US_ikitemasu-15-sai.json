@@ -1,5 +1,9 @@
 {
     "title": "Ikitemasu, 15-sai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/66157.jpg",
+        "alt": "ikitemasu-15-sai"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "生きてます、15 歳。",

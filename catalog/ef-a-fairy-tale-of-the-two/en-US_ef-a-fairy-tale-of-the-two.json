@@ -1,5 +1,9 @@
 {
     "title": "ef: A Fairy Tale of the Two.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153812.jpg",
+        "alt": "ef-a-fairy-tale-of-the-two"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "63",

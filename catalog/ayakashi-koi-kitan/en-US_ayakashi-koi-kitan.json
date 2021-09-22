@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Koi Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112307.jpg",
+        "alt": "ayakashi-koi-kitan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

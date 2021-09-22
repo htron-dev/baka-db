@@ -1,5 +1,9 @@
 {
     "title": "Shikanoko Nokonoko Koshitantan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243191.jpg",
+        "alt": "shikanoko-nokonoko-koshitantan"
+    },
     "type": "manga",
     "original_name": "しかのこのこのここしたんたん",
     "start_date": "2019-11-15",

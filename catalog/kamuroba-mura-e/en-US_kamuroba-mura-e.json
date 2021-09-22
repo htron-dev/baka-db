@@ -1,5 +1,9 @@
 {
     "title": "Kamuroba Mura e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227228.jpg",
+        "alt": "kamuroba-mura-e"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "42",

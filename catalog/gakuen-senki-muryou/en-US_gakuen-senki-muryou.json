@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Senki Muryou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75379.jpg",
+        "alt": "gakuen-senki-muryou"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "学園戦記ムリョウ",

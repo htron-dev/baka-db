@@ -1,5 +1,9 @@
 {
     "title": "Kono Koi ni Ichizu desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10857.jpg",
+        "alt": "kono-koi-ni-ichizu-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "この恋に一途です。",

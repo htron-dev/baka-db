@@ -1,5 +1,9 @@
 {
     "title": "Shingan no Yuusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206288.jpg",
+        "alt": "shingan-no-yuusha"
+    },
     "type": "manga",
     "original_name": "神眼の勇者",
     "start_date": "2017-09-26",

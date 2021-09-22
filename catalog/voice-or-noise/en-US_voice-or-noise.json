@@ -1,5 +1,9 @@
 {
     "title": "Voice or Noise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129369.jpg",
+        "alt": "voice-or-noise"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "54",

@@ -1,5 +1,9 @@
 {
     "title": "Waratte Himiko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22434.jpg",
+        "alt": "waratte-himiko-san"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "わらってヒミコさん",

@@ -1,5 +1,9 @@
 {
     "title": "Dr. Duo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/99283.jpg",
+        "alt": "dr-duo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "42",

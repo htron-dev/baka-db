@@ -1,5 +1,9 @@
 {
     "title": "Hoshi Umare no Spica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123765.jpg",
+        "alt": "hoshi-umare-no-spica"
+    },
     "type": "light-novel",
     "original_name": "流星生まれのスピカ",
     "start_date": "2014-04-25",

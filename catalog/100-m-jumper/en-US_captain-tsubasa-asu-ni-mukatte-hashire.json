@@ -1,5 +1,9 @@
 {
     "title": "Captain Tsubasa: Asu ni Mukatte Hashire!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/73342.jpg",
+        "alt": "captain-tsubasa-asu-ni-mukatte-hashire"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キャプテン翼　明日に向って走れ！",

@@ -1,5 +1,9 @@
 {
     "title": "Koi no Surisasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164906.jpg",
+        "alt": "koi-no-surisasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

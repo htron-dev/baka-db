@@ -1,5 +1,9 @@
 {
     "title": "Zankoku na Kami ga Shihai suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155732.jpg",
+        "alt": "zankoku-na-kami-ga-shihai-suru"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "55",

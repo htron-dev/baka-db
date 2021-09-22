@@ -1,5 +1,9 @@
 {
     "title": "Hitori Shika Inai Jibun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/83682.jpg",
+        "alt": "hitori-shika-inai-jibun"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "一人しかいない自分",

@@ -1,5 +1,9 @@
 {
     "title": "Clannad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1804/95033.jpg",
+        "alt": "clannad"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "CLANNAD",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Clannad_(visual_novel"
+            "link": "http://en.wikipedia.org/wiki/Clannad_%28visual_novel%29"
         }
     ]
 }

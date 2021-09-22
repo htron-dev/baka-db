@@ -1,5 +1,9 @@
 {
     "title": "Ishi no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28570.jpg",
+        "alt": "ishi-no-hana"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "24",

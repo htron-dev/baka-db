@@ -1,5 +1,9 @@
 {
     "title": "Kuma Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/108399.jpg",
+        "alt": "kuma-miko"
+    },
     "type": "manga",
     "original_name": "くまみこ",
     "start_date": "2013-04-05",

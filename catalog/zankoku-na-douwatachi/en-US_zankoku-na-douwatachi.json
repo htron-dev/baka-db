@@ -1,5 +1,9 @@
 {
     "title": "Zankoku na Douwatachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73879.jpg",
+        "alt": "zankoku-na-douwatachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

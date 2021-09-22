@@ -1,5 +1,9 @@
 {
     "title": "Shin Jigen Ascension",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196066.jpg",
+        "alt": "shin-jigen-ascension"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

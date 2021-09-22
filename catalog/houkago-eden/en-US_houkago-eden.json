@@ -1,5 +1,9 @@
 {
     "title": "Houkago Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199513.jpg",
+        "alt": "houkago-eden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

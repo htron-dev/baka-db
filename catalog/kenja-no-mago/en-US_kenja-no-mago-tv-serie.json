@@ -1,5 +1,9 @@
 {
     "title": "Kenja no Mago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1261/100452.jpg",
+        "alt": "kenja-no-mago"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "賢者の孫",

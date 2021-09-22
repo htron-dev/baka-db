@@ -1,5 +1,9 @@
 {
     "title": "Ayu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186824.jpg",
+        "alt": "ayu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "鮎",

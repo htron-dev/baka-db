@@ -1,5 +1,9 @@
 {
     "title": "Succubus ja Nai mon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225786.jpg",
+        "alt": "succubus-ja-nai-mon"
+    },
     "type": "manga",
     "original_name": "サキュバスじゃないもん!",
     "start_date": "2016-02-14",

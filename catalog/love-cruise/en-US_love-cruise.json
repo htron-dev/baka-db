@@ -1,5 +1,9 @@
 {
     "title": "Love Cruise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27943.jpg",
+        "alt": "love-cruise"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

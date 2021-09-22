@@ -1,5 +1,9 @@
 {
     "title": "Shaman Warrior",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34013.jpg",
+        "alt": "shaman-warrior"
+    },
     "type": "manhwa",
     "volumes": "9",
     "chapters": "72",

@@ -1,5 +1,9 @@
 {
     "title": "Karadasagashi Kai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208593.jpg",
+        "alt": "karadasagashi-kai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "44",

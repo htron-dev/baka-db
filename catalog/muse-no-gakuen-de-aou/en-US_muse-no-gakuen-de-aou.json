@@ -1,5 +1,9 @@
 {
     "title": "Muse no Gakuen de Aou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/12066.jpg",
+        "alt": "muse-no-gakuen-de-aou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "12",

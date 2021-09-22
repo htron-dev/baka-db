@@ -1,5 +1,9 @@
 {
     "title": "Mi-kun no Chikuwabu + Ore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163910.jpg",
+        "alt": "mi-kun-no-chikuwabu-ore"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

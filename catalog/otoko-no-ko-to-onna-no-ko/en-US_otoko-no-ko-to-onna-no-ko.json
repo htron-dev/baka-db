@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Ko to Onna no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134557.jpg",
+        "alt": "otoko-no-ko-to-onna-no-ko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

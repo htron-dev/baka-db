@@ -1,5 +1,9 @@
 {
     "title": "Amuro to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239397.jpg",
+        "alt": "amuro-to-boku"
+    },
     "type": "manga",
     "original_name": "アムロと僕",
     "start_date": "2020-12-26",

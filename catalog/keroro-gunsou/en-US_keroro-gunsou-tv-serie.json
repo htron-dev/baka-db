@@ -1,12 +1,16 @@
 {
     "title": "Keroro Gunsou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/21764.jpg",
+        "alt": "keroro-gunsou"
+    },
     "type": "tv-serie",
     "episodes": "358",
     "original_name": "ケロロ軍曹",
     "start_date": "2004-04-03",
     "end_date": "2004-04-03",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"KERO! to MARCH\" by Nobuaki Kakuda and Juri Ihata (eps 1-51)",
+    "ending_song": "#01: \"AFRO Gunsou (アフロ軍曹)\" by DANCE MAN (eps 1-18, 27-39)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

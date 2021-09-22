@@ -1,5 +1,9 @@
 {
     "title": "Wagatsuma-san wa Ore no Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164478.jpg",
+        "alt": "wagatsuma-san-wa-ore-no-yome"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "111",

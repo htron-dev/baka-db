@@ -1,5 +1,9 @@
 {
     "title": "Termina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149368.jpg",
+        "alt": "termina"
+    },
     "type": "manga",
     "original_name": "てるみな",
     "start_date": "2011-02-28",

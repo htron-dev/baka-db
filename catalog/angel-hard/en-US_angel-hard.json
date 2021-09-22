@@ -1,5 +1,9 @@
 {
     "title": "Angel Hard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13523.jpg",
+        "alt": "angel-hard"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "エンジェル・ハード",

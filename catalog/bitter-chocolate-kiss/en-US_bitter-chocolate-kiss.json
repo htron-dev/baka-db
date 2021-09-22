@@ -1,5 +1,9 @@
 {
     "title": "Bitter Chocolate Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27689.jpg",
+        "alt": "bitter-chocolate-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

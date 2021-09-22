@@ -1,5 +1,9 @@
 {
     "title": "Hokuto no Ken: Ichigo-Aji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126853.jpg",
+        "alt": "hokuto-no-ken-ichigo-aji"
+    },
     "type": "manga",
     "original_name": "北斗の拳 イチゴ味",
     "start_date": "2013-03-01",

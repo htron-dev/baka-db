@@ -1,5 +1,9 @@
 {
     "title": "One Piece Movie 1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1770/97704.jpg",
+        "alt": "one-piece-movie-1"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ONE PIECE",

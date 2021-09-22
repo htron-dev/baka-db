@@ -1,5 +1,9 @@
 {
     "title": "Yasashii Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194609.jpg",
+        "alt": "yasashii-kankei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

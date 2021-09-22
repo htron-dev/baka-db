@@ -1,5 +1,9 @@
 {
     "title": "Swing!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244504.jpg",
+        "alt": "swing"
+    },
     "type": "manga",
     "original_name": "すいんぐ!!",
     "start_date": "2019-07-26",

@@ -1,5 +1,9 @@
 {
     "title": "Oyayubi no Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/13979.jpg",
+        "alt": "oyayubi-no-himegoto"
+    },
     "type": "manga",
     "original_name": "親指の秘めごと",
     "start_date": "2008-04-14",

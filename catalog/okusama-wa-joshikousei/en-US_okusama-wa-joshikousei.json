@@ -1,5 +1,9 @@
 {
     "title": "Okusama wa Joshikousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178067.jpg",
+        "alt": "okusama-wa-joshikousei"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "160",

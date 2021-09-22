@@ -1,5 +1,9 @@
 {
     "title": "Seihou Tenshi Angel Links",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41236.jpg",
+        "alt": "seihou-tenshi-angel-links"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

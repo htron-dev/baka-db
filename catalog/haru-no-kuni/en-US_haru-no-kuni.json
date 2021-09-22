@@ -1,5 +1,9 @@
 {
     "title": "Haru no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/80889.jpg",
+        "alt": "haru-no-kuni"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

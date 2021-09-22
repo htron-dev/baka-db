@@ -1,5 +1,9 @@
 {
     "title": "Mizuiro, Sorairo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150037.jpg",
+        "alt": "mizuiro-sorairo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

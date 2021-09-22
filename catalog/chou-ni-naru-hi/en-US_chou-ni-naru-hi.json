@@ -1,5 +1,9 @@
 {
     "title": "Chou ni Naru Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/21393.jpg",
+        "alt": "chou-ni-naru-hi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

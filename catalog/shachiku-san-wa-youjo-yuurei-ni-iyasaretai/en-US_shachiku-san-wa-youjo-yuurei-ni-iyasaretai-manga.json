@@ -1,5 +1,9 @@
 {
     "title": "Shachiku-san wa Youjo Yuurei ni Iyasaretai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221891.jpg",
+        "alt": "shachiku-san-wa-youjo-yuurei-ni-iyasaretai"
+    },
     "type": "manga",
     "original_name": "社畜さんは幼女幽霊に癒されたい。",
     "start_date": "2019-08-09",

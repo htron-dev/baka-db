@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Furu Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26356.jpg",
+        "alt": "hoshi-no-furu-machi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "70",

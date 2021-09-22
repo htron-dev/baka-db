@@ -1,5 +1,9 @@
 {
     "title": "Tokimeku, Hajimete no.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206220.jpg",
+        "alt": "tokimeku-hajimete-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Okinimesu mama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229044.jpg",
+        "alt": "tsuki-no-okinimesu-mama"
+    },
     "type": "manga",
     "original_name": "月のお気に召すまま",
     "start_date": "2018-11-13",

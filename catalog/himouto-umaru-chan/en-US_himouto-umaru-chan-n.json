@@ -1,5 +1,9 @@
 {
     "title": "Himouto! Umaru-chan N",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171219.jpg",
+        "alt": "himouto-umaru-chan-n"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "8",

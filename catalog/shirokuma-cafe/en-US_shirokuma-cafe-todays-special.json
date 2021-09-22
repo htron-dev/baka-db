@@ -1,5 +1,9 @@
 {
     "title": "Shirokuma Café: Today's Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168244.jpg",
+        "alt": "shirokuma-cafe-todays-special"
+    },
     "type": "manga",
     "original_name": "しろくまカフェ today's special",
     "start_date": "2014-07-28",

@@ -1,5 +1,9 @@
 {
     "title": "Fushigi na Melmo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/11275.jpg",
+        "alt": "fushigi-na-melmo"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ふしぎなメルモ",

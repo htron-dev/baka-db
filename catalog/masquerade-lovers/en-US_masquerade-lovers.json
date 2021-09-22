@@ -1,5 +1,9 @@
 {
     "title": "Masquerade Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/87483.jpg",
+        "alt": "masquerade-lovers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

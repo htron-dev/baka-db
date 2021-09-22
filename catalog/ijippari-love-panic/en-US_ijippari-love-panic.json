@@ -1,5 +1,9 @@
 {
     "title": "Ijippari Love Panic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/94807.jpg",
+        "alt": "ijippari-love-panic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

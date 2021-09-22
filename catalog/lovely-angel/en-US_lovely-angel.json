@@ -1,5 +1,9 @@
 {
     "title": "Lovely Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159914.jpg",
+        "alt": "lovely-angel"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ラブリー・エンジェル",

@@ -1,5 +1,9 @@
 {
     "title": "DD Hokuto no Ken (2013)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/50323.jpg",
+        "alt": "dd-hokuto-no-ken-2013"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "DD 北斗の拳",

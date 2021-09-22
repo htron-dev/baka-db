@@ -1,5 +1,9 @@
 {
     "title": "Hakuouki: Otogisoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/78600.jpg",
+        "alt": "hakuouki-otogisoushi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "薄桜鬼～御伽草子～",

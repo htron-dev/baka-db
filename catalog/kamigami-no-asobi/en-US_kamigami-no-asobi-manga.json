@@ -1,5 +1,9 @@
 {
     "title": "Kamigami no Asobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129173.jpg",
+        "alt": "kamigami-no-asobi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

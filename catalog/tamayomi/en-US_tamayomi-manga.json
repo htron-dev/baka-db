@@ -1,5 +1,9 @@
 {
     "title": "Tamayomi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215116.jpg",
+        "alt": "tamayomi"
+    },
     "type": "manga",
     "original_name": "球詠",
     "start_date": "2016-04-23",

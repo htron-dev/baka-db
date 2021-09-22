@@ -1,5 +1,9 @@
 {
     "title": "Silent Möbius",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21.jpg",
+        "alt": "silent-mobius"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "サイレントメビウス",

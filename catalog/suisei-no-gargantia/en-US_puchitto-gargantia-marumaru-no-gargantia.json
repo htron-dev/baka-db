@@ -1,8 +1,12 @@
 {
     "title": "Puchitto Gargantia: Marumaru no Gargantia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/59811.jpg",
+        "alt": "puchitto-gargantia-marumaru-no-gargantia"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "ぷちっとがるがんてぃあ",
+    "original_name": "ぷちっとがるがんてぃあ: 特別企画 - 〇〇のガルガンティア",
     "start_date": "2013-09-25",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

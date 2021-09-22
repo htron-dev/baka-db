@@ -1,5 +1,9 @@
 {
     "title": "Souyoku no Oujuu Kishidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217956.jpg",
+        "alt": "souyoku-no-oujuu-kishidan"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "19",

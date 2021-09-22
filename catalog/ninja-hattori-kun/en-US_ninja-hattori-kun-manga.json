@@ -1,5 +1,9 @@
 {
     "title": "Ninja Hattori-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203373.jpg",
+        "alt": "ninja-hattori-kun"
+    },
     "type": "manga",
     "volumes": "16",
     "original_name": "忍者ハットリくん",

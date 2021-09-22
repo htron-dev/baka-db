@@ -1,5 +1,9 @@
 {
     "title": "Love Stalking!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245127.jpg",
+        "alt": "love-stalking"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

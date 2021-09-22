@@ -1,5 +1,9 @@
 {
     "title": "Sono Me ga Mitsumeru Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/87540.jpg",
+        "alt": "sono-me-ga-mitsumeru-mono"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "その目が見つめるもの",

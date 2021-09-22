@@ -1,5 +1,9 @@
 {
     "title": "Junbaku Sweeter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236859.jpg",
+        "alt": "junbaku-sweeter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

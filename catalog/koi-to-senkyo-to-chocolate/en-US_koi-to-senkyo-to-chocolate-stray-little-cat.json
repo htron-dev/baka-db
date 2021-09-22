@@ -1,5 +1,9 @@
 {
     "title": "Koi to Senkyo to Chocolate: Stray Little Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154464.jpg",
+        "alt": "koi-to-senkyo-to-chocolate-stray-little-cat"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "32",

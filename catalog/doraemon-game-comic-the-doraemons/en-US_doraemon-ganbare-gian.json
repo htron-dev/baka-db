@@ -1,5 +1,9 @@
 {
     "title": "Doraemon: Ganbare! Gian!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/29221.jpg",
+        "alt": "doraemon-ganbare-gian"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラえもん がんばれ！ジャイアン！！",

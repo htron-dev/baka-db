@@ -1,5 +1,9 @@
 {
     "title": "Sweet Delicious",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151662.jpg",
+        "alt": "sweet-delicious"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "Sweet Delicious",

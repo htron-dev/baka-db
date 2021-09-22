@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Yuubinya-san Arigatou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/47939.jpg",
+        "alt": "hello-kitty-no-yuubinya-san-arigatou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティの 郵便屋さんありがとう",

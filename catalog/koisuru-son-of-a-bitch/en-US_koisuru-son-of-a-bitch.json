@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Son of a Bitch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226359.jpg",
+        "alt": "koisuru-son-of-a-bitch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

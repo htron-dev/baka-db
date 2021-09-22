@@ -1,5 +1,9 @@
 {
     "title": "Osamu to Musashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/53337.jpg",
+        "alt": "osamu-to-musashi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "オサムとムサシ",

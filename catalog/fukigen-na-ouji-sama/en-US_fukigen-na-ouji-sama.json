@@ -1,5 +1,9 @@
 {
     "title": "Fukigen na Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30217.jpg",
+        "alt": "fukigen-na-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "不機嫌な王子様",

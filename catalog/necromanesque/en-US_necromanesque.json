@@ -1,5 +1,9 @@
 {
     "title": "Necromanesque",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15762.jpg",
+        "alt": "necromanesque"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

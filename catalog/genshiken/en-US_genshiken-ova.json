@@ -1,5 +1,9 @@
 {
     "title": "Genshiken OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/21672.jpg",
+        "alt": "genshiken-ova"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "げんしけん OVA",

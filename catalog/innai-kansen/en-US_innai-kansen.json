@@ -1,5 +1,9 @@
 {
     "title": "Innai Kansen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/33915.jpg",
+        "alt": "innai-kansen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

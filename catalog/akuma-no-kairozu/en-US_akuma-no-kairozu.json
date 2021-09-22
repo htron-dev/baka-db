@@ -1,5 +1,9 @@
 {
     "title": "Akuma no Kairozu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75688.jpg",
+        "alt": "akuma-no-kairozu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "悪魔の回路図",

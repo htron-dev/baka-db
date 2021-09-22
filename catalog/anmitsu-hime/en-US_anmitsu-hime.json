@@ -1,5 +1,9 @@
 {
     "title": "Anmitsu Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/81386.jpg",
+        "alt": "anmitsu-hime"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "あんみつ姫",

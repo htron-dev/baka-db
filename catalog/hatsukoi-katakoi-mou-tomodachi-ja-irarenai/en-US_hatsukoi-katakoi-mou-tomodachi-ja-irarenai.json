@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi, Katakoi.: Mou Tomodachi ja Irarenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143205.jpg",
+        "alt": "hatsukoi-katakoi-mou-tomodachi-ja-irarenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

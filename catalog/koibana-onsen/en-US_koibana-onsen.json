@@ -1,5 +1,9 @@
 {
     "title": "Koibana Onsen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/51425.jpg",
+        "alt": "koibana-onsen"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "72",

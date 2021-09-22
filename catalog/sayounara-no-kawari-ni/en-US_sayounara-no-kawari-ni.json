@@ -1,5 +1,9 @@
 {
     "title": "Sayounara no Kawari ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33234.jpg",
+        "alt": "sayounara-no-kawari-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "さようならのかわりに",

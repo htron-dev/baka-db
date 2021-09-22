@@ -1,5 +1,9 @@
 {
     "title": "Mousou Shoujo Otaku-kei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33195.jpg",
+        "alt": "mousou-shoujo-otaku-kei"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "51",

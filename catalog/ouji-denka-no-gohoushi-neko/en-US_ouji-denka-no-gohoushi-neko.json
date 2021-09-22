@@ -1,5 +1,9 @@
 {
     "title": "Ouji Denka no Gohoushi Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95677.jpg",
+        "alt": "ouji-denka-no-gohoushi-neko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

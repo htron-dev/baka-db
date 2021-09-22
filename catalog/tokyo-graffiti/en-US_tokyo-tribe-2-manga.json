@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Tribe 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193323.jpg",
+        "alt": "tokyo-tribe-2"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "TOKYO TRIBE 2",

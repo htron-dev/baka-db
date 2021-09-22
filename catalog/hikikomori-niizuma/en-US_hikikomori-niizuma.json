@@ -1,5 +1,9 @@
 {
     "title": "Hikikomori Niizuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233896.jpg",
+        "alt": "hikikomori-niizuma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

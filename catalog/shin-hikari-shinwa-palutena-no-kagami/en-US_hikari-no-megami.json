@@ -1,5 +1,9 @@
 {
     "title": "Hikari no Megami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/76940.jpg",
+        "alt": "hikari-no-megami"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "光の女神",

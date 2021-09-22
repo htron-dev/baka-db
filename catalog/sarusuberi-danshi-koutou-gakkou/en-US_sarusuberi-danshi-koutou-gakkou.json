@@ -1,5 +1,9 @@
 {
     "title": "Sarusuberi Danshi Koutou Gakkou!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154627.jpg",
+        "alt": "sarusuberi-danshi-koutou-gakkou"
+    },
     "type": "manga",
     "original_name": "百日紅男子高等学校!!",
     "start_date": "2014-10-24",

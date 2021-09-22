@@ -1,5 +1,9 @@
 {
     "title": "Kono Koi wa Kore Ijou Kirei ni Naranai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217677.jpg",
+        "alt": "kono-koi-wa-kore-ijou-kirei-ni-naranai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

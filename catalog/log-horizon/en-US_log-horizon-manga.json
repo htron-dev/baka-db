@@ -1,5 +1,9 @@
 {
     "title": "Log Horizon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98051.jpg",
+        "alt": "log-horizon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

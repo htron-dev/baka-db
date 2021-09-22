@@ -1,5 +1,9 @@
 {
     "title": "Shinrei Gakuen Koihenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/17642.jpg",
+        "alt": "shinrei-gakuen-koihenge"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

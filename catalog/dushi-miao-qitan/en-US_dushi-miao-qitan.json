@@ -1,5 +1,9 @@
 {
     "title": "Dushi Miao Qitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1752/111572.jpg",
+        "alt": "dushi-miao-qitan"
+    },
     "type": "ona",
     "episodes": "20",
     "original_name": "都市喵奇谭",

@@ -1,5 +1,9 @@
 {
     "title": "BiBi Brother",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165387.jpg",
+        "alt": "bi-bi-brother"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

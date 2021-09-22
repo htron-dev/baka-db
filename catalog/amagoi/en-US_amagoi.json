@@ -1,5 +1,9 @@
 {
     "title": "Amagoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188834.jpg",
+        "alt": "amagoi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

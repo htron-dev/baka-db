@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Toge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66835.jpg",
+        "alt": "himitsu-no-toge"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

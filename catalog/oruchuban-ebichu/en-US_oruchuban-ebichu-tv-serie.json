@@ -1,5 +1,9 @@
 {
     "title": "Oruchuban Ebichu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/79591.jpg",
+        "alt": "oruchuban-ebichu"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "おるちゅばんエビちゅ",

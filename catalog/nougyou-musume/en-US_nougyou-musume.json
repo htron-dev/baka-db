@@ -1,5 +1,9 @@
 {
     "title": "Nougyou Musume!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/25307.jpg",
+        "alt": "nougyou-musume"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "農業ムスメ！プロジェクト",

@@ -1,5 +1,9 @@
 {
     "title": "Touch: Tobidashi wa Out Da yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1122/99354.jpg",
+        "alt": "touch-tobidashi-wa-out-da-yo"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "タッチ とびだしはアウトだよ",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Touch_(manga"
+            "link": "https://en.wikipedia.org/wiki/Touch_%28manga%29"
         }
     ]
 }

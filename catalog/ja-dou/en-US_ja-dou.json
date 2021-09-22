@@ -1,5 +1,9 @@
 {
     "title": "Ja-Dou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6282.jpg",
+        "alt": "ja-dou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "24",

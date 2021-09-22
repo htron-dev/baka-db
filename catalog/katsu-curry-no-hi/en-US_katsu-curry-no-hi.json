@@ -1,5 +1,9 @@
 {
     "title": "Katsu Curry no Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164348.jpg",
+        "alt": "katsu-curry-no-hi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

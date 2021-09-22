@@ -1,5 +1,9 @@
 {
     "title": "Rurigaki Yoruko no Yuigon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157444.jpg",
+        "alt": "rurigaki-yoruko-no-yuigon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

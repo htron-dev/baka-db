@@ -1,12 +1,16 @@
 {
     "title": "Kaze no Stigma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/23136.jpg",
+        "alt": "kaze-no-stigma"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "風のスティグマ",
     "start_date": "2007-04-13",
     "end_date": "2007-04-13",
     "opening_song": "\"blast of wind\" by Saori Kiuji",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hitorikiri no Sora\" by Saori Kiuji (eps 1-2, 4-5, 7, 10-11, 19-23)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

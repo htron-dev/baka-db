@@ -1,5 +1,9 @@
 {
     "title": "The Starry Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21541.jpg",
+        "alt": "the-starry-night"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "7",

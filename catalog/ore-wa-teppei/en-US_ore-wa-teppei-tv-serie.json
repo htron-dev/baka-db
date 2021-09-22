@@ -1,5 +1,9 @@
 {
     "title": "Ore wa Teppei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1026/90306.jpg",
+        "alt": "ore-wa-teppei"
+    },
     "type": "tv-serie",
     "episodes": "28",
     "original_name": "おれは鉄兵",

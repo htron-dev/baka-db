@@ -1,5 +1,9 @@
 {
     "title": "Fake na Junjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11821.jpg",
+        "alt": "fake-na-junjou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

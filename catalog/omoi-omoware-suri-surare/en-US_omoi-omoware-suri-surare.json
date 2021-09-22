@@ -1,5 +1,9 @@
 {
     "title": "Omoi Omoware Suri Surare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26636.jpg",
+        "alt": "omoi-omoware-suri-surare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

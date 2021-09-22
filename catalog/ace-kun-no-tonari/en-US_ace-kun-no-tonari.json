@@ -1,5 +1,9 @@
 {
     "title": "Ace-kun no Tonari.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181959.jpg",
+        "alt": "ace-kun-no-tonari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

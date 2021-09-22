@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi no Remake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1737/112772.jpg",
+        "alt": "bokutachi-no-remake"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ぼくたちのリメイク",

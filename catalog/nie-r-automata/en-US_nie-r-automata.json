@@ -1,5 +1,9 @@
 {
     "title": "NieR:Automata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243834.jpg",
+        "alt": "nie-r-automata"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "20",

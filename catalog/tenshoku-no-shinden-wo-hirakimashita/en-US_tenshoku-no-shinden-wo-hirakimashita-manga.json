@@ -1,5 +1,9 @@
 {
     "title": "Tenshoku no Shinden wo Hirakimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244966.jpg",
+        "alt": "tenshoku-no-shinden-wo-hirakimashita"
+    },
     "type": "manga",
     "original_name": "転職の神殿を開きました",
     "start_date": "2019-12-20",

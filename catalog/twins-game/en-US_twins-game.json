@@ -1,5 +1,9 @@
 {
     "title": "Twins Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76171.jpg",
+        "alt": "twins-game"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

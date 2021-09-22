@@ -1,5 +1,9 @@
 {
     "title": "Real Bian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151276.jpg",
+        "alt": "real-bian"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

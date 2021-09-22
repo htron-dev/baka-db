@@ -1,5 +1,9 @@
 {
     "title": "Sister Honey Biscuits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152732.jpg",
+        "alt": "sister-honey-biscuits"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

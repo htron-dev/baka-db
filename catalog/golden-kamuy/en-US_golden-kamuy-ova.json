@@ -1,5 +1,9 @@
 {
     "title": "Golden Kamuy OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1806/96665.jpg",
+        "alt": "golden-kamuy-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ゴールデンカムイ OAD",

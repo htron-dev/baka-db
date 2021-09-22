@@ -1,5 +1,9 @@
 {
     "title": "Chinka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71467.jpg",
+        "alt": "chinka"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ちんか",

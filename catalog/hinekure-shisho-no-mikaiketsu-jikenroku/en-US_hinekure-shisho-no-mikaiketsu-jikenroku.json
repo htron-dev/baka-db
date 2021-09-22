@@ -1,5 +1,9 @@
 {
     "title": "Hinekure Shisho no Mikaiketsu Jikenroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158521.jpg",
+        "alt": "hinekure-shisho-no-mikaiketsu-jikenroku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

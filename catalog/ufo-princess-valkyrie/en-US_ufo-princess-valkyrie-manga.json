@@ -1,5 +1,9 @@
 {
     "title": "UFO Princess Valkyrie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171718.jpg",
+        "alt": "ufo-princess-valkyrie"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "72",

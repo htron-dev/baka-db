@@ -1,5 +1,9 @@
 {
     "title": "Katayoku no Labyrinth: Satellite Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228337.jpg",
+        "alt": "katayoku-no-labyrinth-satellite-stories"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

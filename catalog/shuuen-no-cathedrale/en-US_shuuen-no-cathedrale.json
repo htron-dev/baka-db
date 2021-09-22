@@ -1,5 +1,9 @@
 {
     "title": "Shuuen no Cathédrale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/87655.jpg",
+        "alt": "shuuen-no-cathedrale"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "終焉のカテドラル",

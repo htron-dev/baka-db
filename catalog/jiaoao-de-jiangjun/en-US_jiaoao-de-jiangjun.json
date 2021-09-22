@@ -1,5 +1,9 @@
 {
     "title": "Jiaoao de Jiangjun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71271.jpg",
+        "alt": "jiaoao-de-jiangjun"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "骄傲的将军",

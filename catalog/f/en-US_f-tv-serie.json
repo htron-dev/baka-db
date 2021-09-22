@@ -1,12 +1,16 @@
 {
     "title": "F",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/73616.jpg",
+        "alt": "f"
+    },
     "type": "tv-serie",
     "episodes": "31",
     "original_name": "Ｆ-エフ",
     "start_date": "1988-03-09",
     "end_date": "1988-03-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"F\" by Youji Sawamukai / The Burst (eps 1-21)",
+    "ending_song": "#1: \"Jama wa Sasenai (邪魔はさせない)\" by Hiroshi Kakizaki + \"r\" Project (eps 1-21)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "cars",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/F_(manga"
+            "link": "http://en.wikipedia.org/wiki/F_%28manga%29"
         }
     ]
 }

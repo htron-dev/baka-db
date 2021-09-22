@@ -1,5 +1,9 @@
 {
     "title": "Tatoe Toraware no Koi demo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/146665.jpg",
+        "alt": "tatoe-toraware-no-koi-demo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

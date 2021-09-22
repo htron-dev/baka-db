@@ -1,5 +1,9 @@
 {
     "title": "Yotsunoha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/20273.jpg",
+        "alt": "yotsunoha"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "よつのは",

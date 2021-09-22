@@ -1,5 +1,9 @@
 {
     "title": "Sajou wo Yuku Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42583.jpg",
+        "alt": "sajou-wo-yuku-hana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Love Hotel Ikou yo♡",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136677.jpg",
+        "alt": "love-hotel-ikou-yo♡"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

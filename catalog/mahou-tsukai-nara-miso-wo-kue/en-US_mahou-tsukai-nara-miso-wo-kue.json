@@ -1,5 +1,9 @@
 {
     "title": "Mahou Tsukai Nara Miso wo Kue!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70415.jpg",
+        "alt": "mahou-tsukai-nara-miso-wo-kue"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "魔法使いなら味噌を喰え!",

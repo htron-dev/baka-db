@@ -1,5 +1,9 @@
 {
     "title": "Risou no Musume nara Sekai Saikyou demo Kawaigatte Kuremasu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241438.jpg",
+        "alt": "risou-no-musume-nara-sekai-saikyou-demo-kawaigatte-kuremasu-ka"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "58",

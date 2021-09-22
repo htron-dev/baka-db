@@ -1,12 +1,16 @@
 {
     "title": "Mitsudomoe Zouryouchuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/71554.jpg",
+        "alt": "mitsudomoe-zouryouchuu"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "みつどもえ増量中！",
     "start_date": "2011-01-09",
     "end_date": "2011-01-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Honki Sentai Gachi Ranger (本気戦隊ガチレンジャー)\" by Masaaki Endou (ep 1)",
+    "ending_song": "#1: \"Mata Ashita (またあした)\" by Masaaki Endou (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

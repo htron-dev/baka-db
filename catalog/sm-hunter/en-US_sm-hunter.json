@@ -1,5 +1,9 @@
 {
     "title": "SM Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32568.jpg",
+        "alt": "sm-hunter"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "SM 헌터",

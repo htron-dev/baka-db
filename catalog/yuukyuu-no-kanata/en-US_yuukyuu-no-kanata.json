@@ -1,5 +1,9 @@
 {
     "title": "Yuukyuu no Kanata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27538.jpg",
+        "alt": "yuukyuu-no-kanata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

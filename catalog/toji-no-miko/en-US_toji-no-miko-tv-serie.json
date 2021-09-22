@@ -1,12 +1,16 @@
 {
     "title": "Toji no Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/89885.jpg",
+        "alt": "toji-no-miko"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "刀使ノ巫女",
     "start_date": "2018-01-05",
     "end_date": "2018-01-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Save you Save me\" by Kanami Etou (Kaede Hondo), Hiyori Juujuu (Saori Oonishi), Mai Yanase (Azumi Waki), Sayaka Itomi (Hina Kino), Kaoru Mashiko (Risae Matsuda), Eren Kohagura (Eri Suzuki) (eps 1-12)",
+    "ending_song": "#1: \"Kokoro no Memoria (心のメモリア)\" by Kanami Etou (Kaede Hondo), Hiyori Juujuu (Saori Oonishi), Mai Yanase (Azumi Waki), Sayaka Itomi (Hina Kino), Kaoru Mashiko (Risae Matsuda), Eren Kohagura (Eri Suzuki) (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Imouto wa Kanji ga Yomeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/122607.jpg",
+        "alt": "boku-no-imouto-wa-kanji-ga-yomeru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

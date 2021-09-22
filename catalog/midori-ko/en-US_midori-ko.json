@@ -1,5 +1,9 @@
 {
     "title": "Midori-ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/73675.jpg",
+        "alt": "midori-ko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "緑子",

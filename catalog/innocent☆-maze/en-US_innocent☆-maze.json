@@ -1,5 +1,9 @@
 {
     "title": "Innocent☆Maze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157388.jpg",
+        "alt": "innocent☆-maze"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

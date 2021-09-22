@@ -1,5 +1,9 @@
 {
     "title": "Daisuki!!: Yuzu no Kosodate Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165247.jpg",
+        "alt": "daisuki-yuzu-no-kosodate-nikki"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "79",

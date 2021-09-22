@@ -1,5 +1,9 @@
 {
     "title": "Tetsuwan Atom no Koutsuu Anzen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1058/99377.jpg",
+        "alt": "tetsuwan-atom-no-koutsuu-anzen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "鉄腕アトムの交通安全",

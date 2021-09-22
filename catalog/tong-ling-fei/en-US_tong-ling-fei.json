@@ -1,12 +1,16 @@
 {
     "title": "Tong Ling Fei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1066/103049.jpg",
+        "alt": "tong-ling-fei"
+    },
     "type": "ona",
     "episodes": "16",
     "original_name": "通灵妃",
     "start_date": "2018-11-30",
     "end_date": "2018-11-30",
     "opening_song": "\"Gaga (嘎嘎)\" by Lei Minmin (雷敏敏)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Fangfei Jin, You Yi Luomei Qu (芳菲尽，犹忆落梅曲)\" by Ming Yue (冥月)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Brothers Conflict",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39289.jpg",
+        "alt": "brothers-conflict"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "38",

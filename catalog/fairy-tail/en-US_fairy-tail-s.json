@@ -1,5 +1,9 @@
 {
     "title": "Fairy Tail S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198591.jpg",
+        "alt": "fairy-tail-s"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

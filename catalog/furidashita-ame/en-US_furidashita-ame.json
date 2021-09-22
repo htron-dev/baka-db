@@ -1,5 +1,9 @@
 {
     "title": "Furidashita Ame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/84588.jpg",
+        "alt": "furidashita-ame"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ふりだした雨",

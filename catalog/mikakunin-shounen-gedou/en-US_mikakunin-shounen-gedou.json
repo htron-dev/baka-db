@@ -1,5 +1,9 @@
 {
     "title": "Mikakunin Shounen Gedou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178826.jpg",
+        "alt": "mikakunin-shounen-gedou"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "48",

@@ -1,5 +1,9 @@
 {
     "title": "DNA wa Oshietekurenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187854.jpg",
+        "alt": "dna-wa-oshietekurenai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

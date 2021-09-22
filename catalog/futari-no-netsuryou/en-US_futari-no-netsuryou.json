@@ -1,5 +1,9 @@
 {
     "title": "Futari no Netsuryou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215119.jpg",
+        "alt": "futari-no-netsuryou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

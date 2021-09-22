@@ -1,5 +1,9 @@
 {
     "title": "Mr. Mallow Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238180.jpg",
+        "alt": "mr-mallow-blue"
+    },
     "type": "manga",
     "original_name": "Mr.マロウブルー",
     "start_date": "2019-11-22",

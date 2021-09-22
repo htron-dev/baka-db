@@ -1,5 +1,9 @@
 {
     "title": "Offside",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/76142.jpg",
+        "alt": "offside"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "オフサイド",

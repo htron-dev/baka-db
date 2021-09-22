@@ -1,5 +1,9 @@
 {
     "title": "Slash/Dog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203326.jpg",
+        "alt": "slash-dog"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

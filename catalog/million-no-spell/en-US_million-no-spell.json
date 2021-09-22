@@ -1,5 +1,9 @@
 {
     "title": "Million no Spell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/61335.jpg",
+        "alt": "million-no-spell"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

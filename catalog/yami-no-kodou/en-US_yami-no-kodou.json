@@ -1,5 +1,9 @@
 {
     "title": "Yami no Kodou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185750.jpg",
+        "alt": "yami-no-kodou"
+    },
     "type": "manga",
     "original_name": "幻惑〈やみ〉の鼓動",
     "tags": [

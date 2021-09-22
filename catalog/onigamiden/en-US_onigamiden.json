@@ -1,5 +1,9 @@
 {
     "title": "Onigamiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/28871.jpg",
+        "alt": "onigamiden"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "鬼神伝",

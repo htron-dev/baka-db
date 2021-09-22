@@ -1,5 +1,9 @@
 {
     "title": "Net-juu no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150436.jpg",
+        "alt": "net-juu-no-susume"
+    },
     "type": "manga",
     "chapters": "87",
     "original_name": "ネト充のススメ",

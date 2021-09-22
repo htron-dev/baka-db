@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Ochite Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164556.jpg",
+        "alt": "koi-ni-ochite-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "9th Sleep",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5959.jpg",
+        "alt": "9th-sleep"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

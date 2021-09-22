@@ -1,5 +1,9 @@
 {
     "title": "Lizard King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113631.jpg",
+        "alt": "lizard-king"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

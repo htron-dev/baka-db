@@ -1,5 +1,9 @@
 {
     "title": "Gendai Majo Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162319.jpg",
+        "alt": "gendai-majo-zukan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "28",

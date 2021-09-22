@@ -1,5 +1,9 @@
 {
     "title": "Battle Girl High School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/87837.jpg",
+        "alt": "battle-girl-high-school"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "バトルガール ハイスクール",

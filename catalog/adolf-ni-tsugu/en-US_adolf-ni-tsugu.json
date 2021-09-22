@@ -1,5 +1,9 @@
 {
     "title": "Adolf ni Tsugu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1788.jpg",
+        "alt": "adolf-ni-tsugu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

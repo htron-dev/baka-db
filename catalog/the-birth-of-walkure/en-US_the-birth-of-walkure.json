@@ -1,5 +1,9 @@
 {
     "title": "The Birth of Walküre",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184299.jpg",
+        "alt": "the-birth-of-walkure"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

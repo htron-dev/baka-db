@@ -1,5 +1,9 @@
 {
     "title": "Lucky☆Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/55723.jpg",
+        "alt": "lucky☆-star"
+    },
     "type": "manga",
     "original_name": "らき ☆ すた",
     "start_date": "2003-12-10",

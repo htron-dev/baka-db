@@ -1,5 +1,9 @@
 {
     "title": "Guignol Kyuutei Gakudan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32677.jpg",
+        "alt": "guignol-kyuutei-gakudan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Kunoichi no Ichi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187966.jpg",
+        "alt": "kunoichi-no-ichi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "48",

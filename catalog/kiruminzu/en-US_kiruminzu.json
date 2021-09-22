@@ -1,5 +1,9 @@
 {
     "title": "Kiruminzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39541.jpg",
+        "alt": "kiruminzu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キルミンずぅ",

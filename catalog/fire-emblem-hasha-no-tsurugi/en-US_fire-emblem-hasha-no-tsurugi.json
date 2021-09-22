@@ -1,5 +1,9 @@
 {
     "title": "Fire Emblem: Hasha no Tsurugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209214.jpg",
+        "alt": "fire-emblem-hasha-no-tsurugi"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "45",

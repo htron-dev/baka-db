@@ -1,5 +1,9 @@
 {
     "title": "Kenka Kagyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120609.jpg",
+        "alt": "kenka-kagyou"
+    },
     "type": "manga",
     "original_name": "喧嘩稼業",
     "start_date": "2013-12-09",

@@ -1,5 +1,9 @@
 {
     "title": "Taishi Kakka no Ryourinin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78335.jpg",
+        "alt": "taishi-kakka-no-ryourinin"
+    },
     "type": "manga",
     "volumes": "25",
     "chapters": "311",

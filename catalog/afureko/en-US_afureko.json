@@ -1,5 +1,9 @@
 {
     "title": "Afureko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35373.jpg",
+        "alt": "afureko"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "アフレコ",

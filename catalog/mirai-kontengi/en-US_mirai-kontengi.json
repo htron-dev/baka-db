@@ -1,5 +1,9 @@
 {
     "title": "Mirai Kontengi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43703.jpg",
+        "alt": "mirai-kontengi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "みらい渾天儀",

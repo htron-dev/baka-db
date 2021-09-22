@@ -1,5 +1,9 @@
 {
     "title": "Saitou-kun to Satou-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15770.jpg",
+        "alt": "saitou-kun-to-satou-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

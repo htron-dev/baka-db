@@ -1,5 +1,9 @@
 {
     "title": "Paranoia Street",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32706.jpg",
+        "alt": "paranoia-street"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

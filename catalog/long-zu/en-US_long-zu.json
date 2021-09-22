@@ -1,5 +1,9 @@
 {
     "title": "Long Zu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1161/110783.jpg",
+        "alt": "long-zu"
+    },
     "type": "ona",
     "original_name": "龙族",
     "rating": "None",

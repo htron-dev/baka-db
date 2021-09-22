@@ -1,5 +1,9 @@
 {
     "title": "Kacchu no Senshi Gamu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176054.jpg",
+        "alt": "kacchu-no-senshi-gamu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

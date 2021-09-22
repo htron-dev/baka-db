@@ -1,5 +1,9 @@
 {
     "title": "Wootan to Fumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154829.jpg",
+        "alt": "wootan-to-fumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

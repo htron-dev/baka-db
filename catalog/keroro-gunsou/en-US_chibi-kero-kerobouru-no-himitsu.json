@@ -1,5 +1,9 @@
 {
     "title": "Chibi Kero: Kerobouru no Himitsu!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/11205.jpg",
+        "alt": "chibi-kero-kerobouru-no-himitsu"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ちびケロ ケロボールの秘密!?",
@@ -20,7 +24,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AD%E3%83%AD%E8%BB%8D%E6%9B%B9_(%E5%8A%87%E5%A0%B4%E7%89%88"
+            "link": "http://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AD%E3%83%AD%E8%BB%8D%E6%9B%B9_%28%E5%8A%87%E5%A0%B4%E7%89%88%29"
         }
     ]
 }

@@ -1,10 +1,14 @@
 {
     "title": "Mudazumo Naki Kaikaku: The Legend of Koizumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/35475.jpg",
+        "alt": "mudazumo-naki-kaikaku-the-legend-of-koizumi"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ムダヅモ無き改革",
     "start_date": "2010-02-26",
-    "ending_song": "\"Mudazumo Naki Kaikaku",
+    "ending_song": "\"Mudazumo Naki Kaikaku: Shouri no Koizumi Junichirou (ムダヅモ無き改革 〜勝利の闘牌ジュンイチロー〜)\" by Toshiyuki Morikawa",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "comedy",

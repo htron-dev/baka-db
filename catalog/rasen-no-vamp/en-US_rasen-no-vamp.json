@@ -1,5 +1,9 @@
 {
     "title": "Rasen no Vamp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126793.jpg",
+        "alt": "rasen-no-vamp"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

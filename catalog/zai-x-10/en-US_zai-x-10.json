@@ -1,5 +1,9 @@
 {
     "title": "Zai x 10",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122803.jpg",
+        "alt": "zai-x-10"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "48",

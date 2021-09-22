@@ -1,5 +1,9 @@
 {
     "title": "Gogatsu no Hana wa Mada Sakanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222399.jpg",
+        "alt": "gogatsu-no-hana-wa-mada-sakanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

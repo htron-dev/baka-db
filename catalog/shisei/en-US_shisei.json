@@ -1,5 +1,9 @@
 {
     "title": "Shisei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186333.jpg",
+        "alt": "shisei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

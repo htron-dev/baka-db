@@ -1,5 +1,9 @@
 {
     "title": "Junjou Crazy Fruits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239927.jpg",
+        "alt": "junjou-crazy-fruits"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "純情クレイジーフルーツ",

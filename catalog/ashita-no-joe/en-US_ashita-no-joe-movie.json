@@ -1,5 +1,9 @@
 {
     "title": "Ashita no Joe (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/51837.jpg",
+        "alt": "ashita-no-joe-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "あしたのジョー (1980)",

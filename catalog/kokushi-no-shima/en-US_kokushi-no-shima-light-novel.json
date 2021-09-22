@@ -1,5 +1,9 @@
 {
     "title": "Kokushi no Shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216883.jpg",
+        "alt": "kokushi-no-shima"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

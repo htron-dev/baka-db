@@ -1,5 +1,9 @@
 {
     "title": "Warau Ishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172565.jpg",
+        "alt": "warau-ishi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

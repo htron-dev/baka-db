@@ -1,5 +1,9 @@
 {
     "title": "Mahjong Shinseiki: Aka no Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228410.jpg",
+        "alt": "mahjong-shinseiki-aka-no-densetsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

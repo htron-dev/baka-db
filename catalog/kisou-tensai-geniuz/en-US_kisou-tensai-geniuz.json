@@ -1,5 +1,9 @@
 {
     "title": "Kisou Tensai Geniuz!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223248.jpg",
+        "alt": "kisou-tensai-geniuz"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

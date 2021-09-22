@@ -1,5 +1,9 @@
 {
     "title": "Kinyoubi wa Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156061.jpg",
+        "alt": "kinyoubi-wa-hatsukoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Alice in Deadly School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182424.jpg",
+        "alt": "alice-in-deadly-school"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

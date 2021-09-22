@@ -1,5 +1,9 @@
 {
     "title": "Kagerou Daze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205381.jpg",
+        "alt": "kagerou-daze"
+    },
     "type": "light-novel",
     "volumes": "8",
     "original_name": "カゲロウデイズ",

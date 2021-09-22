@@ -1,5 +1,9 @@
 {
     "title": "Let's Nupu Nupu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183406.jpg",
+        "alt": "lets-nupu-nupu"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "LET'S ぬぷぬぷっ",

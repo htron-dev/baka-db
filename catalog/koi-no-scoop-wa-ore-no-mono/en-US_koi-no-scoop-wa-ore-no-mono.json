@@ -1,5 +1,9 @@
 {
     "title": "Koi no Scoop wa Ore no Mono!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153384.jpg",
+        "alt": "koi-no-scoop-wa-ore-no-mono"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "恋のスクープは俺のもの!",

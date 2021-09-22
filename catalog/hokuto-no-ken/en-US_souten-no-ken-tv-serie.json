@@ -1,12 +1,16 @@
 {
     "title": "Souten no Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/17056.jpg",
+        "alt": "souten-no-ken"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "蒼天の拳",
     "start_date": "2006-10-05",
     "end_date": "2006-10-05",
     "opening_song": "\"Bara ga Saku Bara ga Chiru\" by Rina Aiuchi",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Kokoro no Rhythm Tobichiru Butterfly\" by Doa (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

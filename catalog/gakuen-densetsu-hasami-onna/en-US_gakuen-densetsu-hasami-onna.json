@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Densetsu: Hasami Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165498.jpg",
+        "alt": "gakuen-densetsu-hasami-onna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

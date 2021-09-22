@@ -1,5 +1,9 @@
 {
     "title": "Shuumatsu Fuuki Iinkai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162162.jpg",
+        "alt": "shuumatsu-fuuki-iinkai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

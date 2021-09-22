@@ -1,5 +1,9 @@
 {
     "title": "Dasan Ari Zenkou Boukensha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171421.jpg",
+        "alt": "dasan-ari-zenkou-boukensha"
+    },
     "type": "light-novel",
     "original_name": "打算あり善行冒険者",
     "start_date": "2016-01-30",

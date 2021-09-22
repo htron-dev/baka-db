@@ -1,5 +1,9 @@
 {
     "title": "Mighty♡Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165141.jpg",
+        "alt": "mighty♡-heart"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "80",

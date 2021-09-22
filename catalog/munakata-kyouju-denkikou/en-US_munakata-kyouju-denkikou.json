@@ -1,5 +1,9 @@
 {
     "title": "Munakata Kyouju Denkikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38883.jpg",
+        "alt": "munakata-kyouju-denkikou"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "42",

@@ -1,5 +1,9 @@
 {
     "title": "Hanaibara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129639.jpg",
+        "alt": "hanaibara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Artiste",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232317.jpg",
+        "alt": "artiste"
+    },
     "type": "manga",
     "original_name": "Artiste",
     "start_date": "2016-09-21",

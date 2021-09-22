@@ -1,5 +1,9 @@
 {
     "title": "Shizuko wa Ore no Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226859.jpg",
+        "alt": "shizuko-wa-ore-no-yome"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

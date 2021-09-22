@@ -1,5 +1,9 @@
 {
     "title": "Pinpon Rush!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201028.jpg",
+        "alt": "pinpon-rush"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

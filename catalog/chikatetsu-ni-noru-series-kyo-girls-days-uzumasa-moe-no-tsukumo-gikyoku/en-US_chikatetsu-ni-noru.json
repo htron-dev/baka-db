@@ -1,5 +1,9 @@
 {
     "title": "Chikatetsu ni Noru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/89263.jpg",
+        "alt": "chikatetsu-ni-noru"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "地下鉄に乗るっ",

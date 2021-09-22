@@ -1,5 +1,9 @@
 {
     "title": "Netsu wo Samase!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171441.jpg",
+        "alt": "netsu-wo-samase"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

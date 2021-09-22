@@ -1,5 +1,9 @@
 {
     "title": "Asunaro Hakusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201031.jpg",
+        "alt": "asunaro-hakusho"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "34",

@@ -1,5 +1,9 @@
 {
     "title": "San P",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159436.jpg",
+        "alt": "san-p"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

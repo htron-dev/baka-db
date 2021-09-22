@@ -1,5 +1,9 @@
 {
     "title": "Imouto-tachi ni Yakasetai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203675.jpg",
+        "alt": "imouto-tachi-ni-yakasetai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

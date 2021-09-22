@@ -1,5 +1,9 @@
 {
     "title": "Blind Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22602.jpg",
+        "alt": "blind-love"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Henai Psychedelic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119969.jpg",
+        "alt": "henai-psychedelic"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "変愛サイケデリック",

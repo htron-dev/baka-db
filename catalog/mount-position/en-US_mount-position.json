@@ -1,5 +1,9 @@
 {
     "title": "Mount Position!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244725.jpg",
+        "alt": "mount-position"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

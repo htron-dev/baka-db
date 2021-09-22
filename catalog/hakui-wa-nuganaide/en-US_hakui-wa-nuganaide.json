@@ -1,5 +1,9 @@
 {
     "title": "Hakui wa Nuganaide!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/88259.jpg",
+        "alt": "hakui-wa-nuganaide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

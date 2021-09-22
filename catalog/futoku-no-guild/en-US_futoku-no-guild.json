@@ -1,5 +1,9 @@
 {
     "title": "Futoku no Guild",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207955.jpg",
+        "alt": "futoku-no-guild"
+    },
     "type": "manga",
     "original_name": "不徳のギルド",
     "start_date": "2017-06-12",

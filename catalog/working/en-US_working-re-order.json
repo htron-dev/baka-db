@@ -1,9 +1,13 @@
 {
     "title": "Working!!: Re:Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188969.jpg",
+        "alt": "working-re-order"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",
-    "original_name": "WORKING!! Re",
+    "original_name": "WORKING!! Re:オーダー",
     "start_date": "2015-01-05",
     "end_date": "2015-01-05",
     "tags": [

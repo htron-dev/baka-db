@@ -1,12 +1,16 @@
 {
     "title": "Phantom in the Twilight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1156/93567.jpg",
+        "alt": "phantom-in-the-twilight"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ファントム イン ザ トワイライト",
     "start_date": "2018-07-10",
     "end_date": "2018-07-10",
     "opening_song": "\"Flowery Song\" by Jiro Wang (汪東城)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"HOME\" by May'n (eps 1-4, 6-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

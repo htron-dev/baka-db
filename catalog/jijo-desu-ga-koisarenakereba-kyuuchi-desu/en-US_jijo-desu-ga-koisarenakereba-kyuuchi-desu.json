@@ -1,5 +1,9 @@
 {
     "title": "Jijo desu ga Koisarenakereba Kyuuchi desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/218108.jpg",
+        "alt": "jijo-desu-ga-koisarenakereba-kyuuchi-desu"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "10",

@@ -1,12 +1,16 @@
 {
     "title": "One Punch Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+        "alt": "one-punch-man"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ワンパンマン",
     "start_date": "2015-10-05",
     "end_date": "2015-10-05",
     "opening_song": "\"THE HERO !! ~Okoreru Kobushi ni Hi wo Tsukero~ (THE HERO !! ～怒れる拳に火をつけろ～)\" by JAM Project",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hoshi yori Saki ni Mitsukete Ageru (星より先に見つけてあげる)\" by Hiroko Moriguchi (eps 1-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

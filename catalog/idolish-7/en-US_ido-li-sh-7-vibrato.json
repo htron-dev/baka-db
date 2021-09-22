@@ -1,11 +1,15 @@
 {
     "title": "IDOLiSH7 Vibrato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1131/90676.jpg",
+        "alt": "ido-li-sh-7-vibrato"
+    },
     "type": "ona",
     "episodes": "8",
     "original_name": "アイドリッシュセブン Vibrato",
     "start_date": "2018-02-17",
     "end_date": "2018-02-17",
-    "ending_song": "#1",
+    "ending_song": "#1: \"DESTINY\" by TRIGGER (ep 1-2, 7)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

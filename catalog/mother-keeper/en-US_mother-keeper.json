@@ -1,5 +1,9 @@
 {
     "title": "Mother Keeper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148699.jpg",
+        "alt": "mother-keeper"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "75",

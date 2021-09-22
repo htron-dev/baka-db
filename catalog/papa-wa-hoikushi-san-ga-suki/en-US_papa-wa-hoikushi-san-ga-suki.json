@@ -1,5 +1,9 @@
 {
     "title": "Papa wa Hoikushi-san ga Suki!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236103.jpg",
+        "alt": "papa-wa-hoikushi-san-ga-suki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

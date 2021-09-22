@@ -1,5 +1,9 @@
 {
     "title": "Woodstock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132581.jpg",
+        "alt": "woodstock"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "135",

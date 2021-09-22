@@ -1,5 +1,9 @@
 {
     "title": "Shounen to Kamikakushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239633.jpg",
+        "alt": "shounen-to-kamikakushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

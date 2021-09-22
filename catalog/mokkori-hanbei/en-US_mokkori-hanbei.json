@@ -1,5 +1,9 @@
 {
     "title": "Mokkori Hanbei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215959.jpg",
+        "alt": "mokkori-hanbei"
+    },
     "type": "manga",
     "original_name": "もっこり半兵衛",
     "start_date": "2015-10-28",

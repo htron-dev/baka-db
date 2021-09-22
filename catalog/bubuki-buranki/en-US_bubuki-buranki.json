@@ -1,12 +1,16 @@
 {
     "title": "Bubuki Buranki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/79758.jpg",
+        "alt": "bubuki-buranki"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ブブキ・ブランキ",
     "start_date": "2016-01-09",
     "end_date": "2016-01-09",
     "opening_song": "\"Beat your Heart\" by Konomi Suzuki (eps 2-10)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Beat your Heart\" by Konomi Suzuki (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

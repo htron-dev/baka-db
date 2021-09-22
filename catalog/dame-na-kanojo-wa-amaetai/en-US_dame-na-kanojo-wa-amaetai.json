@@ -1,5 +1,9 @@
 {
     "title": "Dame na Kanojo wa Amaetai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210291.jpg",
+        "alt": "dame-na-kanojo-wa-amaetai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Dai Kyochuu Rettou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225872.jpg",
+        "alt": "dai-kyochuu-rettou"
+    },
     "type": "manga",
     "original_name": "大巨蟲列島",
     "start_date": "2019-04-25",

@@ -1,11 +1,15 @@
 {
     "title": "Ganbare! Marine Kid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/24675.jpg",
+        "alt": "ganbare-marine-kid"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "がんばれ！マリンキッド",
     "start_date": "1966-10-06",
     "end_date": "1966-10-06",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Ganbare Marine Kid no Uta (がんばれマリンキッドの歌)\" by Vocal Shop",
     "rating": "PG - Children",
     "tags": [
         "action",

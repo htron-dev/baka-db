@@ -1,12 +1,16 @@
 {
     "title": "Shounen Ashibe (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/24404.jpg",
+        "alt": "shounen-ashibe-tv"
+    },
     "type": "tv-serie",
     "episodes": "37",
     "original_name": "少年アシベ",
     "start_date": "1991-04-11",
     "end_date": "1991-04-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Little Darling (リトル・ダーリン)\" by Eriko Tamura (eps 1-5)",
+    "ending_song": "#1: \"Ai no Nightingale (愛のナイチンゲール)\" by Eriko Tamura (eps 1-5)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

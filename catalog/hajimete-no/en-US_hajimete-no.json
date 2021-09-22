@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220423.jpg",
+        "alt": "hajimete-no"
+    },
     "type": "manga",
     "original_name": "はじめての",
     "start_date": "2016-05-07",

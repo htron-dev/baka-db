@@ -1,5 +1,9 @@
 {
     "title": "Takuhai Cupid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84435.jpg",
+        "alt": "takuhai-cupid"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

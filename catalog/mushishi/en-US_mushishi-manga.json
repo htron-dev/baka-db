@@ -1,5 +1,9 @@
 {
     "title": "Mushishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159514.jpg",
+        "alt": "mushishi"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "50",

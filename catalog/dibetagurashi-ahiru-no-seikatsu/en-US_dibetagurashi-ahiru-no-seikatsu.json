@@ -1,5 +1,9 @@
 {
     "title": "Dibetagurashi: Ahiru no Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/50677.jpg",
+        "alt": "dibetagurashi-ahiru-no-seikatsu"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ぢべたぐらし あひるの生活",

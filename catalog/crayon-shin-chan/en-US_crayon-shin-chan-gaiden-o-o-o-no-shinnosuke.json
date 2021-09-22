@@ -1,5 +1,9 @@
 {
     "title": "Crayon Shin-chan Gaiden: O-o-o no Shinnosuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/85987.jpg",
+        "alt": "crayon-shin-chan-gaiden-o-o-o-no-shinnosuke"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "クレヨンしんちゃん外伝　お・お・お・のしんのすけ",
@@ -20,7 +24,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%A8%E3%83%B3%E3%81%97%E3%82%93%E3%81%A1%E3%82%83%E3%82%93_(%E3%82%A2%E3%83%8B%E3%83%A1"
+            "link": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%A8%E3%83%B3%E3%81%97%E3%82%93%E3%81%A1%E3%82%83%E3%82%93_%28%E3%82%A2%E3%83%8B%E3%83%A1%29#.E5.A4.96.E4.BC.9D"
         }
     ]
 }

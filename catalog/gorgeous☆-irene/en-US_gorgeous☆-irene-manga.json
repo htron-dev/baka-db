@@ -1,5 +1,9 @@
 {
     "title": "Gorgeous☆Irene",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/181944.jpg",
+        "alt": "gorgeous☆-irene"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

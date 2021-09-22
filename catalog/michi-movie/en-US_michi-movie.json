@@ -1,5 +1,9 @@
 {
     "title": "Michi (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/70897.jpg",
+        "alt": "michi-movie"
+    },
     "type": "movie",
     "episodes": "4",
     "original_name": "俺の路",

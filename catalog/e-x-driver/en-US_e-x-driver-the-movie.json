@@ -1,5 +1,9 @@
 {
     "title": "eX-Driver the Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/26195.jpg",
+        "alt": "e-x-driver-the-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "エクスドライバー the Movie",

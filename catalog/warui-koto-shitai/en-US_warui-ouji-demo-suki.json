@@ -1,5 +1,9 @@
 {
     "title": "Warui Ouji demo Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136007.jpg",
+        "alt": "warui-ouji-demo-suki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

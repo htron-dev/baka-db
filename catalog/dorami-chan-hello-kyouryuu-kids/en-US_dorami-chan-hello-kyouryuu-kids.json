@@ -1,5 +1,9 @@
 {
     "title": "Dorami-chan: Hello Kyouryuu Kids!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/29227.jpg",
+        "alt": "dorami-chan-hello-kyouryuu-kids"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラミちゃん ハロー恐竜キッズ!!",

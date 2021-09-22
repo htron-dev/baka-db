@@ -1,5 +1,9 @@
 {
     "title": "Tsukimizuki Rikai no Tantei Satsujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96051.jpg",
+        "alt": "tsukimizuki-rikai-no-tantei-satsujin"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

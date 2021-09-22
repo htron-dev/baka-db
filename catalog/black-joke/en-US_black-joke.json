@@ -1,5 +1,9 @@
 {
     "title": "Black Joke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165898.jpg",
+        "alt": "black-joke"
+    },
     "type": "manga",
     "original_name": "ブラック・ジョーク",
     "start_date": "2008-02-12",

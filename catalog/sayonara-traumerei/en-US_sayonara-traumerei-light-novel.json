@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Träumerei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162480.jpg",
+        "alt": "sayonara-traumerei"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "84",

@@ -1,5 +1,9 @@
 {
     "title": "Sei♥Dragon Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160614.jpg",
+        "alt": "sei♥-dragon-girl"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "36",

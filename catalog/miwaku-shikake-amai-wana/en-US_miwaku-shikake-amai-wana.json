@@ -1,5 +1,9 @@
 {
     "title": "Miwaku Shikake: Amai Wana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194792.jpg",
+        "alt": "miwaku-shikake-amai-wana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

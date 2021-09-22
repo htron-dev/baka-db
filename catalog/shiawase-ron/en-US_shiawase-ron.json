@@ -1,5 +1,9 @@
 {
     "title": "Shiawase Ron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38289.jpg",
+        "alt": "shiawase-ron"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

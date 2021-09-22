@@ -1,5 +1,9 @@
 {
     "title": "Kikou Keisatsu Metal Jack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/77278.jpg",
+        "alt": "kikou-keisatsu-metal-jack"
+    },
     "type": "tv-serie",
     "episodes": "37",
     "original_name": "機甲警察 メタルジャック",

@@ -1,5 +1,9 @@
 {
     "title": "Strike the Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163503.jpg",
+        "alt": "strike-the-blood"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "54",

@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi Otoko no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95453.jpg",
+        "alt": "bokutachi-otoko-no-ko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

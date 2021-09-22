@@ -1,5 +1,9 @@
 {
     "title": "Cardcaptor Sakura: Kero-chan ni Omakase!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/28850.jpg",
+        "alt": "cardcaptor-sakura-kero-chan-ni-omakase"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ケロちゃんにおまかせ！",

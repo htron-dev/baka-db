@@ -1,5 +1,9 @@
 {
     "title": "Kizuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/8172.jpg",
+        "alt": "kizuna"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "KIZUNA ～絆～",

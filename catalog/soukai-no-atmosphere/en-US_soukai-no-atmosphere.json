@@ -1,5 +1,9 @@
 {
     "title": "Soukai no Atmosphere",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162645.jpg",
+        "alt": "soukai-no-atmosphere"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

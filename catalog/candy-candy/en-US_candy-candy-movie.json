@@ -1,5 +1,9 @@
 {
     "title": "Candy Candy (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/66847.jpg",
+        "alt": "candy-candy-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キャンディ・キャンディ",

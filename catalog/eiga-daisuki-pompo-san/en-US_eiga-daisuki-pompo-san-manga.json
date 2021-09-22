@@ -1,5 +1,9 @@
 {
     "title": "Eiga Daisuki Pompo-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226136.jpg",
+        "alt": "eiga-daisuki-pompo-san"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "映画大好きポンポさん",

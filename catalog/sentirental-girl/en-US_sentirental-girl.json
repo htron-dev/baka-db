@@ -1,5 +1,9 @@
 {
     "title": "Sentirental Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187253.jpg",
+        "alt": "sentirental-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "56",

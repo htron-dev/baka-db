@@ -1,5 +1,9 @@
 {
     "title": "Spiral: Suiri no Kizuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1771/92118.jpg",
+        "alt": "spiral-suiri-no-kizuna"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "スパイラル -推理の絆-",

@@ -1,5 +1,9 @@
 {
     "title": "Biorg Trinity",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207751.jpg",
+        "alt": "biorg-trinity"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "60",

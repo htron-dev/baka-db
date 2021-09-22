@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Tenshi no Te",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/58125.jpg",
+        "alt": "kimi-wa-tenshi-no-te"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "君は天使の手",

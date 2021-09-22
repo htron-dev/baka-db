@@ -1,5 +1,9 @@
 {
     "title": "Konohanatei Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/106897.jpg",
+        "alt": "konohanatei-kitan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

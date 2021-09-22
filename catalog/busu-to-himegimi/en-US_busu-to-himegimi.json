@@ -1,5 +1,9 @@
 {
     "title": "Busu to Himegimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32845.jpg",
+        "alt": "busu-to-himegimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

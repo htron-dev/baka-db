@@ -1,5 +1,9 @@
 {
     "title": "Samon-kun wa Summoner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171382.jpg",
+        "alt": "samon-kun-wa-summoner"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "89",

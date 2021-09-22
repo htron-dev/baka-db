@@ -1,5 +1,9 @@
 {
     "title": "Baccano! Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/9129.jpg",
+        "alt": "baccano-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "バッカーノ!",

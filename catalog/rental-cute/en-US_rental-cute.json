@@ -1,5 +1,9 @@
 {
     "title": "Rental Cute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151617.jpg",
+        "alt": "rental-cute"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

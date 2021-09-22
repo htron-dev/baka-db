@@ -1,5 +1,9 @@
 {
     "title": "Ryou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32566.jpg",
+        "alt": "ryou"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "91",

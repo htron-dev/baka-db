@@ -1,5 +1,9 @@
 {
     "title": "One Piece: Straw Hat Theater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/70745.jpg",
+        "alt": "one-piece-straw-hat-theater"
+    },
     "type": "special",
     "episodes": "5",
     "original_name": "ワンピース 麦わら劇場",

@@ -1,5 +1,9 @@
 {
     "title": "Tsubasa Aru Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24996.jpg",
+        "alt": "tsubasa-aru-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "翼ある物",

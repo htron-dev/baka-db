@@ -1,5 +1,9 @@
 {
     "title": "Akutoku Reijou 5000-chouen Musou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234860.jpg",
+        "alt": "akutoku-reijou-5000-chouen-musou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

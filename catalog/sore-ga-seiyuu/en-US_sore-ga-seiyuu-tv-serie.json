@@ -1,12 +1,16 @@
 {
     "title": "Sore ga Seiyuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75198.jpg",
+        "alt": "sore-ga-seiyuu"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "それが声優！",
     "start_date": "2015-07-07",
     "end_date": "2015-07-07",
     "opening_song": "\"Sore ga Seiyuu! (それが声優！)\" by Earphones (イヤホンズ) (Marika Kouno, Rie Takahashi, Yuki Nagaku) (eps 1-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Anata no Omimi ni Plug In! (あなたのお耳にプラグイン！)\" by Earphones (イヤホンズ) (Marika Kouno, Rie Takahashi, Yuki Nagaku) (eps 1-5, 7-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

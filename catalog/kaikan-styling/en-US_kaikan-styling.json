@@ -1,5 +1,9 @@
 {
     "title": "Kaikan Styling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63499.jpg",
+        "alt": "kaikan-styling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

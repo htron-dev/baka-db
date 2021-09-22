@@ -1,5 +1,9 @@
 {
     "title": "Trigun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153055.jpg",
+        "alt": "trigun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

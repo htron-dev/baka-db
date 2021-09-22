@@ -1,5 +1,9 @@
 {
     "title": "Ani no Chuukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170156.jpg",
+        "alt": "ani-no-chuukoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Kawaii Stalker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224030.jpg",
+        "alt": "boku-no-kawaii-stalker"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

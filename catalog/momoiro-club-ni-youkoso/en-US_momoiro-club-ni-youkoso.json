@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Club ni Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29618.jpg",
+        "alt": "momoiro-club-ni-youkoso"
+    },
     "type": "manga",
     "original_name": "ももいろ倶楽部にようこそ",
     "start_date": "2010-02-20",

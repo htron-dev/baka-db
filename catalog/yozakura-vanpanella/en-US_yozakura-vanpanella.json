@@ -1,5 +1,9 @@
 {
     "title": "Yozakura Vanpanella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177962.jpg",
+        "alt": "yozakura-vanpanella"
+    },
     "type": "light-novel",
     "original_name": "夜桜ヴァンパネルラ",
     "start_date": "2015-09-10",

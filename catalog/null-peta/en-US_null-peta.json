@@ -1,5 +1,9 @@
 {
     "title": "Null Peta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1586/103381.jpg",
+        "alt": "null-peta"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "ぬるぺた",

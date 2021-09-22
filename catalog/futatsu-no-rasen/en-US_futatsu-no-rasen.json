@@ -1,5 +1,9 @@
 {
     "title": "Futatsu no Rasen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196069.jpg",
+        "alt": "futatsu-no-rasen"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "ふたつのラセン",

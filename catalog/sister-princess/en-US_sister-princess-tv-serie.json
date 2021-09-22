@@ -1,5 +1,9 @@
 {
     "title": "Sister Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/23692.jpg",
+        "alt": "sister-princess"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "シスター・プリンセス",

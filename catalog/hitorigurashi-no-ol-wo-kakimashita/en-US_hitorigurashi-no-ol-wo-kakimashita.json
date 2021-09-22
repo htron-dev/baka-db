@@ -1,5 +1,9 @@
 {
     "title": "Hitorigurashi no OL wo Kakimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182648.jpg",
+        "alt": "hitorigurashi-no-ol-wo-kakimashita"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "150",

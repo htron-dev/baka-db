@@ -1,5 +1,9 @@
 {
     "title": "Sunshine Lovesick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226292.jpg",
+        "alt": "sunshine-lovesick"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

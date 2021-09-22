@@ -1,5 +1,9 @@
 {
     "title": "An Expression",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/85264.jpg",
+        "alt": "an-expression"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "AN EXPRESSION(表現)",

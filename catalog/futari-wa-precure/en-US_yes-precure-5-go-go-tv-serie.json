@@ -1,12 +1,16 @@
 {
     "title": "Yes! Precure 5 GoGo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/25746.jpg",
+        "alt": "yes-precure-5-go-go"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "Yes! プリキュア 5 GoGo!",
     "start_date": "2008-02-03",
     "end_date": "2008-02-03",
     "opening_song": "\"Full Throttle Go Go!\" by Mayu Kudou with Precure 5",
-    "ending_song": "#1",
+    "ending_song": "#1:\"Te to Te Tsunaide Heart mo Link!!\" by Kanako Miyamoto (eps 1-29)",
     "rating": "G - All Ages",
     "tags": [
         "action",

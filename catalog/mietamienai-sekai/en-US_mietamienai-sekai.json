@@ -1,5 +1,9 @@
 {
     "title": "Mietamienai Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191535.jpg",
+        "alt": "mietamienai-sekai"
+    },
     "type": "manga",
     "original_name": "ミエタミエナイセカイ",
     "start_date": "2016-07-09",

@@ -1,5 +1,9 @@
 {
     "title": "Loop (So-Sol)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29414.jpg",
+        "alt": "loop-so-sol"
+    },
     "type": "manhwa",
     "chapters": "2",
     "original_name": "루프",

@@ -1,5 +1,9 @@
 {
     "title": "Keijijou na Bokura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31099.jpg",
+        "alt": "keijijou-na-bokura"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

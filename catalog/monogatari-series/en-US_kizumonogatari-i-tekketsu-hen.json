@@ -1,5 +1,9 @@
 {
     "title": "Kizumonogatari I: Tekketsu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/80621.jpg",
+        "alt": "kizumonogatari-i-tekketsu-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "傷物語〈Ⅰ 鉄血篇〉",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Monogatari_(series"
+            "link": "http://en.wikipedia.org/wiki/Monogatari_%28series%29"
         }
     ]
 }

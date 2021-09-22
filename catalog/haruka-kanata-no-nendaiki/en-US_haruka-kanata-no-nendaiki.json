@@ -1,5 +1,9 @@
 {
     "title": "Haruka Kanata no Nendaiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123633.jpg",
+        "alt": "haruka-kanata-no-nendaiki"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "27",

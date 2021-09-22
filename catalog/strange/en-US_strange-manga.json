@@ -1,5 +1,9 @@
 {
     "title": "Strange+",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/104569.jpg",
+        "alt": "strange"
+    },
     "type": "manga",
     "original_name": "STRANGE+",
     "start_date": "2002-03-28",

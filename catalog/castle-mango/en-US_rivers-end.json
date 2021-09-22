@@ -1,5 +1,9 @@
 {
     "title": "River's End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151521.jpg",
+        "alt": "rivers-end"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

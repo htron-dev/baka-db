@@ -1,5 +1,9 @@
 {
     "title": "Kotetsu Den!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208356.jpg",
+        "alt": "kotetsu-den"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

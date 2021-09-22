@@ -1,5 +1,9 @@
 {
     "title": "Kakuu no Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79457.jpg",
+        "alt": "kakuu-no-hibi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "架空の日々",

@@ -1,5 +1,9 @@
 {
     "title": "Buta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/50405.jpg",
+        "alt": "buta"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "BUTA",

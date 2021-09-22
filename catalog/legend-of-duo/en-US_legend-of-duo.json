@@ -1,5 +1,9 @@
 {
     "title": "Legend of Duo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/23556.jpg",
+        "alt": "legend-of-duo"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "LEGEND OF DUO",

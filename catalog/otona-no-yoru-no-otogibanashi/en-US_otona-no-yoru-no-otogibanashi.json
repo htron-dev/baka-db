@@ -1,5 +1,9 @@
 {
     "title": "Otona no Yoru no Otogibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15461.jpg",
+        "alt": "otona-no-yoru-no-otogibanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Kouketsu no Kumikyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177840.jpg",
+        "alt": "kouketsu-no-kumikyoku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Himitsu: Kuro no Chikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219803.jpg",
+        "alt": "himitsu-kuro-no-chikai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Wan Jie Fa Shen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1077/111009.jpg",
+        "alt": "wan-jie-fa-shen"
+    },
     "type": "ona",
     "episodes": "54",
     "original_name": "万界法神",

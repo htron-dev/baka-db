@@ -1,5 +1,9 @@
 {
     "title": "Buccafé!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203522.jpg",
+        "alt": "buccafe"
+    },
     "type": "manga",
     "original_name": "ぶっカフェ！",
     "start_date": "2017-04-08",

@@ -1,5 +1,9 @@
 {
     "title": "Blue Justice Koko ni Ari!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153414.jpg",
+        "alt": "blue-justice-koko-ni-ari"
+    },
     "type": "light-novel",
     "original_name": "ブルージャスティスここにあり!",
     "start_date": "2014-12-24",

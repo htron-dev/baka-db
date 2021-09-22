@@ -1,5 +1,9 @@
 {
     "title": "Fechi no Ana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227359.jpg",
+        "alt": "fechi-no-ana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

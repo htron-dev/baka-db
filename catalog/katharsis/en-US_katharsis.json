@@ -1,5 +1,9 @@
 {
     "title": "Katharsis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/63947.jpg",
+        "alt": "katharsis"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "聖餐－カタルシス－",

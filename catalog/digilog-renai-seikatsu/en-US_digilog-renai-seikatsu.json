@@ -1,5 +1,9 @@
 {
     "title": "Digilog Renai Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222969.jpg",
+        "alt": "digilog-renai-seikatsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

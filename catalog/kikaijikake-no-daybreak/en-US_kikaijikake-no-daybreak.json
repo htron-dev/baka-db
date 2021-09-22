@@ -1,5 +1,9 @@
 {
     "title": "Kikaijikake no Daybreak",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196999.jpg",
+        "alt": "kikaijikake-no-daybreak"
+    },
     "type": "light-novel",
     "original_name": "機械仕掛けのデイブレイク",
     "start_date": "2017-06-02",

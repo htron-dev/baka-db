@@ -1,5 +1,9 @@
 {
     "title": "Mr. Clice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202604.jpg",
+        "alt": "mr-clice"
+    },
     "type": "manga",
     "original_name": "Mr.Clice",
     "start_date": "1985-11-06",

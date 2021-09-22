@@ -1,5 +1,9 @@
 {
     "title": "Knights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13654.jpg",
+        "alt": "knights"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

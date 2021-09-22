@@ -1,11 +1,15 @@
 {
     "title": "Sousei no Aquarion OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/72745.jpg",
+        "alt": "sousei-no-aquarion-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ＯＶＡ『創星のアクエリオン』",
     "start_date": "2007-05-25",
     "end_date": "2007-05-25",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Suashi\" by Akino (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

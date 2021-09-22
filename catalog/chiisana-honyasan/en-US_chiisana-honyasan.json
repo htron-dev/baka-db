@@ -1,5 +1,9 @@
 {
     "title": "Chiisana Honyasan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19927.jpg",
+        "alt": "chiisana-honyasan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

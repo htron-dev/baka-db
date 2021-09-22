@@ -1,5 +1,9 @@
 {
     "title": "Akechi Shounen no Kojitsuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162118.jpg",
+        "alt": "akechi-shounen-no-kojitsuke"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

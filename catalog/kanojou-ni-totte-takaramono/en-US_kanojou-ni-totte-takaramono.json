@@ -1,5 +1,9 @@
 {
     "title": "Kanojou ni totte Takaramono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5776.jpg",
+        "alt": "kanojou-ni-totte-takaramono"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "彼女にとって宝物",

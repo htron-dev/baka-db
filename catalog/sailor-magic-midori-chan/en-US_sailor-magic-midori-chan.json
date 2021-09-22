@@ -1,5 +1,9 @@
 {
     "title": "Sailor Magic Midori-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159067.jpg",
+        "alt": "sailor-magic-midori-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

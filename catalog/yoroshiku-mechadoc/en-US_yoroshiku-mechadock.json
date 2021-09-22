@@ -1,5 +1,9 @@
 {
     "title": "Yoroshiku Mechadock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/16963.jpg",
+        "alt": "yoroshiku-mechadock"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "よろしくメカドック",

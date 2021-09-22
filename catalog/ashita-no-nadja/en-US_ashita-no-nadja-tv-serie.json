@@ -1,5 +1,9 @@
 {
     "title": "Ashita no Nadja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75381.jpg",
+        "alt": "ashita-no-nadja"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "明日のナージャ",

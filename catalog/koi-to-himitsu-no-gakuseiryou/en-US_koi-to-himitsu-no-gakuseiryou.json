@@ -1,5 +1,9 @@
 {
     "title": "Koi to Himitsu no Gakuseiryou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215138.jpg",
+        "alt": "koi-to-himitsu-no-gakuseiryou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

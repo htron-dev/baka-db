@@ -1,5 +1,9 @@
 {
     "title": "Urda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/33543.jpg",
+        "alt": "urda"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "ウルダ",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Urda_(anime"
+            "link": "http://en.wikipedia.org/wiki/Urda_%28anime%29"
         }
     ]
 }

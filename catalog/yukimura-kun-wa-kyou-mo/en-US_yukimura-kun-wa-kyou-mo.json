@@ -1,5 +1,9 @@
 {
     "title": "Yukimura-kun wa Kyou mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171805.jpg",
+        "alt": "yukimura-kun-wa-kyou-mo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

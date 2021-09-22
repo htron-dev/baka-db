@@ -1,5 +1,9 @@
 {
     "title": "Sweet Little Devil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/80677.jpg",
+        "alt": "sweet-little-devil"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

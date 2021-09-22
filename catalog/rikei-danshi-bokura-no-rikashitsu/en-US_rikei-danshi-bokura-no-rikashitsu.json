@@ -1,5 +1,9 @@
 {
     "title": "Rikei Danshi. ~Bokura no Rikashitsu~",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/68149.jpg",
+        "alt": "rikei-danshi-bokura-no-rikashitsu"
+    },
     "type": "manga",
     "original_name": "理系男子。～ぼくらの理科室～",
     "start_date": "2011-05-10",

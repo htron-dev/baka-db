@@ -1,5 +1,9 @@
 {
     "title": "Qingwa Wangguo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1809/112668.jpg",
+        "alt": "qingwa-wangguo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "青蛙王国",

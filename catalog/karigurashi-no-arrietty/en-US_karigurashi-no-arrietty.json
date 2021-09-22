@@ -1,5 +1,9 @@
 {
     "title": "Karigurashi no Arrietty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75905.jpg",
+        "alt": "karigurashi-no-arrietty"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "借りぐらしのアリエッティ",

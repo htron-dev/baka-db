@@ -1,5 +1,9 @@
 {
     "title": "Osaerarenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12006.jpg",
+        "alt": "osaerarenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

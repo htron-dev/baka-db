@@ -1,5 +1,9 @@
 {
     "title": "Buster Keel!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166312.jpg",
+        "alt": "buster-keel"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "47",

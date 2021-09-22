@@ -1,5 +1,9 @@
 {
     "title": "Ai wa Kane Nari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224486.jpg",
+        "alt": "ai-wa-kane-nari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

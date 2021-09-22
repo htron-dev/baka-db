@@ -1,5 +1,9 @@
 {
     "title": "Pikapika Kachiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18007.jpg",
+        "alt": "pikapika-kachiku"
+    },
     "type": "manga",
     "original_name": "ピカピカ家畜",
     "tags": [

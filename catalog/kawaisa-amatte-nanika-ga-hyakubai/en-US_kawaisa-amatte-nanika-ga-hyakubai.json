@@ -1,5 +1,9 @@
 {
     "title": "Kawaisa Amatte Nanika ga Hyakubai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/40522.jpg",
+        "alt": "kawaisa-amatte-nanika-ga-hyakubai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

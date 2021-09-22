@@ -1,5 +1,9 @@
 {
     "title": "Manga Super Mario Brothers: Ghost Koopa no Gyakushuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239180.jpg",
+        "alt": "manga-super-mario-brothers-ghost-koopa-no-gyakushuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

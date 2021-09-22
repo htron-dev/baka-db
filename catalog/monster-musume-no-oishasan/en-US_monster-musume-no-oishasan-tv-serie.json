@@ -1,5 +1,9 @@
 {
     "title": "Monster Musume no Oishasan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1762/106598.jpg",
+        "alt": "monster-musume-no-oishasan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "モンスター娘のお医者さん",

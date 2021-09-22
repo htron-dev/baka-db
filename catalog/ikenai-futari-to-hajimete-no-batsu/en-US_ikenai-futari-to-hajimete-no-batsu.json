@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Futari to Hajimete no Batsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165144.jpg",
+        "alt": "ikenai-futari-to-hajimete-no-batsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

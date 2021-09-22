@@ -1,5 +1,9 @@
 {
     "title": "Geten no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/111011.jpg",
+        "alt": "geten-no-hana"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

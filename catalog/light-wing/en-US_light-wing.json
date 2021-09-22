@@ -1,5 +1,9 @@
 {
     "title": "Light Wing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178951.jpg",
+        "alt": "light-wing"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

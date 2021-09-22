@@ -1,5 +1,9 @@
 {
     "title": "Nikkan Tachibana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181068.jpg",
+        "alt": "nikkan-tachibana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Negaigoto wa Hidamari de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72561.jpg",
+        "alt": "negaigoto-wa-hidamari-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Chaosic Rune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183912.jpg",
+        "alt": "chaosic-rune"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "71",

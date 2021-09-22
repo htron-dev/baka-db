@@ -1,5 +1,9 @@
 {
     "title": "Toki no Akuma to Mitsu no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163617.jpg",
+        "alt": "toki-no-akuma-to-mitsu-no-monogatari"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

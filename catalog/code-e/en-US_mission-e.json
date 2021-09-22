@@ -1,5 +1,9 @@
 {
     "title": "Mission-E",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1605/106039.jpg",
+        "alt": "mission-e"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "MISSION-E",

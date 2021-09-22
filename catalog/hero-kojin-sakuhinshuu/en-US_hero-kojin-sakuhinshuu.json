@@ -1,5 +1,9 @@
 {
     "title": "Hero Kojin Sakuhinshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79629.jpg",
+        "alt": "hero-kojin-sakuhinshuu"
+    },
     "type": "manga",
     "original_name": "HERO 個人作品集",
     "tags": [

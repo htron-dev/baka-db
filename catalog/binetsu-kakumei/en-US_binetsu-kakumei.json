@@ -1,5 +1,9 @@
 {
     "title": "Binetsu Kakumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176521.jpg",
+        "alt": "binetsu-kakumei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

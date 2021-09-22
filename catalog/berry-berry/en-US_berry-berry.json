@@ -1,5 +1,9 @@
 {
     "title": "Berry Berry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32774.jpg",
+        "alt": "berry-berry"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

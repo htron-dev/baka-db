@@ -1,5 +1,9 @@
 {
     "title": "Tenku Shinobuden Battle Voyager",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13284.jpg",
+        "alt": "tenku-shinobuden-battle-voyager"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "天空忍伝バトルボイジャー",

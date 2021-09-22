@@ -1,5 +1,9 @@
 {
     "title": "Captain Tsubasa J",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1140/92113.jpg",
+        "alt": "captain-tsubasa-j"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "キャプテン翼Ｊ",

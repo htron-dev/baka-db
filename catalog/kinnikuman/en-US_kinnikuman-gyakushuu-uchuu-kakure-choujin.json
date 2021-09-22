@@ -1,5 +1,9 @@
 {
     "title": "Kinnikuman: Gyakushuu! Uchuu Kakure Choujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/70113.jpg",
+        "alt": "kinnikuman-gyakushuu-uchuu-kakure-choujin"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キン肉マン 逆襲！宇宙かくれ超人",

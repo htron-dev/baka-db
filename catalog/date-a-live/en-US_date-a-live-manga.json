@@ -1,5 +1,9 @@
 {
     "title": "Date A Live",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/87499.jpg",
+        "alt": "date-a-live"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

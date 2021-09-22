@@ -1,5 +1,9 @@
 {
     "title": "Sui mo Amai mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178656.jpg",
+        "alt": "sui-mo-amai-mo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

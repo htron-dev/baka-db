@@ -1,12 +1,16 @@
 {
     "title": "Seiren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1295/95681.jpg",
+        "alt": "seiren"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "セイレン",
     "start_date": "2017-01-06",
     "end_date": "2017-01-06",
     "opening_song": "\"Kimi no Hana (キミの花)\" by Hanako Oku",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shunkan Happening (瞬間 Happening)\" by Hikari Tsuneki (Ayane Sakura) (eps 1-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "romance",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%AC%E3%83%B3_(%E3%82%A2%E3%83%8B%E3%83%A1"
+            "link": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%AC%E3%83%B3_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
         }
     ]
 }

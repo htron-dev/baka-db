@@ -1,5 +1,9 @@
 {
     "title": "5001-nen Yakuza Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189673.jpg",
+        "alt": "5001-nen-yakuza-wars"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "5001 年ヤクザウォーズ",

@@ -1,5 +1,9 @@
 {
     "title": "Osanpo no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195317.jpg",
+        "alt": "osanpo-no-jikan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

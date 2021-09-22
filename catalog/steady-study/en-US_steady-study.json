@@ -1,5 +1,9 @@
 {
     "title": "Steady Study",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/105855.jpg",
+        "alt": "steady-study"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

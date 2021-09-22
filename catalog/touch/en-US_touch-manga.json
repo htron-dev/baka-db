@@ -1,5 +1,9 @@
 {
     "title": "Touch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/84777.jpg",
+        "alt": "touch"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "257",

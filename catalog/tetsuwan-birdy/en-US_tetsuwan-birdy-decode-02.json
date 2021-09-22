@@ -1,8 +1,12 @@
 {
     "title": "Tetsuwan Birdy Decode:02",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/53907.jpg",
+        "alt": "tetsuwan-birdy-decode-02"
+    },
     "type": "tv-serie",
     "episodes": "12",
-    "original_name": "鉄腕バーディー DECODE",
+    "original_name": "鉄腕バーディー DECODE:02",
     "start_date": "2009-01-10",
     "end_date": "2009-01-10",
     "opening_song": "\"Kiseki\" by NIRGILIS",

@@ -1,10 +1,14 @@
 {
     "title": "Recorder to Randoseru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/40081.jpg",
+        "alt": "recorder-to-randoseru"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "リコーダーとランドセル",
     "start_date": "2012-07-17",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Glitter\" by Aoi Tada feat. Sister 773",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

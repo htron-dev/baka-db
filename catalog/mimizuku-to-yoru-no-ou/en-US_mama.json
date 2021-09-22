@@ -1,5 +1,9 @@
 {
     "title": "Mama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148997.jpg",
+        "alt": "mama"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "2",

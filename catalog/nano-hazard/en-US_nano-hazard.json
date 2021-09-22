@@ -1,5 +1,9 @@
 {
     "title": "Nano Hazard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220020.jpg",
+        "alt": "nano-hazard"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

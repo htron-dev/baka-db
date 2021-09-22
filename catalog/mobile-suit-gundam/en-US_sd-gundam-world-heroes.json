@@ -1,5 +1,9 @@
 {
     "title": "SD Gundam World Heroes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1390/115029.jpg",
+        "alt": "sd-gundam-world-heroes"
+    },
     "type": "ona",
     "original_name": "SD ガンダムワールド ヒーローズ",
     "start_date": "2021-04-08",

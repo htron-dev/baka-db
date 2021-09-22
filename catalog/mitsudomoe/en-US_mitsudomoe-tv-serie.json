@@ -1,5 +1,9 @@
 {
     "title": "Mitsudomoe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/53947.jpg",
+        "alt": "mitsudomoe"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "みつどもえ",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Mitsudomoe_(manga"
+            "link": "http://en.wikipedia.org/wiki/Mitsudomoe_%28manga%29#Anime"
         }
     ]
 }

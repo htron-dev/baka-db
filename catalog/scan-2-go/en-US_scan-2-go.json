@@ -1,5 +1,9 @@
 {
     "title": "Scan2Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1544/100121.jpg",
+        "alt": "scan-2-go"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "스캔2고",

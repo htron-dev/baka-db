@@ -1,5 +1,9 @@
 {
     "title": "Chikara no Arika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118295.jpg",
+        "alt": "chikara-no-arika"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

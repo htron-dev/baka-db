@@ -1,12 +1,16 @@
 {
     "title": "Avenger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/19921.jpg",
+        "alt": "avenger"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "アヴェンジャー",
     "start_date": "2003-10-02",
     "end_date": "2003-10-02",
     "opening_song": "\"Gesshoku Grandguignol\" by ALI PROJECT",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mirai no Eve\" by ALI PROJECT (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "adventure",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Avenger_(anime"
+            "link": "http://en.wikipedia.org/wiki/Avenger_%28anime%29"
         }
     ]
 }

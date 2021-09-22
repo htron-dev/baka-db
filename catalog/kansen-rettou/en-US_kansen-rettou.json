@@ -1,5 +1,9 @@
 {
     "title": "Kansen Rettou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25869.jpg",
+        "alt": "kansen-rettou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

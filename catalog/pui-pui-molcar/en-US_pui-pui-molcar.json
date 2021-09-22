@@ -1,5 +1,9 @@
 {
     "title": "Pui Pui Molcar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1899/111488.jpg",
+        "alt": "pui-pui-molcar"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "PUI PUI モルカー",

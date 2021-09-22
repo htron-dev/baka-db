@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Kuromitsu-san no Fukkin ga Kowai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236001.jpg",
+        "alt": "boku-wa-kuromitsu-san-no-fukkin-ga-kowai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

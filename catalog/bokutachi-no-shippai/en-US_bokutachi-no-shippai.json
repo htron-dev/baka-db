@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi no Shippai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222455.jpg",
+        "alt": "bokutachi-no-shippai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

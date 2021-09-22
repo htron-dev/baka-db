@@ -1,5 +1,9 @@
 {
     "title": "Kamikoi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184997.jpg",
+        "alt": "kamikoi"
+    },
     "type": "light-novel",
     "original_name": "かみこい!",
     "start_date": "2016-11-15",

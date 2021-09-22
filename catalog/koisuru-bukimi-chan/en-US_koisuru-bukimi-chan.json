@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Bukimi-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240255.jpg",
+        "alt": "koisuru-bukimi-chan"
+    },
     "type": "manga",
     "original_name": "恋するブキミちゃん",
     "start_date": "2020-06-05",

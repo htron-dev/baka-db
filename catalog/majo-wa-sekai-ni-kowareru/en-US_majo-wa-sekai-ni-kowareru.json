@@ -1,5 +1,9 @@
 {
     "title": "Majo wa Sekai ni Kowareru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171373.jpg",
+        "alt": "majo-wa-sekai-ni-kowareru"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Go! Go! Kadendanshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/51435.jpg",
+        "alt": "go-go-kadendanshi"
+    },
     "type": "ona",
     "episodes": "78",
     "original_name": "Go!Go!家電男子",

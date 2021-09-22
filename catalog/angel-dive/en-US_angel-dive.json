@@ -1,5 +1,9 @@
 {
     "title": "Angel+Dive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135501.jpg",
+        "alt": "angel-dive"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ANGEL+DIVE",

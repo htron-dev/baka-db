@@ -1,5 +1,9 @@
 {
     "title": "Celeb Na Dorei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20654.jpg",
+        "alt": "celeb-na-dorei"
+    },
     "type": "manga",
     "original_name": "セレブな奴隷",
     "tags": [

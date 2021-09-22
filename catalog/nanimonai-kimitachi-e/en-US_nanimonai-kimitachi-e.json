@@ -1,5 +1,9 @@
 {
     "title": "Nanimonai Kimitachi e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209023.jpg",
+        "alt": "nanimonai-kimitachi-e"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

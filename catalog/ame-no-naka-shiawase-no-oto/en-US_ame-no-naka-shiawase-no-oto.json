@@ -1,5 +1,9 @@
 {
     "title": "Ame no Naka, Shiawase no Oto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/57627.jpg",
+        "alt": "ame-no-naka-shiawase-no-oto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

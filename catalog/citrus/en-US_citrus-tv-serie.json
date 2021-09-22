@@ -1,5 +1,9 @@
 {
     "title": "Citrus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/89985.jpg",
+        "alt": "citrus"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "シトラス",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Citrus_(manga"
+            "link": "https://en.wikipedia.org/wiki/Citrus_%28manga%29"
         }
     ]
 }

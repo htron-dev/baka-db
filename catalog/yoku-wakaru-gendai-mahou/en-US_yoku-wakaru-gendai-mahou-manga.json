@@ -1,5 +1,9 @@
 {
     "title": "Yoku Wakaru Gendai Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134287.jpg",
+        "alt": "yoku-wakaru-gendai-mahou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

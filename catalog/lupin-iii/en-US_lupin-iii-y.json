@@ -1,5 +1,9 @@
 {
     "title": "Lupin III Y",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185984.jpg",
+        "alt": "lupin-iii-y"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "221",

@@ -1,5 +1,9 @@
 {
     "title": "Neringu Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22891.jpg",
+        "alt": "neringu-project"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ねりんぐプロジェクト",

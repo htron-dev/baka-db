@@ -1,5 +1,9 @@
 {
     "title": "Comic Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1207/91794.jpg",
+        "alt": "comic-girls"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "こみっくがーるず",

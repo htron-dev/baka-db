@@ -1,5 +1,9 @@
 {
     "title": "Ijime no Kejime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239234.jpg",
+        "alt": "ijime-no-kejime"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

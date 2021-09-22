@@ -1,5 +1,9 @@
 {
     "title": "Cosplay★Animal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/119499.jpg",
+        "alt": "cosplay★-animal"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "59",

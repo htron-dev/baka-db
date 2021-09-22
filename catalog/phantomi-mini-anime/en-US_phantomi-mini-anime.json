@@ -1,5 +1,9 @@
 {
     "title": "Phantomi: Mini Anime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1034/102820.jpg",
+        "alt": "phantomi-mini-anime"
+    },
     "type": "ona",
     "original_name": "ファントミ ミニアニメ",
     "start_date": "2019-08-05",

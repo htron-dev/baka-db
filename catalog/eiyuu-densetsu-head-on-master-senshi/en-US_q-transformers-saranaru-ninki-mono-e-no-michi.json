@@ -1,11 +1,15 @@
 {
     "title": "Q Transformers: Saranaru Ninki Mono e no Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/74246.jpg",
+        "alt": "q-transformers-saranaru-ninki-mono-e-no-michi"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "キュートランスフォーマー さらなる人気者への道",
     "start_date": "2015-07-06",
     "end_date": "2015-07-06",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Destiny: 400 Mannen Mae Kara Aishiteru (DESTINY〜400 万年前から愛してる〜)\" by Optimus Priime (Yoshimasa Hosoya)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Otoko Irochaya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36560.jpg",
+        "alt": "otoko-irochaya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

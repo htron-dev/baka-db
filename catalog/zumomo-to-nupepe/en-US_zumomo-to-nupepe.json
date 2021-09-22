@@ -1,5 +1,9 @@
 {
     "title": "Zumomo to Nupepe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/46983.jpg",
+        "alt": "zumomo-to-nupepe"
+    },
     "type": "tv-serie",
     "episodes": "32",
     "original_name": "ズモモとヌペペ",

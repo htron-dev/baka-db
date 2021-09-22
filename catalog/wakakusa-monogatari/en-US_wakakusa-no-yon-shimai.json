@@ -1,5 +1,9 @@
 {
     "title": "Wakakusa no Yon Shimai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/80150.jpg",
+        "alt": "wakakusa-no-yon-shimai"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "若草の四姉妹",

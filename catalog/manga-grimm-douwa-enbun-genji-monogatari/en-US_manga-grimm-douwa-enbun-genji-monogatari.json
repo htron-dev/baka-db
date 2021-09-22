@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Enbun Genji Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139679.jpg",
+        "alt": "manga-grimm-douwa-enbun-genji-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

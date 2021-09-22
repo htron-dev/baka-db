@@ -1,5 +1,9 @@
 {
     "title": "Ouji no Hakoniwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190051.jpg",
+        "alt": "ouji-no-hakoniwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

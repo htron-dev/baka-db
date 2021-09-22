@@ -1,5 +1,9 @@
 {
     "title": "Chia!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136047.jpg",
+        "alt": "chia"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ちあ!",

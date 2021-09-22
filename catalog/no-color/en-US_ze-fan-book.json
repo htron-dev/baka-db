@@ -1,5 +1,9 @@
 {
     "title": "Ze Fan Book",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31898.jpg",
+        "alt": "ze-fan-book"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

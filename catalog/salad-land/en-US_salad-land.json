@@ -1,5 +1,9 @@
 {
     "title": "Salad Land",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/39339.jpg",
+        "alt": "salad-land"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "サラダランド",

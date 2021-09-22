@@ -1,5 +1,9 @@
 {
     "title": "Fuayu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178236.jpg",
+        "alt": "fuayu"
+    },
     "type": "light-novel",
     "original_name": "ふあゆ",
     "start_date": "2016-05-18",

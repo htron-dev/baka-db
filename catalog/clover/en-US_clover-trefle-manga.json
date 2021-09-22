@@ -1,5 +1,9 @@
 {
     "title": "Clover Trèfle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170864.jpg",
+        "alt": "clover-trefle"
+    },
     "type": "manga",
     "original_name": "クローバー trèfle",
     "start_date": "2012-06-28",

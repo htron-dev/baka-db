@@ -1,5 +1,9 @@
 {
     "title": "Zettai Kishi no Tempest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164196.jpg",
+        "alt": "zettai-kishi-no-tempest"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

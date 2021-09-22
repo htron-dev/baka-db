@@ -1,5 +1,9 @@
 {
     "title": "Fullmetal Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190145.jpg",
+        "alt": "fullmetal-lady"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

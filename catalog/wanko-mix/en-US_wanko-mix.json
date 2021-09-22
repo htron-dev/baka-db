@@ -1,5 +1,9 @@
 {
     "title": "Wanko Mix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28005.jpg",
+        "alt": "wanko-mix"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "わんこ・みっくす",

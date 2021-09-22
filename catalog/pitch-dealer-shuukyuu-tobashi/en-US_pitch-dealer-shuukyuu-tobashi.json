@@ -1,5 +1,9 @@
 {
     "title": "Pitch Dealer: Shuukyuu Tobashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202680.jpg",
+        "alt": "pitch-dealer-shuukyuu-tobashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

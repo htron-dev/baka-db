@@ -1,5 +1,9 @@
 {
     "title": "Shinai naru Boku e Satsui wo Komete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211898.jpg",
+        "alt": "shinai-naru-boku-e-satsui-wo-komete"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "98",

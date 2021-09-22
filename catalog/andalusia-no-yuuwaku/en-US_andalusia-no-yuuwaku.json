@@ -1,5 +1,9 @@
 {
     "title": "Andalusia no Yuuwaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/47053.jpg",
+        "alt": "andalusia-no-yuuwaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

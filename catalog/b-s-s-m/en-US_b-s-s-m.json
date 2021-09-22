@@ -1,5 +1,9 @@
 {
     "title": "B.S.S.M.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174469.jpg",
+        "alt": "b-s-s-m"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

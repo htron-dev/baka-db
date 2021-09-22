@@ -1,5 +1,9 @@
 {
     "title": "Yoru ni Nurasarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/71645.jpg",
+        "alt": "yoru-ni-nurasarete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

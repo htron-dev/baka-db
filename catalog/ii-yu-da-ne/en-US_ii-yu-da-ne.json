@@ -1,5 +1,9 @@
 {
     "title": "Ii Yu da ne!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231327.jpg",
+        "alt": "ii-yu-da-ne"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

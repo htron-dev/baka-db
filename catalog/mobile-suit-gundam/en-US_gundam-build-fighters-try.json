@@ -1,12 +1,16 @@
 {
     "title": "Gundam Build Fighters Try",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/67511.jpg",
+        "alt": "gundam-build-fighters-try"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ガンダムビルドファイターズトライ",
     "start_date": "2014-10-08",
     "end_date": "2014-10-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Cerulean (セルリアン)\" by BACK-ON (eps 2-13)",
+    "ending_song": "#1: \"Cerulean (セルリアン)\" by BACK-ON (ep 1)",
     "rating": "G - All Ages",
     "tags": [
         "action",

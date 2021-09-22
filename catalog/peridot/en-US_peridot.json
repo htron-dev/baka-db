@@ -1,5 +1,9 @@
 {
     "title": "Peridot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/56453.jpg",
+        "alt": "peridot"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "50",

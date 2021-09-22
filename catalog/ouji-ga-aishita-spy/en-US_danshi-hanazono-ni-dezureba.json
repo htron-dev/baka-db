@@ -1,5 +1,9 @@
 {
     "title": "Danshi, Hanazono ni Dezureba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149720.jpg",
+        "alt": "danshi-hanazono-ni-dezureba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

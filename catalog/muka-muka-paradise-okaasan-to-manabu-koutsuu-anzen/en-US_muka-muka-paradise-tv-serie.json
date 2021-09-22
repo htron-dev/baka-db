@@ -1,5 +1,9 @@
 {
     "title": "Muka Muka Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1388/99407.jpg",
+        "alt": "muka-muka-paradise"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ムカムカパラダイス",

@@ -1,5 +1,9 @@
 {
     "title": "Doukyuusei no Macho-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187250.jpg",
+        "alt": "doukyuusei-no-macho-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

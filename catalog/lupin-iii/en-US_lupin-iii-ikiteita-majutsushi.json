@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Ikiteita Majutsushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/27617.jpg",
+        "alt": "lupin-iii-ikiteita-majutsushi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ルパン三世『生きていた魔術師』",

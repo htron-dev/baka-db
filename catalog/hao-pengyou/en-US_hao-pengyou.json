@@ -1,5 +1,9 @@
 {
     "title": "Hao Pengyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1903/115652.jpg",
+        "alt": "hao-pengyou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "好朋友",

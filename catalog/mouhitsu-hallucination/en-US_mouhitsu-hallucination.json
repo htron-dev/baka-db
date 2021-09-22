@@ -1,5 +1,9 @@
 {
     "title": "Mouhitsu Hallucination",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173721.jpg",
+        "alt": "mouhitsu-hallucination"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

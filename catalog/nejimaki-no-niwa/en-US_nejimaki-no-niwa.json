@@ -1,5 +1,9 @@
 {
     "title": "Nejimaki no Niwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35480.jpg",
+        "alt": "nejimaki-no-niwa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

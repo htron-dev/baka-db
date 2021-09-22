@@ -1,5 +1,9 @@
 {
     "title": "Sodaterareta Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223458.jpg",
+        "alt": "sodaterareta-hanayome"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "育てられた花嫁",

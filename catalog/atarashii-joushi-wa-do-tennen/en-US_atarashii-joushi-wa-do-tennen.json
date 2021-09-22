@@ -1,5 +1,9 @@
 {
     "title": "Atarashii Joushi wa Do Tennen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226345.jpg",
+        "alt": "atarashii-joushi-wa-do-tennen"
+    },
     "type": "manga",
     "original_name": "新しい上司はど天然",
     "start_date": "2019-02-05",

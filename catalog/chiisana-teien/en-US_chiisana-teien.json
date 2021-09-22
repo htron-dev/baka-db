@@ -1,5 +1,9 @@
 {
     "title": "Chiisana Teien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/70079.jpg",
+        "alt": "chiisana-teien"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "小さな庭園",

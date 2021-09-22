@@ -1,5 +1,9 @@
 {
     "title": "Jikangai no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229994.jpg",
+        "alt": "jikangai-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "時間外の恋人",

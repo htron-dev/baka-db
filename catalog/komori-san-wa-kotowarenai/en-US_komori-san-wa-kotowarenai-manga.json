@@ -1,5 +1,9 @@
 {
     "title": "Komori-san wa Kotowarenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188964.jpg",
+        "alt": "komori-san-wa-kotowarenai"
+    },
     "type": "manga",
     "original_name": "小森さんは断れない！",
     "start_date": "2012-02-27",

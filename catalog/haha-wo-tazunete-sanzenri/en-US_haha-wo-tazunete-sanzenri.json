@@ -1,5 +1,9 @@
 {
     "title": "Haha wo Tazunete Sanzenri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/80523.jpg",
+        "alt": "haha-wo-tazunete-sanzenri"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "母をたずねて三千里",

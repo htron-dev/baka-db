@@ -1,5 +1,9 @@
 {
     "title": "Ten: Tenhou-doori no Kaidanji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29442.jpg",
+        "alt": "ten-tenhou-doori-no-kaidanji"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "164",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ravens: Another x Holiday",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161438.jpg",
+        "alt": "tokyo-ravens-another-x-holiday"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

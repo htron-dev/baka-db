@@ -1,5 +1,9 @@
 {
     "title": "World Trigger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187850.jpg",
+        "alt": "world-trigger"
+    },
     "type": "manga",
     "original_name": "ワールドトリガー",
     "start_date": "2013-02-08",

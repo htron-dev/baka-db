@@ -1,5 +1,9 @@
 {
     "title": "Haime to Zoukihime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221968.jpg",
+        "alt": "haime-to-zoukihime"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

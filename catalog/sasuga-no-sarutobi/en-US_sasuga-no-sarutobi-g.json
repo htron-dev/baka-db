@@ -1,5 +1,9 @@
 {
     "title": "Sasuga no Sarutobi G",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227467.jpg",
+        "alt": "sasuga-no-sarutobi-g"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

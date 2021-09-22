@@ -1,5 +1,9 @@
 {
     "title": "La Nobetsu Makunashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179144.jpg",
+        "alt": "la-nobetsu-makunashi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

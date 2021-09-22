@@ -1,5 +1,9 @@
 {
     "title": "Tobenai Hotaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1115/110901.jpg",
+        "alt": "tobenai-hotaru"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "とべないホタル",

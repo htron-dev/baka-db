@@ -1,5 +1,9 @@
 {
     "title": "Soul Rescue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159405.jpg",
+        "alt": "soul-rescue"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Renai Semi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16423.jpg",
+        "alt": "renai-semi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

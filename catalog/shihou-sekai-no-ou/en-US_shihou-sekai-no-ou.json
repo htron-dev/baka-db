@@ -1,5 +1,9 @@
 {
     "title": "Shihou Sekai no Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170902.jpg",
+        "alt": "shihou-sekai-no-ou"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Luo Xiao Hei Zhan Ji (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1583/108598.jpg",
+        "alt": "luo-xiao-hei-zhan-ji-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "羅小黑戰記",

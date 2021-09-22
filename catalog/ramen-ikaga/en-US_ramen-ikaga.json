@@ -1,5 +1,9 @@
 {
     "title": "Ramen Ikaga!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7643.jpg",
+        "alt": "ramen-ikaga"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

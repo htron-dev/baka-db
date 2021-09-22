@@ -1,5 +1,9 @@
 {
     "title": "Kyoukaisenjou no Horako-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/89047.jpg",
+        "alt": "kyoukaisenjou-no-horako-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

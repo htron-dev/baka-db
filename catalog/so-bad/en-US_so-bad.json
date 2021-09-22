@@ -1,5 +1,9 @@
 {
     "title": "So Bad!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9977.jpg",
+        "alt": "so-bad"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "27",

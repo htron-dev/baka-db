@@ -1,5 +1,9 @@
 {
     "title": "Kikou Gakuen Kamikaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/106761.jpg",
+        "alt": "kikou-gakuen-kamikaze"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

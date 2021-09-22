@@ -1,5 +1,9 @@
 {
     "title": "My Broken Mariko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226196.jpg",
+        "alt": "my-broken-mariko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Terra e...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/42523.jpg",
+        "alt": "terra-e"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "地球へ...",

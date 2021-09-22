@@ -1,12 +1,16 @@
 {
     "title": "Shijou Saikyou no Deshi Kenichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75515.jpg",
+        "alt": "shijou-saikyou-no-deshi-kenichi"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "史上最強の弟子 ケンイチ",
     "start_date": "2006-10-07",
     "end_date": "2006-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Be Strong\" by Kana Yazumi (eps 01-25, 50)",
+    "ending_song": "#1: \"Kimi ga iru kara\" by Issei Eguchi (eps 01-15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

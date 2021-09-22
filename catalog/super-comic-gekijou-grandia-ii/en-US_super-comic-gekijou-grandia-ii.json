@@ -1,5 +1,9 @@
 {
     "title": "Super Comic Gekijou: Grandia II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151581.jpg",
+        "alt": "super-comic-gekijou-grandia-ii"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スーパーコミック劇場 グランディア II",

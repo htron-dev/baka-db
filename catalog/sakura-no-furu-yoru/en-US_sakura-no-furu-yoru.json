@@ -1,5 +1,9 @@
 {
     "title": "Sakura no Furu Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167213.jpg",
+        "alt": "sakura-no-furu-yoru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "桜の降る夜",

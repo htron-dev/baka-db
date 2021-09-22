@@ -1,5 +1,9 @@
 {
     "title": "Debonair Real Estate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191368.jpg",
+        "alt": "debonair-real-estate"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

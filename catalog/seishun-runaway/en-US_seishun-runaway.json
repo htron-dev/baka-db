@@ -1,5 +1,9 @@
 {
     "title": "Seishun Runaway",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224332.jpg",
+        "alt": "seishun-runaway"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

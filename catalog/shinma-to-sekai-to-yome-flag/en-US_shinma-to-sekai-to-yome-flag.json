@@ -1,5 +1,9 @@
 {
     "title": "Shinma to Sekai to Yome Flag",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163702.jpg",
+        "alt": "shinma-to-sekai-to-yome-flag"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "34",

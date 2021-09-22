@@ -1,5 +1,9 @@
 {
     "title": "Manabiya Sannin Kichisa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179165.jpg",
+        "alt": "manabiya-sannin-kichisa"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

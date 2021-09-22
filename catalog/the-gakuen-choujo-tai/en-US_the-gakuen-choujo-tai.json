@@ -1,5 +1,9 @@
 {
     "title": "The Gakuen Choujo-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/34829.jpg",
+        "alt": "the-gakuen-choujo-tai"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ザ・学園超女隊",

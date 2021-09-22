@@ -1,5 +1,9 @@
 {
     "title": "Oneesan Kageki desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82148.jpg",
+        "alt": "oneesan-kageki-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

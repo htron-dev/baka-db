@@ -1,12 +1,16 @@
 {
     "title": "Shounen Onmyouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1865/106109.jpg",
+        "alt": "shounen-onmyouji"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "少年陰陽師",
     "start_date": "2006-10-03",
     "end_date": "2006-10-03",
     "opening_song": "\"Egao no Wake\" by Kaori Hikita",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yakusoku\" by Saori Kiuji",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

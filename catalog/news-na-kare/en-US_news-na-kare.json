@@ -1,5 +1,9 @@
 {
     "title": "News na Kare!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205069.jpg",
+        "alt": "news-na-kare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

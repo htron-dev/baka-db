@@ -1,5 +1,9 @@
 {
     "title": "Nankyoku Penguin Colors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1553/114480.jpg",
+        "alt": "nankyoku-penguin-colors"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "南極ペンギンカラーズ",

@@ -1,5 +1,9 @@
 {
     "title": "Gakkou wo Deyou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207970.jpg",
+        "alt": "gakkou-wo-deyou"
+    },
     "type": "light-novel",
     "volumes": "6",
     "original_name": "学校を出よう！",

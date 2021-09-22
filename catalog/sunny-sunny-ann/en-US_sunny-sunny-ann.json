@@ -1,5 +1,9 @@
 {
     "title": "Sunny Sunny Ann!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150305.jpg",
+        "alt": "sunny-sunny-ann"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Sunny Sunny Ann!",

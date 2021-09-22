@@ -1,5 +1,9 @@
 {
     "title": "Dumbbell Nan Kilo Moteru?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1385/101060.jpg",
+        "alt": "dumbbell-nan-kilo-moteru"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ダンベル何キロ持てる？",

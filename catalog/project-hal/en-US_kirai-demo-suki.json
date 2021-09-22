@@ -1,5 +1,9 @@
 {
     "title": "Kirai, Demo, Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/81647.jpg",
+        "alt": "kirai-demo-suki"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "嫌い、でも、好き",

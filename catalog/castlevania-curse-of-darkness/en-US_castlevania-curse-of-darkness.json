@@ -1,5 +1,9 @@
 {
     "title": "Castlevania: Curse of Darkness",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/14648.jpg",
+        "alt": "castlevania-curse-of-darkness"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "4",

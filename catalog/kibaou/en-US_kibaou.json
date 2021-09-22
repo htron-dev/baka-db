@@ -1,5 +1,9 @@
 {
     "title": "Kibaou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227464.jpg",
+        "alt": "kibaou"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "牙王",

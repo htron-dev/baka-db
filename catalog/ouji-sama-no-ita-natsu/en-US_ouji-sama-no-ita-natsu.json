@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama no Ita Natsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76475.jpg",
+        "alt": "ouji-sama-no-ita-natsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Seikimatsu no Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112409.jpg",
+        "alt": "seikimatsu-no-angel"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "世紀末のエンジェル",

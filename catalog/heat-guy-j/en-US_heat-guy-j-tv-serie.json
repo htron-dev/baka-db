@@ -1,12 +1,16 @@
 {
     "title": "HeatGuy J",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/76288.jpg",
+        "alt": "heat-guy-j"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ヒートガイジェイ",
     "start_date": "2002-10-02",
     "end_date": "2002-10-02",
     "opening_song": "\"Face\" by Try Force",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kokoro no Sukima (Gap in the Heart)\" by WYSE",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

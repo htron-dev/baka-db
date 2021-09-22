@@ -1,12 +1,16 @@
 {
     "title": "Yu☆Gi☆Oh! Arc-V",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/62939.jpg",
+        "alt": "yu☆-gi☆-oh-arc-v"
+    },
     "type": "tv-serie",
     "episodes": "148",
     "original_name": "遊 ☆ 戯 ☆ 王　アーク・ファイブ ARC-V",
     "start_date": "2014-04-06",
     "end_date": "2014-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Believe×Believe\" by Choutokkyuu (超特急) (eps 1-30)",
+    "ending_song": "#1: \"One Step\" by P☆Cute [Pendelum☆Cute (Masumi Kuratsushi & Ruri Shirosaki)] [闇津ますみ・白咲るり] (eps 1-30)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

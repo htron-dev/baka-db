@@ -1,5 +1,9 @@
 {
     "title": "Tales of the World: Radiant Mythology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/93509.jpg",
+        "alt": "tales-of-the-world-radiant-mythology"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "テイルズ オブ ザ ワールド レディアント マイソロジー",

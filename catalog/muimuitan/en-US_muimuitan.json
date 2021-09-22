@@ -1,5 +1,9 @@
 {
     "title": "Muimuitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183328.jpg",
+        "alt": "muimuitan"
+    },
     "type": "light-novel",
     "original_name": "むいむいたん",
     "start_date": "2016-10-08",

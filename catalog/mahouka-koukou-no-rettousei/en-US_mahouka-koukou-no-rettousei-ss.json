@@ -1,5 +1,9 @@
 {
     "title": "Mahouka Koukou no Rettousei SS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177897.jpg",
+        "alt": "mahouka-koukou-no-rettousei-ss"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

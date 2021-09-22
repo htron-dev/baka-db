@@ -1,5 +1,9 @@
 {
     "title": "Epitaramu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18049.jpg",
+        "alt": "epitaramu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

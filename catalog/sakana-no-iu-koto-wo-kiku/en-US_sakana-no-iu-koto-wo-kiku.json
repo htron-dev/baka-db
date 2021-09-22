@@ -1,5 +1,9 @@
 {
     "title": "Sakana no Iu Koto wo Kiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/83554.jpg",
+        "alt": "sakana-no-iu-koto-wo-kiku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "魚のいうことを聞く",

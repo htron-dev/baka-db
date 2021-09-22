@@ -1,12 +1,16 @@
 {
     "title": "Durarara!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/71772.jpg",
+        "alt": "durarara"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "デュラララ!!",
     "start_date": "2010-01-08",
     "end_date": "2010-01-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Uragiri no Yuuyake (裏切りの夕焼け; Sunset of Betrayal)\" by Theatre Brook (eps 1-12)",
+    "ending_song": "#1: \"Trust Me\" by Yuya Matsushita (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",
@@ -21,7 +25,7 @@
         },
         {
             "text": "Official Site",
-            "link": "http:// http://www.durarara.com/1st/"
+            "link": "http://www.durarara.com/1st/"
         },
         {
             "text": "AnimeDB",

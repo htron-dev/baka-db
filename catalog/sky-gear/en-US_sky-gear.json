@@ -1,5 +1,9 @@
 {
     "title": "Sky Gear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159311.jpg",
+        "alt": "sky-gear"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

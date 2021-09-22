@@ -1,5 +1,9 @@
 {
     "title": "Boku no Kirai na Otouto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189891.jpg",
+        "alt": "boku-no-kirai-na-otouto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

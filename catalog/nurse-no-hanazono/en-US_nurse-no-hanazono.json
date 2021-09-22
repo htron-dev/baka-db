@@ -1,5 +1,9 @@
 {
     "title": "Nurse no Hanazono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/122747.jpg",
+        "alt": "nurse-no-hanazono"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

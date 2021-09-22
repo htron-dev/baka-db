@@ -1,11 +1,15 @@
 {
     "title": "Levius",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1329/116479.jpg",
+        "alt": "levius"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "Levius -レビウス-",
     "start_date": "2019-11-28",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"wit and love\" by Nazome (謎女) (Netflix)",
+    "ending_song": "#1: \"child dancer\" by Nazome (謎女) (Netflix)",
     "rating": "None",
     "tags": [
         "action",

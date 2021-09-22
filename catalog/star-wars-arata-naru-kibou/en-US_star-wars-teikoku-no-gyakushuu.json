@@ -1,5 +1,9 @@
 {
     "title": "Star Wars: Teikoku no Gyakushuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/763.jpg",
+        "alt": "star-wars-teikoku-no-gyakushuu"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "STAR WARS 帝国の逆襲",

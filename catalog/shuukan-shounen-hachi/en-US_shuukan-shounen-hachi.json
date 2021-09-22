@@ -1,5 +1,9 @@
 {
     "title": "Shuukan Shounen Hachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210950.jpg",
+        "alt": "shuukan-shounen-hachi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "42",

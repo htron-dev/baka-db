@@ -1,5 +1,9 @@
 {
     "title": "Fantasy Land",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13914.jpg",
+        "alt": "fantasy-land"
+    },
     "type": "manhwa",
     "volumes": "2",
     "tags": [

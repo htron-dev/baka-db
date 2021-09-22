@@ -1,5 +1,9 @@
 {
     "title": "Sanshirou²",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/77121.jpg",
+        "alt": "sanshirou"
+    },
     "type": "manga",
     "volumes": "20",
     "original_name": "三四郎 2",

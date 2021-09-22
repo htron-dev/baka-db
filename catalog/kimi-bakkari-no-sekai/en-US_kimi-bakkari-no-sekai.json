@@ -1,5 +1,9 @@
 {
     "title": "Kimi bakkari no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195911.jpg",
+        "alt": "kimi-bakkari-no-sekai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

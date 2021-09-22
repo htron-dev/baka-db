@@ -1,12 +1,16 @@
 {
     "title": "Bakusou Kyoudai Let's &amp; Go MAX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/18301.jpg",
+        "alt": "bakusou-kyoudai-lets-amp-go-max"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "爆走兄弟レッツ＆ゴー!! ＭＡＸ",
     "start_date": "1998-01-05",
     "end_date": "1998-01-05",
     "opening_song": "\"BRAVE HEART\" by Koutetsu Kyoudai",
-    "ending_song": "#1",
+    "ending_song": "#1: \"My Name is Kabboi (My name is カーボーイ)\" by Hironobu Kageyama with KIDS MAX",
     "rating": "G - All Ages",
     "tags": [
         "action",

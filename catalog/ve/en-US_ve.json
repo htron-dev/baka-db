@@ -1,5 +1,9 @@
 {
     "title": "VE.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29583.jpg",
+        "alt": "ve"
+    },
     "type": "manga",
     "tags": [
         "fantasy",

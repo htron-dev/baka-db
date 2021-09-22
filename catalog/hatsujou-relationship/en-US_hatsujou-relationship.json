@@ -1,5 +1,9 @@
 {
     "title": "Hatsujou Relationship",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246960.jpg",
+        "alt": "hatsujou-relationship"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

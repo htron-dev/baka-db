@@ -1,5 +1,9 @@
 {
     "title": "Oshaka-sama mo Miteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229360.jpg",
+        "alt": "oshaka-sama-mo-miteru"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "80",

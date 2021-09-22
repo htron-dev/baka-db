@@ -1,5 +1,9 @@
 {
     "title": "Bad Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/8732.jpg",
+        "alt": "bad-blood"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

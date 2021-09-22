@@ -1,5 +1,9 @@
 {
     "title": "Suki, Tokoro ni yori Arashi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156380.jpg",
+        "alt": "suki-tokoro-ni-yori-arashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

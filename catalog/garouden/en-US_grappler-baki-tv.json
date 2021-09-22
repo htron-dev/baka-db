@@ -1,11 +1,15 @@
 {
     "title": "Grappler Baki (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/7604.jpg",
+        "alt": "grappler-baki-tv"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "グラップラー刃牙",
     "start_date": "2001-01-09",
     "end_date": "2001-01-09",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Ai Believe\" (哀 believe) by Project BAKI (eps 1-25)",
     "ending_song": "\"Reborn\" by Project Baki",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

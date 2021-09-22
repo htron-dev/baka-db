@@ -1,5 +1,9 @@
 {
     "title": "Rokubyou no Kugatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28267.jpg",
+        "alt": "rokubyou-no-kugatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "６秒の９月",

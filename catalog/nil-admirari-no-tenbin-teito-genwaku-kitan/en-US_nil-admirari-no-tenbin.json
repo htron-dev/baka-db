@@ -1,5 +1,9 @@
 {
     "title": "Nil Admirari no Tenbin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1669/90604.jpg",
+        "alt": "nil-admirari-no-tenbin"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ニル・アドミラリの天秤",

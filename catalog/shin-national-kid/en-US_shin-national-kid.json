@@ -1,5 +1,9 @@
 {
     "title": "Shin National Kid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19098.jpg",
+        "alt": "shin-national-kid"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

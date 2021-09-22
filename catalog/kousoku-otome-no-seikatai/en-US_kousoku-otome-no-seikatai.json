@@ -1,5 +1,9 @@
 {
     "title": "Kousoku Otome no Seikatai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152224.jpg",
+        "alt": "kousoku-otome-no-seikatai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

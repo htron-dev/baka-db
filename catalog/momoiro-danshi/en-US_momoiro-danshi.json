@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30362.jpg",
+        "alt": "momoiro-danshi"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "桃色男子 モモ&蜜柑パパ編",

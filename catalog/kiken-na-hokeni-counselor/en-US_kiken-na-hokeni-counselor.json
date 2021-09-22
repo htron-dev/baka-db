@@ -1,5 +1,9 @@
 {
     "title": "Kiken na Hokeni Counselor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30160.jpg",
+        "alt": "kiken-na-hokeni-counselor"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

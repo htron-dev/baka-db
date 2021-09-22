@@ -1,5 +1,9 @@
 {
     "title": "Kimoiman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190129.jpg",
+        "alt": "kimoiman"
+    },
     "type": "light-novel",
     "original_name": "キモイマン",
     "start_date": "2017-01-18",

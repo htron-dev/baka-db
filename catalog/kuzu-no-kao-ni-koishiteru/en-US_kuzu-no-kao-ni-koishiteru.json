@@ -1,5 +1,9 @@
 {
     "title": "Kuzu no Kao ni Koishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226081.jpg",
+        "alt": "kuzu-no-kao-ni-koishiteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Okitegami Kyouko no Bibouroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167490.jpg",
+        "alt": "okitegami-kyouko-no-bibouroku"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "19",

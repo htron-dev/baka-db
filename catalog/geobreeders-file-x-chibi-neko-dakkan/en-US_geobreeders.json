@@ -1,5 +1,9 @@
 {
     "title": "Geobreeders",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207506.jpg",
+        "alt": "geobreeders"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "66",

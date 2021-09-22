@@ -1,5 +1,9 @@
 {
     "title": "Eikyuu Shimei Onegaishimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154251.jpg",
+        "alt": "eikyuu-shimei-onegaishimasu"
+    },
     "type": "manga",
     "original_name": "永久指名おねがいします!",
     "tags": [

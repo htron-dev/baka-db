@@ -1,5 +1,9 @@
 {
     "title": "Bad Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129983.jpg",
+        "alt": "bad-moon"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "BAD MOON",

@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Mudaguchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236914.jpg",
+        "alt": "koi-ni-mudaguchi"
+    },
     "type": "manga",
     "original_name": "恋に無駄口",
     "start_date": "2019-09-05",

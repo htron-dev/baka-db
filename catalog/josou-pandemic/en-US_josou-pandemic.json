@@ -1,5 +1,9 @@
 {
     "title": "Josou Pandemic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241450.jpg",
+        "alt": "josou-pandemic"
+    },
     "type": "manga",
     "original_name": "女装パンデミック",
     "start_date": "2019-08-09",

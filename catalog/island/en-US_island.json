@@ -1,5 +1,9 @@
 {
     "title": "Island",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/510.jpg",
+        "alt": "island"
+    },
     "type": "manhwa",
     "volumes": "7",
     "chapters": "46",

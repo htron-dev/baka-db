@@ -1,5 +1,9 @@
 {
     "title": "Wittmann Senki 1943",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131889.jpg",
+        "alt": "wittmann-senki-1943"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ヴィットマン戦記 1943",

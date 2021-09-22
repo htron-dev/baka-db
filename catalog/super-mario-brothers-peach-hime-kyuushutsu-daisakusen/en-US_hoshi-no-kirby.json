@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Kirby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/22184.jpg",
+        "alt": "hoshi-no-kirby"
+    },
     "type": "tv-serie",
     "episodes": "100",
     "original_name": "星のカービィ",

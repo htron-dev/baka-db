@@ -1,5 +1,9 @@
 {
     "title": "Yokubou Strawberry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134785.jpg",
+        "alt": "yokubou-strawberry"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

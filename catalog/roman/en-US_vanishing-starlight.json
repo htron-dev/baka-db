@@ -1,5 +1,9 @@
 {
     "title": "Vanishing Starlight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181788.jpg",
+        "alt": "vanishing-starlight"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

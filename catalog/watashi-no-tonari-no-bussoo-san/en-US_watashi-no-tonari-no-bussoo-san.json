@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Tonari no Bussoo-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/143257.jpg",
+        "alt": "watashi-no-tonari-no-bussoo-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

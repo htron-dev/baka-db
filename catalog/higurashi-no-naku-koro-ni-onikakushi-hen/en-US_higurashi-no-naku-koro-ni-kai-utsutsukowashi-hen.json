@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni Kai: Utsutsukowashi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116527.jpg",
+        "alt": "higurashi-no-naku-koro-ni-kai-utsutsukowashi-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

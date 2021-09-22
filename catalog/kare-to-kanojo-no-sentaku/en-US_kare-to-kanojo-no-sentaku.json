@@ -1,5 +1,9 @@
 {
     "title": "Kare to Kanojo no Sentaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234649.jpg",
+        "alt": "kare-to-kanojo-no-sentaku"
+    },
     "type": "manga",
     "original_name": "カレとカノジョの選択",
     "start_date": "2020-03-31",

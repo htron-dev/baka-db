@@ -1,5 +1,9 @@
 {
     "title": "Yamete kudasai, Koishii desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171110.jpg",
+        "alt": "yamete-kudasai-koishii-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

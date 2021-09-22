@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Shoukanshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178493.jpg",
+        "alt": "kuro-no-shoukanshi"
+    },
     "type": "light-novel",
     "original_name": "黒の召喚士",
     "start_date": "2016-06-25",

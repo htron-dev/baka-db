@@ -1,5 +1,9 @@
 {
     "title": "Joshikousei ni Korosaretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171065.jpg",
+        "alt": "joshikousei-ni-korosaretai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: The Last Job",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/21995.jpg",
+        "alt": "lupin-iii-the-last-job"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン三世 The Last Job",

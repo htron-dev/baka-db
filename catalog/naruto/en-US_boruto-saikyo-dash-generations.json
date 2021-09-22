@@ -1,5 +1,9 @@
 {
     "title": "Boruto: Saikyo Dash Generations",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224554.jpg",
+        "alt": "boruto-saikyo-dash-generations"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

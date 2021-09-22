@@ -1,5 +1,9 @@
 {
     "title": "E'",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37496.jpg",
+        "alt": "e"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "e’(イーダッシュ)",

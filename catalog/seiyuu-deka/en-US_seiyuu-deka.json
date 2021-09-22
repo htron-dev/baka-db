@@ -1,5 +1,9 @@
 {
     "title": "Seiyuu Deka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/47957.jpg",
+        "alt": "seiyuu-deka"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "声優刑事",

@@ -1,11 +1,15 @@
 {
     "title": "Ajin OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/79906.jpg",
+        "alt": "ajin-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "亜人",
     "start_date": "2016-05-06",
     "end_date": "2016-05-06",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Yoru wa Nemureru kai? (夜は眠れるかい？)\" by flumpool (eps 1-2)",
     "ending_song": "\"HOW CLOSE YOU ARE\" by Mamoru Miyano",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

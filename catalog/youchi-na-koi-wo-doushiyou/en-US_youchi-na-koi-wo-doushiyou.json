@@ -1,5 +1,9 @@
 {
     "title": "Youchi na Koi wo Doushiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221822.jpg",
+        "alt": "youchi-na-koi-wo-doushiyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

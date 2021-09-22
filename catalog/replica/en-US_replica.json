@@ -1,5 +1,9 @@
 {
     "title": "Replica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/213012.jpg",
+        "alt": "replica"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

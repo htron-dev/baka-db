@@ -1,5 +1,9 @@
 {
     "title": "Mysterion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202932.jpg",
+        "alt": "mysterion"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "17",

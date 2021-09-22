@@ -1,5 +1,9 @@
 {
     "title": "Sorenari ni Shinken Nan desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192288.jpg",
+        "alt": "sorenari-ni-shinken-nan-desu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

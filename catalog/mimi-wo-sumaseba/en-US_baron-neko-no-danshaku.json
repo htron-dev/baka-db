@@ -1,5 +1,9 @@
 {
     "title": "Baron: Neko no Danshaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133417.jpg",
+        "alt": "baron-neko-no-danshaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

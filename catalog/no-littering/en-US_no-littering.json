@@ -1,5 +1,9 @@
 {
     "title": "No Littering",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/44760.jpg",
+        "alt": "no-littering"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "NO LITTERING",

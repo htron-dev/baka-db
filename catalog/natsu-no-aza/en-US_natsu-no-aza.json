@@ -1,5 +1,9 @@
 {
     "title": "Natsu no Aza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145405.jpg",
+        "alt": "natsu-no-aza"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

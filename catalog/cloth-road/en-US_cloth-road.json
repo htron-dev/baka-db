@@ -1,5 +1,9 @@
 {
     "title": "Cloth Road",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1255.jpg",
+        "alt": "cloth-road"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "83",

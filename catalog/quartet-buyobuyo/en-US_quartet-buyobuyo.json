@@ -1,5 +1,9 @@
 {
     "title": "Quartet Buyobuyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126165.jpg",
+        "alt": "quartet-buyobuyo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ぶよぶよカルテット",

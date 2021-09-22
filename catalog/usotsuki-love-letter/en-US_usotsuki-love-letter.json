@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki Love Letter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171399.jpg",
+        "alt": "usotsuki-love-letter"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

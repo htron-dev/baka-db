@@ -1,5 +1,9 @@
 {
     "title": "Samishii Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158233.jpg",
+        "alt": "samishii-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

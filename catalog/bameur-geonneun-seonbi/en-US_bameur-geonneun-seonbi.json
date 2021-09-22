@@ -1,5 +1,9 @@
 {
     "title": "Bameur Geonneun Seonbi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142073.jpg",
+        "alt": "bameur-geonneun-seonbi"
+    },
     "type": "manhwa",
     "volumes": "20",
     "chapters": "113",

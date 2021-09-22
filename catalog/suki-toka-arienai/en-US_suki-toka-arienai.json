@@ -1,5 +1,9 @@
 {
     "title": "Suki toka Arienai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224899.jpg",
+        "alt": "suki-toka-arienai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

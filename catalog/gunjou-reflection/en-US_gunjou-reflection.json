@@ -1,5 +1,9 @@
 {
     "title": "Gunjou Reflection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207867.jpg",
+        "alt": "gunjou-reflection"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

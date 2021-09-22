@@ -1,5 +1,9 @@
 {
     "title": "Iki wo Hisomete, Koi wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190890.jpg",
+        "alt": "iki-wo-hisomete-koi-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

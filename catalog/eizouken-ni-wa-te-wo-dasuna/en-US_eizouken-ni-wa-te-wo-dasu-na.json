@@ -1,5 +1,9 @@
 {
     "title": "Eizouken ni wa Te wo Dasu na!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1680/110451.jpg",
+        "alt": "eizouken-ni-wa-te-wo-dasu-na"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "映像研には手を出すな!",

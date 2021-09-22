@@ -1,5 +1,9 @@
 {
     "title": "Paris no Isabelle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/64331.jpg",
+        "alt": "paris-no-isabelle"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "巴里のイザベル",

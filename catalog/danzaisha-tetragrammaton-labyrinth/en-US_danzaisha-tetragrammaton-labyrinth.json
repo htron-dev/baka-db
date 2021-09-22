@@ -1,5 +1,9 @@
 {
     "title": "Danzaisha: Tetragrammaton Labyrinth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198707.jpg",
+        "alt": "danzaisha-tetragrammaton-labyrinth"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "36",

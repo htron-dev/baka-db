@@ -1,5 +1,9 @@
 {
     "title": "Tsukiyomi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179263.jpg",
+        "alt": "tsukiyomi"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "109",

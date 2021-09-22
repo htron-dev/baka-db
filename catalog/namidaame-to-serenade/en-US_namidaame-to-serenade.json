@@ -1,5 +1,9 @@
 {
     "title": "Namidaame to Serenade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170245.jpg",
+        "alt": "namidaame-to-serenade"
+    },
     "type": "manga",
     "original_name": "涙雨とセレナーデ",
     "start_date": "2014-11-25",

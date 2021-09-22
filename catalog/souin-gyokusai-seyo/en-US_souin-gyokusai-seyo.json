@@ -1,5 +1,9 @@
 {
     "title": "Souin Gyokusai seyo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186344.jpg",
+        "alt": "souin-gyokusai-seyo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

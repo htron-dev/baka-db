@@ -1,5 +1,9 @@
 {
     "title": "Kobayashi-san wa Jimi dakedo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216064.jpg",
+        "alt": "kobayashi-san-wa-jimi-dakedo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

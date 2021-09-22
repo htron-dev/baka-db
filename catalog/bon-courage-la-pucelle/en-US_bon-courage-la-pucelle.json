@@ -1,5 +1,9 @@
 {
     "title": "Bon Courage! La Pucelle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168492.jpg",
+        "alt": "bon-courage-la-pucelle"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Taka no Tsume: Tokyo Comic Con 2017 no Ouen-dan ni Shuunin Kettei!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/87301.jpg",
+        "alt": "taka-no-tsume-tokyo-comic-con-2017-no-ouen-dan-ni-shuunin-kettei"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "【鷹の爪団】東京コミコン 2017 の応援団に就任決定！",
@@ -21,7 +25,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Eagle_Talon_(anime"
+            "link": "https://en.wikipedia.org/wiki/Eagle_Talon_%28anime%29"
         }
     ]
 }

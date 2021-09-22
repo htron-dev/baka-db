@@ -1,5 +1,9 @@
 {
     "title": "Majisuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37798.jpg",
+        "alt": "majisuki"
+    },
     "type": "manga",
     "original_name": "マジスキ",
     "tags": [

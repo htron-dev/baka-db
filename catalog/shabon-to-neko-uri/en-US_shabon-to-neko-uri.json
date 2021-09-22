@@ -1,5 +1,9 @@
 {
     "title": "Shabon to Neko Uri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217100.jpg",
+        "alt": "shabon-to-neko-uri"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

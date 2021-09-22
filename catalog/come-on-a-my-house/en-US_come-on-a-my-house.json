@@ -1,5 +1,9 @@
 {
     "title": "Come On-a My House!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221868.jpg",
+        "alt": "come-on-a-my-house"
+    },
     "type": "manga",
     "original_name": "カモナ マイハウス！",
     "start_date": "2018-08-10",

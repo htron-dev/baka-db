@@ -1,5 +1,9 @@
 {
     "title": "Makeruna! Makendou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/53189.jpg",
+        "alt": "makeruna-makendou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "負けるな！魔剣道",

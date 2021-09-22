@@ -1,5 +1,9 @@
 {
     "title": "Hissatsu! Pai-pai Talk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195263.jpg",
+        "alt": "hissatsu-pai-pai-talk"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

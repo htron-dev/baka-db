@@ -1,5 +1,9 @@
 {
     "title": "I'll Encount!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/214524.jpg",
+        "alt": "ill-encount"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

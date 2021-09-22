@@ -1,5 +1,9 @@
 {
     "title": "M to N no Shouzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180610.jpg",
+        "alt": "m-to-n-no-shouzou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "34",

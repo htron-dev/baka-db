@@ -1,5 +1,9 @@
 {
     "title": "Ichigo Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18444.jpg",
+        "alt": "ichigo-monogatari"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "いちご物語",

@@ -1,5 +1,9 @@
 {
     "title": "Gokuto Jihen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170023.jpg",
+        "alt": "gokuto-jihen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

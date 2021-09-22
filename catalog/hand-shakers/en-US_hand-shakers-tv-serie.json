@@ -1,5 +1,9 @@
 {
     "title": "Hand Shakers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/83395.jpg",
+        "alt": "hand-shakers"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ハンドシェイカー",

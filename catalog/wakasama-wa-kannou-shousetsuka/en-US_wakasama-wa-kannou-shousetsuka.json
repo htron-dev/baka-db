@@ -1,5 +1,9 @@
 {
     "title": "Wakasama wa Kannou Shousetsuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167560.jpg",
+        "alt": "wakasama-wa-kannou-shousetsuka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "若様は官能小説家",

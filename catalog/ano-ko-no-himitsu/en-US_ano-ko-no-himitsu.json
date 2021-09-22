@@ -1,5 +1,9 @@
 {
     "title": "Ano Ko No Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7706.jpg",
+        "alt": "ano-ko-no-himitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

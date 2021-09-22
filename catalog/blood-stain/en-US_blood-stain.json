@@ -1,5 +1,9 @@
 {
     "title": "Blood Stain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31877.jpg",
+        "alt": "blood-stain"
+    },
     "type": "manga",
     "original_name": "ブラッドステイン 〜血液感染〜",
     "tags": [

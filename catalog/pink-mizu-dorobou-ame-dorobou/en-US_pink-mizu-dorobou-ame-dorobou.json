@@ -1,5 +1,9 @@
 {
     "title": "Pink Mizu Dorobou Ame Dorobou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1605/107687.jpg",
+        "alt": "pink-mizu-dorobou-ame-dorobou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ピンク みずドロボウあめドロボウ",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Pink_(manga"
+            "link": "http://en.wikipedia.org/wiki/Pink_%28manga%29"
         }
     ]
 }

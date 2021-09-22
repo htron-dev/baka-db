@@ -1,5 +1,9 @@
 {
     "title": "Photokano: Sweet Snap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88649.jpg",
+        "alt": "photokano-sweet-snap"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

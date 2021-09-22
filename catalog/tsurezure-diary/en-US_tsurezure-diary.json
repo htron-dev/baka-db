@@ -1,5 +1,9 @@
 {
     "title": "Tsurezure Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185959.jpg",
+        "alt": "tsurezure-diary"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

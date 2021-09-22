@@ -1,5 +1,9 @@
 {
     "title": "Aoiro Stripe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215254.jpg",
+        "alt": "aoiro-stripe"
+    },
     "type": "manga",
     "original_name": "青色ストライプ",
     "start_date": "2018-02-09",

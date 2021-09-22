@@ -1,5 +1,9 @@
 {
     "title": "Virtual Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/19046.jpg",
+        "alt": "virtual-lovers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

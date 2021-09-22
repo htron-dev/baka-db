@@ -1,5 +1,9 @@
 {
     "title": "Seitai Sample: Hoshizora ni Rachirareta Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163785.jpg",
+        "alt": "seitai-sample-hoshizora-ni-rachirareta-idol"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "性態サンプル～星空に拉致られたアイドル～",

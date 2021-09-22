@@ -1,5 +1,9 @@
 {
     "title": "Ginga Teikoku Kouboushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/104643.jpg",
+        "alt": "ginga-teikoku-kouboushi"
+    },
     "type": "manga",
     "original_name": "銀河帝国興亡史",
     "start_date": "2013-09-20",

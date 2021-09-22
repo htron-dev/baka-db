@@ -1,5 +1,9 @@
 {
     "title": "Big X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/82379.jpg",
+        "alt": "big-x"
+    },
     "type": "tv-serie",
     "episodes": "59",
     "original_name": "ビッグ X",

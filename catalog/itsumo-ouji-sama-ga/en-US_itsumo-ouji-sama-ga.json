@@ -1,5 +1,9 @@
 {
     "title": "Itsumo Ouji-sama ga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205393.jpg",
+        "alt": "itsumo-ouji-sama-ga"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

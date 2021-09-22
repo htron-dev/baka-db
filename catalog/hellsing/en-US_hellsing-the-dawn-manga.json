@@ -1,5 +1,9 @@
 {
     "title": "Hellsing: The Dawn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34893.jpg",
+        "alt": "hellsing-the-dawn"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "HELLSING THE DAWN",

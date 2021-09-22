@@ -1,5 +1,9 @@
 {
     "title": "Beast of East: Touhou Memairoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172308.jpg",
+        "alt": "beast-of-east-touhou-memairoku"
+    },
     "type": "manga",
     "original_name": "BEAST of EAST 東方眩暈錄",
     "start_date": "1998-07-19",

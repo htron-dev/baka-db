@@ -1,5 +1,9 @@
 {
     "title": "BAMBi Alternative",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37276.jpg",
+        "alt": "bam-bi-alternative"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "BAMBi 零 alternative",

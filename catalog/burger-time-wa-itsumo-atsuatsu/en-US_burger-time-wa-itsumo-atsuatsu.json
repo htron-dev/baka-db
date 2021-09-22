@@ -1,5 +1,9 @@
 {
     "title": "Burger Time wa Itsumo Atsuatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29763.jpg",
+        "alt": "burger-time-wa-itsumo-atsuatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

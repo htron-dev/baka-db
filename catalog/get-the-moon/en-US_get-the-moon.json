@@ -1,5 +1,9 @@
 {
     "title": "Get the Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/8774.jpg",
+        "alt": "get-the-moon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

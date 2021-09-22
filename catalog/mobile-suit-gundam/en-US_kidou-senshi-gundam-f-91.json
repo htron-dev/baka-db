@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam F91",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/74077.jpg",
+        "alt": "kidou-senshi-gundam-f-91"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

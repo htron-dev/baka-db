@@ -1,5 +1,9 @@
 {
     "title": "Seihoshu no Shinohara-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162999.jpg",
+        "alt": "seihoshu-no-shinohara-san"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni Gaiden: Nekogoroshi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134941.jpg",
+        "alt": "higurashi-no-naku-koro-ni-gaiden-nekogoroshi-hen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "2",

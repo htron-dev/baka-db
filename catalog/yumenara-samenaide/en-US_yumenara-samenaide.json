@@ -1,5 +1,9 @@
 {
     "title": "Yumenara Samenaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9985.jpg",
+        "alt": "yumenara-samenaide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

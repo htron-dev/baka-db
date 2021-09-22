@@ -1,5 +1,9 @@
 {
     "title": "Shinigami no Kyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163981.jpg",
+        "alt": "shinigami-no-kyou"
+    },
     "type": "light-novel",
     "volumes": "6",
     "original_name": "死神のキョウ",

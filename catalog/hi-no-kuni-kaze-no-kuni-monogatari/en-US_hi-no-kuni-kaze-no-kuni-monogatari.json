@@ -1,5 +1,9 @@
 {
     "title": "Hi no Kuni, Kaze no Kuni Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/122057.jpg",
+        "alt": "hi-no-kuni-kaze-no-kuni-monogatari"
+    },
     "type": "light-novel",
     "volumes": "13",
     "chapters": "137",

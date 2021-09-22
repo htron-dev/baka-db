@@ -1,5 +1,9 @@
 {
     "title": "Kurogo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27488.jpg",
+        "alt": "kurogo"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "クロ號",

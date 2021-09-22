@@ -1,5 +1,9 @@
 {
     "title": "Tonkatsu DJ Agetarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161582.jpg",
+        "alt": "tonkatsu-dj-agetarou"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "123",

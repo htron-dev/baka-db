@@ -1,5 +1,9 @@
 {
     "title": "Amai no ga Osuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83737.jpg",
+        "alt": "amai-no-ga-osuki"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "甘いのがお好き",

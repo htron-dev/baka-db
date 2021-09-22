@@ -1,12 +1,16 @@
 {
     "title": "Tate no Yuusha no Nariagari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg",
+        "alt": "tate-no-yuusha-no-nariagari"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "盾の勇者の成り上がり",
     "start_date": "2019-01-09",
     "end_date": "2019-01-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"RISE\" by MADKID (eps 2-12)",
+    "ending_song": "#1: \"RISE\" by MADKID (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

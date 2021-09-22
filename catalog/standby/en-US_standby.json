@@ -1,5 +1,9 @@
 {
     "title": "Standby.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95945.jpg",
+        "alt": "standby"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スタンバイ。",

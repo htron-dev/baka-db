@@ -1,5 +1,9 @@
 {
     "title": "Norakuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/74987.jpg",
+        "alt": "norakuro"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "のらくろ",

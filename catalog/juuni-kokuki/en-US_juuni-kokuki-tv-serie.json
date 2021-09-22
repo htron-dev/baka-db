@@ -1,5 +1,9 @@
 {
     "title": "Juuni Kokuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/50859.jpg",
+        "alt": "juuni-kokuki"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "十二国記",

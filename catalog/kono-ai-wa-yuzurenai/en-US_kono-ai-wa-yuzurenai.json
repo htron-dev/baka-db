@@ -1,5 +1,9 @@
 {
     "title": "Kono Ai wa Yuzurenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30214.jpg",
+        "alt": "kono-ai-wa-yuzurenai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "この愛は譲れない",

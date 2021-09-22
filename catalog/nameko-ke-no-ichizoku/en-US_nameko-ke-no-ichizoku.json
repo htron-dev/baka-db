@@ -1,5 +1,9 @@
 {
     "title": "Nameko-ke no Ichizoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/55085.jpg",
+        "alt": "nameko-ke-no-ichizoku"
+    },
     "type": "ova",
     "episodes": "13",
     "original_name": "なめこ家の一族",

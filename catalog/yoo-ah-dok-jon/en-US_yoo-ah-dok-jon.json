@@ -1,5 +1,9 @@
 {
     "title": "Yoo Ah Dok-Jon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14147.jpg",
+        "alt": "yoo-ah-dok-jon"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "15",

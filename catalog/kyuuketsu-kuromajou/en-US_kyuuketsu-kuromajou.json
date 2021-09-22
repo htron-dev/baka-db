@@ -1,5 +1,9 @@
 {
     "title": "Kyuuketsu! Kuromajou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241376.jpg",
+        "alt": "kyuuketsu-kuromajou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

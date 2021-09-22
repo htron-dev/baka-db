@@ -1,10 +1,14 @@
 {
     "title": "Gakuen Tokusou Hikaruon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/5861.jpg",
+        "alt": "gakuen-tokusou-hikaruon"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "学園特捜ヒカルオン",
     "start_date": "1987-01-28",
-    "opening_song": "\"Retsu Sora! Gakuen Tokusou Hikaruon",
+    "opening_song": "\"Retsu Sora! Gakuen Tokusou Hikaruon: Theme Of Hikaruon (裂空!学園特捜ヒカルオン-テーマ オブ ヒカルオン-)\" by Kumi Kaneko, Akira Kushida",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

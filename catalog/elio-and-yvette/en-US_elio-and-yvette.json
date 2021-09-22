@@ -1,5 +1,9 @@
 {
     "title": "Elio and Yvette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14615.jpg",
+        "alt": "elio-and-yvette"
+    },
     "type": "manhwa",
     "volumes": "10",
     "tags": [

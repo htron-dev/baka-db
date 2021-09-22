@@ -1,5 +1,9 @@
 {
     "title": "U-chan no Kobako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170939.jpg",
+        "alt": "u-chan-no-kobako"
+    },
     "type": "light-novel",
     "original_name": "うーちゃんの小箱",
     "start_date": "2016-02-01",

@@ -1,5 +1,9 @@
 {
     "title": "Battle Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172727.jpg",
+        "alt": "battle-club"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "47",

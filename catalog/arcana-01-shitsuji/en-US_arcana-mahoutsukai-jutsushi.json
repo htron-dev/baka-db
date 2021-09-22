@@ -1,5 +1,9 @@
 {
     "title": "Arcana - Mahoutsukai / Jutsushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37796.jpg",
+        "alt": "arcana-mahoutsukai-jutsushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

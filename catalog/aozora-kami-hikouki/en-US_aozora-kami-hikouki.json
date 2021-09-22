@@ -1,5 +1,9 @@
 {
     "title": "Aozora, Kami Hikouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26694.jpg",
+        "alt": "aozora-kami-hikouki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

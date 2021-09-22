@@ -1,5 +1,9 @@
 {
     "title": "Okusama wa Joshikousei (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/18925.jpg",
+        "alt": "okusama-wa-joshikousei-tv"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "おくさまは女子高生",

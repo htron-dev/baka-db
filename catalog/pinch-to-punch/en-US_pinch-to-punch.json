@@ -1,5 +1,9 @@
 {
     "title": "Pinch to Punch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/53315.jpg",
+        "alt": "pinch-to-punch"
+    },
     "type": "tv-serie",
     "episodes": "156",
     "original_name": "ピンチとパンチ",

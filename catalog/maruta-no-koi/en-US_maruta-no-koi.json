@@ -1,5 +1,9 @@
 {
     "title": "Maruta no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/250185.jpg",
+        "alt": "maruta-no-koi"
+    },
     "type": "manga",
     "original_name": "マルタの恋",
     "start_date": "2021-03-24",

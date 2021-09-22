@@ -1,5 +1,9 @@
 {
     "title": "Itsuka, Kitto Mou Sugu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38291.jpg",
+        "alt": "itsuka-kitto-mou-sugu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

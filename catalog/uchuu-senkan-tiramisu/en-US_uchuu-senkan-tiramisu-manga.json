@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Senkan Tiramisù",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200288.jpg",
+        "alt": "uchuu-senkan-tiramisu"
+    },
     "type": "manga",
     "original_name": "宇宙戦艦ティラミス",
     "start_date": "2015-10-09",

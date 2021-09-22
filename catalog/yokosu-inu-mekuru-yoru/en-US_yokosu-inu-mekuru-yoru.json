@@ -1,5 +1,9 @@
 {
     "title": "Yokosu Inu, Mekuru Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216086.jpg",
+        "alt": "yokosu-inu-mekuru-yoru"
+    },
     "type": "manga",
     "original_name": "寄越す犬、めくる夜",
     "start_date": "2013-04-25",

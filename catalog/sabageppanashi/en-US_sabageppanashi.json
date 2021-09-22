@@ -1,5 +1,9 @@
 {
     "title": "Sabageppanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236838.jpg",
+        "alt": "sabageppanashi"
+    },
     "type": "manga",
     "original_name": "サバゲっぱなし",
     "start_date": "2016-09-17",

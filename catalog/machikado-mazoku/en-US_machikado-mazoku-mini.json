@@ -1,5 +1,9 @@
 {
     "title": "Machikado Mazoku Mini",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1344/104455.jpg",
+        "alt": "machikado-mazoku-mini"
+    },
     "type": "ona",
     "episodes": "36",
     "original_name": "まちカドまぞく みに",

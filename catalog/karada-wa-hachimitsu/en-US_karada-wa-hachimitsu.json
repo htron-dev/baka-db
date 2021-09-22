@@ -1,5 +1,9 @@
 {
     "title": "Karada wa Hachimitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10324.jpg",
+        "alt": "karada-wa-hachimitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "カラダはハチミツ",

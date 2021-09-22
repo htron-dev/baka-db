@@ -1,5 +1,9 @@
 {
     "title": "Piyo Piyo Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12393.jpg",
+        "alt": "piyo-piyo-angel"
+    },
     "type": "manga",
     "original_name": "ぴよぴよ天使",
     "tags": [

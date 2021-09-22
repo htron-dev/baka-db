@@ -1,12 +1,16 @@
 {
     "title": "Azuki-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/10653.jpg",
+        "alt": "azuki-chan"
+    },
     "type": "tv-serie",
     "episodes": "117",
     "original_name": "あずきちゃん",
     "start_date": "1995-04-04",
     "end_date": "1995-04-04",
     "opening_song": "\"Suteki na Kimi\" by RAZZ MA TAZZ",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yoake (夜明け)\" by RAZZ MA TAZZ",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka no Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238972.jpg",
+        "alt": "mayonaka-no-alice"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

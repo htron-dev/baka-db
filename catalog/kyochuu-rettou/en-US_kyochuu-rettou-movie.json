@@ -1,5 +1,9 @@
 {
     "title": "Kyochuu Rettou Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1965/111416.jpg",
+        "alt": "kyochuu-rettou-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 巨蟲列島",

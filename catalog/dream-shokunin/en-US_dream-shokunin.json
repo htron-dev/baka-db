@@ -1,5 +1,9 @@
 {
     "title": "Dream Shokunin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21124.jpg",
+        "alt": "dream-shokunin"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ドリーム職人",

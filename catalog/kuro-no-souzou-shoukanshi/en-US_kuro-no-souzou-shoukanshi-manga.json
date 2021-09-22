@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Souzou Shoukanshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190245.jpg",
+        "alt": "kuro-no-souzou-shoukanshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Diet Daisakusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/66229.jpg",
+        "alt": "boku-no-diet-daisakusen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ぼくのダイエット大作戦",

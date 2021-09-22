@@ -1,5 +1,9 @@
 {
     "title": "Mugen no Ryvius: Light",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1120/105783.jpg",
+        "alt": "mugen-no-ryvius-light"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "無限のリヴァイアス ライト",

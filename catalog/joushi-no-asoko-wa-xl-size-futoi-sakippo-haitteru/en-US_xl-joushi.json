@@ -1,5 +1,9 @@
 {
     "title": "XL Joushi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1306/111409.jpg",
+        "alt": "xl-joushi"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "XL 上司。",

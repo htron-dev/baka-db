@@ -1,5 +1,9 @@
 {
     "title": "Shuumatsu Touring",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244075.jpg",
+        "alt": "shuumatsu-touring"
+    },
     "type": "manga",
     "original_name": "終末ツーリング",
     "start_date": "2020-09-26",

@@ -1,5 +1,9 @@
 {
     "title": "Choco-pa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35708.jpg",
+        "alt": "choco-pa"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ちょこぱッ!",
@@ -13,7 +17,6 @@
         "Pon",
         "Takahanada (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

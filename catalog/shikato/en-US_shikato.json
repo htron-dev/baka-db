@@ -1,5 +1,9 @@
 {
     "title": "Shikato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/88831.jpg",
+        "alt": "shikato"
+    },
     "type": "tv-serie",
     "episodes": "135",
     "original_name": "しかと",

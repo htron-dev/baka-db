@@ -1,12 +1,16 @@
 {
     "title": "Ueno-san wa Bukiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1874/111374.jpg",
+        "alt": "ueno-san-wa-bukiyou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "上野さんは不器用",
     "start_date": "2019-01-07",
     "end_date": "2019-01-07",
     "opening_song": "\"Hirameki Heartbeat (閃きハートビート)\" by Miku Itou",
-    "ending_song": "#1",
+    "ending_song": "#1: \"My Pace Science\" by Ueno (Yuu Serizawa), Tanaka (Aimi Tanaka), Yamashita (Akari Kageyama) (eps 2-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

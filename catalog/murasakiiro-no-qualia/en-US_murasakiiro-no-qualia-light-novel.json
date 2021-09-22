@@ -1,5 +1,9 @@
 {
     "title": "Murasakiiro no Qualia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130563.jpg",
+        "alt": "murasakiiro-no-qualia"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

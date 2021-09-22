@@ -1,5 +1,9 @@
 {
     "title": "Sword Gai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179170.jpg",
+        "alt": "sword-gai"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "33",

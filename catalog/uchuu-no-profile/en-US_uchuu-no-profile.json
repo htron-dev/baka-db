@@ -1,5 +1,9 @@
 {
     "title": "Uchuu no Profile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181733.jpg",
+        "alt": "uchuu-no-profile"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

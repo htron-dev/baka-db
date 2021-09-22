@@ -1,5 +1,9 @@
 {
     "title": "Grimm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1733/115834.jpg",
+        "alt": "grimm"
+    },
     "type": "ona",
     "original_name": "グリム",
     "rating": "None",

@@ -1,5 +1,9 @@
 {
     "title": "Ouji Romantica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/22017.jpg",
+        "alt": "ouji-romantica"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

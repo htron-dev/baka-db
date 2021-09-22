@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Nippon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34686.jpg",
+        "alt": "sayonara-nippon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

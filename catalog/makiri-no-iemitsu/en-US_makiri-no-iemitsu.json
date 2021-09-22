@@ -1,5 +1,9 @@
 {
     "title": "Makiri no Iemitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244568.jpg",
+        "alt": "makiri-no-iemitsu"
+    },
     "type": "manga",
     "original_name": "魔斬りの家光",
     "start_date": "2021-01-03",

@@ -1,5 +1,9 @@
 {
     "title": "Mokka, Mimodaeshi Mune no Uchi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3727.jpg",
+        "alt": "mokka-mimodaeshi-mune-no-uchi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

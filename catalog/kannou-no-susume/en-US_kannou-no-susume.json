@@ -1,5 +1,9 @@
 {
     "title": "Kannou no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164346.jpg",
+        "alt": "kannou-no-susume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Love na Doll!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121525.jpg",
+        "alt": "love-na-doll"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "らぶなどーる!",

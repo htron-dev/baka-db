@@ -1,5 +1,9 @@
 {
     "title": "Dark Craibe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11783.jpg",
+        "alt": "dark-craibe"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ダーク・クライブ",

@@ -1,5 +1,9 @@
 {
     "title": "Hana to Rakurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/88999.jpg",
+        "alt": "hana-to-rakurai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

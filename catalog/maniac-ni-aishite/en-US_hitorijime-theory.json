@@ -1,5 +1,9 @@
 {
     "title": "Hitorijime Theory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5933.jpg",
+        "alt": "hitorijime-theory"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

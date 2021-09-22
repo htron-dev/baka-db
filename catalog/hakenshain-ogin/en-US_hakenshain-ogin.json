@@ -1,5 +1,9 @@
 {
     "title": "Hakenshain Ogin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35556.jpg",
+        "alt": "hakenshain-ogin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "派遣社員お銀",

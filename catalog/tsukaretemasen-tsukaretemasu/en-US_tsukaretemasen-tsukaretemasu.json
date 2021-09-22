@@ -1,5 +1,9 @@
 {
     "title": "Tsukaretemasen Tsukaretemasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228193.jpg",
+        "alt": "tsukaretemasen-tsukaretemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

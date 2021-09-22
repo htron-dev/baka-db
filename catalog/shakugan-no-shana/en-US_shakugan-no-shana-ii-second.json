@@ -1,12 +1,16 @@
 {
     "title": "Shakugan no Shana II (Second)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/18669.jpg",
+        "alt": "shakugan-no-shana-ii-second"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "灼眼のシャナ II –Second–",
     "start_date": "2007-10-05",
     "end_date": "2007-10-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"JOINT\" by Mami Kawada (eps 1-15)",
+    "ending_song": "#1: \"Triangle\" by Kawada Mami (eps 1-15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Shoichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17576.jpg",
+        "alt": "shoichi"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "ショーイチ",

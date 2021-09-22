@@ -1,5 +1,9 @@
 {
     "title": "Clannad 4-koma Manga Gekijyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6798.jpg",
+        "alt": "clannad-4-koma-manga-gekijyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

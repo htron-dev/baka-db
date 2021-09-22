@@ -1,5 +1,9 @@
 {
     "title": "Hina's Lip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135427.jpg",
+        "alt": "hinas-lip"
+    },
     "type": "manga",
     "original_name": "陽菜'S リップ",
     "start_date": "2014-07-03",

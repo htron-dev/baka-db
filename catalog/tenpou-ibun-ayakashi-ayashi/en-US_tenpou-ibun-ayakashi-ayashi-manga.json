@@ -1,5 +1,9 @@
 {
     "title": "Tenpou Ibun Ayakashi Ayashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28124.jpg",
+        "alt": "tenpou-ibun-ayakashi-ayashi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

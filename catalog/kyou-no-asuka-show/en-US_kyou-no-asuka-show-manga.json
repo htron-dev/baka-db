@@ -1,5 +1,9 @@
 {
     "title": "Kyou no Asuka Show",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/132609.jpg",
+        "alt": "kyou-no-asuka-show"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "48",

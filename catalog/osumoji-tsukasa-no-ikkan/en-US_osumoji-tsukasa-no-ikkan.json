@@ -1,5 +1,9 @@
 {
     "title": "Osumoji!: Tsukasa no Ikkan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144267.jpg",
+        "alt": "osumoji-tsukasa-no-ikkan"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "96",

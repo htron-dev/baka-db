@@ -1,5 +1,9 @@
 {
     "title": "G-9",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/81190.jpg",
+        "alt": "g-9"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "G-九",

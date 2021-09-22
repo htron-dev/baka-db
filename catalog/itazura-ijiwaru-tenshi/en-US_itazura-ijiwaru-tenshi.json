@@ -1,5 +1,9 @@
 {
     "title": "Itazura - Ijiwaru Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10134.jpg",
+        "alt": "itazura-ijiwaru-tenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Beautiful",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130251.jpg",
+        "alt": "beautiful"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "12",

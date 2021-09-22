@@ -1,5 +1,9 @@
 {
     "title": "Vampire in the Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1181/109970.jpg",
+        "alt": "vampire-in-the-garden"
+    },
     "type": "ona",
     "original_name": "ヴァンパイヤ・イン・ザ・ガーデン",
     "start_date": "2021-01-20",

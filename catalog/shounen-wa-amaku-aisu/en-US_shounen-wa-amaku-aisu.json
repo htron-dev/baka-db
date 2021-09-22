@@ -1,5 +1,9 @@
 {
     "title": "Shounen wa Amaku Aisu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/88585.jpg",
+        "alt": "shounen-wa-amaku-aisu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

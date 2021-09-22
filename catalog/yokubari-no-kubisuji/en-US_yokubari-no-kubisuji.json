@@ -1,5 +1,9 @@
 {
     "title": "Yokubari no Kubisuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193008.jpg",
+        "alt": "yokubari-no-kubisuji"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

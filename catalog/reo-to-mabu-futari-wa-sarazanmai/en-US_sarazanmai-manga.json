@@ -1,5 +1,9 @@
 {
     "title": "Sarazanmai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/218364.jpg",
+        "alt": "sarazanmai"
+    },
     "type": "manga",
     "original_name": "さらざんまい",
     "start_date": "2019-05-17",

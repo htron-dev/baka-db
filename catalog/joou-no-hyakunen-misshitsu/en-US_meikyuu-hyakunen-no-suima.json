@@ -1,5 +1,9 @@
 {
     "title": "Meikyuu Hyakunen no Suima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41529.jpg",
+        "alt": "meikyuu-hyakunen-no-suima"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "迷宮百年の睡魔",

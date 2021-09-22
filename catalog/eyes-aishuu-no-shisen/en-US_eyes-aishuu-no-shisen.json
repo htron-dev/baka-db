@@ -1,5 +1,9 @@
 {
     "title": "Eyes: Aishuu no Shisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193094.jpg",
+        "alt": "eyes-aishuu-no-shisen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "15",

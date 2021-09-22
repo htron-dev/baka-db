@@ -1,5 +1,9 @@
 {
     "title": "Koakuma Café",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191408.jpg",
+        "alt": "koakuma-cafe"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

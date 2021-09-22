@@ -1,5 +1,9 @@
 {
     "title": "Chikyuu no Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19076.jpg",
+        "alt": "chikyuu-no-rakuen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

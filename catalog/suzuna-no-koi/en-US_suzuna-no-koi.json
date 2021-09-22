@@ -1,5 +1,9 @@
 {
     "title": "Suzuna no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224062.jpg",
+        "alt": "suzuna-no-koi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "37",

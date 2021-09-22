@@ -1,5 +1,9 @@
 {
     "title": "Boukenyarou Densetsu: Aventurier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40293.jpg",
+        "alt": "boukenyarou-densetsu-aventurier"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

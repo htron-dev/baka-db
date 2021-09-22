@@ -1,5 +1,9 @@
 {
     "title": "Din Dong Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1619/94886.jpg",
+        "alt": "din-dong-specials"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "癲噹",

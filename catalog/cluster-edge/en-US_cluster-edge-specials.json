@@ -1,5 +1,9 @@
 {
     "title": "Cluster Edge Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/4414.jpg",
+        "alt": "cluster-edge-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "クラスターエッジ ~Secret Episode~",

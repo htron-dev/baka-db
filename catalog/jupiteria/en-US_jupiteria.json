@@ -1,5 +1,9 @@
 {
     "title": "Jupiteria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234269.jpg",
+        "alt": "jupiteria"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

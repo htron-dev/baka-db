@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Kyu♡",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172070.jpg",
+        "alt": "tenshi-no-kyu♡"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

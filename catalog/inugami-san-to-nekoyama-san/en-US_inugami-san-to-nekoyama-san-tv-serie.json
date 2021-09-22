@@ -1,11 +1,15 @@
 {
     "title": "Inugami-san to Nekoyama-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/61921.jpg",
+        "alt": "inugami-san-to-nekoyama-san"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "犬神さんと猫山さん",
     "start_date": "2014-04-11",
     "end_date": "2014-04-11",
-    "ending_song": "\"Zettai♡Fukujuu Sengen (絶対 ♡ 服従宣言)\" by Yachiyo Inugami (CV",
+    "ending_song": "\"Zettai♡Fukujuu Sengen (絶対 ♡ 服従宣言)\" by Yachiyo Inugami (CV: Sumire Uesaka) x Suzu Nekoyama (CV: Nao Touyama)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

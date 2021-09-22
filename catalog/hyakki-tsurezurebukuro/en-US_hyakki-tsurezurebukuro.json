@@ -1,5 +1,9 @@
 {
     "title": "Hyakki Tsurezurebukuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196315.jpg",
+        "alt": "hyakki-tsurezurebukuro"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

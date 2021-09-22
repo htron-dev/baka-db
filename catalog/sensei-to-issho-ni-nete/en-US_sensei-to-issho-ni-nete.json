@@ -1,5 +1,9 @@
 {
     "title": "Sensei to Issho ni Nete?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44615.jpg",
+        "alt": "sensei-to-issho-ni-nete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

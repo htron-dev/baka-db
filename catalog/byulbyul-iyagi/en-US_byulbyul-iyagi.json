@@ -1,5 +1,9 @@
 {
     "title": "Byulbyul Iyagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/17743.jpg",
+        "alt": "byulbyul-iyagi"
+    },
     "type": "movie",
     "episodes": "6",
     "original_name": "별별 이야기 -차별에 대한 유쾌한 풍자-",

@@ -1,11 +1,15 @@
 {
     "title": "Rainbow Sentai Robin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/46831.jpg",
+        "alt": "rainbow-sentai-robin"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "レインボー戦隊ロビン",
     "start_date": "1966-04-23",
     "end_date": "1966-04-23",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Rainbow Sentai Robin (レインボー戦隊ロビン)\" by Rainbow Harmony (レインボー・ハーモニー)",
     "rating": "G - All Ages",
     "tags": [
         "action",

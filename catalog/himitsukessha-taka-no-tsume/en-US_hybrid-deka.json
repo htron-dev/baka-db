@@ -1,5 +1,9 @@
 {
     "title": "Hybrid Deka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/82881.jpg",
+        "alt": "hybrid-deka"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハイブリッド刑事(デカ)",

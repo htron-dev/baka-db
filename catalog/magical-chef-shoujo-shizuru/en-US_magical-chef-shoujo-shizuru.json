@@ -1,5 +1,9 @@
 {
     "title": "Magical Chef Shoujo Shizuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159809.jpg",
+        "alt": "magical-chef-shoujo-shizuru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

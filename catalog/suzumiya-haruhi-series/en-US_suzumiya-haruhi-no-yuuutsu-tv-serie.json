@@ -1,12 +1,16 @@
 {
     "title": "Suzumiya Haruhi no Yuuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/75901.jpg",
+        "alt": "suzumiya-haruhi-no-yuuutsu"
+    },
     "type": "tv-serie",
     "episodes": "14",
     "original_name": "涼宮ハルヒの憂鬱",
     "start_date": "2006-04-03",
     "end_date": "2006-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Koi no Mikuru Densetsu (恋のミクル伝説)\" by Yuko Goto as Mikuru Asahina (ep 1)",
+    "ending_song": "#1: \"Hare Hare Yukai (ハレ晴レユカイ)\" by Aya Hirano, Minori Chihara, and Yuko Goto (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

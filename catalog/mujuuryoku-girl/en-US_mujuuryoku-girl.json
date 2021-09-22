@@ -1,5 +1,9 @@
 {
     "title": "Mujuuryoku Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158016.jpg",
+        "alt": "mujuuryoku-girl"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

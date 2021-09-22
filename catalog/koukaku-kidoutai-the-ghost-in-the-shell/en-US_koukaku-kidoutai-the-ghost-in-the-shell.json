@@ -1,5 +1,9 @@
 {
     "title": "Koukaku Kidoutai: The Ghost in the Shell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155733.jpg",
+        "alt": "koukaku-kidoutai-the-ghost-in-the-shell"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Nanairo no Shinwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5945.jpg",
+        "alt": "nanairo-no-shinwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

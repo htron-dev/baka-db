@@ -1,5 +1,9 @@
 {
     "title": "Lovely Talk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34867.jpg",
+        "alt": "lovely-talk"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

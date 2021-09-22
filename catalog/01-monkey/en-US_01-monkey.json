@@ -1,5 +1,9 @@
 {
     "title": "01 Monkey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45917.jpg",
+        "alt": "01-monkey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

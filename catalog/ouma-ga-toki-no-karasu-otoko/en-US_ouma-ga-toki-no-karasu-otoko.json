@@ -1,5 +1,9 @@
 {
     "title": "Ouma ga Toki no Karasu Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20014.jpg",
+        "alt": "ouma-ga-toki-no-karasu-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

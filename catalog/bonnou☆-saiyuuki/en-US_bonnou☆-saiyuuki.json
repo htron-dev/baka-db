@@ -1,5 +1,9 @@
 {
     "title": "Bonnou☆Saiyuuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240190.jpg",
+        "alt": "bonnou☆-saiyuuki"
+    },
     "type": "manga",
     "original_name": "煩悩 ☆ 西遊記",
     "start_date": "2020-02-19",

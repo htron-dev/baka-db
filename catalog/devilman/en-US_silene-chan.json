@@ -1,5 +1,9 @@
 {
     "title": "Silene-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131327.jpg",
+        "alt": "silene-chan"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "シレーヌちゃん",

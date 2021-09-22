@@ -1,5 +1,9 @@
 {
     "title": "Mitsuketa Boku no Omega-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215389.jpg",
+        "alt": "mitsuketa-boku-no-omega-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

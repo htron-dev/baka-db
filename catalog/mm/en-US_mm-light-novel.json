@@ -1,5 +1,9 @@
 {
     "title": "MM!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/81137.jpg",
+        "alt": "mm"
+    },
     "type": "light-novel",
     "volumes": "12",
     "original_name": "えむえむっ!",

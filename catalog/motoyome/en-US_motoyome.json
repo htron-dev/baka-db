@@ -1,5 +1,9 @@
 {
     "title": "Motoyome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165127.jpg",
+        "alt": "motoyome"
+    },
     "type": "manga",
     "original_name": "モトヨメ",
     "start_date": "2013-11-01",

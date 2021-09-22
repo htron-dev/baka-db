@@ -1,5 +1,9 @@
 {
     "title": "Ark IX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197051.jpg",
+        "alt": "ark-ix"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "23",

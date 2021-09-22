@@ -1,5 +1,9 @@
 {
     "title": "Female Zhuge Liang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228568.jpg",
+        "alt": "female-zhuge-liang"
+    },
     "type": "manhwa",
     "original_name": "여자 제갈량",
     "start_date": "2014-11-08",

@@ -1,5 +1,9 @@
 {
     "title": "Air Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/87100.jpg",
+        "alt": "air-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "AIR 総集編",

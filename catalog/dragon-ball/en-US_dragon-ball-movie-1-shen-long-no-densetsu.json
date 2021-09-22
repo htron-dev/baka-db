@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball Movie 1: Shen Long no Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1854/90339.jpg",
+        "alt": "dragon-ball-movie-1-shen-long-no-densetsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラゴンボール 神龍の伝説",

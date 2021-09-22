@@ -1,5 +1,9 @@
 {
     "title": "Darwin's Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175477.jpg",
+        "alt": "darwins-game"
+    },
     "type": "manga",
     "original_name": "ダーウィンズゲーム",
     "start_date": "2012-12-12",

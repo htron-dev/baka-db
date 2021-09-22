@@ -1,5 +1,9 @@
 {
     "title": "Taiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35848.jpg",
+        "alt": "taiya"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "タイヤ",

@@ -1,5 +1,9 @@
 {
     "title": "Kawareta Junai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227485.jpg",
+        "alt": "kawareta-junai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "買われた純愛",

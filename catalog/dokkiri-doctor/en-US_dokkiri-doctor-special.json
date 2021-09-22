@@ -1,5 +1,9 @@
 {
     "title": "Dokkiri Doctor Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/44077.jpg",
+        "alt": "dokkiri-doctor-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ドッキリドクター 乙女の(秘)健康診断!!",

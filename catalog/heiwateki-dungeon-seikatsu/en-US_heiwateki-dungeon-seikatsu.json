@@ -1,5 +1,9 @@
 {
     "title": "Heiwateki Dungeon Seikatsu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235459.jpg",
+        "alt": "heiwateki-dungeon-seikatsu"
+    },
     "type": "manga",
     "original_name": "平和的ダンジョン生活。",
     "start_date": "2019-06-29",

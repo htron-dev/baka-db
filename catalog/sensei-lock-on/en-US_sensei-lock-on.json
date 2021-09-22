@@ -1,5 +1,9 @@
 {
     "title": "Sensei Lock On!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144823.jpg",
+        "alt": "sensei-lock-on"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "35",

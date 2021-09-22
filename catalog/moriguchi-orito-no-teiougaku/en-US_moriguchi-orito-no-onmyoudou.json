@@ -1,5 +1,9 @@
 {
     "title": "Moriguchi Orito no Onmyoudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164298.jpg",
+        "alt": "moriguchi-orito-no-onmyoudou"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "13",

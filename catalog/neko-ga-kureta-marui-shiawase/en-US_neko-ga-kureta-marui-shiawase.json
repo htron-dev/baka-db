@@ -1,5 +1,9 @@
 {
     "title": "Neko ga Kureta Marui Shiawase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/85878.jpg",
+        "alt": "neko-ga-kureta-marui-shiawase"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "猫がくれたまぁるいしあわせ",

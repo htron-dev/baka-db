@@ -1,5 +1,9 @@
 {
     "title": "Perman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/53743.jpg",
+        "alt": "perman"
+    },
     "type": "tv-serie",
     "episodes": "54",
     "original_name": "パーマン",

@@ -1,12 +1,16 @@
 {
     "title": "Bishoujo Senshi Sailor Moon S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1077/92346.jpg",
+        "alt": "bishoujo-senshi-sailor-moon-s"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "美少女戦士セーラームーン S",
     "start_date": "1994-03-19",
     "end_date": "1994-03-19",
     "opening_song": "\"Moonlight Densetsu\" by Moon Lips",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Otome no Policy\" by Yoko Ishida (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

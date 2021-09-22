@@ -1,5 +1,9 @@
 {
     "title": "GTO: Paradise Lost",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135283.jpg",
+        "alt": "gto-paradise-lost"
+    },
     "type": "manga",
     "original_name": "GTO パラダイス・ロスト",
     "start_date": "2014-04-14",

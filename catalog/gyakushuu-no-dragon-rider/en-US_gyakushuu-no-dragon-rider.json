@@ -1,5 +1,9 @@
 {
     "title": "Gyakushuu no Dragon Rider",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170724.jpg",
+        "alt": "gyakushuu-no-dragon-rider"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

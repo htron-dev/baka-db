@@ -1,5 +1,9 @@
 {
     "title": "Salad Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32396.jpg",
+        "alt": "salad-days"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "165",

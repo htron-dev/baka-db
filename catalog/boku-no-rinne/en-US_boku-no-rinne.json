@@ -1,5 +1,9 @@
 {
     "title": "Boku no Rinne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187553.jpg",
+        "alt": "boku-no-rinne"
+    },
     "type": "manga",
     "original_name": "ぼくの輪廻",
     "start_date": "2016-02-24",

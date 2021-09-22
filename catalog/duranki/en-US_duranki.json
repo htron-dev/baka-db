@@ -1,5 +1,9 @@
 {
     "title": "Duranki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221814.jpg",
+        "alt": "duranki"
+    },
     "type": "manga",
     "original_name": "ドゥルアンキ",
     "start_date": "2019-09-09",

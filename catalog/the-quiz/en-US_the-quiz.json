@@ -1,5 +1,9 @@
 {
     "title": "The Quiz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/90035.jpg",
+        "alt": "the-quiz"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

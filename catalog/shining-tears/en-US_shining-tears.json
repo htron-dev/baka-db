@@ -1,5 +1,9 @@
 {
     "title": "Shining Tears",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24560.jpg",
+        "alt": "shining-tears"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Gozen 3-ji no Iede",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224358.jpg",
+        "alt": "gozen-3-ji-no-iede"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

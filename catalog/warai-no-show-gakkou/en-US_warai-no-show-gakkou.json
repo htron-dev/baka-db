@@ -1,5 +1,9 @@
 {
     "title": "Warai no Show Gakkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/71661.jpg",
+        "alt": "warai-no-show-gakkou"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "笑いの SHOW 学校",

@@ -1,5 +1,9 @@
 {
     "title": "Frontier World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173890.jpg",
+        "alt": "frontier-world"
+    },
     "type": "light-novel",
     "original_name": "Frontier World",
     "start_date": "2016-03-30",

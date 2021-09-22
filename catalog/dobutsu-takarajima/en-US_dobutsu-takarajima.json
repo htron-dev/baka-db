@@ -1,5 +1,9 @@
 {
     "title": "Dobutsu Takarajima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19837.jpg",
+        "alt": "dobutsu-takarajima"
+    },
     "type": "manga",
     "chapters": "13",
     "original_name": "どうぶつ宝島",

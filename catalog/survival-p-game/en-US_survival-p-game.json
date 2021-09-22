@@ -1,5 +1,9 @@
 {
     "title": "Survival P-Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164461.jpg",
+        "alt": "survival-p-game"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

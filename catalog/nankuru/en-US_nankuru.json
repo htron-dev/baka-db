@@ -1,5 +1,9 @@
 {
     "title": "Nankuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159313.jpg",
+        "alt": "nankuru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

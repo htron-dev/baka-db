@@ -1,5 +1,9 @@
 {
     "title": "Nao Yazawa Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21220.jpg",
+        "alt": "nao-yazawa-collection"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

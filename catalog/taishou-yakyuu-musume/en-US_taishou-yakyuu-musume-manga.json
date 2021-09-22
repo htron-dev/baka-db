@@ -1,5 +1,9 @@
 {
     "title": "Taishou Yakyuu Musume.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156395.jpg",
+        "alt": "taishou-yakyuu-musume"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "32",

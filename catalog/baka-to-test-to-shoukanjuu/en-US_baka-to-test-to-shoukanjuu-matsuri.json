@@ -1,5 +1,9 @@
 {
     "title": "Baka to Test to Shoukanjuu: Matsuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/67303.jpg",
+        "alt": "baka-to-test-to-shoukanjuu-matsuri"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "バカとテストと召喚獣 ～祭～",

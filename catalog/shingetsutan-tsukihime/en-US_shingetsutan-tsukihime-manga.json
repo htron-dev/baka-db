@@ -1,5 +1,9 @@
 {
     "title": "Shingetsutan Tsukihime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147479.jpg",
+        "alt": "shingetsutan-tsukihime"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "74",

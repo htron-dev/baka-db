@@ -1,5 +1,9 @@
 {
     "title": "Tsurezurebiyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209018.jpg",
+        "alt": "tsurezurebiyori"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

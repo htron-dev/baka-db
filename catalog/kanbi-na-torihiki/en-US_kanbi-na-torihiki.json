@@ -1,5 +1,9 @@
 {
     "title": "Kanbi na Torihiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192168.jpg",
+        "alt": "kanbi-na-torihiki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

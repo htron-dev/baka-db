@@ -1,5 +1,9 @@
 {
     "title": "Tabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/81224.jpg",
+        "alt": "tabi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "旅",

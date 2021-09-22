@@ -1,5 +1,9 @@
 {
     "title": "Lucifer no Migite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/110209.jpg",
+        "alt": "lucifer-no-migite"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "66",

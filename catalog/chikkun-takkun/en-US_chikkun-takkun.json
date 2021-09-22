@@ -1,5 +1,9 @@
 {
     "title": "Chikkun Takkun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1486/114050.jpg",
+        "alt": "chikkun-takkun"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "チックン タックン",

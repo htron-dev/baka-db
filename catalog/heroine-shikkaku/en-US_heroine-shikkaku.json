@@ -1,5 +1,9 @@
 {
     "title": "Heroine Shikkaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37848.jpg",
+        "alt": "heroine-shikkaku"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "42",

@@ -1,5 +1,9 @@
 {
     "title": "Orc ga Okashitekurenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213714.jpg",
+        "alt": "orc-ga-okashitekurenai"
+    },
     "type": "manga",
     "original_name": "オークが犯してくれない！",
     "start_date": "2017-11-14",

@@ -1,5 +1,9 @@
 {
     "title": "Toppamono Taiyouden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159654.jpg",
+        "alt": "toppamono-taiyouden"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "突破者太陽傳",

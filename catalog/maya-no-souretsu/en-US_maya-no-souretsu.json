@@ -1,5 +1,9 @@
 {
     "title": "Maya no Souretsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85833.jpg",
+        "alt": "maya-no-souretsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Pink Gold",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/107843.jpg",
+        "alt": "pink-gold"
+    },
     "type": "manga",
     "original_name": "PINK GOLD ピンクゴールド",
     "start_date": "2012-08-28",

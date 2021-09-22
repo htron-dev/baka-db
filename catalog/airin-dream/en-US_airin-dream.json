@@ -1,5 +1,9 @@
 {
     "title": "Airin Dream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9643.jpg",
+        "alt": "airin-dream"
+    },
     "type": "manga",
     "volumes": "3",
     "tags": [

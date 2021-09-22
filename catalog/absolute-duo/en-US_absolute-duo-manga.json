@@ -1,5 +1,9 @@
 {
     "title": "Absolute Duo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148013.jpg",
+        "alt": "absolute-duo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Durarara!! RE;Dollars-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160114.jpg",
+        "alt": "durarara-re-dollars-hen"
+    },
     "type": "manga",
     "original_name": "デュラララ!! RE；ダラーズ編",
     "start_date": "2014-11-18",

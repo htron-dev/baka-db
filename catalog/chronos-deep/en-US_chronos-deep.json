@@ -1,5 +1,9 @@
 {
     "title": "Chronos: Deep",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172719.jpg",
+        "alt": "chronos-deep"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

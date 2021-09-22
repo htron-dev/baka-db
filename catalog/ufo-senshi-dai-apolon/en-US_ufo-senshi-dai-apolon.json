@@ -1,5 +1,9 @@
 {
     "title": "UFO Senshi Dai Apolon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/55187.jpg",
+        "alt": "ufo-senshi-dai-apolon"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ＵＦＯ戦士ダイアポロン",

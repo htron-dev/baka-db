@@ -1,5 +1,9 @@
 {
     "title": "Seishun Anime Zenshuu Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/78898.jpg",
+        "alt": "seishun-anime-zenshuu-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "青春アニメ全集",

@@ -1,5 +1,9 @@
 {
     "title": "Shinrei Tantei Yakumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155035.jpg",
+        "alt": "shinrei-tantei-yakumo"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "65",

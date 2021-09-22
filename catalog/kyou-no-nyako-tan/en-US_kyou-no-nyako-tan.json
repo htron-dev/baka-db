@@ -1,5 +1,9 @@
 {
     "title": "Kyou no Nyako-tan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237078.jpg",
+        "alt": "kyou-no-nyako-tan"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "きょうのにゃこ譚",

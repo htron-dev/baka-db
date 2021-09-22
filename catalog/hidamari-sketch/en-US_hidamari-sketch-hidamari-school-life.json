@@ -1,5 +1,9 @@
 {
     "title": "Hidamari Sketch: Hidamari School Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234399.jpg",
+        "alt": "hidamari-sketch-hidamari-school-life"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ひだまりスケッチ ひだまり School Life",

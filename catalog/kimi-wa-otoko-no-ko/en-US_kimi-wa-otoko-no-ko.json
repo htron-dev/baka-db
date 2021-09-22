@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Otoko no Ko.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/86821.jpg",
+        "alt": "kimi-wa-otoko-no-ko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

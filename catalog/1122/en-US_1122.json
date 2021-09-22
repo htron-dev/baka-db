@@ -1,5 +1,9 @@
 {
     "title": "1122",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204921.jpg",
+        "alt": "1122"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "42",

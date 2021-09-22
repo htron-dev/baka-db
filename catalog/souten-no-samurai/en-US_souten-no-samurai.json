@@ -1,5 +1,9 @@
 {
     "title": "Souten no Samurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161047.jpg",
+        "alt": "souten-no-samurai"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

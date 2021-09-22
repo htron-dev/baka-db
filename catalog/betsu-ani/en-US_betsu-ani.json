@@ -1,5 +1,9 @@
 {
     "title": "Betsu Ani!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170238.jpg",
+        "alt": "betsu-ani"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

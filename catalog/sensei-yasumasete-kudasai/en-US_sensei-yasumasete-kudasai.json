@@ -1,5 +1,9 @@
 {
     "title": "Sensei! Yasumasete Kudasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228083.jpg",
+        "alt": "sensei-yasumasete-kudasai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "36",

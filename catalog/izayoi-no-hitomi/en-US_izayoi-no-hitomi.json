@@ -1,5 +1,9 @@
 {
     "title": "Izayoi no Hitomi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/65871.jpg",
+        "alt": "izayoi-no-hitomi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "十六夜の瞳",

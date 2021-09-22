@@ -1,5 +1,9 @@
 {
     "title": "Tadatada Suki to Iu dake de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224169.jpg",
+        "alt": "tadatada-suki-to-iu-dake-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

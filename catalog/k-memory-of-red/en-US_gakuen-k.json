@@ -1,5 +1,9 @@
 {
     "title": "Gakuen K",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133607.jpg",
+        "alt": "gakuen-k"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

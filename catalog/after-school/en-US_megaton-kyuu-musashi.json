@@ -1,5 +1,9 @@
 {
     "title": "Megaton-kyuu Musashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1317/116693.jpg",
+        "alt": "megaton-kyuu-musashi"
+    },
     "type": "tv-serie",
     "original_name": "メガトン級ムサシ",
     "start_date": "2021-10-01",

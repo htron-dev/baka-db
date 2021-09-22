@@ -1,5 +1,9 @@
 {
     "title": "Doraemon (2005) Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1969/109880.jpg",
+        "alt": "doraemon-2005-specials"
+    },
     "type": "special",
     "original_name": "ドラえもん (2005) Specials",
     "start_date": "2005-04-15",

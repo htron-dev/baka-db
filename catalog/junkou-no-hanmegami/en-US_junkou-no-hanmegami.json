@@ -1,5 +1,9 @@
 {
     "title": "Junkou no Hanmegami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124307.jpg",
+        "alt": "junkou-no-hanmegami"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "巡幸の半女神",

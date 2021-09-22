@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Kono Te wo Hanarerunara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14543.jpg",
+        "alt": "kimi-ga-kono-te-wo-hanarerunara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Kibun wa Joujou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15295.jpg",
+        "alt": "kibun-wa-joujou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

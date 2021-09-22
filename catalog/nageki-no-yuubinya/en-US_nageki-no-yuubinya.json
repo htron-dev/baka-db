@@ -1,5 +1,9 @@
 {
     "title": "Nageki no Yuubinya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21286.jpg",
+        "alt": "nageki-no-yuubinya"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ナゲキの幽便屋",

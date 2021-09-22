@@ -1,5 +1,9 @@
 {
     "title": "Monster Musume no Iru Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161910.jpg",
+        "alt": "monster-musume-no-iru-nichijou"
+    },
     "type": "manga",
     "original_name": "モンスター娘のいる日常",
     "start_date": "2012-03-19",

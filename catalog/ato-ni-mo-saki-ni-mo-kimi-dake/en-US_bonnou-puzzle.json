@@ -1,5 +1,9 @@
 {
     "title": "Bonnou Puzzle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146967.jpg",
+        "alt": "bonnou-puzzle"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "煩悩パズル",

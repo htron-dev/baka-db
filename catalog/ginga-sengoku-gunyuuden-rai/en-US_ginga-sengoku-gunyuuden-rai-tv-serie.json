@@ -1,5 +1,9 @@
 {
     "title": "Ginga Sengoku Gunyuuden Rai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/30829.jpg",
+        "alt": "ginga-sengoku-gunyuuden-rai"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "銀河戦国群雄伝ライ",

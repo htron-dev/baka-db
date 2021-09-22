@@ -1,5 +1,9 @@
 {
     "title": "Shirobako Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1328/111351.jpg",
+        "alt": "shirobako-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 SHIROBAKO",

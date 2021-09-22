@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai Sally (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/47225.jpg",
+        "alt": "mahoutsukai-sally-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "魔法使いサリー",

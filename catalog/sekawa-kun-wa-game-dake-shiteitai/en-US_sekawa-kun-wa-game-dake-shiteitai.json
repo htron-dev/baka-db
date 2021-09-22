@@ -1,5 +1,9 @@
 {
     "title": "Sekawa-kun wa Game dake Shiteitai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185687.jpg",
+        "alt": "sekawa-kun-wa-game-dake-shiteitai"
+    },
     "type": "light-novel",
     "original_name": "瀬川くんはゲームだけしていたい。",
     "start_date": "2016-12-15",

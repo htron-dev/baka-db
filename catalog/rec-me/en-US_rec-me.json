@@ -1,5 +1,9 @@
 {
     "title": "Rec Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247826.jpg",
+        "alt": "rec-me"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

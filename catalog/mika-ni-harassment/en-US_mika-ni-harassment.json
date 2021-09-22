@@ -1,5 +1,9 @@
 {
     "title": "Mika ni Harassment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/112465.jpg",
+        "alt": "mika-ni-harassment"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

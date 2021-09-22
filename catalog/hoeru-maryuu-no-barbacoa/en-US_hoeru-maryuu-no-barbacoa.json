@@ -1,5 +1,9 @@
 {
     "title": "Hoeru Maryuu no Barbacoa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140205.jpg",
+        "alt": "hoeru-maryuu-no-barbacoa"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "37",

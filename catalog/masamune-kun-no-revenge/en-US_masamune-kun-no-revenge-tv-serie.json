@@ -1,12 +1,16 @@
 {
     "title": "Masamune-kun no Revenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/83709.jpg",
+        "alt": "masamune-kun-no-revenge"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "政宗くんのリベンジ",
     "start_date": "2017-01-05",
     "end_date": "2017-01-05",
     "opening_song": "\"Wagamama MIRROR HEART (ワガママ MIRROR HEART)\" by Ayaka Ohashi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Elemental World\" by ChouCho",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Koucha Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18952.jpg",
+        "alt": "koucha-ouji"
+    },
     "type": "manga",
     "volumes": "25",
     "original_name": "紅茶王子",

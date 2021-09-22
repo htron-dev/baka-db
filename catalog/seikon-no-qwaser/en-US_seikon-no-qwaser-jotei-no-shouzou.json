@@ -1,11 +1,15 @@
 {
     "title": "Seikon no Qwaser: Jotei no Shouzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/27178.jpg",
+        "alt": "seikon-no-qwaser-jotei-no-shouzou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "聖痕のクェイサー 女帝の肖像",
     "start_date": "2010-10-20",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Errand\" by faylan",
+    "ending_song": "#1: \"Passionate squall\" by Ayumi Fujimura, Aki Toyosaki, Minori Chihara, Aya Hirano and Yoko Hikasa",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

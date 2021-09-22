@@ -1,5 +1,9 @@
 {
     "title": "Shuna no Tabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70661.jpg",
+        "alt": "shuna-no-tabi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Hakuouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194858.jpg",
+        "alt": "hakuouki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

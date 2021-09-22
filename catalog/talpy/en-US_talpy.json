@@ -1,5 +1,9 @@
 {
     "title": "Talpy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/70845.jpg",
+        "alt": "talpy"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "タルピー",

@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Pikachu no Fuyuyasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1689/108233.jpg",
+        "alt": "pokemon-pikachu-no-fuyuyasumi"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ポケットモンスター ピカチュウのふゆやすみ",

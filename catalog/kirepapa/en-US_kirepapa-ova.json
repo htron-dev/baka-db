@@ -1,5 +1,9 @@
 {
     "title": "Kirepapa.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/31421.jpg",
+        "alt": "kirepapa"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "キレパパ。",

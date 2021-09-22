@@ -1,5 +1,9 @@
 {
     "title": "Kaiketsu Tamagon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/51189.jpg",
+        "alt": "kaiketsu-tamagon"
+    },
     "type": "tv-serie",
     "episodes": "195",
     "original_name": "かいけつタマゴン",

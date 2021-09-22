@@ -1,5 +1,9 @@
 {
     "title": "Shokugeki no Souma: L'étoile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182528.jpg",
+        "alt": "shokugeki-no-souma-letoile"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "50",

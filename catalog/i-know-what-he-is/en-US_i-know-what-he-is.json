@@ -1,5 +1,9 @@
 {
     "title": "I Know What He Is",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26320.jpg",
+        "alt": "i-know-what-he-is"
+    },
     "type": "manhwa",
     "chapters": "1",
     "original_name": "나는 그 남자가 누구인지 알고 있다",

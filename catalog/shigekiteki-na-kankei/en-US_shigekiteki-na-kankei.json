@@ -1,5 +1,9 @@
 {
     "title": "Shigekiteki na Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139525.jpg",
+        "alt": "shigekiteki-na-kankei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

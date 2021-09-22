@@ -1,5 +1,9 @@
 {
     "title": "Thousand Windows, Thousand Doors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201653.jpg",
+        "alt": "thousand-windows-thousand-doors"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

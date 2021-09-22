@@ -1,5 +1,9 @@
 {
     "title": "Unmeitte Koto ni Shimasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84621.jpg",
+        "alt": "unmeitte-koto-ni-shimasen-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

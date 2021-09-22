@@ -1,5 +1,9 @@
 {
     "title": "Hoshifuru Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9166.jpg",
+        "alt": "hoshifuru-miko"
+    },
     "type": "manga",
     "original_name": "星フル巫女",
     "tags": [

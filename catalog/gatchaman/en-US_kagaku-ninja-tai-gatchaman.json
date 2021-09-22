@@ -1,12 +1,16 @@
 {
     "title": "Kagaku Ninja-tai Gatchaman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/55411.jpg",
+        "alt": "kagaku-ninja-tai-gatchaman"
+    },
     "type": "tv-serie",
     "episodes": "105",
     "original_name": "科学忍者隊ガッチャマン",
     "start_date": "1972-10-01",
     "end_date": "1972-10-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Taosozu! Galactor (Destroy Galactor!)\" by Columbia Yurikago-kai (eps 1-22)",
+    "ending_song": "#1: \"Gatchaman no Uta (Gatchaman Song)\" by Masato Shimon (eps 1-22)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

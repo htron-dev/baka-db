@@ -1,5 +1,9 @@
 {
     "title": "Fushigi no Kuni no Miyuki-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161931.jpg",
+        "alt": "fushigi-no-kuni-no-miyuki-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

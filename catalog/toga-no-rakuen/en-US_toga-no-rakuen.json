@@ -1,5 +1,9 @@
 {
     "title": "Toga no Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185340.jpg",
+        "alt": "toga-no-rakuen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

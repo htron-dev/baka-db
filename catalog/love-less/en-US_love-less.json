@@ -1,5 +1,9 @@
 {
     "title": "Love Less",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13505.jpg",
+        "alt": "love-less"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

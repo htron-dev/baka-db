@@ -1,5 +1,9 @@
 {
     "title": "30-Minute Walk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247321.jpg",
+        "alt": "30-minute-walk"
+    },
     "type": "manhwa",
     "original_name": "걸어서 30분",
     "start_date": "2017-09-22",

@@ -1,5 +1,9 @@
 {
     "title": "Goshiki×Sweets",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42548.jpg",
+        "alt": "goshiki-sweets"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "五色 × スウィーツ",

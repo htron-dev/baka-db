@@ -1,5 +1,9 @@
 {
     "title": "Igano Kabamaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151850.jpg",
+        "alt": "igano-kabamaru"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "伊賀野カバ丸",

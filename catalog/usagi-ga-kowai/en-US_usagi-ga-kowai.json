@@ -1,5 +1,9 @@
 {
     "title": "Usagi ga Kowai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/59765.jpg",
+        "alt": "usagi-ga-kowai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "兎ガ怕イ",

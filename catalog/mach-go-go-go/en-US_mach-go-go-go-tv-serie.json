@@ -1,5 +1,9 @@
 {
     "title": "Mach GoGoGo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/40191.jpg",
+        "alt": "mach-go-go-go"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "マッハＧｏＧｏＧｏ",

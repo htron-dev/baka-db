@@ -1,5 +1,9 @@
 {
     "title": "Meitantei Conan: Zero no Tea Time",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211287.jpg",
+        "alt": "meitantei-conan-zero-no-tea-time"
+    },
     "type": "manga",
     "original_name": "名探偵コナン ゼロの日常〈ティータイム〉",
     "start_date": "2018-05-09",

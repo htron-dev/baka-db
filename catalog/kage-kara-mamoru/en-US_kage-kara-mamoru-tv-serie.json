@@ -1,5 +1,9 @@
 {
     "title": "Kage kara Mamoru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/20040.jpg",
+        "alt": "kage-kara-mamoru"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "陰からマモル！",

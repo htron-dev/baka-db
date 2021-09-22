@@ -1,5 +1,9 @@
 {
     "title": "Todo Kare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152102.jpg",
+        "alt": "todo-kare"
+    },
     "type": "manga",
     "chapters": "77",
     "original_name": "トド彼",

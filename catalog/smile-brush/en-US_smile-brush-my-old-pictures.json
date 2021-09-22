@@ -1,5 +1,9 @@
 {
     "title": "Smile Brush: My Old Pictures",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167426.jpg",
+        "alt": "smile-brush-my-old-pictures"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "48",

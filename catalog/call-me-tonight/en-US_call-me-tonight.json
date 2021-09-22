@@ -1,5 +1,9 @@
 {
     "title": "Call Me Tonight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/18490.jpg",
+        "alt": "call-me-tonight"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "コール・ミー・トゥナイト",

@@ -1,5 +1,9 @@
 {
     "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127583.jpg",
+        "alt": "rurouni-kenshin-meiji-kenkaku-romantan"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "259",

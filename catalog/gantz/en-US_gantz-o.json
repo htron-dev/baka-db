@@ -1,8 +1,12 @@
 {
     "title": "Gantz:O",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/81255.jpg",
+        "alt": "gantz-o"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "GANTZ",
+    "original_name": "GANTZ:O",
     "start_date": "2016-10-14",
     "ending_song": "\"Ningen Video (人間ビデオ)\" by The Dresscodes (ドレスコーズ)",
     "rating": "R+ - Mild Nudity",

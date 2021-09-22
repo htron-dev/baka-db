@@ -1,5 +1,9 @@
 {
     "title": "Bibury",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1593/95002.jpg",
+        "alt": "bibury"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "バイブリー",

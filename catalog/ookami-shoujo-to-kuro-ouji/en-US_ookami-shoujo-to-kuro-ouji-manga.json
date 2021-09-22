@@ -1,5 +1,9 @@
 {
     "title": "Ookami Shoujo to Kuro Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163543.jpg",
+        "alt": "ookami-shoujo-to-kuro-ouji"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "67",

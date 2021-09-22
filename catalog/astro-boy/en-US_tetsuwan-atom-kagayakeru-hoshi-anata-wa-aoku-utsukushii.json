@@ -1,8 +1,12 @@
 {
     "title": "Tetsuwan Atom: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/47835.jpg",
+        "alt": "tetsuwan-atom-kagayakeru-hoshi-anata-wa-aoku-utsukushii"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "Tetsuwan Atom 鉄腕アトム 特別編",
+    "original_name": "Tetsuwan Atom 鉄腕アトム 特別編: 輝ける地球 ~あなたは青く、美しい...~",
     "start_date": "2004-02-07",
     "rating": "G - All Ages",
     "tags": [

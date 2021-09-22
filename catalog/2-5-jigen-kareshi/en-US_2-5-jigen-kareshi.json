@@ -1,5 +1,9 @@
 {
     "title": "2.5-jigen Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157887.jpg",
+        "alt": "2-5-jigen-kareshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

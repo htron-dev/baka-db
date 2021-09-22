@@ -1,5 +1,9 @@
 {
     "title": "Umineko no Naku Koro ni Chiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185817.jpg",
+        "alt": "umineko-no-naku-koro-ni-chiru"
+    },
     "type": "light-novel",
     "volumes": "7",
     "original_name": "うみねこのなく頃に 散",

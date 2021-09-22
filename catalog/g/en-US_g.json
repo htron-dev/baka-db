@@ -1,5 +1,9 @@
 {
     "title": "G",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180764.jpg",
+        "alt": "g"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

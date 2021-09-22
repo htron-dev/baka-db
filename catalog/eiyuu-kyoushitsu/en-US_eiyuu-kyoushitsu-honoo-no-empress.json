@@ -1,5 +1,9 @@
 {
     "title": "Eiyuu Kyoushitsu: Honoo no Empress",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166832.jpg",
+        "alt": "eiyuu-kyoushitsu-honoo-no-empress"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

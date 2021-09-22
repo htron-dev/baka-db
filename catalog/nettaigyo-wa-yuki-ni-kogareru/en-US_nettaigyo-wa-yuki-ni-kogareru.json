@@ -1,5 +1,9 @@
 {
     "title": "Nettaigyo wa Yuki ni Kogareru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248056.jpg",
+        "alt": "nettaigyo-wa-yuki-ni-kogareru"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "34",

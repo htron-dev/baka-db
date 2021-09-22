@@ -1,12 +1,16 @@
 {
     "title": "Charlotte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/74683.jpg",
+        "alt": "charlotte"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "Charlotte（シャーロット）",
     "start_date": "2015-07-05",
     "end_date": "2015-07-05",
     "opening_song": "\"Bravely You\" by Lia (eps 2-9, 12-13)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yake Ochinai Tsubasa (灼け落ちない翼)\" by Aoi Tada (eps 2, 5, 7-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Charlotte_(anime"
+            "link": "http://en.wikipedia.org/wiki/Charlotte_%28anime%29"
         }
     ]
 }

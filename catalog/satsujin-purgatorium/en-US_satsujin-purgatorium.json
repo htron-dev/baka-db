@@ -1,5 +1,9 @@
 {
     "title": "Satsujin Purgatorium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234244.jpg",
+        "alt": "satsujin-purgatorium"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

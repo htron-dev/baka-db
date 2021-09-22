@@ -1,5 +1,9 @@
 {
     "title": "Boku ga Aishite Ageru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73529.jpg",
+        "alt": "boku-ga-aishite-ageru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

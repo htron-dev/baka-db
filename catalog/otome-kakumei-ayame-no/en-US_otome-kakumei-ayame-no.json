@@ -1,5 +1,9 @@
 {
     "title": "Otome Kakumei Ayame no!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163225.jpg",
+        "alt": "otome-kakumei-ayame-no"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "22",

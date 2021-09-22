@@ -1,5 +1,9 @@
 {
     "title": "Ore no Suki na Ko ga Buracon sugiru!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159547.jpg",
+        "alt": "ore-no-suki-na-ko-ga-buracon-sugiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

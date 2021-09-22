@@ -1,12 +1,16 @@
 {
     "title": "Inazuma Eleven Go: Galaxy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/49743.jpg",
+        "alt": "inazuma-eleven-go-galaxy"
+    },
     "type": "tv-serie",
     "episodes": "43",
     "original_name": "イナズマイレブンＧＯ ギャラクシー",
     "start_date": "2013-05-08",
     "end_date": "2013-05-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Gachi de Katouze! (ガチで勝とうゼッ!)\" by T-Pistonz+KMC (eps 1-17)",
+    "ending_song": "#1: \"Katte ni Cinderella (勝手にシンデレラ)\" by Sorano Aoi (CV: Kitahara Sayaka) and Morimura Konoha (CV: Yuuki Aoi) (eps 1-17)",
     "rating": "G - All Ages",
     "tags": [
         "shounen",

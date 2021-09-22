@@ -1,5 +1,9 @@
 {
     "title": "Hakaishin Ruruko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131361.jpg",
+        "alt": "hakaishin-ruruko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Akatsuki no Ageha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76665.jpg",
+        "alt": "akatsuki-no-ageha"
+    },
     "type": "manga",
     "original_name": "朱月のアゲハ",
     "start_date": "2011-04-26",

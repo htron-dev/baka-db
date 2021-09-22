@@ -1,12 +1,16 @@
 {
     "title": "High School Fleet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/79670.jpg",
+        "alt": "high-school-fleet"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ハイスクール・フリート",
     "start_date": "2016-04-10",
     "end_date": "2016-04-10",
     "opening_song": "\"High Free Spirits\" by TrySail (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"High Free Spirits\" by TrySail (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

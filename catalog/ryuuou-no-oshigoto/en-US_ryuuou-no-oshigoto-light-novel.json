@@ -1,5 +1,9 @@
 {
     "title": "Ryuuou no Oshigoto!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201836.jpg",
+        "alt": "ryuuou-no-oshigoto"
+    },
     "type": "light-novel",
     "original_name": "りゅうおうのおしごと！",
     "start_date": "2015-09-15",

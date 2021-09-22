@@ -1,5 +1,9 @@
 {
     "title": "Wagahai wa Orc de Aru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172793.jpg",
+        "alt": "wagahai-wa-orc-de-aru"
+    },
     "type": "light-novel",
     "original_name": "吾輩はオークである。",
     "start_date": "2016-02-25",

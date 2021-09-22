@@ -1,8 +1,12 @@
 {
     "title": "Dino King 3D: Journey to Fire Mountain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1625/112559.jpg",
+        "alt": "dino-king-3-d-journey-to-fire-mountain"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "점박이 한반도의 공룡 2",
+    "original_name": "점박이 한반도의 공룡 2: 새로운 낙원",
     "start_date": "2017-10-14",
     "rating": "G - All Ages",
     "tags": [

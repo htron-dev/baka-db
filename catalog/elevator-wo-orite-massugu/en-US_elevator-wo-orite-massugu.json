@@ -1,5 +1,9 @@
 {
     "title": "Elevator wo Orite Massugu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9591.jpg",
+        "alt": "elevator-wo-orite-massugu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Dakara Boku wa, H ga Dekinai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148499.jpg",
+        "alt": "dakara-boku-wa-h-ga-dekinai"
+    },
     "type": "light-novel",
     "volumes": "11",
     "chapters": "72",

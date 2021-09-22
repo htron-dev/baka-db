@@ -1,5 +1,9 @@
 {
     "title": "Walkin' Butterfly",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5187.jpg",
+        "alt": "walkin-butterfly"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

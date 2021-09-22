@@ -1,5 +1,9 @@
 {
     "title": "Otonari wa 1-ken de 2-do Oishii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162811.jpg",
+        "alt": "otonari-wa-1-ken-de-2-do-oishii"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

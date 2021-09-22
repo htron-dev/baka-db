@@ -1,5 +1,9 @@
 {
     "title": "Onpu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/77374.jpg",
+        "alt": "onpu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おんぷ",

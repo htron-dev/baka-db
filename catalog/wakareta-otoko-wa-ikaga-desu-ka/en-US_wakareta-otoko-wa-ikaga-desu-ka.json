@@ -1,5 +1,9 @@
 {
     "title": "Wakareta Otoko wa Ikaga desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84641.jpg",
+        "alt": "wakareta-otoko-wa-ikaga-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Shinde kudasai! Yuusha desho?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217544.jpg",
+        "alt": "shinde-kudasai-yuusha-desho"
+    },
     "type": "manga",
     "original_name": "死んでください！勇者でしょ？",
     "start_date": "2018-07-27",

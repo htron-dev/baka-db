@@ -1,5 +1,9 @@
 {
     "title": "Namete, Kajitte, Tokidoki Medete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194516.jpg",
+        "alt": "namete-kajitte-tokidoki-medete"
+    },
     "type": "manga",
     "original_name": "なめて、かじって、ときどき愛でて",
     "start_date": "2016-09-24",

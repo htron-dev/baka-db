@@ -1,5 +1,9 @@
 {
     "title": "Zettai Fukujuu Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165815.jpg",
+        "alt": "zettai-fukujuu-idol"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

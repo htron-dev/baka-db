@@ -1,5 +1,9 @@
 {
     "title": "Youkai Niisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202968.jpg",
+        "alt": "youkai-niisan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

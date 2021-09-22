@@ -1,5 +1,9 @@
 {
     "title": "ReLIFE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171573.jpg",
+        "alt": "re-life"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "238",

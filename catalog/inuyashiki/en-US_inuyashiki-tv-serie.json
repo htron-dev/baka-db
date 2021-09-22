@@ -1,5 +1,9 @@
 {
     "title": "Inuyashiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/88471.jpg",
+        "alt": "inuyashiki"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "いぬやしき",

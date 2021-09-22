@@ -1,5 +1,9 @@
 {
     "title": "Pokemon Movie 01: Mewtwo no Gyakushuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/65699.jpg",
+        "alt": "pokemon-movie-01-mewtwo-no-gyakushuu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ポケットモンスター ミュウツーの逆襲",

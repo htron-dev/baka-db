@@ -1,5 +1,9 @@
 {
     "title": "Himegoto no Ura ni wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238989.jpg",
+        "alt": "himegoto-no-ura-ni-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

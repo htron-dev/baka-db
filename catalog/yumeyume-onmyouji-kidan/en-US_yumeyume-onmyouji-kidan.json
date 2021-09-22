@@ -1,5 +1,9 @@
 {
     "title": "Yumeyume: Onmyouji Kidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117281.jpg",
+        "alt": "yumeyume-onmyouji-kidan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "夢々 陰陽師鬼談",

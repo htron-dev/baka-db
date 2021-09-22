@@ -1,5 +1,9 @@
 {
     "title": "Kurage no Shokudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147729.jpg",
+        "alt": "kurage-no-shokudou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "クラゲの食堂",

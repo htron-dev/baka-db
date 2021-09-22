@@ -1,5 +1,9 @@
 {
     "title": "Kuchibiru kara Magic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208761.jpg",
+        "alt": "kuchibiru-kara-magic"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "くちびるから魔法〈マジック〉",

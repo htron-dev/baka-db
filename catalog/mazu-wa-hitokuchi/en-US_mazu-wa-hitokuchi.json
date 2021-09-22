@@ -1,5 +1,9 @@
 {
     "title": "Mazu wa, Hitokuchi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/104501.jpg",
+        "alt": "mazu-wa-hitokuchi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

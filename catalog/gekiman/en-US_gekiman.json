@@ -1,5 +1,9 @@
 {
     "title": "Gekiman!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39844.jpg",
+        "alt": "gekiman"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "激マン!",

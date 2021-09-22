@@ -1,5 +1,9 @@
 {
     "title": "Gakuto no Vector",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46487.jpg",
+        "alt": "gakuto-no-vector"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

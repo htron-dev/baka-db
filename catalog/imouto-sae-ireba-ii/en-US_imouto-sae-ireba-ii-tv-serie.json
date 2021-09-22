@@ -1,12 +1,16 @@
 {
     "title": "Imouto sae Ireba Ii.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/88472.jpg",
+        "alt": "imouto-sae-ireba-ii"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "妹さえいればいい。",
     "start_date": "2017-10-08",
     "end_date": "2017-10-08",
     "opening_song": "\"Ashita no Kimi sae Ireba Ii. (明日の君さえいればいい。)\" by ChouCho",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Donna Hoshizora yori mo, Donna Omoide yori mo (どんな星空よりも、どんな思い出よりも)\" by Aira Yuuki (eps 1-3, 5-8, 10-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

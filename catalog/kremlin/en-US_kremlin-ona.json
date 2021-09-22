@@ -1,5 +1,9 @@
 {
     "title": "Kremlin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/42271.jpg",
+        "alt": "kremlin"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "クレムリン",
@@ -23,7 +27,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%A0%E3%83%AA%E3%83%B3_(%E6%BC%AB%E7%94%BB"
+            "link": "http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%A0%E3%83%AA%E3%83%B3_%28%E6%BC%AB%E7%94%BB%29"
         }
     ]
 }

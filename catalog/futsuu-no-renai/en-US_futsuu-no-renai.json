@@ -1,5 +1,9 @@
 {
     "title": "Futsuu no Renai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10812.jpg",
+        "alt": "futsuu-no-renai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "フツーの恋愛",

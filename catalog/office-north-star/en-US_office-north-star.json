@@ -1,5 +1,9 @@
 {
     "title": "Office North Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45515.jpg",
+        "alt": "office-north-star"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "オフィス北極星",

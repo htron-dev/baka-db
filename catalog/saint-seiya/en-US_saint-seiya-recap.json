@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/55471.jpg",
+        "alt": "saint-seiya-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "聖闘士星矢 総集編",

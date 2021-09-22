@@ -1,5 +1,9 @@
 {
     "title": "Hiyoko no Shokudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195379.jpg",
+        "alt": "hiyoko-no-shokudou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ひよこの食堂",

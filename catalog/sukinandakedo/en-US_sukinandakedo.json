@@ -1,5 +1,9 @@
 {
     "title": "Sukinandakedo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16978.jpg",
+        "alt": "sukinandakedo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

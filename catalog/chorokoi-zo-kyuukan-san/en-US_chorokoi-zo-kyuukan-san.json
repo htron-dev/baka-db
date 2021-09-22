@@ -1,5 +1,9 @@
 {
     "title": "Chorokoi zo! Kyuukan-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202528.jpg",
+        "alt": "chorokoi-zo-kyuukan-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,9 +1,13 @@
 {
     "title": "Beelzebub Maou Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/66289.jpg",
+        "alt": "beelzebub-maou-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",
-    "original_name": "べるぜバブ魔王外伝",
+    "original_name": "べるぜバブ魔王外伝: 田村隆平短編集",
     "start_date": "2003-10-06",
     "end_date": "2003-10-06",
     "tags": [

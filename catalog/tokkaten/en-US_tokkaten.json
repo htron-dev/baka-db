@@ -1,5 +1,9 @@
 {
     "title": "Tokkaten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83252.jpg",
+        "alt": "tokkaten"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

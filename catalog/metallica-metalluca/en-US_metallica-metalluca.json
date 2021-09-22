@@ -1,5 +1,9 @@
 {
     "title": "Metallica Metalluca",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35169.jpg",
+        "alt": "metallica-metalluca"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

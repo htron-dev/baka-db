@@ -1,5 +1,9 @@
 {
     "title": "Fuwafuwa Yurete, Harahara Ochite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226710.jpg",
+        "alt": "fuwafuwa-yurete-harahara-ochite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

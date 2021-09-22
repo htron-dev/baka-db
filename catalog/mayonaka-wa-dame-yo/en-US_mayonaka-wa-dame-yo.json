@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka wa Dame yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/196189.jpg",
+        "alt": "mayonaka-wa-dame-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

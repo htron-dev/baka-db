@@ -1,5 +1,9 @@
 {
     "title": "Anime de Wakaru Shinryounaika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/69621.jpg",
+        "alt": "anime-de-wakaru-shinryounaika"
+    },
     "type": "ona",
     "episodes": "20",
     "original_name": "アニメで分かる心療内科",

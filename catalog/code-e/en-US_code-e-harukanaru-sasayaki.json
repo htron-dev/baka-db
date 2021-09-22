@@ -1,5 +1,9 @@
 {
     "title": "Code-E: Harukanaru Sasayaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144143.jpg",
+        "alt": "code-e-harukanaru-sasayaki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "CODE-E 遙かなる囁き",

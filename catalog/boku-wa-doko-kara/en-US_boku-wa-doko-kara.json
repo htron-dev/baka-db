@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Doko kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222813.jpg",
+        "alt": "boku-wa-doko-kara"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

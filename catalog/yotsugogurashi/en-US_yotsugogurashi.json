@@ -1,5 +1,9 @@
 {
     "title": "Yotsugogurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235753.jpg",
+        "alt": "yotsugogurashi"
+    },
     "type": "light-novel",
     "original_name": "四つ子ぐらし",
     "start_date": "2018-10-15",

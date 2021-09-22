@@ -1,5 +1,9 @@
 {
     "title": "Doubutsu Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157870.jpg",
+        "alt": "doubutsu-zukan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

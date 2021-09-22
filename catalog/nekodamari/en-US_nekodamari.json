@@ -1,5 +1,9 @@
 {
     "title": "Nekodamari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220663.jpg",
+        "alt": "nekodamari"
+    },
     "type": "manga",
     "original_name": "ねこだまり",
     "start_date": "2016-12-09",

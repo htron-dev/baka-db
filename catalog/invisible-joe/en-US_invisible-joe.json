@@ -1,5 +1,9 @@
 {
     "title": "Invisible Joe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167105.jpg",
+        "alt": "invisible-joe"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

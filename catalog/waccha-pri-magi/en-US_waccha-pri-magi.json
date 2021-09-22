@@ -1,5 +1,9 @@
 {
     "title": "Waccha PriMagi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1522/117595.jpg",
+        "alt": "waccha-pri-magi"
+    },
     "type": "tv-serie",
     "original_name": "ワッチャプリマジ！",
     "start_date": "2021-10-20",

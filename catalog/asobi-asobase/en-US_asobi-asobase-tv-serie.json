@@ -1,5 +1,9 @@
 {
     "title": "Asobi Asobase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1139/95077.jpg",
+        "alt": "asobi-asobase"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "あそびあそばせ",

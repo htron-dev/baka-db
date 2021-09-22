@@ -1,5 +1,9 @@
 {
     "title": "Maji!! -Honki-",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31566.jpg",
+        "alt": "maji-honki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Maji!! －本気－",

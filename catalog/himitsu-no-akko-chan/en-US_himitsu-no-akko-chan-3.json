@@ -1,12 +1,16 @@
 {
     "title": "Himitsu no Akko-chan 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/6843.jpg",
+        "alt": "himitsu-no-akko-chan-3"
+    },
     "type": "tv-serie",
     "episodes": "44",
     "original_name": "ひみつのアッコちゃん 第３期",
     "start_date": "1998-04-05",
     "end_date": "1998-04-05",
     "opening_song": "\"Himitsu no Akko-chan (ひみつのアッコちゃん)\" by Satoko Shimonari",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Watashi no Uta wo Kitte Hoshii (わたしの歌を聴いてほしい)\" by Yumi Shiraki & TAKING VITAMIN J (eps 1-26)",
     "rating": "G - All Ages",
     "tags": [
         "magic",

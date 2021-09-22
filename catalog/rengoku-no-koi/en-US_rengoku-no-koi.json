@@ -1,5 +1,9 @@
 {
     "title": "Rengoku no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184974.jpg",
+        "alt": "rengoku-no-koi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

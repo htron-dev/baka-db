@@ -1,5 +1,9 @@
 {
     "title": "Life So Happy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187386.jpg",
+        "alt": "life-so-happy"
+    },
     "type": "manga",
     "original_name": "LIFE SO HAPPY",
     "start_date": "2016-04-05",

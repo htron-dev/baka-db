@@ -1,5 +1,9 @@
 {
     "title": "Ougon Bat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/28619.jpg",
+        "alt": "ougon-bat"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "黄金バット",

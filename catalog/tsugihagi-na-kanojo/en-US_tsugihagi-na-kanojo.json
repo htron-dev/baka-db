@@ -1,5 +1,9 @@
 {
     "title": "Tsugihagi na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143141.jpg",
+        "alt": "tsugihagi-na-kanojo"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "ツギハギな彼女",

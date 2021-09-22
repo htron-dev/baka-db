@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Goshujinsama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5604.jpg",
+        "alt": "itoshi-no-goshujinsama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

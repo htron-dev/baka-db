@@ -1,5 +1,9 @@
 {
     "title": "Plus 50000-nen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/71781.jpg",
+        "alt": "plus-50000-nen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "プラス 50000 年",

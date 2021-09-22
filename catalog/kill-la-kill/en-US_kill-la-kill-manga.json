@@ -1,5 +1,9 @@
 {
     "title": "Kill la Kill",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/108467.jpg",
+        "alt": "kill-la-kill"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

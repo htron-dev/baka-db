@@ -1,5 +1,9 @@
 {
     "title": "Iro wo mo Kaori wo mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4012.jpg",
+        "alt": "iro-wo-mo-kaori-wo-mo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

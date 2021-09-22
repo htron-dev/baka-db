@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Tonari de Yurarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237783.jpg",
+        "alt": "kimi-no-tonari-de-yurarete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

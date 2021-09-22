@@ -1,5 +1,9 @@
 {
     "title": "Katakoi Triangle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151737.jpg",
+        "alt": "katakoi-triangle"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Lilith ni Omakase!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/97755.jpg",
+        "alt": "lilith-ni-omakase"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

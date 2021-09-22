@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Alcatraz Connection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/15501.jpg",
+        "alt": "lupin-iii-alcatraz-connection"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン三世『アルカトラズコネクション』",

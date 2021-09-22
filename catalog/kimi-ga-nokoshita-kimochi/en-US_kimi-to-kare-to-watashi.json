@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Kare to Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30706.jpg",
+        "alt": "kimi-to-kare-to-watashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

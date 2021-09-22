@@ -1,5 +1,9 @@
 {
     "title": "Nusumareta Houkago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24809.jpg",
+        "alt": "nusumareta-houkago"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ぬすまれた放課後",

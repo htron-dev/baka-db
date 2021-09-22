@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online: Kirito no Gun Gale Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215595.jpg",
+        "alt": "sword-art-online-kirito-no-gun-gale-wars"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

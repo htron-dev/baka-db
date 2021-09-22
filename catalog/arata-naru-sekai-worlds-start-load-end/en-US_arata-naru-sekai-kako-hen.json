@@ -1,5 +1,9 @@
 {
     "title": "Arata naru Sekai: Kako-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78681.jpg",
+        "alt": "arata-naru-sekai-kako-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

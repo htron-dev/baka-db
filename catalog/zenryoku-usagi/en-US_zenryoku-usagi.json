@@ -1,5 +1,9 @@
 {
     "title": "Zenryoku Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/51631.jpg",
+        "alt": "zenryoku-usagi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "全力ウサギ",

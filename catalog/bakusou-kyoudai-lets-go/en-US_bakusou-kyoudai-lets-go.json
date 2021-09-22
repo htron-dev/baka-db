@@ -1,5 +1,9 @@
 {
     "title": "Bakusou Kyoudai Let's & Go!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11809.jpg",
+        "alt": "bakusou-kyoudai-lets-go"
+    },
     "type": "manga",
     "volumes": "13",
     "original_name": "爆走兄弟レッツ&ゴー!!",

@@ -1,5 +1,9 @@
 {
     "title": "Kagaku Ninja-tai Gatchaman (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/4830.jpg",
+        "alt": "kagaku-ninja-tai-gatchaman-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "科学忍者隊 ガッチャマン",

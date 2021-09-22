@@ -1,5 +1,9 @@
 {
     "title": "Supeope Chuugaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11718.jpg",
+        "alt": "supeope-chuugaku"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "スペオペ宙学",

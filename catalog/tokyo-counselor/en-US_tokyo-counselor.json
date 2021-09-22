@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Counselor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234586.jpg",
+        "alt": "tokyo-counselor"
+    },
     "type": "manga",
     "chapters": "47",
     "original_name": "東京カウンセラー",

@@ -1,5 +1,9 @@
 {
     "title": "Kominami Shoutarou, Ie kara Deru wo Hajimemashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153752.jpg",
+        "alt": "kominami-shoutarou-ie-kara-deru-wo-hajimemashita"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

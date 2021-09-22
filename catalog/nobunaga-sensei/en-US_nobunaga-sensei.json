@@ -1,5 +1,9 @@
 {
     "title": "Nobunaga-sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215415.jpg",
+        "alt": "nobunaga-sensei"
+    },
     "type": "manga",
     "original_name": "ノブナガ先生",
     "start_date": "2017-12-22",

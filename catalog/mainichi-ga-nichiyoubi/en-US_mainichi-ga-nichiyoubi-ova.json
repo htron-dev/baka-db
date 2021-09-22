@@ -1,5 +1,9 @@
 {
     "title": "Mainichi ga Nichiyoubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/62363.jpg",
+        "alt": "mainichi-ga-nichiyoubi"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "毎日が日曜日",

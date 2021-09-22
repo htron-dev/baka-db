@@ -1,5 +1,9 @@
 {
     "title": "Yeastken.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1599/97398.jpg",
+        "alt": "yeastken"
+    },
     "type": "ona",
     "original_name": "いーすとけん。",
     "start_date": "2018-12-13",

@@ -1,5 +1,9 @@
 {
     "title": "Katana Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163499.jpg",
+        "alt": "katana-series"
+    },
     "type": "manga",
     "original_name": "KATANA シリーズ",
     "start_date": "2004-09-06",

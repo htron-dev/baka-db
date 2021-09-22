@@ -1,5 +1,9 @@
 {
     "title": "Kiseki no Riyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4654.jpg",
+        "alt": "kiseki-no-riyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "奇跡の理由",

@@ -1,5 +1,9 @@
 {
     "title": "Hakubutsushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/76685.jpg",
+        "alt": "hakubutsushi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "博物誌",

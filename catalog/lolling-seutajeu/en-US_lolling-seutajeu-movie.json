@@ -1,5 +1,9 @@
 {
     "title": "Lolling Seutajeu (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/45720.jpg",
+        "alt": "lolling-seutajeu-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "롤링 스타즈",

@@ -1,5 +1,9 @@
 {
     "title": "Yuyushiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168064.jpg",
+        "alt": "yuyushiki"
+    },
     "type": "manga",
     "original_name": "ゆゆ式",
     "start_date": "2008-01-09",

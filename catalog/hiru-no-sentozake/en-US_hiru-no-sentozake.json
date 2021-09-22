@@ -1,5 +1,9 @@
 {
     "title": "Hiru no Sentozake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227190.jpg",
+        "alt": "hiru-no-sentozake"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

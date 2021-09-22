@@ -1,5 +1,9 @@
 {
     "title": "Houkago ○○ Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139495.jpg",
+        "alt": "houkago-○○-club"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

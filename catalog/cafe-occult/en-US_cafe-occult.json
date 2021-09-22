@@ -1,5 +1,9 @@
 {
     "title": "Cafe Occult",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10166.jpg",
+        "alt": "cafe-occult"
+    },
     "type": "manhwa",
     "volumes": "6",
     "original_name": "카페 오컬트",

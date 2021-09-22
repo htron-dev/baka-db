@@ -1,5 +1,9 @@
 {
     "title": "Experiment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1269/92989.jpg",
+        "alt": "experiment"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "experiment",

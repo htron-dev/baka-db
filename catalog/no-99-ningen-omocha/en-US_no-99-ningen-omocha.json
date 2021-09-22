@@ -1,9 +1,13 @@
 {
     "title": "No.99: Ningen Omocha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/20448.jpg",
+        "alt": "no-99-ningen-omocha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",
-    "original_name": "No.99",
+    "original_name": "No.99: 人間玩具",
     "start_date": "2009-01-20",
     "tags": [
         "fantasy",

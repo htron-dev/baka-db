@@ -1,5 +1,9 @@
 {
     "title": "Tuxedo Gin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130629.jpg",
+        "alt": "tuxedo-gin"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "136",

@@ -1,5 +1,9 @@
 {
     "title": "Nekogurui Minako-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124819.jpg",
+        "alt": "nekogurui-minako-san"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ねこぐるい美奈子さん",

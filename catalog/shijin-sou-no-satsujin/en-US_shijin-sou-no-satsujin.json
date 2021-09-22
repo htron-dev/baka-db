@@ -1,5 +1,9 @@
 {
     "title": "Shijin-sou no Satsujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227276.jpg",
+        "alt": "shijin-sou-no-satsujin"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

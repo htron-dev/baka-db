@@ -1,5 +1,9 @@
 {
     "title": "Jue Ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1997/98594.jpg",
+        "alt": "jue-ji"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "爵跡",

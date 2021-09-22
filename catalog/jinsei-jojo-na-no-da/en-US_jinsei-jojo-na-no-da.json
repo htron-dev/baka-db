@@ -1,5 +1,9 @@
 {
     "title": "Jinsei Jojo na no da",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33269.jpg",
+        "alt": "jinsei-jojo-na-no-da"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "人生は上々なのだ",

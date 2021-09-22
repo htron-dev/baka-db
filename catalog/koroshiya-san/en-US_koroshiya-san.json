@@ -1,5 +1,9 @@
 {
     "title": "Koroshiya-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30375.jpg",
+        "alt": "koroshiya-san"
+    },
     "type": "manga",
     "original_name": "殺し屋さん",
     "tags": [

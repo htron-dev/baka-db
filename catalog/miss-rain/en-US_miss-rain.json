@@ -1,5 +1,9 @@
 {
     "title": "Miss Rain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/202530.jpg",
+        "alt": "miss-rain"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

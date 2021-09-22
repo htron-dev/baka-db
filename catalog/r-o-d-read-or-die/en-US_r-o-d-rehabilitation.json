@@ -1,5 +1,9 @@
 {
     "title": "R.O.D Rehabilitation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116735.jpg",
+        "alt": "r-o-d-rehabilitation"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

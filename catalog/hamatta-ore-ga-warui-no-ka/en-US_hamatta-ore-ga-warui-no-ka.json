@@ -1,5 +1,9 @@
 {
     "title": "Hamatta Ore ga Warui no ka!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201190.jpg",
+        "alt": "hamatta-ore-ga-warui-no-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

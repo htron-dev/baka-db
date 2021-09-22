@@ -1,5 +1,9 @@
 {
     "title": "Tenjou no Niji: Jitou Tenno Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150921.jpg",
+        "alt": "tenjou-no-niji-jitou-tenno-monogatari"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "66",

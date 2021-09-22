@@ -1,5 +1,9 @@
 {
     "title": "Pops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/12814.jpg",
+        "alt": "pops"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "POPS",

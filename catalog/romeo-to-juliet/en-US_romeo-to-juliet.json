@@ -1,5 +1,9 @@
 {
     "title": "Romeo to Juliet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96667.jpg",
+        "alt": "romeo-to-juliet"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ロミオとジュリエット",

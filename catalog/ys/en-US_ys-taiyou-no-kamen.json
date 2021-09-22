@@ -1,5 +1,9 @@
 {
     "title": "Ys: Taiyou no Kamen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42572.jpg",
+        "alt": "ys-taiyou-no-kamen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

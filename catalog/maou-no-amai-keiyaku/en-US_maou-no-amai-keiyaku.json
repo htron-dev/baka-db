@@ -1,5 +1,9 @@
 {
     "title": "Maou no Amai Keiyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22549.jpg",
+        "alt": "maou-no-amai-keiyaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

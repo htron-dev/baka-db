@@ -1,5 +1,9 @@
 {
     "title": "Kamiotoshi no Oni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226990.jpg",
+        "alt": "kamiotoshi-no-oni"
+    },
     "type": "manga",
     "original_name": "神落しの鬼",
     "start_date": "2017-09-25",

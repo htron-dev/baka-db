@@ -1,5 +1,9 @@
 {
     "title": "Kuroda Sanjuurokkei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240848.jpg",
+        "alt": "kuroda-sanjuurokkei"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "53",

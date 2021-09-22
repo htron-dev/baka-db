@@ -1,5 +1,9 @@
 {
     "title": "Mayoi Neko Overrun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210091.jpg",
+        "alt": "mayoi-neko-overrun"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "84",

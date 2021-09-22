@@ -1,5 +1,9 @@
 {
     "title": "Yomawari Sensei Tokubetsu-hen: Sayonara ga Ienakute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185387.jpg",
+        "alt": "yomawari-sensei-tokubetsu-hen-sayonara-ga-ienakute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Galette des rois - Joouheika no Kashi Shokunin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/80347.jpg",
+        "alt": "galette-des-rois-joouheika-no-kashi-shokunin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

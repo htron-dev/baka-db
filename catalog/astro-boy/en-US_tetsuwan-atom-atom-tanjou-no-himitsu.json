@@ -1,5 +1,9 @@
 {
     "title": "Tetsuwan Atom: Atom Tanjou no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/47837.jpg",
+        "alt": "tetsuwan-atom-atom-tanjou-no-himitsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "鉄腕アトム　アトム誕生の秘密",

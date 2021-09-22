@@ -1,5 +1,9 @@
 {
     "title": "Overcomer!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177341.jpg",
+        "alt": "overcomer"
+    },
     "type": "light-novel",
     "original_name": "オーバーカマー!!",
     "start_date": "2016-06-01",

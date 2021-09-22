@@ -1,5 +1,9 @@
 {
     "title": "Batman: Gotham Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/17272.jpg",
+        "alt": "batman-gotham-knight"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "バットマン ゴッサムナイト",

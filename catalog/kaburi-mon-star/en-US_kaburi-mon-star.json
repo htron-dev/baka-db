@@ -1,5 +1,9 @@
 {
     "title": "Kaburi.mon.star!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185709.jpg",
+        "alt": "kaburi-mon-star"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Bakuman. Bangai-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164254.jpg",
+        "alt": "bakuman-bangai-hen"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "バクマン。 番外編",

@@ -1,12 +1,16 @@
 {
     "title": "Kyou no 5 no 2 (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/21096.jpg",
+        "alt": "kyou-no-5-no-2-tv"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "今日の５の２",
     "start_date": "2008-10-06",
     "end_date": "2008-10-06",
-    "opening_song": "\"Nisemono (ニセモノ)\" by Friends",
-    "ending_song": "#1",
+    "opening_song": "\"Nisemono (ニセモノ)\" by Friends: Yuu Kobayashi, Asami Shimoda, MAKO, Satomi Akesaka, Youko Honda, Kana Asumi",
+    "ending_song": "#1: \"secret base ~Kimi ga Kureta Mono~ 「secret base ～君がくれたもの～」\" by Friends: Yuu Kobayashi, Asami Shimoda, MAKO, Satomi Akesaka, Youko Honda, Kana Asumi (eps 1-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

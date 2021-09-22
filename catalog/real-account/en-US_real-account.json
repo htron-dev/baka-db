@@ -1,5 +1,9 @@
 {
     "title": "Real Account",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147381.jpg",
+        "alt": "real-account"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "184",

@@ -1,5 +1,9 @@
 {
     "title": "Men's Kou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144331.jpg",
+        "alt": "mens-kou"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "38",

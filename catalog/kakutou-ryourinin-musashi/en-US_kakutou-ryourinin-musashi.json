@@ -1,5 +1,9 @@
 {
     "title": "Kakutou Ryourinin Musashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152349.jpg",
+        "alt": "kakutou-ryourinin-musashi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "格闘料理人ムサシ",

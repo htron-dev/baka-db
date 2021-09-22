@@ -1,5 +1,9 @@
 {
     "title": "Sailor Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26674.jpg",
+        "alt": "sailor-angel"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "セーラー・エンジェル",

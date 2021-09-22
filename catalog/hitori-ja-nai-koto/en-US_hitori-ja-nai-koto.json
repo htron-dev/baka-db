@@ -1,5 +1,9 @@
 {
     "title": "Hitori ja Nai Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30571.jpg",
+        "alt": "hitori-ja-nai-koto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

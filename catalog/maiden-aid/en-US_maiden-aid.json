@@ -1,5 +1,9 @@
 {
     "title": "Maiden/Aid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165143.jpg",
+        "alt": "maiden-aid"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

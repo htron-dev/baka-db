@@ -1,5 +1,9 @@
 {
     "title": "Tenkousei wa Kounin Kaikeishi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1198/90120.jpg",
+        "alt": "tenkousei-wa-kounin-kaikeishi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "転校生は公認会計士！",

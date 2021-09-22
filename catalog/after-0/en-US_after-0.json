@@ -1,5 +1,9 @@
 {
     "title": "After 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183601.jpg",
+        "alt": "after-0"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "121",

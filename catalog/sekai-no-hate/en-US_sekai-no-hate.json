@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Hate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86391.jpg",
+        "alt": "sekai-no-hate"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

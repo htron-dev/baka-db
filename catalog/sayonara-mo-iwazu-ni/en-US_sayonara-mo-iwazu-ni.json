@@ -1,5 +1,9 @@
 {
     "title": "Sayonara mo Iwazu ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226142.jpg",
+        "alt": "sayonara-mo-iwazu-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

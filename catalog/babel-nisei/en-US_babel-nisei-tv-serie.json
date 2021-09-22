@@ -1,5 +1,9 @@
 {
     "title": "Babel Nisei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/64319.jpg",
+        "alt": "babel-nisei"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "バビル２世",

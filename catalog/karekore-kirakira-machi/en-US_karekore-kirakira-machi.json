@@ -1,5 +1,9 @@
 {
     "title": "Karekore Kirakira Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222508.jpg",
+        "alt": "karekore-kirakira-machi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

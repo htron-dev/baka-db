@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Kishi Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32797.jpg",
+        "alt": "kaze-no-kishi-shou"
+    },
     "type": "manga",
     "original_name": "風の棋士ショウ",
     "tags": [

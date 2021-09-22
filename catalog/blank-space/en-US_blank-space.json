@@ -1,5 +1,9 @@
 {
     "title": "Blank Space",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243076.jpg",
+        "alt": "blank-space"
+    },
     "type": "manga",
     "original_name": "ブランクスペース",
     "start_date": "2020-08-07",

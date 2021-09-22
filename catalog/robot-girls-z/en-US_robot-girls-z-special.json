@@ -1,5 +1,9 @@
 {
     "title": "Robot Girls Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/53141.jpg",
+        "alt": "robot-girls-z"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ロボットガールズＺ",

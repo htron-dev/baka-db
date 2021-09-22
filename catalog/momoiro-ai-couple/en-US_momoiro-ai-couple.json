@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Ai Couple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27715.jpg",
+        "alt": "momoiro-ai-couple"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ももいろ愛かっぷる",

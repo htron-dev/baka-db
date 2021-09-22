@@ -1,5 +1,9 @@
 {
     "title": "Seikou Gakuen Idol-gumi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20556.jpg",
+        "alt": "seikou-gakuen-idol-gumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

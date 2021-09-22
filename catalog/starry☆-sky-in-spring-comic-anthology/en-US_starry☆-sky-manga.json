@@ -1,5 +1,9 @@
 {
     "title": "Starry☆Sky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122815.jpg",
+        "alt": "starry☆-sky"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "Starry☆Sky",

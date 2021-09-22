@@ -1,12 +1,16 @@
 {
     "title": "Shinkansen Henkei Robo Shinkalion The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1679/100718.jpg",
+        "alt": "shinkansen-henkei-robo-shinkalion-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "76",
     "original_name": "新幹線変形ロボ シンカリオン THE ANIMATION",
     "start_date": "2018-01-06",
     "end_date": "2018-01-06",
     "opening_song": "\"Shinka Riron (進化理論)\" by BOYS AND MEN",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Go One Step Ahead\" by Keisuke Murakami (eps 2-25, 76)",
     "rating": "PG - Children",
     "tags": [
         "action",

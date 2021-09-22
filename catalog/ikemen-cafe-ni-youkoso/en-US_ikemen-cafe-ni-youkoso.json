@@ -1,5 +1,9 @@
 {
     "title": "Ikemen Cafe ni Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31319.jpg",
+        "alt": "ikemen-cafe-ni-youkoso"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "イケメンカフェにようこそ",

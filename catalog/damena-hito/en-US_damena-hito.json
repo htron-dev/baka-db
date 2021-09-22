@@ -1,5 +1,9 @@
 {
     "title": "Damena Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9242.jpg",
+        "alt": "damena-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ダメナヒト",

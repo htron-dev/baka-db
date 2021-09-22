@@ -1,5 +1,9 @@
 {
     "title": "Damashie no Kuni no Vanessa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181728.jpg",
+        "alt": "damashie-no-kuni-no-vanessa"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

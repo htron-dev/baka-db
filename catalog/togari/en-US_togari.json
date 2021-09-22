@@ -1,5 +1,9 @@
 {
     "title": "Togari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26300.jpg",
+        "alt": "togari"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "68",

@@ -1,5 +1,9 @@
 {
     "title": "7-genme wa Himitsu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171442.jpg",
+        "alt": "7-genme-wa-himitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

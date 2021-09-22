@@ -1,5 +1,9 @@
 {
     "title": "Coulomb Fille",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129681.jpg",
+        "alt": "coulomb-fille"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

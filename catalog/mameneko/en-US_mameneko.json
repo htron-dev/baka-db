@@ -1,5 +1,9 @@
 {
     "title": "Mameneko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1360/113120.jpg",
+        "alt": "mameneko"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "まめねこ",

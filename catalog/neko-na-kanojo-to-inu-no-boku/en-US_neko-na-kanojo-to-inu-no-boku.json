@@ -1,5 +1,9 @@
 {
     "title": "Neko na Kanojo to Inu no Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230000.jpg",
+        "alt": "neko-na-kanojo-to-inu-no-boku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

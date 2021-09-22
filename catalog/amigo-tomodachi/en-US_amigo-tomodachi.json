@@ -1,5 +1,9 @@
 {
     "title": "Amigo Tomodachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/63863.jpg",
+        "alt": "amigo-tomodachi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "アミーゴ 友だち",

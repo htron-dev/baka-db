@@ -1,5 +1,9 @@
 {
     "title": "Kiss de Okoshite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234034.jpg",
+        "alt": "kiss-de-okoshite"
+    },
     "type": "manga",
     "original_name": "キスで起こして。",
     "start_date": "2020-04-03",

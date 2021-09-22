@@ -1,5 +1,9 @@
 {
     "title": "Complete Novice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159362.jpg",
+        "alt": "complete-novice"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "25",

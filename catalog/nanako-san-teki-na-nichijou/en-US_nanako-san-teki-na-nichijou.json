@@ -1,5 +1,9 @@
 {
     "title": "Nanako-san-teki na Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117775.jpg",
+        "alt": "nanako-san-teki-na-nichijou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "38",

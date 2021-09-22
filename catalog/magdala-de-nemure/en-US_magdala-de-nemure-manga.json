@@ -1,5 +1,9 @@
 {
     "title": "Magdala de Nemure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/102685.jpg",
+        "alt": "magdala-de-nemure"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

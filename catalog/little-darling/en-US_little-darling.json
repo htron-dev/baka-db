@@ -1,5 +1,9 @@
 {
     "title": "Little Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136055.jpg",
+        "alt": "little-darling"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "36",

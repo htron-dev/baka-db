@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa 008",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209958.jpg",
+        "alt": "kimi-wa-008"
+    },
     "type": "manga",
     "original_name": "君は 008",
     "start_date": "2018-02-21",

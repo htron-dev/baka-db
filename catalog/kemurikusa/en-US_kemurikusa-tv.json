@@ -1,5 +1,9 @@
 {
     "title": "Kemurikusa (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1254/100472.jpg",
+        "alt": "kemurikusa-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ケムリクサ",

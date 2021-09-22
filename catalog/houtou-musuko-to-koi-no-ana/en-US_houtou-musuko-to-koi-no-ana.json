@@ -1,5 +1,9 @@
 {
     "title": "Houtou Musuko to Koi no Ana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232883.jpg",
+        "alt": "houtou-musuko-to-koi-no-ana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

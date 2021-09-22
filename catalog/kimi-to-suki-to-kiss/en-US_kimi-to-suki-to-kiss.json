@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Suki to Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80275.jpg",
+        "alt": "kimi-to-suki-to-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Neechan wa Chuunibyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198874.jpg",
+        "alt": "neechan-wa-chuunibyou"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "69",

@@ -1,5 +1,9 @@
 {
     "title": "Jungle Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28363.jpg",
+        "alt": "jungle-boy"
+    },
     "type": "manga",
     "volumes": "8",
     "tags": [

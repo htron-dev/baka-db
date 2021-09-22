@@ -1,10 +1,14 @@
 {
     "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/51723.jpg",
+        "alt": "gintama-movie-2-kanketsu-hen-yorozuya-yo-eien-nare"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 銀魂 完結篇 万事屋よ永遠なれ",
     "start_date": "2013-07-06",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Genjou Destruction (現状ディストラクション)\" by SPYAIR",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

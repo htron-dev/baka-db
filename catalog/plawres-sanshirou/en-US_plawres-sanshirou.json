@@ -1,5 +1,9 @@
 {
     "title": "Plawres Sanshirou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1873.jpg",
+        "alt": "plawres-sanshirou"
+    },
     "type": "tv-serie",
     "episodes": "37",
     "original_name": "プラレス３四郎",

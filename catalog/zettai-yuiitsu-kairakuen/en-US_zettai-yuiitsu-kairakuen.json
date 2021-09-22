@@ -1,5 +1,9 @@
 {
     "title": "Zettai Yuiitsu Kairakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27622.jpg",
+        "alt": "zettai-yuiitsu-kairakuen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "絶対唯一快楽園",

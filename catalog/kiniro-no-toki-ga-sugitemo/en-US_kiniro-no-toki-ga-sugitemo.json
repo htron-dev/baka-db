@@ -1,5 +1,9 @@
 {
     "title": "Kiniro no Toki ga Sugitemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26670.jpg",
+        "alt": "kiniro-no-toki-ga-sugitemo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "金色のときがすぎても",

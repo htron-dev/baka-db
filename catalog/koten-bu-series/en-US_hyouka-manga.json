@@ -1,5 +1,9 @@
 {
     "title": "Hyouka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162612.jpg",
+        "alt": "hyouka"
+    },
     "type": "manga",
     "original_name": "氷菓",
     "start_date": "2012-01-26",

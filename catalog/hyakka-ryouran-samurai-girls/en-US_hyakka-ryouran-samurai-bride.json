@@ -1,12 +1,16 @@
 {
     "title": "Hyakka Ryouran: Samurai Bride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/45248.jpg",
+        "alt": "hyakka-ryouran-samurai-bride"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "百花繚乱 サムライブライド",
     "start_date": "2013-04-05",
     "end_date": "2013-04-05",
     "opening_song": "\"AI DO.\" by Miyuki Hashimoto",
-    "ending_song": "\"Kekka, Guuzen de Gozasourou (結果、偶然でござ候)\" by Jubei Yagyu (CV",
+    "ending_song": "\"Kekka, Guuzen de Gozasourou (結果、偶然でござ候)\" by Jubei Yagyu (CV: Aoi Yuki), Yukimura Sanada (CV: Rie Kugimiya), Sen Tokugawa (CV: Minako Kotobuki)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

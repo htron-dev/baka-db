@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni Kizuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227405.jpg",
+        "alt": "higurashi-no-naku-koro-ni-kizuna"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

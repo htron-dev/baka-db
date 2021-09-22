@@ -1,5 +1,9 @@
 {
     "title": "Rozen Maiden: Dolls Talk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119911.jpg",
+        "alt": "rozen-maiden-dolls-talk"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ローゼンメイデン dolls talk",

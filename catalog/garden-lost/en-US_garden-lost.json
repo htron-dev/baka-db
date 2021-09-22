@@ -1,5 +1,9 @@
 {
     "title": "Garden Lost",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134807.jpg",
+        "alt": "garden-lost"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

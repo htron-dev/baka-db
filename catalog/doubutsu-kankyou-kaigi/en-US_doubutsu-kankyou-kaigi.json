@@ -1,5 +1,9 @@
 {
     "title": "Doubutsu Kankyou Kaigi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/22444.jpg",
+        "alt": "doubutsu-kankyou-kaigi"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "動物かんきょう会議",

@@ -1,5 +1,9 @@
 {
     "title": "Sekai Seifuku: Bouryaku no Zvezda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120197.jpg",
+        "alt": "sekai-seifuku-bouryaku-no-zvezda"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

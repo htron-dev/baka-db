@@ -1,5 +1,9 @@
 {
     "title": "Haru to Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241460.jpg",
+        "alt": "haru-to-arashi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

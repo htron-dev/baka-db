@@ -1,5 +1,9 @@
 {
     "title": "Shin Naniwa Kinyuudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/214402.jpg",
+        "alt": "shin-naniwa-kinyuudou"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "231",

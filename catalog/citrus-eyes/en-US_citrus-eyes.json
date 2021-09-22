@@ -1,5 +1,9 @@
 {
     "title": "Citrus Eyes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171475.jpg",
+        "alt": "citrus-eyes"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

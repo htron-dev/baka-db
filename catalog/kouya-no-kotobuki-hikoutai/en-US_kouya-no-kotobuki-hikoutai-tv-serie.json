@@ -1,5 +1,9 @@
 {
     "title": "Kouya no Kotobuki Hikoutai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1252/96179.jpg",
+        "alt": "kouya-no-kotobuki-hikoutai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "荒野のコトブキ飛行隊",

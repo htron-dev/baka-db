@@ -1,5 +1,9 @@
 {
     "title": "Paladin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/106327.jpg",
+        "alt": "paladin"
+    },
     "type": "manhwa",
     "chapters": "50",
     "original_name": "팔라딘",

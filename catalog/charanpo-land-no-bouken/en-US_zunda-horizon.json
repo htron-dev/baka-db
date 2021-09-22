@@ -1,5 +1,9 @@
 {
     "title": "Zunda Horizon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/83943.jpg",
+        "alt": "zunda-horizon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ずんだホライずん",

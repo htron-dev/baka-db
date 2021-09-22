@@ -1,5 +1,9 @@
 {
     "title": "Sabita Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72653.jpg",
+        "alt": "sabita-tsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "錆びた月",

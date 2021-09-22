@@ -1,5 +1,9 @@
 {
     "title": "Shin Bannou Bunka Neko-Musume: Tanjou-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132449.jpg",
+        "alt": "shin-bannou-bunka-neko-musume-tanjou-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

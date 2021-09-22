@@ -1,5 +1,9 @@
 {
     "title": "Tsuitemasu ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9377.jpg",
+        "alt": "tsuitemasu-ka"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "憑いてますか",

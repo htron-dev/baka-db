@@ -1,5 +1,9 @@
 {
     "title": "Bandai Kaname wa Asobitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212194.jpg",
+        "alt": "bandai-kaname-wa-asobitai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

@@ -1,12 +1,16 @@
 {
     "title": "Maria†Holic Alive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/78775.jpg",
+        "alt": "maria-holic-alive"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "まりあ†ほりっく あらいぶ",
     "start_date": "2011-04-08",
     "end_date": "2011-04-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Mousou Senshi Miyamae Kanako (妄想戦士 宮前かなこ)\" by Sugita Tomokazu (eps 1-4)",
+    "ending_song": "#1: \"Dounimo Tomaranai (どうにもとまらない)\" by Yuu Kobayashi, Asami Sanada and Marina Inoue (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

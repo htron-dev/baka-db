@@ -1,5 +1,9 @@
 {
     "title": "Kyouran Kazoku Nikki Bangai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125389.jpg",
+        "alt": "kyouran-kazoku-nikki-bangai"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "39",

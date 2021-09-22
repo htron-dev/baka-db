@@ -1,5 +1,9 @@
 {
     "title": "Yokan EX Noise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18665.jpg",
+        "alt": "yokan-ex-noise"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

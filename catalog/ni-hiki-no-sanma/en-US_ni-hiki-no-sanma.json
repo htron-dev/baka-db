@@ -1,5 +1,9 @@
 {
     "title": "Ni-hiki no Sanma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/16389.jpg",
+        "alt": "ni-hiki-no-sanma"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "二匹のサンマ",

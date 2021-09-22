@@ -1,5 +1,9 @@
 {
     "title": "Ark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36402.jpg",
+        "alt": "ark"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Yomei Ichinen no Ars Magna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177953.jpg",
+        "alt": "yomei-ichinen-no-ars-magna"
+    },
     "type": "light-novel",
     "original_name": "余命一年の勇者〈アルス・マグナ〉",
     "start_date": "2015-03-30",

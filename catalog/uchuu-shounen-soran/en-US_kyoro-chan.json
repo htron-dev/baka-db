@@ -1,12 +1,16 @@
 {
     "title": "Kyoro-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/66747.jpg",
+        "alt": "kyoro-chan"
+    },
     "type": "tv-serie",
     "episodes": "91",
     "original_name": "キョロちゃん",
     "start_date": "1999-07-01",
     "end_date": "1999-07-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Halation Summer\" by Coconuts Musume (eps 1-26)",
+    "ending_song": "#1: \"Tsuugaku Ro\" by Whiteberry (eps 1-26)",
     "rating": "PG - Children",
     "tags": [
         "adventure",

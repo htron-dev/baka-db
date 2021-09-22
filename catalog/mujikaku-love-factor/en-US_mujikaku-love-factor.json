@@ -1,5 +1,9 @@
 {
     "title": "Mujikaku Love Factor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181868.jpg",
+        "alt": "mujikaku-love-factor"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

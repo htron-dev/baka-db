@@ -1,5 +1,9 @@
 {
     "title": "Kamui Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27264.jpg",
+        "alt": "kamui-den"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "71",

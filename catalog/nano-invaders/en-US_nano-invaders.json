@@ -1,5 +1,9 @@
 {
     "title": "Nano Invaders",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/67729.jpg",
+        "alt": "nano-invaders"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ナノ・インベーダーズ",

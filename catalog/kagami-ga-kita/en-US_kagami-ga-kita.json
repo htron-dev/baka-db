@@ -1,5 +1,9 @@
 {
     "title": "Kagami ga Kita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172666.jpg",
+        "alt": "kagami-ga-kita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Usagi Robot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163858.jpg",
+        "alt": "usagi-robot"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

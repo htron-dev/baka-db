@@ -1,5 +1,9 @@
 {
     "title": "Eb★Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44823.jpg",
+        "alt": "eb★-star"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "EB★ スター",

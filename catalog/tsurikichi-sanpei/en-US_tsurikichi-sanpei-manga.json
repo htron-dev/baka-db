@@ -1,5 +1,9 @@
 {
     "title": "Tsurikichi Sanpei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170335.jpg",
+        "alt": "tsurikichi-sanpei"
+    },
     "type": "manga",
     "volumes": "65",
     "original_name": "釣りキチ三平",

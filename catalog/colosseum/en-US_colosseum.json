@@ -1,5 +1,9 @@
 {
     "title": "Colosseum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176220.jpg",
+        "alt": "colosseum"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "コロシアム",

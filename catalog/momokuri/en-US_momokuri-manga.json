@@ -1,5 +1,9 @@
 {
     "title": "Momokuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163895.jpg",
+        "alt": "momokuri"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "118",

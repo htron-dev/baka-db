@@ -1,5 +1,9 @@
 {
     "title": "Shinobeba Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174150.jpg",
+        "alt": "shinobeba-koi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

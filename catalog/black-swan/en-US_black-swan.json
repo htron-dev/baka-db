@@ -1,5 +1,9 @@
 {
     "title": "Black Swan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/114795.jpg",
+        "alt": "black-swan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Meshinuma.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194264.jpg",
+        "alt": "meshinuma"
+    },
     "type": "manga",
     "original_name": "めしぬま。",
     "start_date": "2016-01-25",

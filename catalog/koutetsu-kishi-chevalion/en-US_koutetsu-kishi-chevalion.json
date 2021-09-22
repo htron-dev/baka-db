@@ -1,5 +1,9 @@
 {
     "title": "Koutetsu Kishi Chevalion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161677.jpg",
+        "alt": "koutetsu-kishi-chevalion"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

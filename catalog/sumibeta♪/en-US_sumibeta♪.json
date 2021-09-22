@@ -1,5 +1,9 @@
 {
     "title": "Sumibeta♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172529.jpg",
+        "alt": "sumibeta♪"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スミベタ ♪",

@@ -1,5 +1,9 @@
 {
     "title": "Over Rev!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179566.jpg",
+        "alt": "over-rev"
+    },
     "type": "manga",
     "volumes": "31",
     "chapters": "349",

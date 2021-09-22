@@ -1,5 +1,9 @@
 {
     "title": "Peta Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225348.jpg",
+        "alt": "peta-girl"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "50",

@@ -1,5 +1,9 @@
 {
     "title": "Goripuri!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145203.jpg",
+        "alt": "goripuri"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "ゴリプリ！",

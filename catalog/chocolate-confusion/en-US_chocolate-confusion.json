@@ -1,5 +1,9 @@
 {
     "title": "Chocolate Confusion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206417.jpg",
+        "alt": "chocolate-confusion"
+    },
     "type": "manga",
     "original_name": "チョコレート・コンフュージョン",
     "start_date": "2017-06-27",

@@ -1,5 +1,9 @@
 {
     "title": "Kyokou Uranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1422/108679.jpg",
+        "alt": "kyokou-uranai"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "虚構占い",

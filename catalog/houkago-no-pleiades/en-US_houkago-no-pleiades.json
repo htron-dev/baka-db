@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Pleiades",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/47741.jpg",
+        "alt": "houkago-no-pleiades"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "放課後のプレアデス",

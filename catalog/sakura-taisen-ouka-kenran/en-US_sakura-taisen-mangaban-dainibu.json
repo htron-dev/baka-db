@@ -1,5 +1,9 @@
 {
     "title": "Sakura Taisen: Mangaban Dainibu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245361.jpg",
+        "alt": "sakura-taisen-mangaban-dainibu"
+    },
     "type": "manga",
     "original_name": "サクラ大戦　漫画版第二部",
     "start_date": "2009-06-20",

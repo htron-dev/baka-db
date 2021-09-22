@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Tenshouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165058.jpg",
+        "alt": "sengoku-tenshouki"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "149",

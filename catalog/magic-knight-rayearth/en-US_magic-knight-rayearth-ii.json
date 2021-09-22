@@ -1,12 +1,16 @@
 {
     "title": "Magic Knight Rayearth II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/55885.jpg",
+        "alt": "magic-knight-rayearth-ii"
+    },
     "type": "tv-serie",
     "episodes": "29",
     "original_name": "魔法騎士（マジックナイト）レイアース II",
     "start_date": "1995-04-10",
     "end_date": "1995-04-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"キライになれない (Kirai ni Narenai)\" by Ayumi Nakamura (eps 1-22)",
+    "ending_song": "#1: \"ら・ら・ば・い～優しく抱かせて～ (Lullaby ~Yasashiku Dakasete~)\" by Minako Honda (eps 1-22)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

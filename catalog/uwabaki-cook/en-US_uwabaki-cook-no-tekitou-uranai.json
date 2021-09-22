@@ -1,5 +1,9 @@
 {
     "title": "Uwabaki Cook no Tekitou Uranai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/73542.jpg",
+        "alt": "uwabaki-cook-no-tekitou-uranai"
+    },
     "type": "tv-serie",
     "episodes": "125",
     "original_name": "うわばきクックのテキトー占い!",

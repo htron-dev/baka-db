@@ -1,5 +1,9 @@
 {
     "title": "Boyfriend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1161/95950.jpg",
+        "alt": "boyfriend"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ボ～イ フレンド",

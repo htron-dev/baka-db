@@ -1,5 +1,9 @@
 {
     "title": "Popolocrois Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172349.jpg",
+        "alt": "popolocrois-monogatari"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ポポロクロイス物語",

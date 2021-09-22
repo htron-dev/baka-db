@@ -1,5 +1,9 @@
 {
     "title": "Hanayome no Kioku to Hanamuko no Omoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190105.jpg",
+        "alt": "hanayome-no-kioku-to-hanamuko-no-omoi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

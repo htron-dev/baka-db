@@ -1,5 +1,9 @@
 {
     "title": "Monogatari no Naka no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186487.jpg",
+        "alt": "monogatari-no-naka-no-hito"
+    },
     "type": "manga",
     "original_name": "物語の中の人",
     "start_date": "2014-06-30",

@@ -1,5 +1,9 @@
 {
     "title": "Ring of Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/16688.jpg",
+        "alt": "ring-of-gundam"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "リング　オブ　ガンダム",

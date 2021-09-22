@@ -1,5 +1,9 @@
 {
     "title": "Hare Tokidoki, Wakabasou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160728.jpg",
+        "alt": "hare-tokidoki-wakabasou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "晴れときどき、わかば荘",

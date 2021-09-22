@@ -1,5 +1,9 @@
 {
     "title": "Beelzebub Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/31637.jpg",
+        "alt": "beelzebub-specials"
+    },
     "type": "special",
     "episodes": "16",
     "original_name": "べるぜバブ",

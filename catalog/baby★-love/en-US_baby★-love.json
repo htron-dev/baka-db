@@ -1,5 +1,9 @@
 {
     "title": "Baby★Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/19225.jpg",
+        "alt": "baby★-love"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "44",

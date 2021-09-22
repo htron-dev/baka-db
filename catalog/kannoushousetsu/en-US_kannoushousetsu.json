@@ -1,5 +1,9 @@
 {
     "title": "Kannoushousetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15744.jpg",
+        "alt": "kannoushousetsu"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "官能小説",

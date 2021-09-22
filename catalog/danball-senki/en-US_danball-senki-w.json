@@ -1,12 +1,16 @@
 {
     "title": "Danball Senki W",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/56963.jpg",
+        "alt": "danball-senki-w"
+    },
     "type": "tv-serie",
     "episodes": "58",
     "original_name": "ダンボール戦機 Ｗ",
     "start_date": "2012-01-18",
     "end_date": "2012-01-18",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"BRAVE HERO\" by Little Blue boX (eps 1-16)",
+    "ending_song": "#1: \"Do Wak Parappa (Do Wak パラッパ)\" by Hiroki Maekawa (eps 1-16)",
     "rating": "G - All Ages",
     "tags": [
         "action",

@@ -1,12 +1,16 @@
 {
     "title": "Otogi Juushi Akazukin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/50145.jpg",
+        "alt": "otogi-juushi-akazukin"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "おとぎ銃士 赤ずきん",
     "start_date": "2006-07-01",
     "end_date": "2006-07-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Douwa Meikyuu\" by Yukari Tamura (eps 1-24)",
+    "ending_song": "#1: \"Clover\" by marhy (ep 1-14, 39)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

@@ -1,12 +1,16 @@
 {
     "title": "Kenka Banchou Otome: Girl Beats Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/85022.jpg",
+        "alt": "kenka-banchou-otome-girl-beats-boys"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "喧嘩番長 乙女 -GIRL BEATS BOYS-",
     "start_date": "2017-04-12",
     "end_date": "2017-04-12",
     "opening_song": "\"Love Sniper (ラブスナイパー)\" by Love Desire",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gankou Signal (眼光シグナル)\" by Love Desire",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

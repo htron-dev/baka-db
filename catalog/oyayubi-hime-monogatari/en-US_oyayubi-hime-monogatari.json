@@ -1,5 +1,9 @@
 {
     "title": "Oyayubi Hime Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1166/101997.jpg",
+        "alt": "oyayubi-hime-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "おやゆび姫物語",

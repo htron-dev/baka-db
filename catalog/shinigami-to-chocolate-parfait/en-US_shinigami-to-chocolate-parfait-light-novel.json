@@ -1,5 +1,9 @@
 {
     "title": "Shinigami to Chocolate Parfait",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/141837.jpg",
+        "alt": "shinigami-to-chocolate-parfait"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "死神とチョコレート・パフェ",

@@ -1,5 +1,9 @@
 {
     "title": "Koufuku no Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149290.jpg",
+        "alt": "koufuku-no-ouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

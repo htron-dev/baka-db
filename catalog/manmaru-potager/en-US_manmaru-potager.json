@@ -1,5 +1,9 @@
 {
     "title": "Manmaru Potager",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199534.jpg",
+        "alt": "manmaru-potager"
+    },
     "type": "manga",
     "original_name": "まんまるポタジェ",
     "start_date": "2015-01-15",

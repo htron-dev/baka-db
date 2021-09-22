@@ -1,5 +1,9 @@
 {
     "title": "Gogo! Mario World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239183.jpg",
+        "alt": "gogo-mario-world"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Oniichan wa Se ga Chiisai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211423.jpg",
+        "alt": "oniichan-wa-se-ga-chiisai"
+    },
     "type": "manga",
     "original_name": "お兄ちゃんは背が小さい",
     "start_date": "2018-02-09",

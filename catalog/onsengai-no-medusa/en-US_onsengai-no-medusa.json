@@ -1,5 +1,9 @@
 {
     "title": "Onsengai no Medusa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165147.jpg",
+        "alt": "onsengai-no-medusa"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "49",

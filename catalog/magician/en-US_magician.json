@@ -1,5 +1,9 @@
 {
     "title": "Magician²",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189478.jpg",
+        "alt": "magician"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

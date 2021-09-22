@@ -1,5 +1,9 @@
 {
     "title": "Rash!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6783.jpg",
+        "alt": "rash"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

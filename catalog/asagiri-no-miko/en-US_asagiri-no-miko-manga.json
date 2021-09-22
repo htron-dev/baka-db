@@ -1,5 +1,9 @@
 {
     "title": "Asagiri no Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121975.jpg",
+        "alt": "asagiri-no-miko"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "85",

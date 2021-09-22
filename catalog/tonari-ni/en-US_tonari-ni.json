@@ -1,5 +1,9 @@
 {
     "title": "Tonari ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224653.jpg",
+        "alt": "tonari-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

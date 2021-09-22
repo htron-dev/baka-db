@@ -1,5 +1,9 @@
 {
     "title": "Senran Kagura: Guren no Uroboros",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/75647.jpg",
+        "alt": "senran-kagura-guren-no-uroboros"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

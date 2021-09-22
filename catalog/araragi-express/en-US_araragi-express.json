@@ -1,5 +1,9 @@
 {
     "title": "Araragi Express",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118645.jpg",
+        "alt": "araragi-express"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

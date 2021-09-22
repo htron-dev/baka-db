@@ -1,5 +1,9 @@
 {
     "title": "Kantou Heiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123299.jpg",
+        "alt": "kantou-heiya"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "45",

@@ -1,5 +1,9 @@
 {
     "title": "Yinyue Qi Xia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1387/115498.jpg",
+        "alt": "yinyue-qi-xia"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "音乐奇侠",

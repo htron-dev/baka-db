@@ -1,5 +1,9 @@
 {
     "title": "Yokoshima Moobstretch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244667.jpg",
+        "alt": "yokoshima-moobstretch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

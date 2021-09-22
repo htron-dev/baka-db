@@ -1,5 +1,9 @@
 {
     "title": "Nikoniko, Pun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/64121.jpg",
+        "alt": "nikoniko-pun"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "にこにこ、ぷん",

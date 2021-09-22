@@ -1,5 +1,9 @@
 {
     "title": "Blood Loop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/67329.jpg",
+        "alt": "blood-loop"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

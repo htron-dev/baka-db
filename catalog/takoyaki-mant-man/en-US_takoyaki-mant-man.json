@@ -1,5 +1,9 @@
 {
     "title": "Takoyaki Mant-Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/7086.jpg",
+        "alt": "takoyaki-mant-man"
+    },
     "type": "tv-serie",
     "episodes": "77",
     "original_name": "たこやきマントマン",

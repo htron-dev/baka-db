@@ -1,5 +1,9 @@
 {
     "title": "Oden no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59193.jpg",
+        "alt": "oden-no-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "おでんの人",

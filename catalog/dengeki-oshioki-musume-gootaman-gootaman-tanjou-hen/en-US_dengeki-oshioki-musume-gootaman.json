@@ -1,5 +1,9 @@
 {
     "title": "Dengeki Oshioki Musume Gootaman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26445.jpg",
+        "alt": "dengeki-oshioki-musume-gootaman"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "臀撃おしおき娘ゴータマン",

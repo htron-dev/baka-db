@@ -1,5 +1,9 @@
 {
     "title": "9-banme no Musashi: Red Scramble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147775.jpg",
+        "alt": "9-banme-no-musashi-red-scramble"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "49",

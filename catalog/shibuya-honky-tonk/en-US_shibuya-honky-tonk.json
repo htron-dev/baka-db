@@ -1,5 +1,9 @@
 {
     "title": "Shibuya Honky Tonk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179708.jpg",
+        "alt": "shibuya-honky-tonk"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "渋谷ホンキィトンク",

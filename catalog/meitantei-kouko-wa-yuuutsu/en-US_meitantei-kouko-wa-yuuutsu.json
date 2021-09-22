@@ -1,5 +1,9 @@
 {
     "title": "Meitantei Kouko wa Yuuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246865.jpg",
+        "alt": "meitantei-kouko-wa-yuuutsu"
+    },
     "type": "manga",
     "original_name": "名探偵耕子は憂鬱",
     "start_date": "2020-01-04",

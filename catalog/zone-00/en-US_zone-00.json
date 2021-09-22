@@ -1,5 +1,9 @@
 {
     "title": "Zone-00",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191154.jpg",
+        "alt": "zone-00"
+    },
     "type": "manga",
     "original_name": "ZONE-00",
     "tags": [

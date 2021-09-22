@@ -1,5 +1,9 @@
 {
     "title": "Karneval Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/102507.jpg",
+        "alt": "karneval-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

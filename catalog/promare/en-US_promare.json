@@ -1,10 +1,14 @@
 {
     "title": "Promare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1008/101845.jpg",
+        "alt": "promare"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "PROMARE（プロメア）",
     "start_date": "2019-05-24",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kakusei (覚醒)\" by Superfly",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

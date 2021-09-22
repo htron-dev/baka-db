@@ -1,12 +1,16 @@
 {
     "title": "Final Fantasy: Unlimited",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/20919.jpg",
+        "alt": "final-fantasy-unlimited"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ファイナルファンタジー：アンリミテッド",
     "start_date": "2001-10-02",
     "end_date": "2001-10-02",
     "opening_song": "\"Over the Fantasy\" by Kana Ueda",
-    "ending_song": "#1",
+    "ending_song": "#1: \"VIVID\" by Fairy Fore (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

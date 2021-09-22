@@ -1,5 +1,9 @@
 {
     "title": "Minotaurus no Sara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209000.jpg",
+        "alt": "minotaurus-no-sara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

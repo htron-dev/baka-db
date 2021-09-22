@@ -1,5 +1,9 @@
 {
     "title": "Soul Undertaker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176063.jpg",
+        "alt": "soul-undertaker"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ソウル・アンダーテイカー",

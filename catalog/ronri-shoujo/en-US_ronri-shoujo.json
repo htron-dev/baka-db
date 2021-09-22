@@ -1,5 +1,9 @@
 {
     "title": "Ronri Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/69707.jpg",
+        "alt": "ronri-shoujo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Oukoku no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211073.jpg",
+        "alt": "oukoku-no-ko"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "36",

@@ -1,5 +1,9 @@
 {
     "title": "Fudajo!: Otome Shoukan Datsui Taisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157880.jpg",
+        "alt": "fudajo-otome-shoukan-datsui-taisen"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "59",

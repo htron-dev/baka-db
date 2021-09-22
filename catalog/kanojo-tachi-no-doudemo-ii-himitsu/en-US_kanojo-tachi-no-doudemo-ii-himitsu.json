@@ -1,5 +1,9 @@
 {
     "title": "Kanojo-tachi no Doudemo Ii Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190901.jpg",
+        "alt": "kanojo-tachi-no-doudemo-ii-himitsu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

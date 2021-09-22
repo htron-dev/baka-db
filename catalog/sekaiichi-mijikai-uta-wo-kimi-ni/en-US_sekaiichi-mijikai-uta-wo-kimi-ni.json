@@ -1,5 +1,9 @@
 {
     "title": "Sekaiichi Mijikai Uta wo Kimi ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11653.jpg",
+        "alt": "sekaiichi-mijikai-uta-wo-kimi-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "世界一みじかいうたを君に",

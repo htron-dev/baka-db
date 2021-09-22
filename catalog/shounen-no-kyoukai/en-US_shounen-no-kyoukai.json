@@ -1,5 +1,9 @@
 {
     "title": "Shounen no Kyoukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200785.jpg",
+        "alt": "shounen-no-kyoukai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

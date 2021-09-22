@@ -1,12 +1,16 @@
 {
     "title": "Island",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1951/95080.jpg",
+        "alt": "island"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ISLAND",
     "start_date": "2018-07-01",
     "end_date": "2018-07-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Eien no Hitotsu (永遠のひとつ)\" by Yukari Tamura (eps 2-7, 11-12)",
+    "ending_song": "#1: \"Eien no Hitotsu (永遠のひとつ)\" by Yukari Tamura (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/ISLAND_(%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%8E%E3%83%99%E3%83%AB"
+            "link": "https://ja.wikipedia.org/wiki/ISLAND_%28%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%8E%E3%83%99%E3%83%AB%29"
         }
     ]
 }

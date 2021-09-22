@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Tadashii Oniichan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227348.jpg",
+        "alt": "watashi-no-tadashii-oniichan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Märchen Mädchen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/90088.jpg",
+        "alt": "marchen-madchen"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "メルヘン・メドヘン",

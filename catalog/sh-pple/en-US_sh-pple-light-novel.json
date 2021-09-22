@@ -1,5 +1,9 @@
 {
     "title": "Sh@pple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162466.jpg",
+        "alt": "sh-pple"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "66",

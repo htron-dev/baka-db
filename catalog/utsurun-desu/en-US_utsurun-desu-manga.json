@@ -1,5 +1,9 @@
 {
     "title": "Utsurun desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20140.jpg",
+        "alt": "utsurun-desu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "17",

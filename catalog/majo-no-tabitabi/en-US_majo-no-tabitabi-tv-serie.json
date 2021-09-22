@@ -1,5 +1,9 @@
 {
     "title": "Majo no Tabitabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
+        "alt": "majo-no-tabitabi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "魔女の旅々",

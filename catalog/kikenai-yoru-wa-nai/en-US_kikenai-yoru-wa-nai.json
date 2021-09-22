@@ -1,5 +1,9 @@
 {
     "title": "Kikenai Yoru wa Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236346.jpg",
+        "alt": "kikenai-yoru-wa-nai"
+    },
     "type": "manga",
     "original_name": "聴けない夜は亡い",
     "start_date": "2019-09-09",

@@ -1,5 +1,9 @@
 {
     "title": "Engage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248317.jpg",
+        "alt": "engage"
+    },
     "type": "manga",
     "original_name": "エンゲージ",
     "start_date": "2021-05-14",

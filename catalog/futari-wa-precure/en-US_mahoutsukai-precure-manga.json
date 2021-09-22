@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai Precure!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195307.jpg",
+        "alt": "mahoutsukai-precure"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

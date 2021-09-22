@@ -1,5 +1,9 @@
 {
     "title": "Gate of Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10059.jpg",
+        "alt": "gate-of-planet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

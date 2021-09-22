@@ -1,5 +1,9 @@
 {
     "title": "Sakasama Lollipop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235535.jpg",
+        "alt": "sakasama-lollipop"
+    },
     "type": "manga",
     "original_name": "さかさまロリポップ",
     "start_date": "2018-09-07",

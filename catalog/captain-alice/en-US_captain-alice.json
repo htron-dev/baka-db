@@ -1,5 +1,9 @@
 {
     "title": "Captain Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120485.jpg",
+        "alt": "captain-alice"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "85",

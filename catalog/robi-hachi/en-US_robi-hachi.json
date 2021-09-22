@@ -1,12 +1,16 @@
 {
     "title": "RobiHachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1555/100447.jpg",
+        "alt": "robi-hachi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ロビハチ",
     "start_date": "2019-04-08",
     "end_date": "2019-04-08",
-    "opening_song": "\"Tensai no Playlist (天才のプレイリスト)\" by Hatchi feat.Robby (CV",
-    "ending_song": "\"Dancing to Night ~Kimi e no Saidan Warp Kouro~ (Dancing to Night ～君への最短ワープ航路～)\" by Allo&Gras feat.Yang (CV",
+    "opening_song": "\"Tensai no Playlist (天才のプレイリスト)\" by Hatchi feat.Robby (CV: Keisuke Koumoto, Kazuya Nakai)",
+    "ending_song": "\"Dancing to Night ~Kimi e no Saidan Warp Kouro~ (Dancing to Night ～君への最短ワープ航路～)\" by Allo&Gras feat.Yang (CV: Subaru Kimura, Shinnosuke Tokudome, Tomokazu Sugita)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

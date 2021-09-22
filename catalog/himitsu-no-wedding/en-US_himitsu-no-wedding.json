@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Wedding",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156384.jpg",
+        "alt": "himitsu-no-wedding"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "秘密のウエディング",

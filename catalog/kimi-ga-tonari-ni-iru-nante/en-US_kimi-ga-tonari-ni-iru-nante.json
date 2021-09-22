@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Tonari ni Iru nante",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177776.jpg",
+        "alt": "kimi-ga-tonari-ni-iru-nante"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

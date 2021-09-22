@@ -1,5 +1,9 @@
 {
     "title": "Joker wa Docchi no Te?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153360.jpg",
+        "alt": "joker-wa-docchi-no-te"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ジョーカーはどっちの手?",

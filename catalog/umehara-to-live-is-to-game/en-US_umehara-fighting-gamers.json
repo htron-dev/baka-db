@@ -1,5 +1,9 @@
 {
     "title": "Umehara: Fighting Gamers!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162643.jpg",
+        "alt": "umehara-fighting-gamers"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "81",

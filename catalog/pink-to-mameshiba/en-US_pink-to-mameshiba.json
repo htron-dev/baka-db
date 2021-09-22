@@ -1,5 +1,9 @@
 {
     "title": "Pink to Mameshiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195959.jpg",
+        "alt": "pink-to-mameshiba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

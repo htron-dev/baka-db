@@ -1,5 +1,9 @@
 {
     "title": "Sae-ism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154638.jpg",
+        "alt": "sae-ism"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

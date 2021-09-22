@@ -1,5 +1,9 @@
 {
     "title": "Pump Up",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3525.jpg",
+        "alt": "pump-up"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

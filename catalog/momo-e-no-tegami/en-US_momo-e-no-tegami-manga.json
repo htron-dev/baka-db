@@ -1,5 +1,9 @@
 {
     "title": "Momo e no Tegami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/84145.jpg",
+        "alt": "momo-e-no-tegami"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

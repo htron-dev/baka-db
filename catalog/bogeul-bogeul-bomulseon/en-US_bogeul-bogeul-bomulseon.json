@@ -1,5 +1,9 @@
 {
     "title": "Bogeul Bogeul Bomulseon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71745.jpg",
+        "alt": "bogeul-bogeul-bomulseon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "보글보글 보물선",

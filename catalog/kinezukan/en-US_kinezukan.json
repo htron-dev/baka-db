@@ -1,5 +1,9 @@
 {
     "title": "Kinezukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18212.jpg",
+        "alt": "kinezukan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "きねづかん",

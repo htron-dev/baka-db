@@ -1,5 +1,9 @@
 {
     "title": "Marumaru Manul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1778/105047.jpg",
+        "alt": "marumaru-manul"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "まるまるマヌル",

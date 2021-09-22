@@ -1,5 +1,9 @@
 {
     "title": "Kono Bijutsubu ni wa Mondai ga Aru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166160.jpg",
+        "alt": "kono-bijutsubu-ni-wa-mondai-ga-aru"
+    },
     "type": "manga",
     "original_name": "この美術部には問題がある!",
     "start_date": "2012-10-27",

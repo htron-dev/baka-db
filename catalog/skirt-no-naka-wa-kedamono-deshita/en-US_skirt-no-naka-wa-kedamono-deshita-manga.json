@@ -1,5 +1,9 @@
 {
     "title": "Skirt no Naka wa Kedamono Deshita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206265.jpg",
+        "alt": "skirt-no-naka-wa-kedamono-deshita"
+    },
     "type": "manga",
     "original_name": "スカートの中はケダモノでした.",
     "start_date": "2016-02-15",

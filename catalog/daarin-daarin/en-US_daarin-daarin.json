@@ -1,5 +1,9 @@
 {
     "title": "Daarin Daarin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4727.jpg",
+        "alt": "daarin-daarin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ダーリン・ダーリン",

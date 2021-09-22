@@ -1,9 +1,13 @@
 {
     "title": "AI: Pato!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22121.jpg",
+        "alt": "ai-pato"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",
-    "original_name": "AI",
+    "original_name": "AI:パト!",
     "start_date": "2009-09-20",
     "end_date": "2009-09-20",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Oshigoto desu kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89099.jpg",
+        "alt": "oshigoto-desu-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

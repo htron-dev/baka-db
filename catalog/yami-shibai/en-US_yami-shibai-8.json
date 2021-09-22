@@ -1,5 +1,9 @@
 {
     "title": "Yami Shibai 8",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1311/110392.jpg",
+        "alt": "yami-shibai-8"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "闇芝居 8 期",

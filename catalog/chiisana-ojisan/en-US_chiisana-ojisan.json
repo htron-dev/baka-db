@@ -1,5 +1,9 @@
 {
     "title": "Chiisana Ojisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/42733.jpg",
+        "alt": "chiisana-ojisan"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "ちいさなおじさん",

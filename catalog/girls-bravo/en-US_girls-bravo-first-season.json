@@ -1,5 +1,9 @@
 {
     "title": "Girls Bravo: First Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/241.jpg",
+        "alt": "girls-bravo-first-season"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "GIRLS ブラボー first season",

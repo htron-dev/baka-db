@@ -1,5 +1,9 @@
 {
     "title": "Tetsuwan Atom: Ao Kishi no Kan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/47841.jpg",
+        "alt": "tetsuwan-atom-ao-kishi-no-kan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "鉄腕アトム ~青騎士の巻~",

@@ -1,5 +1,9 @@
 {
     "title": "Hajime no Shokutaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207258.jpg",
+        "alt": "hajime-no-shokutaku"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "20",

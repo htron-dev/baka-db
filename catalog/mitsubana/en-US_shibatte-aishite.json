@@ -1,5 +1,9 @@
 {
     "title": "Shibatte Aishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25268.jpg",
+        "alt": "shibatte-aishite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

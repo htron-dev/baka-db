@@ -1,5 +1,9 @@
 {
     "title": "Haru no Mushi Mushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29956.jpg",
+        "alt": "haru-no-mushi-mushi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "春ノ虫虫",

@@ -1,5 +1,9 @@
 {
     "title": "Poppoya Love Letter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/14020.jpg",
+        "alt": "poppoya-love-letter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

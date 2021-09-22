@@ -1,5 +1,9 @@
 {
     "title": "Ameiro Kouchakan Kandan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26092.jpg",
+        "alt": "ameiro-kouchakan-kandan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

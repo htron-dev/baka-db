@@ -1,5 +1,9 @@
 {
     "title": "Baroque Knights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89819.jpg",
+        "alt": "baroque-knights"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "バロック騎士団",

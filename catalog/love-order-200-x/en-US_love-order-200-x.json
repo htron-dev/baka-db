@@ -1,5 +1,9 @@
 {
     "title": "Love Order 200X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/76491.jpg",
+        "alt": "love-order-200-x"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "Love Order 200X",

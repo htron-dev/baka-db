@@ -1,5 +1,9 @@
 {
     "title": "Shiritsu Ajikari Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28471.jpg",
+        "alt": "shiritsu-ajikari-gakuen"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "私立味狩り学園",

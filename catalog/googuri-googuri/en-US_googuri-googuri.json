@@ -1,5 +1,9 @@
 {
     "title": "Googuri Googuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1582/103353.jpg",
+        "alt": "googuri-googuri"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ぐーぐりぃ ぐーぐりぃ",

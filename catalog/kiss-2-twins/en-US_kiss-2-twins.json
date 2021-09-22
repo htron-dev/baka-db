@@ -1,5 +1,9 @@
 {
     "title": "Kiss2Twins",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24026.jpg",
+        "alt": "kiss-2-twins"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

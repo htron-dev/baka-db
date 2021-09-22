@@ -1,5 +1,9 @@
 {
     "title": "Isekai wa Smartphone to Tomo ni.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175220.jpg",
+        "alt": "isekai-wa-smartphone-to-tomo-ni"
+    },
     "type": "light-novel",
     "original_name": "異世界はスマートフォンとともに。",
     "start_date": "2015-05-22",

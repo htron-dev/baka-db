@@ -1,5 +1,9 @@
 {
     "title": "Hisureba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162496.jpg",
+        "alt": "hisureba"
+    },
     "type": "manga",
     "original_name": "秘すれば",
     "start_date": "2014-09-30",

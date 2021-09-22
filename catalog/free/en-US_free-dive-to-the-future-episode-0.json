@@ -1,5 +1,9 @@
 {
     "title": "Free!: Dive to the Future Episode 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1386/93218.jpg",
+        "alt": "free-dive-to-the-future-episode-0"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Free!-Dive to the Future- 第 0 話",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Free!_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/Free!_%28TV_series%29"
         }
     ]
 }

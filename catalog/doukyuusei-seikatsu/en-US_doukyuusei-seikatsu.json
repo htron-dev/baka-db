@@ -1,5 +1,9 @@
 {
     "title": "Doukyuusei Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238232.jpg",
+        "alt": "doukyuusei-seikatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

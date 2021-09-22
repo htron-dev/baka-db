@@ -1,5 +1,9 @@
 {
     "title": "Elixir wa Arimasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195234.jpg",
+        "alt": "elixir-wa-arimasen"
+    },
     "type": "manga",
     "original_name": "万能魔薬〈エリクサー〉はありまセン！",
     "start_date": "2016-07-27",

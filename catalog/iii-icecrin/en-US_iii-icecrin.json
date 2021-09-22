@@ -1,5 +1,9 @@
 {
     "title": "Iii Icecrin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1654/113385.jpg",
+        "alt": "iii-icecrin"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "iii あいすくりん",

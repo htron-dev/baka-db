@@ -1,5 +1,9 @@
 {
     "title": "Ken to Kaijuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/70729.jpg",
+        "alt": "ken-to-kaijuu"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "ケンとかいじゅう",

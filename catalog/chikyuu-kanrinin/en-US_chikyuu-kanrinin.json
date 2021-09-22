@@ -1,5 +1,9 @@
 {
     "title": "Chikyuu Kanrinin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10400.jpg",
+        "alt": "chikyuu-kanrinin"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

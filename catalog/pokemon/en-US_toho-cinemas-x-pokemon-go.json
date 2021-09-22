@@ -1,5 +1,9 @@
 {
     "title": "Toho Cinemas x Pokemon Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/89069.jpg",
+        "alt": "toho-cinemas-x-pokemon-go"
+    },
     "type": "movie",
     "episodes": "2",
     "original_name": "ＴＯＨＯシネマズ × 『Pokémon GO』",

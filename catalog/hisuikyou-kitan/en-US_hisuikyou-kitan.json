@@ -1,5 +1,9 @@
 {
     "title": "Hisuikyou Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36018.jpg",
+        "alt": "hisuikyou-kitan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

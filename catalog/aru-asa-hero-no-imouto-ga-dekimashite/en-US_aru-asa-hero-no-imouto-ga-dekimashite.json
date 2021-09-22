@@ -1,5 +1,9 @@
 {
     "title": "Aru Asa, Hero no Imouto ga Dekimashite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157064.jpg",
+        "alt": "aru-asa-hero-no-imouto-ga-dekimashite"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Non Non Biyori Nonstop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1033/111540.jpg",
+        "alt": "non-non-biyori-nonstop"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "のんのんびより のんすとっぷ",

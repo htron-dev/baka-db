@@ -1,5 +1,9 @@
 {
     "title": "Dolly's Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149719.jpg",
+        "alt": "dollys-party"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "DOLLY'S PARTY",

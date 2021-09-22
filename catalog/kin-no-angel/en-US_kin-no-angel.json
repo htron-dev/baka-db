@@ -1,5 +1,9 @@
 {
     "title": "Kin no Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17286.jpg",
+        "alt": "kin-no-angel"
+    },
     "type": "manga",
     "original_name": "金のエンゼル",
     "tags": [

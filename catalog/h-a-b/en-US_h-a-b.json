@@ -1,5 +1,9 @@
 {
     "title": "H.A.B.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/58597.jpg",
+        "alt": "h-a-b"
+    },
     "type": "manga",
     "original_name": "H.A.B.",
     "start_date": "2011-11-20",

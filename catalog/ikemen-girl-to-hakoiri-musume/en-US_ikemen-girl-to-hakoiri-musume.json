@@ -1,5 +1,9 @@
 {
     "title": "Ikemen Girl to Hakoiri Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228481.jpg",
+        "alt": "ikemen-girl-to-hakoiri-musume"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

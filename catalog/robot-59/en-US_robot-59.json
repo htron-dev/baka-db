@@ -1,5 +1,9 @@
 {
     "title": "Robot 59",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237422.jpg",
+        "alt": "robot-59"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

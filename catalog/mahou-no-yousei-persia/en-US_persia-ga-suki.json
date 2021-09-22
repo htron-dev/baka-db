@@ -1,5 +1,9 @@
 {
     "title": "Persia ga Suki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13217.jpg",
+        "alt": "persia-ga-suki"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "ペルシャがすき！",

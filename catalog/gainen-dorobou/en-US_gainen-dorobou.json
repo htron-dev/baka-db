@@ -1,5 +1,9 @@
 {
     "title": "Gainen Dorobou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216238.jpg",
+        "alt": "gainen-dorobou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

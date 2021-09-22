@@ -1,5 +1,9 @@
 {
     "title": "Kowareteitemo Kamaimasen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180281.jpg",
+        "alt": "kowareteitemo-kamaimasen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

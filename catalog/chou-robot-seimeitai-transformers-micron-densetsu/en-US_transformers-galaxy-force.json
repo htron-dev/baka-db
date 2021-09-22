@@ -1,12 +1,16 @@
 {
     "title": "Transformers Galaxy Force",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/87406.jpg",
+        "alt": "transformers-galaxy-force"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "トランスフォーマー ギャラクシーフォース",
     "start_date": "2005-01-08",
     "end_date": "2005-01-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Call You.. Kimi to Boku no Mirai\" by Shinji Kakijima",
+    "ending_song": "#1: \"Itsumo (いつも)\" by Tomoka Issei",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

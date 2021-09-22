@@ -1,5 +1,9 @@
 {
     "title": "Aa Harimanada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/21286.jpg",
+        "alt": "aa-harimanada"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "ああ播磨灘",

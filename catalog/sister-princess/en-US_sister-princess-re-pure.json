@@ -1,12 +1,16 @@
 {
     "title": "Sister Princess: Re Pure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/25293.jpg",
+        "alt": "sister-princess-re-pure"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "シスター・プリンセス ～リピュア～",
     "start_date": "2002-10-04",
     "end_date": "2002-10-04",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Love Destiny\" by Yui Horie",
+    "ending_song": "#01: \"Lyric\" by Ritsuko Okazaki (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Sister_Princess_(anime"
+            "link": "http://en.wikipedia.org/wiki/Sister_Princess_%28anime%29"
         }
     ]
 }

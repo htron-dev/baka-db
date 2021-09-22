@@ -1,5 +1,9 @@
 {
     "title": "Mono no Kamisama Cocotama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1581/103230.jpg",
+        "alt": "mono-no-kamisama-cocotama"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "モノのかみさま ここたま",

@@ -1,5 +1,9 @@
 {
     "title": "Gokuraku Doumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6301.jpg",
+        "alt": "gokuraku-doumei"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "極楽同盟",

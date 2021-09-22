@@ -1,5 +1,9 @@
 {
     "title": "Pilgrim Maiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135157.jpg",
+        "alt": "pilgrim-maiden"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "1/3 Romantica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29757.jpg",
+        "alt": "1-3-romantica"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

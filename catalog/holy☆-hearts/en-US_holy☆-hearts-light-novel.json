@@ -1,5 +1,9 @@
 {
     "title": "Holy☆Hearts!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73965.jpg",
+        "alt": "holy☆-hearts"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "81",

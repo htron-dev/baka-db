@@ -1,5 +1,9 @@
 {
     "title": "Hakobiya Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/89493.jpg",
+        "alt": "hakobiya-ken"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "運び屋ケン",

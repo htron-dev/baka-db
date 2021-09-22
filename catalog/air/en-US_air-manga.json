@@ -1,5 +1,9 @@
 {
     "title": "Air",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28956.jpg",
+        "alt": "air"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

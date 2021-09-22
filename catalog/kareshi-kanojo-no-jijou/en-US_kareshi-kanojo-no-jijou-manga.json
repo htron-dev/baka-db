@@ -1,5 +1,9 @@
 {
     "title": "Kareshi Kanojo no Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/168938.jpg",
+        "alt": "kareshi-kanojo-no-jijou"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "108",

@@ -1,5 +1,9 @@
 {
     "title": "Usaband",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/78348.jpg",
+        "alt": "usaband"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "USABAND",

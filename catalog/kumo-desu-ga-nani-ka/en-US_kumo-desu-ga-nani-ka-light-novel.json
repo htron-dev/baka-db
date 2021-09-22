@@ -1,5 +1,9 @@
 {
     "title": "Kumo desu ga, Nani ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170075.jpg",
+        "alt": "kumo-desu-ga-nani-ka"
+    },
     "type": "light-novel",
     "original_name": "蜘蛛ですが、なにか？",
     "start_date": "2015-12-10",

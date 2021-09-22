@@ -1,5 +1,9 @@
 {
     "title": "No Game No Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188186.jpg",
+        "alt": "no-game-no-life"
+    },
     "type": "light-novel",
     "original_name": "ノーゲーム・ノーライフ",
     "start_date": "2012-04-25",

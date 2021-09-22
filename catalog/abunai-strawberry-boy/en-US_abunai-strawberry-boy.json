@@ -1,5 +1,9 @@
 {
     "title": "Abunai Strawberry Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155091.jpg",
+        "alt": "abunai-strawberry-boy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

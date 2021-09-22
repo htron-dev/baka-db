@@ -1,5 +1,9 @@
 {
     "title": "Atomcat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/8698.jpg",
+        "alt": "atomcat"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

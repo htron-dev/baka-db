@@ -1,5 +1,9 @@
 {
     "title": "Neo Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20844.jpg",
+        "alt": "neo-girl"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "10",

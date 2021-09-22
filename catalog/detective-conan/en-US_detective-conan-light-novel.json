@@ -1,5 +1,9 @@
 {
     "title": "Detective Conan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15123.jpg",
+        "alt": "detective-conan"
+    },
     "type": "light-novel",
     "original_name": "小説名探偵コナン",
     "start_date": "2005-05-15",

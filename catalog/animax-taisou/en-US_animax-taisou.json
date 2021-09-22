@@ -1,5 +1,9 @@
 {
     "title": "Animax Taisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/74386.jpg",
+        "alt": "animax-taisou"
+    },
     "type": "special",
     "episodes": "30",
     "original_name": "アニマックス体操",

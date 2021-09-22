@@ -1,12 +1,16 @@
 {
     "title": "Hazedon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/59677.jpg",
+        "alt": "hazedon"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ハゼドン",
     "start_date": "1972-10-05",
     "end_date": "1972-10-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Boku wa Hazedon (ぼくはハゼドン)\" by Ado Mizumori",
+    "ending_song": "#1: \"Boku wa Hazedon (ぼくはハゼドン)\" by Ado Mizumori",
     "rating": "PG - Children",
     "tags": [
         "adventure",

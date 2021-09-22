@@ -1,5 +1,9 @@
 {
     "title": "Tick &amp; Tack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/70631.jpg",
+        "alt": "tick-amp-tack"
+    },
     "type": "tv-serie",
     "episodes": "18",
     "original_name": "チックンタック",

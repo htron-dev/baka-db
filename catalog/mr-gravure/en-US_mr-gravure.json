@@ -1,5 +1,9 @@
 {
     "title": "Mr. Gravure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231702.jpg",
+        "alt": "mr-gravure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

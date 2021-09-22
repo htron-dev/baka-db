@@ -1,5 +1,9 @@
 {
     "title": "Aki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/60243.jpg",
+        "alt": "aki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Datenshi no Hitsugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73237.jpg",
+        "alt": "datenshi-no-hitsugi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

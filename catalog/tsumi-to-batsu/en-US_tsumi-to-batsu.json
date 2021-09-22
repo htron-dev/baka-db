@@ -1,5 +1,9 @@
 {
     "title": "Tsumi to Batsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27869.jpg",
+        "alt": "tsumi-to-batsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

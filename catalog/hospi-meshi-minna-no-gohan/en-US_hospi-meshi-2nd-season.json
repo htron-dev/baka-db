@@ -1,5 +1,9 @@
 {
     "title": "Hospi Meshi 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231277.jpg",
+        "alt": "hospi-meshi-2nd-season"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

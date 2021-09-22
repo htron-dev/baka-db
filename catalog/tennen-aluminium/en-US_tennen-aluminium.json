@@ -1,5 +1,9 @@
 {
     "title": "Tennen Aluminium!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36386.jpg",
+        "alt": "tennen-aluminium"
+    },
     "type": "manga",
     "original_name": "天然あるみにゅーむ!",
     "start_date": "2009-02-26",

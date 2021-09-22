@@ -1,5 +1,9 @@
 {
     "title": "Boku ga Suki da to Ienai Wake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78311.jpg",
+        "alt": "boku-ga-suki-da-to-ienai-wake"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

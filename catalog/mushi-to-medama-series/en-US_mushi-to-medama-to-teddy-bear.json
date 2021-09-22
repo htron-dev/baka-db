@@ -1,5 +1,9 @@
 {
     "title": "Mushi to Medama to Teddy Bear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125165.jpg",
+        "alt": "mushi-to-medama-to-teddy-bear"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "34",

@@ -1,5 +1,9 @@
 {
     "title": "Wakaokusama, Tokidoki Mahoutsukai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238309.jpg",
+        "alt": "wakaokusama-tokidoki-mahoutsukai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "若奥様、ときどき魔法使い。",

@@ -1,5 +1,9 @@
 {
     "title": "Gikei: Meiji Tsuya Mandara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181723.jpg",
+        "alt": "gikei-meiji-tsuya-mandara"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "義兄　明治艶曼荼羅",

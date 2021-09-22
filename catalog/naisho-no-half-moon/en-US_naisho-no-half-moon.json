@@ -1,5 +1,9 @@
 {
     "title": "Naisho no Half Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23466.jpg",
+        "alt": "naisho-no-half-moon"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ないしょのハーフムーン",

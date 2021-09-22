@@ -1,5 +1,9 @@
 {
     "title": "Comic☆Studio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171851.jpg",
+        "alt": "comic☆-studio"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Kishi to Onna Touzoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229609.jpg",
+        "alt": "kishi-to-onna-touzoku"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "騎士と女盗賊",

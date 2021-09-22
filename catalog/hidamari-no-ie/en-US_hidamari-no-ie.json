@@ -1,5 +1,9 @@
 {
     "title": "Hidamari no Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/65975.jpg",
+        "alt": "hidamari-no-ie"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "陽だまりの家",

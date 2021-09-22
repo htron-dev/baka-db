@@ -1,5 +1,9 @@
 {
     "title": "Angel Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44819.jpg",
+        "alt": "angel-blue"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "エンジェルブルー",

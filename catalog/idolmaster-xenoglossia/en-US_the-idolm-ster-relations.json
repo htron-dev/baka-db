@@ -1,5 +1,9 @@
 {
     "title": "THE IDOLM@STER relations",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10386.jpg",
+        "alt": "the-idolm-ster-relations"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

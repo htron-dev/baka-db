@@ -1,5 +1,9 @@
 {
     "title": "Fushiougoroshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173364.jpg",
+        "alt": "fushiougoroshi"
+    },
     "type": "light-novel",
     "original_name": "不死王殺し",
     "start_date": "2016-02-25",

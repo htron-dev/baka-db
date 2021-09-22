@@ -1,5 +1,9 @@
 {
     "title": "Honnou Switch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234734.jpg",
+        "alt": "honnou-switch"
+    },
     "type": "manga",
     "original_name": "ホンノウスイッチ",
     "start_date": "2018-06-01",

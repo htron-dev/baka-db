@@ -1,12 +1,16 @@
 {
     "title": "Higurashi no Naku Koro ni Kira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/29774.jpg",
+        "alt": "higurashi-no-naku-koro-ni-kira"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "ひぐらしのなく頃に煌",
     "start_date": "2011-07-21",
     "end_date": "2011-07-21",
     "opening_song": "\"Happy! Lucky! Dochy!\" by Yukari Tamura, Mika Kanai, and Yui Horie",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Zendaimimon☆Miracle Change (前代未聞 ☆ ミラクルチェンジ)\" by Mai Nakahara (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",

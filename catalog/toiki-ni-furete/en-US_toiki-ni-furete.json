@@ -1,5 +1,9 @@
 {
     "title": "Toiki ni Furete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6425.jpg",
+        "alt": "toiki-ni-furete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

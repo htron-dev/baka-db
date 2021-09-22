@@ -1,5 +1,9 @@
 {
     "title": "Wataru ga Pyun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77597.jpg",
+        "alt": "wataru-ga-pyun"
+    },
     "type": "manga",
     "volumes": "58",
     "chapters": "580",

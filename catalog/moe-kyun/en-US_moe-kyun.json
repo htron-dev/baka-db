@@ -1,5 +1,9 @@
 {
     "title": "Moe Kyun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186627.jpg",
+        "alt": "moe-kyun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

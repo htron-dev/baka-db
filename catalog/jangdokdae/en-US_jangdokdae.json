@@ -1,5 +1,9 @@
 {
     "title": "Jangdokdae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/88066.jpg",
+        "alt": "jangdokdae"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "장독대",

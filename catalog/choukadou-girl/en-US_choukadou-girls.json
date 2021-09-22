@@ -1,5 +1,9 @@
 {
     "title": "Choukadou Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222368.jpg",
+        "alt": "choukadou-girls"
+    },
     "type": "manga",
     "original_name": "超可動ガールズ",
     "start_date": "2017-09-25",

@@ -1,5 +1,9 @@
 {
     "title": "Hitotsu Futatsu Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/86203.jpg",
+        "alt": "hitotsu-futatsu-himitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

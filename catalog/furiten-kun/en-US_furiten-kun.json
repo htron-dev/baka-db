@@ -1,5 +1,9 @@
 {
     "title": "Furiten-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1939/96650.jpg",
+        "alt": "furiten-kun"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "フリテンくん",

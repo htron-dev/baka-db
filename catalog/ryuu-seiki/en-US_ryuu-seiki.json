@@ -1,5 +1,9 @@
 {
     "title": "Ryuu Seiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1081/97150.jpg",
+        "alt": "ryuu-seiki"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "竜世紀",

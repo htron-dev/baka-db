@@ -1,5 +1,9 @@
 {
     "title": "Maou Kyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200641.jpg",
+        "alt": "maou-kyoudai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Sabinuki Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159919.jpg",
+        "alt": "sabinuki-kanojo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

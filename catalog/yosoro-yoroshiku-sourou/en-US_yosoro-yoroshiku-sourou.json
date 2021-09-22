@@ -1,5 +1,9 @@
 {
     "title": "Yosoro!!: Yoroshiku Sourou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184543.jpg",
+        "alt": "yosoro-yoroshiku-sourou"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ヨーソロー!! －宜シク候－",

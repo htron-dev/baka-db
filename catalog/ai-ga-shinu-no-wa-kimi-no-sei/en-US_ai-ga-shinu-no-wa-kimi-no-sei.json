@@ -1,5 +1,9 @@
 {
     "title": "Ai ga Shinu no wa Kimi no Sei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210565.jpg",
+        "alt": "ai-ga-shinu-no-wa-kimi-no-sei"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "32",

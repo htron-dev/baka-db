@@ -1,5 +1,9 @@
 {
     "title": "Tengoku e Ikebaii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6386.jpg",
+        "alt": "tengoku-e-ikebaii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

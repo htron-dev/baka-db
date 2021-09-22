@@ -1,5 +1,9 @@
 {
     "title": "Doko ni mo Nai Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/53341.jpg",
+        "alt": "doko-ni-mo-nai-kuni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

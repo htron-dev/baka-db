@@ -1,5 +1,9 @@
 {
     "title": "Boku no Wagamama na Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138281.jpg",
+        "alt": "boku-no-wagamama-na-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

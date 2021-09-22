@@ -1,5 +1,9 @@
 {
     "title": "Eikou no Te",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3998.jpg",
+        "alt": "eikou-no-te"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

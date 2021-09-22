@@ -1,5 +1,9 @@
 {
     "title": "Kakenukerunara, Kienaidekure.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3253.jpg",
+        "alt": "kakenukerunara-kienaidekure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

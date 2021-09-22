@@ -1,5 +1,9 @@
 {
     "title": "Tony Takezaki no Evangelion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143805.jpg",
+        "alt": "tony-takezaki-no-evangelion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "36",

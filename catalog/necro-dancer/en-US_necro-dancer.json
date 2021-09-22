@@ -1,5 +1,9 @@
 {
     "title": "Necro Dancer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/71017.jpg",
+        "alt": "necro-dancer"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "ネクロダンサー",

@@ -1,5 +1,9 @@
 {
     "title": "Manhole",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67629.jpg",
+        "alt": "manhole"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

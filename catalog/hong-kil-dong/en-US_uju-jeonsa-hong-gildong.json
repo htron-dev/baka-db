@@ -1,5 +1,9 @@
 {
     "title": "Uju Jeonsa Hong Gildong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/45168.jpg",
+        "alt": "uju-jeonsa-hong-gildong"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "우주전사 홍길동",

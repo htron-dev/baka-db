@@ -1,5 +1,9 @@
 {
     "title": "Photokano: Happy Album",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117607.jpg",
+        "alt": "photokano-happy-album"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

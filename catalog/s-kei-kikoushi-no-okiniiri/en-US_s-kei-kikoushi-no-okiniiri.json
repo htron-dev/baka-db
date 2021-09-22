@@ -1,5 +1,9 @@
 {
     "title": "S-kei Kikoushi no Okiniiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192165.jpg",
+        "alt": "s-kei-kikoushi-no-okiniiri"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

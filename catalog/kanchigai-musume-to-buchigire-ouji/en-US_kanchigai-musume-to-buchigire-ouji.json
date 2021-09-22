@@ -1,5 +1,9 @@
 {
     "title": "Kanchigai Musume to Buchigire Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22830.jpg",
+        "alt": "kanchigai-musume-to-buchigire-ouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Minamo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/71621.jpg",
+        "alt": "minamo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "minamo",

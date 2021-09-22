@@ -1,12 +1,16 @@
 {
     "title": "Starmyu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75765.jpg",
+        "alt": "starmyu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "高校星歌劇［スタミュ］",
     "start_date": "2015-10-06",
     "end_date": "2015-10-06",
     "opening_song": "\"DREAMER\" by Gero",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Seishun COUNTDOWN (星瞬 COUNTDOWN)\" by team Ootori (eps 1-4, 6-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

@@ -1,5 +1,9 @@
 {
     "title": "Boku to Kanojo to Senpai no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61733.jpg",
+        "alt": "boku-to-kanojo-to-senpai-no-hanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

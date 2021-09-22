@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monster BW: Enrai no Eiyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/88167.jpg",
+        "alt": "pocket-monster-bw-enrai-no-eiyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

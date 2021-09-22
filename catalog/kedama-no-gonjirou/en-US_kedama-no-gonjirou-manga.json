@@ -1,5 +1,9 @@
 {
     "title": "Kedama no Gonjirou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233601.jpg",
+        "alt": "kedama-no-gonjirou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

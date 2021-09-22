@@ -1,5 +1,9 @@
 {
     "title": "First Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40473.jpg",
+        "alt": "first-girl"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "18",

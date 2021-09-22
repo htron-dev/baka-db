@@ -1,5 +1,9 @@
 {
     "title": "Umibe no Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164575.jpg",
+        "alt": "umibe-no-usagi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "海辺のウサギ",

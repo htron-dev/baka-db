@@ -1,5 +1,9 @@
 {
     "title": "Makasete Iruka!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/3778.jpg",
+        "alt": "makasete-iruka"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "まかせてイルか！",

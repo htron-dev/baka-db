@@ -1,5 +1,9 @@
 {
     "title": "Kitsutsuki Tanteidokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1139/105873.jpg",
+        "alt": "kitsutsuki-tanteidokoro"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "啄木鳥探偵處",

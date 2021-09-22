@@ -1,5 +1,9 @@
 {
     "title": "1 Pound no Fukuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19250.jpg",
+        "alt": "1-pound-no-fukuin"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

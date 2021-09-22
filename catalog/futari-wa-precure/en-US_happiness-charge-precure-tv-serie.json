@@ -1,12 +1,16 @@
 {
     "title": "Happiness Charge Precure!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1973/94568.jpg",
+        "alt": "happiness-charge-precure"
+    },
     "type": "tv-serie",
     "episodes": "49",
     "original_name": "ハピネスチャージプリキュア！",
     "start_date": "2014-02-02",
     "end_date": "2014-02-02",
     "opening_song": "Happiness Charge Precure!WOW! (ハピネスチャージプリキュア！WOW！) by Sayaka Nakaya (仲谷明香)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Precure Memory (プリキュア・メモリ)\" by Hitomi Yoshida (吉田仁美) (eps 1-26)",
     "rating": "G - All Ages",
     "tags": [
         "action",

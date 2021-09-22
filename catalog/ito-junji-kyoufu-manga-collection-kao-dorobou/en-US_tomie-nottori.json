@@ -1,5 +1,9 @@
 {
     "title": "Tomie: Nottori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233732.jpg",
+        "alt": "tomie-nottori"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "富江・乗っ取り",

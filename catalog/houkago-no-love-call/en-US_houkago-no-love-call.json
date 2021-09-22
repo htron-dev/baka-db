@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Love Call",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31897.jpg",
+        "alt": "houkago-no-love-call"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

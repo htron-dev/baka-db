@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Matasaburou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/34253.jpg",
+        "alt": "kaze-no-matasaburou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "風の又三郎",

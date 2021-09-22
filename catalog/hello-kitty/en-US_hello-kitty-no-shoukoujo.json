@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Shoukoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/58677.jpg",
+        "alt": "hello-kitty-no-shoukoujo"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティの小公女",

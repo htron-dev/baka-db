@@ -1,5 +1,9 @@
 {
     "title": "Kimama na Aitsu wo Kainarase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210943.jpg",
+        "alt": "kimama-na-aitsu-wo-kainarase"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

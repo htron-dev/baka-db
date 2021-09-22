@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest: Tenkuu Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35075.jpg",
+        "alt": "dragon-quest-tenkuu-monogatari"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "ドラゴンクエスト 天空物語",

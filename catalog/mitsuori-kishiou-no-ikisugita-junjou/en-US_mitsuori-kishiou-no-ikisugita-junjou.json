@@ -1,5 +1,9 @@
 {
     "title": "Mitsuori: Kishiou no Ikisugita Junjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191946.jpg",
+        "alt": "mitsuori-kishiou-no-ikisugita-junjou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

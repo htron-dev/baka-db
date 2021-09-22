@@ -1,12 +1,16 @@
 {
     "title": "Virtual-san wa Miteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1429/98554.jpg",
+        "alt": "virtual-san-wa-miteiru"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "バーチャルさんはみている",
     "start_date": "2019-01-10",
     "end_date": "2019-01-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1:\"AIAIAI feat. Yasutaka Nakata (AIAIAI feat. 中田ヤスタカ)\" by AI Kizuna (eps 1-6)",
+    "ending_song": "#1: \"Hitogata (ヒトガタ)\" by HIMEHINA (Hime Tanaka + Hina Suzuki (田中ヒメ+鈴木ヒナ)) (eps 1-6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

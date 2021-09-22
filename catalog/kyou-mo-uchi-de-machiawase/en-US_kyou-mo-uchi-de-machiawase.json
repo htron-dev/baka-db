@@ -1,5 +1,9 @@
 {
     "title": "Kyou mo Uchi de Machiawase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/122909.jpg",
+        "alt": "kyou-mo-uchi-de-machiawase"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

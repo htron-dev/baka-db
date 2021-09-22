@@ -1,5 +1,9 @@
 {
     "title": "Monster Strike: Mermaid Rhapsody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/80678.jpg",
+        "alt": "monster-strike-mermaid-rhapsody"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "モンスターストライク『マーメイド・ラプソディ』",
@@ -19,7 +23,7 @@
         },
         {
             "text": "Official Site",
-            "link": "http:// http://anime.monster-strike.com/news/news_072.html"
+            "link": "http://anime.monster-strike.com/news/news_072.html"
         },
         {
             "text": "AnimeDB",

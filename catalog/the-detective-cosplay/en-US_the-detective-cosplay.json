@@ -1,5 +1,9 @@
 {
     "title": "The Detective Cosplay",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/34153.jpg",
+        "alt": "the-detective-cosplay"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

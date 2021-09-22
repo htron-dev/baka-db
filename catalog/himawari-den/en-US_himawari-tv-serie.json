@@ -1,12 +1,16 @@
 {
     "title": "Himawari!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/60061.jpg",
+        "alt": "himawari"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ひまわりっ！！",
     "start_date": "2007-01-07",
     "end_date": "2007-01-07",
     "opening_song": "\"Sorairo no Tsubasa (ソラ色のつばさ)\" by Ryoko Shiraishi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kirakira (きらきら)\" by eufonius (eps 1, 8, 13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

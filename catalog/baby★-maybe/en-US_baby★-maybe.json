@@ -1,5 +1,9 @@
 {
     "title": "Baby★Maybe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12047.jpg",
+        "alt": "baby★-maybe"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ベイビー ★ メイビー",

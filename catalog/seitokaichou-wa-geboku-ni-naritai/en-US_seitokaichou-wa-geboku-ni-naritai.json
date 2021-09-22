@@ -1,5 +1,9 @@
 {
     "title": "Seitokaichou wa Geboku ni Naritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240779.jpg",
+        "alt": "seitokaichou-wa-geboku-ni-naritai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

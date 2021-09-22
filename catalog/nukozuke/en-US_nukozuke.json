@@ -1,5 +1,9 @@
 {
     "title": "Nukozuke!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189388.jpg",
+        "alt": "nukozuke"
+    },
     "type": "manga",
     "original_name": "ぬこづけ！",
     "start_date": "2012-04-06",

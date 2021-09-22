@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Tachibana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186256.jpg",
+        "alt": "kaze-no-tachibana"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "47",

@@ -1,5 +1,9 @@
 {
     "title": "Keibuho Daimajin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225535.jpg",
+        "alt": "keibuho-daimajin"
+    },
     "type": "manga",
     "original_name": "警部補 ダイマジン",
     "start_date": "2019-01-04",

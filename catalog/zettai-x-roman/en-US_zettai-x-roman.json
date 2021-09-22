@@ -1,5 +1,9 @@
 {
     "title": "Zettai x Roman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167026.jpg",
+        "alt": "zettai-x-roman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

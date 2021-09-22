@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Kesshouban-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/249737.jpg",
+        "alt": "hataraku-kesshouban-chan"
+    },
     "type": "manga",
     "original_name": "はたらく血小板ちゃん",
     "start_date": "2019-05-25",

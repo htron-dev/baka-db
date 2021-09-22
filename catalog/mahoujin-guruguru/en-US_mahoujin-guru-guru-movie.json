@@ -1,5 +1,9 @@
 {
     "title": "Mahoujin Guru Guru Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/49583.jpg",
+        "alt": "mahoujin-guru-guru-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 魔法陣グルグル",

@@ -1,5 +1,9 @@
 {
     "title": "Sensei to, Watashi to, Hajimete.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85153.jpg",
+        "alt": "sensei-to-watashi-to-hajimete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

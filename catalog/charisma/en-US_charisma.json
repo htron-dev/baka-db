@@ -1,5 +1,9 @@
 {
     "title": "Charisma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36633.jpg",
+        "alt": "charisma"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "カリスマ",

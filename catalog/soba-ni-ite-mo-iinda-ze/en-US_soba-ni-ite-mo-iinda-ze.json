@@ -1,5 +1,9 @@
 {
     "title": "Soba ni Ite mo Iinda ze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186507.jpg",
+        "alt": "soba-ni-ite-mo-iinda-ze"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "そばにいてもいいんだぜ",

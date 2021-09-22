@@ -1,5 +1,9 @@
 {
     "title": "Trigun Maximum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/55331.jpg",
+        "alt": "trigun-maximum"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "102",

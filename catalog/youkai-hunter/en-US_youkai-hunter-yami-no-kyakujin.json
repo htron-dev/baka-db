@@ -1,5 +1,9 @@
 {
     "title": "Youkai Hunter: Yami no Kyakujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80451.jpg",
+        "alt": "youkai-hunter-yami-no-kyakujin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "妖怪 HUNTER~闇の客人~",

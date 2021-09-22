@@ -1,5 +1,9 @@
 {
     "title": "K: Seven Stories Movie 5 - Memory of Red - Burn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1790/91851.jpg",
+        "alt": "k-seven-stories-movie-5-memory-of-red-burn"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "K Seven Stories メモリー・オブ・レッド ~BURN~",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/K_(anime"
+            "link": "https://en.wikipedia.org/wiki/K_%28anime%29"
         }
     ]
 }

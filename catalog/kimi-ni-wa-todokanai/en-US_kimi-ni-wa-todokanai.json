@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni wa Todokanai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226356.jpg",
+        "alt": "kimi-ni-wa-todokanai"
+    },
     "type": "manga",
     "original_name": "君には届かない。",
     "start_date": "2018-11-23",

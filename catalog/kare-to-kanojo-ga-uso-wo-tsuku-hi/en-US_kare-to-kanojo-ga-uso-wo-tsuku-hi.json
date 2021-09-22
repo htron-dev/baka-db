@@ -1,5 +1,9 @@
 {
     "title": "Kare to Kanojo ga Uso wo Tsuku Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/86823.jpg",
+        "alt": "kare-to-kanojo-ga-uso-wo-tsuku-hi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

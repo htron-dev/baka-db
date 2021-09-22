@@ -1,5 +1,9 @@
 {
     "title": "Kaizoku Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1677/100901.jpg",
+        "alt": "kaizoku-ouji"
+    },
     "type": "tv-serie",
     "episodes": "31",
     "original_name": "海賊王子",

@@ -1,5 +1,9 @@
 {
     "title": "Endorphin Machine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29572.jpg",
+        "alt": "endorphin-machine"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

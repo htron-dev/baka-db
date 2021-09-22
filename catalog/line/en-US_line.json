@@ -1,5 +1,9 @@
 {
     "title": "Line",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189890.jpg",
+        "alt": "line"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

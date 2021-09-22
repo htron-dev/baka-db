@@ -1,5 +1,9 @@
 {
     "title": "Usagi to Kame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/85240.jpg",
+        "alt": "usagi-to-kame"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "兎と亀",

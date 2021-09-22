@@ -1,5 +1,9 @@
 {
     "title": "Dead Leaves",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1827/112657.jpg",
+        "alt": "dead-leaves"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "デッド　リーブス",

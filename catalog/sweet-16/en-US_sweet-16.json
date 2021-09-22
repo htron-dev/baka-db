@@ -1,5 +1,9 @@
 {
     "title": "Sweet 16",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183126.jpg",
+        "alt": "sweet-16"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

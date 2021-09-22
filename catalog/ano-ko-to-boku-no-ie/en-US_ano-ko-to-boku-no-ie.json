@@ -1,5 +1,9 @@
 {
     "title": "Ano Ko to Boku no Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200232.jpg",
+        "alt": "ano-ko-to-boku-no-ie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

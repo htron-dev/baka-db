@@ -1,5 +1,9 @@
 {
     "title": "Night Head",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11686.jpg",
+        "alt": "night-head"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "33",

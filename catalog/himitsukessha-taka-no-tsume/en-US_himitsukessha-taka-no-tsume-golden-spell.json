@@ -1,5 +1,9 @@
 {
     "title": "Himitsukessha Taka no Tsume: Golden Spell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1649/109640.jpg",
+        "alt": "himitsukessha-taka-no-tsume-golden-spell"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "秘密結社 鷹の爪 ～ゴールデン・スペル～",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Eagle_Talon_(anime"
+            "link": "https://en.wikipedia.org/wiki/Eagle_Talon_%28anime%29"
         }
     ]
 }

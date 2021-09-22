@@ -1,11 +1,15 @@
 {
     "title": "Attack No.1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/59517.jpg",
+        "alt": "attack-no-1"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "アタック No.1",
     "start_date": "1969-12-07",
     "end_date": "1969-12-07",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Attack No. 1\" by Oosugi Kumiko (ep 1-5)",
     "ending_song": "\"Bon Bo Bon (バン・ボ・ボン)\" by Ishuu Kayoko",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

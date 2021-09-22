@@ -1,5 +1,9 @@
 {
     "title": "Sakuragai no Tameiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10878.jpg",
+        "alt": "sakuragai-no-tameiki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "桜貝のためいき",

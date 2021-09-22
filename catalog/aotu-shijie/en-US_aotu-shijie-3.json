@@ -1,5 +1,9 @@
 {
     "title": "AOTU Shijie 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1306/102590.jpg",
+        "alt": "aotu-shijie-3"
+    },
     "type": "ona",
     "episodes": "40",
     "original_name": "凹凸世界 3",

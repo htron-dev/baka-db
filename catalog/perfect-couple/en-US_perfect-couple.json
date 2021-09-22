@@ -1,5 +1,9 @@
 {
     "title": "Perfect Couple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/62857.jpg",
+        "alt": "perfect-couple"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "13",

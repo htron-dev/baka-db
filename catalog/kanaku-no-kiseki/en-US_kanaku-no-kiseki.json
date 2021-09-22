@@ -1,5 +1,9 @@
 {
     "title": "Kanaku no Kiseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120703.jpg",
+        "alt": "kanaku-no-kiseki"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "55",

@@ -1,5 +1,9 @@
 {
     "title": "Idol wa Tsukkomareru no ga Suki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146081.jpg",
+        "alt": "idol-wa-tsukkomareru-no-ga-suki"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "45",

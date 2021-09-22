@@ -1,5 +1,9 @@
 {
     "title": "Eisen Flügel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201633.jpg",
+        "alt": "eisen-flugel"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "6",

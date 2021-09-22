@@ -1,5 +1,9 @@
 {
     "title": "Hyouketsu Kyoukai no Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119935.jpg",
+        "alt": "hyouketsu-kyoukai-no-eden"
+    },
     "type": "light-novel",
     "volumes": "13",
     "original_name": "氷結鏡界のエデン",

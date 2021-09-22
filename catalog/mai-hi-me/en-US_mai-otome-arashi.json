@@ -1,5 +1,9 @@
 {
     "title": "Mai-Otome Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5708.jpg",
+        "alt": "mai-otome-arashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

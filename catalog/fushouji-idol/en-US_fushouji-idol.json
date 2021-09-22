@@ -1,5 +1,9 @@
 {
     "title": "Fushouji Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238462.jpg",
+        "alt": "fushouji-idol"
+    },
     "type": "manga",
     "original_name": "不祥事アイドル",
     "start_date": "2019-07-06",

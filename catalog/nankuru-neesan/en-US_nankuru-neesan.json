@@ -1,5 +1,9 @@
 {
     "title": "Nankuru Neesan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188960.jpg",
+        "alt": "nankuru-neesan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "34",

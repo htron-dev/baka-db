@@ -1,10 +1,14 @@
 {
     "title": "Aterui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/60695.jpg",
+        "alt": "aterui"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アテルイ",
     "start_date": "2002-12-02",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Aterui Will Hero\" by K-A-Z, Yuuichi Ikuzawa",
     "rating": "G - All Ages",
     "tags": [
         "action",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%86%E3%83%AB%E3%82%A4_(%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB"
+            "link": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%86%E3%83%AB%E3%82%A4_%28%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB%29"
         }
     ]
 }

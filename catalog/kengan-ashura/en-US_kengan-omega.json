@@ -1,5 +1,9 @@
 {
     "title": "Kengan Omega",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216684.jpg",
+        "alt": "kengan-omega"
+    },
     "type": "manga",
     "original_name": "ケンガンオメガ",
     "start_date": "2019-01-31",

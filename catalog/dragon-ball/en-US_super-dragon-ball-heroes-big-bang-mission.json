@@ -1,5 +1,9 @@
 {
     "title": "Super Dragon Ball Heroes: Big Bang Mission!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245708.jpg",
+        "alt": "super-dragon-ball-heroes-big-bang-mission"
+    },
     "type": "manga",
     "original_name": "スーパードラゴンボールヒーローズ ビッグバンミッション!!!",
     "start_date": "2020-04-02",

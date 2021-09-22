@@ -1,5 +1,9 @@
 {
     "title": "Tatakae!! Ramenman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148321.jpg",
+        "alt": "tatakae-ramenman"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "54",

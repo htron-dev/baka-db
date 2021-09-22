@@ -1,5 +1,9 @@
 {
     "title": "Bakuon Rettou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173111.jpg",
+        "alt": "bakuon-rettou"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "105",

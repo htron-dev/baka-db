@@ -1,5 +1,9 @@
 {
     "title": "Gosick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148131.jpg",
+        "alt": "gosick"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "29",

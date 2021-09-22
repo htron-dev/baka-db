@@ -1,5 +1,9 @@
 {
     "title": "Joshikousei Kagishi Saki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/35274.jpg",
+        "alt": "joshikousei-kagishi-saki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

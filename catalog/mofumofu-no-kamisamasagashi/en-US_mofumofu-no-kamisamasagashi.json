@@ -1,5 +1,9 @@
 {
     "title": "Mofumofu no Kamisamasagashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205491.jpg",
+        "alt": "mofumofu-no-kamisamasagashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

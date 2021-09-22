@@ -1,5 +1,9 @@
 {
     "title": "Doukyonin ga Otoko nante Kiitenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231952.jpg",
+        "alt": "doukyonin-ga-otoko-nante-kiitenai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama no Seitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234422.jpg",
+        "alt": "ouji-sama-no-seitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

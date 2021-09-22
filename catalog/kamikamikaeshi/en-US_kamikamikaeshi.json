@@ -1,5 +1,9 @@
 {
     "title": "Kamikamikaeshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161232.jpg",
+        "alt": "kamikamikaeshi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "37",

@@ -1,5 +1,9 @@
 {
     "title": "Iinari Gohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161548.jpg",
+        "alt": "iinari-gohan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "27",

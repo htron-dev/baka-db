@@ -1,5 +1,9 @@
 {
     "title": "Youhei Pierre",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31700.jpg",
+        "alt": "youhei-pierre"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

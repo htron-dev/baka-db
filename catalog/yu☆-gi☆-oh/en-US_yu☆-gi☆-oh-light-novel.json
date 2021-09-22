@@ -1,5 +1,9 @@
 {
     "title": "Yu☆Gi☆Oh!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156076.jpg",
+        "alt": "yu☆-gi☆-oh"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

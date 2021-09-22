@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Angels",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/60617.jpg",
+        "alt": "tokyo-angels"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "東京 ANGELS",

@@ -1,5 +1,9 @@
 {
     "title": "Doraemon: Benkyou Heya no Tsuribori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88815.jpg",
+        "alt": "doraemon-benkyou-heya-no-tsuribori"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ドラえもん 勉強部屋のつりぼり",

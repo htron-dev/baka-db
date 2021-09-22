@@ -1,5 +1,9 @@
 {
     "title": "Onsen Wakusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167381.jpg",
+        "alt": "onsen-wakusei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kuro x Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169591.jpg",
+        "alt": "kuro-x-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

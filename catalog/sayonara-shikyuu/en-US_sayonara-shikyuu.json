@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Shikyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223021.jpg",
+        "alt": "sayonara-shikyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "21",

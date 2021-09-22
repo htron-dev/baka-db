@@ -1,5 +1,9 @@
 {
     "title": "Pantser Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/111439.jpg",
+        "alt": "pantser-princess"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "35",

@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Hakuchou no Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/48019.jpg",
+        "alt": "hello-kitty-no-hakuchou-no-ouji"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティの白鳥の王子",

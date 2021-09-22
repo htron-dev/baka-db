@@ -1,12 +1,16 @@
 {
     "title": "Sakura Trick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/56189.jpg",
+        "alt": "sakura-trick"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "桜 Trick",
     "start_date": "2014-01-10",
     "end_date": "2014-01-10",
     "opening_song": "\"Won(_3_)Chu KissMe!\" by SAKURA\\*TRICK [Haruka Takayama (Haruka Tomatsu), Yuu Sonoda (Yuka Iguchi), Kotone Noda (Yuuka Aisaka), Shizuku Minami (Hiromi Igarashi), Kanade Ikeno (Mai Fuchigami), Yuzu Iizuka (Megumi Toda)]",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kiss(and)Love\" by SAKURA\\*TRICK [Haruka Takayama (Haruka Tomatsu) and Yuu Sonoda (Yuka Iguchi)]",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

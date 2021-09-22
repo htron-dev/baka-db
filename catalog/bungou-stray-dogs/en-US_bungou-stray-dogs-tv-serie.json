@@ -1,5 +1,9 @@
 {
     "title": "Bungou Stray Dogs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/79409.jpg",
+        "alt": "bungou-stray-dogs"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "文豪ストレイドッグス",

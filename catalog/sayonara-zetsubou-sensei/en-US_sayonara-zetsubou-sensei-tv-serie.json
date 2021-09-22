@@ -1,11 +1,15 @@
 {
     "title": "Sayonara Zetsubou Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/6559.jpg",
+        "alt": "sayonara-zetsubou-sensei"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "さよなら絶望先生",
     "start_date": "2007-07-08",
     "end_date": "2007-07-08",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Hito toshite Jiku ga Bureteiru (人として軸がぶれている)\" by Kenji Ohtsuki feat. Ai Nonaka, Marina Inoue, Yu Kobayashi, Miyuki Sawashiro & Ryoko Shintani (eps 1-9, 12)",
     "ending_song": "\"Zessei Bijin (絶世美人)\" by Ai Nonaka, Marina Inoue, Yu Kobayashi & Ryoko Shintani",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

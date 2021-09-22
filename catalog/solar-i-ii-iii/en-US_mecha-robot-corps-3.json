@@ -1,5 +1,9 @@
 {
     "title": "Mecha Robot Corps 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/45172.jpg",
+        "alt": "mecha-robot-corps-3"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "로보트군단과 메카3",

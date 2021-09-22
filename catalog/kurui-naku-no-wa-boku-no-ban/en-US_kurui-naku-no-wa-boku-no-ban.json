@@ -1,5 +1,9 @@
 {
     "title": "Kurui Naku no wa Boku no Ban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192063.jpg",
+        "alt": "kurui-naku-no-wa-boku-no-ban"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

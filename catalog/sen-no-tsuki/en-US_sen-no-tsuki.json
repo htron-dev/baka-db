@@ -1,5 +1,9 @@
 {
     "title": "Sen no Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37101.jpg",
+        "alt": "sen-no-tsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

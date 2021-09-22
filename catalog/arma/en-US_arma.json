@@ -1,5 +1,9 @@
 {
     "title": "Arma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237322.jpg",
+        "alt": "arma"
+    },
     "type": "manhwa",
     "original_name": "아르마",
     "start_date": "2018-05-09",

@@ -1,5 +1,9 @@
 {
     "title": "Yocchan no Biidama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/53837.jpg",
+        "alt": "yocchan-no-biidama"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "よっちゃんのビー玉",

@@ -1,5 +1,9 @@
 {
     "title": "Master of Torque",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/65243.jpg",
+        "alt": "master-of-torque"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "マスター・オブ・トルク",

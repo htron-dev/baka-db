@@ -1,5 +1,9 @@
 {
     "title": "Nangoku Shounen Papuwa-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23580.jpg",
+        "alt": "nangoku-shounen-papuwa-kun"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "56",

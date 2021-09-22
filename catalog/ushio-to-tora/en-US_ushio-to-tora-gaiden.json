@@ -1,5 +1,9 @@
 {
     "title": "Ushio to Tora Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/164810.jpg",
+        "alt": "ushio-to-tora-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

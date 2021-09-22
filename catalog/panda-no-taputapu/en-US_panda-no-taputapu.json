@@ -1,5 +1,9 @@
 {
     "title": "Panda no Taputapu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1747/90564.jpg",
+        "alt": "panda-no-taputapu"
+    },
     "type": "tv-serie",
     "episodes": "431",
     "original_name": "パンダのたぷたぷ",

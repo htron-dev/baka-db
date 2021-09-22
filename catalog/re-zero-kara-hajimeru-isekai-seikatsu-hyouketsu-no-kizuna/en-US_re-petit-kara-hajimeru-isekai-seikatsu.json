@@ -1,8 +1,12 @@
 {
     "title": "Re:Petit kara Hajimeru Isekai Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/81281.jpg",
+        "alt": "re-petit-kara-hajimeru-isekai-seikatsu"
+    },
     "type": "special",
     "episodes": "14",
-    "original_name": "Re",
+    "original_name": "Re:プチから始める異世界生活",
     "start_date": "2016-06-24",
     "end_date": "2016-06-24",
     "rating": "PG-13 - Teens 13 or older",

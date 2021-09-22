@@ -1,5 +1,9 @@
 {
     "title": "Plunderer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161356.jpg",
+        "alt": "plunderer"
+    },
     "type": "manga",
     "original_name": "プランダラ",
     "start_date": "2014-12-26",

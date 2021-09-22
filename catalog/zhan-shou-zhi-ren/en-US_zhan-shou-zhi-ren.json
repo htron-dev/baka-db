@@ -1,5 +1,9 @@
 {
     "title": "Zhan Shou Zhi Ren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1476/95757.jpg",
+        "alt": "zhan-shou-zhi-ren"
+    },
     "type": "ona",
     "episodes": "18",
     "original_name": "斩兽之刃",

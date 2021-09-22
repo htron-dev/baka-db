@@ -1,5 +1,9 @@
 {
     "title": "Nightmare Funk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166201.jpg",
+        "alt": "nightmare-funk"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

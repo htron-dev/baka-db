@@ -1,5 +1,9 @@
 {
     "title": "Tengoku ni Namida wa Iranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162760.jpg",
+        "alt": "tengoku-ni-namida-wa-iranai"
+    },
     "type": "light-novel",
     "volumes": "12",
     "original_name": "天国に涙はいらない",

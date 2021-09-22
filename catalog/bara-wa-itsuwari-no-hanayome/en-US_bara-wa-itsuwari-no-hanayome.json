@@ -1,5 +1,9 @@
 {
     "title": "Bara wa Itsuwari no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185919.jpg",
+        "alt": "bara-wa-itsuwari-no-hanayome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

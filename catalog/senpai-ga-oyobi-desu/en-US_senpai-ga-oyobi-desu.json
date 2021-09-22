@@ -1,5 +1,9 @@
 {
     "title": "Senpai ga Oyobi desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215887.jpg",
+        "alt": "senpai-ga-oyobi-desu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

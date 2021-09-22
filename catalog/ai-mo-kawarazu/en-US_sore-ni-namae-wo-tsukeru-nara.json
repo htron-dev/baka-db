@@ -1,5 +1,9 @@
 {
     "title": "Sore ni Namae wo Tsukeru Nara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225694.jpg",
+        "alt": "sore-ni-namae-wo-tsukeru-nara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

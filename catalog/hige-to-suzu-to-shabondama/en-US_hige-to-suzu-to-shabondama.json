@@ -1,5 +1,9 @@
 {
     "title": "Hige to Suzu to Shabondama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237881.jpg",
+        "alt": "hige-to-suzu-to-shabondama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "23",

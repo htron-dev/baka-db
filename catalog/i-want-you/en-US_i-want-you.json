@@ -1,5 +1,9 @@
 {
     "title": "I Want You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91759.jpg",
+        "alt": "i-want-you"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "6",

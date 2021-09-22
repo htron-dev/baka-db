@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest X: 4-koma Manga Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109001.jpg",
+        "alt": "dragon-quest-x-4-koma-manga-gekijou"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ドラゴンクエスト X 4 コママンガ劇場",

@@ -1,5 +1,9 @@
 {
     "title": "Honey na Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/8238.jpg",
+        "alt": "honey-na-koto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

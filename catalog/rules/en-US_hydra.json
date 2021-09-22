@@ -1,5 +1,9 @@
 {
     "title": "Hydra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/26130.jpg",
+        "alt": "hydra"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

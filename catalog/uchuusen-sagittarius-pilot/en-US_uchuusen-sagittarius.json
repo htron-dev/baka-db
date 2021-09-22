@@ -1,5 +1,9 @@
 {
     "title": "Uchuusen Sagittarius",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/45430.jpg",
+        "alt": "uchuusen-sagittarius"
+    },
     "type": "tv-serie",
     "episodes": "77",
     "original_name": "宇宙船サジタリウス",

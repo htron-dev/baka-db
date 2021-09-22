@@ -1,5 +1,9 @@
 {
     "title": "Onborobachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203145.jpg",
+        "alt": "onborobachi"
+    },
     "type": "manga",
     "original_name": "オンボロバチ",
     "start_date": "2017-08-09",

@@ -1,5 +1,9 @@
 {
     "title": "Happa 64",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44703.jpg",
+        "alt": "happa-64"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "40",

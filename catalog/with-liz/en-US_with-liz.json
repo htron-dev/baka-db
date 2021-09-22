@@ -1,5 +1,9 @@
 {
     "title": "With Liz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32347.jpg",
+        "alt": "with-liz"
+    },
     "type": "manga",
     "original_name": "うぃずりず",
     "start_date": "2007-04-26",

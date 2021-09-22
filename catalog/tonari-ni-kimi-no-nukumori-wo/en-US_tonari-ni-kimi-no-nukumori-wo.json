@@ -1,5 +1,9 @@
 {
     "title": "Tonari ni Kimi no Nukumori wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7808.jpg",
+        "alt": "tonari-ni-kimi-no-nukumori-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

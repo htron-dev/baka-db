@@ -1,5 +1,9 @@
 {
     "title": "Cynthia the Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/55141.jpg",
+        "alt": "cynthia-the-mission"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "43",

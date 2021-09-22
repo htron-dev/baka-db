@@ -1,5 +1,9 @@
 {
     "title": "Kamogawa Horumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/48469.jpg",
+        "alt": "kamogawa-horumo"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "鴨川ホルモー",

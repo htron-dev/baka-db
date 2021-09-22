@@ -1,5 +1,9 @@
 {
     "title": "Kyou, Koshiba Aoi ni Aetara.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221003.jpg",
+        "alt": "kyou-koshiba-aoi-ni-aetara"
+    },
     "type": "manga",
     "original_name": "今日、小柴葵に会えたら。",
     "start_date": "2018-11-27",

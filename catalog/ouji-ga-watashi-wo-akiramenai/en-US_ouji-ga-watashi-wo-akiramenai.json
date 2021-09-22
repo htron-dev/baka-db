@@ -1,5 +1,9 @@
 {
     "title": "Ouji ga Watashi wo Akiramenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192530.jpg",
+        "alt": "ouji-ga-watashi-wo-akiramenai"
+    },
     "type": "manga",
     "original_name": "王子が私をあきらめない!",
     "start_date": "2015-02-28",

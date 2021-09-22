@@ -1,5 +1,9 @@
 {
     "title": "Kekkon Shiyou yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24477.jpg",
+        "alt": "kekkon-shiyou-yo"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "66",

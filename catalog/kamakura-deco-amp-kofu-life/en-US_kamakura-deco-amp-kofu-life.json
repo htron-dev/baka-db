@@ -1,5 +1,9 @@
 {
     "title": "Kamakura Deco &amp; Kofu Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72033.jpg",
+        "alt": "kamakura-deco-amp-kofu-life"
+    },
     "type": "manga",
     "original_name": "鎌倉デコフライフ",
     "start_date": "2011-06-18",

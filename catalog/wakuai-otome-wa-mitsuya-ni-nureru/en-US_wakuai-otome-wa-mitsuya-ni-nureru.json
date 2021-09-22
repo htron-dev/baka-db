@@ -1,5 +1,9 @@
 {
     "title": "Wakuai: Otome wa Mitsuya ni Nureru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181449.jpg",
+        "alt": "wakuai-otome-wa-mitsuya-ni-nureru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

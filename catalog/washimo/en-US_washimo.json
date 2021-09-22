@@ -1,5 +1,9 @@
 {
     "title": "Washimo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/58721.jpg",
+        "alt": "washimo"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "わしも",

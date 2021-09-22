@@ -1,5 +1,9 @@
 {
     "title": "Torikaebaya Ibun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34711.jpg",
+        "alt": "torikaebaya-ibun"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "とりかえばや異聞",

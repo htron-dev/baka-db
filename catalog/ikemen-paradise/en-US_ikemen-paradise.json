@@ -1,5 +1,9 @@
 {
     "title": "Ikemen Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61709.jpg",
+        "alt": "ikemen-paradise"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

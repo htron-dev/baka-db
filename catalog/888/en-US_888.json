@@ -1,5 +1,9 @@
 {
     "title": "888",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164431.jpg",
+        "alt": "888"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "888",

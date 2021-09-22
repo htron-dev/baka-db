@@ -1,5 +1,9 @@
 {
     "title": "Heibon naru Koutei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216392.jpg",
+        "alt": "heibon-naru-koutei"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

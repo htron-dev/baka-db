@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/24380.jpg",
+        "alt": "dragon-ball-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ドラゴンボール",

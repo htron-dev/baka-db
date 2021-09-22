@@ -1,5 +1,9 @@
 {
     "title": "Six",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193190.jpg",
+        "alt": "six"
+    },
     "type": "manga",
     "chapters": "8",
     "original_name": "SIX",

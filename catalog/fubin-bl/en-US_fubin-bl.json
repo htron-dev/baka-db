@@ -1,5 +1,9 @@
 {
     "title": "Fubin BL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140595.jpg",
+        "alt": "fubin-bl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

@@ -1,12 +1,16 @@
 {
     "title": "Kiniro no Corda: Primo Passo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/7228.jpg",
+        "alt": "kiniro-no-corda-primo-passo"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "金色のコルダ ～ primo passo ～",
     "start_date": "2006-10-02",
     "end_date": "2006-10-02",
     "opening_song": "\"Brand New Breeze\" by Kanon (eps 1-24, ep 26)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Crescendo\" by Stella Quintet (eps 1-24, ep 26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

@@ -1,5 +1,9 @@
 {
     "title": "Yongzhe Xueyuan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1691/115493.jpg",
+        "alt": "yongzhe-xueyuan"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "勇者学院",

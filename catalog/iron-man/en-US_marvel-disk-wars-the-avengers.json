@@ -1,5 +1,9 @@
 {
     "title": "Marvel Disk Wars: The Avengers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1699/100476.jpg",
+        "alt": "marvel-disk-wars-the-avengers"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ディスク・ウォーズ：アベンジャーズ",

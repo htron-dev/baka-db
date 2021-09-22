@@ -1,5 +1,9 @@
 {
     "title": "Tsuugaku Densha: Kimi to Boku no Heya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38610.jpg",
+        "alt": "tsuugaku-densha-kimi-to-boku-no-heya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

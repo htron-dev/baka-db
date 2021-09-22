@@ -1,5 +1,9 @@
 {
     "title": "Rinjin 13-gou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37311.jpg",
+        "alt": "rinjin-13-gou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

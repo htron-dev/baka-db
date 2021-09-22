@@ -1,5 +1,9 @@
 {
     "title": "Fujouri na Atashitachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198589.jpg",
+        "alt": "fujouri-na-atashitachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

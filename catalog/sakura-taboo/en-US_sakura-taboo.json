@@ -1,5 +1,9 @@
 {
     "title": "Sakura Taboo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147447.jpg",
+        "alt": "sakura-taboo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

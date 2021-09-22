@@ -1,5 +1,9 @@
 {
     "title": "Juuki Ningen Jumbor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222023.jpg",
+        "alt": "juuki-ningen-jumbor"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

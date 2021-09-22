@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ghoul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194456.jpg",
+        "alt": "tokyo-ghoul"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "17",

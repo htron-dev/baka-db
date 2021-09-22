@@ -1,5 +1,9 @@
 {
     "title": "Sol y Sombra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38978.jpg",
+        "alt": "sol-y-sombra"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ソル・イ・ソンブラ",

@@ -1,5 +1,9 @@
 {
     "title": "Okusama wa Patalliro!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157244.jpg",
+        "alt": "okusama-wa-patalliro"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "奥様はパタリロ!",

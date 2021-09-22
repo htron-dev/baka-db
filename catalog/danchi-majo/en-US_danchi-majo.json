@@ -1,5 +1,9 @@
 {
     "title": "Danchi Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180674.jpg",
+        "alt": "danchi-majo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

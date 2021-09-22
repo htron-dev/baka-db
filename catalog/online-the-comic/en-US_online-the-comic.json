@@ -1,5 +1,9 @@
 {
     "title": "Online: The Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/136597.jpg",
+        "alt": "online-the-comic"
+    },
     "type": "manga",
     "original_name": "オンライン The Comic",
     "start_date": "2013-08-23",

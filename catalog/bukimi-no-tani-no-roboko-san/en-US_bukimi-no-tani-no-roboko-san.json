@@ -1,5 +1,9 @@
 {
     "title": "Bukimi no Tani no Roboko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210068.jpg",
+        "alt": "bukimi-no-tani-no-roboko-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

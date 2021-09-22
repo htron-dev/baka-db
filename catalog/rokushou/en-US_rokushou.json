@@ -1,5 +1,9 @@
 {
     "title": "Rokushou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/218653.jpg",
+        "alt": "rokushou"
+    },
     "type": "manga",
     "original_name": "ロクショウ!",
     "start_date": "2018-11-12",

@@ -1,5 +1,9 @@
 {
     "title": "Toshishita Kareshi ni Hirowaremashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212070.jpg",
+        "alt": "toshishita-kareshi-ni-hirowaremashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Stand Up!!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137795.jpg",
+        "alt": "stand-up"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

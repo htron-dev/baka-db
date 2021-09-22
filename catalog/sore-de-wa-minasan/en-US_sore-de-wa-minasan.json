@@ -1,5 +1,9 @@
 {
     "title": "Sore de wa Minasan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20216.jpg",
+        "alt": "sore-de-wa-minasan"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "それではみなさん。",

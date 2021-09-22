@@ -1,5 +1,9 @@
 {
     "title": "Man in the Window",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195304.jpg",
+        "alt": "man-in-the-window"
+    },
     "type": "manga",
     "original_name": "Man In The Window",
     "start_date": "2015-06-19",

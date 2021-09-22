@@ -1,5 +1,9 @@
 {
     "title": "Arabian Nights: Sindbad no Bouken (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/31935.jpg",
+        "alt": "arabian-nights-sindbad-no-bouken-tv"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "アラビアンナイト シンドバットの冒険",

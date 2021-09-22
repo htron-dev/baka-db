@@ -1,5 +1,9 @@
 {
     "title": "Vampire no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181729.jpg",
+        "alt": "vampire-no-hanayome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

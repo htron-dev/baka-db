@@ -1,5 +1,9 @@
 {
     "title": "Glass no Kamen Desu ga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/47215.jpg",
+        "alt": "glass-no-kamen-desu-ga"
+    },
     "type": "tv-serie",
     "episodes": "3",
     "original_name": "ガラスの仮面ですが",

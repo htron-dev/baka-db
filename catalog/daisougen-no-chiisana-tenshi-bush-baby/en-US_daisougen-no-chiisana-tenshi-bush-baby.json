@@ -1,11 +1,15 @@
 {
     "title": "Daisougen no Chiisana Tenshi: Bush Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/11298.jpg",
+        "alt": "daisougen-no-chiisana-tenshi-bush-baby"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "大草原の小さな天使　ブッシュベイビー",
     "start_date": "1992-01-12",
     "end_date": "1992-01-12",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Apollo\" by Yasuhide Sawa (eps 1-22)",
     "ending_song": "\"Tori ni Naru (鳥になる)\" by Maya Okamoto",
     "rating": "G - All Ages",
     "tags": [

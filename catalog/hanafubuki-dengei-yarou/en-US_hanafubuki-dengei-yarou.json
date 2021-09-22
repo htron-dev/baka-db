@@ -1,5 +1,9 @@
 {
     "title": "Hanafubuki Dengei Yarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34698.jpg",
+        "alt": "hanafubuki-dengei-yarou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

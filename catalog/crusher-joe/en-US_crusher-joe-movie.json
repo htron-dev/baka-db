@@ -1,5 +1,9 @@
 {
     "title": "Crusher Joe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/24514.jpg",
+        "alt": "crusher-joe"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "クラッシャージョウ",

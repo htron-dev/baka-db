@@ -1,5 +1,9 @@
 {
     "title": "Knight's Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2667.jpg",
+        "alt": "knights-susume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

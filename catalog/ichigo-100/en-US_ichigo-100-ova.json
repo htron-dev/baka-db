@@ -1,12 +1,16 @@
 {
     "title": "Ichigo 100% OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/23595.jpg",
+        "alt": "ichigo-100-ova"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "いちご１００％　オリジナル DVD アニメーション",
     "start_date": "2005-06-20",
     "end_date": "2005-06-20",
     "opening_song": "\"Kimiiro 100% (君色 100％)\" by Nana Mizuki, Megumi Toyoguchi, Sanae Kobayashi & Mamiko Noto",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Jink White (ジンク・ホワイト)\" by Mamiko Noto (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

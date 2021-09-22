@@ -1,5 +1,9 @@
 {
     "title": "Ningyou no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195239.jpg",
+        "alt": "ningyou-no-kuni"
+    },
     "type": "manga",
     "original_name": "人形の国",
     "start_date": "2017-02-25",

@@ -1,5 +1,9 @@
 {
     "title": "Shoku no Gunshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228540.jpg",
+        "alt": "shoku-no-gunshi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "119",

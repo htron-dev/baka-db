@@ -1,5 +1,9 @@
 {
     "title": "Comics Underground Japan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29265.jpg",
+        "alt": "comics-underground-japan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

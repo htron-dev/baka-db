@@ -1,5 +1,9 @@
 {
     "title": "Makikomare Isekai Shoukanki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192453.jpg",
+        "alt": "makikomare-isekai-shoukanki"
+    },
     "type": "light-novel",
     "original_name": "巻き込まれ異世界召喚記",
     "start_date": "2017-03-25",

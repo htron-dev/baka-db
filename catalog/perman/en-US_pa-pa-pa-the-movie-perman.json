@@ -1,5 +1,9 @@
 {
     "title": "Pa-Pa-Pa the ★ Movie: Perman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/53741.jpg",
+        "alt": "pa-pa-pa-the-★-movie-perman"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Pa-Pa-Pa ザ ★ ムービー パーマン",

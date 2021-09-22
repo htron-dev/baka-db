@@ -1,5 +1,9 @@
 {
     "title": "Kingyo no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190241.jpg",
+        "alt": "kingyo-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

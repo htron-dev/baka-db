@@ -1,5 +1,9 @@
 {
     "title": "Moe Power",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28676.jpg",
+        "alt": "moe-power"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

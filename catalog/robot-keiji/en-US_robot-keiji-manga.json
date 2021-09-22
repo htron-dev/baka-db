@@ -1,5 +1,9 @@
 {
     "title": "Robot Keiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163700.jpg",
+        "alt": "robot-keiji"
+    },
     "type": "manga",
     "original_name": "ロボット刑事（仮）",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Lip Cream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14678.jpg",
+        "alt": "lip-cream"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

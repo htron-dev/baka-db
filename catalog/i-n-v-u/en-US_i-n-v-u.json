@@ -1,5 +1,9 @@
 {
     "title": "I.N.V.U.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247887.jpg",
+        "alt": "i-n-v-u"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "I.N.V.U.",

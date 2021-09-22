@@ -1,5 +1,9 @@
 {
     "title": "Ikitaiwan! Taiwan Ryokou Doukoukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240451.jpg",
+        "alt": "ikitaiwan-taiwan-ryokou-doukoukai"
+    },
     "type": "manga",
     "original_name": "いきたいわん！ 台湾旅行同好会",
     "start_date": "2020-12-15",

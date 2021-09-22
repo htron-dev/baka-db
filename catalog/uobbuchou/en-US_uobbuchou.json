@@ -1,5 +1,9 @@
 {
     "title": "Uobbuchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/82105.jpg",
+        "alt": "uobbuchou"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "うおっ部長",

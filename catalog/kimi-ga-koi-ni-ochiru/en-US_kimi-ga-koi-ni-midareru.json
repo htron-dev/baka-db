@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Koi ni Midareru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83635.jpg",
+        "alt": "kimi-ga-koi-ni-midareru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

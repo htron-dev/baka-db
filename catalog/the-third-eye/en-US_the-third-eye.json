@@ -1,5 +1,9 @@
 {
     "title": "The Third Eye",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1866/108145.jpg",
+        "alt": "the-third-eye"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "THE THIRD EYE",

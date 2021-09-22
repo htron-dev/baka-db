@@ -1,5 +1,9 @@
 {
     "title": "Hello Cocomong 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1830/93098.jpg",
+        "alt": "hello-cocomong-2"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "헬로 코코몽2",

@@ -1,5 +1,9 @@
 {
     "title": "Ni no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1203/101637.jpg",
+        "alt": "ni-no-kuni"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "二ノ国",

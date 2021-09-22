@@ -1,5 +1,9 @@
 {
     "title": "Suki to Kirai no Kyoukaisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29148.jpg",
+        "alt": "suki-to-kirai-no-kyoukaisen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "好きと嫌いの境界線",

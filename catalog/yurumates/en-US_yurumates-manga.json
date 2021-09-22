@@ -1,5 +1,9 @@
 {
     "title": "Yurumates",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185253.jpg",
+        "alt": "yurumates"
+    },
     "type": "manga",
     "original_name": "ゆるめいつ",
     "start_date": "2005-11-04",

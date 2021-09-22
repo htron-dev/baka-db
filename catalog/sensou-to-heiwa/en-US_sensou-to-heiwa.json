@@ -1,5 +1,9 @@
 {
     "title": "Sensou to Heiwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159702.jpg",
+        "alt": "sensou-to-heiwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

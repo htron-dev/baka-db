@@ -1,5 +1,9 @@
 {
     "title": "Kodomo no Shippo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22285.jpg",
+        "alt": "kodomo-no-shippo"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "こどものしっぽ",

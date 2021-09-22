@@ -1,5 +1,9 @@
 {
     "title": "Kodomo no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62557.jpg",
+        "alt": "kodomo-no-jikan"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "93",

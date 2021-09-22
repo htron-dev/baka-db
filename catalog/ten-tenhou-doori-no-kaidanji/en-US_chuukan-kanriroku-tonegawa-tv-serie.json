@@ -1,12 +1,16 @@
 {
     "title": "Chuukan Kanriroku Tonegawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1072/93145.jpg",
+        "alt": "chuukan-kanriroku-tonegawa"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "中間管理録トネガワ",
     "start_date": "2018-07-04",
     "end_date": "2018-07-04",
     "opening_song": "\"Sassou to Hashiru Tonegawa-kun (颯爽と走るトネガワ君)\" by Gesu no Kiwami Otome (ゲスの極み乙女)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Oki Tegami (隠岐手紙)\" by Pistol Takehara (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

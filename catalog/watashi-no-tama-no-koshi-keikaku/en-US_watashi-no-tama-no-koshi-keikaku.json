@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Tama-no-Koshi Keikaku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180942.jpg",
+        "alt": "watashi-no-tama-no-koshi-keikaku"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "私の玉の輿計画！",

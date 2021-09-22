@@ -1,5 +1,9 @@
 {
     "title": "Hoshi to Kuzu: Don't Worry, Be Happy!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180422.jpg",
+        "alt": "hoshi-to-kuzu-dont-worry-be-happy"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

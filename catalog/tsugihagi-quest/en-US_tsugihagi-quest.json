@@ -1,5 +1,9 @@
 {
     "title": "Tsugihagi Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204999.jpg",
+        "alt": "tsugihagi-quest"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

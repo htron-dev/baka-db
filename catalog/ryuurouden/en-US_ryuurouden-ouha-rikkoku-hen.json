@@ -1,5 +1,9 @@
 {
     "title": "Ryuurouden: Ouha Rikkoku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193330.jpg",
+        "alt": "ryuurouden-ouha-rikkoku-hen"
+    },
     "type": "manga",
     "original_name": "龍狼伝 王霸立国編",
     "start_date": "2016-07-06",

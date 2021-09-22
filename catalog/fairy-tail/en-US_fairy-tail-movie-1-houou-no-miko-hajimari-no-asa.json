@@ -1,8 +1,12 @@
 {
     "title": "Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/50101.jpg",
+        "alt": "fairy-tail-movie-1-houou-no-miko-hajimari-no-asa"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "フェアリーテイル",
+    "original_name": "フェアリーテイル: 序章「はじまりの朝」",
     "start_date": "2013-02-15",
     "ending_song": "\"Zutto Kitto (ずっと きっと)\" by Aya Hirano",
     "rating": "PG-13 - Teens 13 or older",

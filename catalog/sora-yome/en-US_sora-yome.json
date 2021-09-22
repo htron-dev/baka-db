@@ -1,5 +1,9 @@
 {
     "title": "Sora Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125233.jpg",
+        "alt": "sora-yome"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

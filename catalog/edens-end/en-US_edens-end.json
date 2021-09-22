@@ -1,5 +1,9 @@
 {
     "title": "Eden's End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226168.jpg",
+        "alt": "edens-end"
+    },
     "type": "manga",
     "original_name": "エデンズエンド",
     "start_date": "2019-04-01",

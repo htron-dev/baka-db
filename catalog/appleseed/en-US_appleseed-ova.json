@@ -1,5 +1,9 @@
 {
     "title": "Appleseed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/27979.jpg",
+        "alt": "appleseed"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "アップル・シード",

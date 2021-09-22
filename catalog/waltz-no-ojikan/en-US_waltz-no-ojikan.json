@@ -1,5 +1,9 @@
 {
     "title": "Waltz no Ojikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133223.jpg",
+        "alt": "waltz-no-ojikan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

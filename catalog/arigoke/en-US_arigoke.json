@@ -1,5 +1,9 @@
 {
     "title": "Arigoke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192536.jpg",
+        "alt": "arigoke"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

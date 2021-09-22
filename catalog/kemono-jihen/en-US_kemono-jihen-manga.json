@@ -1,5 +1,9 @@
 {
     "title": "Kemono Jihen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192907.jpg",
+        "alt": "kemono-jihen"
+    },
     "type": "manga",
     "original_name": "怪物事変",
     "start_date": "2016-12-02",

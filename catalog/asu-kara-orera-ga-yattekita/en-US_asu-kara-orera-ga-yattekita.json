@@ -1,5 +1,9 @@
 {
     "title": "Asu kara Orera ga Yattekita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165590.jpg",
+        "alt": "asu-kara-orera-ga-yattekita"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "明日から俺らがやってきた",

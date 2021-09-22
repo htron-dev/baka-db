@@ -1,5 +1,9 @@
 {
     "title": "Abe no Iru Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148992.jpg",
+        "alt": "abe-no-iru-machi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

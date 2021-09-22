@@ -1,5 +1,9 @@
 {
     "title": "World End Economica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144965.jpg",
+        "alt": "world-end-economica"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "28",

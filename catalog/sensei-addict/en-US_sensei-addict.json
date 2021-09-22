@@ -1,5 +1,9 @@
 {
     "title": "Sensei Addict",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77923.jpg",
+        "alt": "sensei-addict"
+    },
     "type": "manga",
     "original_name": "先生アディクト",
     "tags": [

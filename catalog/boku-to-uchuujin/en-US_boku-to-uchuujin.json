@@ -1,5 +1,9 @@
 {
     "title": "Boku to Uchuujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198624.jpg",
+        "alt": "boku-to-uchuujin"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "Gavora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1808/108099.jpg",
+        "alt": "gavora"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "GAVORA",

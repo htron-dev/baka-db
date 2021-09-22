@@ -1,5 +1,9 @@
 {
     "title": "Nakimushi na Little",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5526.jpg",
+        "alt": "nakimushi-na-little"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Gi(a)rlish Number",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180908.jpg",
+        "alt": "gi-a-rlish-number"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

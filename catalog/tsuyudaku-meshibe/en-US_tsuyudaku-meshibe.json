@@ -1,5 +1,9 @@
 {
     "title": "Tsuyudaku Meshibe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121077.jpg",
+        "alt": "tsuyudaku-meshibe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

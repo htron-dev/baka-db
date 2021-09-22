@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Yamada-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/97281.jpg",
+        "alt": "tonari-no-yamada-kun"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "となりのやまだ君",

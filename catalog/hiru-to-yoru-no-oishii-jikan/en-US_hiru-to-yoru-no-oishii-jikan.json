@@ -1,5 +1,9 @@
 {
     "title": "Hiru to Yoru no Oishii Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222463.jpg",
+        "alt": "hiru-to-yoru-no-oishii-jikan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

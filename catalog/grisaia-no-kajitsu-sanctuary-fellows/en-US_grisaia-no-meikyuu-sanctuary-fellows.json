@@ -1,5 +1,9 @@
 {
     "title": "Grisaia no Meikyuu: Sanctuary Fellows",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154853.jpg",
+        "alt": "grisaia-no-meikyuu-sanctuary-fellows"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

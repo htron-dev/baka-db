@@ -1,5 +1,9 @@
 {
     "title": "Gekitou! Crush Gear Turbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24052.jpg",
+        "alt": "gekitou-crush-gear-turbo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

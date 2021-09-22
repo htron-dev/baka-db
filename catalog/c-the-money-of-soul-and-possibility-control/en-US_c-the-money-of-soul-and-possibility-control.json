@@ -1,5 +1,9 @@
 {
     "title": "C: The Money of Soul and Possibility Control",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/50551.jpg",
+        "alt": "c-the-money-of-soul-and-possibility-control"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "「C」 THE MONEY OF SOUL AND POSSIBILITY CONTROL",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/C_(anime"
+            "link": "http://en.wikipedia.org/wiki/C_%28anime%29"
         }
     ]
 }

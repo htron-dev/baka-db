@@ -1,5 +1,9 @@
 {
     "title": "Daiaku Kojou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27509.jpg",
+        "alt": "daiaku-kojou"
+    },
     "type": "manga",
     "start_date": "2010-01-20",
     "tags": [

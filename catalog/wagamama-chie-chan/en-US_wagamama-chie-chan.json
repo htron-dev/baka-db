@@ -1,5 +1,9 @@
 {
     "title": "Wagamama Chie-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154269.jpg",
+        "alt": "wagamama-chie-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

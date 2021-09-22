@@ -1,5 +1,9 @@
 {
     "title": "Pastel Memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226045.jpg",
+        "alt": "pastel-memories"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

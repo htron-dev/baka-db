@@ -1,12 +1,16 @@
 {
     "title": "Ganso Tensai Bakabon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/60841.jpg",
+        "alt": "ganso-tensai-bakabon"
+    },
     "type": "tv-serie",
     "episodes": "103",
     "original_name": "元祖天才バカボン",
     "start_date": "1975-10-06",
     "end_date": "1975-10-06",
     "opening_song": "\"Tarirariran no Konyanyachi wa (タリラリランのコニャニャチワ)\" by Columbia Yurikago Kai, Masashi Amenomori, グリンピース",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Papa wa Yappari Subarashii (パパはやっぱりすばらしい)\" by Columbia Yurikago Kai, Masashi Amenomori, Koorogi '73, 水谷賢",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

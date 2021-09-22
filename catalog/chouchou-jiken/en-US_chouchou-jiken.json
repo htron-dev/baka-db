@@ -1,5 +1,9 @@
 {
     "title": "Chouchou Jiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202302.jpg",
+        "alt": "chouchou-jiken"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

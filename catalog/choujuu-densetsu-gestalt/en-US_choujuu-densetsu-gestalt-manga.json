@@ -1,5 +1,9 @@
 {
     "title": "Choujuu Densetsu Gestalt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160948.jpg",
+        "alt": "choujuu-densetsu-gestalt"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "51",

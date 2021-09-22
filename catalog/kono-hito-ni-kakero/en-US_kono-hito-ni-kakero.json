@@ -1,5 +1,9 @@
 {
     "title": "Kono Hito ni Kakero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212877.jpg",
+        "alt": "kono-hito-ni-kakero"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "167",

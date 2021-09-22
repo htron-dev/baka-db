@@ -1,5 +1,9 @@
 {
     "title": "Calm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71616.jpg",
+        "alt": "calm"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Calm",

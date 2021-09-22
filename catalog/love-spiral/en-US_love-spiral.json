@@ -1,5 +1,9 @@
 {
     "title": "Love Spiral",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16129.jpg",
+        "alt": "love-spiral"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋愛スパイラル",

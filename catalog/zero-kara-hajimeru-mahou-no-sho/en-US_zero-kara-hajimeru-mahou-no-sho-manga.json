@@ -1,5 +1,9 @@
 {
     "title": "Zero kara Hajimeru Mahou no Sho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156050.jpg",
+        "alt": "zero-kara-hajimeru-mahou-no-sho"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

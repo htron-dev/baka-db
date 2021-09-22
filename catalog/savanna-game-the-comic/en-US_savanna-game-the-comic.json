@@ -1,5 +1,9 @@
 {
     "title": "Savanna Game: The Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166846.jpg",
+        "alt": "savanna-game-the-comic"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "86",

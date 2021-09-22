@@ -1,5 +1,9 @@
 {
     "title": "Toriaezu Revenge!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167038.jpg",
+        "alt": "toriaezu-revenge"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

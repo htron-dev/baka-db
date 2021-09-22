@@ -1,5 +1,9 @@
 {
     "title": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1205/111403.jpg",
+        "alt": "watashi-nouryoku-wa-heikinchi-de-tte-itta-yo-ne"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "私、能力は平均値でって言ったよね!",

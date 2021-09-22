@@ -1,5 +1,9 @@
 {
     "title": "Rengoku Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155825.jpg",
+        "alt": "rengoku-hime"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "60",

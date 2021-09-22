@@ -1,5 +1,9 @@
 {
     "title": "Blue World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118193.jpg",
+        "alt": "blue-world"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

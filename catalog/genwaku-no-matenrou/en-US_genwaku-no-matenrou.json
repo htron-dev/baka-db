@@ -1,5 +1,9 @@
 {
     "title": "Genwaku no Matenrou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33212.jpg",
+        "alt": "genwaku-no-matenrou"
+    },
     "type": "manga",
     "original_name": "眩惑の摩天楼",
     "tags": [

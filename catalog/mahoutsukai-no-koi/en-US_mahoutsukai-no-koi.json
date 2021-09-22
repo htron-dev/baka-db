@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24118.jpg",
+        "alt": "mahoutsukai-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

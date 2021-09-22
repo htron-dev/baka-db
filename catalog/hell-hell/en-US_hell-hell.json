@@ -1,5 +1,9 @@
 {
     "title": "Hell Hell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/46413.jpg",
+        "alt": "hell-hell"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

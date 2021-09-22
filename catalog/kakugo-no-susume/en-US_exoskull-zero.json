@@ -1,5 +1,9 @@
 {
     "title": "Exoskull Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143571.jpg",
+        "alt": "exoskull-zero"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "41",

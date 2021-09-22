@@ -1,5 +1,9 @@
 {
     "title": "Sekai wa Nakajima ni Koi wo Suru!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179272.jpg",
+        "alt": "sekai-wa-nakajima-ni-koi-wo-suru"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Samuku naru to Kata wo Yosete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160111.jpg",
+        "alt": "samuku-naru-to-kata-wo-yosete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

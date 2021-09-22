@@ -1,5 +1,9 @@
 {
     "title": "Kagetora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/199436.jpg",
+        "alt": "kagetora"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "56",

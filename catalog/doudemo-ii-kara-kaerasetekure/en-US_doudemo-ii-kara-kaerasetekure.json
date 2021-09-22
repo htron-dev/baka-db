@@ -1,5 +1,9 @@
 {
     "title": "Doudemo Ii kara Kaerasetekure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235045.jpg",
+        "alt": "doudemo-ii-kara-kaerasetekure"
+    },
     "type": "manga",
     "original_name": "どうでもいいから帰らせてくれ",
     "start_date": "2019-08-13",

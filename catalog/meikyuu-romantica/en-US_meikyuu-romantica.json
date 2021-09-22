@@ -1,5 +1,9 @@
 {
     "title": "Meikyuu Romantica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178038.jpg",
+        "alt": "meikyuu-romantica"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

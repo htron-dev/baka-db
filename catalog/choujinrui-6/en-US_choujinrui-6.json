@@ -1,5 +1,9 @@
 {
     "title": "Choujinrui 6",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200457.jpg",
+        "alt": "choujinrui-6"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

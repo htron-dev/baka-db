@@ -1,5 +1,9 @@
 {
     "title": "Yggdrasil no Kajitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/87473.jpg",
+        "alt": "yggdrasil-no-kajitsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

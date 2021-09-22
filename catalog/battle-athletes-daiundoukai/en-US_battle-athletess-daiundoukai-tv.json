@@ -1,12 +1,16 @@
 {
     "title": "Battle Athletess Daiundoukai (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1203/117431.jpg",
+        "alt": "battle-athletess-daiundoukai-tv"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "バトルアスリーテス大運動会",
     "start_date": "1997-10-03",
     "end_date": "1997-10-03",
     "opening_song": "\"Tsubasa\" by Yukari Asakura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"HONEY BEE\" by Jamic Spoon (eps 1-25)",
     "rating": "PG - Children",
     "tags": [
         "action",

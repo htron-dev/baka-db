@@ -1,5 +1,9 @@
 {
     "title": "Triage X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151056.jpg",
+        "alt": "triage-x"
+    },
     "type": "manga",
     "original_name": "トリアージ X",
     "start_date": "2009-04-09",

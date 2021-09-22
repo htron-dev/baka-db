@@ -1,5 +1,9 @@
 {
     "title": "Furudera no Obake-soudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/12240.jpg",
+        "alt": "furudera-no-obake-soudou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "古寺のおばけ騒動",

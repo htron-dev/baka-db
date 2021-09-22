@@ -1,5 +1,9 @@
 {
     "title": "Gal Kishi Angelica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221809.jpg",
+        "alt": "gal-kishi-angelica"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

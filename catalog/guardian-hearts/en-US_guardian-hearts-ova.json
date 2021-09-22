@@ -1,5 +1,9 @@
 {
     "title": "Guardian Hearts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/20741.jpg",
+        "alt": "guardian-hearts"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "がぁーでぃあん Hearts",

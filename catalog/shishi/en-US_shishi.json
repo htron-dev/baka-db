@@ -1,5 +1,9 @@
 {
     "title": "Shishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153852.jpg",
+        "alt": "shishi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

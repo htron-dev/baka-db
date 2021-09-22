@@ -1,5 +1,9 @@
 {
     "title": "Shijin no Shougai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/17201.jpg",
+        "alt": "shijin-no-shougai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "詩人の生涯",

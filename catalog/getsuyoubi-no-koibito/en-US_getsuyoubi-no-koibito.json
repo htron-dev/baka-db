@@ -1,5 +1,9 @@
 {
     "title": "Getsuyoubi no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202324.jpg",
+        "alt": "getsuyoubi-no-koibito"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Pixy Junket",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19.jpg",
+        "alt": "pixy-junket"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

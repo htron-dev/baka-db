@@ -1,5 +1,9 @@
 {
     "title": "Ichigo to Anzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14196.jpg",
+        "alt": "ichigo-to-anzu"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "イチゴとアンズ",

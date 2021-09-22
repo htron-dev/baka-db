@@ -1,5 +1,9 @@
 {
     "title": "Karada ga Oboeteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45209.jpg",
+        "alt": "karada-ga-oboeteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

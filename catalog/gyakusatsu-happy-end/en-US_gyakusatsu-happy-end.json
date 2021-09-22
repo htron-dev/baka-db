@@ -1,5 +1,9 @@
 {
     "title": "Gyakusatsu Happy End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235356.jpg",
+        "alt": "gyakusatsu-happy-end"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "55",

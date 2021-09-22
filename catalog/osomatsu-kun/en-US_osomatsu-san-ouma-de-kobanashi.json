@@ -1,5 +1,9 @@
 {
     "title": "Osomatsu-san: Ouma de Kobanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/89191.jpg",
+        "alt": "osomatsu-san-ouma-de-kobanashi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "おそ松さん おうまでこばなし",

@@ -1,5 +1,9 @@
 {
     "title": "Kago no Naka no Kinai Shiiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240670.jpg",
+        "alt": "kago-no-naka-no-kinai-shiiku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Ikujinashi no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223669.jpg",
+        "alt": "ikujinashi-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Gaba Kawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11362.jpg",
+        "alt": "gaba-kawa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

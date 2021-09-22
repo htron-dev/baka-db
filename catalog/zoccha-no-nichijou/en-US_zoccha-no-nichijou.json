@@ -1,5 +1,9 @@
 {
     "title": "Zoccha no Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181650.jpg",
+        "alt": "zoccha-no-nichijou"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "168",

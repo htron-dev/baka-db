@@ -1,5 +1,9 @@
 {
     "title": "Kamichama Karin Chu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5734.jpg",
+        "alt": "kamichama-karin-chu"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "27",

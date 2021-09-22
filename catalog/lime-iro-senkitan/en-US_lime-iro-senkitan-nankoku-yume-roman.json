@@ -1,12 +1,16 @@
 {
     "title": "Lime-iro Senkitan: Nankoku Yume Roman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75505.jpg",
+        "alt": "lime-iro-senkitan-nankoku-yume-roman"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "らいむいろ戦奇譚 南国夢浪漫",
     "start_date": "2004-04-23",
     "end_date": "2004-04-23",
     "opening_song": "\"Rinka (Cold Flower)\" by Raimu-tai",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gakuen Tengoku (Academy Paradise)\" by Raimu-tai",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

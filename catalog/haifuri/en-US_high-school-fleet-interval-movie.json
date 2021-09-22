@@ -1,5 +1,9 @@
 {
     "title": "High School Fleet Interval (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240244.jpg",
+        "alt": "high-school-fleet-interval-movie"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

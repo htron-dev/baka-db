@@ -1,5 +1,9 @@
 {
     "title": "Kaidanzaka no Mahoutsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167555.jpg",
+        "alt": "kaidanzaka-no-mahoutsukai"
+    },
     "type": "light-novel",
     "original_name": "階段坂の魔法使い",
     "start_date": "2015-08-29",

@@ -1,12 +1,16 @@
 {
     "title": "Fate/stay night: Unlimited Blade Works",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/67333.jpg",
+        "alt": "fate-stay-night-unlimited-blade-works"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Fate/stay night [Unlimited Blade Works]",
     "start_date": "2014-10-12",
     "end_date": "2014-10-12",
     "opening_song": "\"ideal white\" by Mashiro Ayano (eps 1-9, 11-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"believe\" by Kalafina (eps 1-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

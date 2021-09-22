@@ -1,5 +1,9 @@
 {
     "title": "Oresama na Douki ni Yoru no Shigoto ga Baremashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247304.jpg",
+        "alt": "oresama-na-douki-ni-yoru-no-shigoto-ga-baremashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

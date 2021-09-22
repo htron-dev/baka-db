@@ -1,5 +1,9 @@
 {
     "title": "Sekai wa Kimi wo Sukuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84197.jpg",
+        "alt": "sekai-wa-kimi-wo-sukuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

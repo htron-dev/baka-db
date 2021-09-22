@@ -1,5 +1,9 @@
 {
     "title": "Code Name wa Sailor V",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6602.jpg",
+        "alt": "code-name-wa-sailor-v"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

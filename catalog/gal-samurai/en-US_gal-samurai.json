@@ -1,5 +1,9 @@
 {
     "title": "Gal Samurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176850.jpg",
+        "alt": "gal-samurai"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "70",

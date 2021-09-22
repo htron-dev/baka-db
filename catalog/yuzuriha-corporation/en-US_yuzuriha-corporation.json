@@ -1,5 +1,9 @@
 {
     "title": "Yuzuriha Corporation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163855.jpg",
+        "alt": "yuzuriha-corporation"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

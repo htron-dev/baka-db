@@ -1,5 +1,9 @@
 {
     "title": "Benriya-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176522.jpg",
+        "alt": "benriya-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

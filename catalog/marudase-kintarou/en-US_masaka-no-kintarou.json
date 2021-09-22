@@ -1,5 +1,9 @@
 {
     "title": "Masaka no Kintarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80305.jpg",
+        "alt": "masaka-no-kintarou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "まさかの金太狼",

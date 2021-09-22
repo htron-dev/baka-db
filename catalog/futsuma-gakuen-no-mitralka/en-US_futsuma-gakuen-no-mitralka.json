@@ -1,5 +1,9 @@
 {
     "title": "Futsuma Gakuen no Mitralka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121003.jpg",
+        "alt": "futsuma-gakuen-no-mitralka"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "祓魔学園の背教者〈ミトラルカ〉",

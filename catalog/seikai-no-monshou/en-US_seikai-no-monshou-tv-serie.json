@@ -1,5 +1,9 @@
 {
     "title": "Seikai no Monshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1493/94479.jpg",
+        "alt": "seikai-no-monshou"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "星界の紋章",

@@ -1,5 +1,9 @@
 {
     "title": "Yasashii Kinyoubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/58107.jpg",
+        "alt": "yasashii-kinyoubi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "優しい金曜日",

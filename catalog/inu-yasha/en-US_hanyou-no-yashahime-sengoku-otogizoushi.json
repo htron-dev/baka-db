@@ -1,12 +1,16 @@
 {
     "title": "Hanyou no Yashahime: Sengoku Otogizoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1005/114781.jpg",
+        "alt": "hanyou-no-yashahime-sengoku-otogizoushi"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "半妖の夜叉姫 -戦国御伽草子-",
     "start_date": "2020-10-03",
     "end_date": "2020-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"NEW ERA\" by SixTONES (eps 1-13)",
+    "ending_song": "#1: \"Break\" by Uru (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

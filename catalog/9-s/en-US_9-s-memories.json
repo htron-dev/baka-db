@@ -1,5 +1,9 @@
 {
     "title": "9S: memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128227.jpg",
+        "alt": "9-s-memories"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Shinba Ra Da",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166835.jpg",
+        "alt": "shinba-ra-da"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "シンバ・ラ・ダ",

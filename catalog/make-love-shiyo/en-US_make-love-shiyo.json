@@ -1,5 +1,9 @@
 {
     "title": "Make Love Shiyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7393.jpg",
+        "alt": "make-love-shiyo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

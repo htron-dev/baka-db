@@ -1,12 +1,16 @@
 {
     "title": "Girlfriend (Kari)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/67045.jpg",
+        "alt": "girlfriend-kari"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ガールフレンド(仮)",
     "start_date": "2014-10-13",
     "end_date": "2014-10-13",
     "opening_song": "\"Tanoshiki Tokimeki (楽しきトキメキ)\" by Neuron★Creamsoft [Haruka Kazemachi (Saori Hayami), Momoko Asahina (Yui Ogura), Nagiko Kurokawa (Saori Gotou), Kurumi Etou (Aya Suzaki), Sumire Yomogida (Hiromi Igarashi)]",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hareru kanaa (はれるかなぁ)\" by Kokomi Shiina (Satomi Sato) (eps 1-8, 10-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "school",

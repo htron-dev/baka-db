@@ -1,5 +1,9 @@
 {
     "title": "Hello Deadline",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169895.jpg",
+        "alt": "hello-deadline"
+    },
     "type": "light-novel",
     "original_name": "ハロー・デッドライン",
     "start_date": "2015-10-10",

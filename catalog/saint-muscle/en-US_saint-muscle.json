@@ -1,5 +1,9 @@
 {
     "title": "Saint Muscle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180804.jpg",
+        "alt": "saint-muscle"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "聖〈セント〉マッスル",

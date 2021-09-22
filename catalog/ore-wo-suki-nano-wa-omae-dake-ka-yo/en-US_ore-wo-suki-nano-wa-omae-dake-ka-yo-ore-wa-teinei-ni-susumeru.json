@@ -1,11 +1,15 @@
 {
     "title": "Ore wo Suki nano wa Omae dake ka yo: Ore wa Teinei ni Susumeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1700/104605.jpg",
+        "alt": "ore-wo-suki-nano-wa-omae-dake-ka-yo-ore-wa-teinei-ni-susumeru"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "俺を好きなのはお前だけかよ 特別編 ~俺は丁寧に進める~",
     "start_date": "2019-12-05",
     "opening_song": "\"Papapa (パパパ)\" by Shuka Saitou",
-    "ending_song": "\"Hanakotoba (ハナコトバ)\" by Sumireko Sanchouin (CV",
+    "ending_song": "\"Hanakotoba (ハナコトバ)\" by Sumireko Sanchouin (CV: Haruka Tomatsu), Aoi Hinata (CV: Haruka Shiraishi), Sakura Akino (CV: Sachika Misawa)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

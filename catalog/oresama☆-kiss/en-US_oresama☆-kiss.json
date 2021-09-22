@@ -1,5 +1,9 @@
 {
     "title": "Oresama☆Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65939.jpg",
+        "alt": "oresama☆-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Minna de Tamagocchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28004.jpg",
+        "alt": "minna-de-tamagocchi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "みんなでたまごっち",

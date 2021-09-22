@@ -1,5 +1,9 @@
 {
     "title": "Embah",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71871.jpg",
+        "alt": "embah"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "embah",

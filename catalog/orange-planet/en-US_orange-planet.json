@@ -1,5 +1,9 @@
 {
     "title": "Orange Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/8896.jpg",
+        "alt": "orange-planet"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "21",

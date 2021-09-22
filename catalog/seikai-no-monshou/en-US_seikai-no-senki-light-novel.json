@@ -1,5 +1,9 @@
 {
     "title": "Seikai no Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125255.jpg",
+        "alt": "seikai-no-senki"
+    },
     "type": "light-novel",
     "original_name": "星界の戦旗",
     "start_date": "1996-12-19",

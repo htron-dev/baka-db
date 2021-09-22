@@ -1,5 +1,9 @@
 {
     "title": "Paboo &amp; Mojies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/36873.jpg",
+        "alt": "paboo-amp-mojies"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "パブー＆モジーズ",

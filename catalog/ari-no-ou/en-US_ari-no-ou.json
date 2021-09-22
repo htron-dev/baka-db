@@ -1,5 +1,9 @@
 {
     "title": "Ari no Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182271.jpg",
+        "alt": "ari-no-ou"
+    },
     "type": "manga",
     "original_name": "蟻の王",
     "start_date": "2015-05-02",

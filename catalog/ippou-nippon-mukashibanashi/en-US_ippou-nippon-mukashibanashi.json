@@ -1,5 +1,9 @@
 {
     "title": "Ippou Nippon Mukashibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/80210.jpg",
+        "alt": "ippou-nippon-mukashibanashi"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "いっぽう日本昔ばなし",

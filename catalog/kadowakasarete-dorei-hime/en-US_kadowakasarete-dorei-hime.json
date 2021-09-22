@@ -1,5 +1,9 @@
 {
     "title": "Kadowakasarete: Dorei-hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194836.jpg",
+        "alt": "kadowakasarete-dorei-hime"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

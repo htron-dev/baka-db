@@ -1,5 +1,9 @@
 {
     "title": "Yatta ne Tae-chan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234305.jpg",
+        "alt": "yatta-ne-tae-chan"
+    },
     "type": "manga",
     "original_name": "やったねたえちゃん！",
     "start_date": "2019-11-05",

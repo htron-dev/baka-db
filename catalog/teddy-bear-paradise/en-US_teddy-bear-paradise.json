@@ -1,5 +1,9 @@
 {
     "title": "Teddy Bear Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185577.jpg",
+        "alt": "teddy-bear-paradise"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "テディ・ベア天国〈パラダイス〉",

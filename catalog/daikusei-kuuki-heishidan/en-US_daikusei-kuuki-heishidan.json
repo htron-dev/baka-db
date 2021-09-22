@@ -1,5 +1,9 @@
 {
     "title": "Daikusei Kuuki Heishidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/116789.jpg",
+        "alt": "daikusei-kuuki-heishidan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Ari no Su Dungeon e Youkoso!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186194.jpg",
+        "alt": "ari-no-su-dungeon-e-youkoso"
+    },
     "type": "light-novel",
     "original_name": "アリの巣ダンジョンへようこそ!",
     "start_date": "2016-11-30",

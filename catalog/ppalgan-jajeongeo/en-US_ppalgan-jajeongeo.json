@@ -1,5 +1,9 @@
 {
     "title": "Ppalgan Jajeongeo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1314/114527.jpg",
+        "alt": "ppalgan-jajeongeo"
+    },
     "type": "tv-serie",
     "episodes": "302",
     "original_name": "빨간 자전거",

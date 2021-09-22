@@ -1,5 +1,9 @@
 {
     "title": "Ganbare! Memeko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217773.jpg",
+        "alt": "ganbare-memeko-chan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "67",

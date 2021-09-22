@@ -1,5 +1,9 @@
 {
     "title": "Love-Berrish!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119135.jpg",
+        "alt": "love-berrish"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

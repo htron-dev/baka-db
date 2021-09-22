@@ -1,5 +1,9 @@
 {
     "title": "Nanoha Yougashiten no Ii Shigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160832.jpg",
+        "alt": "nanoha-yougashiten-no-ii-shigoto"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "70",

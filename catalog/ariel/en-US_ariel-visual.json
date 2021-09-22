@@ -1,12 +1,16 @@
 {
     "title": "Ariel Visual",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/56395.jpg",
+        "alt": "ariel-visual"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ARIEL (エリアル) VISUAL",
     "start_date": "1989-07-21",
     "end_date": "1989-07-21",
     "opening_song": "\"Ariel no Uta (エリアルのうた)\" by 国立科学研究所合唱部(二軍), Shounen Shoujo Gasshou Dan Mizuumi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mikakunin Girl: Good Innocent Ribbon Lady (未確認 GIRL -Good Innocent Ribbon Lady-)\" by Megumi Hayashibara",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

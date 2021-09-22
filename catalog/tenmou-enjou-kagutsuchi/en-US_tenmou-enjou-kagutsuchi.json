@@ -1,5 +1,9 @@
 {
     "title": "Tenmou Enjou Kagutsuchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177809.jpg",
+        "alt": "tenmou-enjou-kagutsuchi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "12",

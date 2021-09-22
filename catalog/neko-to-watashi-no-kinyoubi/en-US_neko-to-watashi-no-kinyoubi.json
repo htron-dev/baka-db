@@ -1,5 +1,9 @@
 {
     "title": "Neko to Watashi no Kinyoubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163559.jpg",
+        "alt": "neko-to-watashi-no-kinyoubi"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "67",

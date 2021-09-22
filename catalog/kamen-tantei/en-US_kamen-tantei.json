@@ -1,5 +1,9 @@
 {
     "title": "Kamen Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180641.jpg",
+        "alt": "kamen-tantei"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

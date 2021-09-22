@@ -1,5 +1,9 @@
 {
     "title": "Koisuiren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11906.jpg",
+        "alt": "koisuiren"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "恋水蓮",

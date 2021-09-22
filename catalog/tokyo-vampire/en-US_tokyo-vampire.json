@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/108855.jpg",
+        "alt": "tokyo-vampire"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "東京バンパイヤ",

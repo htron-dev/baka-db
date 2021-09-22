@@ -1,5 +1,9 @@
 {
     "title": "Papa's Assasin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86205.jpg",
+        "alt": "papas-assasin"
+    },
     "type": "manga",
     "original_name": "パパ’s アサシン",
     "tags": [

@@ -1,12 +1,16 @@
 {
     "title": "Sekirei: Pure Engagement",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75178.jpg",
+        "alt": "sekirei-pure-engagement"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "セキレイ～ Pure Engagement ～",
     "start_date": "2010-07-04",
     "end_date": "2010-07-04",
     "opening_song": "\"Hakuyoku no Seiyaku ~Pure Engagement~ (白翼ノ誓約 ~Pure Engagement~)\" by Saori Hayami, Marina Inoue, Kana Hanazawa and Aya Endo",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Onnaji Kimochi (おんなじきもち)\" by Saori Hayami, Marina Inoue, Kana Hanazawa and Aya Endo (eps 1-9, 11-13)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

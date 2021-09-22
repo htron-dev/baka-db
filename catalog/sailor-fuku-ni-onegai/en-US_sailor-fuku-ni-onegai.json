@@ -1,5 +1,9 @@
 {
     "title": "Sailor Fuku ni Onegai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126815.jpg",
+        "alt": "sailor-fuku-ni-onegai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

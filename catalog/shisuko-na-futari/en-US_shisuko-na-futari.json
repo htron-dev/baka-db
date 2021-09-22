@@ -1,5 +1,9 @@
 {
     "title": "Shisuko na Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151469.jpg",
+        "alt": "shisuko-na-futari"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "シスコなふたり",

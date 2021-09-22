@@ -1,5 +1,9 @@
 {
     "title": "Kigeki wa Koi de Shinka Suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24117.jpg",
+        "alt": "kigeki-wa-koi-de-shinka-suru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

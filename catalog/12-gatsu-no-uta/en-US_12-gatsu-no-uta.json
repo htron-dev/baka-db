@@ -1,5 +1,9 @@
 {
     "title": "12-gatsu no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/70691.jpg",
+        "alt": "12-gatsu-no-uta"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "12 月のうた",

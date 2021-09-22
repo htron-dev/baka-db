@@ -1,5 +1,9 @@
 {
     "title": "Curry no Oujo-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195805.jpg",
+        "alt": "curry-no-oujo-sama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

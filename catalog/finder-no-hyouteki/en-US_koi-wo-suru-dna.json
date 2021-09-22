@@ -1,5 +1,9 @@
 {
     "title": "Koi wo Suru DNA +",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29537.jpg",
+        "alt": "koi-wo-suru-dna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

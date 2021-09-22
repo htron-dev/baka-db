@@ -1,5 +1,9 @@
 {
     "title": "Taiyou no Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170021.jpg",
+        "alt": "taiyou-no-romance"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

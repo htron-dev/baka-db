@@ -1,5 +1,9 @@
 {
     "title": "Joousama no Shiro Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/74861.jpg",
+        "alt": "joousama-no-shiro-usagi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

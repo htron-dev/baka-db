@@ -1,5 +1,9 @@
 {
     "title": "Taishou Romantica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178949.jpg",
+        "alt": "taishou-romantica"
+    },
     "type": "manga",
     "original_name": "大正ロマンチカ",
     "start_date": "2012-06-25",

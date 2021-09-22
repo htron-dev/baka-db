@@ -1,5 +1,9 @@
 {
     "title": "Slayers Great",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/13097.jpg",
+        "alt": "slayers-great"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "スレーヤーズぐれえと",

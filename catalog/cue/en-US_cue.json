@@ -1,5 +1,9 @@
 {
     "title": "Cue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174456.jpg",
+        "alt": "cue"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

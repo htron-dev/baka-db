@@ -1,12 +1,16 @@
 {
     "title": "Hacka Doll The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75751.jpg",
+        "alt": "hacka-doll-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ハッカドール THE・あにめーしょん",
     "start_date": "2015-10-02",
     "end_date": "2015-10-02",
     "opening_song": "\"Touch Tap Baby\" by Hacka Doll (Miyu Takagi, Kaya Okuno, Nanami Yamashita)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Happy Days Refrain\" by Hacka Doll (Miyu Takagi, Kaya Okuno, Nanami Yamashita) (eps 1, 3, 5, 9)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

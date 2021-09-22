@@ -1,5 +1,9 @@
 {
     "title": "Dragon Knights Gaiden: One Day, Another Day",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13805.jpg",
+        "alt": "dragon-knights-gaiden-one-day-another-day"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

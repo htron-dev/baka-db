@@ -1,5 +1,9 @@
 {
     "title": "5-toubun no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201572.jpg",
+        "alt": "5-toubun-no-hanayome"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "122",

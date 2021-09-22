@@ -1,5 +1,9 @@
 {
     "title": "Hengoku no Schwester",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158990.jpg",
+        "alt": "hengoku-no-schwester"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "32",

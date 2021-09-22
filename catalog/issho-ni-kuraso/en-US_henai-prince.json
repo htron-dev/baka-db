@@ -1,5 +1,9 @@
 {
     "title": "Henai Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24429.jpg",
+        "alt": "henai-prince"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

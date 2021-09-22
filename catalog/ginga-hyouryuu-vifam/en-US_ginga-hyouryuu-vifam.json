@@ -1,5 +1,9 @@
 {
     "title": "Ginga Hyouryuu Vifam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/73992.jpg",
+        "alt": "ginga-hyouryuu-vifam"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "銀河漂流バイファム",

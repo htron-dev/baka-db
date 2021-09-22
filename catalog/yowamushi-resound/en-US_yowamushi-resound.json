@@ -1,5 +1,9 @@
 {
     "title": "Yowamushi Resound",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164332.jpg",
+        "alt": "yowamushi-resound"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

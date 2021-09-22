@@ -1,5 +1,9 @@
 {
     "title": "Bukkyou Gakkou e Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159993.jpg",
+        "alt": "bukkyou-gakkou-e-youkoso"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "仏教学校へようこそ",

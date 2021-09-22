@@ -1,11 +1,15 @@
 {
     "title": "Chu Feng: B.E.E",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/74803.jpg",
+        "alt": "chu-feng-b-e-e"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "雛蜂-B.E.E-",
     "start_date": "2015-07-23",
     "end_date": "2015-07-23",
-    "opening_song": "#1",
+    "opening_song": "#1: \"The Lost Eden\" by Youmao (呦猫) (Chinese ver.)",
     "ending_song": "\"Pray\" by Lunar",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

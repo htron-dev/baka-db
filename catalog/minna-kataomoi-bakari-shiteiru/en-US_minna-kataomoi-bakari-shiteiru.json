@@ -1,5 +1,9 @@
 {
     "title": "Minna, Kataomoi Bakari Shiteiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/99417.jpg",
+        "alt": "minna-kataomoi-bakari-shiteiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

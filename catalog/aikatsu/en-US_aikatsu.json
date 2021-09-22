@@ -1,12 +1,16 @@
 {
     "title": "Aikatsu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/74783.jpg",
+        "alt": "aikatsu"
+    },
     "type": "tv-serie",
     "episodes": "178",
     "original_name": "アイカツ！アイドルカツドウ！",
     "start_date": "2012-10-08",
     "end_date": "2012-10-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Signalize!\" by Waka, Fuuri, Sunao, Risuko from STAR☆ANIS (eps 1-25)",
+    "ending_song": "#1: \"Calendar Girl (カレンダーガール)\" by Waka, Fuuri, Sunao from STAR☆ANIS (eps 1-25, 125)",
     "rating": "PG - Children",
     "tags": [
         "music",

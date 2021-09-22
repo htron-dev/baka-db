@@ -1,5 +1,9 @@
 {
     "title": "Ido-Lising! Gaiden: Orin Rising!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131569.jpg",
+        "alt": "ido-lising-gaiden-orin-rising"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

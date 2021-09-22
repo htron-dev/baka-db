@@ -1,5 +1,9 @@
 {
     "title": "NG Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/71979.jpg",
+        "alt": "ng-life"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "54",

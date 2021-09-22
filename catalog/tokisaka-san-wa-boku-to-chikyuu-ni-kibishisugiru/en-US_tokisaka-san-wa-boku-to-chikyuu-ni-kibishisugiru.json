@@ -1,5 +1,9 @@
 {
     "title": "Tokisaka-san wa Boku to Chikyuu ni Kibishisugiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144411.jpg",
+        "alt": "tokisaka-san-wa-boku-to-chikyuu-ni-kibishisugiru"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Kurokuro: Black Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128645.jpg",
+        "alt": "kurokuro-black-chronicle"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

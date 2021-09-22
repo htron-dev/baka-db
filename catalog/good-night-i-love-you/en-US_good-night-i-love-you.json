@@ -1,5 +1,9 @@
 {
     "title": "Good Night, I Love You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193809.jpg",
+        "alt": "good-night-i-love-you"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

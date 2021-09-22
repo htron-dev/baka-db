@@ -1,5 +1,9 @@
 {
     "title": "Mahouka Koukou no Rettousei: Kaichou Senkyo-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217644.jpg",
+        "alt": "mahouka-koukou-no-rettousei-kaichou-senkyo-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

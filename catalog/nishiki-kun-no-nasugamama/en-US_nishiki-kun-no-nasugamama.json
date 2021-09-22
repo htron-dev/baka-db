@@ -1,5 +1,9 @@
 {
     "title": "Nishiki-kun no Nasugamama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/103573.jpg",
+        "alt": "nishiki-kun-no-nasugamama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

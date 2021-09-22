@@ -1,5 +1,9 @@
 {
     "title": "Oboreru Kemono no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62241.jpg",
+        "alt": "oboreru-kemono-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

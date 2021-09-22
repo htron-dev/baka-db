@@ -1,5 +1,9 @@
 {
     "title": "Umi Monogatari: Minna Aishiteru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36250.jpg",
+        "alt": "umi-monogatari-minna-aishiteru"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "うみものがたり〜みんな愛してる！",

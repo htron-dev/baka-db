@@ -1,5 +1,9 @@
 {
     "title": "Ryuu wa Tasogare no Yume wo Miru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/60683.jpg",
+        "alt": "ryuu-wa-tasogare-no-yume-wo-miru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

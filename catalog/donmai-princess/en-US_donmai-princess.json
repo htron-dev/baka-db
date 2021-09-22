@@ -1,5 +1,9 @@
 {
     "title": "Donmai Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11998.jpg",
+        "alt": "donmai-princess"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "どんまいプリンセス",

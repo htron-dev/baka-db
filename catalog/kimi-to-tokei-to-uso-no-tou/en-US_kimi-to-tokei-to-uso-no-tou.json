@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Tokei to Uso no Tou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202314.jpg",
+        "alt": "kimi-to-tokei-to-uso-no-tou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

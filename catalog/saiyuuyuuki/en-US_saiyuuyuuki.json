@@ -1,5 +1,9 @@
 {
     "title": "Saiyuuyuuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172541.jpg",
+        "alt": "saiyuuyuuki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

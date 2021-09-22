@@ -1,5 +1,9 @@
 {
     "title": "Shin Happy People",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142891.jpg",
+        "alt": "shin-happy-people"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Yuri Seijin Naoko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211572.jpg",
+        "alt": "yuri-seijin-naoko-san"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "110",

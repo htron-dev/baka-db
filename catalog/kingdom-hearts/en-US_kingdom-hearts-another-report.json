@@ -1,5 +1,9 @@
 {
     "title": "Kingdom Hearts Another Report",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203230.jpg",
+        "alt": "kingdom-hearts-another-report"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "キングダムハーツ アナザーレポート",

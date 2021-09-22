@@ -1,5 +1,9 @@
 {
     "title": "Alice kara Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44691.jpg",
+        "alt": "alice-kara-mahou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

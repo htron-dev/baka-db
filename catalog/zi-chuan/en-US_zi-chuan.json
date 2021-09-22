@@ -1,5 +1,9 @@
 {
     "title": "Zi Chuan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1930/117001.jpg",
+        "alt": "zi-chuan"
+    },
     "type": "ona",
     "episodes": "52",
     "original_name": "紫川",

@@ -1,5 +1,9 @@
 {
     "title": "Flat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/47835.jpg",
+        "alt": "flat"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "45",

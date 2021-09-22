@@ -1,5 +1,9 @@
 {
     "title": "Shinanogawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20847.jpg",
+        "alt": "shinanogawa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "27",

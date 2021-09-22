@@ -1,5 +1,9 @@
 {
     "title": "A Ressha de Ikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24991.jpg",
+        "alt": "a-ressha-de-ikou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

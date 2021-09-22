@@ -1,5 +1,9 @@
 {
     "title": "Jungle Book Shounen Mowgli",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/12752.jpg",
+        "alt": "jungle-book-shounen-mowgli"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ジャングルブック・少年モーグリ",
@@ -17,10 +21,6 @@
         {
             "text": "My Anime list",
             "link": "https://myanimelist.net/anime/2569/Jungle_Book_Shounen_Mowgli"
-        },
-        {
-            "text": "Official Site",
-            "link": "http://After his parents died, Mowgli is raised by the Wolf Pack of the Seeonee Forest led by Akela and other wild animals such as Bagheera and Baloo. The young boy goes through several heartwarming, bittersweet, and life-threatening adventures as he seeks after"
         },
         {
             "text": "AnimeDB",

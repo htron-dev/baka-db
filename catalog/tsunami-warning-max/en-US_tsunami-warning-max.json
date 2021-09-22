@@ -1,5 +1,9 @@
 {
     "title": "Tsunami Warning MAX!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10313.jpg",
+        "alt": "tsunami-warning-max"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "つなみ注意報ＭＡＸ！",

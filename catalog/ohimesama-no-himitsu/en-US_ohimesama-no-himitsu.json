@@ -1,5 +1,9 @@
 {
     "title": "Ohimesama no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178329.jpg",
+        "alt": "ohimesama-no-himitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

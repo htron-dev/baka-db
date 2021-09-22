@@ -1,12 +1,16 @@
 {
     "title": "K: Return of Kings",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/76198.jpg",
+        "alt": "k-return-of-kings"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "K RETURN OF KINGS",
     "start_date": "2015-10-03",
     "end_date": "2015-10-03",
     "opening_song": "\"Asymmetry (アシンメトリー)\" by Yui Horie (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kai (解)\" by Customi Z (eps 2-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/K_(anime"
+            "link": "http://en.wikipedia.org/wiki/K_%28anime%29"
         }
     ]
 }

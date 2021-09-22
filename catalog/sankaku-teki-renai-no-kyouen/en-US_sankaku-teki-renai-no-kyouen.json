@@ -1,5 +1,9 @@
 {
     "title": "Sankaku-teki Renai no Kyouen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198698.jpg",
+        "alt": "sankaku-teki-renai-no-kyouen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "48",

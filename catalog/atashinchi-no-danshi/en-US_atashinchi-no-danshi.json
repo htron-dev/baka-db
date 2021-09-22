@@ -1,5 +1,9 @@
 {
     "title": "Atashinchi no Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20425.jpg",
+        "alt": "atashinchi-no-danshi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アタシんちの男子",

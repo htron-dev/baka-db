@@ -1,5 +1,9 @@
 {
     "title": "Yakusoku (ONA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/68987.jpg",
+        "alt": "yakusoku-ona"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "約束",

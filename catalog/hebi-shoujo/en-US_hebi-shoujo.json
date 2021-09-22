@@ -1,5 +1,9 @@
 {
     "title": "Hebi Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236686.jpg",
+        "alt": "hebi-shoujo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "3",

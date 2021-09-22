@@ -1,5 +1,9 @@
 {
     "title": "Deja-vu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/113211.jpg",
+        "alt": "deja-vu"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "6",

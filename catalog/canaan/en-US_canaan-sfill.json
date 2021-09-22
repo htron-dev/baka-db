@@ -1,5 +1,9 @@
 {
     "title": "Canaan Sfill",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153534.jpg",
+        "alt": "canaan-sfill"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

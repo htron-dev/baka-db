@@ -1,5 +1,9 @@
 {
     "title": "Hikyou Tanken Fam & Ihrlie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/87457.jpg",
+        "alt": "hikyou-tanken-fam-ihrlie"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "秘境探検ファム&イーリー",

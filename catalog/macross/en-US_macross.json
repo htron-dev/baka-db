@@ -1,12 +1,16 @@
 {
     "title": "Macross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2441.jpg",
+        "alt": "macross"
+    },
     "type": "tv-serie",
     "episodes": "36",
     "original_name": "超時空要塞マクロス",
     "start_date": "1982-10-03",
     "end_date": "1982-10-03",
     "opening_song": "\"マクロス (Macross)\" by Makoto Fujiwara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"ランナー (Runner)\" by Makoto Fujiwara (eps 1-35)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

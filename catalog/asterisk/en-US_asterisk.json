@@ -1,5 +1,9 @@
 {
     "title": "Asterisk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224261.jpg",
+        "alt": "asterisk"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

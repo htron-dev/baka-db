@@ -1,5 +1,9 @@
 {
     "title": "Ai Hime: Ai to Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153228.jpg",
+        "alt": "ai-hime-ai-to-himegoto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Grand Slam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152553.jpg",
+        "alt": "grand-slam"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "GRAND SLAM グランドスラム",

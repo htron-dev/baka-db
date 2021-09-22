@@ -1,5 +1,9 @@
 {
     "title": "Ju-On",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3577.jpg",
+        "alt": "ju-on"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

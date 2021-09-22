@@ -1,5 +1,9 @@
 {
     "title": "Aguu: Tiencai Wanou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226676.jpg",
+        "alt": "aguu-tiencai-wanou"
+    },
     "type": "manga",
     "tags": [
         "action",

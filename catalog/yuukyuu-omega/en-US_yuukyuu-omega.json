@@ -1,5 +1,9 @@
 {
     "title": "Yuukyuu Omega",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223713.jpg",
+        "alt": "yuukyuu-omega"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

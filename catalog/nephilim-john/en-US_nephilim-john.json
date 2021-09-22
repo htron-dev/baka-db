@@ -1,5 +1,9 @@
 {
     "title": "Nephilim John",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/39184.jpg",
+        "alt": "nephilim-john"
+    },
     "type": "manhwa",
     "volumes": "8",
     "chapters": "42",

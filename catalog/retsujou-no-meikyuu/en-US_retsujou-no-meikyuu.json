@@ -1,5 +1,9 @@
 {
     "title": "Retsujou no Meikyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7104.jpg",
+        "alt": "retsujou-no-meikyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

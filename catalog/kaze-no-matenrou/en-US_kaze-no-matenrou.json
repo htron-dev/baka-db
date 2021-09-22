@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Matenrou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196563.jpg",
+        "alt": "kaze-no-matenrou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

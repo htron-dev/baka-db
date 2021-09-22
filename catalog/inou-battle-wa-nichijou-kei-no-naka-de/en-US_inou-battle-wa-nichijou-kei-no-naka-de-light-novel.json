@@ -1,5 +1,9 @@
 {
     "title": "Inou-Battle wa Nichijou-kei no Naka de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205642.jpg",
+        "alt": "inou-battle-wa-nichijou-kei-no-naka-de"
+    },
     "type": "light-novel",
     "volumes": "13",
     "chapters": "118",

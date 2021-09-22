@@ -1,5 +1,9 @@
 {
     "title": "Nagagutsu wo Haita Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/5415.jpg",
+        "alt": "nagagutsu-wo-haita-neko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "長靴をはいた猫",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Puss_in_Boots_(1969_film"
+            "link": "http://en.wikipedia.org/wiki/Puss_in_Boots_%281969_film%29"
         }
     ]
 }

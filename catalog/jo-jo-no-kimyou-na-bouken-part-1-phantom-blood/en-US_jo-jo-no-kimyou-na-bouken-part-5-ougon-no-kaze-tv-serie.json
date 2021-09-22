@@ -1,12 +1,16 @@
 {
     "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1572/95010.jpg",
+        "alt": "jo-jo-no-kimyou-na-bouken-part-5-ougon-no-kaze"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ジョジョの奇妙な冒険 黄金の風",
     "start_date": "2018-10-06",
     "end_date": "2018-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Fighting Gold\" by Coda (eps 2-21)",
+    "ending_song": "#1: \"Freek'n You\" by Jodeci (eps 2-4, 6-8, 10-19)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure_(TV_series"
+            "link": "http://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure_%28TV_series%29"
         }
     ]
 }

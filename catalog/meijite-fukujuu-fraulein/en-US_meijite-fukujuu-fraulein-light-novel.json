@@ -1,5 +1,9 @@
 {
     "title": "Meijite! Fukujuu Fräulein",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163922.jpg",
+        "alt": "meijite-fukujuu-fraulein"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "35",

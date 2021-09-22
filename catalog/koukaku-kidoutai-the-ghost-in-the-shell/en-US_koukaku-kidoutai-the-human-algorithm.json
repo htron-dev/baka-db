@@ -1,5 +1,9 @@
 {
     "title": "Koukaku Kidoutai: The Human Algorithm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232394.jpg",
+        "alt": "koukaku-kidoutai-the-human-algorithm"
+    },
     "type": "manga",
     "original_name": "攻殻機動隊 THE HUMAN ALGORITHM",
     "start_date": "2019-09-16",

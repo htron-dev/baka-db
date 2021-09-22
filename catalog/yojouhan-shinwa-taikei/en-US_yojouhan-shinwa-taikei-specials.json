@@ -1,5 +1,9 @@
 {
     "title": "Yojouhan Shinwa Taikei Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1065/91991.jpg",
+        "alt": "yojouhan-shinwa-taikei-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "四畳半神話大系",

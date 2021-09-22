@@ -1,5 +1,9 @@
 {
     "title": "Shiro no Falucca",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164103.jpg",
+        "alt": "shiro-no-falucca"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "白のファルーカ",

@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Bigaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57809.jpg",
+        "alt": "shoujo-bigaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

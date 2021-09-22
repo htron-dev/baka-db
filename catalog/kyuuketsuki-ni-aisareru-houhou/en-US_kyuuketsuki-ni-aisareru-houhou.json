@@ -1,5 +1,9 @@
 {
     "title": "Kyuuketsuki ni Aisareru Houhou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24705.jpg",
+        "alt": "kyuuketsuki-ni-aisareru-houhou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

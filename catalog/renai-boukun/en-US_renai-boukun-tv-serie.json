@@ -1,12 +1,16 @@
 {
     "title": "Renai Boukun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/84266.jpg",
+        "alt": "renai-boukun"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "恋愛暴君",
     "start_date": "2017-04-07",
     "end_date": "2017-04-07",
     "opening_song": "\"Koi? de Ai? de Boukun desu! (恋？で愛？で暴君です！)\" by Wake Up, Girls!",
-    "ending_song": "#1",
+    "ending_song": "#1: \" 'Suki' wo Oshiete (「スキ」を教えて)\" by smileY inc. (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

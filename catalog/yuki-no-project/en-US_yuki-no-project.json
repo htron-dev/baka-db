@@ -1,5 +1,9 @@
 {
     "title": "Yuki no Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26981.jpg",
+        "alt": "yuki-no-project"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "8",

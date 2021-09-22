@@ -1,5 +1,9 @@
 {
     "title": "Bakuhatsu Gorou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1855/90302.jpg",
+        "alt": "bakuhatsu-gorou"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ばくはつ五郎",

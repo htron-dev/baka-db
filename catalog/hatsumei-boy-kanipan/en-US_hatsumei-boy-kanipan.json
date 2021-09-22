@@ -1,5 +1,9 @@
 {
     "title": "Hatsumei Boy Kanipan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/46389.jpg",
+        "alt": "hatsumei-boy-kanipan"
+    },
     "type": "tv-serie",
     "episodes": "31",
     "original_name": "発明 BOY カニパン",

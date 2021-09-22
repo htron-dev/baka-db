@@ -1,5 +1,9 @@
 {
     "title": "Iwamoto-senpai no Suisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248010.jpg",
+        "alt": "iwamoto-senpai-no-suisen"
+    },
     "type": "manga",
     "original_name": "岩元先輩ノ推薦",
     "start_date": "2021-02-19",

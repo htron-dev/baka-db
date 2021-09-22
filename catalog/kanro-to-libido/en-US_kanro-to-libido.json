@@ -1,5 +1,9 @@
 {
     "title": "Kanro to Libido",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203092.jpg",
+        "alt": "kanro-to-libido"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

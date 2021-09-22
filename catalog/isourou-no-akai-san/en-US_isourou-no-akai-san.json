@@ -1,5 +1,9 @@
 {
     "title": "Isourou no Akai-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174762.jpg",
+        "alt": "isourou-no-akai-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

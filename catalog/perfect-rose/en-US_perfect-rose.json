@@ -1,5 +1,9 @@
 {
     "title": "Perfect Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175817.jpg",
+        "alt": "perfect-rose"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

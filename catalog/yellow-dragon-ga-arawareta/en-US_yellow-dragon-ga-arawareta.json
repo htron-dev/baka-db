@@ -1,5 +1,9 @@
 {
     "title": "Yellow Dragon ga Arawareta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31650.jpg",
+        "alt": "yellow-dragon-ga-arawareta"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

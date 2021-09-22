@@ -1,12 +1,16 @@
 {
     "title": "Ginga Senpuu Braiger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1640/96448.jpg",
+        "alt": "ginga-senpuu-braiger"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "銀河旋風ブライガー",
     "start_date": "1981-10-06",
     "end_date": "1981-10-06",
     "opening_song": "\"Ginga Senpuu Braiger\" by Isao Taira",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sasurai Kid (Wandering Kid)\" by Isao Taira (eps 1-38)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

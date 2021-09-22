@@ -1,5 +1,9 @@
 {
     "title": "Ohisama Ichinensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64617.jpg",
+        "alt": "ohisama-ichinensei"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "おひさまいちねんせい",

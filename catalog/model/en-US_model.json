@@ -1,5 +1,9 @@
 {
     "title": "Model",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173620.jpg",
+        "alt": "model"
+    },
     "type": "manhwa",
     "volumes": "7",
     "chapters": "10",

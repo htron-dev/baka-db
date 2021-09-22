@@ -1,5 +1,9 @@
 {
     "title": "Rice Shoulder",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121713.jpg",
+        "alt": "rice-shoulder"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "194",

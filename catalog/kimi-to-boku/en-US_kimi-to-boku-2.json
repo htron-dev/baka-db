@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Boku. 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/42107.jpg",
+        "alt": "kimi-to-boku-2"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "君と僕。2",

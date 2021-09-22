@@ -1,5 +1,9 @@
 {
     "title": "Master Mosquiton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/15445.jpg",
+        "alt": "master-mosquiton"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "マスターモスキートン",

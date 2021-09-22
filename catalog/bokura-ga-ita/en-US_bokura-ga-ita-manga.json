@@ -1,5 +1,9 @@
 {
     "title": "Bokura ga Ita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24452.jpg",
+        "alt": "bokura-ga-ita"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "70",

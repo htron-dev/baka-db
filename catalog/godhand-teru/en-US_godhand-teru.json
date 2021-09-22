@@ -1,5 +1,9 @@
 {
     "title": "Godhand Teru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30024.jpg",
+        "alt": "godhand-teru"
+    },
     "type": "manga",
     "volumes": "62",
     "chapters": "478",

@@ -1,5 +1,9 @@
 {
     "title": "Ciguatera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/50899.jpg",
+        "alt": "ciguatera"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "69",

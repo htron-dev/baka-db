@@ -1,5 +1,9 @@
 {
     "title": "Ame ni Niteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132555.jpg",
+        "alt": "ame-ni-niteiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

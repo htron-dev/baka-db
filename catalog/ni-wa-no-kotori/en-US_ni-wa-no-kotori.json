@@ -1,5 +1,9 @@
 {
     "title": "Ni wa no Kotori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/84585.jpg",
+        "alt": "ni-wa-no-kotori"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "二わのことり",

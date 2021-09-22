@@ -1,9 +1,13 @@
 {
     "title": "16:00 no Shoukan Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159878.jpg",
+        "alt": "16-00-no-shoukan-mahou"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "11",
-    "original_name": "16",
+    "original_name": "16:00 の召喚魔法",
     "start_date": "2013-04-25",
     "end_date": "2013-04-25",
     "tags": [

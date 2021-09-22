@@ -1,5 +1,9 @@
 {
     "title": "Vanilla",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6065.jpg",
+        "alt": "vanilla"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

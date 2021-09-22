@@ -1,5 +1,9 @@
 {
     "title": "Wagahai no Heya de Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199490.jpg",
+        "alt": "wagahai-no-heya-de-aru"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "106",

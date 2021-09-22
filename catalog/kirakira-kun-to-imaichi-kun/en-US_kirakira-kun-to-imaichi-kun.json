@@ -1,5 +1,9 @@
 {
     "title": "Kirakira-kun to Imaichi-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229050.jpg",
+        "alt": "kirakira-kun-to-imaichi-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

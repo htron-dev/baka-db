@@ -1,5 +1,9 @@
 {
     "title": "Arifureta Shokugyou de Sekai Saikyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1776/97682.jpg",
+        "alt": "arifureta-shokugyou-de-sekai-saikyou"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ありふれた職業で世界最強",

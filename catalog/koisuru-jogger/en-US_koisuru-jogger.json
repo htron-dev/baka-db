@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Jogger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197432.jpg",
+        "alt": "koisuru-jogger"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "恋するジョガー",

@@ -1,5 +1,9 @@
 {
     "title": "Marriage Purple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222437.jpg",
+        "alt": "marriage-purple"
+    },
     "type": "manga",
     "original_name": "マリッジパープル",
     "start_date": "2018-07-24",

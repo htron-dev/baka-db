@@ -1,5 +1,9 @@
 {
     "title": "Kankaku Soda Fountain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162191.jpg",
+        "alt": "kankaku-soda-fountain"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Taberu Hitotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1167/108049.jpg",
+        "alt": "taberu-hitotachi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "食べる人たち",

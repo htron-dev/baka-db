@@ -1,5 +1,9 @@
 {
     "title": "Parman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3949.jpg",
+        "alt": "parman"
+    },
     "type": "manga",
     "tags": [
         "comedy",

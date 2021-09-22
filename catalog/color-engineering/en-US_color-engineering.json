@@ -1,5 +1,9 @@
 {
     "title": "Color Engineering",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/80291.jpg",
+        "alt": "color-engineering"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

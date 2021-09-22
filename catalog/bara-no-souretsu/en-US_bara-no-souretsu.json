@@ -1,5 +1,9 @@
 {
     "title": "Bara no Souretsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/48907.jpg",
+        "alt": "bara-no-souretsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

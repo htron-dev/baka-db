@@ -1,5 +1,9 @@
 {
     "title": "Toki wo Koeru Kage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216981.jpg",
+        "alt": "toki-wo-koeru-kage"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

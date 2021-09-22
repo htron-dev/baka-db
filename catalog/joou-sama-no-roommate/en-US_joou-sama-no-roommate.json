@@ -1,5 +1,9 @@
 {
     "title": "Joou-sama no Roommate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212108.jpg",
+        "alt": "joou-sama-no-roommate"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

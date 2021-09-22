@@ -1,5 +1,9 @@
 {
     "title": "Purusatia no Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160020.jpg",
+        "alt": "purusatia-no-densetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

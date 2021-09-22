@@ -1,5 +1,9 @@
 {
     "title": "God Finger Jin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/111563.jpg",
+        "alt": "god-finger-jin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

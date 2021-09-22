@@ -1,5 +1,9 @@
 {
     "title": "Hanikami Hiyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95281.jpg",
+        "alt": "hanikami-hiyori"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "はにかみ日和",

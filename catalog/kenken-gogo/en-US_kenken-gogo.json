@@ -1,5 +1,9 @@
 {
     "title": "Kenken Gogo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231273.jpg",
+        "alt": "kenken-gogo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

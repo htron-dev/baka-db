@@ -1,5 +1,9 @@
 {
     "title": "Shakai Keiyakuron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159249.jpg",
+        "alt": "shakai-keiyakuron"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

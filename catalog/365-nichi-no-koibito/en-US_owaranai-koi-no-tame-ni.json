@@ -1,5 +1,9 @@
 {
     "title": "Owaranai Koi no Tame ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32802.jpg",
+        "alt": "owaranai-koi-no-tame-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "終わらない恋のために",

@@ -1,5 +1,9 @@
 {
     "title": "Motori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35282.jpg",
+        "alt": "motori"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "モートリ 妄想の砦",

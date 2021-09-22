@@ -1,5 +1,9 @@
 {
     "title": "Itsumo Anata no Koto Bakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203643.jpg",
+        "alt": "itsumo-anata-no-koto-bakari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

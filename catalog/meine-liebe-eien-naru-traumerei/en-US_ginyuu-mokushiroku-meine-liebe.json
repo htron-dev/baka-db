@@ -1,5 +1,9 @@
 {
     "title": "Ginyuu Mokushiroku Meine Liebe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75547.jpg",
+        "alt": "ginyuu-mokushiroku-meine-liebe"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "吟遊黙示録 マイネリーベ",

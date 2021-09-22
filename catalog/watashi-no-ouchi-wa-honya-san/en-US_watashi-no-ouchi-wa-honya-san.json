@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Ouchi wa Honya-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133743.jpg",
+        "alt": "watashi-no-ouchi-wa-honya-san"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "43",

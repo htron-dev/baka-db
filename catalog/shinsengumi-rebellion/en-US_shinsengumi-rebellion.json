@@ -1,5 +1,9 @@
 {
     "title": "Shinsengumi Rebellion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203276.jpg",
+        "alt": "shinsengumi-rebellion"
+    },
     "type": "manga",
     "original_name": "新選組リベリオン",
     "start_date": "2017-11-14",

@@ -1,5 +1,9 @@
 {
     "title": "Mitsuami no Kamisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/79853.jpg",
+        "alt": "mitsuami-no-kamisama"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "みつあみの神様",

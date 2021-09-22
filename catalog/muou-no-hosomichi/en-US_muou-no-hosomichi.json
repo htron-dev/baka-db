@@ -1,5 +1,9 @@
 {
     "title": "Muou no Hosomichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163320.jpg",
+        "alt": "muou-no-hosomichi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

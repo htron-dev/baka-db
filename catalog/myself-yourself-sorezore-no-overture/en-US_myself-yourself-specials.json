@@ -1,5 +1,9 @@
 {
     "title": "Myself ; Yourself Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/46975.jpg",
+        "alt": "myself-yourself-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "マイセルフ；ユアセルフ",

@@ -1,5 +1,9 @@
 {
     "title": "Shikazono Gakuen Hiyoko Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95675.jpg",
+        "alt": "shikazono-gakuen-hiyoko-club"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

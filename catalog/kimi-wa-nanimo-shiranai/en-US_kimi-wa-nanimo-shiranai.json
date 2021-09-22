@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Nanimo Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163553.jpg",
+        "alt": "kimi-wa-nanimo-shiranai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

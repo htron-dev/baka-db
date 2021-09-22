@@ -1,12 +1,16 @@
 {
     "title": "Choujikuu Seiki Orguss 02",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/13797.jpg",
+        "alt": "choujikuu-seiki-orguss-02"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "超時空世紀オーガス 02",
     "start_date": "1993-12-05",
     "end_date": "1993-12-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Fushigi wo Mitsumete (不思議を見つめて)\" by Hikashu (eps 1-4)",
+    "ending_song": "#1: \"Black Box (ブラックボックス)\" by Hikashu (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Kine-Pass Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/83831.jpg",
+        "alt": "kine-pass-gekijou"
+    },
     "type": "movie",
     "episodes": "3",
     "original_name": "キネパス劇場",

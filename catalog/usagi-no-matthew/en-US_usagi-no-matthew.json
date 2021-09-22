@@ -1,5 +1,9 @@
 {
     "title": "Usagi no Matthew",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1003/95068.jpg",
+        "alt": "usagi-no-matthew"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "うさぎのマシュー",

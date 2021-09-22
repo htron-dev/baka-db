@@ -1,5 +1,9 @@
 {
     "title": "Nanahon Ude no Jessica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125285.jpg",
+        "alt": "nanahon-ude-no-jessica"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "七本腕のジェシカ",

@@ -1,5 +1,9 @@
 {
     "title": "City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192291.jpg",
+        "alt": "city"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "187",

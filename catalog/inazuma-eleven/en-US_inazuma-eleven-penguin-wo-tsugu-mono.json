@@ -1,5 +1,9 @@
 {
     "title": "Inazuma Eleven: Penguin wo Tsugu Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231233.jpg",
+        "alt": "inazuma-eleven-penguin-wo-tsugu-mono"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "38",

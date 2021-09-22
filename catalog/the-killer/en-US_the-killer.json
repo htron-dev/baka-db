@@ -1,5 +1,9 @@
 {
     "title": "The Killer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185225.jpg",
+        "alt": "the-killer"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

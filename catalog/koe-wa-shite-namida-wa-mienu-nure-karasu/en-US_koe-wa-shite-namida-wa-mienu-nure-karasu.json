@@ -1,5 +1,9 @@
 {
     "title": "Koe wa Shite Namida wa Mienu Nure Karasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183015.jpg",
+        "alt": "koe-wa-shite-namida-wa-mienu-nure-karasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,12 +1,16 @@
 {
     "title": "Ahiru no Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1975/108030.jpg",
+        "alt": "ahiru-no-sora"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "あひるの空",
     "start_date": "2019-10-02",
     "end_date": "2019-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Happy Go Ducky!\" by the pillows (eps 1-13)",
+    "ending_song": "#1: \"Tsubasa (ツバサ)\" by Saji (saji-サジ) (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

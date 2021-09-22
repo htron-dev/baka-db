@@ -1,5 +1,9 @@
 {
     "title": "Nijiiro Hotaru: Eien no Natsuyasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153879.jpg",
+        "alt": "nijiiro-hotaru-eien-no-natsuyasumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

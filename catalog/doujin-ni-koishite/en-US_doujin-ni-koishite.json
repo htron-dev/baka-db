@@ -1,5 +1,9 @@
 {
     "title": "Doujin ni Koishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95773.jpg",
+        "alt": "doujin-ni-koishite"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "同人に恋して",

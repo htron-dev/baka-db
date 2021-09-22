@@ -1,5 +1,9 @@
 {
     "title": "Lily",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151405.jpg",
+        "alt": "lily"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Lily",

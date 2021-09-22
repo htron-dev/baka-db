@@ -1,5 +1,9 @@
 {
     "title": "F no Meikyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/92457.jpg",
+        "alt": "f-no-meikyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

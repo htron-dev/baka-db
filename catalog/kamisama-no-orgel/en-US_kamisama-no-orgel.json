@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Orgel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5344.jpg",
+        "alt": "kamisama-no-orgel"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "神様のオルゴール",

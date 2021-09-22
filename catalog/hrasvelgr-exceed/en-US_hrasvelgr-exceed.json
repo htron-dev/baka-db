@@ -1,5 +1,9 @@
 {
     "title": "Hrasvelgr Exceed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163375.jpg",
+        "alt": "hrasvelgr-exceed"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "42",

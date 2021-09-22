@@ -1,5 +1,9 @@
 {
     "title": "Hana nomi zo Shiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168034.jpg",
+        "alt": "hana-nomi-zo-shiru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

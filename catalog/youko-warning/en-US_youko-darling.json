@@ -1,5 +1,9 @@
 {
     "title": "Youko Darling!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/214899.jpg",
+        "alt": "youko-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Jungle Makyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228232.jpg",
+        "alt": "jungle-makyou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ジャングル魔境",

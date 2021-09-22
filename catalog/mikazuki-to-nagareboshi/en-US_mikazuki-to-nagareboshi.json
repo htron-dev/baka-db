@@ -1,5 +1,9 @@
 {
     "title": "Mikazuki to Nagareboshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163856.jpg",
+        "alt": "mikazuki-to-nagareboshi"
+    },
     "type": "manga",
     "original_name": "三日月と流れ星",
     "start_date": "2014-11-26",

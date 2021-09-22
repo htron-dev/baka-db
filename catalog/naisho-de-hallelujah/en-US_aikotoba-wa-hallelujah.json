@@ -1,5 +1,9 @@
 {
     "title": "Aikotoba wa Hallelujah",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15264.jpg",
+        "alt": "aikotoba-wa-hallelujah"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

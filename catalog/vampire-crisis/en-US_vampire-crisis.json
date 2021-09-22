@@ -1,5 +1,9 @@
 {
     "title": "Vampire Crisis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22713.jpg",
+        "alt": "vampire-crisis"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

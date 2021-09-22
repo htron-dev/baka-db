@@ -1,5 +1,9 @@
 {
     "title": "Grand Amour",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14684.jpg",
+        "alt": "grand-amour"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

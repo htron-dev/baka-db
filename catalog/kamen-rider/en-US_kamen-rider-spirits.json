@@ -1,5 +1,9 @@
 {
     "title": "Kamen Rider Spirits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185785.jpg",
+        "alt": "kamen-rider-spirits"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "96",

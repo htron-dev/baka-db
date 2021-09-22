@@ -1,5 +1,9 @@
 {
     "title": "Hagakure no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16542.jpg",
+        "alt": "hagakure-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

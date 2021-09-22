@@ -1,5 +1,9 @@
 {
     "title": "Hakumaden no Ishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168697.jpg",
+        "alt": "hakumaden-no-ishi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

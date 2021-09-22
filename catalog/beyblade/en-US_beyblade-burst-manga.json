@@ -1,5 +1,9 @@
 {
     "title": "Beyblade Burst",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172319.jpg",
+        "alt": "beyblade-burst"
+    },
     "type": "manga",
     "original_name": "ベイブレードバースト",
     "start_date": "2015-07-15",

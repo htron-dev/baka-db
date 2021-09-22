@@ -1,5 +1,9 @@
 {
     "title": "Billy the Kid 21-mai no Album",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36445.jpg",
+        "alt": "billy-the-kid-21-mai-no-album"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

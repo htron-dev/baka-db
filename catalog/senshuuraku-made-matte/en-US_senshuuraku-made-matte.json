@@ -1,5 +1,9 @@
 {
     "title": "Senshuuraku Made Matte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22386.jpg",
+        "alt": "senshuuraku-made-matte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Uchi no Tenshi ga Kemono deshita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158622.jpg",
+        "alt": "uchi-no-tenshi-ga-kemono-deshita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

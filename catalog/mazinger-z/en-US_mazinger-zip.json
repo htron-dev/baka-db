@@ -1,5 +1,9 @@
 {
     "title": "Mazinger ZIP!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1567/99090.jpg",
+        "alt": "mazinger-zip"
+    },
     "type": "tv-serie",
     "episodes": "237",
     "original_name": "マジンガー ZIP!",

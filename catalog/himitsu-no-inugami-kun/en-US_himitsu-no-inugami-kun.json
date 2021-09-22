@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Inugami-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83328.jpg",
+        "alt": "himitsu-no-inugami-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

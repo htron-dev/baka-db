@@ -1,5 +1,9 @@
 {
     "title": "In The Chocolate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64855.jpg",
+        "alt": "in-the-chocolate"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

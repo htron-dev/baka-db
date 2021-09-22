@@ -1,5 +1,9 @@
 {
     "title": "Kekkaishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/62941.jpg",
+        "alt": "kekkaishi"
+    },
     "type": "manga",
     "volumes": "35",
     "chapters": "345",

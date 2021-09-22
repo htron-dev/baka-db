@@ -1,5 +1,9 @@
 {
     "title": "Eriko-kun, Ocha!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26975.jpg",
+        "alt": "eriko-kun-ocha"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

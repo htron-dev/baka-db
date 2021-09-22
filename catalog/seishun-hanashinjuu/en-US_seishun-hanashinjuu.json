@@ -1,5 +1,9 @@
 {
     "title": "Seishun Hanashinjuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202649.jpg",
+        "alt": "seishun-hanashinjuu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

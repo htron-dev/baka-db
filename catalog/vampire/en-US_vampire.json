@@ -1,5 +1,9 @@
 {
     "title": "Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168044.jpg",
+        "alt": "vampire"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Neko Enikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171936.jpg",
+        "alt": "neko-enikki"
+    },
     "type": "manga",
     "original_name": "猫絵日記",
     "start_date": "2013-10-11",

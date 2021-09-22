@@ -1,5 +1,9 @@
 {
     "title": "La Vie en Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/111107.jpg",
+        "alt": "la-vie-en-doll"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Puu-Neko Shougekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/32327.jpg",
+        "alt": "puu-neko-shougekijou"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "プ〜ねこ小劇場",

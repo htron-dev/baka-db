@@ -1,5 +1,9 @@
 {
     "title": "Tsubasa Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/6555.jpg",
+        "alt": "tsubasa-chronicle"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ツバサ・クロニクル",

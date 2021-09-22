@@ -1,5 +1,9 @@
 {
     "title": "Beng Huai Xinghe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1465/107843.jpg",
+        "alt": "beng-huai-xinghe"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "崩坏星河",

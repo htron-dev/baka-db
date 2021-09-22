@@ -1,5 +1,9 @@
 {
     "title": "Deka ni Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170600.jpg",
+        "alt": "deka-ni-romance"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,12 +1,16 @@
 {
     "title": "Senkou no Night Raid Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/26157.jpg",
+        "alt": "senkou-no-night-raid-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "閃光のナイトレイド",
     "start_date": "2010-06-23",
     "end_date": "2010-06-23",
     "opening_song": "\"Yakusoku (約束)\" by MUCC",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Mirai e... (未来へ…)\" by HIMEKA (eps 1-2)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

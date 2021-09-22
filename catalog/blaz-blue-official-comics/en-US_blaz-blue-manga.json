@@ -1,5 +1,9 @@
 {
     "title": "BlazBlue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113585.jpg",
+        "alt": "blaz-blue"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

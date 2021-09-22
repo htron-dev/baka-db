@@ -1,12 +1,16 @@
 {
     "title": "Princess Principal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/86768.jpg",
+        "alt": "princess-principal"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "プリンセス・プリンシパル",
     "start_date": "2017-07-09",
     "end_date": "2017-07-09",
     "opening_song": "\"The Other Side of the Wall\" by Void_Chords feat.MARU",
-    "ending_song": "#1",
+    "ending_song": "#1: \"A Page of My Story\" by Ange (Ayaka Imamura), Princess (Akira Sekine), Dorothy (You Taichi), Beatrice (Akari Kageyama), Chise (Nozomi Furuki) (eps 1-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

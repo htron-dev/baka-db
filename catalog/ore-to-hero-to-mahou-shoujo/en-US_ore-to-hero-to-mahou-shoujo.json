@@ -1,5 +1,9 @@
 {
     "title": "Ore to Hero to Mahou Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215051.jpg",
+        "alt": "ore-to-hero-to-mahou-shoujo"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "46",

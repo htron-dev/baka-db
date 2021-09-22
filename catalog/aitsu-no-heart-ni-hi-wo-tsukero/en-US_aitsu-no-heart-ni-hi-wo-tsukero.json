@@ -1,5 +1,9 @@
 {
     "title": "Aitsu no Heart ni Hi wo Tsukero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2545.jpg",
+        "alt": "aitsu-no-heart-ni-hi-wo-tsukero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

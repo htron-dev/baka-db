@@ -1,5 +1,9 @@
 {
     "title": "Hito Kohi Someshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91869.jpg",
+        "alt": "hito-kohi-someshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

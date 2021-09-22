@@ -1,5 +1,9 @@
 {
     "title": "Brothers Conflict Short Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95405.jpg",
+        "alt": "brothers-conflict-short-stories"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "13",

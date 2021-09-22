@@ -1,5 +1,9 @@
 {
     "title": "Shin Tenchi Muyou! Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/24199.jpg",
+        "alt": "shin-tenchi-muyou-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "新・天地無用!",

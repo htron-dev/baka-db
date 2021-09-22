@@ -1,5 +1,9 @@
 {
     "title": "Renai Shikou Seitokai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225194.jpg",
+        "alt": "renai-shikou-seitokai"
+    },
     "type": "manga",
     "original_name": "恋愛志向生徒会",
     "start_date": "2017-08-01",

@@ -1,5 +1,9 @@
 {
     "title": "Oku Hiroya Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/63495.jpg",
+        "alt": "oku-hiroya-tanpenshuu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "奥浩哉短篇集 - 赤",

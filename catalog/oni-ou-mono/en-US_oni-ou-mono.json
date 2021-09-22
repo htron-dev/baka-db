@@ -1,5 +1,9 @@
 {
     "title": "Oni Ou Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32878.jpg",
+        "alt": "oni-ou-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

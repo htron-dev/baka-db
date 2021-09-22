@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Ai-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139187.jpg",
+        "alt": "himitsu-no-ai-chan"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "73",

@@ -1,5 +1,9 @@
 {
     "title": "Junai Junkie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222812.jpg",
+        "alt": "junai-junkie"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "134",

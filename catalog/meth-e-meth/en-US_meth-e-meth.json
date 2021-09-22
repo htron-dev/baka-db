@@ -1,5 +1,9 @@
 {
     "title": "meth-e-meth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126859.jpg",
+        "alt": "meth-e-meth"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "meth・e・meth -メス・メス-",

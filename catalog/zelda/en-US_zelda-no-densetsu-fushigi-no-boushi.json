@@ -1,5 +1,9 @@
 {
     "title": "Zelda no Densetsu: Fushigi no Boushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126017.jpg",
+        "alt": "zelda-no-densetsu-fushigi-no-boushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

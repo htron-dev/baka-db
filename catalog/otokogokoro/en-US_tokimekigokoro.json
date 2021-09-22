@@ -1,5 +1,9 @@
 {
     "title": "Tokimekigokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118411.jpg",
+        "alt": "tokimekigokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

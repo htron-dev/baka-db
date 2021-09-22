@@ -1,5 +1,9 @@
 {
     "title": "Do Do Do S-kyuu Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152766.jpg",
+        "alt": "do-do-do-s-kyuu-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

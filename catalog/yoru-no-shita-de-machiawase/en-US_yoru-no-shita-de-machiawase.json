@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Shita de Machiawase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247861.jpg",
+        "alt": "yoru-no-shita-de-machiawase"
+    },
     "type": "manga",
     "original_name": "夜の下で待ち合わせ",
     "start_date": "2021-02-13",

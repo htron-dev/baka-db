@@ -1,10 +1,14 @@
 {
     "title": "Pokemon: Pikachu no Dokidoki Kakurenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/26371.jpg",
+        "alt": "pokemon-pikachu-no-dokidoki-kakurenbo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ピカチュウのドキドキかくれんぼ",
     "start_date": "2001-07-07",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Hide and Seek\" by Whiteberry (Japanese Version)",
     "rating": "PG - Children",
     "tags": [
         "adventure",

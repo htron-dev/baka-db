@@ -1,11 +1,15 @@
 {
     "title": "The Big O",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/567.jpg",
+        "alt": "the-big-o"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "THE ビッグオー",
     "start_date": "1999-10-13",
     "end_date": "1999-10-13",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Big-O!\" by Rui Nagai (3-13)",
     "ending_song": "\"And Forever...\" by Robbie Danzie with Naoki Takao",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

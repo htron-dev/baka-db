@@ -1,5 +1,9 @@
 {
     "title": "Anisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/87507.jpg",
+        "alt": "anisama"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "あにさま",

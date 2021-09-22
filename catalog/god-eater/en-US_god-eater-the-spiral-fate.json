@@ -1,5 +1,9 @@
 {
     "title": "God Eater: The Spiral Fate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160489.jpg",
+        "alt": "god-eater-the-spiral-fate"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

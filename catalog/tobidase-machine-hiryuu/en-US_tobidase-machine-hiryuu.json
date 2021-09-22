@@ -1,5 +1,9 @@
 {
     "title": "Tobidase! Machine Hiryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/53621.jpg",
+        "alt": "tobidase-machine-hiryuu"
+    },
     "type": "tv-serie",
     "episodes": "21",
     "original_name": "とびだせ! マシーン飛竜",

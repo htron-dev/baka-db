@@ -1,5 +1,9 @@
 {
     "title": "Tobaku Datenroku Kaiji: Kazuya-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24616.jpg",
+        "alt": "tobaku-datenroku-kaiji-kazuya-hen"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "100",

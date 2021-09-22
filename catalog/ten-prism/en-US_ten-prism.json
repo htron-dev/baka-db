@@ -1,5 +1,9 @@
 {
     "title": "Ten Prism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148315.jpg",
+        "alt": "ten-prism"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "88",

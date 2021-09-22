@@ -1,5 +1,9 @@
 {
     "title": "Yurumi to Shimeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/71513.jpg",
+        "alt": "yurumi-to-shimeru"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ユルミとシメル",

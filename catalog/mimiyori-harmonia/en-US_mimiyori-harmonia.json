@@ -1,5 +1,9 @@
 {
     "title": "Mimiyori Harmonia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195146.jpg",
+        "alt": "mimiyori-harmonia"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

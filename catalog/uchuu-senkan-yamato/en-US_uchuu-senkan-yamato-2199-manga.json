@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Senkan Yamato 2199",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/93001.jpg",
+        "alt": "uchuu-senkan-yamato-2199"
+    },
     "type": "manga",
     "original_name": "宇宙戦艦ヤマト 2199",
     "start_date": "2012-03-10",

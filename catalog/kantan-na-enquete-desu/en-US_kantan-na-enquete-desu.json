@@ -1,5 +1,9 @@
 {
     "title": "Kantan na Enquete desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117769.jpg",
+        "alt": "kantan-na-enquete-desu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "32",

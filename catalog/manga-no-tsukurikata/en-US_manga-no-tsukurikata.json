@@ -1,5 +1,9 @@
 {
     "title": "Manga no Tsukurikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164358.jpg",
+        "alt": "manga-no-tsukurikata"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "63",

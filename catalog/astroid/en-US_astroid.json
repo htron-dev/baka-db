@@ -1,5 +1,9 @@
 {
     "title": "Astroid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195929.jpg",
+        "alt": "astroid"
+    },
     "type": "manga",
     "chapters": "19",
     "original_name": "ASTROID",

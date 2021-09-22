@@ -1,5 +1,9 @@
 {
     "title": "Nousatsu Beat de Utawasete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29688.jpg",
+        "alt": "nousatsu-beat-de-utawasete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

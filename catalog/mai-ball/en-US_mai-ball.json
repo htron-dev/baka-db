@@ -1,5 +1,9 @@
 {
     "title": "Mai Ball!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201551.jpg",
+        "alt": "mai-ball"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "107",

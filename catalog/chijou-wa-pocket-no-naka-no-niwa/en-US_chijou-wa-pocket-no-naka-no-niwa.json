@@ -1,5 +1,9 @@
 {
     "title": "Chijou wa Pocket no Naka no Niwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42950.jpg",
+        "alt": "chijou-wa-pocket-no-naka-no-niwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Qi Cai Lao Fu Zi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/72097.jpg",
+        "alt": "qi-cai-lao-fu-zi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "七彩老夫子",

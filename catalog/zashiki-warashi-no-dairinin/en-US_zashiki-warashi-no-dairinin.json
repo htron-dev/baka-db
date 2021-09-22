@@ -1,5 +1,9 @@
 {
     "title": "Zashiki Warashi no Dairinin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225399.jpg",
+        "alt": "zashiki-warashi-no-dairinin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

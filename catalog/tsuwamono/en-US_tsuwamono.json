@@ -1,5 +1,9 @@
 {
     "title": "Tsuwamono!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200868.jpg",
+        "alt": "tsuwamono"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

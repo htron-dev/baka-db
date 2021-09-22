@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie 13: Nobita to Kumo no Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/72418.jpg",
+        "alt": "doraemon-movie-13-nobita-to-kumo-no-oukoku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん のび太と雲の王国",

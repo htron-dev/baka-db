@@ -1,5 +1,9 @@
 {
     "title": "Remain Bad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225442.jpg",
+        "alt": "remain-bad"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

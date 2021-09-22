@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Itoko!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152875.jpg",
+        "alt": "koisuru-itoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

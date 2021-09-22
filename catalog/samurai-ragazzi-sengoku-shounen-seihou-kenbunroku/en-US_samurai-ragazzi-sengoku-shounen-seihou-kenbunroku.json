@@ -1,5 +1,9 @@
 {
     "title": "Samurai Ragazzi: Sengoku Shounen Seihou Kenbunroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149581.jpg",
+        "alt": "samurai-ragazzi-sengoku-shounen-seihou-kenbunroku"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "39",

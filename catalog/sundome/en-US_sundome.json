@@ -1,5 +1,9 @@
 {
     "title": "Sundome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/50469.jpg",
+        "alt": "sundome"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "76",

@@ -1,5 +1,9 @@
 {
     "title": "Giniro no Kami no Arisa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/27172.jpg",
+        "alt": "giniro-no-kami-no-arisa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Dragon Live Online",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174382.jpg",
+        "alt": "dragon-live-online"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "My Home Your One Room",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236652.jpg",
+        "alt": "my-home-your-one-room"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

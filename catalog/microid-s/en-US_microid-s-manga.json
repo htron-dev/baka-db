@@ -1,5 +1,9 @@
 {
     "title": "Microid S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230281.jpg",
+        "alt": "microid-s"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Nekojima Nyanderful",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215890.jpg",
+        "alt": "nekojima-nyanderful"
+    },
     "type": "manga",
     "original_name": "ネコじまにゃんだフル",
     "start_date": "2017-03-28",

@@ -1,5 +1,9 @@
 {
     "title": "30 made ni Shinitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238071.jpg",
+        "alt": "30-made-ni-shinitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

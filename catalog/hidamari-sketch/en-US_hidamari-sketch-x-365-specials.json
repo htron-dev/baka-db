@@ -1,5 +1,9 @@
 {
     "title": "Hidamari Sketch x 365 Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/17727.jpg",
+        "alt": "hidamari-sketch-x-365-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ひだまりスケッチ ×365",

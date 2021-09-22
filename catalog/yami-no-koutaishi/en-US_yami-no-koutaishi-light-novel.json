@@ -1,5 +1,9 @@
 {
     "title": "Yami no Koutaishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/109137.jpg",
+        "alt": "yami-no-koutaishi"
+    },
     "type": "light-novel",
     "original_name": "闇の皇太子",
     "start_date": "2008-07-05",

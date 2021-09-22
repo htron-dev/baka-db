@@ -1,8 +1,12 @@
 {
     "title": "Kiss Dum R: Meguriahi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/69103.jpg",
+        "alt": "kiss-dum-r-meguriahi"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "キスダム R",
+    "original_name": "キスダム R:　メグリアヒ",
     "start_date": "2008-10-19",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

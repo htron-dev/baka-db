@@ -1,5 +1,9 @@
 {
     "title": "Marina Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182262.jpg",
+        "alt": "marina-romance"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "16",

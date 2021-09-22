@@ -1,5 +1,9 @@
 {
     "title": "Miyori no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/39239.jpg",
+        "alt": "miyori-no-mori"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

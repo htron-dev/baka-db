@@ -1,11 +1,15 @@
 {
     "title": "Little Witch Academia (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/83934.jpg",
+        "alt": "little-witch-academia-tv"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "リトルウィッチアカデミア",
     "start_date": "2017-01-09",
     "end_date": "2017-01-09",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Shiny Ray\" by YURiKA (eps 2-13)",
     "ending_song": "#1 \"Shiny Ray\" by YURiKA (ep 1)",
     "rating": "G - All Ages",
     "tags": [

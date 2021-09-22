@@ -1,5 +1,9 @@
 {
     "title": "Saboten Ouji no Ohimesama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191496.jpg",
+        "alt": "saboten-ouji-no-ohimesama"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

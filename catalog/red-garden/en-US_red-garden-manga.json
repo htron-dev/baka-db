@@ -1,5 +1,9 @@
 {
     "title": "Red Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7164.jpg",
+        "alt": "red-garden"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

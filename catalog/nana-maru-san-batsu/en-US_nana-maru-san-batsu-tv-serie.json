@@ -1,5 +1,9 @@
 {
     "title": "Nana Maru San Batsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/86731.jpg",
+        "alt": "nana-maru-san-batsu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ナナマル サンバツ",

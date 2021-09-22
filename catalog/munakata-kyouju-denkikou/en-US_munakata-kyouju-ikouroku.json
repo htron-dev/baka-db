@@ -1,5 +1,9 @@
 {
     "title": "Munakata Kyouju Ikouroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196065.jpg",
+        "alt": "munakata-kyouju-ikouroku"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "49",

@@ -1,5 +1,9 @@
 {
     "title": "Golf 13",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35613.jpg",
+        "alt": "golf-13"
+    },
     "type": "manga",
     "original_name": "ゴルフ 13",
     "start_date": "2010-02-17",

@@ -1,5 +1,9 @@
 {
     "title": "Sayabito: Sword of Destiny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46153.jpg",
+        "alt": "sayabito-sword-of-destiny"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "27",

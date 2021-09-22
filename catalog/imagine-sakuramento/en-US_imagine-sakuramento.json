@@ -1,5 +1,9 @@
 {
     "title": "Imagine Sakuramento",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162922.jpg",
+        "alt": "imagine-sakuramento"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "15",

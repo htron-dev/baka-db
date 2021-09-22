@@ -1,5 +1,9 @@
 {
     "title": "Buddy Spirits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/55727.jpg",
+        "alt": "buddy-spirits"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "バディ スピリッツ",

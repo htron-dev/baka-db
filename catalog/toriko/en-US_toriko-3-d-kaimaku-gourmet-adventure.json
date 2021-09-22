@@ -1,10 +1,14 @@
 {
     "title": "Toriko 3D: Kaimaku Gourmet Adventure!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/28914.jpg",
+        "alt": "toriko-3-d-kaimaku-gourmet-adventure"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "トリコ３Ｄ 開幕グルメアドベンチャー！！",
     "start_date": "2011-03-19",
-    "ending_song": "\"The Sharing Song",
+    "ending_song": "\"The Sharing Song: Toriko no Theme (The Sharing Song ~トリコのテーマ~)\" by Tokyo Ska Paradise Orchestra",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Kakegurui Twin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169926.jpg",
+        "alt": "kakegurui-twin"
+    },
     "type": "manga",
     "original_name": "ケグルイ双〈ツイン〉",
     "start_date": "2015-09-19",

@@ -1,5 +1,9 @@
 {
     "title": "Aimai Synchronicity",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232153.jpg",
+        "alt": "aimai-synchronicity"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

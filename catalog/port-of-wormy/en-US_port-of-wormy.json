@@ -1,5 +1,9 @@
 {
     "title": "Port of Wormy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1305/94785.jpg",
+        "alt": "port-of-wormy"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "PORT OF WORMY",

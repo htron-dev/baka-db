@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Ienai Kotoba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247196.jpg",
+        "alt": "kimi-ni-ienai-kotoba"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "きみに言えない言葉",

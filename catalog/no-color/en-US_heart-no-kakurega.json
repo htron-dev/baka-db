@@ -1,5 +1,9 @@
 {
     "title": "Heart no Kakurega",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164689.jpg",
+        "alt": "heart-no-kakurega"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

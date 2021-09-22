@@ -1,5 +1,9 @@
 {
     "title": "Macross F: Choujikuu Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/59791.jpg",
+        "alt": "macross-f-choujikuu-gekijou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "マクロスＦ 超時空劇場",

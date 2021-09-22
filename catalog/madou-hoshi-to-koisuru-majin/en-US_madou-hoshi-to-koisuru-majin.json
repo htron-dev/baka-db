@@ -1,5 +1,9 @@
 {
     "title": "Madou Hoshi to Koisuru Majin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235554.jpg",
+        "alt": "madou-hoshi-to-koisuru-majin"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "13",

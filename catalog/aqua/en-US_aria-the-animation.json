@@ -1,5 +1,9 @@
 {
     "title": "Aria the Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/77620.jpg",
+        "alt": "aria-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ARIA The ANIMATION",

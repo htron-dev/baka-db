@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Touhou Kenbunroku - Another Page",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/45905.jpg",
+        "alt": "lupin-iii-touhou-kenbunroku-another-page"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン三世 東方見聞録～アナザーページ～",

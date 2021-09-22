@@ -1,5 +1,9 @@
 {
     "title": "Yamaterasu Code",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204690.jpg",
+        "alt": "yamaterasu-code"
+    },
     "type": "manga",
     "chapters": "10",
     "original_name": "ヤマテラス・コード",

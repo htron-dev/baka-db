@@ -1,5 +1,9 @@
 {
     "title": "Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32782.jpg",
+        "alt": "blood"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Amefuri Kozou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/54631.jpg",
+        "alt": "amefuri-kozou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "雨ふり小僧",

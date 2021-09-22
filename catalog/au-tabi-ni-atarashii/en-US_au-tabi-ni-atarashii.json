@@ -1,5 +1,9 @@
 {
     "title": "Au Tabi ni, Atarashii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1253/115390.jpg",
+        "alt": "au-tabi-ni-atarashii"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "あうたびに、あたらしい",

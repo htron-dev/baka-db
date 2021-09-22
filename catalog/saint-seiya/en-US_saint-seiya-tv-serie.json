@@ -1,12 +1,16 @@
 {
     "title": "Saint Seiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/28496.jpg",
+        "alt": "saint-seiya"
+    },
     "type": "tv-serie",
     "episodes": "114",
     "original_name": "聖闘士星矢(セイントセイヤ)",
     "start_date": "1986-10-11",
     "end_date": "1986-10-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Pegasus Fantasy\" by MAKE-UP (eps 1-73)",
+    "ending_song": "#1: \"Blue Forever\" by MAKE-UP (eps 1-73)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

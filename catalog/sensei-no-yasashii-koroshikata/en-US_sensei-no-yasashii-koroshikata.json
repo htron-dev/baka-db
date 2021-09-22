@@ -1,5 +1,9 @@
 {
     "title": "Sensei no Yasashii Koroshikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202307.jpg",
+        "alt": "sensei-no-yasashii-koroshikata"
+    },
     "type": "manga",
     "original_name": "先生のやさしい殺し方",
     "start_date": "2017-10-19",

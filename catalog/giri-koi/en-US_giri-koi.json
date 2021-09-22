@@ -1,5 +1,9 @@
 {
     "title": "Giri Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23928.jpg",
+        "alt": "giri-koi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

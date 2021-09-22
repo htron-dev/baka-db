@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Natsu no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224575.jpg",
+        "alt": "kimi-to-natsu-no-naka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

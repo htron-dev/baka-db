@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Akazukin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/56763.jpg",
+        "alt": "tokyo-akazukin"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

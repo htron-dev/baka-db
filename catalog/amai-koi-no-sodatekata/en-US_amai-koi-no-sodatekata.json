@@ -1,5 +1,9 @@
 {
     "title": "Amai Koi no Sodatekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72729.jpg",
+        "alt": "amai-koi-no-sodatekata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

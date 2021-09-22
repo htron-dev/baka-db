@@ -1,5 +1,9 @@
 {
     "title": "Asa made, Motto.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4042.jpg",
+        "alt": "asa-made-motto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

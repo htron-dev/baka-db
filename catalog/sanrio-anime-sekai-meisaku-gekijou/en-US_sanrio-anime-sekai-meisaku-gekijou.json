@@ -1,5 +1,9 @@
 {
     "title": "Sanrio Anime Sekai Meisaku Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1518/95864.jpg",
+        "alt": "sanrio-anime-sekai-meisaku-gekijou"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "サンリオ・アニメ世界名作劇場",

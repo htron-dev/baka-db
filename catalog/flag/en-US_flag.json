@@ -1,5 +1,9 @@
 {
     "title": "Flag",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1274/90483.jpg",
+        "alt": "flag"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "FLAG（フラッグ）",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Flag_(anime"
+            "link": "http://en.wikipedia.org/wiki/Flag_%28anime%29"
         }
     ]
 }

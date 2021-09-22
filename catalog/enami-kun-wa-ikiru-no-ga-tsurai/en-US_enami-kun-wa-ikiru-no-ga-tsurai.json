@@ -1,5 +1,9 @@
 {
     "title": "Enami-kun wa Ikiru no ga Tsurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220658.jpg",
+        "alt": "enami-kun-wa-ikiru-no-ga-tsurai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

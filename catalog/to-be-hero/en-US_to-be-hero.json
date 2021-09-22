@@ -1,5 +1,9 @@
 {
     "title": "To Be Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/82347.jpg",
+        "alt": "to-be-hero"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "TO BE HERO",

@@ -1,5 +1,9 @@
 {
     "title": "Naruto: The Cross Roads",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/27050.jpg",
+        "alt": "naruto-the-cross-roads"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ナルト サ・クロスローズ",

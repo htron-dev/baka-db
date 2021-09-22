@@ -1,5 +1,9 @@
 {
     "title": "Kiyou na Yubisaki, Bukiyou na Tsumasaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211705.jpg",
+        "alt": "kiyou-na-yubisaki-bukiyou-na-tsumasaki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

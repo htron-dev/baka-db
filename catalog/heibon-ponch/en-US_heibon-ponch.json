@@ -1,5 +1,9 @@
 {
     "title": "Heibon Ponch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23403.jpg",
+        "alt": "heibon-ponch"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "平凡ポンチ",

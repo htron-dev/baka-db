@@ -1,12 +1,16 @@
 {
     "title": "Yajikita Gakuen Douchuuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/35935.jpg",
+        "alt": "yajikita-gakuen-douchuuki"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "やじきた学園道中記",
     "start_date": "1989-09-15",
     "end_date": "1989-09-15",
     "opening_song": "\"Kaze ni Koishite (風に恋して)\" by Yuka",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ban Hana Ra (Inase na Shitamachi Musume) (番華羅(いなせな下町娘))\" by Yoshiko Yamagiwa (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

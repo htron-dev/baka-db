@@ -1,5 +1,9 @@
 {
     "title": "El Shaddai Gaiden: Exodus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193341.jpg",
+        "alt": "el-shaddai-gaiden-exodus"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

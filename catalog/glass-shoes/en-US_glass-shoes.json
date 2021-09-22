@@ -1,5 +1,9 @@
 {
     "title": "Glass Shoes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41334.jpg",
+        "alt": "glass-shoes"
+    },
     "type": "manhwa",
     "volumes": "3",
     "original_name": "유리구두",

@@ -1,5 +1,9 @@
 {
     "title": "Days Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199812.jpg",
+        "alt": "days-gaiden"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "61",

@@ -1,5 +1,9 @@
 {
     "title": "Shishunki Bitter Change",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157129.jpg",
+        "alt": "shishunki-bitter-change"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "67",

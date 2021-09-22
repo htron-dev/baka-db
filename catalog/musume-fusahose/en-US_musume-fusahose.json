@@ -1,5 +1,9 @@
 {
     "title": "Musume Fusahose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/14114.jpg",
+        "alt": "musume-fusahose"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

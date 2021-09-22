@@ -1,5 +1,9 @@
 {
     "title": "Enjokousai Bokumetsu Undou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177220.jpg",
+        "alt": "enjokousai-bokumetsu-undou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

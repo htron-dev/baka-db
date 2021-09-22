@@ -1,5 +1,9 @@
 {
     "title": "Desktop Army",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191365.jpg",
+        "alt": "desktop-army"
+    },
     "type": "light-novel",
     "original_name": "デスクトップアーミー",
     "start_date": "2016-11-18",

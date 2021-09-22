@@ -1,5 +1,9 @@
 {
     "title": "Ginga Tetsudou 999",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191348.jpg",
+        "alt": "ginga-tetsudou-999"
+    },
     "type": "manga",
     "volumes": "18",
     "original_name": "銀河鉄道 999",

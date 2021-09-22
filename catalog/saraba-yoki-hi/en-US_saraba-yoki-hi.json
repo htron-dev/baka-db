@@ -1,5 +1,9 @@
 {
     "title": "Saraba, Yoki Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175918.jpg",
+        "alt": "saraba-yoki-hi"
+    },
     "type": "manga",
     "original_name": "さらば、佳き日",
     "start_date": "2015-02-14",

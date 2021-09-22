@@ -1,5 +1,9 @@
 {
     "title": "Kali Etta Warrior",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25281.jpg",
+        "alt": "kali-etta-warrior"
+    },
     "type": "manhwa",
     "volumes": "4",
     "original_name": "여전사 칼리에타",

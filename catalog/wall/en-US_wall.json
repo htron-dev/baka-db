@@ -1,5 +1,9 @@
 {
     "title": "Wall",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75695.jpg",
+        "alt": "wall"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "WALL",

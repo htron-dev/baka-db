@@ -1,5 +1,9 @@
 {
     "title": "Kare wa Otoko to Shita Koto Nai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226058.jpg",
+        "alt": "kare-wa-otoko-to-shita-koto-nai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

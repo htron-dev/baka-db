@@ -1,5 +1,9 @@
 {
     "title": "Gun x Sword",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245517.jpg",
+        "alt": "gun-x-sword"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

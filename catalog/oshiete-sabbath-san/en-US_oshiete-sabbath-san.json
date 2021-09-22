@@ -1,5 +1,9 @@
 {
     "title": "Oshiete! Sabbath-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239843.jpg",
+        "alt": "oshiete-sabbath-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

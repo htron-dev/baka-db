@@ -1,5 +1,9 @@
 {
     "title": "Arienai Getsuyoubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67031.jpg",
+        "alt": "arienai-getsuyoubi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

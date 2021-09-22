@@ -1,5 +1,9 @@
 {
     "title": "Koi no Choujikuuhou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199116.jpg",
+        "alt": "koi-no-choujikuuhou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

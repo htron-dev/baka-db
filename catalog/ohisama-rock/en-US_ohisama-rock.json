@@ -1,5 +1,9 @@
 {
     "title": "Ohisama Rock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61101.jpg",
+        "alt": "ohisama-rock"
+    },
     "type": "manga",
     "original_name": "おひさまロック",
     "start_date": "2010-12-09",

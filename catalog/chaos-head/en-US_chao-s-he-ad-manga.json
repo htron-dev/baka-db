@@ -1,5 +1,9 @@
 {
     "title": "ChäoS;HEAd",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166811.jpg",
+        "alt": "chao-s-he-ad"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

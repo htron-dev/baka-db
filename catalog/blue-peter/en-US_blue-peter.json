@@ -1,5 +1,9 @@
 {
     "title": "Blue Peter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/214905.jpg",
+        "alt": "blue-peter"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "77",

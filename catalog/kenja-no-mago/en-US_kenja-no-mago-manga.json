@@ -1,5 +1,9 @@
 {
     "title": "Kenja no Mago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186273.jpg",
+        "alt": "kenja-no-mago"
+    },
     "type": "manga",
     "original_name": "賢者の孫",
     "start_date": "2016-03-01",

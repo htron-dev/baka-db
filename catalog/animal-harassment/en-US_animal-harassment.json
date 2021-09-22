@@ -1,5 +1,9 @@
 {
     "title": "Animal Harassment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211759.jpg",
+        "alt": "animal-harassment"
+    },
     "type": "manga",
     "original_name": "アニマルハラスメント",
     "start_date": "2017-09-06",

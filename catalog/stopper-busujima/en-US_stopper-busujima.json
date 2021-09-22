@@ -1,5 +1,9 @@
 {
     "title": "Stopper Busujima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18472.jpg",
+        "alt": "stopper-busujima"
+    },
     "type": "manga",
     "volumes": "12",
     "start_date": "1996-07-19",

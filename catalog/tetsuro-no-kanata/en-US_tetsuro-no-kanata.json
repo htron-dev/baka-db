@@ -1,5 +1,9 @@
 {
     "title": "Tetsuro no Kanata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/29238.jpg",
+        "alt": "tetsuro-no-kanata"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "鉄路の彼方",

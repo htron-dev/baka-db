@@ -1,5 +1,9 @@
 {
     "title": "Hitokui: Origin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167296.jpg",
+        "alt": "hitokui-origin"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "105",

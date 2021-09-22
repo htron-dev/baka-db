@@ -1,5 +1,9 @@
 {
     "title": "Aventure 21",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76115.jpg",
+        "alt": "aventure-21"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アバンチュール 21",

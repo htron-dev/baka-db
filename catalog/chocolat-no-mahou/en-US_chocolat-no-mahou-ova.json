@@ -1,11 +1,15 @@
 {
     "title": "Chocolat no Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/35601.jpg",
+        "alt": "chocolat-no-mahou"
+    },
     "type": "ova",
     "episodes": "13",
     "original_name": "ショコラの魔法",
     "start_date": "2011-03-03",
     "end_date": "2011-03-03",
-    "ending_song": "#1",
+    "ending_song": "#1: \"The Labyrinth ~Chocolat no Mahou~ (The Labyrinth ~ショコラの魔法)\" by Rina Isaku (伊作梨南) (eps 3-9)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "supernatural",

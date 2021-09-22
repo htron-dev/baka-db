@@ -1,5 +1,9 @@
 {
     "title": "Boku no Hero Academia Smash!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175313.jpg",
+        "alt": "boku-no-hero-academia-smash"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "104",

@@ -1,5 +1,9 @@
 {
     "title": "Kokoro Connect",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197785.jpg",
+        "alt": "kokoro-connect"
+    },
     "type": "light-novel",
     "volumes": "11",
     "chapters": "91",

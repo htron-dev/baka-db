@@ -1,5 +1,9 @@
 {
     "title": "Kamige tte Souiu Koto desu ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224258.jpg",
+        "alt": "kamige-tte-souiu-koto-desu-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Dragon Jam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175524.jpg",
+        "alt": "dragon-jam"
+    },
     "type": "manga",
     "original_name": "DRAGON JAM",
     "start_date": "2010-05-27",

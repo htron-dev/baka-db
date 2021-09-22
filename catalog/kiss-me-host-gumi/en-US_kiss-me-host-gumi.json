@@ -1,5 +1,9 @@
 {
     "title": "Kiss Me Host-Gumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25766.jpg",
+        "alt": "kiss-me-host-gumi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "Kiss me ホスト組",

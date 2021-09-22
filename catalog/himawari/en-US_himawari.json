@@ -1,5 +1,9 @@
 {
     "title": "Himawari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175060.jpg",
+        "alt": "himawari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

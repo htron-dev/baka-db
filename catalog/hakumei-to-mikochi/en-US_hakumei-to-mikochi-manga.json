@@ -1,5 +1,9 @@
 {
     "title": "Hakumei to Mikochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140571.jpg",
+        "alt": "hakumei-to-mikochi"
+    },
     "type": "manga",
     "original_name": "ハクメイとミコチ",
     "start_date": "2011-04-30",

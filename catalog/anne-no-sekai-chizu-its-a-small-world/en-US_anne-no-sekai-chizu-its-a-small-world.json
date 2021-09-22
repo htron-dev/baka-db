@@ -1,5 +1,9 @@
 {
     "title": "Anne no Sekai Chizu: It's a small world",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240662.jpg",
+        "alt": "anne-no-sekai-chizu-its-a-small-world"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

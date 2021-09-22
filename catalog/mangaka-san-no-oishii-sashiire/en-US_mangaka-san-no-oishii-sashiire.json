@@ -1,5 +1,9 @@
 {
     "title": "Mangaka-san no Oishii Sashiire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234307.jpg",
+        "alt": "mangaka-san-no-oishii-sashiire"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "42",

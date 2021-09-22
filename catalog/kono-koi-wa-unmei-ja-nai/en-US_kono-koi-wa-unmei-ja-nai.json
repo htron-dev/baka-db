@@ -1,5 +1,9 @@
 {
     "title": "Kono Koi wa Unmei ja Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246635.jpg",
+        "alt": "kono-koi-wa-unmei-ja-nai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

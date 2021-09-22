@@ -1,5 +1,9 @@
 {
     "title": "Ze: Kami no Hon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/137113.jpg",
+        "alt": "ze-kami-no-hon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

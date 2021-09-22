@@ -1,5 +1,9 @@
 {
     "title": "Boukyaku no Cradle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172878.jpg",
+        "alt": "boukyaku-no-cradle"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "22",

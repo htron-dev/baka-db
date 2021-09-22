@@ -1,5 +1,9 @@
 {
     "title": "Lodoss-tou Senki: Honoo no Majin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12026.jpg",
+        "alt": "lodoss-tou-senki-honoo-no-majin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Houkago Juliet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203962.jpg",
+        "alt": "houkago-juliet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

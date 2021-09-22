@@ -1,5 +1,9 @@
 {
     "title": "Ocha-ken: Hotto Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/82770.jpg",
+        "alt": "ocha-ken-hotto-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "お茶犬〜「ほっ」とものがたり〜",

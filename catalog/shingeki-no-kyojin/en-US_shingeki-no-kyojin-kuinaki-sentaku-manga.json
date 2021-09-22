@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Kyojin: Kuinaki Sentaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121101.jpg",
+        "alt": "shingeki-no-kyojin-kuinaki-sentaku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

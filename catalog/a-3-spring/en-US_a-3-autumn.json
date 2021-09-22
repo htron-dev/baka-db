@@ -1,5 +1,9 @@
 {
     "title": "A3! Autumn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235796.jpg",
+        "alt": "a-3-autumn"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

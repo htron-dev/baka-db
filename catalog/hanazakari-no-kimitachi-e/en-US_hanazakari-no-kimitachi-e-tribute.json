@@ -1,5 +1,9 @@
 {
     "title": "Hanazakari no Kimitachi e: Tribute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35844.jpg",
+        "alt": "hanazakari-no-kimitachi-e-tribute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

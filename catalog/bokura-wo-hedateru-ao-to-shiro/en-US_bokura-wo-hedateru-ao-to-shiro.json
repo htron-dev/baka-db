@@ -1,5 +1,9 @@
 {
     "title": "Bokura wo Hedateru Ao to Shiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224465.jpg",
+        "alt": "bokura-wo-hedateru-ao-to-shiro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

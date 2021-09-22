@@ -1,5 +1,9 @@
 {
     "title": "Issho ni Kakumei Shimasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134869.jpg",
+        "alt": "issho-ni-kakumei-shimasen-ka"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "一緒に革命しませんか？",

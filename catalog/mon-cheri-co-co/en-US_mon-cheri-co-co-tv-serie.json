@@ -1,5 +1,9 @@
 {
     "title": "Mon Cheri CoCo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1852/109506.jpg",
+        "alt": "mon-cheri-co-co"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "モンシェリ COCO",

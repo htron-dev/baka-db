@@ -1,5 +1,9 @@
 {
     "title": "Kondo koso Shiawase ni Narimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221740.jpg",
+        "alt": "kondo-koso-shiawase-ni-narimasu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

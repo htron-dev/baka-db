@@ -1,12 +1,16 @@
 {
     "title": "Isekai Quartet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1965/99667.jpg",
+        "alt": "isekai-quartet"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "異世界かるてっと",
     "start_date": "2019-04-10",
     "end_date": "2019-04-10",
     "opening_song": "\"Isekai Quartet (異世界かるてっと)\" by Ainz (Satoshi Hino), Kazuma (Jun Fukushima), Subaru (Yuusuke Kobayashi), Tanya (Aoi Yuuki)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Isekai Girls♡Talk (異世界ガールズ ♡ トーク)\" by Albedo (Yumi Hara), Aqua (Sora Amamiya), Emilia (Rie Takahashi), Tanya (Aoi Yuuki) (eps 1-4, 6-10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

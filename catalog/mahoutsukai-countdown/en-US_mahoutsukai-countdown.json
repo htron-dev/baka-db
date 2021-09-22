@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai Countdown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240348.jpg",
+        "alt": "mahoutsukai-countdown"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Isekai Teni, Jirai Tsuki.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231516.jpg",
+        "alt": "isekai-teni-jirai-tsuki"
+    },
     "type": "manga",
     "original_name": "異世界転移、地雷付き。",
     "start_date": "2019-10-25",

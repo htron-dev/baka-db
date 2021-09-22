@@ -1,5 +1,9 @@
 {
     "title": "Tenkyuu no Kamui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164474.jpg",
+        "alt": "tenkyuu-no-kamui"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "天穹のカムイ",

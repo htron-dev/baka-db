@@ -1,5 +1,9 @@
 {
     "title": "Seishun no Yamai wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16310.jpg",
+        "alt": "seishun-no-yamai-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

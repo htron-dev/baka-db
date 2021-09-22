@@ -1,12 +1,16 @@
 {
     "title": "IS: Infinite Stratos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/74045.jpg",
+        "alt": "is-infinite-stratos"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "IS 〈インフィニット・ストラトス〉",
     "start_date": "2011-01-07",
     "end_date": "2011-01-07",
     "opening_song": "\"STRAIGHT JET\" by Minami Kuribayashi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"SUPER∞STREAM\" by Yoko Hikasa (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

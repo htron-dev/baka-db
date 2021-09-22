@@ -1,5 +1,9 @@
 {
     "title": "Growlanser IV ～ Wayfarer of the time ～",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65339.jpg",
+        "alt": "growlanser-iv-～-wayfarer-of-the-time-～"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

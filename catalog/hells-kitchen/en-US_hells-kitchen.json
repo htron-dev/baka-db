@@ -1,5 +1,9 @@
 {
     "title": "Hell's Kitchen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67459.jpg",
+        "alt": "hells-kitchen"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "53",

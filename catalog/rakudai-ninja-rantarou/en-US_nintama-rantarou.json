@@ -1,10 +1,14 @@
 {
     "title": "Nintama Rantarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/74028.jpg",
+        "alt": "nintama-rantarou"
+    },
     "type": "tv-serie",
     "original_name": "忍たま乱太郎",
     "start_date": "1993-04-10",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Yuuki 100%\" by Hikaru GENJI (eps 1-47)",
+    "ending_song": "#01: \"Dancing Junk (ダンシング・ジャンク)\" by SUPER MONKEYS4 (eps 1-47)",
     "rating": "G - All Ages",
     "tags": [
         "comedy"

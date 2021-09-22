@@ -1,5 +1,9 @@
 {
     "title": "Fantasista Stella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1886/96085.jpg",
+        "alt": "fantasista-stella"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ファンタジスタ ステラ",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/ファンタジスタ_(漫画"
+            "link": "http://ja.wikipedia.org/wiki/ファンタジスタ_%28漫画%29"
         }
     ]
 }

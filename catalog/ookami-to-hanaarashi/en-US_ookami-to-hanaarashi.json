@@ -1,5 +1,9 @@
 {
     "title": "Ookami to Hanaarashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187824.jpg",
+        "alt": "ookami-to-hanaarashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

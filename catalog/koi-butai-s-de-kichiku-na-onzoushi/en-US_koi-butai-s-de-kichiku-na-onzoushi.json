@@ -1,5 +1,9 @@
 {
     "title": "Koi Butai: S de Kichiku na Onzoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193050.jpg",
+        "alt": "koi-butai-s-de-kichiku-na-onzoushi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

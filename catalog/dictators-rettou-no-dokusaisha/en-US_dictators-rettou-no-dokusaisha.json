@@ -1,5 +1,9 @@
 {
     "title": "Dictators: Rettou no Dokusaisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200349.jpg",
+        "alt": "dictators-rettou-no-dokusaisha"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Niji no Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2781.jpg",
+        "alt": "niji-no-densetsu"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "虹の伝説",

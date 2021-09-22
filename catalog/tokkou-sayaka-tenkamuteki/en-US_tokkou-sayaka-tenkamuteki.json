@@ -1,5 +1,9 @@
 {
     "title": "Tokkou Sayaka Tenkamuteki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38465.jpg",
+        "alt": "tokkou-sayaka-tenkamuteki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

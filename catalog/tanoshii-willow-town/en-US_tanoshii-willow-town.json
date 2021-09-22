@@ -1,11 +1,15 @@
 {
     "title": "Tanoshii Willow Town",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/15394.jpg",
+        "alt": "tanoshii-willow-town"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "楽しいウイロータウン",
     "start_date": "1993-10-07",
     "end_date": "1993-10-07",
-    "opening_song": "\"Yume ni Konnichiwa",
+    "opening_song": "\"Yume ni Konnichiwa: Willow Town Monogatari (夢にこんにちは-ウイロータウン物語-)\" by Masami Okui",
     "ending_song": "\"Liverpool e Oide (リバプールへおいで)\" by Masami Okui",
     "rating": "PG - Children",
     "tags": [

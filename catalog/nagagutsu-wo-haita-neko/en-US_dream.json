@@ -1,5 +1,9 @@
 {
     "title": "Dream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1227/105610.jpg",
+        "alt": "dream"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Dream",

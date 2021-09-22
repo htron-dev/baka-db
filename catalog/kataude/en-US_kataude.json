@@ -1,5 +1,9 @@
 {
     "title": "Kataude",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1522/113137.jpg",
+        "alt": "kataude"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "片腕",

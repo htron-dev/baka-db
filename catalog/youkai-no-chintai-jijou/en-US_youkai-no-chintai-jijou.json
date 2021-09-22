@@ -1,5 +1,9 @@
 {
     "title": "Youkai no Chintai Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182431.jpg",
+        "alt": "youkai-no-chintai-jijou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

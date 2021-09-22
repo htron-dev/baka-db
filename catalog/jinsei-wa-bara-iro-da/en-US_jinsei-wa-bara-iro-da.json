@@ -1,5 +1,9 @@
 {
     "title": "Jinsei wa Bara Iro Da",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23883.jpg",
+        "alt": "jinsei-wa-bara-iro-da"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

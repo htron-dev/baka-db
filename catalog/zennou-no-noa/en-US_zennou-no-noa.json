@@ -1,5 +1,9 @@
 {
     "title": "Zennou no Noa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169229.jpg",
+        "alt": "zennou-no-noa"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

@@ -1,12 +1,16 @@
 {
     "title": "Prince of Stride: Alternative",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/77842.jpg",
+        "alt": "prince-of-stride-alternative"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "プリンス・オブ・ストライド　オルタナティブ",
     "start_date": "2016-01-05",
     "end_date": "2016-01-05",
     "opening_song": "\"Strider's High (ストライド)\" by OxT (Masayoshi Oishi x Tom-H@ck)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Be My Steady\" by Galaxy Standard [Reiji Suwa (Mamoru Miyano), Shizuma Mayuzumi (Daisuke Hirakawa), Bantarou Chiyomatsu (Takuya Eguchi), Tasuku Senoo (Tatsuhisa Suzuki), Asuma Mayuzumi (Yuuki Ono), Kaede Okumura (Toshiyuki Toyonaga)] (eps 2-7, 9, 10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sports",

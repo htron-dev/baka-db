@@ -1,12 +1,16 @@
 {
     "title": "Wagamama☆Fairy Mirumo de Pon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75644.jpg",
+        "alt": "wagamama☆-fairy-mirumo-de-pon"
+    },
     "type": "tv-serie",
     "episodes": "172",
     "original_name": "わがまま ☆ フェアリー ミルモでポン!",
     "start_date": "2002-04-06",
     "end_date": "2002-04-06",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: Pretty Cake Magic (eps 1-28)",
+    "ending_song": "#01: Mirumo no waratsu (eps 1-28)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

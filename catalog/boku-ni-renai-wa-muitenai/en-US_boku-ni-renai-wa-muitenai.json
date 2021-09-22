@@ -1,5 +1,9 @@
 {
     "title": "Boku ni Renai wa Muitenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31860.jpg",
+        "alt": "boku-ni-renai-wa-muitenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

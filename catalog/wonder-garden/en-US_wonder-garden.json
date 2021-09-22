@@ -1,5 +1,9 @@
 {
     "title": "Wonder Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/55383.jpg",
+        "alt": "wonder-garden"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "WONDER GARDEN",

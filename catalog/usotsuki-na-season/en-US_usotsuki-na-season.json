@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki na Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9981.jpg",
+        "alt": "usotsuki-na-season"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "うそつきなシーズン",

@@ -1,5 +1,9 @@
 {
     "title": "Rangeman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17933.jpg",
+        "alt": "rangeman"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "レンジマン",

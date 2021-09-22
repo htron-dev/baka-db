@@ -1,5 +1,9 @@
 {
     "title": "Shinizokonai Agape",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206806.jpg",
+        "alt": "shinizokonai-agape"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Witch Class",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10167.jpg",
+        "alt": "witch-class"
+    },
     "type": "manhwa",
     "volumes": "4",
     "tags": [

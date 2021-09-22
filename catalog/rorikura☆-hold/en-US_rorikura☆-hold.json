@@ -1,5 +1,9 @@
 {
     "title": "Rorikura☆Hold!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173798.jpg",
+        "alt": "rorikura☆-hold"
+    },
     "type": "manga",
     "original_name": "ロリクラ ☆ ほーるど！",
     "start_date": "2014-09-05",

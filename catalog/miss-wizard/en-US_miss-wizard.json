@@ -1,5 +1,9 @@
 {
     "title": "Miss Wizard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36725.jpg",
+        "alt": "miss-wizard"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "Miss ウィザード",

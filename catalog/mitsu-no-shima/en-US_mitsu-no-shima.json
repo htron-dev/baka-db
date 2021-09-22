@@ -1,5 +1,9 @@
 {
     "title": "Mitsu no Shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169503.jpg",
+        "alt": "mitsu-no-shima"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

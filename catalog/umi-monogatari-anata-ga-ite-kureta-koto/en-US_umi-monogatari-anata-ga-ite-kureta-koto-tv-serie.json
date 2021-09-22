@@ -1,5 +1,9 @@
 {
     "title": "Umi Monogatari: Anata ga Ite Kureta Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/15586.jpg",
+        "alt": "umi-monogatari-anata-ga-ite-kureta-koto"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "うみものがたり　～あなたがいてくれたコト～",

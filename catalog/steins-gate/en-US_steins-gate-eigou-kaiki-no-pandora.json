@@ -1,5 +1,9 @@
 {
     "title": "Steins;Gate: Eigou Kaiki no Pandora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175916.jpg",
+        "alt": "steins-gate-eigou-kaiki-no-pandora"
+    },
     "type": "manga",
     "original_name": "STEINS;GATE 永劫回帰のパンドラ",
     "start_date": "2014-05-23",

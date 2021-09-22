@@ -1,5 +1,9 @@
 {
     "title": "TANK S.W.A.T. 01",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/34555.jpg",
+        "alt": "tank-s-w-a-t-01"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "警察戦車隊",

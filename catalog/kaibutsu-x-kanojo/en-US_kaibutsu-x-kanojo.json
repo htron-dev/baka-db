@@ -1,5 +1,9 @@
 {
     "title": "Kaibutsu x Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160680.jpg",
+        "alt": "kaibutsu-x-kanojo"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

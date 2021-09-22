@@ -1,5 +1,9 @@
 {
     "title": "Full House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/30130.jpg",
+        "alt": "full-house"
+    },
     "type": "manhwa",
     "volumes": "16",
     "chapters": "122",

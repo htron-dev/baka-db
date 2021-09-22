@@ -1,12 +1,16 @@
 {
     "title": "Juusen Battle Monsuno",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/40891.jpg",
+        "alt": "juusen-battle-monsuno"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "獣旋バトル モンスーノ",
     "start_date": "2012-10-03",
     "end_date": "2012-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"MONSUNO!\" by Rey (eps 1-26)",
+    "ending_song": "#1: \"Jounetsu ELEMENT (情熱 ELEMENT)\" by SV TRIBE (Aki Misato, Masaaki Endou, Hiroshi Kitadani) (eps 1-26)",
     "rating": "PG - Children",
     "tags": [
         "action",

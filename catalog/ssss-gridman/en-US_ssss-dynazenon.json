@@ -1,5 +1,9 @@
 {
     "title": "SSSS.Dynazenon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1880/113766.jpg",
+        "alt": "ssss-dynazenon"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "SSSS.DYNAZENON",

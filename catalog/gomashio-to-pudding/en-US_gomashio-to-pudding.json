@@ -1,5 +1,9 @@
 {
     "title": "Gomashio to Pudding",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238374.jpg",
+        "alt": "gomashio-to-pudding"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

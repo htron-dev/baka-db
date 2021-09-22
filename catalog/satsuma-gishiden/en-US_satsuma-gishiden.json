@@ -1,5 +1,9 @@
 {
     "title": "Satsuma Gishiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3462.jpg",
+        "alt": "satsuma-gishiden"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "35",

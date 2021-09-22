@@ -1,5 +1,9 @@
 {
     "title": "Yukemuri Kyuuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168691.jpg",
+        "alt": "yukemuri-kyuuji"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "32",

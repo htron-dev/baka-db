@@ -1,5 +1,9 @@
 {
     "title": "Neko wa Ikite Iru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75022.jpg",
+        "alt": "neko-wa-ikite-iru"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "猫は生きている",

@@ -1,5 +1,9 @@
 {
     "title": "Tsubasa Pizzicato!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174628.jpg",
+        "alt": "tsubasa-pizzicato"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Sumire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243265.jpg",
+        "alt": "kimi-no-sumire"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

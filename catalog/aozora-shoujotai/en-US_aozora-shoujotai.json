@@ -1,5 +1,9 @@
 {
     "title": "Aozora Shoujotai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39424.jpg",
+        "alt": "aozora-shoujotai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

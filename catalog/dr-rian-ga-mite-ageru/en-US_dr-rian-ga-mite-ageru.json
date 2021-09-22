@@ -1,5 +1,9 @@
 {
     "title": "Dr. Rian ga Mite Ageru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24819.jpg",
+        "alt": "dr-rian-ga-mite-ageru"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "48",

@@ -1,5 +1,9 @@
 {
     "title": "Q-Borg",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1722/109331.jpg",
+        "alt": "q-borg"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "奇博少年",

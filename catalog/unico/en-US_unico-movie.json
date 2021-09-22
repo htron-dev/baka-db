@@ -1,5 +1,9 @@
 {
     "title": "Unico",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1601/112164.jpg",
+        "alt": "unico"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ユニコ",

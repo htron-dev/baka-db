@@ -1,5 +1,9 @@
 {
     "title": "Dungeon Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/88396.jpg",
+        "alt": "dungeon-meshi"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "ダンジョン飯",

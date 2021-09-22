@@ -1,5 +1,9 @@
 {
     "title": "Sensei ga Okiniiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17234.jpg",
+        "alt": "sensei-ga-okiniiri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

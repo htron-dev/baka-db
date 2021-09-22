@@ -1,5 +1,9 @@
 {
     "title": "Jibaku Shounen Hanako-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1050/111687.jpg",
+        "alt": "jibaku-shounen-hanako-kun"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "地縛少年花子くん",

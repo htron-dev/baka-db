@@ -1,5 +1,9 @@
 {
     "title": "Battle Spirits: Shounen Gekiha Dan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151553.jpg",
+        "alt": "battle-spirits-shounen-gekiha-dan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

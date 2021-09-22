@@ -1,5 +1,9 @@
 {
     "title": "Hibari no Yadogae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/12513.jpg",
+        "alt": "hibari-no-yadogae"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "雲雀の宿替",

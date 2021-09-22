@@ -1,5 +1,9 @@
 {
     "title": "Desert Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62349.jpg",
+        "alt": "desert-moon"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "デザートムーン",

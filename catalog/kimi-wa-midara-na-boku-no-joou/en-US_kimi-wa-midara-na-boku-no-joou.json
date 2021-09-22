@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Midara na Boku no Joou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187708.jpg",
+        "alt": "kimi-wa-midara-na-boku-no-joou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

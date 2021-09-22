@@ -1,5 +1,9 @@
 {
     "title": "Tokyu Plaza Ginza Open",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/81555.jpg",
+        "alt": "tokyu-plaza-ginza-open"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Tokyu Plaza Ginza Open",

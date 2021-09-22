@@ -1,5 +1,9 @@
 {
     "title": "Koi no Hajime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139215.jpg",
+        "alt": "koi-no-hajime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Aigan Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157374.jpg",
+        "alt": "aigan-cinderella"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Ore wa/Watashi wa Otaku Tomodachi ga Hoshii!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191364.jpg",
+        "alt": "ore-wa-watashi-wa-otaku-tomodachi-ga-hoshii"
+    },
     "type": "light-novel",
     "original_name": "俺は/私は オタク友達がほしいっ！",
     "start_date": "2017-02-17",

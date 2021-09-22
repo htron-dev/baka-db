@@ -1,5 +1,9 @@
 {
     "title": "MÄR Omega",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33509.jpg",
+        "alt": "mar-omega"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

@@ -1,5 +1,9 @@
 {
     "title": "Hinageshi Shoujo Kagekidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/71269.jpg",
+        "alt": "hinageshi-shoujo-kagekidan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

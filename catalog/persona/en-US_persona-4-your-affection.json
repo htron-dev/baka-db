@@ -1,5 +1,9 @@
 {
     "title": "Persona 4: Your Affection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127035.jpg",
+        "alt": "persona-4-your-affection"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ペルソナ 4 Your Affection",

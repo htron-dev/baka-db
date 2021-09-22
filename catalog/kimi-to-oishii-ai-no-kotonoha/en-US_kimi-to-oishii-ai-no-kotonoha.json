@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Oishii Ai no Kotonoha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236051.jpg",
+        "alt": "kimi-to-oishii-ai-no-kotonoha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Snow in the Dark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/82372.jpg",
+        "alt": "snow-in-the-dark"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

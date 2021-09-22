@@ -1,11 +1,15 @@
 {
     "title": "Brave 10",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/34043.jpg",
+        "alt": "brave-10"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ブレイブ・テン",
     "start_date": "2012-01-08",
     "end_date": "2012-01-08",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Seirei Hirai (精霊飛来)\" by Daisuke Ono and Tetsuya Kakihara (eps 1-2, 4-6, 8-11)",
     "ending_song": "\"Adeosu (艶男。-adeosu-)\" by ADAPTER。",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

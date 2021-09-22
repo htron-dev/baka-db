@@ -1,5 +1,9 @@
 {
     "title": "Amanchu! Advance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1095/95063.jpg",
+        "alt": "amanchu-advance"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "あまんちゅ！～あどばんす～",

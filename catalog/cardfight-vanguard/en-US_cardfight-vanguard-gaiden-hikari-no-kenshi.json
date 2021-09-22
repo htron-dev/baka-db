@@ -1,5 +1,9 @@
 {
     "title": "Cardfight!! Vanguard Gaiden: Hikari no Kenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151358.jpg",
+        "alt": "cardfight-vanguard-gaiden-hikari-no-kenshi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "カードファイト!! ヴァンガード外伝 光の剣士",

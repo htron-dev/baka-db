@@ -1,5 +1,9 @@
 {
     "title": "Princess Ai Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116443.jpg",
+        "alt": "princess-ai-monogatari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

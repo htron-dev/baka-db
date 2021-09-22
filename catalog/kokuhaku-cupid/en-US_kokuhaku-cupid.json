@@ -1,5 +1,9 @@
 {
     "title": "Kokuhaku Cupid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179104.jpg",
+        "alt": "kokuhaku-cupid"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

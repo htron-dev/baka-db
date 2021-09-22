@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Iru Bashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20817.jpg",
+        "alt": "tenshi-no-iru-bashou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "B-Trash!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210329.jpg",
+        "alt": "b-trash"
+    },
     "type": "manga",
     "original_name": "B-TRASH!!",
     "start_date": "2017-11-21",

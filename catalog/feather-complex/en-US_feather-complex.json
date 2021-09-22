@@ -1,5 +1,9 @@
 {
     "title": "Feather Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32142.jpg",
+        "alt": "feather-complex"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "フェザーコンプレックス",

@@ -1,5 +1,9 @@
 {
     "title": "Daifugou no Kekkon no Jouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231806.jpg",
+        "alt": "daifugou-no-kekkon-no-jouken"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "大富豪の結婚の条件",

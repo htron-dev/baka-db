@@ -1,5 +1,9 @@
 {
     "title": "Hagure Idol: Jigoku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146619.jpg",
+        "alt": "hagure-idol-jigoku-hen"
+    },
     "type": "manga",
     "original_name": "はぐれアイドル 地獄変",
     "start_date": "2014-04-25",

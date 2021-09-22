@@ -1,5 +1,9 @@
 {
     "title": "Money no Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12822.jpg",
+        "alt": "money-no-ken"
+    },
     "type": "manga",
     "original_name": "マネーの拳",
     "tags": [

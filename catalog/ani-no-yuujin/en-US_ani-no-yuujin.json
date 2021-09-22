@@ -1,5 +1,9 @@
 {
     "title": "Ani no Yuujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245802.jpg",
+        "alt": "ani-no-yuujin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

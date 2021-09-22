@@ -1,5 +1,9 @@
 {
     "title": "Doraemon: Nobita to Mirai Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/44950.jpg",
+        "alt": "doraemon-nobita-to-mirai-note"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ドラえもん のび太と未来ノート",

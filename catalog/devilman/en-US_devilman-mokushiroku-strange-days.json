@@ -1,5 +1,9 @@
 {
     "title": "Devilman Mokushiroku: Strange Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32724.jpg",
+        "alt": "devilman-mokushiroku-strange-days"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

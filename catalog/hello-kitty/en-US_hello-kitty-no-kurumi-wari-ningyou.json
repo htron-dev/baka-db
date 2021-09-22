@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Kurumi Wari Ningyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/48017.jpg",
+        "alt": "hello-kitty-no-kurumi-wari-ningyou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのくるみ割り人形",

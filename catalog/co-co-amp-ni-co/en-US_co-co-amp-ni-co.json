@@ -1,5 +1,9 @@
 {
     "title": "CoCO &amp; NiCO",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/79044.jpg",
+        "alt": "co-co-amp-ni-co"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "CoCO & NiCO",

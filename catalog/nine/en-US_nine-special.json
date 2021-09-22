@@ -1,5 +1,9 @@
 {
     "title": "Nine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/24810.jpg",
+        "alt": "nine"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ナイン",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Nine_(manga"
+            "link": "http://en.wikipedia.org/wiki/Nine_%28manga%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Devilman Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25226.jpg",
+        "alt": "devilman-lady"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "65",

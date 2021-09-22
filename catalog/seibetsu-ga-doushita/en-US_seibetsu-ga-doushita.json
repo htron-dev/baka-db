@@ -1,5 +1,9 @@
 {
     "title": "Seibetsu ga Doushita!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207389.jpg",
+        "alt": "seibetsu-ga-doushita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Yakkai na Hatsukoi wa... Senpai to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226722.jpg",
+        "alt": "yakkai-na-hatsukoi-wa-senpai-to"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

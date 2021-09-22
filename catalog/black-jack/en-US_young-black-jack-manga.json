@@ -1,5 +1,9 @@
 {
     "title": "Young Black Jack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167528.jpg",
+        "alt": "young-black-jack"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "142",

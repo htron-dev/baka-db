@@ -1,5 +1,9 @@
 {
     "title": "Haru to Natsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139059.jpg",
+        "alt": "haru-to-natsu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

@@ -1,5 +1,9 @@
 {
     "title": "Konna Ore ni Dare ga Shita!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158256.jpg",
+        "alt": "konna-ore-ni-dare-ga-shita"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "こんな俺に誰がした!",

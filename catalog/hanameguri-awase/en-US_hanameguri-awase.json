@@ -1,5 +1,9 @@
 {
     "title": "Hanameguri Awase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83462.jpg",
+        "alt": "hanameguri-awase"
+    },
     "type": "manga",
     "original_name": "花めぐりあわせ",
     "start_date": "2012-09-03",

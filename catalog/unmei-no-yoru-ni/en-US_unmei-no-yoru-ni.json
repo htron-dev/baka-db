@@ -1,5 +1,9 @@
 {
     "title": "Unmei no Yoru ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/52199.jpg",
+        "alt": "unmei-no-yoru-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

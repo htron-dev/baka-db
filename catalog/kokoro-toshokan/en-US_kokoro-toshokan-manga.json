@@ -1,5 +1,9 @@
 {
     "title": "Kokoro Toshokan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38129.jpg",
+        "alt": "kokoro-toshokan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "51",

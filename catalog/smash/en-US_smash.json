@@ -1,5 +1,9 @@
 {
     "title": "Smash!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183365.jpg",
+        "alt": "smash"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "170",

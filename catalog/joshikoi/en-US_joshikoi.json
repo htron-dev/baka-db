@@ -1,5 +1,9 @@
 {
     "title": "Joshikoi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/94847.jpg",
+        "alt": "joshikoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

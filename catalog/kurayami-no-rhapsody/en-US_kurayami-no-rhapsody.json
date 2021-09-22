@@ -1,5 +1,9 @@
 {
     "title": "Kurayami no Rhapsody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247213.jpg",
+        "alt": "kurayami-no-rhapsody"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "暗闇のラプソディ",

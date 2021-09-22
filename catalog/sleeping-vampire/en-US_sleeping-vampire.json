@@ -1,5 +1,9 @@
 {
     "title": "Sleeping Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170070.jpg",
+        "alt": "sleeping-vampire"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

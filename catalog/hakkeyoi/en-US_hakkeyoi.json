@@ -1,5 +1,9 @@
 {
     "title": "Hakkeyoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20884.jpg",
+        "alt": "hakkeyoi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "はっけよい",

@@ -1,5 +1,9 @@
 {
     "title": "Anata to Scandal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5347.jpg",
+        "alt": "anata-to-scandal"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Maou desu ga Kishou shitara Shiro ga Kieteimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193582.jpg",
+        "alt": "maou-desu-ga-kishou-shitara-shiro-ga-kieteimashita"
+    },
     "type": "manga",
     "original_name": "魔王ですが起床したら城が消えていました。",
     "start_date": "2017-03-15",

@@ -1,5 +1,9 @@
 {
     "title": "Medalist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235204.jpg",
+        "alt": "medalist"
+    },
     "type": "manga",
     "original_name": "メダリスト",
     "start_date": "2020-05-25",

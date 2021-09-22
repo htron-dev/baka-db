@@ -1,5 +1,9 @@
 {
     "title": "Rengoku Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162228.jpg",
+        "alt": "rengoku-game"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "52",

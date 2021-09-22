@@ -1,5 +1,9 @@
 {
     "title": "Eiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2780.jpg",
+        "alt": "eiken"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "160",

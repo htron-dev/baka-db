@@ -1,5 +1,9 @@
 {
     "title": "Human Lost: Ningen Shikkaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1815/104501.jpg",
+        "alt": "human-lost-ningen-shikkaku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "HUMAN LOST 人間失格",

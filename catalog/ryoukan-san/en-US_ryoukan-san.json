@@ -1,5 +1,9 @@
 {
     "title": "Ryoukan-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/72271.jpg",
+        "alt": "ryoukan-san"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "良寛さん",

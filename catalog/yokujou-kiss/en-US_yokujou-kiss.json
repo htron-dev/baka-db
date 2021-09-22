@@ -1,5 +1,9 @@
 {
     "title": "Yokujou Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109543.jpg",
+        "alt": "yokujou-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

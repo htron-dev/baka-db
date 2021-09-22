@@ -1,5 +1,9 @@
 {
     "title": "Wo Zhen de Meiyong Mie?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1703/114630.jpg",
+        "alt": "wo-zhen-de-meiyong-mie"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "我真的没用咩？",

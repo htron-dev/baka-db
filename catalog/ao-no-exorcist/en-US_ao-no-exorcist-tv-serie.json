@@ -1,12 +1,16 @@
 {
     "title": "Ao no Exorcist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
+        "alt": "ao-no-exorcist"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "青の祓魔師(エクソシスト)",
     "start_date": "2011-04-17",
     "end_date": "2011-04-17",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"CORE PRIDE\" by UVERworld (eps 1-12)",
+    "ending_song": "#1: \"Take off\" by 2PM (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

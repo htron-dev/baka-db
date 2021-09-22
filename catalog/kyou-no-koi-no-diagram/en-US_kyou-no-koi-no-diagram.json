@@ -1,5 +1,9 @@
 {
     "title": "Kyou no Koi no Diagram",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180671.jpg",
+        "alt": "kyou-no-koi-no-diagram"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

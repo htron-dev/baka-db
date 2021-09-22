@@ -1,5 +1,9 @@
 {
     "title": "Shounen Ryourihou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21692.jpg",
+        "alt": "shounen-ryourihou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

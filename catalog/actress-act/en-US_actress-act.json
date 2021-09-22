@@ -1,5 +1,9 @@
 {
     "title": "Actress Act",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223720.jpg",
+        "alt": "actress-act"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

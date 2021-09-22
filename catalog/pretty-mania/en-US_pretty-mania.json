@@ -1,5 +1,9 @@
 {
     "title": "Pretty Mania",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32853.jpg",
+        "alt": "pretty-mania"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

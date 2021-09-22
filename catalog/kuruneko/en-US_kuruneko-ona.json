@@ -1,5 +1,9 @@
 {
     "title": "Kuruneko (ONA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/87135.jpg",
+        "alt": "kuruneko-ona"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "くるねこ",

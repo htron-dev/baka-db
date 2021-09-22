@@ -1,5 +1,9 @@
 {
     "title": "Atsui zo! Nekogaya!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181220.jpg",
+        "alt": "atsui-zo-nekogaya"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "熱いぞ! 猫ヶ谷!!",

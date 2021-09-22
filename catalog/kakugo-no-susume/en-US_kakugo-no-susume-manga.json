@@ -1,5 +1,9 @@
 {
     "title": "Kakugo no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196756.jpg",
+        "alt": "kakugo-no-susume"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "100",

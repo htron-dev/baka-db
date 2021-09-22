@@ -1,5 +1,9 @@
 {
     "title": "Higan Sugi Made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18157.jpg",
+        "alt": "higan-sugi-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

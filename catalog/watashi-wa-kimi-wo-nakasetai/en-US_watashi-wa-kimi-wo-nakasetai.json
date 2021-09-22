@@ -1,5 +1,9 @@
 {
     "title": "Watashi wa Kimi wo Nakasetai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202225.jpg",
+        "alt": "watashi-wa-kimi-wo-nakasetai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "43",

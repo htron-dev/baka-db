@@ -1,5 +1,9 @@
 {
     "title": "Omakase! Peace Denki-Ten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41942.jpg",
+        "alt": "omakase-peace-denki-ten"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "217",

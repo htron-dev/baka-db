@@ -1,5 +1,9 @@
 {
     "title": "Groizer X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/10054.jpg",
+        "alt": "groizer-x"
+    },
     "type": "tv-serie",
     "episodes": "36",
     "original_name": "グロイザーＸ",

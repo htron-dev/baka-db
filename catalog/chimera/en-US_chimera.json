@@ -1,5 +1,9 @@
 {
     "title": "Chimera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1641/90996.jpg",
+        "alt": "chimera"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キマイラ",

@@ -1,5 +1,9 @@
 {
     "title": "Maison de Beauties",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144465.jpg",
+        "alt": "maison-de-beauties"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

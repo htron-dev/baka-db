@@ -1,5 +1,9 @@
 {
     "title": "Shizuka-hime Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/90027.jpg",
+        "alt": "shizuka-hime-den"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "静香姫伝",

@@ -1,5 +1,9 @@
 {
     "title": "Shiawase-iro no Jitensha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194620.jpg",
+        "alt": "shiawase-iro-no-jitensha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

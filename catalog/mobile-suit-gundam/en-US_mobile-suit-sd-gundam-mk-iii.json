@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit SD Gundam Mk III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/51907.jpg",
+        "alt": "mobile-suit-sd-gundam-mk-iii"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "機動戦士 SD ガンダム Mk-III",

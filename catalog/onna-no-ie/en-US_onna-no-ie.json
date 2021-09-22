@@ -1,5 +1,9 @@
 {
     "title": "Onna no Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183036.jpg",
+        "alt": "onna-no-ie"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "47",

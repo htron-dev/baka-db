@@ -1,5 +1,9 @@
 {
     "title": "inGrid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85871.jpg",
+        "alt": "in-grid"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

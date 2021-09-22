@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187387.jpg",
+        "alt": "tomodachi-no-hanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

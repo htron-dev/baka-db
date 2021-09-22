@@ -1,5 +1,9 @@
 {
     "title": "Saikyou Seitokai Tsubakiyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20938.jpg",
+        "alt": "saikyou-seitokai-tsubakiyo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

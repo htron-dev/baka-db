@@ -1,5 +1,9 @@
 {
     "title": "Bimajo no Ayano-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215050.jpg",
+        "alt": "bimajo-no-ayano-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "63",

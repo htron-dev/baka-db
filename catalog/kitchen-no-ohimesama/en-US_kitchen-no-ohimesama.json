@@ -1,5 +1,9 @@
 {
     "title": "Kitchen no Ohimesama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/112513.jpg",
+        "alt": "kitchen-no-ohimesama"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "53",

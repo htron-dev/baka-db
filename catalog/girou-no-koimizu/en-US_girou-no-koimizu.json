@@ -1,5 +1,9 @@
 {
     "title": "Girou no Koimizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146125.jpg",
+        "alt": "girou-no-koimizu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

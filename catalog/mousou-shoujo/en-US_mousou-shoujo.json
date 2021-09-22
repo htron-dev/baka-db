@@ -1,5 +1,9 @@
 {
     "title": "Mousou Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215108.jpg",
+        "alt": "mousou-shoujo"
+    },
     "type": "manga",
     "original_name": "妄想ショウジョ",
     "start_date": "2015-07-29",

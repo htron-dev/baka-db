@@ -1,5 +1,9 @@
 {
     "title": "Kuroda-san to Katagiri-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152607.jpg",
+        "alt": "kuroda-san-to-katagiri-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

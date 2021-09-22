@@ -1,5 +1,9 @@
 {
     "title": "Takunomi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1869/95731.jpg",
+        "alt": "takunomi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "たくのみ。",

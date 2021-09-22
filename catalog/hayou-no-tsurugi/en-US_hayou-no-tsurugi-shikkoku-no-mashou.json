@@ -1,11 +1,15 @@
 {
     "title": "Hayou no Tsurugi: Shikkoku no Mashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/41089.jpg",
+        "alt": "hayou-no-tsurugi-shikkoku-no-mashou"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "破妖の剣 漆黒の魔性",
     "start_date": "1992-11-27",
     "end_date": "1992-11-27",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Don`t Cry My Love\" by Araki Makihiko",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "supernatural",

@@ -1,5 +1,9 @@
 {
     "title": "The Best of Pokémon 4-Koma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39363.jpg",
+        "alt": "the-best-of-pokemon-4-koma"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ポケモン 4 コマ大百科",
@@ -11,12 +15,6 @@
         "None"
     ],
     "links": [
-        {
-            "text": "My Anime list",
-            "link": "https://myanimelist.net/manga/24419/The_Best_of_Pokémon_4-Koma"
-        },
-        "by Takahiro Yamashita.",
-        "## Links",
         {
             "text": "My Anime list",
             "link": "https://myanimelist.net/manga/24232/The_Best_of_Pokémon_4Koma"

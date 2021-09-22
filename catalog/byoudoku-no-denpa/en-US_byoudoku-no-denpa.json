@@ -1,5 +1,9 @@
 {
     "title": "Byoudoku no Denpa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1929/92232.jpg",
+        "alt": "byoudoku-no-denpa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "病毒の伝播",

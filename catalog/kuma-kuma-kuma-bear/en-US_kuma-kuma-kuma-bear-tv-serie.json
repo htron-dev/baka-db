@@ -1,12 +1,16 @@
 {
     "title": "Kuma Kuma Kuma Bear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1413/110712.jpg",
+        "alt": "kuma-kuma-kuma-bear"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "くま クマ 熊 ベアー",
     "start_date": "2020-10-07",
     "end_date": "2020-10-07",
     "opening_song": "\"Itsuka no Kioku (イツカノキオク)\" by Azumi Waki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ano ne. (あのね。)\" by Yuna (Maki Kawase)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

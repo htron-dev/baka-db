@@ -1,5 +1,9 @@
 {
     "title": "Valkyria no Seimitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195898.jpg",
+        "alt": "valkyria-no-seimitsu"
+    },
     "type": "light-novel",
     "original_name": "戦女神〈ヴァルキュリア〉の聖蜜",
     "start_date": "2017-06-02",

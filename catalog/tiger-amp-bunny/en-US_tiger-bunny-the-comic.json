@@ -1,5 +1,9 @@
 {
     "title": "Tiger & Bunny The Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176447.jpg",
+        "alt": "tiger-bunny-the-comic"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "41",

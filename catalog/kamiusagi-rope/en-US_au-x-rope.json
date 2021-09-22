@@ -1,5 +1,9 @@
 {
     "title": "au x Rope",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/72183.jpg",
+        "alt": "au-x-rope"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "au× ロペ",

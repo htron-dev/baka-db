@@ -1,12 +1,16 @@
 {
     "title": "Onegai My Melody: Kuru Kuru Shuffle!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/68499.jpg",
+        "alt": "onegai-my-melody-kuru-kuru-shuffle"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "おねがいマイメロディ くるくるシャッフル！",
     "start_date": "2006-04-02",
     "end_date": "2006-04-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Koi♥Kuru (コイ ♥ クル)\" by Marina Kuroki (eps 1-52)",
+    "ending_song": "#1: \"Hare ☆ Sora (ハレ ☆ ソラ)\" by MY MELODIES (eps 1-27)",
     "rating": "PG - Children",
     "tags": [
         "fantasy",

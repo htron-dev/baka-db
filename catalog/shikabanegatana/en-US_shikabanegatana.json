@@ -1,5 +1,9 @@
 {
     "title": "Shikabanegatana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241687.jpg",
+        "alt": "shikabanegatana"
+    },
     "type": "manga",
     "original_name": "屍刀 -シカバネガタナ-",
     "start_date": "2020-06-26",

@@ -1,5 +1,9 @@
 {
     "title": "Shishoudomo ni Tsugu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175839.jpg",
+        "alt": "shishoudomo-ni-tsugu"
+    },
     "type": "light-novel",
     "original_name": "師匠どもに告ぐ",
     "start_date": "2016-05-01",

@@ -1,5 +1,9 @@
 {
     "title": "Yuri Danshi-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168930.jpg",
+        "alt": "yuri-danshi-kun"
+    },
     "type": "manga",
     "original_name": "百合男子くん",
     "start_date": "2014-11-29",

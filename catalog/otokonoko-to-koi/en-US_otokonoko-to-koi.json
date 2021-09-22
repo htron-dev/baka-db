@@ -1,5 +1,9 @@
 {
     "title": "Otokonoko to Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72307.jpg",
+        "alt": "otokonoko-to-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

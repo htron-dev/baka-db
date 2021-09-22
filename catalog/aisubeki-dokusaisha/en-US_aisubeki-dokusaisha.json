@@ -1,5 +1,9 @@
 {
     "title": "Aisubeki Dokusaisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2546.jpg",
+        "alt": "aisubeki-dokusaisha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

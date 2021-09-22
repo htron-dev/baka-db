@@ -1,5 +1,9 @@
 {
     "title": "Inmu Kyoushi, Shiiku Kaikin.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233272.jpg",
+        "alt": "inmu-kyoushi-shiiku-kaikin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

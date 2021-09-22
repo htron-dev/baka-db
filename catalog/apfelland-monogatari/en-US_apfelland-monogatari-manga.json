@@ -1,5 +1,9 @@
 {
     "title": "Apfelland Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15653.jpg",
+        "alt": "apfelland-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アップフェルラント物語",

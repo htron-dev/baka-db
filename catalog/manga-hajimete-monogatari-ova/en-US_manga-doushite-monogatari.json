@@ -1,5 +1,9 @@
 {
     "title": "Manga Doushite Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/28067.jpg",
+        "alt": "manga-doushite-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "100",
     "original_name": "まんがどうして物語",

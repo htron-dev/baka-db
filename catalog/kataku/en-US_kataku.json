@@ -1,5 +1,9 @@
 {
     "title": "Kataku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/81216.jpg",
+        "alt": "kataku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "火宅",

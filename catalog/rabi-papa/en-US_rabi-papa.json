@@ -1,5 +1,9 @@
 {
     "title": "Rabi Papa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127097.jpg",
+        "alt": "rabi-papa"
+    },
     "type": "manga",
     "original_name": "ラビパパ",
     "start_date": "2005-03-04",

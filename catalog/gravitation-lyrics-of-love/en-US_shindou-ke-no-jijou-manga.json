@@ -1,5 +1,9 @@
 {
     "title": "Shindou-ke no Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127487.jpg",
+        "alt": "shindou-ke-no-jijou"
+    },
     "type": "manga",
     "original_name": "新堂家の事情",
     "start_date": "2014-07-28",

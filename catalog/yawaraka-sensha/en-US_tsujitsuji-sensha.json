@@ -1,5 +1,9 @@
 {
     "title": "Tsujitsuji Sensha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1916/115585.jpg",
+        "alt": "tsujitsuji-sensha"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "つじつじ戦車",

@@ -1,5 +1,9 @@
 {
     "title": "Shirokuma Bellstars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35496.jpg",
+        "alt": "shirokuma-bellstars"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "しろくまベルスターズ ♪",

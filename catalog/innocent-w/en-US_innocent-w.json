@@ -1,5 +1,9 @@
 {
     "title": "Innocent W",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180642.jpg",
+        "alt": "innocent-w"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

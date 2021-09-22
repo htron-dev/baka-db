@@ -1,5 +1,9 @@
 {
     "title": "Sasen mo Warukunai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186475.jpg",
+        "alt": "sasen-mo-warukunai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "C³",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58007.jpg",
+        "alt": "c"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

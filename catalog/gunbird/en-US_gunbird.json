@@ -1,5 +1,9 @@
 {
     "title": "Gunbird",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150350.jpg",
+        "alt": "gunbird"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ガンバード",

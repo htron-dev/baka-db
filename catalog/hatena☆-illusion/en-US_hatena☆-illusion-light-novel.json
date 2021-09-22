@@ -1,5 +1,9 @@
 {
     "title": "Hatena☆Illusion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206224.jpg",
+        "alt": "hatena☆-illusion"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Kamen no Uchigawa ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222403.jpg",
+        "alt": "koi-wa-kamen-no-uchigawa-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

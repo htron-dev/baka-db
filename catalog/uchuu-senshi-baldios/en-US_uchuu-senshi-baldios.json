@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Senshi Baldios",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1732/102927.jpg",
+        "alt": "uchuu-senshi-baldios"
+    },
     "type": "tv-serie",
     "episodes": "34",
     "original_name": "宇宙戦士 バルディオス",

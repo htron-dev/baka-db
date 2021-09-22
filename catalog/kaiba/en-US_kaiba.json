@@ -1,5 +1,9 @@
 {
     "title": "Kaiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/13193.jpg",
+        "alt": "kaiba"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "カイバ",

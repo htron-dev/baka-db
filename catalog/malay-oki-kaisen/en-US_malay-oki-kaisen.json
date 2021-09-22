@@ -1,5 +1,9 @@
 {
     "title": "Malay Oki Kaisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/71560.jpg",
+        "alt": "malay-oki-kaisen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "マレー沖海戦",

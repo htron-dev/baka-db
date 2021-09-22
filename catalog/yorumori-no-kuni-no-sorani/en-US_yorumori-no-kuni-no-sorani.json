@@ -1,5 +1,9 @@
 {
     "title": "Yorumori no Kuni no Sorani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149973.jpg",
+        "alt": "yorumori-no-kuni-no-sorani"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

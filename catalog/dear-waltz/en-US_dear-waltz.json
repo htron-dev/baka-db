@@ -1,5 +1,9 @@
 {
     "title": "Dear Waltz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124227.jpg",
+        "alt": "dear-waltz"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "Dear Waltz 디어 왈츠",

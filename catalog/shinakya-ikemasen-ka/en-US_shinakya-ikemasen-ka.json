@@ -1,5 +1,9 @@
 {
     "title": "Shinakya Ikemasen ka.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243948.jpg",
+        "alt": "shinakya-ikemasen-ka"
+    },
     "type": "manga",
     "original_name": "しなきゃいけませんか。",
     "start_date": "2020-10-11",

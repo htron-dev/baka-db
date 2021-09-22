@@ -1,12 +1,16 @@
 {
     "title": "Puzzle & Dragons Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/80793.jpg",
+        "alt": "puzzle-dragons-cross"
+    },
     "type": "tv-serie",
     "episodes": "89",
     "original_name": "パズドラクロス",
     "start_date": "2016-07-04",
     "end_date": "2016-07-04",
-    "opening_song": "# 1",
-    "ending_song": "#1",
+    "opening_song": "# 1: \"WE ARE GO\" by UVERworld (eps 1-26)",
+    "ending_song": "#1: \"ColorFULLCombo!\" (カラー FULL コンボ！) by Shiori Tomita",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "game"

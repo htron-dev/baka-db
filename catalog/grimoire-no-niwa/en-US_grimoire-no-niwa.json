@@ -1,5 +1,9 @@
 {
     "title": "Grimoire no Niwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177835.jpg",
+        "alt": "grimoire-no-niwa"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Mononokemono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14300.jpg",
+        "alt": "mononokemono"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "もののけもの",

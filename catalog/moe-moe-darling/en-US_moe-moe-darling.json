@@ -1,5 +1,9 @@
 {
     "title": "Moe Moe Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186628.jpg",
+        "alt": "moe-moe-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

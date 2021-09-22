@@ -1,5 +1,9 @@
 {
     "title": "J-Dream: Hishouhen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183411.jpg",
+        "alt": "j-dream-hishouhen"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "78",

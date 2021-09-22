@@ -1,5 +1,9 @@
 {
     "title": "Koisuru YouTuber",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215555.jpg",
+        "alt": "koisuru-you-tuber"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

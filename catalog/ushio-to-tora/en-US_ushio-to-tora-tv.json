@@ -1,12 +1,16 @@
 {
     "title": "Ushio to Tora (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/74945.jpg",
+        "alt": "ushio-to-tora-tv"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "うしおととら",
     "start_date": "2015-07-03",
     "end_date": "2015-07-03",
     "opening_song": "\"Mazeru na Kiken (混ぜるな危険)\" by Kinniku Shoujo Tai",
-    "ending_song": "#1",
+    "ending_song": "#1: \"HERO\" by Sonar Pocket (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

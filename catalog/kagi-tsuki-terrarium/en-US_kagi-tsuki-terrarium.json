@@ -1,5 +1,9 @@
 {
     "title": "Kagi-tsuki Terrarium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221518.jpg",
+        "alt": "kagi-tsuki-terrarium"
+    },
     "type": "manga",
     "original_name": "鍵つきテラリウム",
     "start_date": "2017-10-25",

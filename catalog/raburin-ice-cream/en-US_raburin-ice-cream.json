@@ -1,5 +1,9 @@
 {
     "title": "Raburin Ice Cream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81764.jpg",
+        "alt": "raburin-ice-cream"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

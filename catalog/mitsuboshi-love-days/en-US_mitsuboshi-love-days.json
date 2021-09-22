@@ -1,5 +1,9 @@
 {
     "title": "Mitsuboshi Love Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147265.jpg",
+        "alt": "mitsuboshi-love-days"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

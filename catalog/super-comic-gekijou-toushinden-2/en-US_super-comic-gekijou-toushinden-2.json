@@ -1,5 +1,9 @@
 {
     "title": "Super Comic Gekijou: Toushinden 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151594.jpg",
+        "alt": "super-comic-gekijou-toushinden-2"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スーパーコミック劇場 闘神伝 2",

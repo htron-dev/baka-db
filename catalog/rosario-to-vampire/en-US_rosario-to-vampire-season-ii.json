@@ -1,5 +1,9 @@
 {
     "title": "Rosario to Vampire: Season II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/54789.jpg",
+        "alt": "rosario-to-vampire-season-ii"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "67",

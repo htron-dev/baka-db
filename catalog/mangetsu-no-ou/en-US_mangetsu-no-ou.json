@@ -1,5 +1,9 @@
 {
     "title": "Mangetsu no Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190622.jpg",
+        "alt": "mangetsu-no-ou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "満月の王",

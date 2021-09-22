@@ -1,5 +1,9 @@
 {
     "title": "Deongdeokkung",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/103557.jpg",
+        "alt": "deongdeokkung"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "3",

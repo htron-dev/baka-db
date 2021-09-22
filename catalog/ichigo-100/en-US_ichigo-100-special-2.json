@@ -1,5 +1,9 @@
 {
     "title": "Ichigo 100% Special 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/5229.jpg",
+        "alt": "ichigo-100-special-2"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "いちご 100%",

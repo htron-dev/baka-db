@@ -1,5 +1,9 @@
 {
     "title": "Arabian Night: Sindbad no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1176/100506.jpg",
+        "alt": "arabian-night-sindbad-no-bouken"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アラビアンナイト　シンドバッドの冒険",

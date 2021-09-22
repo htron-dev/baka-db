@@ -1,5 +1,9 @@
 {
     "title": "Rex: Kyouryuu Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185327.jpg",
+        "alt": "rex-kyouryuu-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "REX 恐竜物語",

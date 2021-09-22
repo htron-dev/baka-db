@@ -1,5 +1,9 @@
 {
     "title": "Miku to Neo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179813.jpg",
+        "alt": "miku-to-neo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

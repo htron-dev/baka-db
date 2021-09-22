@@ -1,5 +1,9 @@
 {
     "title": "Harapeko Vampino",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/106067.jpg",
+        "alt": "harapeko-vampino"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

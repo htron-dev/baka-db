@@ -1,5 +1,9 @@
 {
     "title": "Gakkou no Kaidan Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78468.jpg",
+        "alt": "gakkou-no-kaidan-recaps"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "学校の怪談　総集編",
@@ -23,7 +27,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Ghost_Stories_(anime"
+            "link": "http://en.wikipedia.org/wiki/Ghost_Stories_%28anime%29"
         }
     ]
 }

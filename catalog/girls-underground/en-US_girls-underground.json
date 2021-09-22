@@ -1,5 +1,9 @@
 {
     "title": "Girl's Underground",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159123.jpg",
+        "alt": "girls-underground"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

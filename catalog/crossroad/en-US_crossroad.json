@@ -1,5 +1,9 @@
 {
     "title": "Crossroad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170617.jpg",
+        "alt": "crossroad"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

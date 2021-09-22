@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Kare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25696.jpg",
+        "alt": "tonari-no-kare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

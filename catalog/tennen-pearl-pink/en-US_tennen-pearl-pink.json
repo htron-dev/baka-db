@@ -1,5 +1,9 @@
 {
     "title": "Tennen Pearl Pink",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/1538.jpg",
+        "alt": "tennen-pearl-pink"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

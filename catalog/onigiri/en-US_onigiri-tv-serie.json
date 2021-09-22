@@ -1,5 +1,9 @@
 {
     "title": "Onigiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/79260.jpg",
+        "alt": "onigiri"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "鬼斬",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Onigiri_(video_game"
+            "link": "http://en.wikipedia.org/wiki/Onigiri_%28video_game%29"
         }
     ]
 }

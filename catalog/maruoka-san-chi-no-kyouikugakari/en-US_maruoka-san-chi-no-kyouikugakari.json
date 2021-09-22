@@ -1,5 +1,9 @@
 {
     "title": "Maruoka-san Chi no Kyouikugakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171448.jpg",
+        "alt": "maruoka-san-chi-no-kyouikugakari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

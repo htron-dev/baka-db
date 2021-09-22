@@ -1,5 +1,9 @@
 {
     "title": "Love Live! Sunshine!! Guilty Kiss Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234738.jpg",
+        "alt": "love-live-sunshine-guilty-kiss-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

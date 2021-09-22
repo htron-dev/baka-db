@@ -1,5 +1,9 @@
 {
     "title": "Tsuyokute New Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186491.jpg",
+        "alt": "tsuyokute-new-saga"
+    },
     "type": "manga",
     "original_name": "強くてニューサーガ",
     "start_date": "2014-02-20",

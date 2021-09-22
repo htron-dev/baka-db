@@ -1,5 +1,9 @@
 {
     "title": "Warau Kanoko-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186276.jpg",
+        "alt": "warau-kanoko-sama"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

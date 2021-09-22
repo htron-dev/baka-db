@@ -1,5 +1,9 @@
 {
     "title": "Inu to no Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91145.jpg",
+        "alt": "inu-to-no-hibi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

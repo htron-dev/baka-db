@@ -1,5 +1,9 @@
 {
     "title": "Oboreru Triangle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182354.jpg",
+        "alt": "oboreru-triangle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

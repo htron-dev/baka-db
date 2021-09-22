@@ -1,5 +1,9 @@
 {
     "title": "SpellBound: The Magic of Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30939.jpg",
+        "alt": "spell-bound-the-magic-of-love"
+    },
     "type": "manga",
     "chapters": "3",
     "start_date": "2001-02-20",

@@ -1,5 +1,9 @@
 {
     "title": "Hotel la Vie en Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95889.jpg",
+        "alt": "hotel-la-vie-en-rose"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

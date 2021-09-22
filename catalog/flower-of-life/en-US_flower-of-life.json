@@ -1,5 +1,9 @@
 {
     "title": "Flower of Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/29557.jpg",
+        "alt": "flower-of-life"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

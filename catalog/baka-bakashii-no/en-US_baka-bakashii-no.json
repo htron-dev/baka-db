@@ -1,5 +1,9 @@
 {
     "title": "Baka Bakashii no!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239705.jpg",
+        "alt": "baka-bakashii-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Kuchi ga Saketemo Kimi ni wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243236.jpg",
+        "alt": "kuchi-ga-saketemo-kimi-ni-wa"
+    },
     "type": "manga",
     "original_name": "口が裂けても君には",
     "start_date": "2020-06-23",

@@ -1,5 +1,9 @@
 {
     "title": "Kuuki Ningyou to Imouto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199694.jpg",
+        "alt": "kuuki-ningyou-to-imouto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "44",

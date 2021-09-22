@@ -1,5 +1,9 @@
 {
     "title": "Dead Word Puzzle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176679.jpg",
+        "alt": "dead-word-puzzle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,12 +1,16 @@
 {
     "title": "Sidonia no Kishi: Daikyuu Wakusei Seneki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/72712.jpg",
+        "alt": "sidonia-no-kishi-daikyuu-wakusei-seneki"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "シドニアの騎士 第九惑星戦役",
     "start_date": "2015-04-11",
     "end_date": "2015-04-11",
     "opening_song": "\"Kishi Koushinkyoku (騎士行進曲)\" by angela",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ichizu no Hikari (一筋の光明)\" by Customi Z (advance screening)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

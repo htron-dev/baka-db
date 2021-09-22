@@ -1,5 +1,9 @@
 {
     "title": "Saemoe na Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84425.jpg",
+        "alt": "saemoe-na-nichijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

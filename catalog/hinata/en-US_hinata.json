@@ -1,5 +1,9 @@
 {
     "title": "Hinata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38051.jpg",
+        "alt": "hinata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

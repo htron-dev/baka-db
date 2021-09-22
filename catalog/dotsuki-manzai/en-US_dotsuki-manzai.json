@@ -1,5 +1,9 @@
 {
     "title": "Dotsuki Manzai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65035.jpg",
+        "alt": "dotsuki-manzai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

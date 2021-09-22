@@ -1,5 +1,9 @@
 {
     "title": "Seitokai Sousenkyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188257.jpg",
+        "alt": "seitokai-sousenkyo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

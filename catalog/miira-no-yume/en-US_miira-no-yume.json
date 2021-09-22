@@ -1,5 +1,9 @@
 {
     "title": "Miira no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75690.jpg",
+        "alt": "miira-no-yume"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ミイラの夢",

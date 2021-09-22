@@ -1,5 +1,9 @@
 {
     "title": "Gesshokuki Retsuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157724.jpg",
+        "alt": "gesshokuki-retsuden"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "72",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Inroaded: Closed Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153642.jpg",
+        "alt": "tokyo-inroaded-closed-eden"
+    },
     "type": "light-novel",
     "original_name": "東京侵域：クローズドエデン",
     "start_date": "2015-03-31",

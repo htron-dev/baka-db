@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Otsukiai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243772.jpg",
+        "alt": "hajimete-no-otsukiai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

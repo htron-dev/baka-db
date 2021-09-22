@@ -1,5 +1,9 @@
 {
     "title": "White Album 2 Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/71047.jpg",
+        "alt": "white-album-2-picture-drama"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ホワイトアルバム２　ピクチャードラマ「祭りの、ほんのちょっと前」",

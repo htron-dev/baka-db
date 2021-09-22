@@ -1,5 +1,9 @@
 {
     "title": "Kareshi Recipe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181961.jpg",
+        "alt": "kareshi-recipe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

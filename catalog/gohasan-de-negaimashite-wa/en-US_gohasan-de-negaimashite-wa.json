@@ -1,5 +1,9 @@
 {
     "title": "Gohasan de Negaimashite wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197997.jpg",
+        "alt": "gohasan-de-negaimashite-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

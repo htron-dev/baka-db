@@ -1,5 +1,9 @@
 {
     "title": "School x Fight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14032.jpg",
+        "alt": "school-x-fight"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "スクール × ファイト",

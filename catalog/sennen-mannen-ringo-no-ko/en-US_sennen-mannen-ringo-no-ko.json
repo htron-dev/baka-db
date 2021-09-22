@@ -1,5 +1,9 @@
 {
     "title": "Sennen Mannen Ringo no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175239.jpg",
+        "alt": "sennen-mannen-ringo-no-ko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

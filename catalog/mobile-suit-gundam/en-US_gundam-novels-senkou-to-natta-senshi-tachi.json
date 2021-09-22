@@ -1,5 +1,9 @@
 {
     "title": "Gundam Novels: Senkou to Natta Senshi-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164881.jpg",
+        "alt": "gundam-novels-senkou-to-natta-senshi-tachi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "ViVid Strike! Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/84018.jpg",
+        "alt": "vi-vid-strike-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ViVid Strike！新作 OVA",

@@ -1,5 +1,9 @@
 {
     "title": "Kamisama yori mo Yakuza-sama!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237468.jpg",
+        "alt": "kamisama-yori-mo-yakuza-sama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

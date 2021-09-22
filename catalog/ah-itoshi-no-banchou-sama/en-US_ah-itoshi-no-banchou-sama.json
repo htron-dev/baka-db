@@ -1,5 +1,9 @@
 {
     "title": "Ah! Itoshi no Banchou-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185976.jpg",
+        "alt": "ah-itoshi-no-banchou-sama"
+    },
     "type": "manga",
     "original_name": "あぁ愛しの番長さま",
     "start_date": "2005-10-08",

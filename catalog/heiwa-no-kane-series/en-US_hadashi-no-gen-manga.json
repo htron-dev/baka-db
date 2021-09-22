@@ -1,5 +1,9 @@
 {
     "title": "Hadashi no Gen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37574.jpg",
+        "alt": "hadashi-no-gen"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "54",

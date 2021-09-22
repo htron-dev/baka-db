@@ -1,5 +1,9 @@
 {
     "title": "Hachiue no Juunin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27782.jpg",
+        "alt": "hachiue-no-juunin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

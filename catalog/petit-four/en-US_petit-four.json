@@ -1,5 +1,9 @@
 {
     "title": "Petit Four",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16357.jpg",
+        "alt": "petit-four"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

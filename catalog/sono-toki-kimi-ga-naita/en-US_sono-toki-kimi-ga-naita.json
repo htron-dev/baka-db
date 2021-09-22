@@ -1,5 +1,9 @@
 {
     "title": "Sono Toki, Kimi ga Naita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179270.jpg",
+        "alt": "sono-toki-kimi-ga-naita"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

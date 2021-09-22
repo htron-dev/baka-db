@@ -1,5 +1,9 @@
 {
     "title": "Shuffle Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191021.jpg",
+        "alt": "shuffle-gakuen"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

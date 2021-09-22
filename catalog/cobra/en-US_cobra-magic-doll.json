@@ -1,5 +1,9 @@
 {
     "title": "Cobra: Magic Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164541.jpg",
+        "alt": "cobra-magic-doll"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "COBRA マジックドール",

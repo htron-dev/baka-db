@@ -1,5 +1,9 @@
 {
     "title": "Darling Kishidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176096.jpg",
+        "alt": "darling-kishidan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

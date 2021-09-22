@@ -1,5 +1,9 @@
 {
     "title": "Usagi Drop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/29665.jpg",
+        "alt": "usagi-drop"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "うさぎドロップ",

@@ -1,11 +1,15 @@
 {
     "title": "Honto ni Atta! Reibai Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/29163.jpg",
+        "alt": "honto-ni-atta-reibai-sensei"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "ほんとにあった! 霊媒先生",
     "start_date": "2011-04-13",
     "end_date": "2011-04-13",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Pair\\*\" by Meaw (メーウ) (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

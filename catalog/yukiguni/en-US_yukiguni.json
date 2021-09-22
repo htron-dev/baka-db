@@ -1,5 +1,9 @@
 {
     "title": "Yukiguni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239930.jpg",
+        "alt": "yukiguni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Mushi to Medama Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159947.jpg",
+        "alt": "mushi-to-medama-series"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "42",

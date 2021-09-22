@@ -1,5 +1,9 @@
 {
     "title": "Luv",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13506.jpg",
+        "alt": "luv"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ラヴ",

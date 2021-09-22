@@ -1,11 +1,15 @@
 {
     "title": "Natsuki Crisis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1008/94564.jpg",
+        "alt": "natsuki-crisis"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "なつきクライシス",
     "start_date": "1994-02-23",
     "end_date": "1994-02-23",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Standing on My Chance\" by Seraphim",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

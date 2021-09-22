@@ -1,5 +1,9 @@
 {
     "title": "Akutai wa Ude no Naka de Futatabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162563.jpg",
+        "alt": "akutai-wa-ude-no-naka-de-futatabi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Idol Shopping",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/18700.jpg",
+        "alt": "idol-shopping"
+    },
     "type": "manhwa",
     "volumes": "12",
     "original_name": "아이돌 쇼핑",

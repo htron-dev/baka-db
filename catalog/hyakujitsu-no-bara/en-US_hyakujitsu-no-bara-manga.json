@@ -1,5 +1,9 @@
 {
     "title": "Hyakujitsu no Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170888.jpg",
+        "alt": "hyakujitsu-no-bara"
+    },
     "type": "manga",
     "original_name": "百日の薔薇",
     "start_date": "2004-06-28",

@@ -1,5 +1,9 @@
 {
     "title": "Kijeu CSI",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1510/114461.jpg",
+        "alt": "kijeu-csi"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "키즈 CSI 과학수사대",

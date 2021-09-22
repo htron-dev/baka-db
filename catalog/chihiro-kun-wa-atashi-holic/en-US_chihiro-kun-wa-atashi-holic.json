@@ -1,5 +1,9 @@
 {
     "title": "Chihiro-kun wa, Atashi Holic.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234835.jpg",
+        "alt": "chihiro-kun-wa-atashi-holic"
+    },
     "type": "manga",
     "original_name": "千紘くんは、あたし中毒〈ホリック〉。",
     "start_date": "2019-06-03",

@@ -1,5 +1,9 @@
 {
     "title": "Blood+",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/54703.jpg",
+        "alt": "blood"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

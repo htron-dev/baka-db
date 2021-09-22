@@ -1,5 +1,9 @@
 {
     "title": "Majo to Neko no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170200.jpg",
+        "alt": "majo-to-neko-no-hanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

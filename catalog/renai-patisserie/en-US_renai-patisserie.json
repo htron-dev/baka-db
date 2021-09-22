@@ -1,5 +1,9 @@
 {
     "title": "Renai Patisserie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24599.jpg",
+        "alt": "renai-patisserie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

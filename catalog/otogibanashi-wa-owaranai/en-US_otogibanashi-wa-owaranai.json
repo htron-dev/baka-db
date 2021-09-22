@@ -1,5 +1,9 @@
 {
     "title": "Otogibanashi wa Owaranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205877.jpg",
+        "alt": "otogibanashi-wa-owaranai"
+    },
     "type": "manga",
     "original_name": "おとぎ話は終わらない",
     "start_date": "2017-05-30",

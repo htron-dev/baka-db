@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Unsei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/380.jpg",
+        "alt": "bokura-no-unsei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

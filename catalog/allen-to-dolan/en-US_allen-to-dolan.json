@@ -1,5 +1,9 @@
 {
     "title": "Allen to Dolan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197020.jpg",
+        "alt": "allen-to-dolan"
+    },
     "type": "manga",
     "original_name": "アレンとドラン",
     "start_date": "2016-03-25",

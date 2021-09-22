@@ -1,5 +1,9 @@
 {
     "title": "Kamasutra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131509.jpg",
+        "alt": "kamasutra"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

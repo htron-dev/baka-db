@@ -1,5 +1,9 @@
 {
     "title": "Shin Megami Tensei: If... Gakuen no Akuma Tsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/47961.jpg",
+        "alt": "shin-megami-tensei-if-gakuen-no-akuma-tsukai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

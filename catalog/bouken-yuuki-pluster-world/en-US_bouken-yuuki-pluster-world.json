@@ -1,11 +1,15 @@
 {
     "title": "Bouken Yuuki Pluster World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/21145.jpg",
+        "alt": "bouken-yuuki-pluster-world"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "冒険遊記プラスターワールド",
     "start_date": "2003-04-03",
     "end_date": "2003-04-03",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Kaze no Kunshou (風の勲章)\" by Seiji Katsu",
     "ending_song": "\"One for da Soul\" by Lead",
     "rating": "G - All Ages",
     "tags": [

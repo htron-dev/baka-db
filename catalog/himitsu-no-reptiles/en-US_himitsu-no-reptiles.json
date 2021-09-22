@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Reptiles",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183545.jpg",
+        "alt": "himitsu-no-reptiles"
+    },
     "type": "manga",
     "original_name": "秘密のレプタイルズ",
     "start_date": "2016-05-06",

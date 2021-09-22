@@ -1,5 +1,9 @@
 {
     "title": "Mokushiroku no Yonkishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243307.jpg",
+        "alt": "mokushiroku-no-yonkishi"
+    },
     "type": "manga",
     "original_name": "黙示録の四騎士",
     "start_date": "2021-01-27",

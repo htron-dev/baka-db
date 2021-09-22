@@ -1,5 +1,9 @@
 {
     "title": "Daikanyama Noroiya St.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/71671.jpg",
+        "alt": "daikanyama-noroiya-st"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "代官山呪い屋 st.",

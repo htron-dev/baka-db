@@ -1,5 +1,9 @@
 {
     "title": "Kuchi no Naka no Shita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203985.jpg",
+        "alt": "kuchi-no-naka-no-shita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

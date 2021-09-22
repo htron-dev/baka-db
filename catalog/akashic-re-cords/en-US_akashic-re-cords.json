@@ -1,5 +1,9 @@
 {
     "title": "Akashic Re:cords",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/88533.jpg",
+        "alt": "akashic-re-cords"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "アカシックリコード",

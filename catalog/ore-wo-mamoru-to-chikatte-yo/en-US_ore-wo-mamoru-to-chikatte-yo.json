@@ -1,5 +1,9 @@
 {
     "title": "Ore wo Mamoru to Chikatte yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225817.jpg",
+        "alt": "ore-wo-mamoru-to-chikatte-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

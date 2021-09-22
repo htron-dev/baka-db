@@ -1,5 +1,9 @@
 {
     "title": "Oh! Super Milk-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1769.jpg",
+        "alt": "oh-super-milk-chan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "OH! スーパーミルクチャン",

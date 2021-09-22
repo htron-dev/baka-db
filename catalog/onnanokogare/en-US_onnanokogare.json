@@ -1,5 +1,9 @@
 {
     "title": "Onnanokogare!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246628.jpg",
+        "alt": "onnanokogare"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

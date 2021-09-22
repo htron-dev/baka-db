@@ -1,5 +1,9 @@
 {
     "title": "Intellectual Village no Zashiki Warashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175614.jpg",
+        "alt": "intellectual-village-no-zashiki-warashi"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "44",

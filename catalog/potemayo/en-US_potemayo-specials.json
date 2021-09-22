@@ -1,5 +1,9 @@
 {
     "title": "Potemayo Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/42859.jpg",
+        "alt": "potemayo-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "ぽてまよ",

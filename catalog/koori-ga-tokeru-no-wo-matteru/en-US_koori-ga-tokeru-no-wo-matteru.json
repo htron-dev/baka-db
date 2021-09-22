@@ -1,5 +1,9 @@
 {
     "title": "Koori ga Tokeru no wo Matteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179389.jpg",
+        "alt": "koori-ga-tokeru-no-wo-matteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

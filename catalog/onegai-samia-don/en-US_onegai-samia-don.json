@@ -1,5 +1,9 @@
 {
     "title": "Onegai! Samia Don",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71569.jpg",
+        "alt": "onegai-samia-don"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "おねがい！サミアどん",

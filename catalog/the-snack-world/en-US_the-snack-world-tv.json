@@ -1,11 +1,15 @@
 {
     "title": "The Snack World (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/83341.jpg",
+        "alt": "the-snack-world-tv"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "スナックワールド (TV)",
     "start_date": "2017-04-13",
     "end_date": "2017-04-13",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mugen the World (ムゲン・ザ・ワールド)\" by Suzie Rosso (スージー・ロッソ) (eps 1-18)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

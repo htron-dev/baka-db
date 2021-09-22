@@ -1,5 +1,9 @@
 {
     "title": "Kanojo ga Nakama ni Naritasou ni Kochira wo Miteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176753.jpg",
+        "alt": "kanojo-ga-nakama-ni-naritasou-ni-kochira-wo-miteiru"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

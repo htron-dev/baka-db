@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi ga Hontouni Shitakatta Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184314.jpg",
+        "alt": "bokutachi-ga-hontouni-shitakatta-koto"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ぼくたちが本当にシタかったこと",

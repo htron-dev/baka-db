@@ -1,5 +1,9 @@
 {
     "title": "Jinmen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194161.jpg",
+        "alt": "jinmen"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "146",

@@ -1,5 +1,9 @@
 {
     "title": "Ja-Dou: Tenmou Yatan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/8970.jpg",
+        "alt": "ja-dou-tenmou-yatan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

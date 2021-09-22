@@ -1,12 +1,16 @@
 {
     "title": "Needless",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/23457.jpg",
+        "alt": "needless"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ニードレス",
     "start_date": "2009-07-03",
     "end_date": "2009-07-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Modern Strange Cowboy\" by GRANRODEO (eps 1-13)",
+    "ending_song": "#1: \"Aggressive Zone\" by Needless★Girls+ (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

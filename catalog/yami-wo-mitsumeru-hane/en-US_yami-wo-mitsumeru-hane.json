@@ -1,5 +1,9 @@
 {
     "title": "Yami wo Mitsumeru Hane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/18949.jpg",
+        "alt": "yami-wo-mitsumeru-hane"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "闇を見つめる羽根",

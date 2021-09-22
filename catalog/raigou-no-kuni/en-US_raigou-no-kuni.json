@@ -1,5 +1,9 @@
 {
     "title": "Raigou no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246220.jpg",
+        "alt": "raigou-no-kuni"
+    },
     "type": "manga",
     "original_name": "来迎國",
     "start_date": "2020-12-31",

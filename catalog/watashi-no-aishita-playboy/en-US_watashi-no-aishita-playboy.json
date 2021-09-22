@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Aishita Playboy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227510.jpg",
+        "alt": "watashi-no-aishita-playboy"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "私の愛したプレイボーイ",

@@ -1,5 +1,9 @@
 {
     "title": "Comic Lily Plus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167537.jpg",
+        "alt": "comic-lily-plus"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

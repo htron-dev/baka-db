@@ -1,5 +1,9 @@
 {
     "title": "Kamen no Maid Guy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/155508.jpg",
+        "alt": "kamen-no-maid-guy"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "79",

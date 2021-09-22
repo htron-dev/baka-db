@@ -1,5 +1,9 @@
 {
     "title": "Shinobi no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202265.jpg",
+        "alt": "shinobi-no"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "57",

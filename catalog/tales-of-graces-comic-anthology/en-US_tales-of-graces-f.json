@@ -1,5 +1,9 @@
 {
     "title": "Tales of Graces f",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61253.jpg",
+        "alt": "tales-of-graces-f"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

@@ -1,12 +1,16 @@
 {
     "title": "Coppelion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75543.jpg",
+        "alt": "coppelion"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "コッペリオン",
     "start_date": "2013-10-02",
     "end_date": "2013-10-02",
     "opening_song": "\"ANGEL\" by angela",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tooku Made (遠くまで)\" by angela (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Kuuchuu Teien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20459.jpg",
+        "alt": "kuuchuu-teien"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

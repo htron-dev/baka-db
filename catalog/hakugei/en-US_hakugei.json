@@ -1,5 +1,9 @@
 {
     "title": "Hakugei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121195.jpg",
+        "alt": "hakugei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

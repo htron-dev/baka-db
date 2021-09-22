@@ -1,5 +1,9 @@
 {
     "title": "Tanjou!! KKT21",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1699/101121.jpg",
+        "alt": "tanjou-kkt-21"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "誕生!!KKT21",

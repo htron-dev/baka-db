@@ -1,5 +1,9 @@
 {
     "title": "Yakyuubu Aruaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/74951.jpg",
+        "alt": "yakyuubu-aruaru"
+    },
     "type": "tv-serie",
     "episodes": "3",
     "original_name": "野球部あるある",

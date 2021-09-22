@@ -1,5 +1,9 @@
 {
     "title": "Repisshu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44857.jpg",
+        "alt": "repisshu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "レピッシュ",

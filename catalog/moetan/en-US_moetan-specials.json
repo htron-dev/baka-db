@@ -1,5 +1,9 @@
 {
     "title": "Moetan Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/15066.jpg",
+        "alt": "moetan-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "もえたん",

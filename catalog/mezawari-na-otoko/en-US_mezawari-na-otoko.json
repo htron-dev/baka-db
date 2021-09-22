@@ -1,5 +1,9 @@
 {
     "title": "Mezawari na Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59917.jpg",
+        "alt": "mezawari-na-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "目障りな男",

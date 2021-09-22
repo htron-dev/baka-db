@@ -1,5 +1,9 @@
 {
     "title": "Yawara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/75885.jpg",
+        "alt": "yawara"
+    },
     "type": "manga",
     "volumes": "29",
     "chapters": "331",

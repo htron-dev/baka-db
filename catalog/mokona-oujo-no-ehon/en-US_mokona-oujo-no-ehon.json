@@ -1,5 +1,9 @@
 {
     "title": "Mokona Oujo no Ehon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40766.jpg",
+        "alt": "mokona-oujo-no-ehon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

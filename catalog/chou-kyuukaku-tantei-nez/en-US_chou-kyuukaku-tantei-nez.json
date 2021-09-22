@@ -1,5 +1,9 @@
 {
     "title": "Chou Kyuukaku Tantei Nez",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151080.jpg",
+        "alt": "chou-kyuukaku-tantei-nez"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

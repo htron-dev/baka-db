@@ -1,5 +1,9 @@
 {
     "title": "Taiyou no Ijiwaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/61005.jpg",
+        "alt": "taiyou-no-ijiwaru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

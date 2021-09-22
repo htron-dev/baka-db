@@ -1,5 +1,9 @@
 {
     "title": "Virgin na Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/53467.jpg",
+        "alt": "virgin-na-kankei"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "47",

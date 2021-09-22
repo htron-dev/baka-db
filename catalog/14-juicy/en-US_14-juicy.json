@@ -1,5 +1,9 @@
 {
     "title": "14 Juicy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19647.jpg",
+        "alt": "14-juicy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "33",

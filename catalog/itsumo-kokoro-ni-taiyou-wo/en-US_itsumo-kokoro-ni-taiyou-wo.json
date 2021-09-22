@@ -1,5 +1,9 @@
 {
     "title": "Itsumo Kokoro ni Taiyou wo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/67945.jpg",
+        "alt": "itsumo-kokoro-ni-taiyou-wo"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "いつも心に太陽を!",

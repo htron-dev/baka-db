@@ -1,5 +1,9 @@
 {
     "title": "Dokushi: Blunt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245247.jpg",
+        "alt": "dokushi-blunt"
+    },
     "type": "manga",
     "original_name": "ドクシ－BLUNT－",
     "start_date": "2020-07-31",

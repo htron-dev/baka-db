@@ -1,5 +1,9 @@
 {
     "title": "Digital Devil Story: Megami Tensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1015/90699.jpg",
+        "alt": "digital-devil-story-megami-tensei"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "デジタル・デビル物語〈ストーリ〉 女神転生",

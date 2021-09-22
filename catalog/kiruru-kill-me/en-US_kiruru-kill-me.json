@@ -1,5 +1,9 @@
 {
     "title": "Kiruru Kill Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242292.jpg",
+        "alt": "kiruru-kill-me"
+    },
     "type": "manga",
     "original_name": "きるる KILL ME",
     "start_date": "2020-02-23",

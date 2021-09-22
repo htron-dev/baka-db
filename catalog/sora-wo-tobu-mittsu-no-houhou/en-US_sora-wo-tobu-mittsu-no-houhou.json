@@ -1,5 +1,9 @@
 {
     "title": "Sora wo Tobu, Mittsu no Houhou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196955.jpg",
+        "alt": "sora-wo-tobu-mittsu-no-houhou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "空を飛ぶ、3 つの方法。",

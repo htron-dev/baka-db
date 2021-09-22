@@ -1,5 +1,9 @@
 {
     "title": "Tsuki to Yoru no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151954.jpg",
+        "alt": "tsuki-to-yoru-no-monogatari"
+    },
     "type": "light-novel",
     "original_name": "月と夜の物語",
     "start_date": "2014-07-15",

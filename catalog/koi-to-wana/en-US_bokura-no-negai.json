@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Negai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190413.jpg",
+        "alt": "bokura-no-negai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

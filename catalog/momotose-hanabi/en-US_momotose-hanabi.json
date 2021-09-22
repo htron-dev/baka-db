@@ -1,5 +1,9 @@
 {
     "title": "Momotose Hanabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162412.jpg",
+        "alt": "momotose-hanabi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

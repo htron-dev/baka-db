@@ -1,5 +1,9 @@
 {
     "title": "OZ",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/77858.jpg",
+        "alt": "oz"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "オズ",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/OZ_(%E6%A8%B9%E3%81%AA%E3%81%A4%E3%81%BF"
+            "link": "https://ja.wikipedia.org/wiki/OZ_%28%E6%A8%B9%E3%81%AA%E3%81%A4%E3%81%BF%29"
         }
     ]
 }

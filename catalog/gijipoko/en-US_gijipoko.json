@@ -1,5 +1,9 @@
 {
     "title": "Gijipoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36307.jpg",
+        "alt": "gijipoko"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ギジポコ",
@@ -11,7 +15,6 @@
         "Saitani",
         "Umetarou (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Gakkou e Oide yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201076.jpg",
+        "alt": "yoru-no-gakkou-e-oide-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

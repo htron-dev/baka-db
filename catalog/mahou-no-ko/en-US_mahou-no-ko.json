@@ -1,5 +1,9 @@
 {
     "title": "Mahou no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160778.jpg",
+        "alt": "mahou-no-ko"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kaprekar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17707.jpg",
+        "alt": "kaprekar"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "カプレカ",

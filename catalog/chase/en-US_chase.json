@@ -1,5 +1,9 @@
 {
     "title": "Chase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143351.jpg",
+        "alt": "chase"
+    },
     "type": "manga",
     "original_name": "CHASE",
     "start_date": "2014-10-17",

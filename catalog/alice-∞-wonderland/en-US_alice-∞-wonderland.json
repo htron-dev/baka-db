@@ -1,5 +1,9 @@
 {
     "title": "Alice ∞ Wonderland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28412.jpg",
+        "alt": "alice-∞-wonderland"
+    },
     "type": "manga",
     "original_name": "アリスインワンダーランド; アリス ∞ ワンダーランド",
     "tags": [

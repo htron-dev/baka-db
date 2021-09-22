@@ -1,5 +1,9 @@
 {
     "title": "Himari no Mawari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219210.jpg",
+        "alt": "himari-no-mawari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

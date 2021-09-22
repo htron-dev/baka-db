@@ -1,5 +1,9 @@
 {
     "title": "Himesaki Atena wa Jitsuzai Shinai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/218216.jpg",
+        "alt": "himesaki-atena-wa-jitsuzai-shinai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

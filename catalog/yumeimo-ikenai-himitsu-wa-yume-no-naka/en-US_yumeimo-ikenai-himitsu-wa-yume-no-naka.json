@@ -1,5 +1,9 @@
 {
     "title": "Yumeimo: Ikenai Himitsu wa Yume no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169757.jpg",
+        "alt": "yumeimo-ikenai-himitsu-wa-yume-no-naka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

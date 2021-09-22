@@ -1,5 +1,9 @@
 {
     "title": "Lady &amp; Oldman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180386.jpg",
+        "alt": "lady-amp-oldman"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "47",

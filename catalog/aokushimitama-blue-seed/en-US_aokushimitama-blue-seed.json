@@ -1,5 +1,9 @@
 {
     "title": "Aokushimitama Blue Seed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66137.jpg",
+        "alt": "aokushimitama-blue-seed"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

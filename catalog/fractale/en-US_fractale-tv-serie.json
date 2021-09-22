@@ -1,12 +1,16 @@
 {
     "title": "Fractale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/28197.jpg",
+        "alt": "fractale"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "フラクタル",
     "start_date": "2011-01-14",
     "end_date": "2011-01-14",
     "opening_song": "\"Harinezumi (ハリネズミ)\" by Azuma Hitomi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Down By The Salley Gardens\" by Azuma Hitomi (eps 1-4, 9-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

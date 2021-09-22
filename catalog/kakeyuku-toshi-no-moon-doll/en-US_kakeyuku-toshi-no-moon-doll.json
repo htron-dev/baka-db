@@ -1,5 +1,9 @@
 {
     "title": "Kakeyuku Toshi no Moon Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198703.jpg",
+        "alt": "kakeyuku-toshi-no-moon-doll"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

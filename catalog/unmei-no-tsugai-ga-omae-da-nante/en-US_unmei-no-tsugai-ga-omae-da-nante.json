@@ -1,5 +1,9 @@
 {
     "title": "Unmei no Tsugai ga Omae da Nante",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241426.jpg",
+        "alt": "unmei-no-tsugai-ga-omae-da-nante"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

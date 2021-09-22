@@ -1,5 +1,9 @@
 {
     "title": "Natsu-iro Asagao Residence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128783.jpg",
+        "alt": "natsu-iro-asagao-residence"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

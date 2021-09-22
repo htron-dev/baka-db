@@ -1,5 +1,9 @@
 {
     "title": "Kokekkou-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/83583.jpg",
+        "alt": "kokekkou-san"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "コケッコーさん",

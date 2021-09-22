@@ -1,5 +1,9 @@
 {
     "title": "Go! Samurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/76308.jpg",
+        "alt": "go-samurai"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "GO! SAMURAI",

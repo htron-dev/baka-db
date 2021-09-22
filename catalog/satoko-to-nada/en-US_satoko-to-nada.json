@@ -1,5 +1,9 @@
 {
     "title": "Satoko to Nada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200648.jpg",
+        "alt": "satoko-to-nada"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "サトコとナダ",

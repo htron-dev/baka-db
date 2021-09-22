@@ -1,5 +1,9 @@
 {
     "title": "Niji no Tani no Anne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183078.jpg",
+        "alt": "niji-no-tani-no-anne"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "虹の谷のアン",

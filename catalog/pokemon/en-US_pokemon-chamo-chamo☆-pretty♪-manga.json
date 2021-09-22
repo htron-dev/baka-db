@@ -1,5 +1,9 @@
 {
     "title": "Pokémon Chamo-Chamo☆Pretty♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36644.jpg",
+        "alt": "pokemon-chamo-chamo☆-pretty♪"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "42",

@@ -1,5 +1,9 @@
 {
     "title": "Junjou Seibutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215497.jpg",
+        "alt": "junjou-seibutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

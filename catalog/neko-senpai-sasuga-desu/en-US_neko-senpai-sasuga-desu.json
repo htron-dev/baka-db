@@ -1,5 +1,9 @@
 {
     "title": "Neko-senpai Sasuga desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208677.jpg",
+        "alt": "neko-senpai-sasuga-desu"
+    },
     "type": "manga",
     "chapters": "27",
     "original_name": "ネコ先輩さすがです！",

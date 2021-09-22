@@ -1,12 +1,16 @@
 {
     "title": "Love Get Chu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/52613.jpg",
+        "alt": "love-get-chu"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ラブゲッ CHU ～ミラクル声優白書～",
     "start_date": "2006-04-05",
     "end_date": "2006-04-05",
     "opening_song": "\"Nanairo Nadeshiko\" by Sister X Sisters",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Cry a little\" by May Nakabayashi (eps 1-23, 25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

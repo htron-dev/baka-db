@@ -1,5 +1,9 @@
 {
     "title": "Hishoka Drop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158746.jpg",
+        "alt": "hishoka-drop"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

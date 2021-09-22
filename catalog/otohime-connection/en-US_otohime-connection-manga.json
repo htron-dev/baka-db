@@ -1,5 +1,9 @@
 {
     "title": "Otohime Connection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28343.jpg",
+        "alt": "otohime-connection"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "乙姫ＣＯＮＮＥＣＴＩＯＮ",

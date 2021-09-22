@@ -1,5 +1,9 @@
 {
     "title": "Gene Bride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246276.jpg",
+        "alt": "gene-bride"
+    },
     "type": "manga",
     "original_name": "ジーンブライド",
     "start_date": "2021-06-08",

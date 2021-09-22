@@ -1,5 +1,9 @@
 {
     "title": "Megami to Deau Asa ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72509.jpg",
+        "alt": "megami-to-deau-asa-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

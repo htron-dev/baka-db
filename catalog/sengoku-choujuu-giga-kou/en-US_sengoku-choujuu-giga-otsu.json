@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Choujuu Giga: Otsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/83737.jpg",
+        "alt": "sengoku-choujuu-giga-otsu"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "戦国鳥獣戯画~乙~",

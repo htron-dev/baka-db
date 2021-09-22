@@ -1,5 +1,9 @@
 {
     "title": "Yogoto Nayamashii Niwa de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2871.jpg",
+        "alt": "yogoto-nayamashii-niwa-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

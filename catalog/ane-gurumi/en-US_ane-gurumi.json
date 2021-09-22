@@ -1,5 +1,9 @@
 {
     "title": "Ane Gurumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161544.jpg",
+        "alt": "ane-gurumi"
+    },
     "type": "manga",
     "chapters": "25",
     "original_name": "あねぐるみ",

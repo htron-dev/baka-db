@@ -1,5 +1,9 @@
 {
     "title": "Tableau numéro 20",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/45849.jpg",
+        "alt": "tableau-numero-20"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

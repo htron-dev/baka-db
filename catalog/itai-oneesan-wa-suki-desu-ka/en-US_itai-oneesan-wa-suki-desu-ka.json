@@ -1,5 +1,9 @@
 {
     "title": "Itai Oneesan wa Suki desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235189.jpg",
+        "alt": "itai-oneesan-wa-suki-desu-ka"
+    },
     "type": "manga",
     "original_name": "いたいお姉さんは好きですか？",
     "start_date": "2016-09-12",

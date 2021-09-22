@@ -1,5 +1,9 @@
 {
     "title": "Mel Kano.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/56267.jpg",
+        "alt": "mel-kano"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "35",

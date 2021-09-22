@@ -1,5 +1,9 @@
 {
     "title": "Ball yo Doko e Yuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/72094.jpg",
+        "alt": "ball-yo-doko-e-yuku"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ボールよどこへゆく",

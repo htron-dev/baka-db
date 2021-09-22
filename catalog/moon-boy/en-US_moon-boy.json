@@ -1,5 +1,9 @@
 {
     "title": "Moon Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/107503.jpg",
+        "alt": "moon-boy"
+    },
     "type": "manhwa",
     "volumes": "9",
     "chapters": "50",

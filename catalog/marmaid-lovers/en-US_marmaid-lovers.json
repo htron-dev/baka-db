@@ -1,5 +1,9 @@
 {
     "title": "Marmaid Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198952.jpg",
+        "alt": "marmaid-lovers"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

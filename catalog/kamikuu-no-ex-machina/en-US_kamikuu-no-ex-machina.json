@@ -1,5 +1,9 @@
 {
     "title": "Kamikuu no Ex Machina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162716.jpg",
+        "alt": "kamikuu-no-ex-machina"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

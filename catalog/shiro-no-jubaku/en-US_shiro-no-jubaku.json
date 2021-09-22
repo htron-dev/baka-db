@@ -1,5 +1,9 @@
 {
     "title": "Shiro no Jubaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184857.jpg",
+        "alt": "shiro-no-jubaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

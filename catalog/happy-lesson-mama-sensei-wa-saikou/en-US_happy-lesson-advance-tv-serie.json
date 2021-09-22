@@ -1,12 +1,16 @@
 {
     "title": "Happy☆Lesson: Advance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75575.jpg",
+        "alt": "happy☆-lesson-advance"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "HAPPY☆LESSON ADVANCE",
     "start_date": "2003-07-03",
     "end_date": "2003-07-03",
     "opening_song": "\"Radio Jack\" by Sleepin' JohnnyFish",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Party\" by Millio",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

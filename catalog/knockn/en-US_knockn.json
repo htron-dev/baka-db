@@ -1,5 +1,9 @@
 {
     "title": "Knock'n!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/47065.jpg",
+        "alt": "knockn"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

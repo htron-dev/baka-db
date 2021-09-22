@@ -1,5 +1,9 @@
 {
     "title": "Overman King Gainer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148283.jpg",
+        "alt": "overman-king-gainer"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "60",

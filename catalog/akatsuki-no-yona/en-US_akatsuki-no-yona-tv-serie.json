@@ -1,12 +1,16 @@
 {
     "title": "Akatsuki no Yona",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/64225.jpg",
+        "alt": "akatsuki-no-yona"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "暁のヨナ",
     "start_date": "2014-10-07",
     "end_date": "2014-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Akatsuki no Yona (暁のヨナ)\" by Kunihiko Ryo (eps 1-14)",
+    "ending_song": "#1: \"Yoru (夜)\" by vistlip (eps 1-14)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

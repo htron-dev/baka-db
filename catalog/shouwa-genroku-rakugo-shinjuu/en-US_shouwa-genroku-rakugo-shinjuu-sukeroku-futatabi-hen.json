@@ -1,12 +1,16 @@
 {
     "title": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/82947.jpg",
+        "alt": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "昭和元禄落語心中～助六再び篇～",
     "start_date": "2017-01-07",
     "end_date": "2017-01-07",
     "opening_song": "\"Imawa no Shinigami (今際の死神)\" by Megumi Hayashibara (eps 2, 4-10)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hikobayuru (ひこばゆる)\" by Kana Shibue (eps 4-10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

@@ -1,5 +1,9 @@
 {
     "title": "Full Metal Panic! Another",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/100751.jpg",
+        "alt": "full-metal-panic-another"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "34",

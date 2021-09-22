@@ -1,5 +1,9 @@
 {
     "title": "Sabishigariya no Loliferatu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159202.jpg",
+        "alt": "sabishigariya-no-loliferatu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

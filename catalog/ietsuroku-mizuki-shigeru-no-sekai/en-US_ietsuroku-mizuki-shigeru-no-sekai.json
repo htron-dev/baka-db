@@ -1,5 +1,9 @@
 {
     "title": "Ietsuroku - Mizuki Shigeru no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36238.jpg",
+        "alt": "ietsuroku-mizuki-shigeru-no-sekai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

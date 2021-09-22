@@ -1,5 +1,9 @@
 {
     "title": "Jigoku no Mizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35643.jpg",
+        "alt": "jigoku-no-mizu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

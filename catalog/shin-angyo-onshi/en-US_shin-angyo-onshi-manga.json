@@ -1,5 +1,9 @@
 {
     "title": "Shin Angyo Onshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161805.jpg",
+        "alt": "shin-angyo-onshi"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "76",

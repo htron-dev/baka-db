@@ -1,5 +1,9 @@
 {
     "title": "Neko ga Nishi Mukya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216477.jpg",
+        "alt": "neko-ga-nishi-mukya"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

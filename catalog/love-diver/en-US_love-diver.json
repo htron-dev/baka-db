@@ -1,5 +1,9 @@
 {
     "title": "Love Diver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59121.jpg",
+        "alt": "love-diver"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

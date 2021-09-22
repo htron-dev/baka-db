@@ -1,5 +1,9 @@
 {
     "title": "Shiawase Kissa 3-choume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/749.jpg",
+        "alt": "shiawase-kissa-3-choume"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "88",

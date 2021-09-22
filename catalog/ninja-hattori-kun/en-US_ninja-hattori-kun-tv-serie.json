@@ -1,5 +1,9 @@
 {
     "title": "Ninja Hattori-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/82502.jpg",
+        "alt": "ninja-hattori-kun"
+    },
     "type": "tv-serie",
     "episodes": "694",
     "original_name": "忍者ハットリくん",

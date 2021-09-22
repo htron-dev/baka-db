@@ -1,5 +1,9 @@
 {
     "title": "Safe Again Today",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6806.jpg",
+        "alt": "safe-again-today"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "14",

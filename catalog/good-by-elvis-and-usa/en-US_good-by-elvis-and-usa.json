@@ -1,5 +1,9 @@
 {
     "title": "Good-by Elvis and USA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/71243.jpg",
+        "alt": "good-by-elvis-and-usa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Good-by Elvis and USA",

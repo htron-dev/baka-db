@@ -1,5 +1,9 @@
 {
     "title": "Ayashi no Ceres",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160959.jpg",
+        "alt": "ayashi-no-ceres"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "83",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Iru Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115221.jpg",
+        "alt": "kimi-no-iru-machi"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "270",

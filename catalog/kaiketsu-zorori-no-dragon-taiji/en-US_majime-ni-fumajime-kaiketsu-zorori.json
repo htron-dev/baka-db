@@ -1,12 +1,16 @@
 {
     "title": "Majime ni Fumajime Kaiketsu Zorori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/31033.jpg",
+        "alt": "majime-ni-fumajime-kaiketsu-zorori"
+    },
     "type": "tv-serie",
     "episodes": "97",
     "original_name": "まじめにふまじめ　かいけつゾロリ",
     "start_date": "2005-02-13",
     "end_date": "2005-02-13",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"A Ja Paa (あじゃぱー)\" by Kouichi Yamadera, Rikako Aikawa, and Motoko Kumai (eps 1-50)",
+    "ending_song": "#01: \"Mama no Komori Uta (ママの子守唄)\" by Sakiko Tamagawa (eps 1-27)",
     "rating": "PG - Children",
     "tags": [
         "adventure"

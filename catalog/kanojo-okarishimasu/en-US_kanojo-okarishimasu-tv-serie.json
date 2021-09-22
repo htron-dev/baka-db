@@ -1,12 +1,16 @@
 {
     "title": "Kanojo, Okarishimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1485/107693.jpg",
+        "alt": "kanojo-okarishimasu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "彼女、お借りします",
     "start_date": "2020-07-11",
     "end_date": "2020-07-11",
     "opening_song": "\"Centimeter (センチメートル)\" by the peggies",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Centimeter (センチメートル)\" by the peggies (ep 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

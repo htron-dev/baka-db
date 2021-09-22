@@ -1,5 +1,9 @@
 {
     "title": "Bokura ga Koi wo Ushinau Riyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197692.jpg",
+        "alt": "bokura-ga-koi-wo-ushinau-riyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

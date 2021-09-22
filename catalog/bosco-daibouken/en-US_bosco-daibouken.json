@@ -1,5 +1,9 @@
 {
     "title": "Bosco Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/28561.jpg",
+        "alt": "bosco-daibouken"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ボスコアドベンチャー",

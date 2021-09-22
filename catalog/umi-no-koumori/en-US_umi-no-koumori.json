@@ -1,5 +1,9 @@
 {
     "title": "Umi no Koumori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/74521.jpg",
+        "alt": "umi-no-koumori"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "海のコウモリ",

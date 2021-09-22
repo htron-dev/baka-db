@@ -1,5 +1,9 @@
 {
     "title": "Zetsubou Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148609.jpg",
+        "alt": "zetsubou-baby"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

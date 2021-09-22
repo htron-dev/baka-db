@@ -1,5 +1,9 @@
 {
     "title": "Gokusai no Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209032.jpg",
+        "alt": "gokusai-no-ie"
+    },
     "type": "manga",
     "original_name": "極彩の家",
     "start_date": "2015-08-28",

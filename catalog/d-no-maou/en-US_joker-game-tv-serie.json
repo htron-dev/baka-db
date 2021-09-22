@@ -1,5 +1,9 @@
 {
     "title": "Joker Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/77523.jpg",
+        "alt": "joker-game"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ジョーカー・ゲーム",

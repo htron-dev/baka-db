@@ -1,12 +1,16 @@
 {
     "title": "Durarara!! Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/28684.jpg",
+        "alt": "durarara-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "デュラララ!!",
     "start_date": "2010-08-25",
     "end_date": "2010-08-25",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Uragiri no Yuuyake (裏切りの夕焼け; Sunset of Betrayal)\" by Theatre Brook (ep 12.5)",
+    "ending_song": "#1: \"Trust Me\" by Yuya Matsushita (ep 12.5)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

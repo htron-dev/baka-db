@@ -1,5 +1,9 @@
 {
     "title": "Material Ghost",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162463.jpg",
+        "alt": "material-ghost"
+    },
     "type": "light-novel",
     "volumes": "6",
     "original_name": "マテリアルゴースト",

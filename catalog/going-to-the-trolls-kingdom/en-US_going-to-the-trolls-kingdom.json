@@ -1,5 +1,9 @@
 {
     "title": "Going to the Troll's Kingdom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/101421.jpg",
+        "alt": "going-to-the-trolls-kingdom"
+    },
     "type": "manhwa",
     "volumes": "12",
     "original_name": "도깨비 왕국으로 간다",

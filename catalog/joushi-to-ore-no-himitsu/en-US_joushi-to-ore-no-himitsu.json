@@ -1,5 +1,9 @@
 {
     "title": "Joushi to Ore no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161096.jpg",
+        "alt": "joushi-to-ore-no-himitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

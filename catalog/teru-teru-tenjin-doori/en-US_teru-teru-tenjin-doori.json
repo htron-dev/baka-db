@@ -1,5 +1,9 @@
 {
     "title": "Teru Teru Tenjin Doori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11105.jpg",
+        "alt": "teru-teru-tenjin-doori"
+    },
     "type": "manga",
     "original_name": "てるてる天神通り",
     "start_date": "2007-03-20",

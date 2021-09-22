@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Kaikata Oshiemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11080.jpg",
+        "alt": "bokura-no-kaikata-oshiemasu"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "僕らの飼い方教えます",

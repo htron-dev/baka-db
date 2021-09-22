@@ -1,5 +1,9 @@
 {
     "title": "Kodomo no Asobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167211.jpg",
+        "alt": "kodomo-no-asobi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

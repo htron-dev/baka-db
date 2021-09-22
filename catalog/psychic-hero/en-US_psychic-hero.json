@@ -1,5 +1,9 @@
 {
     "title": "Psychic Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1806/115551.jpg",
+        "alt": "psychic-hero"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "싸이킥 히어로",

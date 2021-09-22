@@ -1,5 +1,9 @@
 {
     "title": "Ore no Kanojo wa Sekai Isan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160888.jpg",
+        "alt": "ore-no-kanojo-wa-sekai-isan"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

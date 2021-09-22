@@ -1,5 +1,9 @@
 {
     "title": "Rock Paper Scissors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170096.jpg",
+        "alt": "rock-paper-scissors"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

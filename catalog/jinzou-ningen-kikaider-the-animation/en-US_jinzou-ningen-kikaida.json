@@ -1,5 +1,9 @@
 {
     "title": "Jinzou Ningen Kikaida",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5851.jpg",
+        "alt": "jinzou-ningen-kikaida"
+    },
     "type": "manga",
     "volumes": "6",
     "tags": [

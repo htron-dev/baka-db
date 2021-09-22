@@ -1,5 +1,9 @@
 {
     "title": "Megane ni Koishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15375.jpg",
+        "alt": "megane-ni-koishite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

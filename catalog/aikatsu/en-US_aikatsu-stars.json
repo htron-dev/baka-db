@@ -1,12 +1,16 @@
 {
     "title": "Aikatsu Stars!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78658.jpg",
+        "alt": "aikatsu-stars"
+    },
     "type": "tv-serie",
     "episodes": "100",
     "original_name": "アイカツスターズ！",
     "start_date": "2016-04-07",
     "end_date": "2016-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Start Line! (スタートライン!)\" by Sena and Rie from AIKATSU☆STARS! (eps 2-25)",
+    "ending_song": "#1: \"episode Solo\" by Ruka, Nanase, Kana, Miho from AIKATSU☆STARS! (eps 1-25)",
     "rating": "PG - Children",
     "tags": [
         "music",

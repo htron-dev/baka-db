@@ -1,5 +1,9 @@
 {
     "title": "Ashita Kagayaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13650.jpg",
+        "alt": "ashita-kagayaku"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "あした輝く",

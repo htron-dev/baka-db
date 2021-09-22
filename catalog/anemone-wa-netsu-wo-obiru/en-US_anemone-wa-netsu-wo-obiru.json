@@ -1,5 +1,9 @@
 {
     "title": "Anemone wa Netsu wo Obiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246368.jpg",
+        "alt": "anemone-wa-netsu-wo-obiru"
+    },
     "type": "manga",
     "original_name": "アネモネは熱を帯びる",
     "start_date": "2020-11-24",

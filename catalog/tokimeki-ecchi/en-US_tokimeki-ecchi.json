@@ -1,5 +1,9 @@
 {
     "title": "Tokimeki Ecchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35632.jpg",
+        "alt": "tokimeki-ecchi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ときめきエッチ",
@@ -13,7 +17,6 @@
         "Tanaka",
         "Yutaka (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

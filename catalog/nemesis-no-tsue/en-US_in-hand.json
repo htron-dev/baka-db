@@ -1,5 +1,9 @@
 {
     "title": "In Hand",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217080.jpg",
+        "alt": "in-hand"
+    },
     "type": "manga",
     "original_name": "インハンド",
     "start_date": "2018-10-23",

@@ -1,5 +1,9 @@
 {
     "title": "Minion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1817/91256.jpg",
+        "alt": "minion"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "Minion",

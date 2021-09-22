@@ -1,5 +1,9 @@
 {
     "title": "Sin: Nanatsu no Taizai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/86621.jpg",
+        "alt": "sin-nanatsu-no-taizai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "sin 七つの大罪",

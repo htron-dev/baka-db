@@ -1,5 +1,9 @@
 {
     "title": "Toki no Houmonsha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12358.jpg",
+        "alt": "toki-no-houmonsha"
+    },
     "type": "manga",
     "original_name": "時の訪問者",
     "tags": [

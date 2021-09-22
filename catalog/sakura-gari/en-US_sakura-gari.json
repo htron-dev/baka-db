@@ -1,5 +1,9 @@
 {
     "title": "Sakura-gari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19314.jpg",
+        "alt": "sakura-gari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

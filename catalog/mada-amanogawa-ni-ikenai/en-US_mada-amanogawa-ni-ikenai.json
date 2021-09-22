@@ -1,5 +1,9 @@
 {
     "title": "Mada Amanogawa ni Ikenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/46679.jpg",
+        "alt": "mada-amanogawa-ni-ikenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

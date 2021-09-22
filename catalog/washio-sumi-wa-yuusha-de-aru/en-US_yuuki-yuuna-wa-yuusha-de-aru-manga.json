@@ -1,5 +1,9 @@
 {
     "title": "Yuuki Yuuna wa Yuusha de Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211374.jpg",
+        "alt": "yuuki-yuuna-wa-yuusha-de-aru"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

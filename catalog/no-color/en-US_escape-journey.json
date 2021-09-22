@@ -1,5 +1,9 @@
 {
     "title": "Escape Journey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165587.jpg",
+        "alt": "escape-journey"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

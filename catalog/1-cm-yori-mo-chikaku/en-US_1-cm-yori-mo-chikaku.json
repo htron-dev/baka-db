@@ -1,5 +1,9 @@
 {
     "title": "1 cm yori mo Chikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190424.jpg",
+        "alt": "1-cm-yori-mo-chikaku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

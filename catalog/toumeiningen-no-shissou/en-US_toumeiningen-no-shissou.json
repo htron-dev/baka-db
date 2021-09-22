@@ -1,5 +1,9 @@
 {
     "title": "Toumeiningen no Shissou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/92093.jpg",
+        "alt": "toumeiningen-no-shissou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

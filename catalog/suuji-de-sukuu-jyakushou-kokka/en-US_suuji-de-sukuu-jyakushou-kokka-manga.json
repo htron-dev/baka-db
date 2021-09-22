@@ -1,5 +1,9 @@
 {
     "title": "Suuji de Sukuu! Jyakushou Kokka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241217.jpg",
+        "alt": "suuji-de-sukuu-jyakushou-kokka"
+    },
     "type": "manga",
     "original_name": "数字で救う！弱小国家",
     "start_date": "2019-07-26",

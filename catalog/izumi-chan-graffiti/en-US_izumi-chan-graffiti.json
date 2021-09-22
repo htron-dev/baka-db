@@ -1,5 +1,9 @@
 {
     "title": "Izumi-chan Graffiti",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30937.jpg",
+        "alt": "izumi-chan-graffiti"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

@@ -1,5 +1,9 @@
 {
     "title": "Garou Densetsu: Senritsu no Maougai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38866.jpg",
+        "alt": "garou-densetsu-senritsu-no-maougai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

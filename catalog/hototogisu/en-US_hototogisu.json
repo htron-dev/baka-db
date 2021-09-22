@@ -1,5 +1,9 @@
 {
     "title": "Hototogisu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226564.jpg",
+        "alt": "hototogisu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Blood Rain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152389.jpg",
+        "alt": "blood-rain"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "86",

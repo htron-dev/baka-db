@@ -1,5 +1,9 @@
 {
     "title": "Nande Neteru Ore no Chinko Nameta no?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245730.jpg",
+        "alt": "nande-neteru-ore-no-chinko-nameta-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

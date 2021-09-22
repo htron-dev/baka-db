@@ -1,5 +1,9 @@
 {
     "title": "Kimi made Mousugu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16968.jpg",
+        "alt": "kimi-made-mousugu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

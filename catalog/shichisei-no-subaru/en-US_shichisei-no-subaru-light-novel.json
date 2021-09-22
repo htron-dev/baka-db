@@ -1,5 +1,9 @@
 {
     "title": "Shichisei no Subaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212033.jpg",
+        "alt": "shichisei-no-subaru"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "59",

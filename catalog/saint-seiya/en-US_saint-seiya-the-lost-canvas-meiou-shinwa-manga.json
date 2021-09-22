@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/163126.jpg",
+        "alt": "saint-seiya-the-lost-canvas-meiou-shinwa"
+    },
     "type": "manga",
     "volumes": "25",
     "chapters": "223",

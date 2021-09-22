@@ -1,5 +1,9 @@
 {
     "title": "Musebinake, Junjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223961.jpg",
+        "alt": "musebinake-junjou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

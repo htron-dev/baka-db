@@ -1,5 +1,9 @@
 {
     "title": "Neko-kan: Neko ni Koisuru Otoko no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193800.jpg",
+        "alt": "neko-kan-neko-ni-koisuru-otoko-no-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

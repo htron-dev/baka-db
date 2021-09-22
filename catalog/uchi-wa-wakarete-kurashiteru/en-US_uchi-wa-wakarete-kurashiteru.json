@@ -1,5 +1,9 @@
 {
     "title": "Uchi wa Wakarete Kurashiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243897.jpg",
+        "alt": "uchi-wa-wakarete-kurashiteru"
+    },
     "type": "manga",
     "original_name": "ウチは別れて暮らしてる",
     "start_date": "2021-04-22",

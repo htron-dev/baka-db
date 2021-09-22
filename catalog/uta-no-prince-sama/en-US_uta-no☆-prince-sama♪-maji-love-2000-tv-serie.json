@@ -1,12 +1,16 @@
 {
     "title": "Uta no☆Prince-sama♪: Maji Love 2000%",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/44019.jpg",
+        "alt": "uta-no☆-prince-sama♪-maji-love-2000"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "うたの ☆ プリンスさまっ ♪ マジ LOVE2000%",
     "start_date": "2013-04-04",
     "end_date": "2013-04-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Maji LOVE 2000% (マジ LOVE2000%)\" by ST☆RISH (Takuma Terashima, Kenichi Suzumura, Kishou Taniyama, Mamoru Miyano, Junichi Suwabe, Hiro Shimono, Kousuke Toriumi) (ep 1)",
+    "ending_song": "#1: \"Canon (カノン)\" by Mamoru Miyano (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

@@ -1,5 +1,9 @@
 {
     "title": "Garden Sphere",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207952.jpg",
+        "alt": "garden-sphere"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

@@ -1,12 +1,16 @@
 {
     "title": "Ai Yori Aoshi: Enishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/71425.jpg",
+        "alt": "ai-yori-aoshi-enishi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "藍より青し～縁～",
     "start_date": "2003-10-13",
     "end_date": "2003-10-13",
     "opening_song": "\"Takaramono (Treasure)\" by Yoko Ishida",
-    "ending_song": "#1",
+    "ending_song": "#1: \"I do!\" by The Indigo (eps 1-8,10-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

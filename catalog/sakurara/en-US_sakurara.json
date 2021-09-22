@@ -1,5 +1,9 @@
 {
     "title": "Sakurara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163180.jpg",
+        "alt": "sakurara"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

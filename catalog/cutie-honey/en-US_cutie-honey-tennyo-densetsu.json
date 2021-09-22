@@ -1,5 +1,9 @@
 {
     "title": "Cutie Honey: Tennyo Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194914.jpg",
+        "alt": "cutie-honey-tennyo-densetsu"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "95",

@@ -1,5 +1,9 @@
 {
     "title": "Koi Kyokusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66875.jpg",
+        "alt": "koi-kyokusei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

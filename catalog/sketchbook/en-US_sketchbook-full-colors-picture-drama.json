@@ -1,5 +1,9 @@
 {
     "title": "Sketchbook: Full Color's Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/63003.jpg",
+        "alt": "sketchbook-full-colors-picture-drama"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "スケッチブック ～ full color's ～ピクチャードラマ",
@@ -22,7 +26,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Sketchbook_(manga"
+            "link": "http://en.wikipedia.org/wiki/Sketchbook_%28manga%29"
         }
     ]
 }

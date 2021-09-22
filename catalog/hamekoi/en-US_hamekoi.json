@@ -1,5 +1,9 @@
 {
     "title": "Hamekoi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206506.jpg",
+        "alt": "hamekoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

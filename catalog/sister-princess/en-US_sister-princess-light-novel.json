@@ -1,5 +1,9 @@
 {
     "title": "Sister Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11510.jpg",
+        "alt": "sister-princess"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "54",

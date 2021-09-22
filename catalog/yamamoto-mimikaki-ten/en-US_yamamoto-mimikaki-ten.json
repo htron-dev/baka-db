@@ -1,5 +1,9 @@
 {
     "title": "Yamamoto Mimikaki-ten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153264.jpg",
+        "alt": "yamamoto-mimikaki-ten"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

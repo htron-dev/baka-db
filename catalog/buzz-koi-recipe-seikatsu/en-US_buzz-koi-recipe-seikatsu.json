@@ -1,5 +1,9 @@
 {
     "title": "Buzz Koi Recipe Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230213.jpg",
+        "alt": "buzz-koi-recipe-seikatsu"
+    },
     "type": "manga",
     "original_name": "バズ恋レシピ生活",
     "start_date": "2019-08-16",

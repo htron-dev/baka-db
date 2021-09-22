@@ -1,5 +1,9 @@
 {
     "title": "Lie to Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21538.jpg",
+        "alt": "lie-to-me"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "3",

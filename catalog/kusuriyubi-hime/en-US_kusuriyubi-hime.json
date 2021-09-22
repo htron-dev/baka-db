@@ -1,5 +1,9 @@
 {
     "title": "Kusuriyubi Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7456.jpg",
+        "alt": "kusuriyubi-hime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

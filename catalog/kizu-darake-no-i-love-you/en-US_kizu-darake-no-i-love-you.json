@@ -1,5 +1,9 @@
 {
     "title": "Kizu darake no I Love You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32977.jpg",
+        "alt": "kizu-darake-no-i-love-you"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

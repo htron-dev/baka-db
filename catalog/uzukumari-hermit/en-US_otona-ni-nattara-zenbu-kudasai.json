@@ -1,5 +1,9 @@
 {
     "title": "Otona ni Nattara Zenbu Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225749.jpg",
+        "alt": "otona-ni-nattara-zenbu-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

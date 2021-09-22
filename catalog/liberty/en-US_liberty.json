@@ -1,5 +1,9 @@
 {
     "title": "Liberty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217944.jpg",
+        "alt": "liberty"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

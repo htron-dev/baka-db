@@ -1,5 +1,9 @@
 {
     "title": "Corrector Yui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126119.jpg",
+        "alt": "corrector-yui"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

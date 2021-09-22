@@ -1,5 +1,9 @@
 {
     "title": "Sousei no Onmyouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188935.jpg",
+        "alt": "sousei-no-onmyouji"
+    },
     "type": "manga",
     "original_name": "双星の陰陽師",
     "start_date": "2013-11-02",

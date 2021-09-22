@@ -1,5 +1,9 @@
 {
     "title": "Shinzou ga Tarinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79859.jpg",
+        "alt": "shinzou-ga-tarinai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "心臓が足りない",

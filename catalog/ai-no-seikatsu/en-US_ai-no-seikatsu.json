@@ -1,5 +1,9 @@
 {
     "title": "Ai no Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175593.jpg",
+        "alt": "ai-no-seikatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

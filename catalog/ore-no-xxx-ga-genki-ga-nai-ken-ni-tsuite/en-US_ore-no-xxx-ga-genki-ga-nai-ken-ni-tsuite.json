@@ -1,5 +1,9 @@
 {
     "title": "Ore no xxx ga Genki ga Nai Ken ni Tsuite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238230.jpg",
+        "alt": "ore-no-xxx-ga-genki-ga-nai-ken-ni-tsuite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

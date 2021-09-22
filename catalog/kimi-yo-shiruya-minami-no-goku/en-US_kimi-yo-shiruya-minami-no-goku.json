@@ -1,5 +1,9 @@
 {
     "title": "Kimi yo Shiruya Minami no Goku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181213.jpg",
+        "alt": "kimi-yo-shiruya-minami-no-goku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "45",

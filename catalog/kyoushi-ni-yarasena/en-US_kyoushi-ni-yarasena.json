@@ -1,5 +1,9 @@
 {
     "title": "Kyoushi ni Yarasena!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7177.jpg",
+        "alt": "kyoushi-ni-yarasena"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "教師にやらせな! S・T・J",

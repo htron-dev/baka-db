@@ -1,5 +1,9 @@
 {
     "title": "Einstein 1904",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148972.jpg",
+        "alt": "einstein-1904"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

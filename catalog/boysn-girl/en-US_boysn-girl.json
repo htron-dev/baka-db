@@ -1,5 +1,9 @@
 {
     "title": "Boys'n Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/34675.jpg",
+        "alt": "boysn-girl"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "16",

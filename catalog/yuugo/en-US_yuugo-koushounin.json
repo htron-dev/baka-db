@@ -1,5 +1,9 @@
 {
     "title": "Yuugo: Koushounin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/55523.jpg",
+        "alt": "yuugo-koushounin"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "勇午 ～交渉人～",

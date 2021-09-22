@@ -1,5 +1,9 @@
 {
     "title": "Shirayuri wa Aka ni Somaranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215979.jpg",
+        "alt": "shirayuri-wa-aka-ni-somaranai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

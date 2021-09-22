@@ -1,5 +1,9 @@
 {
     "title": "Hamidoru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36839.jpg",
+        "alt": "hamidoru"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "65",

@@ -1,5 +1,9 @@
 {
     "title": "Kaleido Star Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133063.jpg",
+        "alt": "kaleido-star-comic-anthology"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "カレイドスター コミックアンソロジー",

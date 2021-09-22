@@ -1,5 +1,9 @@
 {
     "title": "Soul Catcher(S)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156895.jpg",
+        "alt": "soul-catcher-s"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "90",

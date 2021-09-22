@@ -1,5 +1,9 @@
 {
     "title": "Oshikake Twintail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189901.jpg",
+        "alt": "oshikake-twintail"
+    },
     "type": "manga",
     "original_name": "おしかけツインテール",
     "start_date": "2014-07-17",

@@ -1,5 +1,9 @@
 {
     "title": "Futari de Papa Hajimemashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238043.jpg",
+        "alt": "futari-de-papa-hajimemashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

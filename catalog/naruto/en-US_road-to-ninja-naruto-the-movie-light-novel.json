@@ -1,5 +1,9 @@
 {
     "title": "Road to Ninja: Naruto the Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228890.jpg",
+        "alt": "road-to-ninja-naruto-the-movie"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ROAD TO NINJA NARUTO THE MOVIE",

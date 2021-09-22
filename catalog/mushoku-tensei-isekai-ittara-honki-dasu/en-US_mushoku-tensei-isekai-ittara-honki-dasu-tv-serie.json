@@ -1,11 +1,15 @@
 {
     "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1530/117776.jpg",
+        "alt": "mushoku-tensei-isekai-ittara-honki-dasu"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "無職転生 ～異世界行ったら本気だす～",
     "start_date": "2021-01-11",
     "end_date": "2021-01-11",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Tabibito no Uta (旅人の唄)\" by Yuiko Oohara (eps 3-4, 6-8)",
     "ending_song": "\"Only (オンリー)\" by Yuiko Oohara",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

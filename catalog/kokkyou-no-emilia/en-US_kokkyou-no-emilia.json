@@ -1,5 +1,9 @@
 {
     "title": "Kokkyou no Emilia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247745.jpg",
+        "alt": "kokkyou-no-emilia"
+    },
     "type": "manga",
     "original_name": "国境のエミーリャ",
     "start_date": "2019-08-10",

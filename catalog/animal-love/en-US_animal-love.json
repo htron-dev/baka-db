@@ -1,5 +1,9 @@
 {
     "title": "Animal Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14289.jpg",
+        "alt": "animal-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

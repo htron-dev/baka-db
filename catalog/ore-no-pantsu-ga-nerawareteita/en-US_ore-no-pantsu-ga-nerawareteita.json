@@ -1,5 +1,9 @@
 {
     "title": "Ore no Pantsu ga Nerawareteita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173223.jpg",
+        "alt": "ore-no-pantsu-ga-nerawareteita"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

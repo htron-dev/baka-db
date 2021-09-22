@@ -1,5 +1,9 @@
 {
     "title": "Sanda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248266.jpg",
+        "alt": "sanda"
+    },
     "type": "manga",
     "original_name": "SANDA",
     "start_date": "2021-07-21",

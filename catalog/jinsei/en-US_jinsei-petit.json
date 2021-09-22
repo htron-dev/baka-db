@@ -1,5 +1,9 @@
 {
     "title": "Jinsei: Petit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215168.jpg",
+        "alt": "jinsei-petit"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "42",

@@ -1,5 +1,9 @@
 {
     "title": "Princess Princess Plus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30581.jpg",
+        "alt": "princess-princess-plus"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

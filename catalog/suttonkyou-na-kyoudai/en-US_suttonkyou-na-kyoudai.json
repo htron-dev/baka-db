@@ -1,5 +1,9 @@
 {
     "title": "Suttonkyou na Kyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32729.jpg",
+        "alt": "suttonkyou-na-kyoudai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "すっとんきょーな兄妹",

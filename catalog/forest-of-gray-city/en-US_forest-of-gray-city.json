@@ -1,5 +1,9 @@
 {
     "title": "Forest of Gray City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1261.jpg",
+        "alt": "forest-of-gray-city"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "16",

@@ -1,9 +1,13 @@
 {
     "title": "Re:Creators: One More!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221882.jpg",
+        "alt": "re-creators-one-more"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",
-    "original_name": "Re",
+    "original_name": "Re:CREATORS わんもあ!",
     "start_date": "2017-06-12",
     "end_date": "2017-06-12",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Shotgun Marriage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10708.jpg",
+        "alt": "shotgun-marriage"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

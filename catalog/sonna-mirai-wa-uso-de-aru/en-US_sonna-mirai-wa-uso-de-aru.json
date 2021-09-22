@@ -1,5 +1,9 @@
 {
     "title": "Sonna Mirai wa Uso de Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149178.jpg",
+        "alt": "sonna-mirai-wa-uso-de-aru"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "83",

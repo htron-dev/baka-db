@@ -1,5 +1,9 @@
 {
     "title": "Obake no Q-tarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40542.jpg",
+        "alt": "obake-no-q-tarou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "90",

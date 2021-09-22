@@ -1,5 +1,9 @@
 {
     "title": "Sabage-bu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/60207.jpg",
+        "alt": "sabage-bu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "さばげぶっ!",

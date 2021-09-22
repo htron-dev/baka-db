@@ -1,5 +1,9 @@
 {
     "title": "Nekoka Danshi no Shitsukekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180214.jpg",
+        "alt": "nekoka-danshi-no-shitsukekata"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "28",

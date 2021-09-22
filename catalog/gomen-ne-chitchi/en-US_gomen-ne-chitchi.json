@@ -1,5 +1,9 @@
 {
     "title": "Gomen ne Chitchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/87712.jpg",
+        "alt": "gomen-ne-chitchi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ごめんね チッチ",

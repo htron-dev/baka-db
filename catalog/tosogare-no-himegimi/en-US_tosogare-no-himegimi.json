@@ -1,5 +1,9 @@
 {
     "title": "Tosogare no Himegimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131717.jpg",
+        "alt": "tosogare-no-himegimi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "黄昏の姫君",

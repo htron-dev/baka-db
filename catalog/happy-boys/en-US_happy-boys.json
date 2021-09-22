@@ -1,5 +1,9 @@
 {
     "title": "Happy Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29139.jpg",
+        "alt": "happy-boys"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

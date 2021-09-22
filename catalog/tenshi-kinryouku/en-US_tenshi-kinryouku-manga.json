@@ -1,5 +1,9 @@
 {
     "title": "Tenshi Kinryouku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176257.jpg",
+        "alt": "tenshi-kinryouku"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "120",

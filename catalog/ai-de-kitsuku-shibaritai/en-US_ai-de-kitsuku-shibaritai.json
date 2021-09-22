@@ -1,5 +1,9 @@
 {
     "title": "Ai de Kitsuku Shibaritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36938.jpg",
+        "alt": "ai-de-kitsuku-shibaritai"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "6",

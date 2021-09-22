@@ -1,5 +1,9 @@
 {
     "title": "Netsujou no Virtuoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5476.jpg",
+        "alt": "netsujou-no-virtuoso"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

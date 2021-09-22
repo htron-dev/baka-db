@@ -1,5 +1,9 @@
 {
     "title": "Rescue Wings",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34263.jpg",
+        "alt": "rescue-wings"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "レスキューウイングス",

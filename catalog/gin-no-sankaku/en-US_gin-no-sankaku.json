@@ -1,5 +1,9 @@
 {
     "title": "Gin no Sankaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165479.jpg",
+        "alt": "gin-no-sankaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

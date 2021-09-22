@@ -1,5 +1,9 @@
 {
     "title": "Rebuild World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238867.jpg",
+        "alt": "rebuild-world"
+    },
     "type": "manga",
     "original_name": "リビルドワールド",
     "start_date": "2019-07-26",

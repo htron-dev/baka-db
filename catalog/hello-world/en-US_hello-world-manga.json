@@ -1,5 +1,9 @@
 {
     "title": "Hello World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222144.jpg",
+        "alt": "hello-world"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

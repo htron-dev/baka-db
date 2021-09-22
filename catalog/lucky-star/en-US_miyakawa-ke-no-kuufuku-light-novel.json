@@ -1,5 +1,9 @@
 {
     "title": "Miyakawa-ke no Kuufuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161434.jpg",
+        "alt": "miyakawa-ke-no-kuufuku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "32",

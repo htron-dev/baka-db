@@ -1,5 +1,9 @@
 {
     "title": "Chokomimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/89043.jpg",
+        "alt": "chokomimi"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "チョコミミ",

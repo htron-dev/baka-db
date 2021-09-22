@@ -1,5 +1,9 @@
 {
     "title": "Cobra The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/18900.jpg",
+        "alt": "cobra-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "COBRA THE ANIMATION",

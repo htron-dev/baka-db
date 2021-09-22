@@ -1,5 +1,9 @@
 {
     "title": "Terpenoid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/71411.jpg",
+        "alt": "terpenoid"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

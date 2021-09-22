@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Hisoka ni Minoraseru Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/93885.jpg",
+        "alt": "koi-wa-hisoka-ni-minoraseru-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

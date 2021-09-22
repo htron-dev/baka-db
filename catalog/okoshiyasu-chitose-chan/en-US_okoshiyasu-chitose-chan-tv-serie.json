@@ -1,11 +1,15 @@
 {
     "title": "Okoshiyasu, Chitose-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1311/93281.jpg",
+        "alt": "okoshiyasu-chitose-chan"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "おこしやす、ちとせちゃん",
     "start_date": "2018-10-06",
     "end_date": "2018-10-06",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Nakuko mo Warau (泣く子も笑う)\" by Nyanzonu Deshi (にゃんぞぬデシ)",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

@@ -1,8 +1,12 @@
 {
     "title": "Kamen Rider Den-O: Imagin Anime 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/28137.jpg",
+        "alt": "kamen-rider-den-o-imagin-anime-3"
+    },
     "type": "ova",
     "episodes": "12",
-    "original_name": "仮面ライダー電王",
+    "original_name": "仮面ライダー電王: イマジンあにめ 3",
     "start_date": "2010-10-21",
     "rating": "G - All Ages",
     "tags": [

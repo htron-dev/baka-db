@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Shounen Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167314.jpg",
+        "alt": "hatsukoi-shounen-shoujo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

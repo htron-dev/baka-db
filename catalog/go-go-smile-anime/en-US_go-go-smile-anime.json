@@ -1,5 +1,9 @@
 {
     "title": "Go Go Smile Anime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/80598.jpg",
+        "alt": "go-go-smile-anime"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "ゴゴスマアニメ",

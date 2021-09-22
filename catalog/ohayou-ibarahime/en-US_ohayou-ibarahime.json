@@ -1,5 +1,9 @@
 {
     "title": "Ohayou, Ibarahime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164641.jpg",
+        "alt": "ohayou-ibarahime"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "26",

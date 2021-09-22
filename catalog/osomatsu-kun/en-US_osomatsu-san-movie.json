@@ -1,5 +1,9 @@
 {
     "title": "Osomatsu-san Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1492/113860.jpg",
+        "alt": "osomatsu-san-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "えいがのおそ松さん",

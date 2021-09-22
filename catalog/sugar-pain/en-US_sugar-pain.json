@@ -1,5 +1,9 @@
 {
     "title": "Sugar Pain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/113745.jpg",
+        "alt": "sugar-pain"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

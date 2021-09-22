@@ -1,5 +1,9 @@
 {
     "title": "Sushi Ichi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187557.jpg",
+        "alt": "sushi-ichi"
+    },
     "type": "manga",
     "original_name": "すしいち！",
     "start_date": "2013-10-12",

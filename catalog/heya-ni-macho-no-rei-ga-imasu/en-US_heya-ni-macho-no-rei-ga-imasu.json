@@ -1,5 +1,9 @@
 {
     "title": "Heya ni Macho no Rei ga Imasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225747.jpg",
+        "alt": "heya-ni-macho-no-rei-ga-imasu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

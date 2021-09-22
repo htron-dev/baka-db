@@ -1,5 +1,9 @@
 {
     "title": "Potion-danomi de Ikinobimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202866.jpg",
+        "alt": "potion-danomi-de-ikinobimasu"
+    },
     "type": "light-novel",
     "original_name": "ポーション頼みで生き延びます！",
     "start_date": "2017-05-31",

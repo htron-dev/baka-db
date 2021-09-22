@@ -1,5 +1,9 @@
 {
     "title": "Megami no Karnaval",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207270.jpg",
+        "alt": "megami-no-karnaval"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

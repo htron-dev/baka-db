@@ -1,5 +1,9 @@
 {
     "title": "Kitto Koi ni Chigainai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120243.jpg",
+        "alt": "kitto-koi-ni-chigainai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

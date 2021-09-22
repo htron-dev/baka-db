@@ -1,5 +1,9 @@
 {
     "title": "Magic Love Child",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29934.jpg",
+        "alt": "magic-love-child"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マジックラブ チャイルド",

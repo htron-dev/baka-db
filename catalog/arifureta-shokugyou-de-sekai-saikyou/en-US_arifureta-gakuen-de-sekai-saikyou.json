@@ -1,5 +1,9 @@
 {
     "title": "Arifureta Gakuen de Sekai Saikyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242790.jpg",
+        "alt": "arifureta-gakuen-de-sekai-saikyou"
+    },
     "type": "manga",
     "original_name": "ありふれた学園で世界最強",
     "start_date": "2020-04-24",

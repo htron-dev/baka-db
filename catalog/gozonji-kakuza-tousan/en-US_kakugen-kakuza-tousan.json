@@ -1,5 +1,9 @@
 {
     "title": "Kakugen! Kakuza Tousan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1552/105575.jpg",
+        "alt": "kakugen-kakuza-tousan"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "格言! かくざ 父さん",

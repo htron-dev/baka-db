@@ -1,5 +1,9 @@
 {
     "title": "Hare to Mononoke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243863.jpg",
+        "alt": "hare-to-mononoke"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

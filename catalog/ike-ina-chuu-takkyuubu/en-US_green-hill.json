@@ -1,5 +1,9 @@
 {
     "title": "Green Hill",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248399.jpg",
+        "alt": "green-hill"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "グリーンヒル",

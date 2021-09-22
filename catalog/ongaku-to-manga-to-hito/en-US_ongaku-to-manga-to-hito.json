@@ -1,5 +1,9 @@
 {
     "title": "Ongaku to Manga to Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164808.jpg",
+        "alt": "ongaku-to-manga-to-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

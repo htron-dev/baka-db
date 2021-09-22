@@ -1,5 +1,9 @@
 {
     "title": "Sakura Brigade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172110.jpg",
+        "alt": "sakura-brigade"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "34",

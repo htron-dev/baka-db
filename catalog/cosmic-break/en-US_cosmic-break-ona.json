@@ -1,5 +1,9 @@
 {
     "title": "Cosmic Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/46191.jpg",
+        "alt": "cosmic-break"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "コズミックブレイク",

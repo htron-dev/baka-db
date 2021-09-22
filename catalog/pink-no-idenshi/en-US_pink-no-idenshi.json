@@ -1,5 +1,9 @@
 {
     "title": "Pink no Idenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196141.jpg",
+        "alt": "pink-no-idenshi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "32",

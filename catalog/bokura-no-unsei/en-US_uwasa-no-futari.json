@@ -1,5 +1,9 @@
 {
     "title": "Uwasa no Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2142.jpg",
+        "alt": "uwasa-no-futari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

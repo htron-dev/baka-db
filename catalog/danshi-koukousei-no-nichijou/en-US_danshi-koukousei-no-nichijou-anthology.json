@@ -1,5 +1,9 @@
 {
     "title": "Danshi Koukousei no Nichijou Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126213.jpg",
+        "alt": "danshi-koukousei-no-nichijou-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

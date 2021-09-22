@@ -1,5 +1,9 @@
 {
     "title": "Ukkari Mariko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35423.jpg",
+        "alt": "ukkari-mariko-san"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "うっかりマリ子さん",

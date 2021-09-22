@@ -1,5 +1,9 @@
 {
     "title": "Shuujin Riku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166789.jpg",
+        "alt": "shuujin-riku"
+    },
     "type": "manga",
     "volumes": "38",
     "chapters": "338",

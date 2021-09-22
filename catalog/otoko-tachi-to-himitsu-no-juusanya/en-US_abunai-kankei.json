@@ -1,5 +1,9 @@
 {
     "title": "Abunai Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/102045.jpg",
+        "alt": "abunai-kankei"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アブない関係",

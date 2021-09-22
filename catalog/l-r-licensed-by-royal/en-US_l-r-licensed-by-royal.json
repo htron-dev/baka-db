@@ -1,12 +1,16 @@
 {
     "title": "L/R: Licensed by Royal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/14587.jpg",
+        "alt": "l-r-licensed-by-royal"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "L/R -Licensed by Royal-",
     "start_date": "2003-01-08",
     "end_date": "2003-01-08",
     "opening_song": "\"Go Where No Ones Gone Before\" by Billy Preston",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Onegai No Toki (願いのとき)\" by Mikako Takahashi",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

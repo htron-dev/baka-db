@@ -1,5 +1,9 @@
 {
     "title": "Kokushi Musou!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127233.jpg",
+        "alt": "kokushi-musou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

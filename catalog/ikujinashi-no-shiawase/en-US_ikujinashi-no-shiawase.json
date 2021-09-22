@@ -1,5 +1,9 @@
 {
     "title": "Ikujinashi no Shiawase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/249349.jpg",
+        "alt": "ikujinashi-no-shiawase"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

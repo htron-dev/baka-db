@@ -1,5 +1,9 @@
 {
     "title": "Pico: My Little Summer Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/14929.jpg",
+        "alt": "pico-my-little-summer-story"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "pico ～ぼくの小さな夏物語～",

@@ -1,5 +1,9 @@
 {
     "title": "Bleach Unmasked Short Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/49045.jpg",
+        "alt": "bleach-unmasked-short-stories"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "BLEACH UNMASKED",

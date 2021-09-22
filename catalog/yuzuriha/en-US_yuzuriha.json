@@ -1,5 +1,9 @@
 {
     "title": "Yuzuriha!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169258.jpg",
+        "alt": "yuzuriha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "24",

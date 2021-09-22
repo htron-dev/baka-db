@@ -1,5 +1,9 @@
 {
     "title": "Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31966.jpg",
+        "alt": "usagi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "うさぎ",

@@ -1,5 +1,9 @@
 {
     "title": "Ojama Yuurei-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178261.jpg",
+        "alt": "ojama-yuurei-kun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

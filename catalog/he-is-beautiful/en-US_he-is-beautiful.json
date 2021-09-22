@@ -1,5 +1,9 @@
 {
     "title": "He Is Beautiful.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/142537.jpg",
+        "alt": "he-is-beautiful"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "He is beautiful.",

@@ -1,5 +1,9 @@
 {
     "title": "Satsuki Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124805.jpg",
+        "alt": "satsuki-complex"
+    },
     "type": "manga",
     "original_name": "さつきコンプレックス",
     "start_date": "2011-04-09",

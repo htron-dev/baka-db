@@ -1,5 +1,9 @@
 {
     "title": "Kaze Hikaru: Koshien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/98249.jpg",
+        "alt": "kaze-hikaru-koshien"
+    },
     "type": "manga",
     "volumes": "44",
     "original_name": "風光る～甲子園～",

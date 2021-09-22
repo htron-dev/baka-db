@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Pikachu no Wanpaku Island",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/25971.jpg",
+        "alt": "pokemon-pikachu-no-wanpaku-island"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ピカチュウのわんぱくアイランド",

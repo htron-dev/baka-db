@@ -1,5 +1,9 @@
 {
     "title": "Genma Taisen Rebirth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/214452.jpg",
+        "alt": "genma-taisen-rebirth"
+    },
     "type": "manga",
     "original_name": "幻魔大戦 Rebirth",
     "start_date": "2014-08-05",

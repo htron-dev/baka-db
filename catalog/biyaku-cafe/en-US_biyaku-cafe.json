@@ -1,5 +1,9 @@
 {
     "title": "Biyaku Cafe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162405.jpg",
+        "alt": "biyaku-cafe"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "34",

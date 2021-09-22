@@ -1,5 +1,9 @@
 {
     "title": "Bakusou!! Platinum Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35540.jpg",
+        "alt": "bakusou-platinum-idol"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Koukou Kyuuji Zawa-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118405.jpg",
+        "alt": "koukou-kyuuji-zawa-san"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "201",

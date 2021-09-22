@@ -1,5 +1,9 @@
 {
     "title": "Blood-C: The Last Dark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1159/94216.jpg",
+        "alt": "blood-c-the-last-dark"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 ブラッドシー ザ ラスト ダーク",

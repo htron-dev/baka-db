@@ -1,5 +1,9 @@
 {
     "title": "S=13",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1913/108080.jpg",
+        "alt": "s-13"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "S ＝ 13",

@@ -1,5 +1,9 @@
 {
     "title": "Kiyoku Yawaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40535.jpg",
+        "alt": "kiyoku-yawaku"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "46",

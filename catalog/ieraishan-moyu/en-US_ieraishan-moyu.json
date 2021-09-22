@@ -1,5 +1,9 @@
 {
     "title": "Ieraishan, Moyu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152519.jpg",
+        "alt": "ieraishan-moyu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Dainihon Samurai Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116493.jpg",
+        "alt": "dainihon-samurai-girl"
+    },
     "type": "light-novel",
     "volumes": "9",
     "original_name": "大日本サムライガール",

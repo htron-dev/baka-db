@@ -1,5 +1,9 @@
 {
     "title": "Tokyo ESP x Ga-Rei: Shadow Walker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141457.jpg",
+        "alt": "tokyo-esp-x-ga-rei-shadow-walker"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

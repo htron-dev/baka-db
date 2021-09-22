@@ -1,12 +1,16 @@
 {
     "title": "B-Project: Kodou\\*Ambitious",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/79984.jpg",
+        "alt": "b-project-kodou-ambitious"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "B-PROJECT ～鼓動＊アンビシャス～",
     "start_date": "2016-07-03",
     "end_date": "2016-07-03",
     "opening_song": "\"Kodou\\*Ambitious (鼓動＊アンビシャス)\" by B-Project (Kitakore, THRIVE, MooNs)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hoshi to Tsuki no Sentence (星と月のセンテンス)\" by Kitakore",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

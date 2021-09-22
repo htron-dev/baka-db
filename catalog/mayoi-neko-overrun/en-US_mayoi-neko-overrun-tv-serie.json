@@ -1,12 +1,16 @@
 {
     "title": "Mayoi Neko Overrun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/23770.jpg",
+        "alt": "mayoi-neko-overrun"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "迷い猫オーバーラン!",
     "start_date": "2010-04-06",
     "end_date": "2010-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Happy New Nyaa (はっぴぃ にゅう にゃあ)\" by Kanae Itou, Yuka Iguchi, Ayana Taketatsu (eps 1-6, 8-13)",
+    "ending_song": "#1: \"ItchaLove Come Home! (イチャラブ Come Home!)\" by Kanae Itou, Yuka Iguchi, Ayana Taketatsu (eps 1-5, 8-10, 12-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

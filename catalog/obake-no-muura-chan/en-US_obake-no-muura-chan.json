@@ -1,5 +1,9 @@
 {
     "title": "Obake no Muura-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198837.jpg",
+        "alt": "obake-no-muura-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

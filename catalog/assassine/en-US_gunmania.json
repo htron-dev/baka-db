@@ -1,5 +1,9 @@
 {
     "title": "Gunmania",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20934.jpg",
+        "alt": "gunmania"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "ガンマニア",

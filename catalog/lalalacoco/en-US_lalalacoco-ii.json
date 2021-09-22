@@ -1,5 +1,9 @@
 {
     "title": "Lalalacoco II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1354/107937.jpg",
+        "alt": "lalalacoco-ii"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "LALALACOCO II",

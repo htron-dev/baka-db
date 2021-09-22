@@ -1,5 +1,9 @@
 {
     "title": "Yami no Koutaishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28900.jpg",
+        "alt": "yami-no-koutaishi"
+    },
     "type": "manga",
     "original_name": "闇の皇太子",
     "tags": [

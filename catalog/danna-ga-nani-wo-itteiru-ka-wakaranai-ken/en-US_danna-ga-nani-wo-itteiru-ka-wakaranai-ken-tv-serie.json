@@ -1,11 +1,15 @@
 {
     "title": "Danna ga Nani wo Itteiru ka Wakaranai Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75287.jpg",
+        "alt": "danna-ga-nani-wo-itteiru-ka-wakaranai-ken"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "旦那が何を言っているかわからない件",
     "start_date": "2014-10-03",
     "end_date": "2014-10-03",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Iikagen ni Shite, Anata (いいかげんにして、あなた)\" by Kaoru & Hajime (Yukari Tamura & Kenichi Suzumura) (eps 1-8, 10-11, 13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

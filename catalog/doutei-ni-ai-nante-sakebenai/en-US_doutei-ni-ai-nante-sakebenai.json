@@ -1,5 +1,9 @@
 {
     "title": "Doutei ni Ai nante Sakebenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212408.jpg",
+        "alt": "doutei-ni-ai-nante-sakebenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

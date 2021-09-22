@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Kaibutsu-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/59207.jpg",
+        "alt": "tonari-no-kaibutsu-kun"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "55",

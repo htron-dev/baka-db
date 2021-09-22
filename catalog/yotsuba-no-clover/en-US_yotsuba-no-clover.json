@@ -1,5 +1,9 @@
 {
     "title": "Yotsuba no Clover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183524.jpg",
+        "alt": "yotsuba-no-clover"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "四つ葉のクローバー",

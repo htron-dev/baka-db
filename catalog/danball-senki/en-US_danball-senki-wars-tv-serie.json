@@ -1,12 +1,16 @@
 {
     "title": "Danball Senki Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1574/94701.jpg",
+        "alt": "danball-senki-wars"
+    },
     "type": "tv-serie",
     "episodes": "37",
     "original_name": "ダンボール戦機ウォーズ",
     "start_date": "2013-04-03",
     "end_date": "2013-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Mugen Myself\" by Little Blue boX (リトル・ブルー・ボックス)",
+    "ending_song": "#1: \"Kamisama Yayaya (神様 ヤーヤーヤー)\" by Dream5 (eps 2-21)",
     "rating": "G - All Ages",
     "tags": [
         "action",

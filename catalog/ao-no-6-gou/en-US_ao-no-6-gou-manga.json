@@ -1,5 +1,9 @@
 {
     "title": "Ao no 6-gou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76761.jpg",
+        "alt": "ao-no-6-gou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "3",

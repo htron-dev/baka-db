@@ -1,5 +1,9 @@
 {
     "title": "Ai Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/54145.jpg",
+        "alt": "ai-girl"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "愛＋少女",

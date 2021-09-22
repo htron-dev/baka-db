@@ -1,5 +1,9 @@
 {
     "title": "Nemureru Mori no Charon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167022.jpg",
+        "alt": "nemureru-mori-no-charon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

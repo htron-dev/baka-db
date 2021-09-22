@@ -1,5 +1,9 @@
 {
     "title": "Chao Neng Yongshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1057/115344.jpg",
+        "alt": "chao-neng-yongshi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "超能勇士",

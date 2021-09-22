@@ -1,5 +1,9 @@
 {
     "title": "Comic Lily",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167536.jpg",
+        "alt": "comic-lily"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

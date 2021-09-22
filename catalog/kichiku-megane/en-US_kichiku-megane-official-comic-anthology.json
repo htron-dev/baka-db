@@ -1,5 +1,9 @@
 {
     "title": "Kichiku Megane Official Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26726.jpg",
+        "alt": "kichiku-megane-official-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

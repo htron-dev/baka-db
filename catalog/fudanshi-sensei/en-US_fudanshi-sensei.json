@@ -1,5 +1,9 @@
 {
     "title": "Fudanshi Sensei!!!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209869.jpg",
+        "alt": "fudanshi-sensei"
+    },
     "type": "manga",
     "original_name": "腐男子先生!!!!!",
     "start_date": "2017-06-09",

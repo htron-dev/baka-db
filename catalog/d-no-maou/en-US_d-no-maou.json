@@ -1,5 +1,9 @@
 {
     "title": "D no Maou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161988.jpg",
+        "alt": "d-no-maou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

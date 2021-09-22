@@ -1,5 +1,9 @@
 {
     "title": "Devil Ecstasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/104207.jpg",
+        "alt": "devil-ecstasy"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "40",

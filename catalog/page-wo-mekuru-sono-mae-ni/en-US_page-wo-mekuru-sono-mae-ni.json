@@ -1,5 +1,9 @@
 {
     "title": "Page wo Mekuru Sono Mae ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248193.jpg",
+        "alt": "page-wo-mekuru-sono-mae-ni"
+    },
     "type": "manga",
     "original_name": "ページをめくるその前に",
     "start_date": "2019-12-21",

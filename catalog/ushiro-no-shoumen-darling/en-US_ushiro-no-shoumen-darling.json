@@ -1,5 +1,9 @@
 {
     "title": "Ushiro no Shoumen Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6031.jpg",
+        "alt": "ushiro-no-shoumen-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

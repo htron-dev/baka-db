@@ -1,5 +1,9 @@
 {
     "title": "Net-juu no Susume Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/90115.jpg",
+        "alt": "net-juu-no-susume-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ネト充のススメ",

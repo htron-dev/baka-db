@@ -1,5 +1,9 @@
 {
     "title": "B.Q The Roach Book",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37278.jpg",
+        "alt": "b-q-the-roach-book"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ビー・キューアウトテイク集 THE ROACH BOOK",

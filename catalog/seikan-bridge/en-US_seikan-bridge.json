@@ -1,5 +1,9 @@
 {
     "title": "Seikan Bridge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228087.jpg",
+        "alt": "seikan-bridge"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

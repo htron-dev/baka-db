@@ -1,5 +1,9 @@
 {
     "title": "Hinadori Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3673.jpg",
+        "alt": "hinadori-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

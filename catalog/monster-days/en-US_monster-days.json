@@ -1,5 +1,9 @@
 {
     "title": "Monster Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156647.jpg",
+        "alt": "monster-days"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

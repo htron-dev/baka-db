@@ -1,5 +1,9 @@
 {
     "title": "Fortune Quest L",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1173/96479.jpg",
+        "alt": "fortune-quest-l"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "フォーチュン·クエスト L",

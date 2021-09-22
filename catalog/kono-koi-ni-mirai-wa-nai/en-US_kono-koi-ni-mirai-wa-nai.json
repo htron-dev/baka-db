@@ -1,5 +1,9 @@
 {
     "title": "Kono Koi ni Mirai wa Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206467.jpg",
+        "alt": "kono-koi-ni-mirai-wa-nai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

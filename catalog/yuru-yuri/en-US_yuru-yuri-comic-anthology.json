@@ -1,5 +1,9 @@
 {
     "title": "Yuru Yuri Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167902.jpg",
+        "alt": "yuru-yuri-comic-anthology"
+    },
     "type": "manga",
     "original_name": "ゆるゆり コミックアンソロジー",
     "start_date": "2011-01-08",

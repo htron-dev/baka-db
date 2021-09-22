@@ -1,5 +1,9 @@
 {
     "title": "Tachippana!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129647.jpg",
+        "alt": "tachippana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

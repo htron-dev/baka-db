@@ -1,5 +1,9 @@
 {
     "title": "Wind Breaker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244074.jpg",
+        "alt": "wind-breaker"
+    },
     "type": "manga",
     "original_name": "WIND BREAKER",
     "start_date": "2021-01-13",

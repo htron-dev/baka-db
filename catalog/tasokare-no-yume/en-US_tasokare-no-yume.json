@@ -1,5 +1,9 @@
 {
     "title": "Tasokare no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203566.jpg",
+        "alt": "tasokare-no-yume"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

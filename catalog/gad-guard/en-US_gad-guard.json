@@ -1,5 +1,9 @@
 {
     "title": "Gad Guard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/12863.jpg",
+        "alt": "gad-guard"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ガドガード",

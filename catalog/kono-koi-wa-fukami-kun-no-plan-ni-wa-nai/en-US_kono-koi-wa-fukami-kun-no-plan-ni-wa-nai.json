@@ -1,5 +1,9 @@
 {
     "title": "Kono Koi wa Fukami-kun no Plan ni wa Nai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225495.jpg",
+        "alt": "kono-koi-wa-fukami-kun-no-plan-ni-wa-nai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

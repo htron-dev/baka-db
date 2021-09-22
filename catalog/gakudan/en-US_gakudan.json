@@ -1,5 +1,9 @@
 {
     "title": "Gakudan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168287.jpg",
+        "alt": "gakudan"
+    },
     "type": "manga",
     "original_name": "がくだん!",
     "start_date": "2015-04-25",

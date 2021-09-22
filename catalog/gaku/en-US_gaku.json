@@ -1,5 +1,9 @@
 {
     "title": "Gaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209662.jpg",
+        "alt": "gaku"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "159",

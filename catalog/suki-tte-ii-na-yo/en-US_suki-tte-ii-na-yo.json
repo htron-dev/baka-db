@@ -1,5 +1,9 @@
 {
     "title": "Suki tte Ii na yo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198567.jpg",
+        "alt": "suki-tte-ii-na-yo"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "73",

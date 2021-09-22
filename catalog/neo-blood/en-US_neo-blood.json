@@ -1,5 +1,9 @@
 {
     "title": "Neo Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36864.jpg",
+        "alt": "neo-blood"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ネオ・ブラッド",

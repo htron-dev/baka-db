@@ -1,5 +1,9 @@
 {
     "title": "Amanchu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165911.jpg",
+        "alt": "amanchu"
+    },
     "type": "manga",
     "original_name": "あまんちゅ！",
     "start_date": "2008-11-29",

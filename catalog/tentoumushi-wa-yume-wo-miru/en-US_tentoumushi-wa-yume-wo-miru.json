@@ -1,5 +1,9 @@
 {
     "title": "Tentoumushi wa Yume wo Miru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236994.jpg",
+        "alt": "tentoumushi-wa-yume-wo-miru"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "59",

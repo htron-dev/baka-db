@@ -1,5 +1,9 @@
 {
     "title": "Don't Worry Mama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32388.jpg",
+        "alt": "dont-worry-mama"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

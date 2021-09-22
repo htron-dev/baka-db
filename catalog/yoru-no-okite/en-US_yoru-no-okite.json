@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Okite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/18950.jpg",
+        "alt": "yoru-no-okite"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "夜の掟",

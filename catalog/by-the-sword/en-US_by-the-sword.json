@@ -1,5 +1,9 @@
 {
     "title": "By The Sword",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/929.jpg",
+        "alt": "by-the-sword"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "妖",

@@ -1,5 +1,9 @@
 {
     "title": "Choco to Mint to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135555.jpg",
+        "alt": "choco-to-mint-to"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

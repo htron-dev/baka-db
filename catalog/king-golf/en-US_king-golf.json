@@ -1,5 +1,9 @@
 {
     "title": "King Golf",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/47939.jpg",
+        "alt": "king-golf"
+    },
     "type": "manga",
     "original_name": "KING GOLF",
     "start_date": "2008-08-06",

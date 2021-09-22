@@ -1,5 +1,9 @@
 {
     "title": "Dero Dero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119181.jpg",
+        "alt": "dero-dero"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "292",

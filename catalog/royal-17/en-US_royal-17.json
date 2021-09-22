@@ -1,5 +1,9 @@
 {
     "title": "Royal 17",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1495.jpg",
+        "alt": "royal-17"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

@@ -1,12 +1,16 @@
 {
     "title": "Strawberry Panic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1699/110686.jpg",
+        "alt": "strawberry-panic"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ストロベリー・パニック",
     "start_date": "2006-04-04",
     "end_date": "2006-04-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Shoujo Meiro de Tsukamaete\" by Aki Misato (eps 1-13)",
+    "ending_song": "#1: \"Himitsu Dolls (秘密ドールズ)\" by Mai Nakahara & Ai Shimizu (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

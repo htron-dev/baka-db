@@ -1,5 +1,9 @@
 {
     "title": "Box!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187208.jpg",
+        "alt": "box"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

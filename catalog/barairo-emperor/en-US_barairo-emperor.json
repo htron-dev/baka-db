@@ -1,5 +1,9 @@
 {
     "title": "Barairo Emperor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41300.jpg",
+        "alt": "barairo-emperor"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Klan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/54055.jpg",
+        "alt": "klan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

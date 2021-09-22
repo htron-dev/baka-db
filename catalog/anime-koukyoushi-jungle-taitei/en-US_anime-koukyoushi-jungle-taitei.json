@@ -1,5 +1,9 @@
 {
     "title": "Anime Koukyoushi: Jungle Taitei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/36639.jpg",
+        "alt": "anime-koukyoushi-jungle-taitei"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "アニメ交響詩 ジャングル大帝",

@@ -1,5 +1,9 @@
 {
     "title": "Devil Magic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7270.jpg",
+        "alt": "devil-magic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

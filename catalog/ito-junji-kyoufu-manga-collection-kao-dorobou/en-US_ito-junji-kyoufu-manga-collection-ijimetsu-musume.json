@@ -1,5 +1,9 @@
 {
     "title": "Ito Junji Kyoufu Manga Collection - Ijimetsu Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79131.jpg",
+        "alt": "ito-junji-kyoufu-manga-collection-ijimetsu-musume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

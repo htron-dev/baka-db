@@ -1,5 +1,9 @@
 {
     "title": "L.A.G. Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35789.jpg",
+        "alt": "l-a-g-complex"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "LAG コンプレックス",

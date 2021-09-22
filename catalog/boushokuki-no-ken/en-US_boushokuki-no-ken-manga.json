@@ -1,5 +1,9 @@
 {
     "title": "Boushokuki no Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229595.jpg",
+        "alt": "boushokuki-no-ken"
+    },
     "type": "manga",
     "original_name": "暴食妃の剣",
     "start_date": "2019-08-02",

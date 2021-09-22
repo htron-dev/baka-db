@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Kimi no Iinari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228463.jpg",
+        "alt": "boku-wa-kimi-no-iinari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

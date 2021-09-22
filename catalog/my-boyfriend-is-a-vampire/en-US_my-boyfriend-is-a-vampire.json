@@ -1,5 +1,9 @@
 {
     "title": "My Boyfriend Is a Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64657.jpg",
+        "alt": "my-boyfriend-is-a-vampire"
+    },
     "type": "manhwa",
     "volumes": "14",
     "chapters": "48",

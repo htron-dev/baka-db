@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki Voice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7742.jpg",
+        "alt": "usotsuki-voice"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "うそつきヴォイス",

@@ -1,12 +1,16 @@
 {
     "title": "100% Pascal-sensei (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/86858.jpg",
+        "alt": "100-pascal-sensei-tv"
+    },
     "type": "tv-serie",
     "episodes": "36",
     "original_name": "100%パスカル先生 (TV)",
     "start_date": "2017-04-15",
     "end_date": "2017-04-15",
     "opening_song": "\"100% Pascal Sensei (100％パスカル先生)\" by Pascal-sensei (Hana Satou)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Pascal Yoga Yo~ga (パスカル ヨガヨ～ガ)\" by Pascal-sensei (Hana Satou) (eps 1-18)",
     "rating": "PG - Children",
     "tags": [
         "comedy"

@@ -1,5 +1,9 @@
 {
     "title": "Utsurun Desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/60077.jpg",
+        "alt": "utsurun-desu"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "伝染るんです。",

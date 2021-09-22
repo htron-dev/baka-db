@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Tomodachi ga Motenai no wa Dou Kangaetemo Omaera ga Warui.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162685.jpg",
+        "alt": "watashi-no-tomodachi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "28",

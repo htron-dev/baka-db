@@ -1,5 +1,9 @@
 {
     "title": "Amatsu Sora Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/80849.jpg",
+        "alt": "amatsu-sora-naru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

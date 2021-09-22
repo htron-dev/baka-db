@@ -1,5 +1,9 @@
 {
     "title": "9-gatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61453.jpg",
+        "alt": "9-gatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

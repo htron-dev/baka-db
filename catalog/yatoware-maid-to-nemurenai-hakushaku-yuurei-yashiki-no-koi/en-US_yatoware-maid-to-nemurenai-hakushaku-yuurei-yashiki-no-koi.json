@@ -1,5 +1,9 @@
 {
     "title": "Yatoware Maid to Nemurenai Hakushaku: Yuurei Yashiki no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192868.jpg",
+        "alt": "yatoware-maid-to-nemurenai-hakushaku-yuurei-yashiki-no-koi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",
@@ -15,7 +19,6 @@
         "Yamanobe",
         "Riri (Story)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

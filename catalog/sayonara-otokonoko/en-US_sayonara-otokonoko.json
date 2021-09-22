@@ -1,5 +1,9 @@
 {
     "title": "Sayonara, Otokonoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200348.jpg",
+        "alt": "sayonara-otokonoko"
+    },
     "type": "manga",
     "original_name": "さよなら、おとこのこ",
     "start_date": "2016-05-07",

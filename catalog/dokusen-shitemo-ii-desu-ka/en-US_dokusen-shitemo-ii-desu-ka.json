@@ -1,5 +1,9 @@
 {
     "title": "Dokusen shitemo Ii desu ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235219.jpg",
+        "alt": "dokusen-shitemo-ii-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

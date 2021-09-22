@@ -1,5 +1,9 @@
 {
     "title": "The End of Rain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29345.jpg",
+        "alt": "the-end-of-rain"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

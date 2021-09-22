@@ -1,5 +1,9 @@
 {
     "title": "Koibito Mitai ni Aishiteyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6566.jpg",
+        "alt": "koibito-mitai-ni-aishiteyo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

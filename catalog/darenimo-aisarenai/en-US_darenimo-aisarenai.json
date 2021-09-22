@@ -1,5 +1,9 @@
 {
     "title": "Darenimo Aisarenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95841.jpg",
+        "alt": "darenimo-aisarenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

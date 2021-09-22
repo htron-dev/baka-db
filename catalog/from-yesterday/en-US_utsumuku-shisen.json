@@ -1,5 +1,9 @@
 {
     "title": "Utsumuku Shisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6152.jpg",
+        "alt": "utsumuku-shisen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

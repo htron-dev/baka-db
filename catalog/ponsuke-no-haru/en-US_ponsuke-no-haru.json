@@ -1,5 +1,9 @@
 {
     "title": "Ponsuke no Haru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/86272.jpg",
+        "alt": "ponsuke-no-haru"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ポン助の春",

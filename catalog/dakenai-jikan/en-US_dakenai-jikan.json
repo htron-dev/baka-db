@@ -1,5 +1,9 @@
 {
     "title": "Dakenai Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160578.jpg",
+        "alt": "dakenai-jikan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

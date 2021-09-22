@@ -1,5 +1,9 @@
 {
     "title": "Oogata Shinjin no Kyouikugakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231803.jpg",
+        "alt": "oogata-shinjin-no-kyouikugakari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

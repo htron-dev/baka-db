@@ -1,5 +1,9 @@
 {
     "title": "Darker than Black: Kuro no Keiyakusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31140.jpg",
+        "alt": "darker-than-black-kuro-no-keiyakusha"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

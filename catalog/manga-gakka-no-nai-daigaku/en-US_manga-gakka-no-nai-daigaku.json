@@ -1,5 +1,9 @@
 {
     "title": "Manga Gakka no Nai Daigaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/214812.jpg",
+        "alt": "manga-gakka-no-nai-daigaku"
+    },
     "type": "manga",
     "original_name": "漫画学科のない大学",
     "start_date": "2016-06-13",

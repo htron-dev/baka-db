@@ -1,5 +1,9 @@
 {
     "title": "Garasu no Yami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18429.jpg",
+        "alt": "garasu-no-yami"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ガラスの闇",

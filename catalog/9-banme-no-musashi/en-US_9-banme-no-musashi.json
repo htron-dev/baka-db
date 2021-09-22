@@ -1,5 +1,9 @@
 {
     "title": "9-banme no Musashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147771.jpg",
+        "alt": "9-banme-no-musashi"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "108",

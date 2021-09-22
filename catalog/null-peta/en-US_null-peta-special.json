@@ -1,5 +1,9 @@
 {
     "title": "Null Peta Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1366/105028.jpg",
+        "alt": "null-peta-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ぬるぺた",

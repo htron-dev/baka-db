@@ -1,5 +1,9 @@
 {
     "title": "Teiou no Kyouai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167545.jpg",
+        "alt": "teiou-no-kyouai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "帝王の狂愛",

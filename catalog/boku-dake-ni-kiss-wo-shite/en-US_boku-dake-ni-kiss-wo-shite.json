@@ -1,5 +1,9 @@
 {
     "title": "Boku dake ni Kiss wo Shite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82070.jpg",
+        "alt": "boku-dake-ni-kiss-wo-shite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

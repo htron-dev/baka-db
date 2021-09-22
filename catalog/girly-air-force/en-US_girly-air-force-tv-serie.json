@@ -1,5 +1,9 @@
 {
     "title": "Girly Air Force",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1046/97025.jpg",
+        "alt": "girly-air-force"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ガーリー・エアフォース",

@@ -1,12 +1,16 @@
 {
     "title": "Rikujou Bouei-tai Mao-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75213.jpg",
+        "alt": "rikujou-bouei-tai-mao-chan"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "陸上防衛隊まおちゃん",
     "start_date": "2002-07-04",
     "end_date": "2002-07-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"ALL MY LOVE\" by Yui Horie",
+    "ending_song": "#1: \"It's my style\" by Yui Horie",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Ichigo Ichie: Koibana Tomobana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/4864.jpg",
+        "alt": "ichigo-ichie-koibana-tomobana"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "一期一会 恋バナ友バナ",

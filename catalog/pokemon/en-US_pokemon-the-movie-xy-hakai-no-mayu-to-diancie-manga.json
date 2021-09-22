@@ -1,5 +1,9 @@
 {
     "title": "Pokémon the Movie XY: Hakai no Mayu to Diancie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155108.jpg",
+        "alt": "pokemon-the-movie-xy-hakai-no-mayu-to-diancie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

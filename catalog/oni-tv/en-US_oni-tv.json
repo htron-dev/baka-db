@@ -1,5 +1,9 @@
 {
     "title": "Oni (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1983/99635.jpg",
+        "alt": "oni-tv"
+    },
     "type": "tv-serie",
     "original_name": "鬼",
     "rating": "G - All Ages",

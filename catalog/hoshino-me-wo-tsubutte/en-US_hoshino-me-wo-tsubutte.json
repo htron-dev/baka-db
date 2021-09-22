@@ -1,5 +1,9 @@
 {
     "title": "Hoshino, Me wo Tsubutte.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188902.jpg",
+        "alt": "hoshino-me-wo-tsubutte"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "107",

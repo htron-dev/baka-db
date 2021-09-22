@@ -1,5 +1,9 @@
 {
     "title": "Setsunaku Yasashiku Koi wo shite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153390.jpg",
+        "alt": "setsunaku-yasashiku-koi-wo-shite"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "せつなく優しく恋をして",

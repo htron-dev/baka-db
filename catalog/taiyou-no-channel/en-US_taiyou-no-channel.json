@@ -1,5 +1,9 @@
 {
     "title": "Taiyou no Channel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171779.jpg",
+        "alt": "taiyou-no-channel"
+    },
     "type": "light-novel",
     "original_name": "太陽のチャンネル",
     "start_date": "2014-12-02",

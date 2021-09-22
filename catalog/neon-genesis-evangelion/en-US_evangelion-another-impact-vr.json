@@ -1,8 +1,12 @@
 {
     "title": "Evangelion: Another Impact (VR)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1351/93244.jpg",
+        "alt": "evangelion-another-impact-vr"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "evangelion",
+    "original_name": "evangelion : Another Impact（VR）",
     "start_date": "2018-07-02",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

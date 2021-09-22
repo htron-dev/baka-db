@@ -1,5 +1,9 @@
 {
     "title": "Alichino",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126253.jpg",
+        "alt": "alichino"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

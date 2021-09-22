@@ -1,5 +1,9 @@
 {
     "title": "Una Volta Monogatari Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157376.jpg",
+        "alt": "una-volta-monogatari-series"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "ウナ・ヴォルタ物語シリーズ",

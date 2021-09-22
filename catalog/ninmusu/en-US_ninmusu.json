@@ -1,5 +1,9 @@
 {
     "title": "Ninmusu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36162.jpg",
+        "alt": "ninmusu"
+    },
     "type": "manga",
     "original_name": "NIN むすっ!",
     "start_date": "2009-11-18",

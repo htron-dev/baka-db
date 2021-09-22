@@ -1,5 +1,9 @@
 {
     "title": "Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/45765.jpg",
+        "alt": "z"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

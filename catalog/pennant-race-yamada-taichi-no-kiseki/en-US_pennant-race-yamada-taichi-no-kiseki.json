@@ -1,5 +1,9 @@
 {
     "title": "Pennant Race: Yamada Taichi no Kiseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211259.jpg",
+        "alt": "pennant-race-yamada-taichi-no-kiseki"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "127",

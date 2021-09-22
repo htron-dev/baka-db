@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Uroko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231722.jpg",
+        "alt": "kamisama-no-uroko"
+    },
     "type": "manga",
     "original_name": "神様のウロコ",
     "start_date": "2016-09-30",

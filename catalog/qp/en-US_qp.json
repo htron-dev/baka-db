@@ -1,5 +1,9 @@
 {
     "title": "QP",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28344.jpg",
+        "alt": "qp"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "キューピー",

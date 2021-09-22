@@ -1,5 +1,9 @@
 {
     "title": "Spirit Migration",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196182.jpg",
+        "alt": "spirit-migration"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

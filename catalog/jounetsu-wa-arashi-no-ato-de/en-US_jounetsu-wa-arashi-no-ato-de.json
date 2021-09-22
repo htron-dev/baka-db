@@ -1,5 +1,9 @@
 {
     "title": "Jounetsu wa Arashi no Ato de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72531.jpg",
+        "alt": "jounetsu-wa-arashi-no-ato-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

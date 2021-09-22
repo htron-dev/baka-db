@@ -1,5 +1,9 @@
 {
     "title": "Misshitsu no Toriko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7689.jpg",
+        "alt": "misshitsu-no-toriko"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

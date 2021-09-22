@@ -1,5 +1,9 @@
 {
     "title": "Blassreiter Judgment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160120.jpg",
+        "alt": "blassreiter-judgment"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "24",

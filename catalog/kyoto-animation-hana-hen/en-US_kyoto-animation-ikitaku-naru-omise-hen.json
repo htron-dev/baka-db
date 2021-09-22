@@ -1,5 +1,9 @@
 {
     "title": "Kyoto Animation: Ikitaku Naru Omise-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/69215.jpg",
+        "alt": "kyoto-animation-ikitaku-naru-omise-hen"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "京都アニメーション CM「行きたくなるお店編」",

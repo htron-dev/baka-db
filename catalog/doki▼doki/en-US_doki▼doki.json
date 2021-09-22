@@ -1,5 +1,9 @@
 {
     "title": "DOKI▼DOKI",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14989.jpg",
+        "alt": "doki▼doki"
+    },
     "type": "manga",
     "volumes": "10",
     "tags": [

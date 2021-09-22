@@ -1,5 +1,9 @@
 {
     "title": "Eien no Nohara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161759.jpg",
+        "alt": "eien-no-nohara"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "45",

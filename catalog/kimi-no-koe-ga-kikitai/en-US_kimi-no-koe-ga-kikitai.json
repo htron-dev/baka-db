@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Koe ga Kikitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16747.jpg",
+        "alt": "kimi-no-koe-ga-kikitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

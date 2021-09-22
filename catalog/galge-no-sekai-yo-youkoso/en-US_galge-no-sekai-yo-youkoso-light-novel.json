@@ -1,5 +1,9 @@
 {
     "title": "Galge no Sekai yo, Youkoso!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124623.jpg",
+        "alt": "galge-no-sekai-yo-youkoso"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "86",

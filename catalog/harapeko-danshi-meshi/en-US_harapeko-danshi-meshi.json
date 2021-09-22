@@ -1,5 +1,9 @@
 {
     "title": "Harapeko Danshi Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222351.jpg",
+        "alt": "harapeko-danshi-meshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

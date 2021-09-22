@@ -1,5 +1,9 @@
 {
     "title": "Zanbara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21413.jpg",
+        "alt": "zanbara"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

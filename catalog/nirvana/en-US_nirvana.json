@@ -1,5 +1,9 @@
 {
     "title": "Nirvana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196175.jpg",
+        "alt": "nirvana"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

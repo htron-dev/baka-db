@@ -1,5 +1,9 @@
 {
     "title": "Inukai x Tribe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161403.jpg",
+        "alt": "inukai-x-tribe"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

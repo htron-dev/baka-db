@@ -1,5 +1,9 @@
 {
     "title": "Natsume Arata no Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235353.jpg",
+        "alt": "natsume-arata-no-kekkon"
+    },
     "type": "manga",
     "original_name": "夏目アラタの結婚",
     "start_date": "2019-06-28",

@@ -1,5 +1,9 @@
 {
     "title": "Otodama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168428.jpg",
+        "alt": "otodama"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "オトダマ ―音霊―",

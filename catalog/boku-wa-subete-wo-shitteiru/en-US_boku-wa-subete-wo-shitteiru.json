@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Subete wo Shitteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22977.jpg",
+        "alt": "boku-wa-subete-wo-shitteiru"
+    },
     "type": "manga",
     "original_name": "僕はすべてを知っている",
     "start_date": "2006-11-22",

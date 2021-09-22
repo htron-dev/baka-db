@@ -1,5 +1,9 @@
 {
     "title": "Nani Shite n no Kamisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170747.jpg",
+        "alt": "nani-shite-n-no-kamisama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

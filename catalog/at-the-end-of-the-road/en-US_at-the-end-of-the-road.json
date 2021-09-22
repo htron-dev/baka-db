@@ -1,5 +1,9 @@
 {
     "title": "At the End of the Road",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220862.jpg",
+        "alt": "at-the-end-of-the-road"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "26",

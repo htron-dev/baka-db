@@ -1,5 +1,9 @@
 {
     "title": "Binetsu Onsen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23278.jpg",
+        "alt": "binetsu-onsen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

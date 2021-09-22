@@ -1,12 +1,16 @@
 {
     "title": "Flip Flappers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/82292.jpg",
+        "alt": "flip-flappers"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "フリップフラッパーズ",
     "start_date": "2016-10-06",
     "end_date": "2016-10-06",
     "opening_song": "\"Serendipity\" by ZAQ",
-    "ending_song": "#1",
+    "ending_song": "#1: \"FLIP FLAP FLIP FLAP\" by TO-MAS feat.Chima (eps 1-10, 12-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

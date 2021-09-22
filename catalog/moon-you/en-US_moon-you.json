@@ -1,5 +1,9 @@
 {
     "title": "Moon You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227133.jpg",
+        "alt": "moon-you"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "68",

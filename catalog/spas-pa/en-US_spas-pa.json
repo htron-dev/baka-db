@@ -1,5 +1,9 @@
 {
     "title": "Spas-Pa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/37674.jpg",
+        "alt": "spas-pa"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "32",

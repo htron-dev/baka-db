@@ -1,5 +1,9 @@
 {
     "title": "Mamarian Puru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32144.jpg",
+        "alt": "mamarian-puru"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

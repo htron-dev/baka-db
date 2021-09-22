@@ -1,12 +1,16 @@
 {
     "title": "World Witches Hasshin Shimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1132/110412.jpg",
+        "alt": "world-witches-hasshin-shimasu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ワールドウィッチーズ発進しますっ！",
     "start_date": "2021-01-13",
     "end_date": "2021-01-13",
     "opening_song": "\"Wanna Fly?\" by Yoko Ishida (石田燿子)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Colorful Everyday (カラフルエブリデイ)\" by Dai 501 Sougou Sentou Kuukoudan (第 501 統合戦闘航空団)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "military",

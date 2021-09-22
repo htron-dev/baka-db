@@ -1,5 +1,9 @@
 {
     "title": "Madonna wa Glass Case no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161185.jpg",
+        "alt": "madonna-wa-glass-case-no-naka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

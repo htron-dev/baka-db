@@ -1,5 +1,9 @@
 {
     "title": "Beast 9",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/94797.jpg",
+        "alt": "beast-9"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "34",

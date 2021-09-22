@@ -1,5 +1,9 @@
 {
     "title": "Tensei shitemo Shachiku Datta Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221903.jpg",
+        "alt": "tensei-shitemo-shachiku-datta-ken"
+    },
     "type": "manga",
     "original_name": "転生しても社畜だった件",
     "start_date": "2018-09-26",

@@ -1,5 +1,9 @@
 {
     "title": "Kizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33213.jpg",
+        "alt": "kizu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "傷口",

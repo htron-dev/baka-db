@@ -1,5 +1,9 @@
 {
     "title": "Gunpuku no Katsuai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185851.jpg",
+        "alt": "gunpuku-no-katsuai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

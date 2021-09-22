@@ -1,12 +1,16 @@
 {
     "title": "Odd Taxi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1981/113348.jpg",
+        "alt": "odd-taxi"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "オッドタクシー",
     "start_date": "2021-04-06",
     "end_date": "2021-04-06",
     "opening_song": "\"ODDTAXI\" by Skirt and PUNPEE",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sugarless Kiss (シュガーレス・キッス)\" by Suzuko Mimori (三森すずこ) (eps 1-5)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mystery"

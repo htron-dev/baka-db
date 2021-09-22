@@ -1,5 +1,9 @@
 {
     "title": "Houkago, Kimi to Koi wo Shite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/88845.jpg",
+        "alt": "houkago-kimi-to-koi-wo-shite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

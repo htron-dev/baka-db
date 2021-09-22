@@ -1,5 +1,9 @@
 {
     "title": "Rasen no Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161367.jpg",
+        "alt": "rasen-no-princess"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

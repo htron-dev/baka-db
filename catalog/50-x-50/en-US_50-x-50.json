@@ -1,5 +1,9 @@
 {
     "title": "50 x 50",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/34181.jpg",
+        "alt": "50-x-50"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

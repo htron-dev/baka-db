@@ -1,5 +1,9 @@
 {
     "title": "Crown Princess Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113537.jpg",
+        "alt": "crown-princess-project"
+    },
     "type": "manhwa",
     "original_name": "세자빈 프로젝트",
     "tags": [

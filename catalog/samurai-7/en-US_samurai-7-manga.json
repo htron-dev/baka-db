@@ -1,5 +1,9 @@
 {
     "title": "Samurai 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13709.jpg",
+        "alt": "samurai-7"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

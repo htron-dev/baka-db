@@ -1,9 +1,13 @@
 {
     "title": "K Side:Red",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82952.jpg",
+        "alt": "k-side-red"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",
-    "original_name": "K SIDE",
+    "original_name": "K SIDE:RED",
     "start_date": "2012-11-16",
     "tags": [
         "supernatural"

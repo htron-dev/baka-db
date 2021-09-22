@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Sabaku: Talsha Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12947.jpg",
+        "alt": "hoshi-no-sabaku-talsha-night"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

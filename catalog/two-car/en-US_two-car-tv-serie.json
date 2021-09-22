@@ -1,12 +1,16 @@
 {
     "title": "Two Car",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/88291.jpg",
+        "alt": "two-car"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "つうかあ",
     "start_date": "2017-10-08",
     "end_date": "2017-10-08",
     "opening_song": "\"Heart to Heart\" by Sphere",
-    "ending_song": "\"Angelica Wind\" Void_Chords feat. Yuri Miyata (CV",
+    "ending_song": "\"Angelica Wind\" Void_Chords feat. Yuri Miyata (CV: Aoi Koga) & Megumi Meguro (CV: Aimi Tanaka)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sports"

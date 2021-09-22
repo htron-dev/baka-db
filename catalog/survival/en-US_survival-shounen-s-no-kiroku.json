@@ -1,5 +1,9 @@
 {
     "title": "Survival: Shounen S no Kiroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171356.jpg",
+        "alt": "survival-shounen-s-no-kiroku"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "96",

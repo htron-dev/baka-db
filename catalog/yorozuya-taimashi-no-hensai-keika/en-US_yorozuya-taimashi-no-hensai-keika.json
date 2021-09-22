@@ -1,5 +1,9 @@
 {
     "title": "Yorozuya Taimashi no Hensai Keika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161097.jpg",
+        "alt": "yorozuya-taimashi-no-hensai-keika"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

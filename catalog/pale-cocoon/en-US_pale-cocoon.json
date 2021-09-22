@@ -1,5 +1,9 @@
 {
     "title": "Pale Cocoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/3211.jpg",
+        "alt": "pale-cocoon"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ペイル・コクーン",

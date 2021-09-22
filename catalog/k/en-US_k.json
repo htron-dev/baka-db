@@ -1,5 +1,9 @@
 {
     "title": "K",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230665.jpg",
+        "alt": "k"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

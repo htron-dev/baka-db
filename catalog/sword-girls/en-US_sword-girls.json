@@ -1,5 +1,9 @@
 {
     "title": "Sword Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/104847.jpg",
+        "alt": "sword-girls"
+    },
     "type": "manhwa",
     "original_name": "소드걸스",
     "start_date": "2012-11-01",

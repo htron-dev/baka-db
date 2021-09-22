@@ -1,5 +1,9 @@
 {
     "title": "Gohan Shiyo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/110961.jpg",
+        "alt": "gohan-shiyo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

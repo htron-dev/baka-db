@@ -1,5 +1,9 @@
 {
     "title": "Circuit no Ookami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178751.jpg",
+        "alt": "circuit-no-ookami"
+    },
     "type": "manga",
     "volumes": "27",
     "original_name": "サーキットの狼",

@@ -1,5 +1,9 @@
 {
     "title": "Maboroshi Panty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159913.jpg",
+        "alt": "maboroshi-panty"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

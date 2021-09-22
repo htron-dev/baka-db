@@ -1,5 +1,9 @@
 {
     "title": "Murder Incarnation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115683.jpg",
+        "alt": "murder-incarnation"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

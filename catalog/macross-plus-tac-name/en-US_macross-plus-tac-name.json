@@ -1,5 +1,9 @@
 {
     "title": "Macross Plus: TAC Name",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/104849.jpg",
+        "alt": "macross-plus-tac-name"
+    },
     "type": "manga",
     "original_name": "マクロスプラス‐タックネーム‐",
     "start_date": "2012-02-10",

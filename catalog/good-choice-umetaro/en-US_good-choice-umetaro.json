@@ -1,5 +1,9 @@
 {
     "title": "Good Choice Umetaro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6951.jpg",
+        "alt": "good-choice-umetaro"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "54",

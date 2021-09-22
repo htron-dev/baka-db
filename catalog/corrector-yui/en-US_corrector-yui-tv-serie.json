@@ -1,12 +1,16 @@
 {
     "title": "Corrector Yui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1696/105659.jpg",
+        "alt": "corrector-yui"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "コレクター・ユイ",
     "start_date": "1999-04-09",
     "end_date": "1999-04-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Eien to Iu Basho (永遠という場所)\" by Kyouko with Masayoshi Yamazaki & Sugashiko (eps 01-26)",
+    "ending_song": "#1: \"Mirai (未来; Future)\" by LEGOLGEL",
     "rating": "PG - Children",
     "tags": [
         "sci-fi",

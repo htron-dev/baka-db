@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Furi-san ga Tonikaku Kowai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220222.jpg",
+        "alt": "tonari-no-furi-san-ga-tonikaku-kowai"
+    },
     "type": "manga",
     "original_name": "となりの布里さんがとにかくコワい。",
     "start_date": "2018-11-22",

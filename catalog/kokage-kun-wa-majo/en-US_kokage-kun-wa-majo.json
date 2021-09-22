@@ -1,5 +1,9 @@
 {
     "title": "Kokage-kun wa Majo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184309.jpg",
+        "alt": "kokage-kun-wa-majo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

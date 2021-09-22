@@ -1,5 +1,9 @@
 {
     "title": "Kantai Collection: KanColle nano desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125065.jpg",
+        "alt": "kantai-collection-kan-colle-nano-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

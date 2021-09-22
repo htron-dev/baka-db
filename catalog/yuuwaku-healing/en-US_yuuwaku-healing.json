@@ -1,5 +1,9 @@
 {
     "title": "Yuuwaku Healing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126727.jpg",
+        "alt": "yuuwaku-healing"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "誘惑ヒーリング",

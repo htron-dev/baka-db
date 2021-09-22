@@ -1,5 +1,9 @@
 {
     "title": "Kanojo wa Uso wo Aishisugiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161523.jpg",
+        "alt": "kanojo-wa-uso-wo-aishisugiteru"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "94",

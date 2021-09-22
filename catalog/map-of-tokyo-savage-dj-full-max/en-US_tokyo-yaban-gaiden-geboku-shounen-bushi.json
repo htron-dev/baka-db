@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Yaban Gaiden - Geboku Shounen Bushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192.jpg",
+        "alt": "tokyo-yaban-gaiden-geboku-shounen-bushi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "26",

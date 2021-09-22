@@ -1,5 +1,9 @@
 {
     "title": "Yurikan Feuille",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81522.jpg",
+        "alt": "yurikan-feuille"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

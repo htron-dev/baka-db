@@ -1,5 +1,9 @@
 {
     "title": "Shin Megami Tensei: Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126657.jpg",
+        "alt": "shin-megami-tensei-eden"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "真・女神転生 EDEN",

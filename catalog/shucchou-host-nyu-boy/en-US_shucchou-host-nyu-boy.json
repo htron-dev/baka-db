@@ -1,5 +1,9 @@
 {
     "title": "Shucchou Host Nyu Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228596.jpg",
+        "alt": "shucchou-host-nyu-boy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Hima nanode Hajimete Mimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/87319.jpg",
+        "alt": "hima-nanode-hajimete-mimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

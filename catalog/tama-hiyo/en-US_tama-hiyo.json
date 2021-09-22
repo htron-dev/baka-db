@@ -1,5 +1,9 @@
 {
     "title": "Tama Hiyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112291.jpg",
+        "alt": "tama-hiyo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

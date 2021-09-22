@@ -1,5 +1,9 @@
 {
     "title": "Amaterasu wa Kakukatariki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194744.jpg",
+        "alt": "amaterasu-wa-kakukatariki"
+    },
     "type": "light-novel",
     "original_name": "幼い女神〈アマテラス〉はかく語りき",
     "start_date": "2017-05-02",

@@ -1,5 +1,9 @@
 {
     "title": "Juliet no Junai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227489.jpg",
+        "alt": "juliet-no-junai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ジュリエットの純愛",

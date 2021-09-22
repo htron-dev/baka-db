@@ -1,5 +1,9 @@
 {
     "title": "500-nenme no Marion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205446.jpg",
+        "alt": "500-nenme-no-marion"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

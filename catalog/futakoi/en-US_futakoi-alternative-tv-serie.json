@@ -1,5 +1,9 @@
 {
     "title": "Futakoi Alternative",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/16733.jpg",
+        "alt": "futakoi-alternative"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "フタコイ オルタナティブ",

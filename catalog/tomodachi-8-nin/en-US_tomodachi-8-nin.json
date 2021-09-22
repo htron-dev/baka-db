@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi 8-nin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/72123.jpg",
+        "alt": "tomodachi-8-nin"
+    },
     "type": "tv-serie",
     "episodes": "398",
     "original_name": "ともだち 8 にん",

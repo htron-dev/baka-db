@@ -1,5 +1,9 @@
 {
     "title": "NeuN",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200227.jpg",
+        "alt": "neu-n"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "49",

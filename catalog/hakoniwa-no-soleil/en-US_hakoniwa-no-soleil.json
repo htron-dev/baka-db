@@ -1,5 +1,9 @@
 {
     "title": "Hakoniwa no Soleil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180423.jpg",
+        "alt": "hakoniwa-no-soleil"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Joli, e Chevalier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16414.jpg",
+        "alt": "joli-e-chevalier"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

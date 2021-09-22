@@ -1,5 +1,9 @@
 {
     "title": "Kanokon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/9490.jpg",
+        "alt": "kanokon"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "かのこん",

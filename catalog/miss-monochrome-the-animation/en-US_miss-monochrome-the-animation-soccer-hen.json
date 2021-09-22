@@ -1,10 +1,14 @@
 {
     "title": "Miss Monochrome The Animation: Soccer-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/63625.jpg",
+        "alt": "miss-monochrome-the-animation-soccer-hen"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "「ミス・モノクローム -The Animation-」OVA サッカー篇",
     "start_date": "2014-06-17",
-    "ending_song": "\"Poker Face (ポーカーフェイス)\" by Miss Monochrome (CV",
+    "ending_song": "\"Poker Face (ポーカーフェイス)\" by Miss Monochrome (CV: Yui Horie)",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

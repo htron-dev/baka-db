@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Salome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237064.jpg",
+        "alt": "houkago-no-salome"
+    },
     "type": "manga",
     "original_name": "放課後のサロメ",
     "start_date": "2020-03-25",

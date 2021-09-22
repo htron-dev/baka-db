@@ -1,5 +1,9 @@
 {
     "title": "Biyaku nante Baka ja Nai no!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169787.jpg",
+        "alt": "biyaku-nante-baka-ja-nai-no"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "媚薬なんてバカじゃないの！",

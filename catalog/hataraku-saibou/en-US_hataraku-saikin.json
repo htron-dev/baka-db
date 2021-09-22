@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Saikin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206559.jpg",
+        "alt": "hataraku-saikin"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "61",

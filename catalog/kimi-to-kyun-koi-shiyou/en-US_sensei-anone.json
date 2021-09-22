@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Anone.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85297.jpg",
+        "alt": "sensei-anone"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

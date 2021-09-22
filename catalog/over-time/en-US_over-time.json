@@ -1,5 +1,9 @@
 {
     "title": "Over Time",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169667.jpg",
+        "alt": "over-time"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

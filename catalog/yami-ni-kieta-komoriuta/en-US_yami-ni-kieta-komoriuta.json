@@ -1,5 +1,9 @@
 {
     "title": "Yami ni Kieta Komoriuta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44247.jpg",
+        "alt": "yami-ni-kieta-komoriuta"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "闇に消えた子守唄",

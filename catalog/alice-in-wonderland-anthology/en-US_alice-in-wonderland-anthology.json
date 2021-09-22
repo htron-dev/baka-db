@@ -1,5 +1,9 @@
 {
     "title": "Alice in Wonderland Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134969.jpg",
+        "alt": "alice-in-wonderland-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

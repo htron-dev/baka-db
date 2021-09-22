@@ -1,5 +1,9 @@
 {
     "title": "Hoshigari-chan no Kareshi-ka Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235385.jpg",
+        "alt": "hoshigari-chan-no-kareshi-ka-keikaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

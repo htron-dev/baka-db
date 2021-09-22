@@ -1,5 +1,9 @@
 {
     "title": "Virgin Lesson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3236.jpg",
+        "alt": "virgin-lesson"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

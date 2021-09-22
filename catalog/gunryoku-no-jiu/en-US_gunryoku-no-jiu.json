@@ -1,5 +1,9 @@
 {
     "title": "Gunryoku no Jiu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42446.jpg",
+        "alt": "gunryoku-no-jiu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

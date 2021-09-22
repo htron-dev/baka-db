@@ -1,5 +1,9 @@
 {
     "title": "Million Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208975.jpg",
+        "alt": "million-doll"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "80",

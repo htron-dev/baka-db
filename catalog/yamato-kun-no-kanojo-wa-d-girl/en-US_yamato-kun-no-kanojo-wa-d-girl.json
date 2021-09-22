@@ -1,5 +1,9 @@
 {
     "title": "Yamato-kun no Kanojo wa D Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178503.jpg",
+        "alt": "yamato-kun-no-kanojo-wa-d-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

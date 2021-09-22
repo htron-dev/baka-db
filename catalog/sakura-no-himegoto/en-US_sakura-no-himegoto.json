@@ -1,5 +1,9 @@
 {
     "title": "Sakura no Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/89001.jpg",
+        "alt": "sakura-no-himegoto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

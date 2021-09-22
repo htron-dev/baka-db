@@ -1,5 +1,9 @@
 {
     "title": "Calicula Machine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1069/98736.jpg",
+        "alt": "calicula-machine"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "カリキュラマシーン",

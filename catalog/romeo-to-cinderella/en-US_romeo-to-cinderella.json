@@ -1,5 +1,9 @@
 {
     "title": "Romeo to Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235384.jpg",
+        "alt": "romeo-to-cinderella"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

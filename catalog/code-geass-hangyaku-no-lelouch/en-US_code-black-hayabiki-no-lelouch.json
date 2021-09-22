@@ -1,5 +1,9 @@
 {
     "title": "Code Black: Hayabiki no Lelouch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/157459.jpg",
+        "alt": "code-black-hayabiki-no-lelouch"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

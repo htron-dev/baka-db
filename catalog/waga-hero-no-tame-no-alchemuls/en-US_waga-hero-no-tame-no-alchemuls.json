@@ -1,5 +1,9 @@
 {
     "title": "Waga Hero no Tame no Alchemuls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177913.jpg",
+        "alt": "waga-hero-no-tame-no-alchemuls"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "17",

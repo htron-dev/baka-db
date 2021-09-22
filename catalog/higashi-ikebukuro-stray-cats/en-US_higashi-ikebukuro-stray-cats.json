@@ -1,5 +1,9 @@
 {
     "title": "Higashi-Ikebukuro Stray Cats",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202959.jpg",
+        "alt": "higashi-ikebukuro-stray-cats"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Umi no Yami, Tsuki no Kage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/37269.jpg",
+        "alt": "umi-no-yami-tsuki-no-kage"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "海の闇、月の影",

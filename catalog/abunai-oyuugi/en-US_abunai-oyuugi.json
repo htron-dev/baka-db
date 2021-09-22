@@ -1,5 +1,9 @@
 {
     "title": "Abunai Oyuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/104435.jpg",
+        "alt": "abunai-oyuugi"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "アブナイお遊戯",

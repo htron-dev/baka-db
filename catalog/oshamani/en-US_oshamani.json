@@ -1,5 +1,9 @@
 {
     "title": "Oshamani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1745/98867.jpg",
+        "alt": "oshamani"
+    },
     "type": "ona",
     "original_name": "おしゃマニ",
     "start_date": "2019-02-05",

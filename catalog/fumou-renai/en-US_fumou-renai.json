@@ -1,5 +1,9 @@
 {
     "title": "Fumou Renai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239639.jpg",
+        "alt": "fumou-renai"
+    },
     "type": "manga",
     "original_name": "不毛恋愛",
     "start_date": "2020-01-31",

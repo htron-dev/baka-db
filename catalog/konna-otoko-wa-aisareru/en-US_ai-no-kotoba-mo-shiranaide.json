@@ -1,5 +1,9 @@
 {
     "title": "Ai no Kotoba mo Shiranaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10326.jpg",
+        "alt": "ai-no-kotoba-mo-shiranaide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

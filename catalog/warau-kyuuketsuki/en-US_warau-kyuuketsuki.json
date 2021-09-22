@@ -1,5 +1,9 @@
 {
     "title": "Warau Kyuuketsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30933.jpg",
+        "alt": "warau-kyuuketsuki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Never Good Enough",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228764.jpg",
+        "alt": "never-good-enough"
+    },
     "type": "manga",
     "original_name": "NEVER GOOD ENOUGH",
     "start_date": "2019-05-28",

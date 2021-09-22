@@ -1,5 +1,9 @@
 {
     "title": "Angel Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11126.jpg",
+        "alt": "angel-diary"
+    },
     "type": "manhwa",
     "volumes": "13",
     "chapters": "60",

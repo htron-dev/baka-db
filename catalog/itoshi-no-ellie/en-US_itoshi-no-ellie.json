@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Ellie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62715.jpg",
+        "alt": "itoshi-no-ellie"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "200",

@@ -1,5 +1,9 @@
 {
     "title": "Hanarenaideite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228961.jpg",
+        "alt": "hanarenaideite"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "離れないでいて",

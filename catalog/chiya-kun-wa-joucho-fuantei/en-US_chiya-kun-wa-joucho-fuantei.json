@@ -1,5 +1,9 @@
 {
     "title": "Chiya-kun wa Joucho Fuantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239221.jpg",
+        "alt": "chiya-kun-wa-joucho-fuantei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

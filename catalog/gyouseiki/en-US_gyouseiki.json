@@ -1,5 +1,9 @@
 {
     "title": "Gyouseiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76715.jpg",
+        "alt": "gyouseiki"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "暁星記",

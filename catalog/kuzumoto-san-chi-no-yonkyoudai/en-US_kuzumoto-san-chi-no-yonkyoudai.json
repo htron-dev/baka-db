@@ -1,5 +1,9 @@
 {
     "title": "Kuzumoto-san Chi no Yonkyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21273.jpg",
+        "alt": "kuzumoto-san-chi-no-yonkyoudai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

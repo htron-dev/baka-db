@@ -1,5 +1,9 @@
 {
     "title": "Sisfina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166941.jpg",
+        "alt": "sisfina"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Hitokui Dungeon e Youkoso! The Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217357.jpg",
+        "alt": "hitokui-dungeon-e-youkoso-the-comic"
+    },
     "type": "manga",
     "original_name": "人食いダンジョンへようこそ！ THE COMIC",
     "start_date": "2017-05-09",

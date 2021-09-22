@@ -1,12 +1,16 @@
 {
     "title": "Assault Lily: Bouquet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
+        "alt": "assault-lily-bouquet"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アサルトリリィ Bouquet",
     "start_date": "2020-10-02",
     "end_date": "2020-10-02",
     "opening_song": "\"Sacred world\" by RAISE A SUILEN",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Edel Lilie\" by Hitotsuyanagi Team (一柳隊) (eps 1-4, 6-7, 10-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

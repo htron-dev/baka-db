@@ -1,5 +1,9 @@
 {
     "title": "Apothecarius Argentum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5234.jpg",
+        "alt": "apothecarius-argentum"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "44",

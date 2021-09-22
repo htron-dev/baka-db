@@ -1,5 +1,9 @@
 {
     "title": "Silent Eye",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24679.jpg",
+        "alt": "silent-eye"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "サイレントアイ",

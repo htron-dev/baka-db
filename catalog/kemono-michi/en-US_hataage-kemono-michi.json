@@ -1,5 +1,9 @@
 {
     "title": "Hataage! Kemono Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1736/103512.jpg",
+        "alt": "hataage-kemono-michi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "旗揚! けものみち",

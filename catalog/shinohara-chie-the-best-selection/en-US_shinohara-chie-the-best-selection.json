@@ -1,5 +1,9 @@
 {
     "title": "Shinohara Chie The Best Selection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22448.jpg",
+        "alt": "shinohara-chie-the-best-selection"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

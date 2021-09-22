@@ -1,5 +1,9 @@
 {
     "title": "Trusty Bell: Chopin no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17535.jpg",
+        "alt": "trusty-bell-chopin-no-yume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Sora Log",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/52639.jpg",
+        "alt": "sora-log"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Fraction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/154940.jpg",
+        "alt": "fraction"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

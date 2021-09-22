@@ -1,5 +1,9 @@
 {
     "title": "The Ring",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13104.jpg",
+        "alt": "the-ring"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

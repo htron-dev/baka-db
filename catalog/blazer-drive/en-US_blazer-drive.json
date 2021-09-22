@@ -1,5 +1,9 @@
 {
     "title": "Blazer Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/15171.jpg",
+        "alt": "blazer-drive"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "35",

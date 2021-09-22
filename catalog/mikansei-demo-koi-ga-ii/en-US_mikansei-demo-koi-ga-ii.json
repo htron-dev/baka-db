@@ -1,5 +1,9 @@
 {
     "title": "Mikansei demo Koi ga Ii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235685.jpg",
+        "alt": "mikansei-demo-koi-ga-ii"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Kamiyadori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/56049.jpg",
+        "alt": "kamiyadori"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

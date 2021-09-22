@@ -1,5 +1,9 @@
 {
     "title": "Perfect Fit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239307.jpg",
+        "alt": "perfect-fit"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

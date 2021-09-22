@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni Kai: Matsuribayashi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/16838.jpg",
+        "alt": "higurashi-no-naku-koro-ni-kai-matsuribayashi-hen"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "35",

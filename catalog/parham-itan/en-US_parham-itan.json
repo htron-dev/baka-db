@@ -1,5 +1,9 @@
 {
     "title": "Parham Itan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210289.jpg",
+        "alt": "parham-itan"
+    },
     "type": "manga",
     "original_name": "彼岸〈パーラム〉異譚",
     "start_date": "2017-10-15",

@@ -1,10 +1,14 @@
 {
     "title": "Ginga Tetsudou 999: Eternal Fantasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/6083.jpg",
+        "alt": "ginga-tetsudou-999-eternal-fantasy"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "銀河鉄道９９９ エターナルファンタジー",
     "start_date": "1998-03-07",
-    "ending_song": "\"Brave Love",
+    "ending_song": "\"Brave Love: Galaxy Express 999\" by The Alfee",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

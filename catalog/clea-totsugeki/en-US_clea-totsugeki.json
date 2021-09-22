@@ -1,5 +1,9 @@
 {
     "title": "Clea Totsugeki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36879.jpg",
+        "alt": "clea-totsugeki"
+    },
     "type": "manga",
     "original_name": "クレア嫁撃！",
     "start_date": "2010-02-17",

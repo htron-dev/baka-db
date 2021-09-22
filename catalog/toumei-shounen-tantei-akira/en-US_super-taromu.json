@@ -1,5 +1,9 @@
 {
     "title": "Super Taromu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/72192.jpg",
+        "alt": "super-taromu"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "スーパータロム",

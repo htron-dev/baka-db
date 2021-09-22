@@ -1,5 +1,9 @@
 {
     "title": "En to Yukari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235888.jpg",
+        "alt": "en-to-yukari"
+    },
     "type": "manga",
     "original_name": "エンとゆかり",
     "start_date": "2018-11-19",

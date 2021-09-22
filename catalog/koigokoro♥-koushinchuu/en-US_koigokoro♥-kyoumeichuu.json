@@ -1,5 +1,9 @@
 {
     "title": "Koigokoro♥Kyoumeichuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39750.jpg",
+        "alt": "koigokoro♥-kyoumeichuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

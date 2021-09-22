@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Iru Basho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/106289.jpg",
+        "alt": "kimi-no-iru-basho"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Papillon: Hana to Chou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129871.jpg",
+        "alt": "papillon-hana-to-chou"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "40",

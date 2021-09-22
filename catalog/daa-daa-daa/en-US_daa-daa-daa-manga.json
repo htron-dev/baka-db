@@ -1,5 +1,9 @@
 {
     "title": "Daa! Daa! Daa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6832.jpg",
+        "alt": "daa-daa-daa"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "47",

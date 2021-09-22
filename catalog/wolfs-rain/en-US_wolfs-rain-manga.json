@@ -1,5 +1,9 @@
 {
     "title": "Wolf's Rain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181408.jpg",
+        "alt": "wolfs-rain"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

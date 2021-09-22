@@ -1,5 +1,9 @@
 {
     "title": "Yume Tsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118877.jpg",
+        "alt": "yume-tsukai"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "36",

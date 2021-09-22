@@ -1,5 +1,9 @@
 {
     "title": "Samayoeru Shinzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149846.jpg",
+        "alt": "samayoeru-shinzou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

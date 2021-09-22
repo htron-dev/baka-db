@@ -1,5 +1,9 @@
 {
     "title": "Jive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20778.jpg",
+        "alt": "jive"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

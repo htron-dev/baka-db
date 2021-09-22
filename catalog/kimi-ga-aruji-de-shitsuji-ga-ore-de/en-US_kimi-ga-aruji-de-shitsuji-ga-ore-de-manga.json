@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Aruji de Shitsuji ga Ore de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11101.jpg",
+        "alt": "kimi-ga-aruji-de-shitsuji-ga-ore-de"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

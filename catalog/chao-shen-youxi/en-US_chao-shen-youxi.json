@@ -1,5 +1,9 @@
 {
     "title": "Chao Shen Youxi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/81495.jpg",
+        "alt": "chao-shen-youxi"
+    },
     "type": "ona",
     "episodes": "25",
     "original_name": "超神游戏",

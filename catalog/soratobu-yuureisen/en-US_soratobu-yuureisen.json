@@ -1,5 +1,9 @@
 {
     "title": "Soratobu Yuureisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/15656.jpg",
+        "alt": "soratobu-yuureisen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "空飛ぶゆうれい船",

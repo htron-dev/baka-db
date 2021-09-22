@@ -1,5 +1,9 @@
 {
     "title": "Hato no Oyome-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/28949.jpg",
+        "alt": "hato-no-oyome-san"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "ハトのおよめさん",

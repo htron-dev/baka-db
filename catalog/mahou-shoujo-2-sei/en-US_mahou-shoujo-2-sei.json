@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo 2-sei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205873.jpg",
+        "alt": "mahou-shoujo-2-sei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

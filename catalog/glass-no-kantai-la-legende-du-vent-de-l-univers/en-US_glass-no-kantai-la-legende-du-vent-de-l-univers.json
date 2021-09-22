@@ -1,12 +1,16 @@
 {
     "title": "Glass no Kantai: La Legende du Vent de l'Univers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75835.jpg",
+        "alt": "glass-no-kantai-la-legende-du-vent-de-l-univers"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ガラスの艦隊～ La legende du vent de l'univers ～",
     "start_date": "2006-04-04",
     "end_date": "2006-04-04",
     "opening_song": "\"Tsuyoku Tsuyoku\" by mihimaru GT",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Namida Drop (ナミダドロップ)\" by Plastic Tree (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

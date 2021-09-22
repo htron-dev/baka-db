@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters BW-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/142905.jpg",
+        "alt": "pocket-monsters-bw-hen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "47",

@@ -1,5 +1,9 @@
 {
     "title": "Madan no Ou to Vanadis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203786.jpg",
+        "alt": "madan-no-ou-to-vanadis"
+    },
     "type": "light-novel",
     "volumes": "18",
     "chapters": "95",

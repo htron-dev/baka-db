@@ -1,5 +1,9 @@
 {
     "title": "Dagashuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235981.jpg",
+        "alt": "dagashuka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

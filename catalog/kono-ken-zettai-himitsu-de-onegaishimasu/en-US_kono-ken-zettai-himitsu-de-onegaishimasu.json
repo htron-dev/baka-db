@@ -1,5 +1,9 @@
 {
     "title": "Kono Ken, Zettai Himitsu de Onegaishimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225401.jpg",
+        "alt": "kono-ken-zettai-himitsu-de-onegaishimasu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

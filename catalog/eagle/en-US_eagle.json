@@ -1,5 +1,9 @@
 {
     "title": "Eagle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/96559.jpg",
+        "alt": "eagle"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "89",

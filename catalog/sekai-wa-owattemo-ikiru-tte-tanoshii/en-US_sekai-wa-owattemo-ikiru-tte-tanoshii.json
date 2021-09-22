@@ -1,5 +1,9 @@
 {
     "title": "Sekai wa Owattemo Ikiru tte Tanoshii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235114.jpg",
+        "alt": "sekai-wa-owattemo-ikiru-tte-tanoshii"
+    },
     "type": "manga",
     "original_name": "世界は終わっても生きるって楽しい",
     "start_date": "2020-02-14",

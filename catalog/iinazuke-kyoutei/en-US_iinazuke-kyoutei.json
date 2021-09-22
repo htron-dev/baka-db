@@ -1,5 +1,9 @@
 {
     "title": "Iinazuke Kyoutei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119945.jpg",
+        "alt": "iinazuke-kyoutei"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "57",

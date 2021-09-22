@@ -1,5 +1,9 @@
 {
     "title": "Sekaiichi Hatsukoi: Propose-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1896/102829.jpg",
+        "alt": "sekaiichi-hatsukoi-propose-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "世界一初恋~プロポーズ編~",

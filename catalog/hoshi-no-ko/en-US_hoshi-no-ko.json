@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155724.jpg",
+        "alt": "hoshi-no-ko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

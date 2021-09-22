@@ -1,5 +1,9 @@
 {
     "title": "Nokemono Shoujo Doumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203058.jpg",
+        "alt": "nokemono-shoujo-doumei"
+    },
     "type": "manga",
     "original_name": "のけもの少女同盟",
     "start_date": "2016-03-19",

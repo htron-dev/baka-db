@@ -1,5 +1,9 @@
 {
     "title": "Rojiura Daiikku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161629.jpg",
+        "alt": "rojiura-daiikku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

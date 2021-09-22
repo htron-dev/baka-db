@@ -1,5 +1,9 @@
 {
     "title": "Matantei Loki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14908.jpg",
+        "alt": "matantei-loki"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "34",

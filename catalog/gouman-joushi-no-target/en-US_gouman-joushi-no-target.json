@@ -1,5 +1,9 @@
 {
     "title": "Gouman Joushi no Target",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192872.jpg",
+        "alt": "gouman-joushi-no-target"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

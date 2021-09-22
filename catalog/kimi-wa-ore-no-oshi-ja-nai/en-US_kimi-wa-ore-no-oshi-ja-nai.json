@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Ore no Oshi ja Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230406.jpg",
+        "alt": "kimi-wa-ore-no-oshi-ja-nai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

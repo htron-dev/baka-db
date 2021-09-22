@@ -1,5 +1,9 @@
 {
     "title": "Ayamachi wa Shinshi no Tashinami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233264.jpg",
+        "alt": "ayamachi-wa-shinshi-no-tashinami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

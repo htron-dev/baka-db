@@ -1,5 +1,9 @@
 {
     "title": "Sensei Datte Otoshigoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32598.jpg",
+        "alt": "sensei-datte-otoshigoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

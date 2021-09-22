@@ -1,5 +1,9 @@
 {
     "title": "Coffee Milk Mythology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181950.jpg",
+        "alt": "coffee-milk-mythology"
+    },
     "type": "manhwa",
     "chapters": "117",
     "original_name": "커피우유신화",

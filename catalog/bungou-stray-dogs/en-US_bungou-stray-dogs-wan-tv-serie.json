@@ -1,11 +1,15 @@
 {
     "title": "Bungou Stray Dogs Wan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1293/111430.jpg",
+        "alt": "bungou-stray-dogs-wan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "文豪ストレイドッグス わん！",
     "start_date": "2021-01-13",
     "end_date": "2021-01-13",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Namae wo Yobu yo (名前を呼ぶよ)\" by Atsushi Nakajima (CV: Yuuto Uemura) (eps 1-10, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

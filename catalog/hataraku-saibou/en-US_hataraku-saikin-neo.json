@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Saikin Neo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243482.jpg",
+        "alt": "hataraku-saikin-neo"
+    },
     "type": "manga",
     "original_name": "はたらく細菌 Neo",
     "start_date": "2020-12-28",

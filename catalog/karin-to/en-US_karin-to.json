@@ -1,5 +1,9 @@
 {
     "title": "Karin to.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81542.jpg",
+        "alt": "karin-to"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "62",

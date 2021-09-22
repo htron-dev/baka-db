@@ -1,5 +1,9 @@
 {
     "title": "Hal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/46549.jpg",
+        "alt": "hal"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハル",

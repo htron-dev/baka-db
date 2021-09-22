@@ -1,5 +1,9 @@
 {
     "title": "Kasou Genjitsu Renairon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2411.jpg",
+        "alt": "kasou-genjitsu-renairon"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "仮想現実恋愛論",

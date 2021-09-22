@@ -1,5 +1,9 @@
 {
     "title": "Madouki to Armunaire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175039.jpg",
+        "alt": "madouki-to-armunaire"
+    },
     "type": "light-novel",
     "original_name": "魔導機人アルミュナーレ",
     "start_date": "2016-04-25",

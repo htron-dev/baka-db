@@ -1,5 +1,9 @@
 {
     "title": "Street Fighter: Sakura Ganbaru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12238.jpg",
+        "alt": "street-fighter-sakura-ganbaru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Yuuto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168485.jpg",
+        "alt": "yuuto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

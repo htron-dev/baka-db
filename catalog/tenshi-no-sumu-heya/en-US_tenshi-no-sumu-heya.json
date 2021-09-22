@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Sumu Heya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90987.jpg",
+        "alt": "tenshi-no-sumu-heya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

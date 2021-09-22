@@ -1,5 +1,9 @@
 {
     "title": "Bakune Young",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179531.jpg",
+        "alt": "bakune-young"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "30",

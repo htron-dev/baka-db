@@ -1,12 +1,16 @@
 {
     "title": "Negima!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/73997.jpg",
+        "alt": "negima"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ネギま!?",
     "start_date": "2006-10-04",
     "end_date": "2006-10-04",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"1000%SPARKING!\" by Rina Satou, Akemi Kanda, Ai Nonaka & Yu Kobayashi (eps 2-4,8-12,15-17,25)",
+    "ending_song": "#01: \"Hoshizora Letter\" by Akemi Kanda (eps 2-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

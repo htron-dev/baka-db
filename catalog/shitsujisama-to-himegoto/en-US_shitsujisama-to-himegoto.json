@@ -1,5 +1,9 @@
 {
     "title": "Shitsujisama to Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31041.jpg",
+        "alt": "shitsujisama-to-himegoto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Daisan no Teikoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45308.jpg",
+        "alt": "daisan-no-teikoku"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "第三の帝国",

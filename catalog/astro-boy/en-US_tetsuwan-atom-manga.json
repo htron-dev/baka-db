@@ -1,5 +1,9 @@
 {
     "title": "Tetsuwan Atom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186337.jpg",
+        "alt": "tetsuwan-atom"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "85",

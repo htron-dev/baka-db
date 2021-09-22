@@ -1,5 +1,9 @@
 {
     "title": "Ouroboros Record",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167518.jpg",
+        "alt": "ouroboros-record"
+    },
     "type": "light-novel",
     "original_name": "ウロボロス・レコード",
     "start_date": "2015-11-30",

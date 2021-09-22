@@ -1,5 +1,9 @@
 {
     "title": "Nana to Lili",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131643.jpg",
+        "alt": "nana-to-lili"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ナナとリリ",

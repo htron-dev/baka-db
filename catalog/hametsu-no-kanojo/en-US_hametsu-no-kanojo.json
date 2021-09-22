@@ -1,5 +1,9 @@
 {
     "title": "Hametsu no Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241241.jpg",
+        "alt": "hametsu-no-kanojo"
+    },
     "type": "manga",
     "original_name": "破滅のカノジョ",
     "start_date": "2021-01-22",

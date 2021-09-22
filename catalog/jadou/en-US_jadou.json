@@ -1,5 +1,9 @@
 {
     "title": "Jadou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229439.jpg",
+        "alt": "jadou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

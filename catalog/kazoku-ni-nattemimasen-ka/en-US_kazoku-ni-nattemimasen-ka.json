@@ -1,5 +1,9 @@
 {
     "title": "Kazoku ni Nattemimasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239122.jpg",
+        "alt": "kazoku-ni-nattemimasen-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kaiketsu Zorro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/10294.jpg",
+        "alt": "kaiketsu-zorro"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "快傑ゾロ",

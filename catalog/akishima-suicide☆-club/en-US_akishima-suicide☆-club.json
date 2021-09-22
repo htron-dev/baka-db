@@ -1,5 +1,9 @@
 {
     "title": "Akishima Suicide☆Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199444.jpg",
+        "alt": "akishima-suicide☆-club"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

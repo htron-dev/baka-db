@@ -1,5 +1,9 @@
 {
     "title": "The Gregory Gallery Tour Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1473/110701.jpg",
+        "alt": "the-gregory-gallery-tour-special"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "グレゴリーホラーショー",

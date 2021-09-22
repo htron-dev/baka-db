@@ -1,5 +1,9 @@
 {
     "title": "Yoru ga Owaranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7738.jpg",
+        "alt": "yoru-ga-owaranai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "夜がおわらない",

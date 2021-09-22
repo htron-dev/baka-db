@@ -1,5 +1,9 @@
 {
     "title": "Fairy Tail Movie 2: Dragon Cry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/85391.jpg",
+        "alt": "fairy-tail-movie-2-dragon-cry"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 FAIRY TAIL 『DRAGON CRY』",

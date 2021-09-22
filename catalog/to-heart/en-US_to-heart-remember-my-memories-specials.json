@@ -1,8 +1,12 @@
 {
     "title": "To Heart: Remember My Memories Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/686.jpg",
+        "alt": "to-heart-remember-my-memories-specials"
+    },
     "type": "special",
     "episodes": "7",
-    "original_name": "ToHeart Remember my memories",
+    "original_name": "ToHeart Remember my memories: Heart Fighters",
     "start_date": "2006-01-26",
     "end_date": "2006-01-26",
     "rating": "R+ - Mild Nudity",

@@ -1,5 +1,9 @@
 {
     "title": "Eunuch Manufacturing Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228571.jpg",
+        "alt": "eunuch-manufacturing-diary"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "55",

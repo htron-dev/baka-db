@@ -1,5 +1,9 @@
 {
     "title": "A la Carte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30011.jpg",
+        "alt": "a-la-carte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

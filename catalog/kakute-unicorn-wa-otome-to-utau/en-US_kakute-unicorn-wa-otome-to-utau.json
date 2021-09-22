@@ -1,5 +1,9 @@
 {
     "title": "Kakute Unicorn wa Otome to Utau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176747.jpg",
+        "alt": "kakute-unicorn-wa-otome-to-utau"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

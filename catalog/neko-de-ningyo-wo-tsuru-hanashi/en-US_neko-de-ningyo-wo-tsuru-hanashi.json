@@ -1,5 +1,9 @@
 {
     "title": "Neko de Ningyo wo Tsuru Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215634.jpg",
+        "alt": "neko-de-ningyo-wo-tsuru-hanashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

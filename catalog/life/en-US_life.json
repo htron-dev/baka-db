@@ -1,5 +1,9 @@
 {
     "title": "Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127497.jpg",
+        "alt": "life"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "80",

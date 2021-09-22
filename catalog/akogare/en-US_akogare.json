@@ -1,5 +1,9 @@
 {
     "title": "Akogare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12807.jpg",
+        "alt": "akogare"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "あこがれ",

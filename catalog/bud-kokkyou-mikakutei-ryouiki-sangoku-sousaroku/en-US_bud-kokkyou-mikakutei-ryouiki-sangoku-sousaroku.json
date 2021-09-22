@@ -1,5 +1,9 @@
 {
     "title": "BUD: Kokkyou Mikakutei Ryouiki Sangoku Sousaroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186435.jpg",
+        "alt": "bud-kokkyou-mikakutei-ryouiki-sangoku-sousaroku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

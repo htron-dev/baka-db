@@ -1,5 +1,9 @@
 {
     "title": "Ijiranaide, Nagatoro-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207460.jpg",
+        "alt": "ijiranaide-nagatoro-san"
+    },
     "type": "manga",
     "original_name": "イジらないで、長瀞さん",
     "start_date": "2017-11-07",

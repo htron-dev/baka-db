@@ -1,5 +1,9 @@
 {
     "title": "Tenkuu Kangoku no Majutsu Garou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198705.jpg",
+        "alt": "tenkuu-kangoku-no-majutsu-garou"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "26",

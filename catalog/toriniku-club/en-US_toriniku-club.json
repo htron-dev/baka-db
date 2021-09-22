@@ -1,5 +1,9 @@
 {
     "title": "Toriniku Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26226.jpg",
+        "alt": "toriniku-club"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

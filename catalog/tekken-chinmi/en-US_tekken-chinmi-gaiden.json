@@ -1,5 +1,9 @@
 {
     "title": "Tekken Chinmi Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171289.jpg",
+        "alt": "tekken-chinmi-gaiden"
+    },
     "type": "manga",
     "original_name": "鉄拳チンミ外伝",
     "start_date": "1997-07-19",

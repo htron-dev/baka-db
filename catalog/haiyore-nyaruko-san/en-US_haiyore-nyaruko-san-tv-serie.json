@@ -1,12 +1,16 @@
 {
     "title": "Haiyore! Nyaruko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/49081.jpg",
+        "alt": "haiyore-nyaruko-san"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "這いよれ！ニャル子さん",
     "start_date": "2012-04-10",
     "end_date": "2012-04-10",
     "opening_song": "\"Taiyou Iwaku Moeyo Chaos (太陽曰く燃えよカオス)\" by Ushirokara Haiyoritai G",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Zutto Be with you (ずっと Be with you)\" by RAMM ni Haiyoru Nyaruko-san (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

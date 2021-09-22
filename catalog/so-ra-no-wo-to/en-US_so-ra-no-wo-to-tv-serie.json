@@ -1,5 +1,9 @@
 {
     "title": "So Ra No Wo To",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/81654.jpg",
+        "alt": "so-ra-no-wo-to"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ソ・ラ・ノ・ヲ・ト",

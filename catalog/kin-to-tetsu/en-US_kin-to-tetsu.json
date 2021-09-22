@@ -1,5 +1,9 @@
 {
     "title": "Kin to Tetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247867.jpg",
+        "alt": "kin-to-tetsu"
+    },
     "type": "manga",
     "original_name": "菌と鉄",
     "start_date": "2021-03-09",

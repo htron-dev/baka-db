@@ -1,5 +1,9 @@
 {
     "title": "Kamen no Maid Guy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/77694.jpg",
+        "alt": "kamen-no-maid-guy"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "仮面のメイドガイ",

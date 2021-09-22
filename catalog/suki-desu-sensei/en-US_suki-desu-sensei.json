@@ -1,5 +1,9 @@
 {
     "title": "Suki desu, Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204766.jpg",
+        "alt": "suki-desu-sensei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

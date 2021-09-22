@@ -1,5 +1,9 @@
 {
     "title": "Muteki na Utahime!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13527.jpg",
+        "alt": "muteki-na-utahime"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "無敵な歌姫！",

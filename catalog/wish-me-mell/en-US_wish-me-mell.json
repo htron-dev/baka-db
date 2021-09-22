@@ -1,5 +1,9 @@
 {
     "title": "Wish Me Mell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/32955.jpg",
+        "alt": "wish-me-mell"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "Wish me mell",

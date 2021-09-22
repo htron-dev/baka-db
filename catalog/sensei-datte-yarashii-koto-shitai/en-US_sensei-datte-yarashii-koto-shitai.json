@@ -1,5 +1,9 @@
 {
     "title": "Sensei datte Yarashii Koto shitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246277.jpg",
+        "alt": "sensei-datte-yarashii-koto-shitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

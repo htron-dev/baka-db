@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Cosmos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175298.jpg",
+        "alt": "koisuru-cosmos"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "恋する宇宙〈コスモ〉",

@@ -1,5 +1,9 @@
 {
     "title": "Timbre A to Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/70209.jpg",
+        "alt": "timbre-a-to-z"
+    },
     "type": "ona",
     "episodes": "26",
     "original_name": "Timbre A to Z",

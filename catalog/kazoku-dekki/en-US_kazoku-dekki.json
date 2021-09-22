@@ -1,5 +1,9 @@
 {
     "title": "Kazoku Dekki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1116/96048.jpg",
+        "alt": "kazoku-dekki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "家族デッキ",

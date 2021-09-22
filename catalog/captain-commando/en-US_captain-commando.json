@@ -1,5 +1,9 @@
 {
     "title": "Captain Commando",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140339.jpg",
+        "alt": "captain-commando"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

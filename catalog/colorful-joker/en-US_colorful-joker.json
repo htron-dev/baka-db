@@ -1,5 +1,9 @@
 {
     "title": "Colorful Joker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208362.jpg",
+        "alt": "colorful-joker"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

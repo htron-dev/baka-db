@@ -1,5 +1,9 @@
 {
     "title": "Shuuen Sekai no Saviorcode",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161037.jpg",
+        "alt": "shuuen-sekai-no-saviorcode"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

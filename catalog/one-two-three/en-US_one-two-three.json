@@ -1,5 +1,9 @@
 {
     "title": "One two three",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2984.jpg",
+        "alt": "one-two-three"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

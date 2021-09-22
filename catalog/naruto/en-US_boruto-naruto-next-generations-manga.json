@@ -1,5 +1,9 @@
 {
     "title": "Boruto: Naruto Next Generations",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181968.jpg",
+        "alt": "boruto-naruto-next-generations"
+    },
     "type": "manga",
     "original_name": "BORUTO-NARUTO NEXT GENERATIONS-",
     "start_date": "2016-05-09",

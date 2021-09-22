@@ -1,5 +1,9 @@
 {
     "title": "Shi ni Aruki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198188.jpg",
+        "alt": "shi-ni-aruki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

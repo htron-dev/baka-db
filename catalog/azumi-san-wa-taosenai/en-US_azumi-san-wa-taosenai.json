@@ -1,5 +1,9 @@
 {
     "title": "Azumi-san wa Taosenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203954.jpg",
+        "alt": "azumi-san-wa-taosenai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "50",

@@ -1,5 +1,9 @@
 {
     "title": "Shin Tenchi Muyou! Ryououki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166977.jpg",
+        "alt": "shin-tenchi-muyou-ryououki"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "63",

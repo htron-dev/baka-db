@@ -1,5 +1,9 @@
 {
     "title": "Honoo no Tenkousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/79406.jpg",
+        "alt": "honoo-no-tenkousei"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "炎の転校生",

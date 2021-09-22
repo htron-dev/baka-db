@@ -1,5 +1,9 @@
 {
     "title": "Hagoromo Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/100683.jpg",
+        "alt": "hagoromo-shounen"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ハゴロモ少年",

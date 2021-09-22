@@ -1,5 +1,9 @@
 {
     "title": "Gakkou no Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/62185.jpg",
+        "alt": "gakkou-no-sensei"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "35",

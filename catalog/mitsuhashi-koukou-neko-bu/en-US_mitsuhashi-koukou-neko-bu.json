@@ -1,5 +1,9 @@
 {
     "title": "Mitsuhashi Koukou Neko-bu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227773.jpg",
+        "alt": "mitsuhashi-koukou-neko-bu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

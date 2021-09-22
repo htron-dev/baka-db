@@ -1,5 +1,9 @@
 {
     "title": "Tian Bao Fuyao Lu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1432/105225.jpg",
+        "alt": "tian-bao-fuyao-lu"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "天宝伏妖录",

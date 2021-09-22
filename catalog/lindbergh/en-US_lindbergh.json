@@ -1,5 +1,9 @@
 {
     "title": "Lindbergh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160497.jpg",
+        "alt": "lindbergh"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "48",

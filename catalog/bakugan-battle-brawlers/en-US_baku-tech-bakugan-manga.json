@@ -1,5 +1,9 @@
 {
     "title": "Baku Tech! Bakugan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207463.jpg",
+        "alt": "baku-tech-bakugan"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "36",

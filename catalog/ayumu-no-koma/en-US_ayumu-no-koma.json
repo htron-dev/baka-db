@@ -1,5 +1,9 @@
 {
     "title": "Ayumu no Koma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236710.jpg",
+        "alt": "ayumu-no-koma"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

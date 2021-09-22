@@ -1,5 +1,9 @@
 {
     "title": "B Group no Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131511.jpg",
+        "alt": "b-group-no-shounen"
+    },
     "type": "light-novel",
     "original_name": "B グループの少年",
     "start_date": "2012-05-25",

@@ -1,5 +1,9 @@
 {
     "title": "FLCL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113333.jpg",
+        "alt": "flcl"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

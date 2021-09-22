@@ -1,5 +1,9 @@
 {
     "title": "Gu-pan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/57485.jpg",
+        "alt": "gu-pan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "54",

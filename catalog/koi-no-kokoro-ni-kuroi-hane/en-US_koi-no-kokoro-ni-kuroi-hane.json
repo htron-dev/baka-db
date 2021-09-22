@@ -1,5 +1,9 @@
 {
     "title": "Koi no Kokoro ni Kuroi Hane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/30081.jpg",
+        "alt": "koi-no-kokoro-ni-kuroi-hane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Urakatana Kami no ki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35498.jpg",
+        "alt": "urakatana-kami-no-ki"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "裏刀神記",

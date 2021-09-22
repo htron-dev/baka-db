@@ -1,5 +1,9 @@
 {
     "title": "Heppoko Oninikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176540.jpg",
+        "alt": "heppoko-oninikki"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "へっぽこ鬼日記",

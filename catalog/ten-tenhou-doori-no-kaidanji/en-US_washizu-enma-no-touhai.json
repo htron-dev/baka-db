@@ -1,5 +1,9 @@
 {
     "title": "Washizu: Enma no Touhai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169038.jpg",
+        "alt": "washizu-enma-no-touhai"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "53",

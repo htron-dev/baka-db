@@ -1,5 +1,9 @@
 {
     "title": "Hyper Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5786.jpg",
+        "alt": "hyper-baby"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

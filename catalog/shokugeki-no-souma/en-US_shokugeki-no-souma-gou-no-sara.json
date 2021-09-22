@@ -1,5 +1,9 @@
 {
     "title": "Shokugeki no Souma: Gou no Sara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1756/108000.jpg",
+        "alt": "shokugeki-no-souma-gou-no-sara"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "食戟のソーマ 豪ノ皿",

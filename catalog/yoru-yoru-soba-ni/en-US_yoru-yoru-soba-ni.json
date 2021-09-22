@@ -1,5 +1,9 @@
 {
     "title": "Yoru Yoru Soba ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221496.jpg",
+        "alt": "yoru-yoru-soba-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

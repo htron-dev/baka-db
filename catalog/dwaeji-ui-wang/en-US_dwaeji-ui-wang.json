@@ -1,5 +1,9 @@
 {
     "title": "Dwaeji-ui Wang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/33977.jpg",
+        "alt": "dwaeji-ui-wang"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "돼지의 왕",

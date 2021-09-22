@@ -1,5 +1,9 @@
 {
     "title": "Zen Martial Arts Academy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58109.jpg",
+        "alt": "zen-martial-arts-academy"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "29",

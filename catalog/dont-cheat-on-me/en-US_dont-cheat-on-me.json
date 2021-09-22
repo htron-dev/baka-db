@@ -1,5 +1,9 @@
 {
     "title": "Don't Cheat on Me!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35712.jpg",
+        "alt": "dont-cheat-on-me"
+    },
     "type": "manhwa",
     "volumes": "12",
     "tags": [

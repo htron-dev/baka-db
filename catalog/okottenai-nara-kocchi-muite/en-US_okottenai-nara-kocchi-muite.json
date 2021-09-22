@@ -1,5 +1,9 @@
 {
     "title": "Okottenai nara Kocchi Muite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231267.jpg",
+        "alt": "okottenai-nara-kocchi-muite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

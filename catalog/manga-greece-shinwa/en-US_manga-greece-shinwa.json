@@ -1,5 +1,9 @@
 {
     "title": "Manga Greece Shinwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131599.jpg",
+        "alt": "manga-greece-shinwa"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "マンガ ギリシア神話",

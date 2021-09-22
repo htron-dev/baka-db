@@ -1,5 +1,9 @@
 {
     "title": "Oned",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1446/98876.jpg",
+        "alt": "oned"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ONED",

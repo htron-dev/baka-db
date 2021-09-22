@@ -1,5 +1,9 @@
 {
     "title": "Totsukuni no Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173926.jpg",
+        "alt": "totsukuni-no-shoujo"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "53",

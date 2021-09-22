@@ -1,5 +1,9 @@
 {
     "title": "Rengoku no Escudo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162625.jpg",
+        "alt": "rengoku-no-escudo"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

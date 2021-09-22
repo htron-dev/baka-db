@@ -1,12 +1,16 @@
 {
     "title": "Persona 5 the Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1829/92056.jpg",
+        "alt": "persona-5-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "TV アニメ「ペルソナ５」",
     "start_date": "2018-04-08",
     "end_date": "2018-04-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"BREAK IN TO BREAK OUT\" by Lyn (eps 2, 4-13)",
+    "ending_song": "#1: \"BREAK IN TO BREAK OUT\" by Lyn (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

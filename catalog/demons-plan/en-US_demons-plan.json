@@ -1,5 +1,9 @@
 {
     "title": "Demon's Plan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195686.jpg",
+        "alt": "demons-plan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

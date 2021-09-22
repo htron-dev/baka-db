@@ -1,5 +1,9 @@
 {
     "title": "Shin Megami Tensei [Kahn]",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/167349.jpg",
+        "alt": "shin-megami-tensei-kahn"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "70",

@@ -1,5 +1,9 @@
 {
     "title": "Higanjima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184564.jpg",
+        "alt": "higanjima"
+    },
     "type": "manga",
     "volumes": "33",
     "chapters": "330",

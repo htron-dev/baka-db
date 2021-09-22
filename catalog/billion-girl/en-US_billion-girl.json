@@ -1,5 +1,9 @@
 {
     "title": "Billion Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191590.jpg",
+        "alt": "billion-girl"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "41",

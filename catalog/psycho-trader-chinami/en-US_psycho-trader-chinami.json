@@ -1,5 +1,9 @@
 {
     "title": "Psycho Trader Chinami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7080.jpg",
+        "alt": "psycho-trader-chinami"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

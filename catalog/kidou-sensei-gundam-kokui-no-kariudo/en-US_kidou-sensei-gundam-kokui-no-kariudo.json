@@ -1,5 +1,9 @@
 {
     "title": "Kidou Sensei Gundam: Kokui no Kariudo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174585.jpg",
+        "alt": "kidou-sensei-gundam-kokui-no-kariudo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

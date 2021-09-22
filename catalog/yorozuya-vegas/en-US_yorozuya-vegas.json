@@ -1,5 +1,9 @@
 {
     "title": "Yorozuya Vegas",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/108695.jpg",
+        "alt": "yorozuya-vegas"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "40",

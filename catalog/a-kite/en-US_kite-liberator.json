@@ -1,5 +1,9 @@
 {
     "title": "Kite Liberator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/10228.jpg",
+        "alt": "kite-liberator"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "KITE LIBERATOR (カイト リベレイター)",

@@ -1,5 +1,9 @@
 {
     "title": "Nue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18032.jpg",
+        "alt": "nue"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "鵺",

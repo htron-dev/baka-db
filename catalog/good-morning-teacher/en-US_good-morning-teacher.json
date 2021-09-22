@@ -1,5 +1,9 @@
 {
     "title": "Good Morning Teacher",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215287.jpg",
+        "alt": "good-morning-teacher"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "Good Morning ティーチャー",

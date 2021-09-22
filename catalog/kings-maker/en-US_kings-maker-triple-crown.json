@@ -1,5 +1,9 @@
 {
     "title": "King's Maker: Triple Crown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242716.jpg",
+        "alt": "kings-maker-triple-crown"
+    },
     "type": "manhwa",
     "original_name": "킹스메이커 트리플 크라운",
     "start_date": "2019-06-01",

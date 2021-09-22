@@ -1,12 +1,16 @@
 {
     "title": "Senyoku no Sigrdrifa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1576/109007.jpg",
+        "alt": "senyoku-no-sigrdrifa"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "戦翼のシグルドリーヴァ",
     "start_date": "2020-10-03",
     "end_date": "2020-10-03",
     "opening_song": "\"Higher's High\" by Akari Nanawo",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sayonara Namida (サヨナラナミダ)\" by Spira Spica (eps 2-3)",
     "rating": "None",
     "tags": [
         "action",

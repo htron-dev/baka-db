@@ -1,5 +1,9 @@
 {
     "title": "Gal no Haigo ni Rei ga Iru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246759.jpg",
+        "alt": "gal-no-haigo-ni-rei-ga-iru"
+    },
     "type": "manga",
     "original_name": "ギャルの背後に霊がいる",
     "start_date": "2020-11-05",

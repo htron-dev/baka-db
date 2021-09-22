@@ -1,5 +1,9 @@
 {
     "title": "Soleil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37807.jpg",
+        "alt": "soleil"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "SOLEIL ～ソレイユ～",

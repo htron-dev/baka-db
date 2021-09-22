@@ -1,5 +1,9 @@
 {
     "title": "High Score Girl Dash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/241381.jpg",
+        "alt": "high-score-girl-dash"
+    },
     "type": "manga",
     "original_name": "ハイスコアガール DASH",
     "start_date": "2019-12-25",

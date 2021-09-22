@@ -1,5 +1,9 @@
 {
     "title": "Kiss wa Naisho ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5453.jpg",
+        "alt": "kiss-wa-naisho-ni"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

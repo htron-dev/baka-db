@@ -1,5 +1,9 @@
 {
     "title": "Bokura Choujou Kurabu desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31159.jpg",
+        "alt": "bokura-choujou-kurabu-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ボクら超常倶楽部です",

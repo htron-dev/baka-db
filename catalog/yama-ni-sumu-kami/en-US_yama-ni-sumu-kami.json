@@ -1,5 +1,9 @@
 {
     "title": "Yama ni Sumu Kami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20780.jpg",
+        "alt": "yama-ni-sumu-kami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

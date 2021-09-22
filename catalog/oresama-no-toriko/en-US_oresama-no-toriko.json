@@ -1,5 +1,9 @@
 {
     "title": "Oresama no Toriko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33175.jpg",
+        "alt": "oresama-no-toriko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

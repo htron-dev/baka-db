@@ -1,5 +1,9 @@
 {
     "title": "Omega Tribe Kingdom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/75307.jpg",
+        "alt": "omega-tribe-kingdom"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "オメガトライブキングダム",

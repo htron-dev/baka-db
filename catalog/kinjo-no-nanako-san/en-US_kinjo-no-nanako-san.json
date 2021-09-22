@@ -1,5 +1,9 @@
 {
     "title": "Kinjo no Nanako-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221015.jpg",
+        "alt": "kinjo-no-nanako-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

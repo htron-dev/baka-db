@@ -1,5 +1,9 @@
 {
     "title": "Kirisaki Walter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118229.jpg",
+        "alt": "kirisaki-walter"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "切り裂きウォルター",

@@ -1,5 +1,9 @@
 {
     "title": "Cynical Orange",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20569.jpg",
+        "alt": "cynical-orange"
+    },
     "type": "manhwa",
     "volumes": "9",
     "chapters": "24",

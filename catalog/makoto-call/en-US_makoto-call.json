@@ -1,5 +1,9 @@
 {
     "title": "Makoto Call!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125203.jpg",
+        "alt": "makoto-call"
+    },
     "type": "manga",
     "volumes": "13",
     "original_name": "真コール!",

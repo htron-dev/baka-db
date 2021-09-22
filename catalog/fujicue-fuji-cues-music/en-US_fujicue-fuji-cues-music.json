@@ -1,5 +1,9 @@
 {
     "title": "Fujicue!!!: Fuji Cue's Music",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139929.jpg",
+        "alt": "fujicue-fuji-cues-music"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

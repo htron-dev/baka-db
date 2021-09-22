@@ -1,5 +1,9 @@
 {
     "title": "Kono Oto Tomare!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1464/99881.jpg",
+        "alt": "kono-oto-tomare"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "この音とまれ！",

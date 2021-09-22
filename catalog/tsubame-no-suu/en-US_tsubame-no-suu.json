@@ -1,5 +1,9 @@
 {
     "title": "Tsubame no Suu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/53983.jpg",
+        "alt": "tsubame-no-suu"
+    },
     "type": "manga",
     "original_name": "つばめのすぅ",
     "start_date": "2010-12-20",

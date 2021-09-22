@@ -1,5 +1,9 @@
 {
     "title": "Ooi! Ryouma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/147053.jpg",
+        "alt": "ooi-ryouma"
+    },
     "type": "manga",
     "volumes": "23",
     "original_name": "お～い！竜馬",

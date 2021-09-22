@@ -1,5 +1,9 @@
 {
     "title": "Kuzu to Kemomimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242996.jpg",
+        "alt": "kuzu-to-kemomimi"
+    },
     "type": "manga",
     "original_name": "クズとケモ耳",
     "start_date": "2018-03-23",

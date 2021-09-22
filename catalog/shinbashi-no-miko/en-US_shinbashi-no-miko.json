@@ -1,5 +1,9 @@
 {
     "title": "Shinbashi no Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168523.jpg",
+        "alt": "shinbashi-no-miko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

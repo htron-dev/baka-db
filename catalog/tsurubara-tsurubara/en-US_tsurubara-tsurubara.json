@@ -1,5 +1,9 @@
 {
     "title": "Tsurubara Tsurubara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18441.jpg",
+        "alt": "tsurubara-tsurubara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

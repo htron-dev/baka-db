@@ -1,5 +1,9 @@
 {
     "title": "Chichi no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195208.jpg",
+        "alt": "chichi-no-jikan"
+    },
     "type": "manga",
     "original_name": "ちちのじかん",
     "start_date": "2016-09-11",

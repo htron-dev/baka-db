@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Maniacs!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163417.jpg",
+        "alt": "ayakashi-maniacs"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "46",

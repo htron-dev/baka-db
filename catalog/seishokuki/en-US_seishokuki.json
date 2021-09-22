@@ -1,5 +1,9 @@
 {
     "title": "Seishokuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137157.jpg",
+        "alt": "seishokuki"
+    },
     "type": "manga",
     "original_name": "性食鬼",
     "start_date": "2010-08-17",

@@ -1,5 +1,9 @@
 {
     "title": "Warau Kassen-ya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191667.jpg",
+        "alt": "warau-kassen-ya"
+    },
     "type": "manga",
     "original_name": "哄う合戦屋",
     "start_date": "2016-05-27",

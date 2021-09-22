@@ -1,5 +1,9 @@
 {
     "title": "Doudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/37559.jpg",
+        "alt": "doudou"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "Doudou",

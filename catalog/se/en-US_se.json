@@ -1,5 +1,9 @@
 {
     "title": "SE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112467.jpg",
+        "alt": "se"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

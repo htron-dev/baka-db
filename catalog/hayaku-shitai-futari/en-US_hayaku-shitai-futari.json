@@ -1,5 +1,9 @@
 {
     "title": "Hayaku Shitai Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235171.jpg",
+        "alt": "hayaku-shitai-futari"
+    },
     "type": "manga",
     "original_name": "はやくしたいふたり",
     "start_date": "2020-05-20",

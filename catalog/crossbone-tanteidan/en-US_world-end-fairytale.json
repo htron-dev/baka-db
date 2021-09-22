@@ -1,5 +1,9 @@
 {
     "title": "World End Fairytale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169489.jpg",
+        "alt": "world-end-fairytale"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

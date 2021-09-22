@@ -1,5 +1,9 @@
 {
     "title": "Koishi Koishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/47069.jpg",
+        "alt": "koishi-koishi"
+    },
     "type": "manga",
     "original_name": "こいし恋いし",
     "start_date": "2010-02-20",

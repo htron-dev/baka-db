@@ -1,5 +1,9 @@
 {
     "title": "Konshuu no Kanade-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189894.jpg",
+        "alt": "konshuu-no-kanade-san"
+    },
     "type": "manga",
     "original_name": "今週のかなでさん",
     "start_date": "2013-10-11",

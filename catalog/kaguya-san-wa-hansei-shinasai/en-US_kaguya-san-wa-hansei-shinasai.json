@@ -1,5 +1,9 @@
 {
     "title": "Kaguya-san wa Hansei Shinasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246299.jpg",
+        "alt": "kaguya-san-wa-hansei-shinasai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

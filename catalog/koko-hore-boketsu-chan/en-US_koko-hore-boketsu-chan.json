@@ -1,5 +1,9 @@
 {
     "title": "Koko Hore Boketsu-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236595.jpg",
+        "alt": "koko-hore-boketsu-chan"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "95",

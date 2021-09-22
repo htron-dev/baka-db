@@ -1,5 +1,9 @@
 {
     "title": "2/3 Ai no Kyoukaisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22263.jpg",
+        "alt": "2-3-ai-no-kyoukaisen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

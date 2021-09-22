@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Chronous",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/138017.jpg",
+        "alt": "kimi-no-chronous"
+    },
     "type": "manga",
     "original_name": "キミノクロノス",
     "start_date": "2013-02-15",

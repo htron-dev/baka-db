@@ -1,5 +1,9 @@
 {
     "title": "Himouto! Umaru-chan'S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162902.jpg",
+        "alt": "himouto-umaru-chan-s"
+    },
     "type": "manga",
     "original_name": "ひもうと! うまるちゃん S",
     "start_date": "2014-03-20",

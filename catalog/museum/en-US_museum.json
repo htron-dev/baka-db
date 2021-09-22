@@ -1,5 +1,9 @@
 {
     "title": "Museum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120621.jpg",
+        "alt": "museum"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

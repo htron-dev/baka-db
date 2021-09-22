@@ -1,5 +1,9 @@
 {
     "title": "Slayers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212734.jpg",
+        "alt": "slayers"
+    },
     "type": "light-novel",
     "original_name": "スレイヤーズ",
     "start_date": "1990-01-17",

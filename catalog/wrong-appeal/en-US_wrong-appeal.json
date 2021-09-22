@@ -1,5 +1,9 @@
 {
     "title": "Wrong Appeal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22703.jpg",
+        "alt": "wrong-appeal"
+    },
     "type": "manhwa",
     "chapters": "1",
     "original_name": "잘못된 어필",

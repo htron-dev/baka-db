@@ -1,5 +1,9 @@
 {
     "title": "You're So Cool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/30242.jpg",
+        "alt": "youre-so-cool"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "34",

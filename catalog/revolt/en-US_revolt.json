@@ -1,5 +1,9 @@
 {
     "title": "Revolt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157715.jpg",
+        "alt": "revolt"
+    },
     "type": "manga",
     "original_name": "REVOLT",
     "start_date": "2014-11-30",

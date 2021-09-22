@@ -1,5 +1,9 @@
 {
     "title": "Grendizer Giga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75834.jpg",
+        "alt": "grendizer-giga"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "グレンダイザー ギガ",

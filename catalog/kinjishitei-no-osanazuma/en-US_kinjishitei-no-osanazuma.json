@@ -1,5 +1,9 @@
 {
     "title": "Kinjishitei no Osanazuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183105.jpg",
+        "alt": "kinjishitei-no-osanazuma"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

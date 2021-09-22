@@ -1,5 +1,9 @@
 {
     "title": "Wu Geng Ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/81426.jpg",
+        "alt": "wu-geng-ji"
+    },
     "type": "ona",
     "episodes": "30",
     "original_name": "武庚纪",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi to, Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149603.jpg",
+        "alt": "kimi-to-hatsukoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

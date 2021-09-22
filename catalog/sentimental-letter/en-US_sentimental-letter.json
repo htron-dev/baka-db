@@ -1,5 +1,9 @@
 {
     "title": "Sentimental Letter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178504.jpg",
+        "alt": "sentimental-letter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

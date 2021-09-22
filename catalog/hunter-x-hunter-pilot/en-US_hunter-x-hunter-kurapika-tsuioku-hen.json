@@ -1,5 +1,9 @@
 {
     "title": "Hunter x Hunter: Kurapika Tsuioku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81390.jpg",
+        "alt": "hunter-x-hunter-kurapika-tsuioku-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

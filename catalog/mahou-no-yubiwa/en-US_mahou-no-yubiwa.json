@@ -1,5 +1,9 @@
 {
     "title": "Mahou no Yubiwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41970.jpg",
+        "alt": "mahou-no-yubiwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

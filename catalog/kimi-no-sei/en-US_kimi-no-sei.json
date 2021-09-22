@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Sei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28300.jpg",
+        "alt": "kimi-no-sei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

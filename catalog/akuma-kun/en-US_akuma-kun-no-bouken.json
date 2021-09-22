@@ -1,5 +1,9 @@
 {
     "title": "Akuma-kun no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170350.jpg",
+        "alt": "akuma-kun-no-bouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

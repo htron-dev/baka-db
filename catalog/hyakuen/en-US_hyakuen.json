@@ -1,5 +1,9 @@
 {
     "title": "Hyakuen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20911.jpg",
+        "alt": "hyakuen"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "44",

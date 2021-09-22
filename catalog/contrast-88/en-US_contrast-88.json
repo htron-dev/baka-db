@@ -1,5 +1,9 @@
 {
     "title": "Contrast 88",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181947.jpg",
+        "alt": "contrast-88"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

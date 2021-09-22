@@ -1,5 +1,9 @@
 {
     "title": "Toshishita Kare no Amai Itazura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193806.jpg",
+        "alt": "toshishita-kare-no-amai-itazura"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

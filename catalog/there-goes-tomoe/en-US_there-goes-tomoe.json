@@ -1,5 +1,9 @@
 {
     "title": "There Goes Tomoe!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6909.jpg",
+        "alt": "there-goes-tomoe"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "巴がゆく！",

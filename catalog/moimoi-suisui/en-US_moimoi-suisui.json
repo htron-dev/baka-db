@@ -1,5 +1,9 @@
 {
     "title": "Moimoi Suisui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231354.jpg",
+        "alt": "moimoi-suisui"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

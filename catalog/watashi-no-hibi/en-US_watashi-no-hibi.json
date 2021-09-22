@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161482.jpg",
+        "alt": "watashi-no-hibi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "34",

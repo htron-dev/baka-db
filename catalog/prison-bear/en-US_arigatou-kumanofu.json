@@ -1,5 +1,9 @@
 {
     "title": "Arigatou Kumanofu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/63757.jpg",
+        "alt": "arigatou-kumanofu"
+    },
     "type": "ona",
     "episodes": "11",
     "original_name": "ありがとうくまのふ",

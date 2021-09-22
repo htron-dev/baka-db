@@ -1,5 +1,9 @@
 {
     "title": "Osorubeki Kodomo Tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18112.jpg",
+        "alt": "osorubeki-kodomo-tachi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恐るべき子どもたち",

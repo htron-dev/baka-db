@@ -1,5 +1,9 @@
 {
     "title": "Sora no Manimani Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/22483.jpg",
+        "alt": "sora-no-manimani-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "宙のまにまに",

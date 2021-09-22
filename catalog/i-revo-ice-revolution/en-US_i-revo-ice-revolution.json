@@ -1,5 +1,9 @@
 {
     "title": "I-Revo: Ice Revolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113353.jpg",
+        "alt": "i-revo-ice-revolution"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

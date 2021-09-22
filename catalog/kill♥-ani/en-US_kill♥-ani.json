@@ -1,5 +1,9 @@
 {
     "title": "Kill♥Ani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44047.jpg",
+        "alt": "kill♥-ani"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "キル ♥ アニ",

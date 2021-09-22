@@ -1,5 +1,9 @@
 {
     "title": "Ame Nochi Hare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149958.jpg",
+        "alt": "ame-nochi-hare"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "39",

@@ -1,5 +1,9 @@
 {
     "title": "Watashi ga Iutoori ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166584.jpg",
+        "alt": "watashi-ga-iutoori-ni-naru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

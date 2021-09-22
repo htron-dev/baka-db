@@ -1,5 +1,9 @@
 {
     "title": "Gundam Build Fighters Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/67643.jpg",
+        "alt": "gundam-build-fighters-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ガンダムビルドファイターズ",

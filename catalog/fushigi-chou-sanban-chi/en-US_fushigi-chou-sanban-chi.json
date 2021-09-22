@@ -1,5 +1,9 @@
 {
     "title": "Fushigi-chou Sanban-chi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/86805.jpg",
+        "alt": "fushigi-chou-sanban-chi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

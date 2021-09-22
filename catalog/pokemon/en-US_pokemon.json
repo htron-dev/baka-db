@@ -1,12 +1,16 @@
 {
     "title": "Pokemon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/73834.jpg",
+        "alt": "pokemon"
+    },
     "type": "tv-serie",
     "episodes": "276",
     "original_name": "ポケットモンスター",
     "start_date": "1997-04-01",
     "end_date": "1997-04-01",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Mezase Pokémon Master (めざせポケモンマスター)\" by Rica Matsumoto (eps 1-82)",
+    "ending_song": "#01: \"Hyaku Gojuu Ichi\" by Unshou Ishizuka and Pokemon Kids (eps 1-27)",
     "rating": "PG - Children",
     "tags": [
         "action",

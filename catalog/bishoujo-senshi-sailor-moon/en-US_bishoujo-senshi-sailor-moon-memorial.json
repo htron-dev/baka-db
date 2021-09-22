@@ -1,5 +1,9 @@
 {
     "title": "Bishoujo Senshi Sailor Moon Memorial",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/46773.jpg",
+        "alt": "bishoujo-senshi-sailor-moon-memorial"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "美少女戦士セーラームーン メモリアル",

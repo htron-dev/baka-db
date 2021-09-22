@@ -1,5 +1,9 @@
 {
     "title": "Nomad: Megalo Box 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1190/113352.jpg",
+        "alt": "nomad-megalo-box-2"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "NOMAD メガロボクス 2",

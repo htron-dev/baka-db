@@ -1,5 +1,9 @@
 {
     "title": "Me wo Samase Toragorou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/32675.jpg",
+        "alt": "me-wo-samase-toragorou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "目をさませトラゴロウ",

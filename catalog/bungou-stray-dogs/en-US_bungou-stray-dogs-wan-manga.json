@@ -1,5 +1,9 @@
 {
     "title": "Bungou Stray Dogs Wan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184355.jpg",
+        "alt": "bungou-stray-dogs-wan"
+    },
     "type": "manga",
     "original_name": "文豪ストレイドッグス わん！",
     "start_date": "2015-12-22",

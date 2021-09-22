@@ -1,5 +1,9 @@
 {
     "title": "Wondance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230764.jpg",
+        "alt": "wondance"
+    },
     "type": "manga",
     "original_name": "ワンダンス",
     "start_date": "2019-01-25",

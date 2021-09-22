@@ -1,5 +1,9 @@
 {
     "title": "Wizards Nation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28159.jpg",
+        "alt": "wizards-nation"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ウィザーズ・ネイション",

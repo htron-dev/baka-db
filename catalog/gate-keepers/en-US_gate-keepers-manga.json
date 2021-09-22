@@ -1,5 +1,9 @@
 {
     "title": "Gate Keepers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35659.jpg",
+        "alt": "gate-keepers"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

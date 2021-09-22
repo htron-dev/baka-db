@@ -1,5 +1,9 @@
 {
     "title": "Darkness Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90025.jpg",
+        "alt": "darkness-doll"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ダークネス・ドール",

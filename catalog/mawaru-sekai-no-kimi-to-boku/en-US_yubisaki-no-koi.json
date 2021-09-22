@@ -1,5 +1,9 @@
 {
     "title": "Yubisaki no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22942.jpg",
+        "alt": "yubisaki-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

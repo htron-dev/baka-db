@@ -1,5 +1,9 @@
 {
     "title": "PostPet Momobin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1003/112173.jpg",
+        "alt": "post-pet-momobin"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ポストペットモモ便",

@@ -1,5 +1,9 @@
 {
     "title": "Shin-chan ga Naita!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/66153.jpg",
+        "alt": "shin-chan-ga-naita"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "新ちゃんがないた！",

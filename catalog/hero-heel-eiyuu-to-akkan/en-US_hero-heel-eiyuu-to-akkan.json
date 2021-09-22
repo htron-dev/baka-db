@@ -1,5 +1,9 @@
 {
     "title": "Hero Heel: Eiyuu to Akkan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193140.jpg",
+        "alt": "hero-heel-eiyuu-to-akkan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

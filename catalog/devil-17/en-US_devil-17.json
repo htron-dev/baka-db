@@ -1,5 +1,9 @@
 {
     "title": "Devil 17",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/50863.jpg",
+        "alt": "devil-17"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "16",

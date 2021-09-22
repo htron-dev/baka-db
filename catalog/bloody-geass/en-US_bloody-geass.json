@@ -1,5 +1,9 @@
 {
     "title": "Bloody Geass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173840.jpg",
+        "alt": "bloody-geass"
+    },
     "type": "light-novel",
     "original_name": "ブラッディ・ギアス",
     "start_date": "2016-04-01",

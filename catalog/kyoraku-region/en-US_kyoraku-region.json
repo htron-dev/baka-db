@@ -1,5 +1,9 @@
 {
     "title": "Kyoraku Region",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/108455.jpg",
+        "alt": "kyoraku-region"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "京洛れぎおん",

@@ -1,5 +1,9 @@
 {
     "title": "Hanbun no Tsuki ga Noboru Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18890.jpg",
+        "alt": "hanbun-no-tsuki-ga-noboru-sora"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

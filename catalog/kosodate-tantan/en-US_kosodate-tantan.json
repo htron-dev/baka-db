@@ -1,5 +1,9 @@
 {
     "title": "Kosodate Tantan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95681.jpg",
+        "alt": "kosodate-tantan"
+    },
     "type": "manga",
     "original_name": "子育てたんたん",
     "start_date": "2011-01-15",

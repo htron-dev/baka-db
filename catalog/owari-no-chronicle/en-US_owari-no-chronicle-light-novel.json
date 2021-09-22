@@ -1,5 +1,9 @@
 {
     "title": "Owari no Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133157.jpg",
+        "alt": "owari-no-chronicle"
+    },
     "type": "light-novel",
     "volumes": "14",
     "chapters": "258",

@@ -1,5 +1,9 @@
 {
     "title": "Touge Oni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226124.jpg",
+        "alt": "touge-oni"
+    },
     "type": "manga",
     "original_name": "峠鬼",
     "start_date": "2018-04-13",

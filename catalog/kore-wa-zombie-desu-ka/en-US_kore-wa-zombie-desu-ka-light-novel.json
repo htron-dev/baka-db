@@ -1,5 +1,9 @@
 {
     "title": "Kore wa Zombie desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132831.jpg",
+        "alt": "kore-wa-zombie-desu-ka"
+    },
     "type": "light-novel",
     "volumes": "19",
     "chapters": "118",

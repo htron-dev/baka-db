@@ -1,5 +1,9 @@
 {
     "title": "Ikai no Gunshi no Fairytale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176599.jpg",
+        "alt": "ikai-no-gunshi-no-fairytale"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

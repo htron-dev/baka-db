@@ -1,5 +1,9 @@
 {
     "title": "Barakamon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216099.jpg",
+        "alt": "barakamon"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "135",

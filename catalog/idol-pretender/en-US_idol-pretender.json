@@ -1,5 +1,9 @@
 {
     "title": "Idol Pretender",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/99769.jpg",
+        "alt": "idol-pretender"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

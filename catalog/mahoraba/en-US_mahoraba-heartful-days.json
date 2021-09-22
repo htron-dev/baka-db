@@ -1,5 +1,9 @@
 {
     "title": "Mahoraba: Heartful days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/50903.jpg",
+        "alt": "mahoraba-heartful-days"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "まほらば ~Heartful days~",

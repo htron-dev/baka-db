@@ -1,5 +1,9 @@
 {
     "title": "Yuureisen Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176808.jpg",
+        "alt": "yuureisen-chronicle"
+    },
     "type": "manga",
     "original_name": "幽霊船クロニクル",
     "start_date": "2015-11-24",

@@ -1,5 +1,9 @@
 {
     "title": "Will it Snow for Christmas?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31089.jpg",
+        "alt": "will-it-snow-for-christmas"
+    },
     "type": "manhwa",
     "original_name": "크리스마스에 눈이 올까요?",
     "tags": [

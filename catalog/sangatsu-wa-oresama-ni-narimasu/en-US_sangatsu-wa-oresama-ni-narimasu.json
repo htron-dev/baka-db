@@ -1,5 +1,9 @@
 {
     "title": "Sangatsu wa Oresama ni Narimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169984.jpg",
+        "alt": "sangatsu-wa-oresama-ni-narimasu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

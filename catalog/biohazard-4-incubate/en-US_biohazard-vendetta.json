@@ -1,5 +1,9 @@
 {
     "title": "Biohazard: Vendetta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/83300.jpg",
+        "alt": "biohazard-vendetta"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "バイオハザード ヴェンデッタ",

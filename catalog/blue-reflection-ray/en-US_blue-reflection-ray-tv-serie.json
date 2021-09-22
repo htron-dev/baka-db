@@ -1,11 +1,15 @@
 {
     "title": "Blue Reflection Ray",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1634/114551.jpg",
+        "alt": "blue-reflection-ray"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "BLUE REFLECTION RAY/澪",
     "start_date": "2021-04-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"DiViNE\" by EXiNA",
+    "ending_song": "#1: \"Saishin (最深)\" by ACCAMER",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "magic",

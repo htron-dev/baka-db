@@ -1,5 +1,9 @@
 {
     "title": "Kujira no Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162720.jpg",
+        "alt": "kujira-no-sora"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "19",

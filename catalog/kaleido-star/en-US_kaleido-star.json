@@ -1,12 +1,16 @@
 {
     "title": "Kaleido Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75487.jpg",
+        "alt": "kaleido-star"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "カレイドスター",
     "start_date": "2003-04-03",
     "end_date": "2003-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Take it Shake it\" by Sugar (eps 1-13)",
+    "ending_song": "#1: \"Real Identity\" by Sugar (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

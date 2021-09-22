@@ -1,5 +1,9 @@
 {
     "title": "Ganbare-bu Next!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75881.jpg",
+        "alt": "ganbare-bu-next"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "ガンバレー部 NEXT！",

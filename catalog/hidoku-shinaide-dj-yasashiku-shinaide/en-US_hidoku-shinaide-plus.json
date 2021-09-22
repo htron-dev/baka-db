@@ -1,5 +1,9 @@
 {
     "title": "Hidoku Shinaide Plus+",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163036.jpg",
+        "alt": "hidoku-shinaide-plus"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

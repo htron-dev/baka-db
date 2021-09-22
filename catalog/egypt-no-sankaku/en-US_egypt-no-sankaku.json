@@ -1,5 +1,9 @@
 {
     "title": "Egypt no Sankaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183530.jpg",
+        "alt": "egypt-no-sankaku"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "エジプトの三角",

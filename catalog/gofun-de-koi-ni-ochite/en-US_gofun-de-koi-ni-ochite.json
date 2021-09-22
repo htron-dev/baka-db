@@ -1,5 +1,9 @@
 {
     "title": "Gofun de Koi ni Ochite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/63255.jpg",
+        "alt": "gofun-de-koi-ni-ochite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

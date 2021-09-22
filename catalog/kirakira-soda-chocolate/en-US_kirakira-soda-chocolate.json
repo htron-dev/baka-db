@@ -1,5 +1,9 @@
 {
     "title": "Kirakira Soda Chocolate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134607.jpg",
+        "alt": "kirakira-soda-chocolate"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "キラキラ・ソーダ・チョコレート",

@@ -1,5 +1,9 @@
 {
     "title": "Midori no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147389.jpg",
+        "alt": "midori-no-hoshi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

@@ -1,5 +1,9 @@
 {
     "title": "Merry-chan to Hitsuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73209.jpg",
+        "alt": "merry-chan-to-hitsuji"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "メリーちゃんと羊",

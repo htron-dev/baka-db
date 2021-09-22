@@ -1,5 +1,9 @@
 {
     "title": "Tenkeiteki Isekai Tenseitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177802.jpg",
+        "alt": "tenkeiteki-isekai-tenseitan"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "25",

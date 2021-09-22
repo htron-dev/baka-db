@@ -1,5 +1,9 @@
 {
     "title": "Geisters Movie: Inochi no Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/85625.jpg",
+        "alt": "geisters-movie-inochi-no-shou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 ガイスターズ 命の章",

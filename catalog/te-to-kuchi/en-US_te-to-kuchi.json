@@ -1,5 +1,9 @@
 {
     "title": "Te to Kuchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113411.jpg",
+        "alt": "te-to-kuchi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

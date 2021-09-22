@@ -1,5 +1,9 @@
 {
     "title": "Juuroku sai no akumu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/52741.jpg",
+        "alt": "juuroku-sai-no-akumu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Kurukuru Croquis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123105.jpg",
+        "alt": "kurukuru-croquis"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "くるくるクロッキー",

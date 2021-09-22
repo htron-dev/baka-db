@@ -1,5 +1,9 @@
 {
     "title": "Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/10580.jpg",
+        "alt": "keroro-gunsou-movie-3-tenkuu-daikessen-de-arimasu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "超劇場版ケロロ軍曹 3 ケロロ対ケロロ 天空大決戦であります！",

@@ -1,5 +1,9 @@
 {
     "title": "Henai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157478.jpg",
+        "alt": "henai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

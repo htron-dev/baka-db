@@ -1,5 +1,9 @@
 {
     "title": "Link and Ring",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236164.jpg",
+        "alt": "link-and-ring"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

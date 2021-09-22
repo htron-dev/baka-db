@@ -1,12 +1,16 @@
 {
     "title": "Selector Infected WIXOSS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/70147.jpg",
+        "alt": "selector-infected-wixoss"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "selector infected WIXOSS",
     "start_date": "2014-04-04",
     "end_date": "2014-04-04",
     "opening_song": "\"killy killy JOKER\" by Kanon Wakeshima",
-    "ending_song": "#1",
+    "ending_song": "#1: \"realize -Yume no Matsu Basho- (realize -夢の待つ場所-)\" by Cyua (eps 1-10)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "game",

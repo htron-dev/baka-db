@@ -1,5 +1,9 @@
 {
     "title": "Hajimete Datteba!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/71407.jpg",
+        "alt": "hajimete-datteba"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

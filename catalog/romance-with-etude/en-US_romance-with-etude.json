@@ -1,5 +1,9 @@
 {
     "title": "Romance with Etude",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246419.jpg",
+        "alt": "romance-with-etude"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

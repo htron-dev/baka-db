@@ -1,5 +1,9 @@
 {
     "title": "Katarushi: Nonoka no Kunisaki Fushigi Tanbou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244105.jpg",
+        "alt": "katarushi-nonoka-no-kunisaki-fushigi-tanbou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

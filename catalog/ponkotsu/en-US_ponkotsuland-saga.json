@@ -1,5 +1,9 @@
 {
     "title": "Ponkotsuland Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/76400.jpg",
+        "alt": "ponkotsuland-saga"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "ポンコツランド・サガ",

@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Bahamut: Twin Heads",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198433.jpg",
+        "alt": "shingeki-no-bahamut-twin-heads"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

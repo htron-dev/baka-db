@@ -1,5 +1,9 @@
 {
     "title": "Yu☆Gi☆Oh! Arc-V: Saikyou Duelist Yuuya!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235995.jpg",
+        "alt": "yu☆-gi☆-oh-arc-v-saikyou-duelist-yuuya"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

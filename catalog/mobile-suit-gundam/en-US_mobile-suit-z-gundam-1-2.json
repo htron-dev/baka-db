@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Z Gundam 1/2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/111869.jpg",
+        "alt": "mobile-suit-z-gundam-1-2"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

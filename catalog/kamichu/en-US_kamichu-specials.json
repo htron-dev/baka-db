@@ -1,5 +1,9 @@
 {
     "title": "Kamichu! Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/24645.jpg",
+        "alt": "kamichu-specials"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "かみちゅ!",

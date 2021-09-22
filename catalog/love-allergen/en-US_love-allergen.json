@@ -1,5 +1,9 @@
 {
     "title": "Love Allergen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/58837.jpg",
+        "alt": "love-allergen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

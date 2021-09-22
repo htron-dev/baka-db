@@ -1,12 +1,16 @@
 {
     "title": "Future Card Shin Buddyfight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1367/95055.jpg",
+        "alt": "future-card-shin-buddyfight"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "フューチャーカード 神バディファイト",
     "start_date": "2018-06-02",
     "end_date": "2018-06-02",
     "opening_song": "\"Saa Ikou! (最高 (さあ行こう) !)\" by Poppin'Party",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Buddy☆Funny DAYS (バディ ☆ ファニー DAYS)\" by Yuuga Mikado (Takumi Mano), Subaru Hoshiyomi (Daiki Kobayashi), Masato Rikuou (Shuuta Morishima) (eps 1-22)",
     "rating": "PG - Children",
     "tags": [
         "game"

@@ -1,5 +1,9 @@
 {
     "title": "I Am a Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121183.jpg",
+        "alt": "i-am-a-hero"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "264",

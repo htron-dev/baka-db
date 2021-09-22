@@ -1,5 +1,9 @@
 {
     "title": "Ningen Koujou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213090.jpg",
+        "alt": "ningen-koujou"
+    },
     "type": "manga",
     "original_name": "人間工場",
     "start_date": "2017-08-24",

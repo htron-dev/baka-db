@@ -1,5 +1,9 @@
 {
     "title": "Kitsune no Konoha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200493.jpg",
+        "alt": "kitsune-no-konoha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

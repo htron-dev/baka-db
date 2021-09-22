@@ -1,5 +1,9 @@
 {
     "title": "Shinigiwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186431.jpg",
+        "alt": "shinigiwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

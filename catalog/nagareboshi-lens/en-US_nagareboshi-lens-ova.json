@@ -1,5 +1,9 @@
 {
     "title": "Nagareboshi Lens",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/38377.jpg",
+        "alt": "nagareboshi-lens"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "流れ星レンズ",

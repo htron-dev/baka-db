@@ -1,5 +1,9 @@
 {
     "title": "Kurozuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/21844.jpg",
+        "alt": "kurozuka"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "黒塚",

@@ -1,5 +1,9 @@
 {
     "title": "Binbou Hime desu ga, Nani ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34486.jpg",
+        "alt": "binbou-hime-desu-ga-nani-ka"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

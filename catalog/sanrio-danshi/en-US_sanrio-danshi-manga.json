@@ -1,5 +1,9 @@
 {
     "title": "Sanrio Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181817.jpg",
+        "alt": "sanrio-danshi"
+    },
     "type": "manga",
     "original_name": "サンリオ男子",
     "start_date": "2016-04-04",

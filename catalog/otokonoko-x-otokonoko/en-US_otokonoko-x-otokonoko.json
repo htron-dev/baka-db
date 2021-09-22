@@ -1,5 +1,9 @@
 {
     "title": "Otokonoko x Otokonoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88163.jpg",
+        "alt": "otokonoko-x-otokonoko"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "おとこのこ × おとこのこ",

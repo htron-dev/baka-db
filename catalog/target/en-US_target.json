@@ -1,5 +1,9 @@
 {
     "title": "Target",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35361.jpg",
+        "alt": "target"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "2003-06-20",
@@ -11,7 +15,6 @@
         "Kobayashi",
         "Takumi (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

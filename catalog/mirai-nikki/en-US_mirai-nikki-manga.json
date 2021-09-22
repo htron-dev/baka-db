@@ -1,5 +1,9 @@
 {
     "title": "Mirai Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/16174.jpg",
+        "alt": "mirai-nikki"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "59",

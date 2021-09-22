@@ -1,5 +1,9 @@
 {
     "title": "Tenohira no Pan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83238.jpg",
+        "alt": "tenohira-no-pan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

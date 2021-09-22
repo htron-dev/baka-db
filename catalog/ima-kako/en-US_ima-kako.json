@@ -1,5 +1,9 @@
 {
     "title": "Ima Kako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236316.jpg",
+        "alt": "ima-kako"
+    },
     "type": "manga",
     "original_name": "いまかこ",
     "start_date": "2018-12-25",

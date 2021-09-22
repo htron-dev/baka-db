@@ -1,12 +1,16 @@
 {
     "title": "Rinne no Lagrange Season 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/39321.jpg",
+        "alt": "rinne-no-lagrange-season-2"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "輪廻のラグランジェ season 2",
     "start_date": "2012-07-08",
     "end_date": "2012-07-08",
     "opening_song": "\"Marble (マーブル)\" by Megumi Nakajima",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Jersey-Bu Tamashi! (ジャージ部魂!)\" by Kaori Ishihara, Asami Seto and Ai Kayano (eps 1-3, 7-9)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

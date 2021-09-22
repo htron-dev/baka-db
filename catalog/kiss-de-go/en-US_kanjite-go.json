@@ -1,5 +1,9 @@
 {
     "title": "Kanjite GO!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9112.jpg",
+        "alt": "kanjite-go"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "感じてＧＯ！",

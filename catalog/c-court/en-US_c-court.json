@@ -1,5 +1,9 @@
 {
     "title": "C Court",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166514.jpg",
+        "alt": "c-court"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

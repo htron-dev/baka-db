@@ -1,5 +1,9 @@
 {
     "title": "Oazuke 1DK",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195558.jpg",
+        "alt": "oazuke-1-dk"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "おあずけ 1DK",

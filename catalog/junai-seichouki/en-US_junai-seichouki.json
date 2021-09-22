@@ -1,5 +1,9 @@
 {
     "title": "Junai Seichouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2796.jpg",
+        "alt": "junai-seichouki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

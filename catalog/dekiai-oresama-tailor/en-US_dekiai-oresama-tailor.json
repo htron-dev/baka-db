@@ -1,5 +1,9 @@
 {
     "title": "Dekiai Oresama Tailor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46741.jpg",
+        "alt": "dekiai-oresama-tailor"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

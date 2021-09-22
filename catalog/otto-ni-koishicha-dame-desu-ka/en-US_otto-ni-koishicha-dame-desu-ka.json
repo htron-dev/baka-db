@@ -1,5 +1,9 @@
 {
     "title": "Otto ni Koishicha Dame desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237648.jpg",
+        "alt": "otto-ni-koishicha-dame-desu-ka"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "49",

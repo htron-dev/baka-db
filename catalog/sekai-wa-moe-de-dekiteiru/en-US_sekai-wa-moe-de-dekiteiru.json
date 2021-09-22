@@ -1,5 +1,9 @@
 {
     "title": "Sekai wa Moe de Dekiteiru!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/99825.jpg",
+        "alt": "sekai-wa-moe-de-dekiteiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "35",

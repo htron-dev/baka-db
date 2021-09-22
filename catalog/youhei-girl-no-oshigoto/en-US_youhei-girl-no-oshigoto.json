@@ -1,5 +1,9 @@
 {
     "title": "Youhei Girl no Oshigoto!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226063.jpg",
+        "alt": "youhei-girl-no-oshigoto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

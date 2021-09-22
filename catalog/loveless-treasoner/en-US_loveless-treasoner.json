@@ -1,5 +1,9 @@
 {
     "title": "Loveless Treasoner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151285.jpg",
+        "alt": "loveless-treasoner"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "ラブリストリズナー",

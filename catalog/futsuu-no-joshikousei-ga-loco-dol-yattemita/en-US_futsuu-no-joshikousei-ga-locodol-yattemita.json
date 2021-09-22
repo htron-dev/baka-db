@@ -1,12 +1,16 @@
 {
     "title": "Futsuu no Joshikousei ga [Locodol] Yattemita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/65309.jpg",
+        "alt": "futsuu-no-joshikousei-ga-locodol-yattemita"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "普通の女子校生が【ろこどる】やってみた。",
     "start_date": "2014-07-04",
     "end_date": "2014-07-04",
     "opening_song": "\"Mirai Fanfare (ミライファンファーレ)\" by Nagarekawa Girls [Nanako Usami (Miku Itou), Yukari Kohinata (Sachika Misawa)]",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mirai Shoujo-tachi (未来少女たち)\" by Nagarekawa Girls [Nanako Usami (Miku Itou), Yukari Kohinata (Sachika Misawa)] (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Gon 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/72771.jpg",
+        "alt": "gon-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "GON -ゴン-(第 2 期)",

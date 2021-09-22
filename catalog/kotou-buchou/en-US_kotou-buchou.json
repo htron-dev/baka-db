@@ -1,5 +1,9 @@
 {
     "title": "Kotou Buchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244084.jpg",
+        "alt": "kotou-buchou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

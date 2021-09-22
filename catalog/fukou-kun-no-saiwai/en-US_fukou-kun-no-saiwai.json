@@ -1,5 +1,9 @@
 {
     "title": "Fukou-kun no Saiwai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238154.jpg",
+        "alt": "fukou-kun-no-saiwai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

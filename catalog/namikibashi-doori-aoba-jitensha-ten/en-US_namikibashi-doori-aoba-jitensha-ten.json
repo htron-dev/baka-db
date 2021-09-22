@@ -1,5 +1,9 @@
 {
     "title": "Namikibashi-doori Aoba Jitensha-ten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166483.jpg",
+        "alt": "namikibashi-doori-aoba-jitensha-ten"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "165",

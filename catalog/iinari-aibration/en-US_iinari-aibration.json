@@ -1,5 +1,9 @@
 {
     "title": "Iinari! Aibration",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/50929.jpg",
+        "alt": "iinari-aibration"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

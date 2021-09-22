@@ -1,5 +1,9 @@
 {
     "title": "Kawaite Sourou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145051.jpg",
+        "alt": "kawaite-sourou"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "39",

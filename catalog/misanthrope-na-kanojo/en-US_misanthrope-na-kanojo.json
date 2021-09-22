@@ -1,5 +1,9 @@
 {
     "title": "Misanthrope na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192857.jpg",
+        "alt": "misanthrope-na-kanojo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

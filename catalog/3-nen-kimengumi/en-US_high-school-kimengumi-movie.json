@@ -1,5 +1,9 @@
 {
     "title": "High School! Kimengumi (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/64257.jpg",
+        "alt": "high-school-kimengumi-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハイスクール!奇面組　劇場版",

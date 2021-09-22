@@ -1,5 +1,9 @@
 {
     "title": "Hiyoko Bocchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154826.jpg",
+        "alt": "hiyoko-bocchi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ひよこぼっち",

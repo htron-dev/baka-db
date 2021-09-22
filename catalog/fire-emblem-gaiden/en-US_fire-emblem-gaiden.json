@@ -1,5 +1,9 @@
 {
     "title": "Fire Emblem Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64821.jpg",
+        "alt": "fire-emblem-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

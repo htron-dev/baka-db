@@ -1,5 +1,9 @@
 {
     "title": "Kateikyoushi no H na Iitsuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192276.jpg",
+        "alt": "kateikyoushi-no-h-na-iitsuke"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

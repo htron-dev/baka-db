@@ -1,5 +1,9 @@
 {
     "title": "Yoru to Asa no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/162252.jpg",
+        "alt": "yoru-to-asa-no-uta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

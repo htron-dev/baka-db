@@ -1,5 +1,9 @@
 {
     "title": "Nemurenai Yoru no Ohanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141991.jpg",
+        "alt": "nemurenai-yoru-no-ohanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

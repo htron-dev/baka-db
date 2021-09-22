@@ -1,5 +1,9 @@
 {
     "title": "Hatarakanai yo! Loki-senpai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200461.jpg",
+        "alt": "hatarakanai-yo-loki-senpai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

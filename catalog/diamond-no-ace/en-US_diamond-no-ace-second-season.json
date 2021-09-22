@@ -1,12 +1,16 @@
 {
     "title": "Diamond no Ace: Second Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/74398.jpg",
+        "alt": "diamond-no-ace-second-season"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ダイヤの A[エース]～ Second Season ～",
     "start_date": "2015-04-06",
     "end_date": "2015-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Go EXCEED!!\" by Tom-H@ck featuring Masayoshi Oishi (ep 1)",
+    "ending_song": "#1: \"Glory! (グローリー！)\" by Suzuko Mimori (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Pasta no Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166929.jpg",
+        "alt": "pasta-no-oukoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

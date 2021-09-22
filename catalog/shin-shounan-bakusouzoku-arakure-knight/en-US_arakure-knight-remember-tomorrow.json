@@ -1,5 +1,9 @@
 {
     "title": "Arakure Knight: Remember Tomorrow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243303.jpg",
+        "alt": "arakure-knight-remember-tomorrow"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "56",

@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Pikachu no Kirakira Daisousaku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/25970.jpg",
+        "alt": "pokemon-pikachu-no-kirakira-daisousaku"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ピカチュウのキラキラだいそうさく！",

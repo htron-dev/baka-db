@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Yappari Mama ga Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/58663.jpg",
+        "alt": "hello-kitty-no-yappari-mama-ga-suki"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのやっぱりママがすき",

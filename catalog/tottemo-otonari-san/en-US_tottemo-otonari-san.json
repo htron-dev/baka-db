@@ -1,5 +1,9 @@
 {
     "title": "Tottemo, Otonari-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85639.jpg",
+        "alt": "tottemo-otonari-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

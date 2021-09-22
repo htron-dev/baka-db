@@ -1,5 +1,9 @@
 {
     "title": "Aido",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28331.jpg",
+        "alt": "aido"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

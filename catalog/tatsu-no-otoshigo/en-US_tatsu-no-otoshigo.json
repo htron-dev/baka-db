@@ -1,5 +1,9 @@
 {
     "title": "Tatsu no Otoshigo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/98065.jpg",
+        "alt": "tatsu-no-otoshigo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

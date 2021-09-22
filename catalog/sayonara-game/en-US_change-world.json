@@ -1,5 +1,9 @@
 {
     "title": "Change World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204520.jpg",
+        "alt": "change-world"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

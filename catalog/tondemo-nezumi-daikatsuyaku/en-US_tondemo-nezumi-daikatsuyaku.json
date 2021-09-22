@@ -1,5 +1,9 @@
 {
     "title": "Tondemo Nezumi Daikatsuyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/58039.jpg",
+        "alt": "tondemo-nezumi-daikatsuyaku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "トンデモネズミ大活躍",

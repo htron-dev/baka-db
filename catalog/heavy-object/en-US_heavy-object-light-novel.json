@@ -1,5 +1,9 @@
 {
     "title": "Heavy Object",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174968.jpg",
+        "alt": "heavy-object"
+    },
     "type": "light-novel",
     "original_name": "ヘヴィーオブジェクト",
     "start_date": "2009-10-10",

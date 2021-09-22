@@ -1,5 +1,9 @@
 {
     "title": "Hayami-san no Enmusubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126357.jpg",
+        "alt": "hayami-san-no-enmusubi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "羽矢美さんの縁結び",

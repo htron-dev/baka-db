@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Devil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21326.jpg",
+        "alt": "gakuen-devil"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

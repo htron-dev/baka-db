@@ -1,5 +1,9 @@
 {
     "title": "Ippatsu Hicchuu!! Devander",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/89823.jpg",
+        "alt": "ippatsu-hicchuu-devander"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "一発必中!! デバンダー",

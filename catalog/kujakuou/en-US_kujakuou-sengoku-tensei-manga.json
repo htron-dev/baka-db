@@ -1,5 +1,9 @@
 {
     "title": "Kujakuou: Sengoku Tensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144661.jpg",
+        "alt": "kujakuou-sengoku-tensei"
+    },
     "type": "manga",
     "original_name": "孔雀王 ～戦国転生～",
     "start_date": "2012-10-26",

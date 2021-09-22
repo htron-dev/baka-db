@@ -1,5 +1,9 @@
 {
     "title": "Nade Pro!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/91829.jpg",
+        "alt": "nade-pro"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

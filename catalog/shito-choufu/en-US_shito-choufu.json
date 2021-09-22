@@ -1,5 +1,9 @@
 {
     "title": "Shito Choufu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224956.jpg",
+        "alt": "shito-choufu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Saiteihen kara New Game!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197352.jpg",
+        "alt": "saiteihen-kara-new-game"
+    },
     "type": "light-novel",
     "original_name": "最底辺からニューゲーム！",
     "start_date": "2017-07-01",

@@ -1,5 +1,9 @@
 {
     "title": "Sennou Shitsuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236822.jpg",
+        "alt": "sennou-shitsuji"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

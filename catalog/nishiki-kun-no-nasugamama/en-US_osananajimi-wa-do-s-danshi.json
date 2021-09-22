@@ -1,5 +1,9 @@
 {
     "title": "Osananajimi wa Do S Danshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171960.jpg",
+        "alt": "osananajimi-wa-do-s-danshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

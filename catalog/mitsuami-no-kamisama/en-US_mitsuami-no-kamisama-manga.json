@@ -1,5 +1,9 @@
 {
     "title": "Mitsuami no Kamisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123041.jpg",
+        "alt": "mitsuami-no-kamisama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "20",

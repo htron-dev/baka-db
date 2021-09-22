@@ -1,5 +1,9 @@
 {
     "title": "Junk! Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18986.jpg",
+        "alt": "junk-boys"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Shigoto suru yori Kimi to Netai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240050.jpg",
+        "alt": "shigoto-suru-yori-kimi-to-netai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

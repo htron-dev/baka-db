@@ -1,5 +1,9 @@
 {
     "title": "Chronicle Legion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205377.jpg",
+        "alt": "chronicle-legion"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "49",

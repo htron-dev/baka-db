@@ -1,5 +1,9 @@
 {
     "title": "Pokémon the Movie XY: Ring no Choumajin Hoopa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167450.jpg",
+        "alt": "pokemon-the-movie-xy-ring-no-choumajin-hoopa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

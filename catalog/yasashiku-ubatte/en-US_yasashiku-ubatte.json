@@ -1,5 +1,9 @@
 {
     "title": "Yasashiku Ubatte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79343.jpg",
+        "alt": "yasashiku-ubatte"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "やさしく奪って",

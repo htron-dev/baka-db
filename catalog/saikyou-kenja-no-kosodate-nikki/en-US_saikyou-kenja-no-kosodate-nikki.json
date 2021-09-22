@@ -1,5 +1,9 @@
 {
     "title": "Saikyou Kenja no Kosodate Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197356.jpg",
+        "alt": "saikyou-kenja-no-kosodate-nikki"
+    },
     "type": "light-novel",
     "original_name": "最強賢者の子育て日記",
     "start_date": "2017-07-10",

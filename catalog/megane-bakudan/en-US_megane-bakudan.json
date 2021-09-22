@@ -1,5 +1,9 @@
 {
     "title": "Megane Bakudan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37625.jpg",
+        "alt": "megane-bakudan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

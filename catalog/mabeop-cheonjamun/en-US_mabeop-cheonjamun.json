@@ -1,5 +1,9 @@
 {
     "title": "Mabeop Cheonjamun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240472.jpg",
+        "alt": "mabeop-cheonjamun"
+    },
     "type": "manhwa",
     "original_name": "마법천자문",
     "start_date": "2003-11-14",

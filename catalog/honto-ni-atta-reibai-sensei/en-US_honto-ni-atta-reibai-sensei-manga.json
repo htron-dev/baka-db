@@ -1,5 +1,9 @@
 {
     "title": "Honto ni Atta! Reibai Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167014.jpg",
+        "alt": "honto-ni-atta-reibai-sensei"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "213",

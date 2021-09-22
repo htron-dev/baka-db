@@ -1,5 +1,9 @@
 {
     "title": "Mahoroba Kissa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171490.jpg",
+        "alt": "mahoroba-kissa"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "43",

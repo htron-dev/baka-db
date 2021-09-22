@@ -1,5 +1,9 @@
 {
     "title": "Zaika no Grimm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222603.jpg",
+        "alt": "zaika-no-grimm"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

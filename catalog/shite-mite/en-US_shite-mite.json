@@ -1,5 +1,9 @@
 {
     "title": "Shite Mite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42197.jpg",
+        "alt": "shite-mite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

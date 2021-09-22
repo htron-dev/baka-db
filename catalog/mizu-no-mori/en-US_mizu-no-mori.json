@@ -1,5 +1,9 @@
 {
     "title": "Mizu no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202970.jpg",
+        "alt": "mizu-no-mori"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

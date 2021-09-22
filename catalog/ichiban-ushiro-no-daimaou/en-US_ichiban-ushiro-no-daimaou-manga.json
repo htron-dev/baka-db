@@ -1,5 +1,9 @@
 {
     "title": "Ichiban Ushiro no Daimaou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82282.jpg",
+        "alt": "ichiban-ushiro-no-daimaou"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

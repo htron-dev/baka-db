@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Himitsu wo Kyouyuu Shiyou ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147737.jpg",
+        "alt": "bokura-no-himitsu-wo-kyouyuu-shiyou-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

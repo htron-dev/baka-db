@@ -1,5 +1,9 @@
 {
     "title": "Love ni Peace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161763.jpg",
+        "alt": "love-ni-peace"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

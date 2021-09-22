@@ -1,5 +1,9 @@
 {
     "title": "Shiawase no Kizuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246995.jpg",
+        "alt": "shiawase-no-kizuna"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "しあわせの絆",

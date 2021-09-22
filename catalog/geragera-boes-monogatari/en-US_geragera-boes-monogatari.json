@@ -1,5 +1,9 @@
 {
     "title": "Geragera Boes Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1099/110002.jpg",
+        "alt": "geragera-boes-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "げらげらブース物語",
@@ -25,7 +29,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Ox_Tales_(anime"
+            "link": "http://en.wikipedia.org/wiki/Ox_Tales_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Sukebe no Seishun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237894.jpg",
+        "alt": "sukebe-no-seishun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

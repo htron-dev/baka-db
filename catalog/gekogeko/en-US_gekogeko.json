@@ -1,5 +1,9 @@
 {
     "title": "Gekogeko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169585.jpg",
+        "alt": "gekogeko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

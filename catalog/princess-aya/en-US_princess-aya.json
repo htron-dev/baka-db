@@ -1,5 +1,9 @@
 {
     "title": "Princess Aya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1361/108059.jpg",
+        "alt": "princess-aya"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "프린세스 아야",

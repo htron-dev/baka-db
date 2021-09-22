@@ -1,5 +1,9 @@
 {
     "title": "Fuufu Ijou, Koibito Miman.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215132.jpg",
+        "alt": "fuufu-ijou-koibito-miman"
+    },
     "type": "manga",
     "original_name": "夫婦以上、恋人未満。",
     "start_date": "2018-03-02",

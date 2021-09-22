@@ -1,5 +1,9 @@
 {
     "title": "Folklore no Gochisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238005.jpg",
+        "alt": "folklore-no-gochisou"
+    },
     "type": "manga",
     "original_name": "フォークロアのごちそう",
     "start_date": "2019-10-21",

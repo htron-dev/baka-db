@@ -1,5 +1,9 @@
 {
     "title": "Kuroinu O'clock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128165.jpg",
+        "alt": "kuroinu-oclock"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Beotkkotnamu Kokkiri Sup",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1487/103167.jpg",
+        "alt": "beotkkotnamu-kokkiri-sup"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "벚꽃나무 코끼리 숲",

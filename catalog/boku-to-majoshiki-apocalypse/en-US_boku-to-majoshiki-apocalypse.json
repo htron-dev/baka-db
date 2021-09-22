@@ -1,5 +1,9 @@
 {
     "title": "Boku to Majoshiki Apocalypse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164385.jpg",
+        "alt": "boku-to-majoshiki-apocalypse"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

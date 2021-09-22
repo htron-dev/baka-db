@@ -1,5 +1,9 @@
 {
     "title": "Risou no Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235419.jpg",
+        "alt": "risou-no-otoko"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "21",

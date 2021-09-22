@@ -1,5 +1,9 @@
 {
     "title": "SA07",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228099.jpg",
+        "alt": "sa-07"
+    },
     "type": "manga",
     "original_name": "SA07 エスエーゼロナナ",
     "start_date": "2019-07-24",

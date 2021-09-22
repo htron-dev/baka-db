@@ -1,5 +1,9 @@
 {
     "title": "Renlei Bowuguan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1604/108296.jpg",
+        "alt": "renlei-bowuguan"
+    },
     "type": "ona",
     "episodes": "36",
     "original_name": "人类博物馆",

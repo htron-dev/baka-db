@@ -1,5 +1,9 @@
 {
     "title": "My Stardust",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14909.jpg",
+        "alt": "my-stardust"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マイスターダスト",

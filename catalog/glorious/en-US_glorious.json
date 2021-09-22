@@ -1,5 +1,9 @@
 {
     "title": "Glorious",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/71061.jpg",
+        "alt": "glorious"
+    },
     "type": "manhwa",
     "original_name": "연재작정보",
     "tags": [

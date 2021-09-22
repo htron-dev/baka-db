@@ -1,5 +1,9 @@
 {
     "title": "Hard Core Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14748.jpg",
+        "alt": "hard-core-heart"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

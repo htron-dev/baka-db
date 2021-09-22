@@ -1,5 +1,9 @@
 {
     "title": "A-gumi de Aou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/175897.jpg",
+        "alt": "a-gumi-de-aou"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "A 組で会おう",

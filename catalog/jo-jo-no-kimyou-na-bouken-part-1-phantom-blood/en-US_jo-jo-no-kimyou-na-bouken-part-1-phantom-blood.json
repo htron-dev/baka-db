@@ -1,5 +1,9 @@
 {
     "title": "JoJo no Kimyou na Bouken Part 1: Phantom Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198213.jpg",
+        "alt": "jo-jo-no-kimyou-na-bouken-part-1-phantom-blood"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "44",

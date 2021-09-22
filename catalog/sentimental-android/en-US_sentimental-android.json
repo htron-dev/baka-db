@@ -1,5 +1,9 @@
 {
     "title": "Sentimental\\*Android",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/81300.jpg",
+        "alt": "sentimental-android"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "センチメンタル\\*アンドロイド",

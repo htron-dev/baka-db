@@ -1,5 +1,9 @@
 {
     "title": "Yuuwaku Vanilla Fukigen Mint",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166412.jpg",
+        "alt": "yuuwaku-vanilla-fukigen-mint"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

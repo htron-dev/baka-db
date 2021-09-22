@@ -1,5 +1,9 @@
 {
     "title": "Wild School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/14927.jpg",
+        "alt": "wild-school"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "24",

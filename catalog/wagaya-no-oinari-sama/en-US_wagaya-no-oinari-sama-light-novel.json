@@ -1,5 +1,9 @@
 {
     "title": "Wagaya no Oinari-sama.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15424.jpg",
+        "alt": "wagaya-no-oinari-sama"
+    },
     "type": "light-novel",
     "original_name": "我が家のお稲荷さま。",
     "start_date": "2004-02-10",

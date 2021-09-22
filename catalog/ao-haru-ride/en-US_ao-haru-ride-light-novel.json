@@ -1,5 +1,9 @@
 {
     "title": "Ao Haru Ride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181438.jpg",
+        "alt": "ao-haru-ride"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "20",

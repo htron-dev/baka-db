@@ -1,5 +1,9 @@
 {
     "title": "Keishichou 24-ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23571.jpg",
+        "alt": "keishichou-24-ji"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "警死庁 24 時",

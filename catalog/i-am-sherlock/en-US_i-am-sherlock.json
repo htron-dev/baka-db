@@ -1,5 +1,9 @@
 {
     "title": "I Am Sherlock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199488.jpg",
+        "alt": "i-am-sherlock"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Notpia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28878.jpg",
+        "alt": "notpia"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Akuma de Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151956.jpg",
+        "alt": "akuma-de-knight"
+    },
     "type": "light-novel",
     "original_name": "悪魔で騎士〈ナイト〉",
     "start_date": "2014-12-15",

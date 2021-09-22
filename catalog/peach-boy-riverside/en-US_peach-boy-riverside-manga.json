@@ -1,5 +1,9 @@
 {
     "title": "Peach Boy Riverside",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173055.jpg",
+        "alt": "peach-boy-riverside"
+    },
     "type": "manga",
     "original_name": "ピーチボーイリバーサイド",
     "start_date": "2015-08-20",

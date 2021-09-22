@@ -1,5 +1,9 @@
 {
     "title": "Haiiro no Iris",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96799.jpg",
+        "alt": "haiiro-no-iris"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "28",

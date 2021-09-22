@@ -1,5 +1,9 @@
 {
     "title": "Onigiri Chisa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170073.jpg",
+        "alt": "onigiri-chisa"
+    },
     "type": "manga",
     "original_name": "おにぎりちさ",
     "start_date": "2015-01-19",

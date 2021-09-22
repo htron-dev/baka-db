@@ -1,5 +1,9 @@
 {
     "title": "Hanbun no Tsuki ga Noboru Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75201.jpg",
+        "alt": "hanbun-no-tsuki-ga-noboru-sora"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "半分の月がのぼる空",

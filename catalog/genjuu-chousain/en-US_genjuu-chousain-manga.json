@@ -1,5 +1,9 @@
 {
     "title": "Genjuu Chousain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206678.jpg",
+        "alt": "genjuu-chousain"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

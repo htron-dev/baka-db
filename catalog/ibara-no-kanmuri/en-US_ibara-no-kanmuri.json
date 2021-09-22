@@ -1,5 +1,9 @@
 {
     "title": "Ibara no Kanmuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166255.jpg",
+        "alt": "ibara-no-kanmuri"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

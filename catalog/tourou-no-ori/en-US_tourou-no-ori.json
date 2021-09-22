@@ -1,5 +1,9 @@
 {
     "title": "Tourou no Ori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186271.jpg",
+        "alt": "tourou-no-ori"
+    },
     "type": "manga",
     "original_name": "蟷螂の檻",
     "start_date": "2014-01-25",

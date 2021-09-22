@@ -1,5 +1,9 @@
 {
     "title": "Smile Brush",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174109.jpg",
+        "alt": "smile-brush"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "35",

@@ -1,5 +1,9 @@
 {
     "title": "Ookami-kun ni Aisaretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241916.jpg",
+        "alt": "ookami-kun-ni-aisaretai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

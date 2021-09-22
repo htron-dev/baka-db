@@ -1,5 +1,9 @@
 {
     "title": "Mitsu-iro no Yakusoku: Nusumareta Seijo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192402.jpg",
+        "alt": "mitsu-iro-no-yakusoku-nusumareta-seijo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

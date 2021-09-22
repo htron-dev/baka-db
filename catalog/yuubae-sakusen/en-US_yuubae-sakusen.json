@@ -1,5 +1,9 @@
 {
     "title": "Yuubae Sakusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151641.jpg",
+        "alt": "yuubae-sakusen"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "夕ばえ作戦",

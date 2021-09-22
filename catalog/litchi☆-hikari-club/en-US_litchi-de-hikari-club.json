@@ -1,5 +1,9 @@
 {
     "title": "Litchi DE Hikari Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/40867.jpg",
+        "alt": "litchi-de-hikari-club"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "ライチ DE 光クラブ",

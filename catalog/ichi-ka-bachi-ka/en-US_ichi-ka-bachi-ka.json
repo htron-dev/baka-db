@@ -1,5 +1,9 @@
 {
     "title": "Ichi ka, Bachi ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225774.jpg",
+        "alt": "ichi-ka-bachi-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

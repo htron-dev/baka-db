@@ -1,5 +1,9 @@
 {
     "title": "Honoo no Mirage: Showa-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149268.jpg",
+        "alt": "honoo-no-mirage-showa-hen"
+    },
     "type": "light-novel",
     "original_name": "炎の蜃気楼 昭和編",
     "start_date": "2014-01-10",

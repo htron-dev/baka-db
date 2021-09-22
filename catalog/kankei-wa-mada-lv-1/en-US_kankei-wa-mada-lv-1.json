@@ -1,5 +1,9 @@
 {
     "title": "Kankei wa Mada Lv.1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172246.jpg",
+        "alt": "kankei-wa-mada-lv-1"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

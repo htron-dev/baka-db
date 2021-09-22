@@ -1,5 +1,9 @@
 {
     "title": "Urayami: Shouwa Nihon Kishuu-shuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212939.jpg",
+        "alt": "urayami-shouwa-nihon-kishuu-shuu"
+    },
     "type": "manga",
     "original_name": "ウラヤミ～昭和日本奇習集～",
     "start_date": "2018-10-31",

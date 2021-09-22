@@ -1,5 +1,9 @@
 {
     "title": "Wadaiko†Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135031.jpg",
+        "alt": "wadaiko-girls"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

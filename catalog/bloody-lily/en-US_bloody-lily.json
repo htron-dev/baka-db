@@ -1,5 +1,9 @@
 {
     "title": "Bloody Lily",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149699.jpg",
+        "alt": "bloody-lily"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

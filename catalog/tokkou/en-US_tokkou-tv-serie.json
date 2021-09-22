@@ -1,5 +1,9 @@
 {
     "title": "Tokkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/18280.jpg",
+        "alt": "tokkou"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "TOKKÔ[特公]",

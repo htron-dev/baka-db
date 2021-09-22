@@ -1,5 +1,9 @@
 {
     "title": "Kage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/71335.jpg",
+        "alt": "kage"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "かげ",

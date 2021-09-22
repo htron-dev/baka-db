@@ -1,5 +1,9 @@
 {
     "title": "Tsukiyo no Fromage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10575.jpg",
+        "alt": "tsukiyo-no-fromage"
+    },
     "type": "manga",
     "original_name": "月夜のフロマージュ",
     "tags": [

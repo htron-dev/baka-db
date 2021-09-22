@@ -1,5 +1,9 @@
 {
     "title": "Kareshi no Neko ga Kawaikunai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227010.jpg",
+        "alt": "kareshi-no-neko-ga-kawaikunai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

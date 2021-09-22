@@ -1,5 +1,9 @@
 {
     "title": "Shabake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1782/116029.jpg",
+        "alt": "shabake"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "しゃばけ",

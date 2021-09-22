@@ -1,5 +1,9 @@
 {
     "title": "Otomodachi Robo: Choco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159205.jpg",
+        "alt": "otomodachi-robo-choco"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "おともだちロボ チョコ",

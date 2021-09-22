@@ -1,5 +1,9 @@
 {
     "title": "Hazama ni Aru Sorane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7736.jpg",
+        "alt": "hazama-ni-aru-sorane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

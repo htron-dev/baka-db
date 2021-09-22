@@ -1,5 +1,9 @@
 {
     "title": "Youki no Straight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242624.jpg",
+        "alt": "youki-no-straight"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

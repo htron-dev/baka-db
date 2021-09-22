@@ -1,5 +1,9 @@
 {
     "title": "Chagecha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113895.jpg",
+        "alt": "chagecha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

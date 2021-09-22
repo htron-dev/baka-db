@@ -1,5 +1,9 @@
 {
     "title": "Bamboo Blade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1790/114537.jpg",
+        "alt": "bamboo-blade"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "バンブーブレード",

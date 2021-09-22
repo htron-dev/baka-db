@@ -1,5 +1,9 @@
 {
     "title": "Hayate x Blade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4812.jpg",
+        "alt": "hayate-x-blade"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "115",

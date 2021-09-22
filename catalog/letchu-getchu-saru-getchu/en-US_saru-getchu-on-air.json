@@ -1,5 +1,9 @@
 {
     "title": "Saru Getchu: On Air",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/24681.jpg",
+        "alt": "saru-getchu-on-air"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "サルゲッチュ ～オンエアー～",

@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball: Episode of Bardock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/50851.jpg",
+        "alt": "dragon-ball-episode-of-bardock"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

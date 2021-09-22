@@ -1,5 +1,9 @@
 {
     "title": "Illegal Rare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126881.jpg",
+        "alt": "illegal-rare"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

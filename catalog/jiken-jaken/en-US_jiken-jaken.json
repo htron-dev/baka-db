@@ -1,5 +1,9 @@
 {
     "title": "Jiken-Jaken!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191674.jpg",
+        "alt": "jiken-jaken"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "92",

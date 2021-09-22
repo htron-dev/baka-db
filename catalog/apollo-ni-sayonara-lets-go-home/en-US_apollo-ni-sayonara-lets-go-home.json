@@ -1,5 +1,9 @@
 {
     "title": "Apollo ni Sayonara: Let's Go Home!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155640.jpg",
+        "alt": "apollo-ni-sayonara-lets-go-home"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

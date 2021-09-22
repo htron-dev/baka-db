@@ -1,5 +1,9 @@
 {
     "title": "Zoids SS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/97039.jpg",
+        "alt": "zoids-ss"
+    },
     "type": "manga",
     "original_name": "Zoids SS",
     "start_date": "2013-05-25",

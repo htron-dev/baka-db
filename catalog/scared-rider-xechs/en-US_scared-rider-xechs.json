@@ -1,12 +1,16 @@
 {
     "title": "Scared Rider Xechs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/79983.jpg",
+        "alt": "scared-rider-xechs"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "スカーレッドライダーゼクス",
     "start_date": "2016-07-06",
     "end_date": "2016-07-06",
     "opening_song": "\"Ao to Kurenai no Forzato (青と紅のフォルツァート)\" by Yousuke Christoph Komae (Tatsuhisa Suzuki) & Takuto Kirisawa (Mamoru Miyano)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"old revelation\" by Hijiri Mutsuki (KENN) (eps 1-6, 8-9, 11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

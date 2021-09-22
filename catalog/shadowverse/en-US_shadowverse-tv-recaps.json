@@ -1,5 +1,9 @@
 {
     "title": "Shadowverse (TV) Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1711/108554.jpg",
+        "alt": "shadowverse-tv-recaps"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "シャドウバース特別編",

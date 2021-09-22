@@ -1,5 +1,9 @@
 {
     "title": "Canvas 2: Nijiiro no Sketch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4763.jpg",
+        "alt": "canvas-2-nijiiro-no-sketch"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

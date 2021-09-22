@@ -1,5 +1,9 @@
 {
     "title": "Zawazawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/82265.jpg",
+        "alt": "zawazawa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ZAWAZAWA",

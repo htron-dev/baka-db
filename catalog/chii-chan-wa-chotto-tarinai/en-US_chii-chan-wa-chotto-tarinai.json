@@ -1,5 +1,9 @@
 {
     "title": "Chii-chan wa Chotto Tarinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124561.jpg",
+        "alt": "chii-chan-wa-chotto-tarinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

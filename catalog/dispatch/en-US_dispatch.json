@@ -1,5 +1,9 @@
 {
     "title": "Dispatch!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177219.jpg",
+        "alt": "dispatch"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

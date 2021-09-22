@@ -1,5 +1,9 @@
 {
     "title": "Seishun Strategy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241315.jpg",
+        "alt": "seishun-strategy"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

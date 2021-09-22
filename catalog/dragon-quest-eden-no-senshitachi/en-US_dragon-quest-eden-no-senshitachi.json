@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest: Eden no Senshitachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/896.jpg",
+        "alt": "dragon-quest-eden-no-senshitachi"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "59",

@@ -1,5 +1,9 @@
 {
     "title": "Cencoroll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1732/96096.jpg",
+        "alt": "cencoroll"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "センコロール",

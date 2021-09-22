@@ -1,5 +1,9 @@
 {
     "title": "Hana no Arashi wa,",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39850.jpg",
+        "alt": "hana-no-arashi-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

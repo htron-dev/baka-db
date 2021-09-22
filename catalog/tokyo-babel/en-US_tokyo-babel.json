@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Babel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235776.jpg",
+        "alt": "tokyo-babel"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

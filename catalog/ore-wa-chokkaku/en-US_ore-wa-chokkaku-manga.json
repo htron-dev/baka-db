@@ -1,5 +1,9 @@
 {
     "title": "Ore wa Chokkaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/98337.jpg",
+        "alt": "ore-wa-chokkaku"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "おれは直角",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ghoul:re 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1271/95623.jpg",
+        "alt": "tokyo-ghoul-re-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "京喰種トーキョーグール：re 第 2 期",

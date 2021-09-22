@@ -1,5 +1,9 @@
 {
     "title": "Ginga Tetsudou 999 (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/50505.jpg",
+        "alt": "ginga-tetsudou-999-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "銀河鉄道９９９",

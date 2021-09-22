@@ -1,5 +1,9 @@
 {
     "title": "Captain (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1393/92204.jpg",
+        "alt": "captain-tv"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "キャプテン",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Captain_(manga"
+            "link": "http://en.wikipedia.org/wiki/Captain_%28manga%29"
         }
     ]
 }

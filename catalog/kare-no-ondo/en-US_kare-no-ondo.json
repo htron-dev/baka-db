@@ -1,5 +1,9 @@
 {
     "title": "Kare no Ondo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29058.jpg",
+        "alt": "kare-no-ondo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

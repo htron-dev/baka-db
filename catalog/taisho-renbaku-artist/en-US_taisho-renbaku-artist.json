@@ -1,5 +1,9 @@
 {
     "title": "Taisho Renbaku Artist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247130.jpg",
+        "alt": "taisho-renbaku-artist"
+    },
     "type": "manga",
     "original_name": "大正恋縛アルチスト",
     "start_date": "2019-04-15",

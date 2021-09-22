@@ -1,5 +1,9 @@
 {
     "title": "Sexy Guardian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3762.jpg",
+        "alt": "sexy-guardian"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

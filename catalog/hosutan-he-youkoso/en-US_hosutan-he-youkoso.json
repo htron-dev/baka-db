@@ -1,5 +1,9 @@
 {
     "title": "Hosutan he Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12461.jpg",
+        "alt": "hosutan-he-youkoso"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

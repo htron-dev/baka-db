@@ -1,5 +1,9 @@
 {
     "title": "Tamanegi Nanka Kowakunai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/249322.jpg",
+        "alt": "tamanegi-nanka-kowakunai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "タマネギなんかこわくない！",

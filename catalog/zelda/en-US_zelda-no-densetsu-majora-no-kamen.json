@@ -1,5 +1,9 @@
 {
     "title": "Zelda no Densetsu: Majora no Kamen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126025.jpg",
+        "alt": "zelda-no-densetsu-majora-no-kamen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

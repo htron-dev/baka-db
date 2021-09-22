@@ -1,12 +1,16 @@
 {
     "title": "Special A",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/77363.jpg",
+        "alt": "special-a"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "スペシャル・エー",
     "start_date": "2008-04-07",
     "end_date": "2008-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Special Days\" by Hitomi Nabatame, Yuuko Gotou, Ayahi Takagaki (eps 1-12)",
+    "ending_song": "#1: \"Hidamari no Gate (陽だまりのゲート)\" by Jun Fukuyama, Hiro Shimono, Tsubasa Yonaga, Kazuma Horie (eps 1-12, 24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

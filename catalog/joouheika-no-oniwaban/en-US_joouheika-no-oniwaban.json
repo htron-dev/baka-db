@@ -1,5 +1,9 @@
 {
     "title": "Joouheika no Oniwaban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147007.jpg",
+        "alt": "joouheika-no-oniwaban"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

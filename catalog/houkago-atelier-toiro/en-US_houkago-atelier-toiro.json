@@ -1,5 +1,9 @@
 {
     "title": "Houkago Atelier Toiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64797.jpg",
+        "alt": "houkago-atelier-toiro"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "61",

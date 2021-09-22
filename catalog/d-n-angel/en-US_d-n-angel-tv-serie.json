@@ -1,12 +1,16 @@
 {
     "title": "D.N.Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/73938.jpg",
+        "alt": "d-n-angel"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "Ｄ・Ｎ・ＡＮＧＥＬ",
     "start_date": "2003-04-03",
     "end_date": "2003-04-03",
     "opening_song": "\"Byakuya ~ True Light\" by Miyamoto Shunichi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yasashii gogo\" by Minawo (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Seiai Reizoku Ecstasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238610.jpg",
+        "alt": "seiai-reizoku-ecstasy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

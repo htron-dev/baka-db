@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Toiki Ai no Kizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10208.jpg",
+        "alt": "tsuki-no-toiki-ai-no-kizu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

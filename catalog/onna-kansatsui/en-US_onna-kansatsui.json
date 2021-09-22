@@ -1,5 +1,9 @@
 {
     "title": "Onna Kansatsui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39285.jpg",
+        "alt": "onna-kansatsui"
+    },
     "type": "manga",
     "original_name": "女監察医",
     "tags": [

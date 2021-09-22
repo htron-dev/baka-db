@@ -1,5 +1,9 @@
 {
     "title": "Peach Girl Fan Book",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13125.jpg",
+        "alt": "peach-girl-fan-book"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ピーチガール ファン BOOK",

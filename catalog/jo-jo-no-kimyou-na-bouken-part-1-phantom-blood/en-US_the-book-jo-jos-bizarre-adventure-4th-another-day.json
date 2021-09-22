@@ -1,5 +1,9 @@
 {
     "title": "The Book: JoJo's Bizarre Adventure 4th Another Day",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/60351.jpg",
+        "alt": "the-book-jo-jos-bizarre-adventure-4th-another-day"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kick no Oni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1578/113488.jpg",
+        "alt": "kick-no-oni"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "キックの鬼",

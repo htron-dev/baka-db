@@ -1,5 +1,9 @@
 {
     "title": "Heaven Above Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152325.jpg",
+        "alt": "heaven-above-heaven"
+    },
     "type": "manhwa",
     "volumes": "6",
     "original_name": "천외천",

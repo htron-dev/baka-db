@@ -1,5 +1,9 @@
 {
     "title": "Entotsuya Peroo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/69013.jpg",
+        "alt": "entotsuya-peroo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "煙突屋ペロー",

@@ -1,5 +1,9 @@
 {
     "title": "Black Jack ONA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/17826.jpg",
+        "alt": "black-jack-ona"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "ブラック・ジャック(インターネット版)",

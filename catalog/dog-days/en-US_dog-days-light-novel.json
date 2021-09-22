@@ -1,5 +1,9 @@
 {
     "title": "Dog Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145041.jpg",
+        "alt": "dog-days"
+    },
     "type": "light-novel",
     "chapters": "4",
     "original_name": "DOG DAYS",

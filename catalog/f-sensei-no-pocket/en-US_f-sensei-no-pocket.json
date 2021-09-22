@@ -1,5 +1,9 @@
 {
     "title": "F-sensei no Pocket",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158053.jpg",
+        "alt": "f-sensei-no-pocket"
+    },
     "type": "light-novel",
     "chapters": "1",
     "original_name": "F 先生のポケット",

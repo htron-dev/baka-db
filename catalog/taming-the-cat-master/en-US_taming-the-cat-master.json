@@ -1,5 +1,9 @@
 {
     "title": "Taming the Cat Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41025.jpg",
+        "alt": "taming-the-cat-master"
+    },
     "type": "manhwa",
     "volumes": "12",
     "chapters": "45",

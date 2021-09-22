@@ -1,11 +1,15 @@
 {
     "title": "Misute♡naide Daisy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1936.jpg",
+        "alt": "misute♡naide-daisy"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "みすて ♡ ないでデイジー",
     "start_date": "1997-07-03",
     "end_date": "1997-07-03",
-    "opening_song": "\"Girlfriend",
+    "opening_song": "\"Girlfriend: Boku no Kyouhansha (ガールフレンド~僕の共犯者~)\" by Side One",
     "ending_song": "\"One More Chance\" by Yukie Nakama",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

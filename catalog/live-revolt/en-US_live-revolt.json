@@ -1,5 +1,9 @@
 {
     "title": "LiveRevolt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220965.jpg",
+        "alt": "live-revolt"
+    },
     "type": "manga",
     "original_name": "ライブレボルト",
     "start_date": "2017-04-29",

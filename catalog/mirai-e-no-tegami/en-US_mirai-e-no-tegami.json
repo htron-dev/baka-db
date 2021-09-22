@@ -1,5 +1,9 @@
 {
     "title": "Mirai e no tegami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15229.jpg",
+        "alt": "mirai-e-no-tegami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Tenchi Muyou! in Love 2: Eternal Memory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40763.jpg",
+        "alt": "tenchi-muyou-in-love-2-eternal-memory"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

@@ -1,5 +1,9 @@
 {
     "title": "Sensei to Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18189.jpg",
+        "alt": "sensei-to-watashi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "先生とワタシ。",

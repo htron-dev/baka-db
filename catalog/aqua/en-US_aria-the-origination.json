@@ -1,5 +1,9 @@
 {
     "title": "Aria the Origination",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/77623.jpg",
+        "alt": "aria-the-origination"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ARIA The ORIGINATION",

@@ -1,5 +1,9 @@
 {
     "title": "Renai Distortion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/28341.jpg",
+        "alt": "renai-distortion"
+    },
     "type": "manga",
     "original_name": "恋愛ディストーション",
     "start_date": "1998-05-30",

@@ -1,5 +1,9 @@
 {
     "title": "Enzai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210932.jpg",
+        "alt": "enzai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "冤罪",

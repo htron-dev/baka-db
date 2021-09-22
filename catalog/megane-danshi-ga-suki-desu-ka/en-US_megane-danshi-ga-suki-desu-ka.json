@@ -1,5 +1,9 @@
 {
     "title": "Megane Danshi ga Suki desu Ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38467.jpg",
+        "alt": "megane-danshi-ga-suki-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

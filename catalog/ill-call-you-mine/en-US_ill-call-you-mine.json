@@ -1,5 +1,9 @@
 {
     "title": "I'll Call You Mine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72557.jpg",
+        "alt": "ill-call-you-mine"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Anarchy in the JK",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157122.jpg",
+        "alt": "anarchy-in-the-jk"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

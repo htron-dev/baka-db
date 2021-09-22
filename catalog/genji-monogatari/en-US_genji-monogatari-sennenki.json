@@ -1,5 +1,9 @@
 {
     "title": "Genji Monogatari Sennenki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/26659.jpg",
+        "alt": "genji-monogatari-sennenki"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "源氏物語千年紀 Genji",

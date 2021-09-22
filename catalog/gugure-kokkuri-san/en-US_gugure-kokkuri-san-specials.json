@@ -1,5 +1,9 @@
 {
     "title": "Gugure! Kokkuri-san Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/67735.jpg",
+        "alt": "gugure-kokkuri-san-specials"
+    },
     "type": "special",
     "episodes": "11",
     "original_name": "繰繰れ！コックリさん",

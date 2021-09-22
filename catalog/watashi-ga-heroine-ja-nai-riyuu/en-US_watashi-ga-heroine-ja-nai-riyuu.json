@@ -1,5 +1,9 @@
 {
     "title": "Watashi ga Heroine ja Nai Riyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172534.jpg",
+        "alt": "watashi-ga-heroine-ja-nai-riyuu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

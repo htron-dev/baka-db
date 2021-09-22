@@ -1,5 +1,9 @@
 {
     "title": "Shuumatsu no Sadako-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228349.jpg",
+        "alt": "shuumatsu-no-sadako-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

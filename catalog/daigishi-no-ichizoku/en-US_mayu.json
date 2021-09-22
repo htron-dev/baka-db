@@ -1,5 +1,9 @@
 {
     "title": "Mayu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2820.jpg",
+        "alt": "mayu"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

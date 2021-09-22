@@ -1,5 +1,9 @@
 {
     "title": "Toumei Ningen no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/107299.jpg",
+        "alt": "toumei-ningen-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

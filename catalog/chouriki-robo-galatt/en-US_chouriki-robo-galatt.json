@@ -1,12 +1,16 @@
 {
     "title": "Chouriki Robo Galatt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/62965.jpg",
+        "alt": "chouriki-robo-galatt"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "超力ロボ ガラット",
     "start_date": "1984-10-05",
     "end_date": "1984-10-05",
-    "opening_song": "\"Welcome! Galatt",
-    "ending_song": "\"Fushigi na Twilight",
+    "opening_song": "\"Welcome! Galatt: Galatt no Theme (Welcome!ガラット-ガラットのテーマ-)\" by Yumi Murata (村田有美)",
+    "ending_song": "\"Fushigi na Twilight: Patty no Love Song (不思議なトワイライト-パティの LOVE SONG-)\" by Yumi Murata (村田有美)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Barbarities",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158666.jpg",
+        "alt": "barbarities"
+    },
     "type": "manga",
     "original_name": "BARBARITIES",
     "start_date": "2014-04-07",

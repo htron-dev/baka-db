@@ -1,5 +1,9 @@
 {
     "title": "Maraya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167214.jpg",
+        "alt": "maraya"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "マラヤ",

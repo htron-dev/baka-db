@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi wa Shitte Shimatta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6266.jpg",
+        "alt": "bokutachi-wa-shitte-shimatta"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "60",

@@ -1,5 +1,9 @@
 {
     "title": "Inaka no Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205847.jpg",
+        "alt": "inaka-no-kekkon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

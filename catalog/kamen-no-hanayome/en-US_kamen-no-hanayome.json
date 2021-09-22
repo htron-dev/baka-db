@@ -1,5 +1,9 @@
 {
     "title": "Kamen no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30099.jpg",
+        "alt": "kamen-no-hanayome"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "仮面の花嫁",

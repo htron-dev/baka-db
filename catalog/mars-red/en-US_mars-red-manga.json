@@ -1,5 +1,9 @@
 {
     "title": "Mars Red",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234814.jpg",
+        "alt": "mars-red"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

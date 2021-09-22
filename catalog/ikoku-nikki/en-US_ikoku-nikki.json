@@ -1,5 +1,9 @@
 {
     "title": "Ikoku Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216687.jpg",
+        "alt": "ikoku-nikki"
+    },
     "type": "manga",
     "original_name": "違国日記",
     "start_date": "2017-06-08",

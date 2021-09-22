@@ -1,5 +1,9 @@
 {
     "title": "Tairiku Eiyuu Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166562.jpg",
+        "alt": "tairiku-eiyuu-senki"
+    },
     "type": "light-novel",
     "original_name": "大陸英雄戦記",
     "start_date": "2015-11-14",

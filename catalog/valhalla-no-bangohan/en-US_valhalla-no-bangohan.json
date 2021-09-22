@@ -1,5 +1,9 @@
 {
     "title": "Valhalla no Bangohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172827.jpg",
+        "alt": "valhalla-no-bangohan"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "ヴァルハラの晩ご飯",

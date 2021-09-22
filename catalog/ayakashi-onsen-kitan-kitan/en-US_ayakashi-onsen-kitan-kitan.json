@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Onsen Kitan Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242755.jpg",
+        "alt": "ayakashi-onsen-kitan-kitan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

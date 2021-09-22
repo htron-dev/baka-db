@@ -1,5 +1,9 @@
 {
     "title": "Nanto Magoroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123509.jpg",
+        "alt": "nanto-magoroku"
+    },
     "type": "manga",
     "volumes": "81",
     "chapters": "391",

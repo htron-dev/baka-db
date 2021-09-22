@@ -1,5 +1,9 @@
 {
     "title": "Jiisan Baasan Wakagaeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232329.jpg",
+        "alt": "jiisan-baasan-wakagaeru"
+    },
     "type": "manga",
     "original_name": "じいさんばあさん若返る",
     "start_date": "2020-06-22",

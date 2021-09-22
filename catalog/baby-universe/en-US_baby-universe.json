@@ -1,5 +1,9 @@
 {
     "title": "Baby Universe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7020.jpg",
+        "alt": "baby-universe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

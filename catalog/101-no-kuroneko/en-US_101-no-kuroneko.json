@@ -1,5 +1,9 @@
 {
     "title": "101 no Kuroneko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233331.jpg",
+        "alt": "101-no-kuroneko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

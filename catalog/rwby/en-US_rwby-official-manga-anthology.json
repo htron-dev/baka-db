@@ -1,5 +1,9 @@
 {
     "title": "RWBY: Official Manga Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197717.jpg",
+        "alt": "rwby-official-manga-anthology"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "78",

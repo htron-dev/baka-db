@@ -1,5 +1,9 @@
 {
     "title": "Kikaider 02",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1443.jpg",
+        "alt": "kikaider-02"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "キカイダー 02",

@@ -1,5 +1,9 @@
 {
     "title": "Kyou mo Ocarina wo Fuku Yotei wa Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125605.jpg",
+        "alt": "kyou-mo-ocarina-wo-fuku-yotei-wa-nai"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "今日もオカリナを吹く予定はない",

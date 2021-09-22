@@ -1,5 +1,9 @@
 {
     "title": "Tora ni Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85349.jpg",
+        "alt": "tora-ni-tsubasa"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "トラにツバサ",

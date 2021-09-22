@@ -1,5 +1,9 @@
 {
     "title": "Okitsune Biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/99123.jpg",
+        "alt": "okitsune-biyori"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Coffee Dream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132087.jpg",
+        "alt": "coffee-dream"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

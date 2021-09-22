@@ -1,5 +1,9 @@
 {
     "title": "Drawing!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1511/111011.jpg",
+        "alt": "drawing"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Drawing!!",

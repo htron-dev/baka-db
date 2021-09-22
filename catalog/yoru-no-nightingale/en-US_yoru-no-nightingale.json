@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Nightingale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244583.jpg",
+        "alt": "yoru-no-nightingale"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

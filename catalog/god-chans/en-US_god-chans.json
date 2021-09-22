@@ -1,5 +1,9 @@
 {
     "title": "God-chans",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210323.jpg",
+        "alt": "god-chans"
+    },
     "type": "manga",
     "original_name": "ごっどちゃんず",
     "start_date": "2017-08-26",

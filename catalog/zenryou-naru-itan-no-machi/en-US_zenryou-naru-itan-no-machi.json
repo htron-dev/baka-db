@@ -1,5 +1,9 @@
 {
     "title": "Zenryou Naru Itan no Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29758.jpg",
+        "alt": "zenryou-naru-itan-no-machi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

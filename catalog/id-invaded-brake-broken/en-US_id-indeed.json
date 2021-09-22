@@ -1,5 +1,9 @@
 {
     "title": "Id:Indeed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1537/111162.jpg",
+        "alt": "id-indeed"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "イド：インディード",

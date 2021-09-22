@@ -1,5 +1,9 @@
 {
     "title": "Yi Tang Xiao Gushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1040/115504.jpg",
+        "alt": "yi-tang-xiao-gushi"
+    },
     "type": "tv-serie",
     "episodes": "80",
     "original_name": "亿唐小故事",

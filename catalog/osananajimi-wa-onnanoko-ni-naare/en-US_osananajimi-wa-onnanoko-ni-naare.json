@@ -1,5 +1,9 @@
 {
     "title": "Osananajimi wa Onnanoko ni Naare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140713.jpg",
+        "alt": "osananajimi-wa-onnanoko-ni-naare"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "41",

@@ -1,5 +1,9 @@
 {
     "title": "Coming Home",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11995.jpg",
+        "alt": "coming-home"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

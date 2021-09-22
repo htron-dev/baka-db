@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Drop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200732.jpg",
+        "alt": "tenshi-no-drop"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "85",

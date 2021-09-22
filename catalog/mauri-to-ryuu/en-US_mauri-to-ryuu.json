@@ -1,5 +1,9 @@
 {
     "title": "Mauri to Ryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183771.jpg",
+        "alt": "mauri-to-ryuu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

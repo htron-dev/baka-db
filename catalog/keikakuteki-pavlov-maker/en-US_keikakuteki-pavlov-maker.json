@@ -1,5 +1,9 @@
 {
     "title": "Keikakuteki Pavlov Maker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247850.jpg",
+        "alt": "keikakuteki-pavlov-maker"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

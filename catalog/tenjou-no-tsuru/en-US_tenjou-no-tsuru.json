@@ -1,5 +1,9 @@
 {
     "title": "Tenjou no Tsuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198671.jpg",
+        "alt": "tenjou-no-tsuru"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "87",

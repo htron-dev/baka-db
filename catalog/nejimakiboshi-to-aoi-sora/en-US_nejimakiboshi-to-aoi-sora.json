@@ -1,5 +1,9 @@
 {
     "title": "Nejimakiboshi to Aoi Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173805.jpg",
+        "alt": "nejimakiboshi-to-aoi-sora"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "The Ghost of My Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45254.jpg",
+        "alt": "the-ghost-of-my-life"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

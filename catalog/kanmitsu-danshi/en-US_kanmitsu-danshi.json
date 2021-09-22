@@ -1,5 +1,9 @@
 {
     "title": "Kanmitsu Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/112373.jpg",
+        "alt": "kanmitsu-danshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

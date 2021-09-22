@@ -1,5 +1,9 @@
 {
     "title": "81 Diver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/47931.jpg",
+        "alt": "81-diver"
+    },
     "type": "manga",
     "volumes": "35",
     "chapters": "375",

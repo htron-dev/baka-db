@@ -1,5 +1,9 @@
 {
     "title": "Kasumi ka Kumo ka Seishoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230134.jpg",
+        "alt": "kasumi-ka-kumo-ka-seishoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

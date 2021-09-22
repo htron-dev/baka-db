@@ -1,5 +1,9 @@
 {
     "title": "Saguri-chan Tankentai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206298.jpg",
+        "alt": "saguri-chan-tankentai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

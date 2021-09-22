@@ -1,5 +1,9 @@
 {
     "title": "Doujin ni Yumemite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/110155.jpg",
+        "alt": "doujin-ni-yumemite"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "同人に夢みて",

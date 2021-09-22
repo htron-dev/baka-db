@@ -1,5 +1,9 @@
 {
     "title": "Otenki Oniisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11496.jpg",
+        "alt": "otenki-oniisan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

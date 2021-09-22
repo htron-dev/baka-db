@@ -1,5 +1,9 @@
 {
     "title": "Pai Long",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183093.jpg",
+        "alt": "pai-long"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

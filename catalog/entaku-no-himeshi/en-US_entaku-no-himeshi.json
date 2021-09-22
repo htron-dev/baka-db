@@ -1,5 +1,9 @@
 {
     "title": "Entaku no Himeshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/29072.jpg",
+        "alt": "entaku-no-himeshi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "円卓の姫士！",

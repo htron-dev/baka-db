@@ -1,5 +1,9 @@
 {
     "title": "Nigeru Natsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7484.jpg",
+        "alt": "nigeru-natsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

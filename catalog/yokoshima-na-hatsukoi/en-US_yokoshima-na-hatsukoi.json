@@ -1,5 +1,9 @@
 {
     "title": "Yokoshima na Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246649.jpg",
+        "alt": "yokoshima-na-hatsukoi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

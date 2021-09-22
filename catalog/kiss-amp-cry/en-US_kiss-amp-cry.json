@@ -1,5 +1,9 @@
 {
     "title": "Kiss &amp; Cry!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31682.jpg",
+        "alt": "kiss-amp-cry"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "キス ☆ クラ",

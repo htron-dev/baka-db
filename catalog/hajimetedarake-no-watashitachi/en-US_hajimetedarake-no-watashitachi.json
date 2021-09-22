@@ -1,5 +1,9 @@
 {
     "title": "Hajimetedarake no Watashitachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230772.jpg",
+        "alt": "hajimetedarake-no-watashitachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

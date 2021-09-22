@@ -1,5 +1,9 @@
 {
     "title": "Atagoul Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16924.jpg",
+        "alt": "atagoul-monogatari"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "48",

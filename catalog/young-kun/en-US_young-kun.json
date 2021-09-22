@@ -1,5 +1,9 @@
 {
     "title": "Young-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45449.jpg",
+        "alt": "young-kun"
+    },
     "type": "manga",
     "original_name": "ヤングくん",
     "tags": [

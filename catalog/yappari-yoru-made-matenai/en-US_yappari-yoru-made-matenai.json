@@ -1,5 +1,9 @@
 {
     "title": "Yappari Yoru Made Matenai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19733.jpg",
+        "alt": "yappari-yoru-made-matenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

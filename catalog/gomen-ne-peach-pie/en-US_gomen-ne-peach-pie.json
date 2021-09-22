@@ -1,5 +1,9 @@
 {
     "title": "Gomen ne Peach Pie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153374.jpg",
+        "alt": "gomen-ne-peach-pie"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ごめんねピーチパイ",

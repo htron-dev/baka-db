@@ -1,5 +1,9 @@
 {
     "title": "Koharu Haru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236931.jpg",
+        "alt": "koharu-haru"
+    },
     "type": "manga",
     "original_name": "こはる はる!",
     "start_date": "2020-04-20",

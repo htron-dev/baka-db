@@ -1,5 +1,9 @@
 {
     "title": "El Hazard: The Magnificent World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/8668.jpg",
+        "alt": "el-hazard-the-magnificent-world"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Boss no Propose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126301.jpg",
+        "alt": "boss-no-propose"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ボスのプロポーズ",

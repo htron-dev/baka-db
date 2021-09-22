@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/51207.jpg",
+        "alt": "kimi-ga-suki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

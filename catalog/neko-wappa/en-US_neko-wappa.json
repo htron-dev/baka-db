@@ -1,5 +1,9 @@
 {
     "title": "Neko Wappa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178945.jpg",
+        "alt": "neko-wappa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Jail Bird",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/189435.jpg",
+        "alt": "jail-bird"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

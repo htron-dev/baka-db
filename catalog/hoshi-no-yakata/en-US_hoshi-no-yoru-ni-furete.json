@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Yoru ni Furete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/28664.jpg",
+        "alt": "hoshi-no-yoru-ni-furete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

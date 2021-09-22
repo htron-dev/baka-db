@@ -1,5 +1,9 @@
 {
     "title": "Yume no Youna Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43323.jpg",
+        "alt": "yume-no-youna-hanashi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

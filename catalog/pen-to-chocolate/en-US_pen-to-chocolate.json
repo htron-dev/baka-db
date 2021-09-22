@@ -1,5 +1,9 @@
 {
     "title": "Pen to Chocolate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171400.jpg",
+        "alt": "pen-to-chocolate"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

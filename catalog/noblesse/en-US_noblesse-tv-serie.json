@@ -1,5 +1,9 @@
 {
     "title": "Noblesse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1903/111646.jpg",
+        "alt": "noblesse"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "NOBLESSE -ノブレス-",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Noblesse_(manhwa"
+            "link": "https://en.wikipedia.org/wiki/Noblesse_%28manhwa%29#Anime_television_series"
         }
     ]
 }

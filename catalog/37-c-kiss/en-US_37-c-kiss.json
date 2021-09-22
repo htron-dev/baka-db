@@ -1,5 +1,9 @@
 {
     "title": "37°C Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11398.jpg",
+        "alt": "37-c-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

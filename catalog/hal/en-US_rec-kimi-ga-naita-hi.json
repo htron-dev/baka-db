@@ -1,5 +1,9 @@
 {
     "title": "Rec: Kimi ga Naita Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151524.jpg",
+        "alt": "rec-kimi-ga-naita-hi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

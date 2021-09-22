@@ -1,5 +1,9 @@
 {
     "title": "Shisha no Gakuensai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/149360.jpg",
+        "alt": "shisha-no-gakuensai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

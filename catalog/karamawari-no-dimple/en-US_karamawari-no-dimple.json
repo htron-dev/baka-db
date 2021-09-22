@@ -1,5 +1,9 @@
 {
     "title": "Karamawari no Dimple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62705.jpg",
+        "alt": "karamawari-no-dimple"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

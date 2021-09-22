@@ -1,5 +1,9 @@
 {
     "title": "YuriCam: Yurika no Campus Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62909.jpg",
+        "alt": "yuri-cam-yurika-no-campus-life"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "45",

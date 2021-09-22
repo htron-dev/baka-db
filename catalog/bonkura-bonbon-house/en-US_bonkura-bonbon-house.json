@@ -1,5 +1,9 @@
 {
     "title": "Bonkura Bonbon House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201971.jpg",
+        "alt": "bonkura-bonbon-house"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

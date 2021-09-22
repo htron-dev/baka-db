@@ -1,5 +1,9 @@
 {
     "title": "Doraku Bengoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163428.jpg",
+        "alt": "doraku-bengoshi"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "ドーラク弁護士",

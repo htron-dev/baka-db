@@ -1,5 +1,9 @@
 {
     "title": "Blast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30980.jpg",
+        "alt": "blast"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "36",

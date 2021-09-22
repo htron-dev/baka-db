@@ -1,5 +1,9 @@
 {
     "title": "Custom Maid!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169569.jpg",
+        "alt": "custom-maid"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "カスタムメイド！",

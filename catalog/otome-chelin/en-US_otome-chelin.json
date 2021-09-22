@@ -1,5 +1,9 @@
 {
     "title": "Otome-Chelin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203736.jpg",
+        "alt": "otome-chelin"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "オトメシュラン",

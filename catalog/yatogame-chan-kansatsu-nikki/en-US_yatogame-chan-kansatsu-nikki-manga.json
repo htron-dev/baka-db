@@ -1,5 +1,9 @@
 {
     "title": "Yatogame-chan Kansatsu Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197713.jpg",
+        "alt": "yatogame-chan-kansatsu-nikki"
+    },
     "type": "manga",
     "original_name": "八十亀ちゃんかんさつにっき",
     "start_date": "2016-05-27",

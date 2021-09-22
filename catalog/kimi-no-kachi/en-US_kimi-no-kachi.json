@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Kachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17725.jpg",
+        "alt": "kimi-no-kachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

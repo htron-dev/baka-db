@@ -1,5 +1,9 @@
 {
     "title": "Irokoi Shiai ni Shoubuari!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247923.jpg",
+        "alt": "irokoi-shiai-ni-shoubuari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

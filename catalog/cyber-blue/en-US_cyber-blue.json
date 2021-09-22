@@ -1,5 +1,9 @@
 {
     "title": "Cyber Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37918.jpg",
+        "alt": "cyber-blue"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

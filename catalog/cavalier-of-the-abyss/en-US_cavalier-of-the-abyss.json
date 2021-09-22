@@ -1,5 +1,9 @@
 {
     "title": "Cavalier of the Abyss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202184.jpg",
+        "alt": "cavalier-of-the-abyss"
+    },
     "type": "manhwa",
     "volumes": "24",
     "chapters": "144",

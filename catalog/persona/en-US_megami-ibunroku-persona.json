@@ -1,5 +1,9 @@
 {
     "title": "Megami Ibunroku: Persona",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4889.jpg",
+        "alt": "megami-ibunroku-persona"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "45",

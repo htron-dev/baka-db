@@ -1,5 +1,9 @@
 {
     "title": "Otte Otte, Koi wo Shite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223489.jpg",
+        "alt": "otte-otte-koi-wo-shite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

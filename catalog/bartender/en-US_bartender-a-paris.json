@@ -1,5 +1,9 @@
 {
     "title": "Bartender à Paris",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215960.jpg",
+        "alt": "bartender-a-paris"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "42",

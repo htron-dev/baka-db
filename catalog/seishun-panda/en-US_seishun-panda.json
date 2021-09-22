@@ -1,5 +1,9 @@
 {
     "title": "Seishun Panda!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152399.jpg",
+        "alt": "seishun-panda"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

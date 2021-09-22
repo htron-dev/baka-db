@@ -1,5 +1,9 @@
 {
     "title": "Nanatsu no Tsumi to Batsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/199972.jpg",
+        "alt": "nanatsu-no-tsumi-to-batsu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

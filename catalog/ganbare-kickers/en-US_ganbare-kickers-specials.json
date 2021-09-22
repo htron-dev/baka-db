@@ -1,5 +1,9 @@
 {
     "title": "Ganbare! Kickers Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1222/103639.jpg",
+        "alt": "ganbare-kickers-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "がんばれ！キッカーズ",

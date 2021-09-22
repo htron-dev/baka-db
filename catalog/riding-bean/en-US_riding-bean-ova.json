@@ -1,5 +1,9 @@
 {
     "title": "Riding Bean",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/55505.jpg",
+        "alt": "riding-bean"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ライディング・ビーン",

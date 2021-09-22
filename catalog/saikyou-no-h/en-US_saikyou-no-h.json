@@ -1,5 +1,9 @@
 {
     "title": "Saikyou no H",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17656.jpg",
+        "alt": "saikyou-no-h"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

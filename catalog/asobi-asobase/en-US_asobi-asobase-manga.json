@@ -1,5 +1,9 @@
 {
     "title": "Asobi Asobase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180830.jpg",
+        "alt": "asobi-asobase"
+    },
     "type": "manga",
     "original_name": "あそびあそばせ",
     "start_date": "2015-06-26",

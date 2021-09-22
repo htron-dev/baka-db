@@ -1,5 +1,9 @@
 {
     "title": "Hiru mo Yoru mo, Ryoute ni Akujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171707.jpg",
+        "alt": "hiru-mo-yoru-mo-ryoute-ni-akujo"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

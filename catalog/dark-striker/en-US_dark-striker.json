@@ -1,5 +1,9 @@
 {
     "title": "Dark Striker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14504.jpg",
+        "alt": "dark-striker"
+    },
     "type": "manhwa",
     "volumes": "6",
     "original_name": "팔용신전설",

@@ -1,5 +1,9 @@
 {
     "title": "Te no Hira wo Taiyou ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14008.jpg",
+        "alt": "te-no-hira-wo-taiyou-ni"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

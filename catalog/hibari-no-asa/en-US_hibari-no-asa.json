@@ -1,5 +1,9 @@
 {
     "title": "Hibari no Asa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/102839.jpg",
+        "alt": "hibari-no-asa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Ecchi Houkago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190572.jpg",
+        "alt": "ecchi-houkago"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

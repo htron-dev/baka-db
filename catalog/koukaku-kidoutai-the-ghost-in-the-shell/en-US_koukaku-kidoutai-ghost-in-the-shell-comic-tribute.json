@@ -1,5 +1,9 @@
 {
     "title": "Koukaku Kidoutai - Ghost in the Shell - Comic Tribute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224621.jpg",
+        "alt": "koukaku-kidoutai-ghost-in-the-shell-comic-tribute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

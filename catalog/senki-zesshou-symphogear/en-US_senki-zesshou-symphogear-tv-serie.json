@@ -1,12 +1,16 @@
 {
     "title": "Senki Zesshou Symphogear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75580.jpg",
+        "alt": "senki-zesshou-symphogear"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "戦姫絶唱シンフォギア",
     "start_date": "2012-01-06",
     "end_date": "2012-01-06",
     "opening_song": "\"Synchrogazer\" by Nana Mizuki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Synchrogazer\" by Nana Mizuki (eps 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Hachi Mairu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200573.jpg",
+        "alt": "hachi-mairu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ハチ参る",

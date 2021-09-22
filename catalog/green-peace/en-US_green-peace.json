@@ -1,5 +1,9 @@
 {
     "title": "Green Peace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/88497.jpg",
+        "alt": "green-peace"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

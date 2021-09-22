@@ -1,5 +1,9 @@
 {
     "title": "Great Grace Talk!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18394.jpg",
+        "alt": "great-grace-talk"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

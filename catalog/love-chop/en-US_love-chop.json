@@ -1,5 +1,9 @@
 {
     "title": "Love Chop!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5995.jpg",
+        "alt": "love-chop"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "らぶ・ちょっぷ！",

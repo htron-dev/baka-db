@@ -1,5 +1,9 @@
 {
     "title": "Wakakusa Gakuen Koutoubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151481.jpg",
+        "alt": "wakakusa-gakuen-koutoubu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "若草学園高等部",

@@ -1,5 +1,9 @@
 {
     "title": "Suki, Kirai, Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11916.jpg",
+        "alt": "suki-kirai-suki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

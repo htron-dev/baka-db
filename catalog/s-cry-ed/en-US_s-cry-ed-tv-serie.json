@@ -1,12 +1,16 @@
 {
     "title": "s.CRY.ed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/89882.jpg",
+        "alt": "s-cry-ed"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "スクライド",
     "start_date": "2001-07-04",
     "end_date": "2001-07-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Reckless Fire\" by Yasuaki Ide",
+    "ending_song": "#1: \"Drastic My Soul\" by Mikio Sakai",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Happy of the End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246731.jpg",
+        "alt": "happy-of-the-end"
+    },
     "type": "manga",
     "original_name": "ハッピー・オブ・ジ・エンド",
     "start_date": "2020-01-24",

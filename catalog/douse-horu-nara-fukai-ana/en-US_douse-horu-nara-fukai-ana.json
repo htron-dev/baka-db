@@ -1,5 +1,9 @@
 {
     "title": "Douse Horu nara Fukai Ana.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248042.jpg",
+        "alt": "douse-horu-nara-fukai-ana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Final Fantasy VII: Last Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/80623.jpg",
+        "alt": "final-fantasy-vii-last-order"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ラストオーダー -ファイナルファンタジー VII-",

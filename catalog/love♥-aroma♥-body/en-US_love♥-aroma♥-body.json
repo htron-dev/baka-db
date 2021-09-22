@@ -1,5 +1,9 @@
 {
     "title": "Love♥Aroma♥Body",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138039.jpg",
+        "alt": "love♥-aroma♥-body"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

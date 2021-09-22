@@ -1,5 +1,9 @@
 {
     "title": "Danzai no Judith",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130755.jpg",
+        "alt": "danzai-no-judith"
+    },
     "type": "manga",
     "original_name": "断罪のユディト",
     "start_date": "2013-12-05",

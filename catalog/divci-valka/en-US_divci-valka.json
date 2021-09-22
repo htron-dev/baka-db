@@ -1,5 +1,9 @@
 {
     "title": "Dívčí Válka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/111871.jpg",
+        "alt": "divci-valka"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "60",

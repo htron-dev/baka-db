@@ -1,5 +1,9 @@
 {
     "title": "Touhou Bougetsushou: Silent Sinner in Blue.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/16299.jpg",
+        "alt": "touhou-bougetsushou-silent-sinner-in-blue"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

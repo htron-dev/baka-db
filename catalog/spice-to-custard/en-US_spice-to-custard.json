@@ -1,5 +1,9 @@
 {
     "title": "Spice to Custard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195329.jpg",
+        "alt": "spice-to-custard"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "52",

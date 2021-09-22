@@ -1,5 +1,9 @@
 {
     "title": "Poe no Ichizoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175782.jpg",
+        "alt": "poe-no-ichizoku"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "15",

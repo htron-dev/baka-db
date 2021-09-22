@@ -1,5 +1,9 @@
 {
     "title": "Gift: Under the Rainbow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14479.jpg",
+        "alt": "gift-under-the-rainbow"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

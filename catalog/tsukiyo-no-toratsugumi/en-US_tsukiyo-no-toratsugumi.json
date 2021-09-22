@@ -1,5 +1,9 @@
 {
     "title": "Tsukiyo no Toratsugumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113533.jpg",
+        "alt": "tsukiyo-no-toratsugumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

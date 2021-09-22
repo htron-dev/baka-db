@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Kanaderu Hikari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/96035.jpg",
+        "alt": "kimi-no-kanaderu-hikari"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "きみの奏でる光",

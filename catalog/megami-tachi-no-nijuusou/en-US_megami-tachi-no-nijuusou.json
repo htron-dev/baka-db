@@ -1,5 +1,9 @@
 {
     "title": "Megami-tachi no Nijuusou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221618.jpg",
+        "alt": "megami-tachi-no-nijuusou"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "105",

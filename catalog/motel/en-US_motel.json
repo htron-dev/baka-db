@@ -1,5 +1,9 @@
 {
     "title": "Motel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154794.jpg",
+        "alt": "motel"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

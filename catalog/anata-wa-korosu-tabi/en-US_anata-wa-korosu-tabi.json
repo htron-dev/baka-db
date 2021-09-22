@@ -1,5 +1,9 @@
 {
     "title": "Anata wa Korosu Tabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245972.jpg",
+        "alt": "anata-wa-korosu-tabi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

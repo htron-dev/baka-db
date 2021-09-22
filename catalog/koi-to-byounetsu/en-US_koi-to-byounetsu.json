@@ -1,5 +1,9 @@
 {
     "title": "Koi to Byounetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192192.jpg",
+        "alt": "koi-to-byounetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

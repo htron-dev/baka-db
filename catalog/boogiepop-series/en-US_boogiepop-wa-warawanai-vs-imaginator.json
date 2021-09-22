@@ -1,5 +1,9 @@
 {
     "title": "Boogiepop wa Warawanai: VS Imaginator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215575.jpg",
+        "alt": "boogiepop-wa-warawanai-vs-imaginator"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

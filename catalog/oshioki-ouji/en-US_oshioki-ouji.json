@@ -1,5 +1,9 @@
 {
     "title": "Oshioki Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/89175.jpg",
+        "alt": "oshioki-ouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Tora-san to Ookami-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80279.jpg",
+        "alt": "tora-san-to-ookami-san"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "トラさんと狼さん",

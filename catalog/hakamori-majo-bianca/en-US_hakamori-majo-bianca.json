@@ -1,5 +1,9 @@
 {
     "title": "Hakamori Majo Bianca",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/108223.jpg",
+        "alt": "hakamori-majo-bianca"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

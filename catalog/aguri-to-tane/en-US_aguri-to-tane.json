@@ -1,5 +1,9 @@
 {
     "title": "Aguri to Tane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237090.jpg",
+        "alt": "aguri-to-tane"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

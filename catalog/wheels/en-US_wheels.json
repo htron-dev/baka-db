@@ -1,5 +1,9 @@
 {
     "title": "Wheels",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/37563.jpg",
+        "alt": "wheels"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "WHEELS",

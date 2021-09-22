@@ -1,5 +1,9 @@
 {
     "title": "Toiki yori mo Yasashii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23224.jpg",
+        "alt": "toiki-yori-mo-yasashii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

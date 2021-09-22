@@ -1,5 +1,9 @@
 {
     "title": "Lost Utopia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/51513.jpg",
+        "alt": "lost-utopia"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "LOST UTOPIA",

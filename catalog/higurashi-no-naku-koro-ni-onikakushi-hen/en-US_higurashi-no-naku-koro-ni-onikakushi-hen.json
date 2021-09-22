@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni: Onikakushi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1013.jpg",
+        "alt": "higurashi-no-naku-koro-ni-onikakushi-hen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

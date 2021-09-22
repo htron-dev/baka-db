@@ -1,5 +1,9 @@
 {
     "title": "Tsuribaka Nisshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244503.jpg",
+        "alt": "tsuribaka-nisshi"
+    },
     "type": "manga",
     "original_name": "釣りバカ日誌",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Entrans!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194447.jpg",
+        "alt": "entrans"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "えんとらんす！",

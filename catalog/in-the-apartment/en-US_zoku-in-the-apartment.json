@@ -1,5 +1,9 @@
 {
     "title": "Zoku in the Apartment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203803.jpg",
+        "alt": "zoku-in-the-apartment"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

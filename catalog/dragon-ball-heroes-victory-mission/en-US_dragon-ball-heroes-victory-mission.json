@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball Heroes: Victory Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76401.jpg",
+        "alt": "dragon-ball-heroes-victory-mission"
+    },
     "type": "manga",
     "original_name": "ドラゴンボールヒーローズ Victory Mission",
     "start_date": "2012-09-21",

@@ -1,5 +1,9 @@
 {
     "title": "Juusannin no Shikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192993.jpg",
+        "alt": "juusannin-no-shikaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

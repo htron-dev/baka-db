@@ -1,5 +1,9 @@
 {
     "title": "Koe de Oshigoto!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236906.jpg",
+        "alt": "koe-de-oshigoto"
+    },
     "type": "manga",
     "original_name": "こえでおしごと!!",
     "start_date": "2020-05-25",

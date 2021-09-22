@@ -1,5 +1,9 @@
 {
     "title": "Fukigen na Aibu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12865.jpg",
+        "alt": "fukigen-na-aibu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

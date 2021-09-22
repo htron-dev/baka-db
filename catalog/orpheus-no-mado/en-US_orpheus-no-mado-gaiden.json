@@ -1,5 +1,9 @@
 {
     "title": "Orpheus no Mado Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151519.jpg",
+        "alt": "orpheus-no-mado-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

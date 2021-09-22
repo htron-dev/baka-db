@@ -1,12 +1,16 @@
 {
     "title": "Garugaku.: Sei Girls Square Gakuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1369/117208.jpg",
+        "alt": "garugaku-sei-girls-square-gakuin"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ガル学. ~聖ガールズスクエア学院~",
     "start_date": "2020-04-06",
     "end_date": "2020-04-06",
     "opening_song": "\"Centimeter (センチメートル)\" by Girls²",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Sakuramichi! (サクラ道！)\" by east² (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

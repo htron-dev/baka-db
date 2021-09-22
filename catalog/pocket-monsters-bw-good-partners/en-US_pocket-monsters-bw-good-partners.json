@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters BW: Good Partners",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231741.jpg",
+        "alt": "pocket-monsters-bw-good-partners"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

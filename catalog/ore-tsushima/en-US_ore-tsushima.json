@@ -1,5 +1,9 @@
 {
     "title": "Ore, Tsushima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1916/112514.jpg",
+        "alt": "ore-tsushima"
+    },
     "type": "tv-serie",
     "original_name": "俺、つしま",
     "start_date": "2021-07-02",

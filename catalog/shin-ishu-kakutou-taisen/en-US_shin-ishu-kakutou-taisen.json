@@ -1,5 +1,9 @@
 {
     "title": "Shin Ishu Kakutou Taisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223199.jpg",
+        "alt": "shin-ishu-kakutou-taisen"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "167",

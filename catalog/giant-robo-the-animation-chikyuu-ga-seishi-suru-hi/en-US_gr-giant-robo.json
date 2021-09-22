@@ -1,5 +1,9 @@
 {
     "title": "GR: Giant Robo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/4805.jpg",
+        "alt": "gr-giant-robo"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "GR -ジャイアントロボ-",

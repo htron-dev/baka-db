@@ -1,5 +1,9 @@
 {
     "title": "White Album",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161823.jpg",
+        "alt": "white-album"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

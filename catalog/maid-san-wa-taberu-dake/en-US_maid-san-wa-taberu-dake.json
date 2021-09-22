@@ -1,5 +1,9 @@
 {
     "title": "Maid-san wa Taberu dake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234636.jpg",
+        "alt": "maid-san-wa-taberu-dake"
+    },
     "type": "manga",
     "original_name": "メイドさんは食べるだけ",
     "start_date": "2019-12-02",

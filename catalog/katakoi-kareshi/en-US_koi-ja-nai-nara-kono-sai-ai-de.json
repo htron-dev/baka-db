@@ -1,5 +1,9 @@
 {
     "title": "Koi ja Nai nara Kono Sai Ai de!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239935.jpg",
+        "alt": "koi-ja-nai-nara-kono-sai-ai-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

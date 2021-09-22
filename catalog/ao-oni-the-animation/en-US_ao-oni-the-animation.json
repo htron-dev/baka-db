@@ -1,5 +1,9 @@
 {
     "title": "Ao Oni The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/81430.jpg",
+        "alt": "ao-oni-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "あおおに ～じ・あにめぇしょん～",

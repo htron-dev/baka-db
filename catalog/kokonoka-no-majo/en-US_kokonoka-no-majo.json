@@ -1,5 +1,9 @@
 {
     "title": "Kokonoka no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147309.jpg",
+        "alt": "kokonoka-no-majo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

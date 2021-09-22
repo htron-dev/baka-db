@@ -1,5 +1,9 @@
 {
     "title": "Yukidoke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/59759.jpg",
+        "alt": "yukidoke"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ゆきどけ",

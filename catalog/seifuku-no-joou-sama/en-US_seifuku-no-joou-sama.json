@@ -1,5 +1,9 @@
 {
     "title": "Seifuku no Joou-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/213570.jpg",
+        "alt": "seifuku-no-joou-sama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

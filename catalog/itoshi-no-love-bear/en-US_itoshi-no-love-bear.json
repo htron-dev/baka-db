@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Love Bear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134085.jpg",
+        "alt": "itoshi-no-love-bear"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

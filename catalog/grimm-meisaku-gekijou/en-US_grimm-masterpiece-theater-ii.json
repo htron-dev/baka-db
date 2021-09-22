@@ -1,5 +1,9 @@
 {
     "title": "Grimm Masterpiece Theater II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/44608.jpg",
+        "alt": "grimm-masterpiece-theater-ii"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "新グリム名作劇場",

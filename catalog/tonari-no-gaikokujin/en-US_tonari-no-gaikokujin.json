@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Gaikokujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164047.jpg",
+        "alt": "tonari-no-gaikokujin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

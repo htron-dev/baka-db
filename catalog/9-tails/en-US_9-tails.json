@@ -1,5 +1,9 @@
 {
     "title": "9 Tails",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162705.jpg",
+        "alt": "9-tails"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "26",

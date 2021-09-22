@@ -1,5 +1,9 @@
 {
     "title": "Hime ja Nakereba Nagutteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197710.jpg",
+        "alt": "hime-ja-nakereba-nagutteru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

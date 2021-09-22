@@ -1,5 +1,9 @@
 {
     "title": "Uzumaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1432/105265.jpg",
+        "alt": "uzumaki"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "うずまき",

@@ -1,5 +1,9 @@
 {
     "title": "Fujunna Renai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5546.jpg",
+        "alt": "fujunna-renai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

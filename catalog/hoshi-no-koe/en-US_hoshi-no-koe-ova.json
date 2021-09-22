@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Koe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1980/112997.jpg",
+        "alt": "hoshi-no-koe"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ほしのこえ",

@@ -1,5 +1,9 @@
 {
     "title": "BlazBlue: Alter Memory Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/78024.jpg",
+        "alt": "blaz-blue-alter-memory-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "ブレイブルー オルターメモリー",

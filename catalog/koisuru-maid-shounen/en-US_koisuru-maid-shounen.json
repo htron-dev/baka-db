@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Maid Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/71453.jpg",
+        "alt": "koisuru-maid-shounen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

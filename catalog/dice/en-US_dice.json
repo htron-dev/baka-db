@@ -1,5 +1,9 @@
 {
     "title": "Dice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10559.jpg",
+        "alt": "dice"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

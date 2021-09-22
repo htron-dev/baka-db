@@ -1,5 +1,9 @@
 {
     "title": "Nanatsu no Taizai Movie 2: Hikari ni Norowareshi Mono-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1096/113360.jpg",
+        "alt": "nanatsu-no-taizai-movie-2-hikari-ni-norowareshi-mono-tachi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 七つの大罪 光に呪われし者たち",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga"
+            "link": "https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_%28manga%29#Anime"
         }
     ]
 }

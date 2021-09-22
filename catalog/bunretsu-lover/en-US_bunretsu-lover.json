@@ -1,5 +1,9 @@
 {
     "title": "Bunretsu Lover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215652.jpg",
+        "alt": "bunretsu-lover"
+    },
     "type": "manga",
     "original_name": "分裂ラバー",
     "start_date": "2018-09-09",

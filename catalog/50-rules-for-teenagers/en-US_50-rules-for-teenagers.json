@@ -1,5 +1,9 @@
 {
     "title": "50 Rules for Teenagers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2118.jpg",
+        "alt": "50-rules-for-teenagers"
+    },
     "type": "manhwa",
     "volumes": "8",
     "tags": [

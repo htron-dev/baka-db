@@ -1,5 +1,9 @@
 {
     "title": "666 Satan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/511.jpg",
+        "alt": "666-satan"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "78",

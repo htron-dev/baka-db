@@ -1,5 +1,9 @@
 {
     "title": "Kaori no Kobushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78035.jpg",
+        "alt": "kaori-no-kobushi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "薫の拳",

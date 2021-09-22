@@ -1,5 +1,9 @@
 {
     "title": "Uso Kano",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91183.jpg",
+        "alt": "uso-kano"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "66",

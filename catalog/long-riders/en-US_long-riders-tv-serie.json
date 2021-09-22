@@ -1,12 +1,16 @@
 {
     "title": "Long Riders!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/82255.jpg",
+        "alt": "long-riders"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ろんぐらいだぁす！",
     "start_date": "2016-10-08",
     "end_date": "2016-10-08",
     "opening_song": "\"♡㎞/h\" by Ray",
-    "ending_song": "\"Happy Ice Cream! (ハッピーアイスクリーム！)\" by Ami Kurata (Nao Touyama), Aoi Niigaki (CV",
+    "ending_song": "\"Happy Ice Cream! (ハッピーアイスクリーム！)\" by Ami Kurata (Nao Touyama), Aoi Niigaki (CV: Hiromi Igarashi), Honako Saijou (CV: Rumi Ookubo), Yayoi Ichinose (Yurika Kurosawa), Saki Takamiya (Yoko Hikasa)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

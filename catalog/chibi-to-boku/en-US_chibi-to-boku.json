@@ -1,5 +1,9 @@
 {
     "title": "Chibi to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85681.jpg",
+        "alt": "chibi-to-boku"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "ちびとぼく",

@@ -1,5 +1,9 @@
 {
     "title": "Nigeru nara Ima da",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58063.jpg",
+        "alt": "nigeru-nara-ima-da"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

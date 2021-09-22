@@ -1,5 +1,9 @@
 {
     "title": "Elf 17",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/150926.jpg",
+        "alt": "elf-17"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "43",

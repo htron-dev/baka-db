@@ -1,5 +1,9 @@
 {
     "title": "Peter Pan no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/40391.jpg",
+        "alt": "peter-pan-no-bouken"
+    },
     "type": "tv-serie",
     "episodes": "41",
     "original_name": "ピーターパンの冒険",

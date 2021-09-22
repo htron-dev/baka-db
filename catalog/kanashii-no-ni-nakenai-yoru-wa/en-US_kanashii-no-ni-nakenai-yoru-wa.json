@@ -1,5 +1,9 @@
 {
     "title": "Kanashii no ni Nakenai Yoru wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148987.jpg",
+        "alt": "kanashii-no-ni-nakenai-yoru-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

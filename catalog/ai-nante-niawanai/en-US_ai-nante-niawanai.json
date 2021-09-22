@@ -1,5 +1,9 @@
 {
     "title": "Ai nante Niawanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195062.jpg",
+        "alt": "ai-nante-niawanai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "愛なんて似合わない",

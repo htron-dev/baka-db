@@ -1,5 +1,9 @@
 {
     "title": "Mahou Senki Lyrical Nanoha Force",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27278.jpg",
+        "alt": "mahou-senki-lyrical-nanoha-force"
+    },
     "type": "manga",
     "original_name": "魔法戦記リリカルなのは Force",
     "start_date": "2009-07-31",

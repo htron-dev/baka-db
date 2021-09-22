@@ -1,5 +1,9 @@
 {
     "title": "Himitsu wa Koi no Hajimari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149198.jpg",
+        "alt": "himitsu-wa-koi-no-hajimari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kajou Mousou Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193829.jpg",
+        "alt": "kajou-mousou-shounen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

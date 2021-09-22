@@ -1,5 +1,9 @@
 {
     "title": "Gunbu no Pair Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247204.jpg",
+        "alt": "gunbu-no-pair-go"
+    },
     "type": "manga",
     "original_name": "群舞のペア碁",
     "start_date": "2021-01-25",

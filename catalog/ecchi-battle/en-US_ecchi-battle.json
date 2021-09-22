@@ -1,5 +1,9 @@
 {
     "title": "Ecchi Battle!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13522.jpg",
+        "alt": "ecchi-battle"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "えっちバトル!",

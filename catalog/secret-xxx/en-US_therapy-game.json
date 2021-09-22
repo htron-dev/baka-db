@@ -1,5 +1,9 @@
 {
     "title": "Therapy Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224901.jpg",
+        "alt": "therapy-game"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

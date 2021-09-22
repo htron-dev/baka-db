@@ -1,5 +1,9 @@
 {
     "title": "Mousou Cherry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42037.jpg",
+        "alt": "mousou-cherry"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

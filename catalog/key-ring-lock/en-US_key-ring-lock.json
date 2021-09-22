@@ -1,5 +1,9 @@
 {
     "title": "Key Ring Lock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210942.jpg",
+        "alt": "key-ring-lock"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Vamp!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147921.jpg",
+        "alt": "vamp"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "38",

@@ -1,5 +1,9 @@
 {
     "title": "Hitotsu shika Nai Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221576.jpg",
+        "alt": "hitotsu-shika-nai-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Netsushintouritsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231903.jpg",
+        "alt": "netsushintouritsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

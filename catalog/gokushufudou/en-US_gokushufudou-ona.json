@@ -1,5 +1,9 @@
 {
     "title": "Gokushufudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1535/117726.jpg",
+        "alt": "gokushufudou"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "極主夫道",

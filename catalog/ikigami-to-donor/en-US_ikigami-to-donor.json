@@ -1,5 +1,9 @@
 {
     "title": "Ikigami to Donor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244574.jpg",
+        "alt": "ikigami-to-donor"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

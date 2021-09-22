@@ -1,5 +1,9 @@
 {
     "title": "Otoyomegatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188950.jpg",
+        "alt": "otoyomegatari"
+    },
     "type": "manga",
     "original_name": "乙嫁語り",
     "start_date": "2008-10-14",

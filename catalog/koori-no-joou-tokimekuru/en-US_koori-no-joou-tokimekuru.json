@@ -1,5 +1,9 @@
 {
     "title": "Koori no Joou, Tokimekuru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193494.jpg",
+        "alt": "koori-no-joou-tokimekuru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

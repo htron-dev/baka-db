@@ -1,5 +1,9 @@
 {
     "title": "Bakuten Shoot Beyblade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/627.jpg",
+        "alt": "bakuten-shoot-beyblade"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "62",

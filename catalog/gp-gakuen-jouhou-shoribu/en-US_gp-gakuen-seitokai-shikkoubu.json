@@ -1,5 +1,9 @@
 {
     "title": "GP Gakuen Seitokai Shikkoubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38272.jpg",
+        "alt": "gp-gakuen-seitokai-shikkoubu"
+    },
     "type": "manga",
     "original_name": "GP 学園生徒会執行部",
     "start_date": "2008-01-29",

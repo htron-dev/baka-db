@@ -1,5 +1,9 @@
 {
     "title": "Keyaki Shimai no Shiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205815.jpg",
+        "alt": "keyaki-shimai-no-shiki"
+    },
     "type": "manga",
     "original_name": "欅姉妹の四季",
     "start_date": "2017-03-15",

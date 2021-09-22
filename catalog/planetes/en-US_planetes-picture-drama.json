@@ -1,5 +1,9 @@
 {
     "title": "Planetes Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/29571.jpg",
+        "alt": "planetes-picture-drama"
+    },
     "type": "special",
     "episodes": "9",
     "original_name": "プラネテス オーディオドラマ",

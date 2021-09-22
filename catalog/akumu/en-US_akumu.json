@@ -1,5 +1,9 @@
 {
     "title": "Akumu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76143.jpg",
+        "alt": "akumu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "悪夢",

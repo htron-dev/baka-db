@@ -1,5 +1,9 @@
 {
     "title": "Hshs Sasero!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188848.jpg",
+        "alt": "hshs-sasero"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "37",

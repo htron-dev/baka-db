@@ -1,5 +1,9 @@
 {
     "title": "Tsugai ni Narenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224670.jpg",
+        "alt": "tsugai-ni-narenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

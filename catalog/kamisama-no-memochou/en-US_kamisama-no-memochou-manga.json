@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Memochou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82624.jpg",
+        "alt": "kamisama-no-memochou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

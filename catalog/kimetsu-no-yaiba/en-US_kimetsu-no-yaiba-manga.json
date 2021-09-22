@@ -1,5 +1,9 @@
 {
     "title": "Kimetsu no Yaiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179023.jpg",
+        "alt": "kimetsu-no-yaiba"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "207",

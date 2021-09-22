@@ -1,5 +1,9 @@
 {
     "title": "Tenchi Muyou! Manatsu no Eve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/61319.jpg",
+        "alt": "tenchi-muyou-manatsu-no-eve"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "天地無用！真夏のイヴ",

@@ -1,5 +1,9 @@
 {
     "title": "Mononoke-zoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144453.jpg",
+        "alt": "mononoke-zoushi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

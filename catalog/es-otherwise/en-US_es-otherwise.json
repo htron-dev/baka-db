@@ -1,5 +1,9 @@
 {
     "title": "E's Otherwise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/6260.jpg",
+        "alt": "es-otherwise"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "エスアザーワイズ",

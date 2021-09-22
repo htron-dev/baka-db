@@ -1,5 +1,9 @@
 {
     "title": "Stitch!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180344.jpg",
+        "alt": "stitch"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "スティッチ！",

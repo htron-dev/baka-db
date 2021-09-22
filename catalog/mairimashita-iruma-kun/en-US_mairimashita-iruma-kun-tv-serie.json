@@ -1,5 +1,9 @@
 {
     "title": "Mairimashita! Iruma-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1009/103187.jpg",
+        "alt": "mairimashita-iruma-kun"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "魔入りました！入間くん",

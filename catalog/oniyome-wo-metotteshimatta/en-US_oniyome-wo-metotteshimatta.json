@@ -1,5 +1,9 @@
 {
     "title": "Oniyome wo Metotteshimatta.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224415.jpg",
+        "alt": "oniyome-wo-metotteshimatta"
+    },
     "type": "manga",
     "chapters": "8",
     "original_name": "鬼嫁を娶ってしまった。",

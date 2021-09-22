@@ -1,5 +1,9 @@
 {
     "title": "Gesu to Kamisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146213.jpg",
+        "alt": "gesu-to-kamisama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

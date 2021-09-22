@@ -1,11 +1,15 @@
 {
     "title": "Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/67623.jpg",
+        "alt": "uchuu-senkan-yamato-2199-hoshimeguru-hakobune"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "宇宙戦艦ヤマト 2199 星巡る方舟",
     "start_date": "2014-12-06",
     "opening_song": "\"Uchuu Senkan Yamato 2199 (宇宙戦艦ヤマト 2199)\" by Tarou Hakase",
-    "ending_song": "\"Great Harmony",
+    "ending_song": "\"Great Harmony: For Yamato 2199\" by Ayaka Hirahara, Akira Miyagawa",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

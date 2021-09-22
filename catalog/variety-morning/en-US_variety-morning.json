@@ -1,5 +1,9 @@
 {
     "title": "Variety Morning",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16835.jpg",
+        "alt": "variety-morning"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "バラエティも〜にん",

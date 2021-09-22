@@ -1,5 +1,9 @@
 {
     "title": "Mosaren Bugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131977.jpg",
+        "alt": "mosaren-bugi"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "猛者連ブギ",

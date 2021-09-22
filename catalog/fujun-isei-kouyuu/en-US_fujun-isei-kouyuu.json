@@ -1,5 +1,9 @@
 {
     "title": "Fujun Isei Kouyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/213645.jpg",
+        "alt": "fujun-isei-kouyuu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

@@ -1,12 +1,16 @@
 {
     "title": "Gakkougurashi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1798/91548.jpg",
+        "alt": "gakkougurashi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "がっこうぐらし！",
     "start_date": "2015-07-09",
     "end_date": "2015-07-09",
     "opening_song": "\"Friend Shitai (ふ・れ・ん・ど・し・た・い)\" by Gakuen Seikatsubu [Yuki Takeya (Inori Minase), Kurumi Ebisuzawa (Ari Ozawa), Yuuri Wakasa (M.A.O), Miki Naoki (Rie Takahashi)] (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Harmonize Clover (ハーモナイズ・クローバー)\" by Maon Kurosaki (eps 1-3, 5, 9)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "horror",

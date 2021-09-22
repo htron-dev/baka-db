@@ -1,5 +1,9 @@
 {
     "title": "Moshi, Koi ga Mieta nara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238954.jpg",
+        "alt": "moshi-koi-ga-mieta-nara"
+    },
     "type": "manga",
     "original_name": "もし、恋が見えたなら",
     "start_date": "2020-06-05",

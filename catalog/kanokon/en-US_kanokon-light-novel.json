@@ -1,5 +1,9 @@
 {
     "title": "Kanokon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160731.jpg",
+        "alt": "kanokon"
+    },
     "type": "light-novel",
     "volumes": "15",
     "chapters": "91",

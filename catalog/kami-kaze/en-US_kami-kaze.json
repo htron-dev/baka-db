@@ -1,5 +1,9 @@
 {
     "title": "Kami-Kaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180645.jpg",
+        "alt": "kami-kaze"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "59",

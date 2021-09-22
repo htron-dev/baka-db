@@ -1,5 +1,9 @@
 {
     "title": "Ao no Yami Gin no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58123.jpg",
+        "alt": "ao-no-yami-gin-no-yume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

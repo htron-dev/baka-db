@@ -1,5 +1,9 @@
 {
     "title": "Captain Tsubasa: Europe Daikessen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1234/110683.jpg",
+        "alt": "captain-tsubasa-europe-daikessen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キャプテン翼　ヨーロッパ大決戦",

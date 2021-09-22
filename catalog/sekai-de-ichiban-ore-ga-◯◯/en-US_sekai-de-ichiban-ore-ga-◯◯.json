@@ -1,5 +1,9 @@
 {
     "title": "Sekai de Ichiban, Ore ga ◯◯",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186032.jpg",
+        "alt": "sekai-de-ichiban-ore-ga-◯◯"
+    },
     "type": "manga",
     "original_name": "世界で一番、俺が ◯◯",
     "start_date": "2016-06-28",

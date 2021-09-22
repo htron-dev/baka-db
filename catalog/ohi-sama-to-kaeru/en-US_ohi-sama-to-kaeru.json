@@ -1,5 +1,9 @@
 {
     "title": "Ohi-sama to Kaeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/15831.jpg",
+        "alt": "ohi-sama-to-kaeru"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "お日様と蛙",

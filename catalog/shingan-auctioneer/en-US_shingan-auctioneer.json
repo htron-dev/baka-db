@@ -1,5 +1,9 @@
 {
     "title": "Shingan Auctioneer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198096.jpg",
+        "alt": "shingan-auctioneer"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "38",

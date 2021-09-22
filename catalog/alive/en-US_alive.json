@@ -1,5 +1,9 @@
 {
     "title": "Alive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/12292.jpg",
+        "alt": "alive"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

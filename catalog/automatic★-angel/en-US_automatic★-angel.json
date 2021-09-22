@@ -1,5 +1,9 @@
 {
     "title": "Automatic★Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175880.jpg",
+        "alt": "automatic★-angel"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

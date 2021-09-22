@@ -1,5 +1,9 @@
 {
     "title": "Tokkou! Maid Thunder",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/37850.jpg",
+        "alt": "tokkou-maid-thunder"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "突攻! メイドサンダー",

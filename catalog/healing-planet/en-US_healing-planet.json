@@ -1,5 +1,9 @@
 {
     "title": "Healing Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14569.jpg",
+        "alt": "healing-planet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

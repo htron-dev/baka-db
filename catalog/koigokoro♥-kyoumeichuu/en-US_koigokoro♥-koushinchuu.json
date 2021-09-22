@@ -1,5 +1,9 @@
 {
     "title": "Koigokoro♥Koushinchuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95493.jpg",
+        "alt": "koigokoro♥-koushinchuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

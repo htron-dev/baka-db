@@ -1,12 +1,16 @@
 {
     "title": "Cardfight!! Vanguard G",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/69867.jpg",
+        "alt": "cardfight-vanguard-g"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "カードファイト!! ヴァンガード G",
     "start_date": "2014-10-26",
     "end_date": "2014-10-26",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"BREAK IT!\" by Mamoru Miyano (eps 1-26)",
+    "ending_song": "#1: \"Dakara Genki for YOU (だから元気 for YOU)\" by Misaki Tokura (Izumi Kitta) (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

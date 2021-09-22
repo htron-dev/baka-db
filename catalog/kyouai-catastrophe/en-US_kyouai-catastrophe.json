@@ -1,5 +1,9 @@
 {
     "title": "Kyouai Catastrophe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156871.jpg",
+        "alt": "kyouai-catastrophe"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

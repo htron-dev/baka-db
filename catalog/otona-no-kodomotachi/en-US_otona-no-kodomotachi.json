@@ -1,5 +1,9 @@
 {
     "title": "Otona no Kodomotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16774.jpg",
+        "alt": "otona-no-kodomotachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

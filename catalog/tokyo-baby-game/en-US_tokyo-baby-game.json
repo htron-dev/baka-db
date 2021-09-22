@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Baby Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14025.jpg",
+        "alt": "tokyo-baby-game"
+    },
     "type": "manga",
     "volumes": "6",
     "tags": [

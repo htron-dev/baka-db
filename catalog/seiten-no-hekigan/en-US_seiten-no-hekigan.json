@@ -1,5 +1,9 @@
 {
     "title": "Seiten no Hekigan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98877.jpg",
+        "alt": "seiten-no-hekigan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

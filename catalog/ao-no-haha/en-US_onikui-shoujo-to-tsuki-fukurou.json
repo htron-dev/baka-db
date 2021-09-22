@@ -1,5 +1,9 @@
 {
     "title": "Onikui Shoujo to Tsuki Fukurou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201407.jpg",
+        "alt": "onikui-shoujo-to-tsuki-fukurou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

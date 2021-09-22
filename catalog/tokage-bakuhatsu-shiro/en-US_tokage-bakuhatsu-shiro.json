@@ -1,5 +1,9 @@
 {
     "title": "Tokage Bakuhatsu Shiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237260.jpg",
+        "alt": "tokage-bakuhatsu-shiro"
+    },
     "type": "manga",
     "original_name": "トカゲ爆発しろ",
     "start_date": "2020-01-27",

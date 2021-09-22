@@ -1,5 +1,9 @@
 {
     "title": "Only Lonely Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154624.jpg",
+        "alt": "only-lonely-vampire"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

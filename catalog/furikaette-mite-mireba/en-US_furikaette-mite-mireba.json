@@ -1,5 +1,9 @@
 {
     "title": "Furikaette Mite Mireba?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127897.jpg",
+        "alt": "furikaette-mite-mireba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

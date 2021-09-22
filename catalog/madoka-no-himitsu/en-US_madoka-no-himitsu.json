@@ -1,5 +1,9 @@
 {
     "title": "Madoka no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224031.jpg",
+        "alt": "madoka-no-himitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

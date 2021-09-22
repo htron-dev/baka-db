@@ -1,5 +1,9 @@
 {
     "title": "Neko to Jiichan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228437.jpg",
+        "alt": "neko-to-jiichan"
+    },
     "type": "manga",
     "original_name": "ねことじいちゃん",
     "start_date": "2015-08-07",

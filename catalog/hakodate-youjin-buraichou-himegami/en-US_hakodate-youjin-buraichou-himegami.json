@@ -1,5 +1,9 @@
 {
     "title": "Hakodate Youjin Buraichou Himegami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13249.jpg",
+        "alt": "hakodate-youjin-buraichou-himegami"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Youjuu Toshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/50021.jpg",
+        "alt": "youjuu-toshi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "妖獣都市",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Wicked_City_(film"
+            "link": "http://en.wikipedia.org/wiki/Wicked_City_%28film%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Sundome!! Milky Way",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198371.jpg",
+        "alt": "sundome-milky-way"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "62",

@@ -1,5 +1,9 @@
 {
     "title": "Peek A Boo!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95805.jpg",
+        "alt": "peek-a-boo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

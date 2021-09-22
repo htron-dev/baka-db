@@ -1,5 +1,9 @@
 {
     "title": "Yokohama Bakkure-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/65451.jpg",
+        "alt": "yokohama-bakkure-tai"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "横浜ばっくれ隊",

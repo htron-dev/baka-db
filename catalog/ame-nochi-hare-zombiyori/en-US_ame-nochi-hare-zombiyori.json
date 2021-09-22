@@ -1,5 +1,9 @@
 {
     "title": "Ame Nochi Hare Zombiyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174533.jpg",
+        "alt": "ame-nochi-hare-zombiyori"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "37",

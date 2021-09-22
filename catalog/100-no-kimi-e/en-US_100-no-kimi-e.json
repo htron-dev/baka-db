@@ -1,5 +1,9 @@
 {
     "title": "100% no Kimi e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180316.jpg",
+        "alt": "100-no-kimi-e"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

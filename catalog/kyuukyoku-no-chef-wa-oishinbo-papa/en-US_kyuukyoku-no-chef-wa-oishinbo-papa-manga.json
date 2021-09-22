@@ -1,5 +1,9 @@
 {
     "title": "Kyuukyoku no Chef wa Oishinbo Papa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234319.jpg",
+        "alt": "kyuukyoku-no-chef-wa-oishinbo-papa"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

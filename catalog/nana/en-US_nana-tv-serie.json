@@ -1,12 +1,16 @@
 {
     "title": "Nana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/11232.jpg",
+        "alt": "nana"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "NANA [ナナ]",
     "start_date": "2006-04-05",
     "end_date": "2006-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Rose\" by Anna inspi' Nana ~Black Stones~ (eps 1-21)",
+    "ending_song": "#1: \"A Little Pain\" by Olivia inspi' Reira ~Trapnest~ (eps 01-08, 10-18, 41 (for TV broadcast))",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "music",

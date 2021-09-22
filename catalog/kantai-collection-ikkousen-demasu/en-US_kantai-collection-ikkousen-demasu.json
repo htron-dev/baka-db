@@ -1,5 +1,9 @@
 {
     "title": "Kantai Collection: Ikkousen, Demasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/115089.jpg",
+        "alt": "kantai-collection-ikkousen-demasu"
+    },
     "type": "light-novel",
     "original_name": "艦隊これくしょん ‐艦これ‐ 一航戦、出ます!",
     "start_date": "2014-02-01",

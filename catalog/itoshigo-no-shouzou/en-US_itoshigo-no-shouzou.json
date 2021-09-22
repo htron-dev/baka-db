@@ -1,5 +1,9 @@
 {
     "title": "Itoshigo no Shouzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227442.jpg",
+        "alt": "itoshigo-no-shouzou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "愛し子の肖像",

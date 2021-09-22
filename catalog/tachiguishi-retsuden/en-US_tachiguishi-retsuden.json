@@ -1,5 +1,9 @@
 {
     "title": "Tachiguishi Retsuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/2647.jpg",
+        "alt": "tachiguishi-retsuden"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "立喰師列伝",

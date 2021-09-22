@@ -1,5 +1,9 @@
 {
     "title": "Henkei! Henkei! Transformers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35681.jpg",
+        "alt": "henkei-henkei-transformers"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

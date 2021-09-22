@@ -1,5 +1,9 @@
 {
     "title": "Mushikaburi-hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221544.jpg",
+        "alt": "mushikaburi-hime"
+    },
     "type": "manga",
     "original_name": "虫かぶり姫",
     "start_date": "2018-08-28",

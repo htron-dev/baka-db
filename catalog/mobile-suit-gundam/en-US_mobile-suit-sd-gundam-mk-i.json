@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit SD Gundam Mk I",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/51035.jpg",
+        "alt": "mobile-suit-sd-gundam-mk-i"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "機動戦士 SD ガンダム",

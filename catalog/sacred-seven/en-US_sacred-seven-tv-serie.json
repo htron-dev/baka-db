@@ -1,12 +1,16 @@
 {
     "title": "Sacred Seven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/30218.jpg",
+        "alt": "sacred-seven"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "セイクリッドセブン",
     "start_date": "2011-07-03",
     "end_date": "2011-07-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"stone cold\" by FictionJunction (eps 1-6)",
+    "ending_song": "#1: \"Kiseki (輝跡-kiseki-)\" by Yuuka Nanri (eps 1-6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

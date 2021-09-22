@@ -1,5 +1,9 @@
 {
     "title": "Megalo Box: Shukumei no Souken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209179.jpg",
+        "alt": "megalo-box-shukumei-no-souken"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

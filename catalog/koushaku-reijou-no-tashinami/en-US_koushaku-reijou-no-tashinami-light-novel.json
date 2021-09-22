@@ -1,5 +1,9 @@
 {
     "title": "Koushaku Reijou no Tashinami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167558.jpg",
+        "alt": "koushaku-reijou-no-tashinami"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "45",

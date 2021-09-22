@@ -1,5 +1,9 @@
 {
     "title": "Free Kisses",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203976.jpg",
+        "alt": "free-kisses"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

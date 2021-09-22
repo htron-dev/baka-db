@@ -1,5 +1,9 @@
 {
     "title": "Girls Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162667.jpg",
+        "alt": "girls-note"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "33",

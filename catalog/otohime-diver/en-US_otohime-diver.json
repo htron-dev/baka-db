@@ -1,5 +1,9 @@
 {
     "title": "Otohime Diver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212982.jpg",
+        "alt": "otohime-diver"
+    },
     "type": "manga",
     "original_name": "乙姫ダイバー",
     "start_date": "2017-01-25",

@@ -1,5 +1,9 @@
 {
     "title": "Taka to Tonbi to Aburaage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222915.jpg",
+        "alt": "taka-to-tonbi-to-aburaage"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

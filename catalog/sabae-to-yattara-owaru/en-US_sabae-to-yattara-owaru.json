@@ -1,5 +1,9 @@
 {
     "title": "Sabae to Yattara Owaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240373.jpg",
+        "alt": "sabae-to-yattara-owaru"
+    },
     "type": "manga",
     "original_name": "サバエとヤッたら終わる",
     "start_date": "2019-09-20",

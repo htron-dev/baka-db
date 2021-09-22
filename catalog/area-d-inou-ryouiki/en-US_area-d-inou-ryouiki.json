@@ -1,5 +1,9 @@
 {
     "title": "Area D: Inou Ryouiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188814.jpg",
+        "alt": "area-d-inou-ryouiki"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "137",

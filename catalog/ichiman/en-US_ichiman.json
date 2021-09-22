@@ -1,5 +1,9 @@
 {
     "title": "Ichiman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1694/107695.jpg",
+        "alt": "ichiman"
+    },
     "type": "ona",
     "episodes": "18",
     "original_name": "イチマン",

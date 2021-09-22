@@ -1,5 +1,9 @@
 {
     "title": "Kaitei Sentai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233700.jpg",
+        "alt": "kaitei-sentai"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "海底戦隊",

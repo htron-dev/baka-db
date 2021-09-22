@@ -1,5 +1,9 @@
 {
     "title": "S to M no Mitsugetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66675.jpg",
+        "alt": "s-to-m-no-mitsugetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

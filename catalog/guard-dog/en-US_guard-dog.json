@@ -1,5 +1,9 @@
 {
     "title": "Guard Dog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189116.jpg",
+        "alt": "guard-dog"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "ガード・ドッグ",

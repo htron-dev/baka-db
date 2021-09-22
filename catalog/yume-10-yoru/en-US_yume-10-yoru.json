@@ -1,5 +1,9 @@
 {
     "title": "Yume 10 Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/58123.jpg",
+        "alt": "yume-10-yoru"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "夢 10 夜",

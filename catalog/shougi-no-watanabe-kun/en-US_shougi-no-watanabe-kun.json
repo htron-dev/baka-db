@@ -1,5 +1,9 @@
 {
     "title": "Shougi no Watanabe-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215701.jpg",
+        "alt": "shougi-no-watanabe-kun"
+    },
     "type": "manga",
     "original_name": "将棋の渡辺くん",
     "start_date": "2013-05-09",

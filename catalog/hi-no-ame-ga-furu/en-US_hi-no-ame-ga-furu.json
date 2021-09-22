@@ -1,5 +1,9 @@
 {
     "title": "Hi no Ame ga Furu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/12821.jpg",
+        "alt": "hi-no-ame-ga-furu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "火の雨がふる",

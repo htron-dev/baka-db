@@ -1,5 +1,9 @@
 {
     "title": "Kouhai ga Saikyou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168437.jpg",
+        "alt": "kouhai-ga-saikyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

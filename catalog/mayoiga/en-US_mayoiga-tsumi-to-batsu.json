@@ -1,5 +1,9 @@
 {
     "title": "Mayoiga: Tsumi to Batsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179201.jpg",
+        "alt": "mayoiga-tsumi-to-batsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

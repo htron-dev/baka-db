@@ -1,5 +1,9 @@
 {
     "title": "Absolute Witch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36889.jpg",
+        "alt": "absolute-witch"
+    },
     "type": "manhwa",
     "volumes": "12",
     "chapters": "83",

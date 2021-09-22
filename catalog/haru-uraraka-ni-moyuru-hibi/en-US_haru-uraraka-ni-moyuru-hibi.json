@@ -1,5 +1,9 @@
 {
     "title": "Haru Uraraka ni Moyuru Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35888.jpg",
+        "alt": "haru-uraraka-ni-moyuru-hibi"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "2004-02-20",

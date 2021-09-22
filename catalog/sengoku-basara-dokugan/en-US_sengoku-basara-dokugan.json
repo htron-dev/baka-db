@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Basara Dokugan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192231.jpg",
+        "alt": "sengoku-basara-dokugan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

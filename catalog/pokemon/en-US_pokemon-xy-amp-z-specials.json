@@ -1,12 +1,16 @@
 {
     "title": "Pokemon XY&amp;Z Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/82843.jpg",
+        "alt": "pokemon-xy-amp-z-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ポケットモンスター XY&Z",
     "start_date": "2016-11-03",
     "end_date": "2016-11-03",
     "opening_song": "\"XY&Z\" by Satoshi (Rika Matsumoto)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Puni-chan no Uta (プニちゃんのうた)\" by Eureka (Mariya Ise) (ep 1)",
     "rating": "PG - Children",
     "tags": [
         "action",

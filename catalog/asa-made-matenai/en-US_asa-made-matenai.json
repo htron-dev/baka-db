@@ -1,5 +1,9 @@
 {
     "title": "Asa made Matenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193028.jpg",
+        "alt": "asa-made-matenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Overlord: Ple Ple Pleiades",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1849/100694.jpg",
+        "alt": "overlord-ple-ple-pleiades"
+    },
     "type": "special",
     "episodes": "8",
     "original_name": "オーバーロード　ぷれぷれぷれあです",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Overlord_(novel_series"
+            "link": "http://en.wikipedia.org/wiki/Overlord_%28novel_series%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Last Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66733.jpg",
+        "alt": "last-master"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Keimusho no Mae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163405.jpg",
+        "alt": "keimusho-no-mae"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

@@ -1,12 +1,16 @@
 {
     "title": "Kodomo no Jikan: Ni Gakki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/39447.jpg",
+        "alt": "kodomo-no-jikan-ni-gakki"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "こどものじかん 2 学期",
     "start_date": "2009-02-20",
     "end_date": "2009-02-20",
     "opening_song": "\"Guilty Future\" by Kitamura Eri",
-    "ending_song": "#01",
+    "ending_song": "#01: \"1, 2, 3 Day\" by Little Non (eps 1-2)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "comedy",

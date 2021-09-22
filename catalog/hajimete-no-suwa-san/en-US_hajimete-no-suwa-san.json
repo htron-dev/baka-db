@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Suwa-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241359.jpg",
+        "alt": "hajimete-no-suwa-san"
+    },
     "type": "manga",
     "original_name": "はじめての諏訪さん",
     "start_date": "2020-08-21",

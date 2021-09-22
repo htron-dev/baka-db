@@ -1,5 +1,9 @@
 {
     "title": "MIXiM★11",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33897.jpg",
+        "alt": "mi-xi-m★-11"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "129",

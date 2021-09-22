@@ -1,5 +1,9 @@
 {
     "title": "Gliding Reki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133887.jpg",
+        "alt": "gliding-reki"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "グライディング REKI",

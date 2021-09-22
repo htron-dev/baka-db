@@ -1,5 +1,9 @@
 {
     "title": "Boku to René to Aoarashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180212.jpg",
+        "alt": "boku-to-rene-to-aoarashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Aioimusubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155668.jpg",
+        "alt": "aioimusubi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

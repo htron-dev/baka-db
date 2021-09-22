@@ -1,5 +1,9 @@
 {
     "title": "Hitokui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148271.jpg",
+        "alt": "hitokui"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "92",

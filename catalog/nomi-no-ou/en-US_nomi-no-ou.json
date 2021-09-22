@@ -1,5 +1,9 @@
 {
     "title": "Nomi no Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20041.jpg",
+        "alt": "nomi-no-ou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "蚤の王",

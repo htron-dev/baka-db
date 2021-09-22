@@ -1,5 +1,9 @@
 {
     "title": "Tamagotchi! Tamatomo Daishuu GO",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/72478.jpg",
+        "alt": "tamagotchi-tamatomo-daishuu-go"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "たまごっち! たまともだいしゅー GO",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Tamagotchi!_(anime"
+            "link": "http://en.wikipedia.org/wiki/Tamagotchi!_%28anime%29"
         }
     ]
 }

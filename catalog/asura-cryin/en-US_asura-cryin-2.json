@@ -1,12 +1,16 @@
 {
     "title": "Asura Cryin' 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/50897.jpg",
+        "alt": "asura-cryin-2"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "アスラクライン 2",
     "start_date": "2009-10-01",
     "end_date": "2009-10-01",
     "opening_song": "\"Alternative (オルタナティヴ)\" by Angela",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kanata no Delight (彼方の delight)\" by angela (ep. 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

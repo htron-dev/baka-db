@@ -1,5 +1,9 @@
 {
     "title": "Neko Ramen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/17126.jpg",
+        "alt": "neko-ramen"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "猫ラーメン",

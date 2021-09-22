@@ -1,5 +1,9 @@
 {
     "title": "Marugoto♥Anju Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5993.jpg",
+        "alt": "marugoto♥-anju-gakuen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

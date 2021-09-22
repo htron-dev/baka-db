@@ -1,5 +1,9 @@
 {
     "title": "Weiqi Shaonian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/27549.jpg",
+        "alt": "weiqi-shaonian"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "围棋少年",

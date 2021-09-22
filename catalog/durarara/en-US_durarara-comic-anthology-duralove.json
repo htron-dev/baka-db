@@ -1,5 +1,9 @@
 {
     "title": "Durarara!! Comic Anthology: Duralove!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114993.jpg",
+        "alt": "durarara-comic-anthology-duralove"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "34",

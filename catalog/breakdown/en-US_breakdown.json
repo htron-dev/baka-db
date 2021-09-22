@@ -1,5 +1,9 @@
 {
     "title": "Breakdown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230791.jpg",
+        "alt": "breakdown"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "18",

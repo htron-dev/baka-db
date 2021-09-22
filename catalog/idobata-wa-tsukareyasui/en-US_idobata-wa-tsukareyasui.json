@@ -1,5 +1,9 @@
 {
     "title": "Idobata wa Tsukareyasui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207028.jpg",
+        "alt": "idobata-wa-tsukareyasui"
+    },
     "type": "manga",
     "original_name": "井戸端は憑かれやすい",
     "start_date": "2017-10-21",

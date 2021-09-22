@@ -1,5 +1,9 @@
 {
     "title": "POINT-D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41557.jpg",
+        "alt": "point-d"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "POINT・D",

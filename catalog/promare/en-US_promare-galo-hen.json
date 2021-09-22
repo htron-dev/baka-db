@@ -1,5 +1,9 @@
 {
     "title": "Promare: Galo-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1369/108826.jpg",
+        "alt": "promare-galo-hen"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "PROMARE（プロメア）ガロ編",

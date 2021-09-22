@@ -1,5 +1,9 @@
 {
     "title": "One Night Friend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224754.jpg",
+        "alt": "one-night-friend"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

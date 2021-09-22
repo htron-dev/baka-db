@@ -1,5 +1,9 @@
 {
     "title": "Sensei no Bulge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178195.jpg",
+        "alt": "sensei-no-bulge"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

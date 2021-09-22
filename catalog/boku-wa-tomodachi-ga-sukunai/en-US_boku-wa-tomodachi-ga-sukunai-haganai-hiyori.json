@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Tomodachi ga Sukunai: Haganai Hiyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/141115.jpg",
+        "alt": "boku-wa-tomodachi-ga-sukunai-haganai-hiyori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

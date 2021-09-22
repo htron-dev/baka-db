@@ -1,12 +1,16 @@
 {
     "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/76222.jpg",
+        "alt": "gate-jieitai-kanochi-nite-kaku-tatakaeri"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "GATE（ゲート）自衛隊　彼の地にて、斯く戦えり",
     "start_date": "2015-07-04",
     "end_date": "2015-07-04",
-    "opening_song": "\"GATE",
-    "ending_song": "#1",
+    "opening_song": "\"GATE: Sore wa Akatsuki no you ni (GATE ～それは暁のように～)\" by Kishida Kyoudan & The Akeboshi Rockets (eps 1-11)",
+    "ending_song": "#1: \"Prism Communicate (ぷりずむコミュニケート)\" by Rory (Risa Taneda), Tuka (Hisako Kanemoto), Lelei (Nao Touyama) (eps 1-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Gate_(novel_series"
+            "link": "https://en.wikipedia.org/wiki/Gate_%28novel_series%29"
         }
     ]
 }

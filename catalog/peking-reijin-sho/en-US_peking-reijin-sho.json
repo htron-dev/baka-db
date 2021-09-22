@@ -1,5 +1,9 @@
 {
     "title": "Peking Reijin Sho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14546.jpg",
+        "alt": "peking-reijin-sho"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

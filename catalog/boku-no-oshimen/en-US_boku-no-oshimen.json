@@ -1,5 +1,9 @@
 {
     "title": "Boku no Oshimen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246426.jpg",
+        "alt": "boku-no-oshimen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

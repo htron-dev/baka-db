@@ -1,5 +1,9 @@
 {
     "title": "Trigun: Badlands Rumble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/27969.jpg",
+        "alt": "trigun-badlands-rumble"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "トライガン",

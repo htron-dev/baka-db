@@ -1,5 +1,9 @@
 {
     "title": "Hayate no Gotoku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171802.jpg",
+        "alt": "hayate-no-gotoku"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

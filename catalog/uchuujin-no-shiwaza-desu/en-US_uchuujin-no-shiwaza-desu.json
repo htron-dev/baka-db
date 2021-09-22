@@ -1,5 +1,9 @@
 {
     "title": "Uchuujin no Shiwaza desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183777.jpg",
+        "alt": "uchuujin-no-shiwaza-desu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

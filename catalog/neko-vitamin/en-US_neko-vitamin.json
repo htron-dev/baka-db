@@ -1,5 +1,9 @@
 {
     "title": "Neko Vitamin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46951.jpg",
+        "alt": "neko-vitamin"
+    },
     "type": "manga",
     "original_name": "猫ビタミン",
     "start_date": "2009-06-15",

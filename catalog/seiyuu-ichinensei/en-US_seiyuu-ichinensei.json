@@ -1,5 +1,9 @@
 {
     "title": "Seiyuu Ichinensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119579.jpg",
+        "alt": "seiyuu-ichinensei"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Juusha to Oresama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9668.jpg",
+        "alt": "juusha-to-oresama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

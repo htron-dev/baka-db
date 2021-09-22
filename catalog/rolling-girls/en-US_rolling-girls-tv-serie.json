@@ -1,12 +1,16 @@
 {
     "title": "Rolling☆Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71527.jpg",
+        "alt": "rolling☆-girls"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ローリング ☆ ガールズ",
     "start_date": "2015-01-11",
     "end_date": "2015-01-11",
     "opening_song": "\"Hito ni Yasashiku (人にやさしく)\" by THE ROLLING GIRLS (Ari Ozawa, Rina Hidaka, Risa Taneda, Yumiri Hanamori) (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hito ni Yasashiku (人にやさしく)\" by THE ROLLING GIRLS (Ari Ozawa, Rina Hidaka, Risa Taneda, Yumiri Hanamori) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

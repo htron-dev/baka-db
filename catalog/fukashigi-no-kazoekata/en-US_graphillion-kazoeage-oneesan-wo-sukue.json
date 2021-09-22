@@ -1,8 +1,12 @@
 {
     "title": "Graphillion: Kazoeage Oneesan wo Sukue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/72117.jpg",
+        "alt": "graphillion-kazoeage-oneesan-wo-sukue"
+    },
     "type": "ona",
     "episodes": "1",
-    "original_name": "Graphillion",
+    "original_name": "Graphillion: 数え上げおねえさんを救",
     "start_date": "2013-06-17",
     "rating": "G - All Ages",
     "tags": [],

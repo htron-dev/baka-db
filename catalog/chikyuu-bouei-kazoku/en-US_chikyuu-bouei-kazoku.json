@@ -1,5 +1,9 @@
 {
     "title": "Chikyuu Bouei Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/25227.jpg",
+        "alt": "chikyuu-bouei-kazoku"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "地球防衛家族",

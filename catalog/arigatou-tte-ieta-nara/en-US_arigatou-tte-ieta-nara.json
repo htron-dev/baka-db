@@ -1,5 +1,9 @@
 {
     "title": "Arigatou tte Ieta nara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226925.jpg",
+        "alt": "arigatou-tte-ieta-nara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

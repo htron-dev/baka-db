@@ -1,12 +1,16 @@
 {
     "title": "Baka to Test to Shoukanjuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/50389.jpg",
+        "alt": "baka-to-test-to-shoukanjuu"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "バカとテストと召喚獣",
     "start_date": "2010-01-07",
     "end_date": "2010-01-07",
     "opening_song": "\"Perfect-area complete!\" by Natsuko Asou",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Baka Go Home\" by milktub (eps 1-6, 10-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

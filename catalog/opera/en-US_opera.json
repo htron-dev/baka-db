@@ -1,5 +1,9 @@
 {
     "title": "Opera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32818.jpg",
+        "alt": "opera"
+    },
     "type": "light-novel",
     "volumes": "8",
     "original_name": "オペラ",

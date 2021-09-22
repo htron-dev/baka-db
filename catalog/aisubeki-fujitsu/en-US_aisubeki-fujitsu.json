@@ -1,5 +1,9 @@
 {
     "title": "Aisubeki Fujitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25677.jpg",
+        "alt": "aisubeki-fujitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

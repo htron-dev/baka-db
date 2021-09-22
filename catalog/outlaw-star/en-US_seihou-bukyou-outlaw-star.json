@@ -1,12 +1,16 @@
 {
     "title": "Seihou Bukyou Outlaw Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/28848.jpg",
+        "alt": "seihou-bukyou-outlaw-star"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "星方武侠アウトロースター",
     "start_date": "1998-01-09",
     "end_date": "1998-01-09",
     "opening_song": "\"Through the Night\" by Masahiko Arimatsu",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hiru no Tsuki (昼の月)\" by Akino Arai (eps 1-13)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

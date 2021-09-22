@@ -1,5 +1,9 @@
 {
     "title": "Kakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/71810.jpg",
+        "alt": "kakari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "係",

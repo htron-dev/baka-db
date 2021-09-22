@@ -1,5 +1,9 @@
 {
     "title": "Osusume Boyfriend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38997.jpg",
+        "alt": "osusume-boyfriend"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

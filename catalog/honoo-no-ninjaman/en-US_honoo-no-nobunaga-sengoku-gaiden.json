@@ -1,5 +1,9 @@
 {
     "title": "Honoo no Nobunaga: Sengoku Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/102129.jpg",
+        "alt": "honoo-no-nobunaga-sengoku-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

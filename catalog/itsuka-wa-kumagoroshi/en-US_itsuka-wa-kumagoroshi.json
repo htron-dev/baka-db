@@ -1,5 +1,9 @@
 {
     "title": "Itsuka wa Kumagoroshi!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25436.jpg",
+        "alt": "itsuka-wa-kumagoroshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

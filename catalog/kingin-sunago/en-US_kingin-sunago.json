@@ -1,5 +1,9 @@
 {
     "title": "Kingin Sunago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170062.jpg",
+        "alt": "kingin-sunago"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

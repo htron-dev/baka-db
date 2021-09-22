@@ -1,5 +1,9 @@
 {
     "title": "Patalliro Saiyuuki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/3887.jpg",
+        "alt": "patalliro-saiyuuki"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "パタリロ西遊記！",

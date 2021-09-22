@@ -1,5 +1,9 @@
 {
     "title": "Ore no Utsu-Yome ga, Mendo-Kawaii.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151639.jpg",
+        "alt": "ore-no-utsu-yome-ga-mendo-kawaii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

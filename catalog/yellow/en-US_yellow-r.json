@@ -1,5 +1,9 @@
 {
     "title": "Yellow/R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142099.jpg",
+        "alt": "yellow-r"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

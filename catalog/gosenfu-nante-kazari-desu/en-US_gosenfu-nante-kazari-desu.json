@@ -1,5 +1,9 @@
 {
     "title": "Gosenfu Nante Kazari desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126149.jpg",
+        "alt": "gosenfu-nante-kazari-desu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "五線譜なんて飾りですっ!",

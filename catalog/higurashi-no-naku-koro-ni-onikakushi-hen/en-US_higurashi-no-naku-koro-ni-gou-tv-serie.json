@@ -1,12 +1,16 @@
 {
     "title": "Higurashi no Naku Koro ni Gou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1716/111533.jpg",
+        "alt": "higurashi-no-naku-koro-ni-gou"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ひぐらしのなく頃に業",
     "start_date": "2020-10-01",
     "end_date": "2020-10-01",
     "opening_song": "\"I believe what you said\" by Asaka (eps 2-4, 6-7, 10-11, 14-18, 20-23)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Higurashi no Naku Koro ni (ひぐらしのなく頃に)\" by Eiko Shimamiya (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "dementia",

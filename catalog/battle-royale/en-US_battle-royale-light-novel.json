@@ -1,5 +1,9 @@
 {
     "title": "Battle Royale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/214712.jpg",
+        "alt": "battle-royale"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "バトル・ロワイアル",

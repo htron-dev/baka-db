@@ -1,5 +1,9 @@
 {
     "title": "Gogulyeoui Jeolm-eun Musadeul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/76380.jpg",
+        "alt": "gogulyeoui-jeolm-eun-musadeul"
+    },
     "type": "tv-serie",
     "episodes": "7",
     "original_name": "고구려의 젊은 무사들",

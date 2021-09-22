@@ -1,5 +1,9 @@
 {
     "title": "Magus to Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174723.jpg",
+        "alt": "magus-to-watashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

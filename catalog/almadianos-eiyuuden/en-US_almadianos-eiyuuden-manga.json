@@ -1,5 +1,9 @@
 {
     "title": "Almadianos Eiyuuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210103.jpg",
+        "alt": "almadianos-eiyuuden"
+    },
     "type": "manga",
     "original_name": "アルマディアノス英雄伝",
     "start_date": "2017-07-25",

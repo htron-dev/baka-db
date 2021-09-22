@@ -1,5 +1,9 @@
 {
     "title": "Boys on the Run",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/74829.jpg",
+        "alt": "boys-on-the-run"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "116",

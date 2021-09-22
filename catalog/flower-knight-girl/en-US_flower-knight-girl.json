@@ -1,5 +1,9 @@
 {
     "title": "Flower Knight Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165739.jpg",
+        "alt": "flower-knight-girl"
+    },
     "type": "light-novel",
     "original_name": "フラワーナイトガール",
     "start_date": "2015-10-30",

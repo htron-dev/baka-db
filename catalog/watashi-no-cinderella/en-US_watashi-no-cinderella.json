@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10067.jpg",
+        "alt": "watashi-no-cinderella"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

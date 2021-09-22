@@ -1,5 +1,9 @@
 {
     "title": "Ozanari-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72049.jpg",
+        "alt": "ozanari-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "39",

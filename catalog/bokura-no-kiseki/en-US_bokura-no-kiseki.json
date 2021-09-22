@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Kiseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157890.jpg",
+        "alt": "bokura-no-kiseki"
+    },
     "type": "manga",
     "original_name": "ボクラノキセキ",
     "start_date": "2007-11-16",

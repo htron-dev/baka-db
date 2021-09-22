@@ -1,5 +1,9 @@
 {
     "title": "Denpa Kyoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/56701.jpg",
+        "alt": "denpa-kyoushi"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "電波教師",

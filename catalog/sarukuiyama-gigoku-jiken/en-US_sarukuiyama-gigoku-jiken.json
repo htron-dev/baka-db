@@ -1,5 +1,9 @@
 {
     "title": "Sarukuiyama Gigoku Jiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34488.jpg",
+        "alt": "sarukuiyama-gigoku-jiken"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "猿喰山疑獄事件",

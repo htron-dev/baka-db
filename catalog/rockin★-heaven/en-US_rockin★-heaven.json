@@ -1,5 +1,9 @@
 {
     "title": "Rockin'★Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4992.jpg",
+        "alt": "rockin★-heaven"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "36",

@@ -1,5 +1,9 @@
 {
     "title": "Josou Shounen Anthology Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/111219.jpg",
+        "alt": "josou-shounen-anthology-comic"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "142",

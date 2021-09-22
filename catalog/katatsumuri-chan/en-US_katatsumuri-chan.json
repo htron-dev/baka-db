@@ -1,5 +1,9 @@
 {
     "title": "Katatsumuri-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169829.jpg",
+        "alt": "katatsumuri-chan"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "かたつむりちゃん",

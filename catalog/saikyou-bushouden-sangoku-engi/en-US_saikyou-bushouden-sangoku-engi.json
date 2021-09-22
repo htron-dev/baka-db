@@ -1,12 +1,16 @@
 {
     "title": "Saikyou Bushouden: Sangoku Engi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/32589.jpg",
+        "alt": "saikyou-bushouden-sangoku-engi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "最強武将伝・三国演義",
     "start_date": "2010-04-04",
     "end_date": "2010-04-04",
     "opening_song": "\"Kaze no Kaiwa (風の会話)\" by Isao Sasaki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ai wa Furu Hoshi no Gotoku (愛は降る星のごとく)\" by May'n (eps 1-26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "historical"

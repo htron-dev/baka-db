@@ -1,5 +1,9 @@
 {
     "title": "Nyamen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/59331.jpg",
+        "alt": "nyamen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "にゃ〜めん",

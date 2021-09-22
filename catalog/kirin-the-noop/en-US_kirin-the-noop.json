@@ -1,5 +1,9 @@
 {
     "title": "Kirin the Noop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/86110.jpg",
+        "alt": "kirin-the-noop"
+    },
     "type": "tv-serie",
     "original_name": "キリン・ザ・ヌープ",
     "start_date": "2014-02-06",

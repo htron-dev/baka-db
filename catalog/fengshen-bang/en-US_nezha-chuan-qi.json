@@ -1,5 +1,9 @@
 {
     "title": "Nezha Chuan Qi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1396/101385.jpg",
+        "alt": "nezha-chuan-qi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "哪吒传奇",

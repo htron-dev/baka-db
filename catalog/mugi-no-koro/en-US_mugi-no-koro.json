@@ -1,5 +1,9 @@
 {
     "title": "Mugi no Koro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226520.jpg",
+        "alt": "mugi-no-koro"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ムギのころ",

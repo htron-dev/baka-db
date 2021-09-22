@@ -1,5 +1,9 @@
 {
     "title": "Danzai no Bishou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184800.jpg",
+        "alt": "danzai-no-bishou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

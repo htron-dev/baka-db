@@ -1,5 +1,9 @@
 {
     "title": "Hai Bus ni Sumu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248321.jpg",
+        "alt": "hai-bus-ni-sumu"
+    },
     "type": "manga",
     "original_name": "廃バスに住む",
     "start_date": "2021-02-04",

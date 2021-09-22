@@ -1,5 +1,9 @@
 {
     "title": "Kaeru no★Prince-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/81786.jpg",
+        "alt": "kaeru-no★-prince-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

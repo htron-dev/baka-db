@@ -1,5 +1,9 @@
 {
     "title": "Animeta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179107.jpg",
+        "alt": "animeta"
+    },
     "type": "manga",
     "original_name": "アニメタ！",
     "start_date": "2015-06-22",

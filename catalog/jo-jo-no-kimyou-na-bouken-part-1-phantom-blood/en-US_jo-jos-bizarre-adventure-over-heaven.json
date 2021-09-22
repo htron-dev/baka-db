@@ -1,5 +1,9 @@
 {
     "title": "JoJo's Bizarre Adventure: Over Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59297.jpg",
+        "alt": "jo-jos-bizarre-adventure-over-heaven"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "82",

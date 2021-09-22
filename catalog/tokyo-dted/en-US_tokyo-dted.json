@@ -1,5 +1,9 @@
 {
     "title": "Tokyo DTED",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188931.jpg",
+        "alt": "tokyo-dted"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

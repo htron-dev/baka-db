@@ -1,5 +1,9 @@
 {
     "title": "Omiai wa Goenryoshimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167637.jpg",
+        "alt": "omiai-wa-goenryoshimasu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "お見合いはご遠慮します",

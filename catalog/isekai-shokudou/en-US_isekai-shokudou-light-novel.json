@@ -1,5 +1,9 @@
 {
     "title": "Isekai Shokudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219344.jpg",
+        "alt": "isekai-shokudou"
+    },
     "type": "light-novel",
     "original_name": "異世界食堂",
     "start_date": "2015-02-28",

@@ -1,5 +1,9 @@
 {
     "title": "Love + Dessin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21731.jpg",
+        "alt": "love-dessin"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "爱的素描",

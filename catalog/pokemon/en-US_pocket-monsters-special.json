@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16458.jpg",
+        "alt": "pocket-monsters-special"
+    },
     "type": "manga",
     "original_name": "ポケットモンスター SPECIAL",
     "start_date": "1997-04-19",

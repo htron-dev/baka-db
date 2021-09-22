@@ -1,5 +1,9 @@
 {
     "title": "Island",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176271.jpg",
+        "alt": "island"
+    },
     "type": "manga",
     "original_name": "ISLAND",
     "start_date": "2016-04-21",

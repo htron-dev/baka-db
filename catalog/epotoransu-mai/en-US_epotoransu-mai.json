@@ -1,5 +1,9 @@
 {
     "title": "Epotoransu! Mai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109479.jpg",
+        "alt": "epotoransu-mai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Fashion Music",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203213.jpg",
+        "alt": "fashion-music"
+    },
     "type": "manga",
     "original_name": "FASHION MUSIC",
     "start_date": "2015-06-19",

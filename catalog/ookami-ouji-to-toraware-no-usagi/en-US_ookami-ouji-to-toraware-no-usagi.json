@@ -1,5 +1,9 @@
 {
     "title": "Ookami Ouji to Toraware no Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194842.jpg",
+        "alt": "ookami-ouji-to-toraware-no-usagi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

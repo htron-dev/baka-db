@@ -1,5 +1,9 @@
 {
     "title": "Yojigen Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61965.jpg",
+        "alt": "yojigen-sekai"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "四次元世界",

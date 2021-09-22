@@ -1,12 +1,16 @@
 {
     "title": "Death Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
+        "alt": "death-note"
+    },
     "type": "tv-serie",
     "episodes": "37",
     "original_name": "デスノート",
     "start_date": "2006-10-04",
     "end_date": "2006-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"the WORLD\" by Nightmare (eps 1-19)",
+    "ending_song": "#1: \"Alumina\" by Nightmare (eps 1-19)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",

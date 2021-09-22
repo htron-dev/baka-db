@@ -1,5 +1,9 @@
 {
     "title": "Itokoi Chidori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/60155.jpg",
+        "alt": "itokoi-chidori"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Kyoto Teramachi Sanjou no Holmes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207748.jpg",
+        "alt": "kyoto-teramachi-sanjou-no-holmes"
+    },
     "type": "manga",
     "original_name": "京都寺町三条のホームズ",
     "start_date": "2017-10-25",

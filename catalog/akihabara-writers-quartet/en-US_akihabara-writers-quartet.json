@@ -1,5 +1,9 @@
 {
     "title": "Akihabara Writer's Quartet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159885.jpg",
+        "alt": "akihabara-writers-quartet"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "アキハバラ・ライターズ・カルテット",

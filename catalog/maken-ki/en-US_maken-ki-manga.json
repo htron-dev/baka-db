@@ -1,5 +1,9 @@
 {
     "title": "Maken-Ki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156367.jpg",
+        "alt": "maken-ki"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "146",

@@ -1,5 +1,9 @@
 {
     "title": "Hokenshitsu e Irasshai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79443.jpg",
+        "alt": "hokenshitsu-e-irasshai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "保健室へいらっしゃい",

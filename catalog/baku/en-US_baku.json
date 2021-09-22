@@ -1,5 +1,9 @@
 {
     "title": "Baku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156670.jpg",
+        "alt": "baku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

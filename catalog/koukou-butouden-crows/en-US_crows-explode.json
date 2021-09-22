@@ -1,5 +1,9 @@
 {
     "title": "Crows Explode",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215538.jpg",
+        "alt": "crows-explode"
+    },
     "type": "manga",
     "original_name": "クローズ EXPLODE",
     "start_date": "2017-10-06",

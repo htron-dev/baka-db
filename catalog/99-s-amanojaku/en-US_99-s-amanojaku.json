@@ -1,5 +1,9 @@
 {
     "title": "99's Amanojaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44905.jpg",
+        "alt": "99-s-amanojaku"
+    },
     "type": "manga",
     "original_name": "九十九のあまのじゃく",
     "start_date": "2010-12-24",

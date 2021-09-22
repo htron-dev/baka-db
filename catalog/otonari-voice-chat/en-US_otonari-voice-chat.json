@@ -1,5 +1,9 @@
 {
     "title": "Otonari Voice Chat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187211.jpg",
+        "alt": "otonari-voice-chat"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

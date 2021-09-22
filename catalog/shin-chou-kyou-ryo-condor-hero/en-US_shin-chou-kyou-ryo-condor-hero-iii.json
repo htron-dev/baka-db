@@ -1,8 +1,12 @@
 {
     "title": "Shin Chou Kyou Ryo: Condor Hero III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1383/90702.jpg",
+        "alt": "shin-chou-kyou-ryo-condor-hero-iii"
+    },
     "type": "tv-serie",
     "episodes": "26",
-    "original_name": "神鵰俠侶 III",
+    "original_name": "神鵰俠侶 III: 十六年之約",
     "start_date": "2008-04-13",
     "end_date": "2008-04-13",
     "rating": "PG-13 - Teens 13 or older",

@@ -1,5 +1,9 @@
 {
     "title": "Nijiko the Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73045.jpg",
+        "alt": "nijiko-the-party"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "虹子 the パーティー",

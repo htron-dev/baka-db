@@ -1,5 +1,9 @@
 {
     "title": "Yuusha ni wa Katenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164383.jpg",
+        "alt": "yuusha-ni-wa-katenai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "勇者には勝てない",

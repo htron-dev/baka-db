@@ -1,5 +1,9 @@
 {
     "title": "Kawaii Hito.: Pure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81716.jpg",
+        "alt": "kawaii-hito-pure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

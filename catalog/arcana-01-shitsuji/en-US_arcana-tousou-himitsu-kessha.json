@@ -1,5 +1,9 @@
 {
     "title": "Arcana - Tousou / Himitsu Kessha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39452.jpg",
+        "alt": "arcana-tousou-himitsu-kessha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

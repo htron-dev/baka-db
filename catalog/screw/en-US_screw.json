@@ -1,5 +1,9 @@
 {
     "title": "Screw",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1665/97838.jpg",
+        "alt": "screw"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "スクリュ",

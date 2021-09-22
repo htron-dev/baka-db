@@ -1,5 +1,9 @@
 {
     "title": "Monkey Peak",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191373.jpg",
+        "alt": "monkey-peak"
+    },
     "type": "manga",
     "original_name": "モンキーピーク",
     "start_date": "2016-09-02",

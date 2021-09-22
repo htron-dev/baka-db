@@ -1,5 +1,9 @@
 {
     "title": "Nozo x Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/67123.jpg",
+        "alt": "nozo-x-kimi"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ノゾ × キミ",

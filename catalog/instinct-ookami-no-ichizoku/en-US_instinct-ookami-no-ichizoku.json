@@ -1,5 +1,9 @@
 {
     "title": "Instinct: Ookami no Ichizoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/71127.jpg",
+        "alt": "instinct-ookami-no-ichizoku"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "Instinct 狼の一族",

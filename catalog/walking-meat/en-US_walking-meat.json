@@ -1,5 +1,9 @@
 {
     "title": "Walking Meat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1383/95198.jpg",
+        "alt": "walking-meat"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Walking Meat",

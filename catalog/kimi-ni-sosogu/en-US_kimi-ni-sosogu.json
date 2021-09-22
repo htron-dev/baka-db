@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Sosogu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/56349.jpg",
+        "alt": "kimi-ni-sosogu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

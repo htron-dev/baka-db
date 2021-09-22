@@ -1,5 +1,9 @@
 {
     "title": "Boku datte, Kiss shitai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226236.jpg",
+        "alt": "boku-datte-kiss-shitai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

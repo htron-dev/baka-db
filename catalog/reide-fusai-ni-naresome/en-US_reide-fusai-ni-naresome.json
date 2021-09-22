@@ -1,5 +1,9 @@
 {
     "title": "Reide Fusai ni Naresome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235465.jpg",
+        "alt": "reide-fusai-ni-naresome"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "37",

@@ -1,5 +1,9 @@
 {
     "title": "Diner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219346.jpg",
+        "alt": "diner"
+    },
     "type": "manga",
     "original_name": "DINER ダイナー",
     "start_date": "2017-08-03",

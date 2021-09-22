@@ -1,5 +1,9 @@
 {
     "title": "Fushigi Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/38650.jpg",
+        "alt": "fushigi-hunter"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

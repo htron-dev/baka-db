@@ -1,5 +1,9 @@
 {
     "title": "B-Project: Mousou\\*Scandal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175895.jpg",
+        "alt": "b-project-mousou-scandal"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "B-PROJECT 妄想＊スキャンダル",

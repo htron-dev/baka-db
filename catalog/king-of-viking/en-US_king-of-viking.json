@@ -1,5 +1,9 @@
 {
     "title": "King of Viking",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41547.jpg",
+        "alt": "king-of-viking"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "帥哥海賊王",

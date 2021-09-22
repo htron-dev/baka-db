@@ -1,5 +1,9 @@
 {
     "title": "Kemono wa Ai de, Iyasareru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73511.jpg",
+        "alt": "kemono-wa-ai-de-iyasareru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

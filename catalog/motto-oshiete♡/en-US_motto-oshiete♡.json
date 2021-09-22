@@ -1,5 +1,9 @@
 {
     "title": "Motto Oshiete♡",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143883.jpg",
+        "alt": "motto-oshiete♡"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

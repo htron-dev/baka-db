@@ -1,5 +1,9 @@
 {
     "title": "Koi Arashi: Adezakura no Chigiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184530.jpg",
+        "alt": "koi-arashi-adezakura-no-chigiri"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

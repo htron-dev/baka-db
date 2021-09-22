@@ -1,5 +1,9 @@
 {
     "title": "Anisan to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46849.jpg",
+        "alt": "anisan-to-boku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

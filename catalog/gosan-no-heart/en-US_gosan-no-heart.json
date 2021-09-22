@@ -1,5 +1,9 @@
 {
     "title": "Gosan no Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88373.jpg",
+        "alt": "gosan-no-heart"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

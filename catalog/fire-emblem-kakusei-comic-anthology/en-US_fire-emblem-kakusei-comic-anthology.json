@@ -1,5 +1,9 @@
 {
     "title": "Fire Emblem: Kakusei Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158368.jpg",
+        "alt": "fire-emblem-kakusei-comic-anthology"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "27",

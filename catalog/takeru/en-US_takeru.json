@@ -1,5 +1,9 @@
 {
     "title": "Takeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/103505.jpg",
+        "alt": "takeru"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "武 TAKERU",

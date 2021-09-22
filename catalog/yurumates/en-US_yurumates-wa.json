@@ -1,5 +1,9 @@
 {
     "title": "Yurumates wa?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/32647.jpg",
+        "alt": "yurumates-wa"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ゆるめいつ は?",

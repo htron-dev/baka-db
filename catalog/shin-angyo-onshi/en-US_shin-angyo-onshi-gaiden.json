@@ -1,5 +1,9 @@
 {
     "title": "Shin Angyo Onshi Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161806.jpg",
+        "alt": "shin-angyo-onshi-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kore ga Koi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223671.jpg",
+        "alt": "kore-ga-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Restol: Teugsu Gujo Dae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1379/97015.jpg",
+        "alt": "restol-teugsu-gujo-dae"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "레스톨 특수 구조대",

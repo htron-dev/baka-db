@@ -1,5 +1,9 @@
 {
     "title": "Togainu no Chi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/88469.jpg",
+        "alt": "togainu-no-chi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

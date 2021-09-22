@@ -1,5 +1,9 @@
 {
     "title": "Honto ni Honto ni Honto ni Honto ni Lion da!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143381.jpg",
+        "alt": "honto-ni-honto-ni-honto-ni-honto-ni-lion-da"
+    },
     "type": "manga",
     "original_name": "ほんとにほんとにほんとにほんとにライオン田!",
     "start_date": "2012-06-04",

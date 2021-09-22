@@ -1,12 +1,16 @@
 {
     "title": "Uchi Tama?! Uchi no Tama Shirimasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1624/103162.jpg",
+        "alt": "uchi-tama-uchi-no-tama-shirimasen-ka"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "うちタマ?!~うちのタマ知りませんか?~",
     "start_date": "2020-01-10",
     "end_date": "2020-01-10",
     "opening_song": "\"Friends (フレンズ)\" by wacci",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Hidamari wo Sagashite (ひだまりを探して)\" by Tama Okamoto (Souma Saitou) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life"

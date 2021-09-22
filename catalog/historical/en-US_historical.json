@@ -1,5 +1,9 @@
 {
     "title": "Historical",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/78389.jpg",
+        "alt": "historical"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ヒストリカル",

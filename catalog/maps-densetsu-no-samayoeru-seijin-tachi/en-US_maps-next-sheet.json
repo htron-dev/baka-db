@@ -1,5 +1,9 @@
 {
     "title": "Maps: Next Sheet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231864.jpg",
+        "alt": "maps-next-sheet"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "60",

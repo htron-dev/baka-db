@@ -1,5 +1,9 @@
 {
     "title": "Akane-chan Overdrive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58513.jpg",
+        "alt": "akane-chan-overdrive"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

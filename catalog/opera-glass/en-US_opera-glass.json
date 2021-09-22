@@ -1,5 +1,9 @@
 {
     "title": "Opera Glass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190197.jpg",
+        "alt": "opera-glass"
+    },
     "type": "manga",
     "original_name": "オペラグラス",
     "start_date": "2016-06-10",

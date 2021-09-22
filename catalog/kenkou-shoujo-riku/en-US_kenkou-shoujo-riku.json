@@ -1,5 +1,9 @@
 {
     "title": "Kenkou Shoujo Riku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/105017.jpg",
+        "alt": "kenkou-shoujo-riku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

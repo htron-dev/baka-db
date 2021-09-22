@@ -1,5 +1,9 @@
 {
     "title": "Arne no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222331.jpg",
+        "alt": "arne-no-jikenbo"
+    },
     "type": "manga",
     "original_name": "アルネの事件簿",
     "start_date": "2018-11-15",

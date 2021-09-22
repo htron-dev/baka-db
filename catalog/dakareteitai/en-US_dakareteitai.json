@@ -1,5 +1,9 @@
 {
     "title": "Dakareteitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46957.jpg",
+        "alt": "dakareteitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

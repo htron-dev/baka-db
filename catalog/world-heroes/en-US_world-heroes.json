@@ -1,5 +1,9 @@
 {
     "title": "World Heroes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235558.jpg",
+        "alt": "world-heroes"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

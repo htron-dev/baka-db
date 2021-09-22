@@ -1,5 +1,9 @@
 {
     "title": "Juu: Ninpou Makai Tensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173141.jpg",
+        "alt": "juu-ninpou-makai-tensei"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "71",

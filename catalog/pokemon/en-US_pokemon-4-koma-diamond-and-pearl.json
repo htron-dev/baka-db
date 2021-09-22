@@ -1,5 +1,9 @@
 {
     "title": "Pokémon 4Koma: Diamond and Pearl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39366.jpg",
+        "alt": "pokemon-4-koma-diamond-and-pearl"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ポケモン 4 コマ大百科 ダイヤモンド・パール",

@@ -1,5 +1,9 @@
 {
     "title": "Double S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126835.jpg",
+        "alt": "double-s"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

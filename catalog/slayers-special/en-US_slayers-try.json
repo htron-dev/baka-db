@@ -1,12 +1,16 @@
 {
     "title": "Slayers Try",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/50875.jpg",
+        "alt": "slayers-try"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "スレイヤーズ TRY",
     "start_date": "1997-04-04",
     "end_date": "1997-04-04",
     "opening_song": "\"Breeze\" by Megumi Hayashibara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Don't be Discouraged\" by Megumi Hayashibara (eps 1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

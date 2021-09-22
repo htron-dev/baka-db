@@ -1,5 +1,9 @@
 {
     "title": "Amaenaide yo!! R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173763.jpg",
+        "alt": "amaenaide-yo-r"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

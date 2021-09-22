@@ -1,5 +1,9 @@
 {
     "title": "Tengai-san wa Angai Futsuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172303.jpg",
+        "alt": "tengai-san-wa-angai-futsuu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

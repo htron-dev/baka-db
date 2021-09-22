@@ -1,5 +1,9 @@
 {
     "title": "Kyuudou-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139089.jpg",
+        "alt": "kyuudou-kun"
+    },
     "type": "manga",
     "volumes": "19",
     "original_name": "球道くん",

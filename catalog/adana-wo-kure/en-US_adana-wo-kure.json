@@ -1,5 +1,9 @@
 {
     "title": "Adana wo Kure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240870.jpg",
+        "alt": "adana-wo-kure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

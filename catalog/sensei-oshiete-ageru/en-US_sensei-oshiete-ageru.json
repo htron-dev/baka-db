@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Oshiete Ageru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20634.jpg",
+        "alt": "sensei-oshiete-ageru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

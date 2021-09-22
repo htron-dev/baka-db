@@ -1,5 +1,9 @@
 {
     "title": "Tsumi no Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79567.jpg",
+        "alt": "tsumi-no-rakuen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "罪の楽園",

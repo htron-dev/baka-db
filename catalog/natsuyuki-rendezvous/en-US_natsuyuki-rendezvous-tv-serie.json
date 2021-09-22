@@ -1,5 +1,9 @@
 {
     "title": "Natsuyuki Rendezvous",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/38181.jpg",
+        "alt": "natsuyuki-rendezvous"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "夏雪ランデブー",

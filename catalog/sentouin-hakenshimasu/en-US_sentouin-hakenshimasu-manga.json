@@ -1,5 +1,9 @@
 {
     "title": "Sentouin, Hakenshimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211200.jpg",
+        "alt": "sentouin-hakenshimasu"
+    },
     "type": "manga",
     "original_name": "戦闘員、派遣します!",
     "start_date": "2018-03-27",

@@ -1,5 +1,9 @@
 {
     "title": "Otoppe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/85180.jpg",
+        "alt": "otoppe"
+    },
     "type": "tv-serie",
     "original_name": "オトッペ",
     "start_date": "2017-04-03",

@@ -1,5 +1,9 @@
 {
     "title": "Udagawachou de Mattete yo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77667.jpg",
+        "alt": "udagawachou-de-mattete-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

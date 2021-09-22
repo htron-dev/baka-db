@@ -1,5 +1,9 @@
 {
     "title": "Kojika-kun to Hato Kyouju",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123953.jpg",
+        "alt": "kojika-kun-to-hato-kyouju"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

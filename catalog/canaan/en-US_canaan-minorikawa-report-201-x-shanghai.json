@@ -1,5 +1,9 @@
 {
     "title": "Canaan: Minorikawa Report 201X Shanghai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/26908.jpg",
+        "alt": "canaan-minorikawa-report-201-x-shanghai"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "カナン 御法川レポート 201X 上海",
@@ -25,7 +29,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Canaan_(anime"
+            "link": "http://en.wikipedia.org/wiki/Canaan_%28anime%29"
         }
     ]
 }

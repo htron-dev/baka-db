@@ -1,5 +1,9 @@
 {
     "title": "Toilet no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/88493.jpg",
+        "alt": "toilet-no-kuni"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "トイレのくに",

@@ -1,5 +1,9 @@
 {
     "title": "Rascal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167946.jpg",
+        "alt": "rascal"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

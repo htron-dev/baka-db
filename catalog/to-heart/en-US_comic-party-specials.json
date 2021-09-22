@@ -1,5 +1,9 @@
 {
     "title": "Comic Party Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/5319.jpg",
+        "alt": "comic-party-specials"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "こみっくパーティー",

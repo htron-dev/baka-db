@@ -1,12 +1,16 @@
 {
     "title": "Kenzen Robo Daimidaler",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/61435.jpg",
+        "alt": "kenzen-robo-daimidaler"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "健全ロボ ダイミダラー",
     "start_date": "2014-04-05",
     "end_date": "2014-04-05",
     "opening_song": "\"Kenzen Robo Daimidaler (健全ロボ ダイミダラー)\" by Endohkai (遠藤会) [Masaaki Endoh, bamboo, Yamaken, Takeshi Washizaki （遠藤正明・bamboo・やまけん・鷲崎 健）]",
-    "ending_song": "\"Suki Suki//LINKS\" by Moriko Tomoyose (CV",
+    "ending_song": "\"Suki Suki//LINKS\" by Moriko Tomoyose (CV: Ayaka Ohashi), Soriko Majikina (CV: Kido Ibuki), and Sewashiko Goya (CV: Azusa Tadokoro)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

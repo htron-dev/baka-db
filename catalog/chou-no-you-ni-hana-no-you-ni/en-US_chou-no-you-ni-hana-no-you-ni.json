@@ -1,5 +1,9 @@
 {
     "title": "Chou no You ni Hana no You ni!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152492.jpg",
+        "alt": "chou-no-you-ni-hana-no-you-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "蝶のように花のように!",

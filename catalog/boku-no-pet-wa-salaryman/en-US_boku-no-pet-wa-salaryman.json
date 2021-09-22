@@ -1,5 +1,9 @@
 {
     "title": "Boku no Pet wa Salaryman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171787.jpg",
+        "alt": "boku-no-pet-wa-salaryman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Tales of Hearts: Anthology Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58929.jpg",
+        "alt": "tales-of-hearts-anthology-comic"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "テイルズ オブ ハーツ アンソロジーコミック",

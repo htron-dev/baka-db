@@ -1,5 +1,9 @@
 {
     "title": "Infection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188897.jpg",
+        "alt": "infection"
+    },
     "type": "manga",
     "original_name": "インフェクション",
     "start_date": "2015-12-02",

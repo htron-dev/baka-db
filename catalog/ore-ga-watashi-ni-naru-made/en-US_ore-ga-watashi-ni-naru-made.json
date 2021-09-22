@@ -1,5 +1,9 @@
 {
     "title": "Ore ga Watashi ni Naru made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228906.jpg",
+        "alt": "ore-ga-watashi-ni-naru-made"
+    },
     "type": "manga",
     "original_name": "オレが私になるまで",
     "start_date": "2019-03-26",

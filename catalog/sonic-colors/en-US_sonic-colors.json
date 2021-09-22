@@ -1,5 +1,9 @@
 {
     "title": "Sonic Colors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37351.jpg",
+        "alt": "sonic-colors"
+    },
     "type": "manga",
     "chapters": "12",
     "original_name": "ソニック カラーズ",

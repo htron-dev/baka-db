@@ -1,5 +1,9 @@
 {
     "title": "Kogareru Yubisaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10342.jpg",
+        "alt": "kogareru-yubisaki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

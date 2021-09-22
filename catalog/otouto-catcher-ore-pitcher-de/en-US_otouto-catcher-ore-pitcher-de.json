@@ -1,5 +1,9 @@
 {
     "title": "Otouto Catcher Ore Pitcher de!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176378.jpg",
+        "alt": "otouto-catcher-ore-pitcher-de"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "77",

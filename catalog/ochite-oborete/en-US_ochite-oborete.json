@@ -1,5 +1,9 @@
 {
     "title": "Ochite Oborete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246875.jpg",
+        "alt": "ochite-oborete"
+    },
     "type": "manga",
     "original_name": "落ちて溺れて",
     "start_date": "2021-01-22",

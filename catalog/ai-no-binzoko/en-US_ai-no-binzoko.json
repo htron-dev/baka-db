@@ -1,5 +1,9 @@
 {
     "title": "Ai no Binzoko.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162548.jpg",
+        "alt": "ai-no-binzoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

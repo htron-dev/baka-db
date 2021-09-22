@@ -1,5 +1,9 @@
 {
     "title": "Execution Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/43099.jpg",
+        "alt": "execution-girl"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "断罪乙女",

@@ -1,5 +1,9 @@
 {
     "title": "Matsugaoka Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38988.jpg",
+        "alt": "matsugaoka-angel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

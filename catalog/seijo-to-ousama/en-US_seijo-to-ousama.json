@@ -1,5 +1,9 @@
 {
     "title": "Seijo to Ousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/214996.jpg",
+        "alt": "seijo-to-ousama"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "14",

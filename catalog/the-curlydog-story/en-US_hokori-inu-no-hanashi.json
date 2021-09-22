@@ -1,5 +1,9 @@
 {
     "title": "Hokori Inu no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/78345.jpg",
+        "alt": "hokori-inu-no-hanashi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ほこり犬のはなし",

@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Kidan Makora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/75893.jpg",
+        "alt": "shoujo-kidan-makora"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

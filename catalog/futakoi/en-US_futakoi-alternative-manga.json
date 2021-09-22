@@ -1,5 +1,9 @@
 {
     "title": "Futakoi Alternative",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/34854.jpg",
+        "alt": "futakoi-alternative"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

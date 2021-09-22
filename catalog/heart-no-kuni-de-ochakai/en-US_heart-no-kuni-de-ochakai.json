@@ -1,5 +1,9 @@
 {
     "title": "Heart no Kuni de Ochakai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27650.jpg",
+        "alt": "heart-no-kuni-de-ochakai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Yume no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12119.jpg",
+        "alt": "yume-no-yume"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "夢の夢",

@@ -1,5 +1,9 @@
 {
     "title": "TO-Y",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/28007.jpg",
+        "alt": "to-y"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "トーイ",

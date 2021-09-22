@@ -1,5 +1,9 @@
 {
     "title": "Fukujuu Toshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227802.jpg",
+        "alt": "fukujuu-toshi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

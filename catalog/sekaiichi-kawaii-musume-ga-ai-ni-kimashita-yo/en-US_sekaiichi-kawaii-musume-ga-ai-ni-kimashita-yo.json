@@ -1,5 +1,9 @@
 {
     "title": "Sekaiichi Kawaii Musume ga Ai ni Kimashita yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246053.jpg",
+        "alt": "sekaiichi-kawaii-musume-ga-ai-ni-kimashita-yo"
+    },
     "type": "light-novel",
     "original_name": "世界一可愛い娘が会いに来ましたよ!",
     "start_date": "2019-12-25",

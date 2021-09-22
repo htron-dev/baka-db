@@ -1,5 +1,9 @@
 {
     "title": "Kinki Anthology: Feroce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116721.jpg",
+        "alt": "kinki-anthology-feroce"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

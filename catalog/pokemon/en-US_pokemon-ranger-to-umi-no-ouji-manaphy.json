@@ -1,5 +1,9 @@
 {
     "title": "Pokemon Ranger to Umi no Ouji Manaphy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165765.jpg",
+        "alt": "pokemon-ranger-to-umi-no-ouji-manaphy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

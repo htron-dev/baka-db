@@ -1,5 +1,9 @@
 {
     "title": "Excel Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/54297.jpg",
+        "alt": "excel-saga"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "178",

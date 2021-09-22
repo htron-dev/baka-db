@@ -1,10 +1,14 @@
 {
     "title": "Joshiraku OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/50549.jpg",
+        "alt": "joshiraku-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "じょしらく",
     "start_date": "2013-02-08",
-    "opening_song": "\"Oato ga Yoroshikutte... yo! (お後がよろしくって…よ!)\" by Tetora Bouhatei (CV",
+    "opening_song": "\"Oato ga Yoroshikutte... yo! (お後がよろしくって…よ!)\" by Tetora Bouhatei (CV: Nozomi Yamamoto), Marii Buratei (CV: Ayane",
     "ending_song": "\"Nippon Egao Hyakkei (ニッポン笑顔百景)\" by Momokurotei Ichimon (桃黒亭一門)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "She is Mine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36714.jpg",
+        "alt": "she-is-mine"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

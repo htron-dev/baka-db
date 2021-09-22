@@ -1,5 +1,9 @@
 {
     "title": "Dan Doh!! Xi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/76281.jpg",
+        "alt": "dan-doh-xi"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "ダンドー!!ザイ",

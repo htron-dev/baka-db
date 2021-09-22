@@ -1,5 +1,9 @@
 {
     "title": "Kirihara Mika no Yuuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95693.jpg",
+        "alt": "kirihara-mika-no-yuuutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

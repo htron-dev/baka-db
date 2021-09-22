@@ -1,5 +1,9 @@
 {
     "title": "Yakudate Seishun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2858.jpg",
+        "alt": "yakudate-seishun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

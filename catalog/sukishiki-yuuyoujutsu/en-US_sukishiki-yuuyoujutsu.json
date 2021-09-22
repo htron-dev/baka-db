@@ -1,5 +1,9 @@
 {
     "title": "Sukishiki Yuuyoujutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195629.jpg",
+        "alt": "sukishiki-yuuyoujutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

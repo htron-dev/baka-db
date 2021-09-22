@@ -1,5 +1,9 @@
 {
     "title": "Nanairo Kakumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76453.jpg",
+        "alt": "nanairo-kakumei"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "なないろ革命",

@@ -1,5 +1,9 @@
 {
     "title": "Pink no Kobushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95793.jpg",
+        "alt": "pink-no-kobushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

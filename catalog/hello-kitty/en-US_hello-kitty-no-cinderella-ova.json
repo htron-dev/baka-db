@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Cinderella (OVA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1443/112445.jpg",
+        "alt": "hello-kitty-no-cinderella-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのシンデレラ",

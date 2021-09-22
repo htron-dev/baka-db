@@ -1,5 +1,9 @@
 {
     "title": "CLAMP Gakuen Kaikigenshou Kenkyuukai Jiken File",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10135.jpg",
+        "alt": "clamp-gakuen-kaikigenshou-kenkyuukai-jiken-file"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "7",

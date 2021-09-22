@@ -1,5 +1,9 @@
 {
     "title": "Zipang: Shinsou Kairyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129349.jpg",
+        "alt": "zipang-shinsou-kairyuu"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "226",

@@ -1,5 +1,9 @@
 {
     "title": "Rokudou Tousouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245697.jpg",
+        "alt": "rokudou-tousouki"
+    },
     "type": "manga",
     "original_name": "六道闘争紀",
     "start_date": "2021-02-05",

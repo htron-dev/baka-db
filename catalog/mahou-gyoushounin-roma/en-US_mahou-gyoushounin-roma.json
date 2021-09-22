@@ -1,5 +1,9 @@
 {
     "title": "Mahou Gyoushounin Roma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219836.jpg",
+        "alt": "mahou-gyoushounin-roma"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

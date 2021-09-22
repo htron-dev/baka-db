@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Kyojin OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/59221.jpg",
+        "alt": "shingeki-no-kyojin-ova"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "進撃の巨人ＯＡＤ",

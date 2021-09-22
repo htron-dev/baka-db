@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Tsukurikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118873.jpg",
+        "alt": "kamisama-no-tsukurikata"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "82",

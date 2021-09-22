@@ -1,5 +1,9 @@
 {
     "title": "Amaku Yasashii Sekai de Ikiru ni wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166293.jpg",
+        "alt": "amaku-yasashii-sekai-de-ikiru-ni-wa"
+    },
     "type": "light-novel",
     "original_name": "甘く優しい世界で生きるには",
     "start_date": "2014-11-21",

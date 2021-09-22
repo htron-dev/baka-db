@@ -1,5 +1,9 @@
 {
     "title": "Yi Guan Xing Shen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1156/109635.jpg",
+        "alt": "yi-guan-xing-shen"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "一罐醒神",

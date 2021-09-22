@@ -1,5 +1,9 @@
 {
     "title": "Assassin Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224140.jpg",
+        "alt": "assassin-rose"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

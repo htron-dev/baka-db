@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Tsumugu Bouhaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236306.jpg",
+        "alt": "kimi-ni-tsumugu-bouhaku"
+    },
     "type": "manga",
     "original_name": "君に紡ぐ傍白",
     "start_date": "2020-03-06",

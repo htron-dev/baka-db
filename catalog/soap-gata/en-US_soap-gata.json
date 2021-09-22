@@ -1,5 +1,9 @@
 {
     "title": "Soap-Gata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23652.jpg",
+        "alt": "soap-gata"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "も～っとソップ型",

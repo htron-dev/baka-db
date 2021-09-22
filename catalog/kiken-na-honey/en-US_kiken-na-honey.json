@@ -1,5 +1,9 @@
 {
     "title": "Kiken na Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171822.jpg",
+        "alt": "kiken-na-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

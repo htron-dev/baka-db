@@ -1,5 +1,9 @@
 {
     "title": "Dekichatta Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36336.jpg",
+        "alt": "dekichatta-danshi"
+    },
     "type": "manga",
     "original_name": "できちゃった男子",
     "start_date": "2008-08-09",

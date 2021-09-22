@@ -1,5 +1,9 @@
 {
     "title": "Akuma Kari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10976.jpg",
+        "alt": "akuma-kari"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "悪魔狩り",

@@ -1,5 +1,9 @@
 {
     "title": "Junk!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2484.jpg",
+        "alt": "junk"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

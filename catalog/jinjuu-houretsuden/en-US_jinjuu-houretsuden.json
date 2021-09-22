@@ -1,5 +1,9 @@
 {
     "title": "Jinjuu Houretsuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/90497.jpg",
+        "alt": "jinjuu-houretsuden"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "38",

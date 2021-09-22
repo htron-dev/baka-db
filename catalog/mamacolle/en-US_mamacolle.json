@@ -1,5 +1,9 @@
 {
     "title": "Mamacolle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19669.jpg",
+        "alt": "mamacolle"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

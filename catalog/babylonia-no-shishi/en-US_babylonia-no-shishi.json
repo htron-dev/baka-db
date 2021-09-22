@@ -1,5 +1,9 @@
 {
     "title": "Babylonia no Shishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127757.jpg",
+        "alt": "babylonia-no-shishi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

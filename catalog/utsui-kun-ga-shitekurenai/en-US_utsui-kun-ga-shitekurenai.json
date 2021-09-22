@@ -1,5 +1,9 @@
 {
     "title": "Utsui-kun ga Shitekurenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226082.jpg",
+        "alt": "utsui-kun-ga-shitekurenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

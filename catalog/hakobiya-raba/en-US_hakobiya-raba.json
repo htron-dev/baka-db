@@ -1,5 +1,9 @@
 {
     "title": "Hakobiya Raba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228255.jpg",
+        "alt": "hakobiya-raba"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

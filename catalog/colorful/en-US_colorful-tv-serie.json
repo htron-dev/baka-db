@@ -1,5 +1,9 @@
 {
     "title": "Colorful",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/19229.jpg",
+        "alt": "colorful"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "カラフル",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Colorful_(manga"
+            "link": "http://en.wikipedia.org/wiki/Colorful_%28manga%29"
         }
     ]
 }

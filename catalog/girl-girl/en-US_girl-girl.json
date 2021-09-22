@@ -1,5 +1,9 @@
 {
     "title": "Girl@Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248305.jpg",
+        "alt": "girl-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

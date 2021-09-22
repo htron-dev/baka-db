@@ -1,5 +1,9 @@
 {
     "title": "Meta Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157948.jpg",
+        "alt": "meta-love"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

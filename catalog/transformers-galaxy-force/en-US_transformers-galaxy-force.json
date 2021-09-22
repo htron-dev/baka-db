@@ -1,5 +1,9 @@
 {
     "title": "Transformers: Galaxy Force",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35680.jpg",
+        "alt": "transformers-galaxy-force"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

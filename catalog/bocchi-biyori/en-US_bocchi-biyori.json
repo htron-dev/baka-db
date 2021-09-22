@@ -1,5 +1,9 @@
 {
     "title": "Bocchi Biyori..",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83871.jpg",
+        "alt": "bocchi-biyori"
+    },
     "type": "manga",
     "original_name": "ぼっち日和。。",
     "tags": [

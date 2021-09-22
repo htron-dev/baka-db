@@ -1,5 +1,9 @@
 {
     "title": "Hamster Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/27428.jpg",
+        "alt": "hamster-club"
+    },
     "type": "tv-serie",
     "episodes": "140",
     "original_name": "ハムスター倶楽部",

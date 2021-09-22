@@ -1,5 +1,9 @@
 {
     "title": "Daihakkutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136839.jpg",
+        "alt": "daihakkutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

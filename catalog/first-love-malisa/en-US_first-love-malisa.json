@@ -1,5 +1,9 @@
 {
     "title": "First Love Malisa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18124.jpg",
+        "alt": "first-love-malisa"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "33",

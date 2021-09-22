@@ -1,5 +1,9 @@
 {
     "title": "Royal Straight Flush",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30856.jpg",
+        "alt": "royal-straight-flush"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

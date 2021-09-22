@@ -1,5 +1,9 @@
 {
     "title": "Amai, Se-n-se-i",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178414.jpg",
+        "alt": "amai-se-n-se-i"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

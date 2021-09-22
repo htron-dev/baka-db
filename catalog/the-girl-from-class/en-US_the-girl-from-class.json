@@ -1,5 +1,9 @@
 {
     "title": "The Girl from Class",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213482.jpg",
+        "alt": "the-girl-from-class"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "28",

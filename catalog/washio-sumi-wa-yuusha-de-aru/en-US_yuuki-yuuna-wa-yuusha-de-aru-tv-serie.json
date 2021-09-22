@@ -1,12 +1,16 @@
 {
     "title": "Yuuki Yuuna wa Yuusha de Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/77057.jpg",
+        "alt": "yuuki-yuuna-wa-yuusha-de-aru"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "結城友奈は勇者である",
     "start_date": "2014-10-17",
     "end_date": "2014-10-17",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hoshi to Hana (ホシトハナ)\" by Sanshuu Chuugaku Yuusha-bu (讃州中学勇者部) (Haruka Terui, Suzuko Mimori, Yumi Uchida, Tomoyo Kurosawa) (ep 2-3)",
+    "ending_song": "#1: \"Hoshi to Hana (ホシトハナ)\" by Sanshuu Chuugaku Yuusha-bu (讃州中学勇者部) (Haruka Terui, Suzuko Mimori, Yumi Uchida, Tomoyo Kurosawa) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

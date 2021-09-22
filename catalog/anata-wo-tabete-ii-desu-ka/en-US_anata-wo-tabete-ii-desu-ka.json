@@ -1,5 +1,9 @@
 {
     "title": "Anata wo Tabete Ii desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136615.jpg",
+        "alt": "anata-wo-tabete-ii-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あなたを食べていいですか?",

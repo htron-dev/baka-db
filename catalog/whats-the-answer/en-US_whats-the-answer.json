@@ -1,5 +1,9 @@
 {
     "title": "What's the Answer?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24878.jpg",
+        "alt": "whats-the-answer"
+    },
     "type": "manga",
     "original_name": "答えは 3 つ",
     "tags": [

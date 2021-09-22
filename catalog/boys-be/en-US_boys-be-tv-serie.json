@@ -1,12 +1,16 @@
 {
     "title": "Boys Be...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2223.jpg",
+        "alt": "boys-be"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ボーイズ・ビー",
     "start_date": "2000-04-11",
     "end_date": "2000-04-11",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Daijobu\" by Maeda Aki (eps 1-12)",
+    "ending_song": "#01: \"Minna ga Ii ne\" by Maeda Aki (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

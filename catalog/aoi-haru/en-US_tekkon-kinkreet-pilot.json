@@ -1,5 +1,9 @@
 {
     "title": "Tekkon Kinkreet Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/77423.jpg",
+        "alt": "tekkon-kinkreet-pilot"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "鉄コン筋クリート",

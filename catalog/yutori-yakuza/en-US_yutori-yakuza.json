@@ -1,5 +1,9 @@
 {
     "title": "Yutori Yakuza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236886.jpg",
+        "alt": "yutori-yakuza"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ゆとりやくざ",

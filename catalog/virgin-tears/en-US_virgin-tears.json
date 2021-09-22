@@ -1,5 +1,9 @@
 {
     "title": "Virgin Tears",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194064.jpg",
+        "alt": "virgin-tears"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Sanbaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117269.jpg",
+        "alt": "sanbaka"
+    },
     "type": "manga",
     "original_name": "さんばか",
     "start_date": "2014-01-26",

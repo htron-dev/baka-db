@@ -1,5 +1,9 @@
 {
     "title": "Tada Rikon Shitenai dake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208597.jpg",
+        "alt": "tada-rikon-shitenai-dake"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "32",

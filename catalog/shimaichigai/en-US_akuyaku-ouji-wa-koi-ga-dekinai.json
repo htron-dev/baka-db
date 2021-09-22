@@ -1,5 +1,9 @@
 {
     "title": "Akuyaku Ouji wa Koi ga Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210028.jpg",
+        "alt": "akuyaku-ouji-wa-koi-ga-dekinai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

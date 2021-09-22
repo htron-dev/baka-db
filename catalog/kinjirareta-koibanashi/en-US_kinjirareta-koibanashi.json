@@ -1,5 +1,9 @@
 {
     "title": "Kinjirareta Koibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/92609.jpg",
+        "alt": "kinjirareta-koibanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

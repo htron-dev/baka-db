@@ -1,5 +1,9 @@
 {
     "title": "Soukai Genyuuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171860.jpg",
+        "alt": "soukai-genyuuden"
+    },
     "type": "light-novel",
     "original_name": "双界幻幽伝",
     "start_date": "2011-04-15",

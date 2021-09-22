@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Junjou Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79487.jpg",
+        "alt": "momoiro-junjou-danshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

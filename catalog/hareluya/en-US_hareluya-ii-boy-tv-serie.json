@@ -1,12 +1,16 @@
 {
     "title": "Hareluya II Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1232/111306.jpg",
+        "alt": "hareluya-ii-boy"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ハレルヤ IIBOY",
     "start_date": "1997-04-08",
     "end_date": "1997-04-08",
     "opening_song": "\"Tight-Break\" by SPYKE",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Closet Freak (クロゼットフリーク)\" by SPYKE",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

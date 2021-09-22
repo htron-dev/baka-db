@@ -1,5 +1,9 @@
 {
     "title": "Peach Girl Next",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189744.jpg",
+        "alt": "peach-girl-next"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "52",

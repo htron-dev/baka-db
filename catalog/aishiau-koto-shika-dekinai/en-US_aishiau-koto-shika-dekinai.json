@@ -1,5 +1,9 @@
 {
     "title": "Aishiau Koto Shika Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114675.jpg",
+        "alt": "aishiau-koto-shika-dekinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

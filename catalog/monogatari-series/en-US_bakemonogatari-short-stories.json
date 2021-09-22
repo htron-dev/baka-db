@@ -1,5 +1,9 @@
 {
     "title": "Bakemonogatari Short Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39471.jpg",
+        "alt": "bakemonogatari-short-stories"
+    },
     "type": "light-novel",
     "chapters": "5",
     "original_name": "化物語アニメコンプリートガイドブック",

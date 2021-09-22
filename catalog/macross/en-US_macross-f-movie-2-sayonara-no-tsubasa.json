@@ -1,10 +1,14 @@
 {
     "title": "Macross F Movie 2: Sayonara no Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/76398.jpg",
+        "alt": "macross-f-movie-2-sayonara-no-tsubasa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 マクロスＦ 恋離飛翼 ～サヨナラノツバサ～",
     "start_date": "2011-02-26",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hoshikira (ホシキラ)\" by Megumi Nakajima (First part)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

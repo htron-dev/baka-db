@@ -1,5 +1,9 @@
 {
     "title": "Samurai Giants",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223909.jpg",
+        "alt": "samurai-giants"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "150",

@@ -1,5 +1,9 @@
 {
     "title": "Sweet Valerian Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/85620.jpg",
+        "alt": "sweet-valerian-specials"
+    },
     "type": "special",
     "episodes": "8",
     "original_name": "スウィート・ヴァレリアン",

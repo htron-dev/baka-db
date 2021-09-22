@@ -1,5 +1,9 @@
 {
     "title": "Okini Mesumama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29221.jpg",
+        "alt": "okini-mesumama"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "お気に召すまま",

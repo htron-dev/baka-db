@@ -1,5 +1,9 @@
 {
     "title": "Amagami: Dreamy Forever",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/89629.jpg",
+        "alt": "amagami-dreamy-forever"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

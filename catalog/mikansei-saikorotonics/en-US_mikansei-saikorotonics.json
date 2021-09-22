@@ -1,5 +1,9 @@
 {
     "title": "Mikansei Saikorotonics",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235140.jpg",
+        "alt": "mikansei-saikorotonics"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

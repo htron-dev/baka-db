@@ -1,5 +1,9 @@
 {
     "title": "Yami no Matsuei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160961.jpg",
+        "alt": "yami-no-matsuei"
+    },
     "type": "manga",
     "original_name": "闇の末裔",
     "start_date": "1994-03-25",

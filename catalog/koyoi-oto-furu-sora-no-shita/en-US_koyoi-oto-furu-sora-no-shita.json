@@ -1,5 +1,9 @@
 {
     "title": "Koyoi Oto Furu Sora no Shita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33194.jpg",
+        "alt": "koyoi-oto-furu-sora-no-shita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

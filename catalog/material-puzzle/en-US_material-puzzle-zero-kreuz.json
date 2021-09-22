@@ -1,5 +1,9 @@
 {
     "title": "Material Puzzle: Zero Kreuz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/90109.jpg",
+        "alt": "material-puzzle-zero-kreuz"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "マテリアル・パズル ゼロクロイツ",

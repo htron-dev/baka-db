@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Himitsu x Momoiro Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155637.jpg",
+        "alt": "ikenai-himitsu-x-momoiro-nikki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

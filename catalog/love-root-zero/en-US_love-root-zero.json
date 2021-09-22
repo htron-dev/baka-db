@@ -1,5 +1,9 @@
 {
     "title": "Love Root Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78919.jpg",
+        "alt": "love-root-zero"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ラブルートゼロ",

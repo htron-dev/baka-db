@@ -1,5 +1,9 @@
 {
     "title": "Tsukiatte yo! Satsuki-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177478.jpg",
+        "alt": "tsukiatte-yo-satsuki-chan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

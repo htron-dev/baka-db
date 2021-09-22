@@ -1,5 +1,9 @@
 {
     "title": "Ruriiro ni Boketa Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163328.jpg",
+        "alt": "ruriiro-ni-boketa-nichijou"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "24",

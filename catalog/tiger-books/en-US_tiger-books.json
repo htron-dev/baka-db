@@ -1,5 +1,9 @@
 {
     "title": "Tiger Books",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44659.jpg",
+        "alt": "tiger-books"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "33",

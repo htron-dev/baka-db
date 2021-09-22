@@ -1,5 +1,9 @@
 {
     "title": "Bocchi the Rock!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1130/112176.jpg",
+        "alt": "bocchi-the-rock"
+    },
     "type": "tv-serie",
     "original_name": "ぼっち・ざ・ろっく！",
     "rating": "None",

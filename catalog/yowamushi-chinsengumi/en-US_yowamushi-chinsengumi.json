@@ -1,5 +1,9 @@
 {
     "title": "Yowamushi Chinsengumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/64013.jpg",
+        "alt": "yowamushi-chinsengumi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "弱虫珍選組",

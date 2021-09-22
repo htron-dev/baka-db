@@ -1,5 +1,9 @@
 {
     "title": "Cherry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16247.jpg",
+        "alt": "cherry"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

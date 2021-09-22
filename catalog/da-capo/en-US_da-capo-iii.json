@@ -1,5 +1,9 @@
 {
     "title": "Da Capo III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/86435.jpg",
+        "alt": "da-capo-iii"
+    },
     "type": "manga",
     "original_name": "D.C.III ~ダ・カーポ III ~",
     "start_date": "2012-05-10",

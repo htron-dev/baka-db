@@ -1,5 +1,9 @@
 {
     "title": "To Be...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15672.jpg",
+        "alt": "to-be"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

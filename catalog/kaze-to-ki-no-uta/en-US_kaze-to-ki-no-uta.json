@@ -1,5 +1,9 @@
 {
     "title": "Kaze to Ki no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175773.jpg",
+        "alt": "kaze-to-ki-no-uta"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "139",

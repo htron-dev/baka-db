@@ -1,5 +1,9 @@
 {
     "title": "Roland Roland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242112.jpg",
+        "alt": "roland-roland"
+    },
     "type": "manhwa",
     "original_name": "롤랑롤랑",
     "start_date": "2018-09-06",

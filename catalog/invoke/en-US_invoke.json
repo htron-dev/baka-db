@@ -1,5 +1,9 @@
 {
     "title": "Invoke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33237.jpg",
+        "alt": "invoke"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "13th Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30253.jpg",
+        "alt": "13-th-boy"
+    },
     "type": "manhwa",
     "volumes": "12",
     "chapters": "45",

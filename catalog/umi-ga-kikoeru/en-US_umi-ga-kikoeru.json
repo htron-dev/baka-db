@@ -1,5 +1,9 @@
 {
     "title": "Umi ga Kikoeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/52359.jpg",
+        "alt": "umi-ga-kikoeru"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "海がきこえる",

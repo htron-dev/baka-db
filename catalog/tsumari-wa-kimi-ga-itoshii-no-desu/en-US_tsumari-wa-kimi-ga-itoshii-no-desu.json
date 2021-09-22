@@ -1,5 +1,9 @@
 {
     "title": "Tsumari wa Kimi ga Itoshii no desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170472.jpg",
+        "alt": "tsumari-wa-kimi-ga-itoshii-no-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

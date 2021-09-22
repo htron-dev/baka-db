@@ -1,5 +1,9 @@
 {
     "title": "Bikachou Shinshi Kaikoroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164764.jpg",
+        "alt": "bikachou-shinshi-kaikoroku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

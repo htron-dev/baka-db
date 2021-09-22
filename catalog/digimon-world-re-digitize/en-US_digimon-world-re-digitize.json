@@ -1,8 +1,12 @@
 {
     "title": "Digimon World Re:Digitize",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72069.jpg",
+        "alt": "digimon-world-re-digitize"
+    },
     "type": "manga",
     "chapters": "2",
-    "original_name": "デジモンワールド リ",
+    "original_name": "デジモンワールド リ:デジタイズ",
     "start_date": "2012-06-21",
     "end_date": "2012-06-21",
     "tags": [

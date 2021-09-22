@@ -1,5 +1,9 @@
 {
     "title": "Sonna no Koi Janai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186200.jpg",
+        "alt": "sonna-no-koi-janai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

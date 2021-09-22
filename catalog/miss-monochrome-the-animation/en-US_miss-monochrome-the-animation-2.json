@@ -1,12 +1,16 @@
 {
     "title": "Miss Monochrome The Animation 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75014.jpg",
+        "alt": "miss-monochrome-the-animation-2"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ミス・モノクローム -The Animation- 2",
     "start_date": "2015-07-03",
     "end_date": "2015-07-03",
-    "opening_song": "\"Black or White?\" by Miss Monochrome (CV",
-    "ending_song": "\"Step by Step!\" by Miss Monochrome (CV",
+    "opening_song": "\"Black or White?\" by Miss Monochrome (CV: Yui Horie)",
+    "ending_song": "\"Step by Step!\" by Miss Monochrome (CV: Yui Horie)",
     "rating": "G - All Ages",
     "tags": [
         "music",

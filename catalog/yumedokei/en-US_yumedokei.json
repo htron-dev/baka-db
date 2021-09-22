@@ -1,5 +1,9 @@
 {
     "title": "Yumedokei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135565.jpg",
+        "alt": "yumedokei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

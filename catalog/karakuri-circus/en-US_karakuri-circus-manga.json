@@ -1,5 +1,9 @@
 {
     "title": "Karakuri Circus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170932.jpg",
+        "alt": "karakuri-circus"
+    },
     "type": "manga",
     "volumes": "43",
     "chapters": "426",

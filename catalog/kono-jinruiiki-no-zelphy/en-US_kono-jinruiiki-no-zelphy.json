@@ -1,5 +1,9 @@
 {
     "title": "Kono Jinruiiki no Zelphy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/88969.jpg",
+        "alt": "kono-jinruiiki-no-zelphy"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Junketsu Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155600.jpg",
+        "alt": "junketsu-romance"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "純潔ロマンス",

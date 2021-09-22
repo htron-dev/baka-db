@@ -1,5 +1,9 @@
 {
     "title": "17",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232396.jpg",
+        "alt": "17"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

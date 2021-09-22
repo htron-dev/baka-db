@@ -1,5 +1,9 @@
 {
     "title": "Softenni Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/29804.jpg",
+        "alt": "softenni-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "そふてにっ",

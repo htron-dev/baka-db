@@ -1,5 +1,9 @@
 {
     "title": "Togabito to Melody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77673.jpg",
+        "alt": "togabito-to-melody"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

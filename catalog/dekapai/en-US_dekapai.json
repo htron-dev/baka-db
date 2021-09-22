@@ -1,5 +1,9 @@
 {
     "title": "Dekapai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197899.jpg",
+        "alt": "dekapai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

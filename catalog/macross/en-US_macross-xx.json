@@ -1,5 +1,9 @@
 {
     "title": "Macross XX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/9862.jpg",
+        "alt": "macross-xx"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "マクロス XX",

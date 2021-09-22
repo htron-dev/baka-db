@@ -1,5 +1,9 @@
 {
     "title": "Asa Made Jugyou Chu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188815.jpg",
+        "alt": "asa-made-jugyou-chu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "49",

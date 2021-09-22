@@ -1,5 +1,9 @@
 {
     "title": "Blue Bird Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63161.jpg",
+        "alt": "blue-bird-blue"
+    },
     "type": "manga",
     "original_name": "ブルーバード ブルー",
     "start_date": "2012-03-10",

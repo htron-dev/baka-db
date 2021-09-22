@@ -1,5 +1,9 @@
 {
     "title": "Hakone no Nekoha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189284.jpg",
+        "alt": "hakone-no-nekoha"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Kindai Renai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20860.jpg",
+        "alt": "kindai-renai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

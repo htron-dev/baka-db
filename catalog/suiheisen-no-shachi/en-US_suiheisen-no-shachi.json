@@ -1,5 +1,9 @@
 {
     "title": "Suiheisen no Shachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35413.jpg",
+        "alt": "suiheisen-no-shachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

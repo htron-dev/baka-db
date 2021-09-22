@@ -1,5 +1,9 @@
 {
     "title": "Jinrouki Winvurga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190002.jpg",
+        "alt": "jinrouki-winvurga"
+    },
     "type": "manga",
     "original_name": "人狼機ウィンヴルガ",
     "start_date": "2016-08-19",

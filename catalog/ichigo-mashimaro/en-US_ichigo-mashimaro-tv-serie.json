@@ -1,5 +1,9 @@
 {
     "title": "Ichigo Mashimaro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/11042.jpg",
+        "alt": "ichigo-mashimaro"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "苺ましまろ",

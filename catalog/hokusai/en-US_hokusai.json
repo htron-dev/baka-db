@@ -1,5 +1,9 @@
 {
     "title": "Hokusai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189121.jpg",
+        "alt": "hokusai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "北斎",

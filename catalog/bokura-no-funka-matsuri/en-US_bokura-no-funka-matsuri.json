@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Funka Matsuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157708.jpg",
+        "alt": "bokura-no-funka-matsuri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

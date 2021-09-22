@@ -1,5 +1,9 @@
 {
     "title": "Hula Fulla Dance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1874/117582.jpg",
+        "alt": "hula-fulla-dance"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "フラ・フラダンス",

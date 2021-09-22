@@ -1,5 +1,9 @@
 {
     "title": "Tokyo 23",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/52743.jpg",
+        "alt": "tokyo-23"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

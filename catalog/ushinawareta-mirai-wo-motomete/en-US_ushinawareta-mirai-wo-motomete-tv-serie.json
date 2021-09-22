@@ -1,12 +1,16 @@
 {
     "title": "Ushinawareta Mirai wo Motomete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1414/112510.jpg",
+        "alt": "ushinawareta-mirai-wo-motomete"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "失われた未来を求めて",
     "start_date": "2014-10-04",
     "end_date": "2014-10-04",
     "opening_song": "\"Le jour\" by Satomi Sato",
-    "ending_song": "\"Ashita Mata Aeru yo ne (明日また会えるよね)\" by Kaori Sasaki (CV",
+    "ending_song": "\"Ashita Mata Aeru yo ne (明日また会えるよね)\" by Kaori Sasaki (CV: Hatsumi Takada) and Yui Furukawa (CV: Akane Tomonaga)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

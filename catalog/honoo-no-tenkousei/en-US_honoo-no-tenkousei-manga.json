@@ -1,5 +1,9 @@
 {
     "title": "Honoo no Tenkousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/77389.jpg",
+        "alt": "honoo-no-tenkousei"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "118",

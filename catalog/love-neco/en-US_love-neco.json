@@ -1,5 +1,9 @@
 {
     "title": "Love Neco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/172163.jpg",
+        "alt": "love-neco"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

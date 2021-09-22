@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Bokura wa Yattenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161386.jpg",
+        "alt": "soredemo-bokura-wa-yattenai"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "88",

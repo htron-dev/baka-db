@@ -1,12 +1,16 @@
 {
     "title": "Qin Shi Ming Yue: Tian Xing Jiu Ge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/88822.jpg",
+        "alt": "qin-shi-ming-yue-tian-xing-jiu-ge"
+    },
     "type": "ona",
     "episodes": "60",
     "original_name": "秦时明月 姐妹篇：天行九歌",
     "start_date": "2016-03-10",
     "end_date": "2016-03-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Xin Zhi Ni Lin (心之逆鳞)\" by Xiahan Wei (魏小涵) (eps 1-5, 8)",
+    "ending_song": "#1: \"Yan Du Han Tan (雁渡寒潭)\" by Shujun Huang (黄舒骏) (eps 1-7)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

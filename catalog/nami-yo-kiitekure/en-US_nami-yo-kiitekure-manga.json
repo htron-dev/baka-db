@@ -1,5 +1,9 @@
 {
     "title": "Nami yo Kiitekure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157853.jpg",
+        "alt": "nami-yo-kiitekure"
+    },
     "type": "manga",
     "original_name": "波よ聞いてくれ",
     "start_date": "2014-07-25",

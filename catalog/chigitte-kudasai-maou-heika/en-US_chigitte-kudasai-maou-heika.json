@@ -1,5 +1,9 @@
 {
     "title": "Chigitte Kudasai Maou Heika.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160011.jpg",
+        "alt": "chigitte-kudasai-maou-heika"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

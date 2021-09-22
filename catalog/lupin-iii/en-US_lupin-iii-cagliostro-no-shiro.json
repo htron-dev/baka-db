@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Cagliostro no Shiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/26182.jpg",
+        "alt": "lupin-iii-cagliostro-no-shiro"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ルパン三世 カリオストロの城",

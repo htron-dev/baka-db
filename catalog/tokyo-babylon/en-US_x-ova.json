@@ -1,5 +1,9 @@
 {
     "title": "X OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/83082.jpg",
+        "alt": "x-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "X -エックス-第零話 予兆",

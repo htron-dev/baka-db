@@ -1,5 +1,9 @@
 {
     "title": "Kawaisou na Mayumi-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229145.jpg",
+        "alt": "kawaisou-na-mayumi-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

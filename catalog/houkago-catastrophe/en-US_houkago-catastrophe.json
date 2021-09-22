@@ -1,5 +1,9 @@
 {
     "title": "Houkago Catastrophe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179942.jpg",
+        "alt": "houkago-catastrophe"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Nyanko Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/83933.jpg",
+        "alt": "nyanko-days"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "にゃんこデイズ",

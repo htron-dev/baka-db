@@ -1,5 +1,9 @@
 {
     "title": "Gindan no Gunswordia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194505.jpg",
+        "alt": "gindan-no-gunswordia"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Kurashi no Izumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/100669.jpg",
+        "alt": "kurashi-no-izumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,12 +1,16 @@
 {
     "title": "Mermaid Melody Pichi Pichi Pitch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/9640.jpg",
+        "alt": "mermaid-melody-pichi-pichi-pitch"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "マーメイドメロディー ぴちぴちピッチ",
     "start_date": "2003-04-05",
     "end_date": "2003-04-05",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Taiyou no rakuen ~Promised Land~ (太陽の楽園~Promised Land~)\" by Miyuki Kanbe (eps 1-28)",
+    "ending_song": "#01: \"Daiji na Takarabako\" by Asumi Nakata (eps 1-28)",
     "rating": "PG - Children",
     "tags": [
         "adventure",

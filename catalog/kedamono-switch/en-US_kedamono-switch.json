@@ -1,5 +1,9 @@
 {
     "title": "Kedamono Switch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183257.jpg",
+        "alt": "kedamono-switch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

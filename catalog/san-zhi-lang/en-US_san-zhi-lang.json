@@ -1,5 +1,9 @@
 {
     "title": "San Zhi Lang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1526/115751.jpg",
+        "alt": "san-zhi-lang"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "三只狼",

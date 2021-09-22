@@ -1,5 +1,9 @@
 {
     "title": "Asuka Hybrid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134129.jpg",
+        "alt": "asuka-hybrid"
+    },
     "type": "manga",
     "chapters": "24",
     "original_name": "アスカはいぶりっど",

@@ -1,5 +1,9 @@
 {
     "title": "Chinmoku no Ki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/71069.jpg",
+        "alt": "chinmoku-no-ki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "沈黙の樹 陽王とマーの精霊物語",

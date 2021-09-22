@@ -1,5 +1,9 @@
 {
     "title": "2 Weeks",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161257.jpg",
+        "alt": "2-weeks"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "2WEEKS",

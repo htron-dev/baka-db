@@ -1,5 +1,9 @@
 {
     "title": "Kirai Kiraimo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37384.jpg",
+        "alt": "kirai-kiraimo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

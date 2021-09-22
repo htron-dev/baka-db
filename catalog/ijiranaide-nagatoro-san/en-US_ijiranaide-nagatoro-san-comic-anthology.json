@@ -1,5 +1,9 @@
 {
     "title": "Ijiranaide, Nagatoro-san: Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244086.jpg",
+        "alt": "ijiranaide-nagatoro-san-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

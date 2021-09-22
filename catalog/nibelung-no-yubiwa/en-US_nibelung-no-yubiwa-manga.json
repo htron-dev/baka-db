@@ -1,5 +1,9 @@
 {
     "title": "Nibelung no Yubiwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18494.jpg",
+        "alt": "nibelung-no-yubiwa"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ニーベルンクの指輪",

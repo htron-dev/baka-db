@@ -1,5 +1,9 @@
 {
     "title": "Ito Kanashi Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23192.jpg",
+        "alt": "ito-kanashi-kimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

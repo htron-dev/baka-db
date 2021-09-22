@@ -1,5 +1,9 @@
 {
     "title": "Anata ni wa Ienai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247194.jpg",
+        "alt": "anata-ni-wa-ienai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あなたには言えない",

@@ -1,5 +1,9 @@
 {
     "title": "Daikirai!! Demo Honto wa ne...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26181.jpg",
+        "alt": "daikirai-demo-honto-wa-ne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

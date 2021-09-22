@@ -1,5 +1,9 @@
 {
     "title": "Jigoku Sensei Nube Neo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139909.jpg",
+        "alt": "jigoku-sensei-nube-neo"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "118",

@@ -1,5 +1,9 @@
 {
     "title": "Hangyaku no Dreadnought",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176528.jpg",
+        "alt": "hangyaku-no-dreadnought"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "叛逆のドレッドノート",

@@ -1,5 +1,9 @@
 {
     "title": "Lalala Lala-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1785/91151.jpg",
+        "alt": "lalala-lala-chan"
+    },
     "type": "ona",
     "episodes": "24",
     "original_name": "ラララ ララちゃん",

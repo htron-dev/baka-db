@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Ousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198559.jpg",
+        "alt": "kimi-wa-ousama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

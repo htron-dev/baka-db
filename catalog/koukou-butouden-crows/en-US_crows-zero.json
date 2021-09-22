@@ -1,5 +1,9 @@
 {
     "title": "Crows Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172874.jpg",
+        "alt": "crows-zero"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "77",

@@ -1,5 +1,9 @@
 {
     "title": "Mujouken Koufuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83186.jpg",
+        "alt": "mujouken-koufuku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

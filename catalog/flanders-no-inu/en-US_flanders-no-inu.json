@@ -1,12 +1,16 @@
 {
     "title": "Flanders no Inu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/17492.jpg",
+        "alt": "flanders-no-inu"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "フランダースの犬",
     "start_date": "1975-01-05",
     "end_date": "1975-01-05",
     "opening_song": "\"Yoake no Michi (よあけのみち)\" by Kumiko Ousugi (大杉久美子)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yoake no Michi (よあけのみち)\" by Kumiko Ousugi (大杉久美子) (eps 1-8)",
     "rating": "G - All Ages",
     "tags": [
         "drama",

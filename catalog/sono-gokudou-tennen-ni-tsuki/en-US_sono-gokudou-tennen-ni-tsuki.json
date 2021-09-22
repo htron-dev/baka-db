@@ -1,5 +1,9 @@
 {
     "title": "Sono Gokudou, Tennen ni Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170080.jpg",
+        "alt": "sono-gokudou-tennen-ni-tsuki"
+    },
     "type": "manga",
     "original_name": "その極道、天然につき",
     "start_date": "2015-05-02",

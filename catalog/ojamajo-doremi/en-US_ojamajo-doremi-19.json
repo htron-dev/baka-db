@@ -1,5 +1,9 @@
 {
     "title": "Ojamajo Doremi 19",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183276.jpg",
+        "alt": "ojamajo-doremi-19"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

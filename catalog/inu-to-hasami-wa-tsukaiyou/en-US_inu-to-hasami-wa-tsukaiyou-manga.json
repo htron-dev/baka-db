@@ -1,5 +1,9 @@
 {
     "title": "Inu to Hasami wa Tsukaiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123265.jpg",
+        "alt": "inu-to-hasami-wa-tsukaiyou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "World End Economica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1815/103982.jpg",
+        "alt": "world-end-economica"
+    },
     "type": "tv-serie",
     "original_name": "ワールド エンド エコノミカ",
     "rating": "None",

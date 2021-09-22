@@ -1,5 +1,9 @@
 {
     "title": "Little Pop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98763.jpg",
+        "alt": "little-pop"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

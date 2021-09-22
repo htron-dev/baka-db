@@ -1,5 +1,9 @@
 {
     "title": "Akuru-chan Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166996.jpg",
+        "alt": "akuru-chan-break"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

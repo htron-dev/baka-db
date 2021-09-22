@@ -1,5 +1,9 @@
 {
     "title": "himitsukesshatakanotsume.jp Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/74059.jpg",
+        "alt": "himitsukesshatakanotsume-jp-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "秘密結社鷹の爪.jp 番外編",

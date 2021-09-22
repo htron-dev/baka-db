@@ -1,5 +1,9 @@
 {
     "title": "Mashou no Träumerei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193960.jpg",
+        "alt": "mashou-no-traumerei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

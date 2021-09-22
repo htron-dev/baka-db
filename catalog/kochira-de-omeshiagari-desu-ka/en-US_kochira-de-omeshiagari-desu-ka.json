@@ -1,5 +1,9 @@
 {
     "title": "Kochira de Omeshiagari desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180798.jpg",
+        "alt": "kochira-de-omeshiagari-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "22",

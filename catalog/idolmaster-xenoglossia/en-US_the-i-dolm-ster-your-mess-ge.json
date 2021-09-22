@@ -1,5 +1,9 @@
 {
     "title": "THE iDOLM@STER -Your Mess@ge-",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33565.jpg",
+        "alt": "the-i-dolm-ster-your-mess-ge"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アイドルマスター －ユアメッセージ－",

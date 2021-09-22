@@ -1,5 +1,9 @@
 {
     "title": "Kantai Collection: Kakuyoku no Kizuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161651.jpg",
+        "alt": "kantai-collection-kakuyoku-no-kizuna"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "32",

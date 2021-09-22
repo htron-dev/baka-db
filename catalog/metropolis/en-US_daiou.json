@@ -1,5 +1,9 @@
 {
     "title": "Daiou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170789.jpg",
+        "alt": "daiou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

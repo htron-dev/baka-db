@@ -1,5 +1,9 @@
 {
     "title": "Kottou Nekoya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203261.jpg",
+        "alt": "kottou-nekoya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

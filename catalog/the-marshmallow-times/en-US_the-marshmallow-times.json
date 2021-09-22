@@ -1,11 +1,15 @@
 {
     "title": "The Marshmallow Times",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/62589.jpg",
+        "alt": "the-marshmallow-times"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "マシュマロ通信 <タイムス>",
     "start_date": "2004-04-04",
     "end_date": "2004-04-04",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Spicy Days\" by Tenkai Mai (eps 1-40)",
     "ending_song": "\"歩いてこう - Arukunitekeno, Walking, Like This\" by Grace",
     "rating": "G - All Ages",
     "tags": [

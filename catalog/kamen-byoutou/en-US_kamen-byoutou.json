@@ -1,5 +1,9 @@
 {
     "title": "Kamen Byoutou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238256.jpg",
+        "alt": "kamen-byoutou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

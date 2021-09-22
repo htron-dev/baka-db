@@ -1,5 +1,9 @@
 {
     "title": "Ningen Card",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200731.jpg",
+        "alt": "ningen-card"
+    },
     "type": "manga",
     "original_name": "人間カード",
     "start_date": "2017-03-21",

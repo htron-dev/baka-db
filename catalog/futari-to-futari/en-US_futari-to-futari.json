@@ -1,5 +1,9 @@
 {
     "title": "Futari to Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77081.jpg",
+        "alt": "futari-to-futari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kinku: Don't Say \"I Love You\"",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4149.jpg",
+        "alt": "kinku-dont-say-i-love-you"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

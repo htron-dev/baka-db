@@ -1,5 +1,9 @@
 {
     "title": "Warning",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21153.jpg",
+        "alt": "warning"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

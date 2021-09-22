@@ -1,5 +1,9 @@
 {
     "title": "Run Day Burst",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/63447.jpg",
+        "alt": "run-day-burst"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "40",

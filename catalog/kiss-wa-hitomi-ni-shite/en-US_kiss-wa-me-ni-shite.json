@@ -1,5 +1,9 @@
 {
     "title": "Kiss wa Me ni Shite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15319.jpg",
+        "alt": "kiss-wa-me-ni-shite"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "キッスは瞳にして",

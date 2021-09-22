@@ -1,5 +1,9 @@
 {
     "title": "Tengu ni Yomeiri Shichaimasu!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192557.jpg",
+        "alt": "tengu-ni-yomeiri-shichaimasu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

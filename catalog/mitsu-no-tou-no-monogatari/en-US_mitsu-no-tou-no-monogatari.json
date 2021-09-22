@@ -1,5 +1,9 @@
 {
     "title": "Mitsu no Tou no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173707.jpg",
+        "alt": "mitsu-no-tou-no-monogatari"
+    },
     "type": "light-novel",
     "original_name": "三つの塔の物語",
     "start_date": "2016-03-25",

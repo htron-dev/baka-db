@@ -1,5 +1,9 @@
 {
     "title": "God Mazinger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152781.jpg",
+        "alt": "god-mazinger"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ゴッドマジンガー",

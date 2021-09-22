@@ -1,5 +1,9 @@
 {
     "title": "Nishitesu CMs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1739/90146.jpg",
+        "alt": "nishitesu-c-ms"
+    },
     "type": "special",
     "original_name": "西鉄 CMs",
     "start_date": "2016-07-19",

@@ -1,5 +1,9 @@
 {
     "title": "Quo Vadis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193910.jpg",
+        "alt": "quo-vadis"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "118",

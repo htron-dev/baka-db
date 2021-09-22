@@ -1,5 +1,9 @@
 {
     "title": "Mitakihara Youchien Mahou-gumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172442.jpg",
+        "alt": "mitakihara-youchien-mahou-gumi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Sukeban Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145135.jpg",
+        "alt": "sukeban-arashi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

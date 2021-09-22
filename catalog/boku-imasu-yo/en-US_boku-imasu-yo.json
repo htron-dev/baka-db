@@ -1,5 +1,9 @@
 {
     "title": "Boku, Imasu yo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243860.jpg",
+        "alt": "boku-imasu-yo"
+    },
     "type": "manga",
     "original_name": "僕、いますよ。",
     "start_date": "2020-08-06",

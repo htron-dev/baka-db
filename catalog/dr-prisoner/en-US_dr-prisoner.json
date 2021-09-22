@@ -1,5 +1,9 @@
 {
     "title": "Dr. Prisoner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183860.jpg",
+        "alt": "dr-prisoner"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

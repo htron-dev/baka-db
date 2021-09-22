@@ -1,5 +1,9 @@
 {
     "title": "Love, Line, Arrow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10485.jpg",
+        "alt": "love-line-arrow"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Anjin-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239812.jpg",
+        "alt": "anjin-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "23",

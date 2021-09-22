@@ -1,5 +1,9 @@
 {
     "title": "Sukisa Sukisa Sukisa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7181.jpg",
+        "alt": "sukisa-sukisa-sukisa"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "すきさ 好きさ すきさ",

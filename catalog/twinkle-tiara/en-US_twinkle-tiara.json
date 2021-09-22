@@ -1,5 +1,9 @@
 {
     "title": "Twinkle Tiara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2034.jpg",
+        "alt": "twinkle-tiara"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

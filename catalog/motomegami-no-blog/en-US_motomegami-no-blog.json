@@ -1,5 +1,9 @@
 {
     "title": "Motomegami no Blog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203933.jpg",
+        "alt": "motomegami-no-blog"
+    },
     "type": "manga",
     "original_name": "元女神のブログ",
     "start_date": "2017-05-01",

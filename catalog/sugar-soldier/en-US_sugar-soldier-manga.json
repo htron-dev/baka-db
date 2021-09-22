@@ -1,5 +1,9 @@
 {
     "title": "Sugar\\*Soldier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147177.jpg",
+        "alt": "sugar-soldier"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "61",

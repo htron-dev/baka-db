@@ -1,5 +1,9 @@
 {
     "title": "Runway Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202216.jpg",
+        "alt": "runway-wars"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

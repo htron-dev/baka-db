@@ -1,5 +1,9 @@
 {
     "title": "Atashi no Bambi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66817.jpg",
+        "alt": "atashi-no-bambi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

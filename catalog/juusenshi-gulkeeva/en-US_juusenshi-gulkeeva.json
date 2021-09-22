@@ -1,12 +1,16 @@
 {
     "title": "Juusenshi Gulkeeva",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/52271.jpg",
+        "alt": "juusenshi-gulkeeva"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "獣戦士ガルキーバ",
     "start_date": "1995-04-04",
     "end_date": "1995-04-04",
     "opening_song": "\"Don't Look Back\" by ZNX",
-    "ending_song": "\"Aitakute Aitakute",
+    "ending_song": "\"Aitakute Aitakute: Voice of Moon (会いたくて 会いたくて~Voice Of Moon)\" by Rika Tajima (田嶋里香)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

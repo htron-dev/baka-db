@@ -1,5 +1,9 @@
 {
     "title": "Crossing 25;",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/109191.jpg",
+        "alt": "crossing-25"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

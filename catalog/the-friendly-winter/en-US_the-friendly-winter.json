@@ -1,5 +1,9 @@
 {
     "title": "The Friendly Winter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134805.jpg",
+        "alt": "the-friendly-winter"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "65",

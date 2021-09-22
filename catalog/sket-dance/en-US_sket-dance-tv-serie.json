@@ -1,12 +1,16 @@
 {
     "title": "SKET Dance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/73974.jpg",
+        "alt": "sket-dance"
+    },
     "type": "tv-serie",
     "episodes": "77",
     "original_name": "スケットダンス",
     "start_date": "2011-04-07",
     "end_date": "2011-04-07",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Kakko Warui I love you! (カッコ悪い I love you!)\" by French Kiss (eps 2-17)",
+    "ending_song": "#01: \"Kakko Warui I love you! (カッコ悪い I love you!)\" by French Kiss (ep 1, 51)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

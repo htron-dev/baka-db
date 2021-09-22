@@ -1,5 +1,9 @@
 {
     "title": "Star P: Anata wa Motto Kagayakeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159832.jpg",
+        "alt": "star-p-anata-wa-motto-kagayakeru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

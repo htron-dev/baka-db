@@ -1,5 +1,9 @@
 {
     "title": "Parts no Pa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167386.jpg",
+        "alt": "parts-no-pa"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "414",

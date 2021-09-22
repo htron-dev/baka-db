@@ -1,5 +1,9 @@
 {
     "title": "Izayakaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172751.jpg",
+        "alt": "izayakaku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

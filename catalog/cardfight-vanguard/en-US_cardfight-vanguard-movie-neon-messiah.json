@@ -1,5 +1,9 @@
 {
     "title": "Cardfight!! Vanguard Movie: Neon Messiah",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/63797.jpg",
+        "alt": "cardfight-vanguard-movie-neon-messiah"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 カードファイト!! ヴァンガード ネオンメサイア",

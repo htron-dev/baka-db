@@ -1,5 +1,9 @@
 {
     "title": "Necromance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223944.jpg",
+        "alt": "necromance"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

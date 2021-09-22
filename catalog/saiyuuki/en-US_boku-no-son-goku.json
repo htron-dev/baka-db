@@ -1,5 +1,9 @@
 {
     "title": "Boku no Son Goku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/30527.jpg",
+        "alt": "boku-no-son-goku"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "37",

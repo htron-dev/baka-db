@@ -1,5 +1,9 @@
 {
     "title": "Arakure Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/75015.jpg",
+        "alt": "arakure-knight"
+    },
     "type": "manga",
     "volumes": "28",
     "original_name": "荒くれ KNIGHT",

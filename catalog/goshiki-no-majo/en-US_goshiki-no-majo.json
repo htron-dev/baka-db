@@ -1,5 +1,9 @@
 {
     "title": "Goshiki no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160505.jpg",
+        "alt": "goshiki-no-majo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

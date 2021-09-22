@@ -1,5 +1,9 @@
 {
     "title": "Chiru, Chiru, Michiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197000.jpg",
+        "alt": "chiru-chiru-michiru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

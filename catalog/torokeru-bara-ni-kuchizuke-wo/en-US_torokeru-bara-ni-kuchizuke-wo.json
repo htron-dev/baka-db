@@ -1,5 +1,9 @@
 {
     "title": "Torokeru Bara ni Kuchizuke wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194126.jpg",
+        "alt": "torokeru-bara-ni-kuchizuke-wo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Beast Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220754.jpg",
+        "alt": "beast-complex"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

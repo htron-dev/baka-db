@@ -1,5 +1,9 @@
 {
     "title": "Orange",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179402.jpg",
+        "alt": "orange"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "22",

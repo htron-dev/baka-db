@@ -1,5 +1,9 @@
 {
     "title": "My Little Lover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15628.jpg",
+        "alt": "my-little-lover"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

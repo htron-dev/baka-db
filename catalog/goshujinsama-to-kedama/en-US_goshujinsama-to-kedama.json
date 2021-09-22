@@ -1,5 +1,9 @@
 {
     "title": "Goshujinsama to Kedama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224088.jpg",
+        "alt": "goshujinsama-to-kedama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

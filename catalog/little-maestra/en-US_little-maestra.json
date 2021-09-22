@@ -1,5 +1,9 @@
 {
     "title": "Little Maestra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162277.jpg",
+        "alt": "little-maestra"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

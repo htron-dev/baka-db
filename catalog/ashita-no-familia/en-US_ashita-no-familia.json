@@ -1,5 +1,9 @@
 {
     "title": "Ashita no Familia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188816.jpg",
+        "alt": "ashita-no-familia"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "53",

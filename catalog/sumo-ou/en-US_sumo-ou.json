@@ -1,5 +1,9 @@
 {
     "title": "Sumo Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/75441.jpg",
+        "alt": "sumo-ou"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "スモ王",

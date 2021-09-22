@@ -1,5 +1,9 @@
 {
     "title": "Ro-Kyu-Bu!: Half Time",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165924.jpg",
+        "alt": "ro-kyu-bu-half-time"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

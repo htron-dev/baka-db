@@ -1,5 +1,9 @@
 {
     "title": "AIKa ZERO: Paradise Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162613.jpg",
+        "alt": "ai-ka-zero-paradise-blue"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "AIKa ZERO パラダイス・ブルー",

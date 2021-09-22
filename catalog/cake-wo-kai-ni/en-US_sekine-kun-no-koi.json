@@ -1,5 +1,9 @@
 {
     "title": "Sekine-kun no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188944.jpg",
+        "alt": "sekine-kun-no-koi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

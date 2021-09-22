@@ -1,5 +1,9 @@
 {
     "title": "Cardinal Thread",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33222.jpg",
+        "alt": "cardinal-thread"
+    },
     "type": "manga",
     "original_name": "カーディナル・スレッド",
     "start_date": "2009-11-13",

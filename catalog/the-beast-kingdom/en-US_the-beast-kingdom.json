@@ -1,5 +1,9 @@
 {
     "title": "The Beast Kingdom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123787.jpg",
+        "alt": "the-beast-kingdom"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "ザ ビーストキングダム",

@@ -1,5 +1,9 @@
 {
     "title": "The Times of Botchan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12254.jpg",
+        "alt": "the-times-of-botchan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

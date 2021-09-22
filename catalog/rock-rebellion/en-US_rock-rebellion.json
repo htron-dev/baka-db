@@ -1,5 +1,9 @@
 {
     "title": "Rock Rebellion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9348.jpg",
+        "alt": "rock-rebellion"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "ROCK 반란",

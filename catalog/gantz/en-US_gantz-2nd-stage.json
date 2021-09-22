@@ -1,5 +1,9 @@
 {
     "title": "Gantz 2nd Stage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/23247.jpg",
+        "alt": "gantz-2nd-stage"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ガンツ",

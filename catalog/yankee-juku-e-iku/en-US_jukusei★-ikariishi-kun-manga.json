@@ -1,5 +1,9 @@
 {
     "title": "Jukusei★Ikariishi-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227094.jpg",
+        "alt": "jukusei★-ikariishi-kun"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "44",

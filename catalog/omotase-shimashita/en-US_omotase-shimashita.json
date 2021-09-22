@@ -1,5 +1,9 @@
 {
     "title": "Omotase Shimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194770.jpg",
+        "alt": "omotase-shimashita"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

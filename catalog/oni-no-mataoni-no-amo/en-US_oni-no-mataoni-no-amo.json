@@ -1,5 +1,9 @@
 {
     "title": "Oni no Mataoni no Amo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211540.jpg",
+        "alt": "oni-no-mataoni-no-amo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "40",

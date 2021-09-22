@@ -1,5 +1,9 @@
 {
     "title": "Kitsutsuki Tanteidokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231244.jpg",
+        "alt": "kitsutsuki-tanteidokoro"
+    },
     "type": "manga",
     "original_name": "啄木鳥探偵處",
     "start_date": "2020-06-05",

@@ -1,5 +1,9 @@
 {
     "title": "Hitomi no Ko-to-ba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147535.jpg",
+        "alt": "hitomi-no-ko-to-ba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

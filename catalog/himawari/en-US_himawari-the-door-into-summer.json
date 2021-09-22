@@ -1,5 +1,9 @@
 {
     "title": "Himawari: The Door into Summer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230429.jpg",
+        "alt": "himawari-the-door-into-summer"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

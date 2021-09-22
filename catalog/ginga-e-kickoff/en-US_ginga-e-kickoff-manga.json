@@ -1,5 +1,9 @@
 {
     "title": "Ginga e Kickoff!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98705.jpg",
+        "alt": "ginga-e-kickoff"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Nijiiro Tougarashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/9782.jpg",
+        "alt": "nijiiro-tougarashi"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "109",

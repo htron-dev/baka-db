@@ -1,5 +1,9 @@
 {
     "title": "Kung Fu Tao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5576.jpg",
+        "alt": "kung-fu-tao"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

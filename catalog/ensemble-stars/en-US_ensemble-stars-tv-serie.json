@@ -1,12 +1,16 @@
 {
     "title": "Ensemble Stars!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1804/107203.jpg",
+        "alt": "ensemble-stars"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "あんさんぶるスターズ！",
     "start_date": "2019-07-07",
     "end_date": "2019-07-07",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Stars' Ensemble!\" by Yumenosaki Dream Stars (夢ノ咲ドリームスターズ) (eps 1-11, 24)",
+    "ending_song": "#01: \"1ST SING-ALONG☆\" by Trickstar (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

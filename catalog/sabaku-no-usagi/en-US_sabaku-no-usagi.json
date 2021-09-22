@@ -1,5 +1,9 @@
 {
     "title": "Sabaku no Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150553.jpg",
+        "alt": "sabaku-no-usagi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "砂漠のウサギ",

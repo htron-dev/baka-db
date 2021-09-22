@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Graffiti",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24035.jpg",
+        "alt": "tokyo-graffiti"
+    },
     "type": "manga",
     "volumes": "2",
     "start_date": "2003-06-19",

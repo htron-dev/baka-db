@@ -1,5 +1,9 @@
 {
     "title": "Half Fantasia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18294.jpg",
+        "alt": "half-fantasia"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

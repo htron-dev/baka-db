@@ -1,5 +1,9 @@
 {
     "title": "Oshare Kozou ni Hanamaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5790.jpg",
+        "alt": "oshare-kozou-ni-hanamaru"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "お洒落小僧は花マルッ",

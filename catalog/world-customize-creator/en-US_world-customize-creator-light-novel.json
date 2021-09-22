@@ -1,5 +1,9 @@
 {
     "title": "World Customize Creator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128673.jpg",
+        "alt": "world-customize-creator"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "ワールド･カスタマイズ･クリエーター",

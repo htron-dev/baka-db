@@ -1,5 +1,9 @@
 {
     "title": "Bokkesan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82064.jpg",
+        "alt": "bokkesan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

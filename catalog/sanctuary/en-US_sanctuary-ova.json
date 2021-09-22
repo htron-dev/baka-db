@@ -1,5 +1,9 @@
 {
     "title": "Sanctuary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1795/105898.jpg",
+        "alt": "sanctuary"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "サンクチュアリ",

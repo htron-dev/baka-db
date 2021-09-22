@@ -1,5 +1,9 @@
 {
     "title": "Tensai Gakusha ni Koishitara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184077.jpg",
+        "alt": "tensai-gakusha-ni-koishitara"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "天才学者に恋したら",

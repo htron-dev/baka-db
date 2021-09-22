@@ -1,11 +1,15 @@
 {
     "title": "Mini Hama: Minimum Hamatora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/76833.jpg",
+        "alt": "mini-hama-minimum-hamatora"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "ミニはま -MINIMUM HAMATORA-",
     "start_date": "2015-11-01",
     "end_date": "2015-11-01",
-    "ending_song": "\"Little Crazy\" by Hamatora",
+    "ending_song": "\"Little Crazy\" by Hamatora: Nice & Murasaki (Ryota Osaka & Wataru Hatano)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

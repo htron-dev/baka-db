@@ -1,10 +1,14 @@
 {
     "title": "Sequence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/89598.jpg",
+        "alt": "sequence"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "シークエンス",
     "start_date": "1992-03-18",
-    "ending_song": "\"Sequence",
+    "ending_song": "\"Sequence: I Love You Again (SEQUENCE -アイ・ラブ・ユー・アゲイン)\" by Junko Hirotani",
     "rating": "G - All Ages",
     "tags": [
         "romance",

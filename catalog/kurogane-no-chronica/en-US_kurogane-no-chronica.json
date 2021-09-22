@@ -1,5 +1,9 @@
 {
     "title": "Kurogane no Chronica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185829.jpg",
+        "alt": "kurogane-no-chronica"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "黒剣のクロニカ",

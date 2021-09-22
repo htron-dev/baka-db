@@ -1,5 +1,9 @@
 {
     "title": "Bad! Daddy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11600.jpg",
+        "alt": "bad-daddy"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "バッド！ダディ",

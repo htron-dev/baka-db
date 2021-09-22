@@ -1,5 +1,9 @@
 {
     "title": "Harvest Moon: Island of Happiness",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13831.jpg",
+        "alt": "harvest-moon-island-of-happiness"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

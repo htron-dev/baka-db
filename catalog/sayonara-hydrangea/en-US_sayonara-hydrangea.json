@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Hydrangea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244794.jpg",
+        "alt": "sayonara-hydrangea"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

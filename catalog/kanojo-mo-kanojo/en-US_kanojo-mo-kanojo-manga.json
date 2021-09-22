@@ -1,5 +1,9 @@
 {
     "title": "Kanojo mo Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231307.jpg",
+        "alt": "kanojo-mo-kanojo"
+    },
     "type": "manga",
     "original_name": "カノジョも彼女",
     "start_date": "2020-03-04",

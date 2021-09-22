@@ -1,5 +1,9 @@
 {
     "title": "Melody Lyric Idol Magic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180752.jpg",
+        "alt": "melody-lyric-idol-magic"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

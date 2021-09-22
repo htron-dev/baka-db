@@ -1,5 +1,9 @@
 {
     "title": "Lady Victorian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112807.jpg",
+        "alt": "lady-victorian"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "100",

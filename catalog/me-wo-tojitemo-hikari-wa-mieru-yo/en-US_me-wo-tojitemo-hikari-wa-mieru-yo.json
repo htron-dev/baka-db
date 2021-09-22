@@ -1,5 +1,9 @@
 {
     "title": "Me wo Tojitemo Hikari wa Mieru yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225063.jpg",
+        "alt": "me-wo-tojitemo-hikari-wa-mieru-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Ryuuguuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/13658.jpg",
+        "alt": "ryuuguuden"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

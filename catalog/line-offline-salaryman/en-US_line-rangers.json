@@ -1,5 +1,9 @@
 {
     "title": "Line Rangers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/85872.jpg",
+        "alt": "line-rangers"
+    },
     "type": "ona",
     "original_name": "LINE レンジャー",
     "start_date": "2014-07-24",

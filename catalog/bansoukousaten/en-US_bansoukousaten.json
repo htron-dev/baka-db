@@ -1,5 +1,9 @@
 {
     "title": "Bansoukousaten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1467/98465.jpg",
+        "alt": "bansoukousaten"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "絆創交差点",

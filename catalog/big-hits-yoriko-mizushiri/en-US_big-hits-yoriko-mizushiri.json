@@ -1,5 +1,9 @@
 {
     "title": "Big Hits! (Yoriko Mizushiri)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1278/106461.jpg",
+        "alt": "big-hits-yoriko-mizushiri"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "BIG HITS! Program ID",

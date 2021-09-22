@@ -1,5 +1,9 @@
 {
     "title": "Hikari no Miko Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237793.jpg",
+        "alt": "hikari-no-miko-series"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "19",

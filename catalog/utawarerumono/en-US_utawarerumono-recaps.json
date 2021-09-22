@@ -1,5 +1,9 @@
 {
     "title": "Utawarerumono Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/14138.jpg",
+        "alt": "utawarerumono-recaps"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "うたわれるもの",

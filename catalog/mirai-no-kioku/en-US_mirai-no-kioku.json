@@ -1,5 +1,9 @@
 {
     "title": "Mirai no Kioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194987.jpg",
+        "alt": "mirai-no-kioku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

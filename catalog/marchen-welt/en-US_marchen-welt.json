@@ -1,5 +1,9 @@
 {
     "title": "Märchen Welt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158011.jpg",
+        "alt": "marchen-welt"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

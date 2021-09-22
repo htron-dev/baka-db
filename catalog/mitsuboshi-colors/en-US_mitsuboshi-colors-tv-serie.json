@@ -1,5 +1,9 @@
 {
     "title": "Mitsuboshi Colors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/89984.jpg",
+        "alt": "mitsuboshi-colors"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "三ツ星カラーズ",

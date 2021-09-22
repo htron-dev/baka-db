@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Chinurareta Hakkinbon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137359.jpg",
+        "alt": "manga-grimm-douwa-chinurareta-hakkinbon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

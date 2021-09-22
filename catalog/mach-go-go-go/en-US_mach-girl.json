@@ -1,5 +1,9 @@
 {
     "title": "Mach Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1177/97974.jpg",
+        "alt": "mach-girl"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "マッハガール",

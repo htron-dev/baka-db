@@ -1,5 +1,9 @@
 {
     "title": "Obatalian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/68013.jpg",
+        "alt": "obatalian"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "オバタリアン",

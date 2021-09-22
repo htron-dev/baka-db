@@ -1,5 +1,9 @@
 {
     "title": "Kirameki no Lion Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185324.jpg",
+        "alt": "kirameki-no-lion-boy"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "40",

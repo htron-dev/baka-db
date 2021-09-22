@@ -1,5 +1,9 @@
 {
     "title": "Tabecha Dame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5375.jpg",
+        "alt": "tabecha-dame"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

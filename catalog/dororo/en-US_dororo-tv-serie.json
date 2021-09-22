@@ -1,12 +1,16 @@
 {
     "title": "Dororo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1879/100467.jpg",
+        "alt": "dororo"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "どろろ",
     "start_date": "2019-01-07",
     "end_date": "2019-01-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kaen (火炎)\" by Ziyoou-vachi (eps 1-12)",
+    "ending_song": "#1: \"Sayonara Gokko (さよならごっこ)\" by amazarashi (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

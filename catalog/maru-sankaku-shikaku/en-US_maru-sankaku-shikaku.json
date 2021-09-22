@@ -1,5 +1,9 @@
 {
     "title": "Maru Sankaku Shikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86201.jpg",
+        "alt": "maru-sankaku-shikaku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

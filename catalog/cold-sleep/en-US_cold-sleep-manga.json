@@ -1,5 +1,9 @@
 {
     "title": "Cold Sleep",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82102.jpg",
+        "alt": "cold-sleep"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "COLD SLEEP",

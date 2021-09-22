@@ -1,5 +1,9 @@
 {
     "title": "Dagashi Kashi: Mou Hitotsu no Natsuyasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168408.jpg",
+        "alt": "dagashi-kashi-mou-hitotsu-no-natsuyasumi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

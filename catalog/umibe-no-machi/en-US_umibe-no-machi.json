@@ -1,5 +1,9 @@
 {
     "title": "Umibe no Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167340.jpg",
+        "alt": "umibe-no-machi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "37",

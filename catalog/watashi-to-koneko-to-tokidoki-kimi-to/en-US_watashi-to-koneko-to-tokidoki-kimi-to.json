@@ -1,5 +1,9 @@
 {
     "title": "Watashi to Koneko to, Tokidoki, Kimi to.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178392.jpg",
+        "alt": "watashi-to-koneko-to-tokidoki-kimi-to"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

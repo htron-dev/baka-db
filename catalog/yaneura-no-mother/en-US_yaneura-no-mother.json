@@ -1,5 +1,9 @@
 {
     "title": "Yaneura no Mother",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14004.jpg",
+        "alt": "yaneura-no-mother"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "屋根裏のマザー",

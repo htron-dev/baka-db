@@ -1,5 +1,9 @@
 {
     "title": "Kattobi Edozakura!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30905.jpg",
+        "alt": "kattobi-edozakura"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "かっ飛び江戸桜!!",

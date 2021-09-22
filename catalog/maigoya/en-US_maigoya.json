@@ -1,5 +1,9 @@
 {
     "title": "Maigoya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90427.jpg",
+        "alt": "maigoya"
+    },
     "type": "manga",
     "original_name": "迷子屋",
     "start_date": "2012-05-18",

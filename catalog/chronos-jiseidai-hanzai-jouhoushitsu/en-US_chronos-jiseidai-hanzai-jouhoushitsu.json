@@ -1,5 +1,9 @@
 {
     "title": "Chronos: Jiseidai Hanzai Jouhoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157527.jpg",
+        "alt": "chronos-jiseidai-hanzai-jouhoushitsu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

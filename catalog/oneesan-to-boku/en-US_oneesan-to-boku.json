@@ -1,5 +1,9 @@
 {
     "title": "Oneesan to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194245.jpg",
+        "alt": "oneesan-to-boku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

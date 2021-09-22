@@ -1,5 +1,9 @@
 {
     "title": "Yakumotatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209488.jpg",
+        "alt": "yakumotatsu"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "80",

@@ -1,5 +1,9 @@
 {
     "title": "Idol Jigokuhen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170719.jpg",
+        "alt": "idol-jigokuhen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

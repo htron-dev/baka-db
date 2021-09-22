@@ -1,5 +1,9 @@
 {
     "title": "Wo Zhidao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1784/115800.jpg",
+        "alt": "wo-zhidao"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "我知道",

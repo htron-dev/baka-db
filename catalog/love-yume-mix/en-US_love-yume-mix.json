@@ -1,5 +1,9 @@
 {
     "title": "Love Yume Mix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22723.jpg",
+        "alt": "love-yume-mix"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

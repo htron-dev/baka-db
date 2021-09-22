@@ -1,5 +1,9 @@
 {
     "title": "Pororo's English Show",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/66627.jpg",
+        "alt": "pororos-english-show"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "뽀로로 잉글리시쇼",

@@ -1,5 +1,9 @@
 {
     "title": "Love Capsule",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/18729.jpg",
+        "alt": "love-capsule"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Sousei no Taiga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199770.jpg",
+        "alt": "sousei-no-taiga"
+    },
     "type": "manga",
     "original_name": "創世のタイガ",
     "start_date": "2017-03-28",

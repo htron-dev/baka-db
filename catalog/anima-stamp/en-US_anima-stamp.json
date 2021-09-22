@@ -1,5 +1,9 @@
 {
     "title": "Anima Stamp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206049.jpg",
+        "alt": "anima-stamp"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

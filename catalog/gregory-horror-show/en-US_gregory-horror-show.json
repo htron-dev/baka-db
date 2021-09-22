@@ -1,5 +1,9 @@
 {
     "title": "Gregory Horror Show",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/13265.jpg",
+        "alt": "gregory-horror-show"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "グレゴリーホラーショー",

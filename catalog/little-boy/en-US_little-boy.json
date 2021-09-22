@@ -1,5 +1,9 @@
 {
     "title": "Little Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149777.jpg",
+        "alt": "little-boy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

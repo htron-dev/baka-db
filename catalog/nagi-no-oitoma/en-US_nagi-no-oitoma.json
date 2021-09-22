@@ -1,5 +1,9 @@
 {
     "title": "Nagi no Oitoma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216342.jpg",
+        "alt": "nagi-no-oitoma"
+    },
     "type": "manga",
     "original_name": "凪のお暇",
     "start_date": "2016-06-25",

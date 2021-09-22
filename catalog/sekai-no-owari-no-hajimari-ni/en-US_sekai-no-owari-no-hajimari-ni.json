@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Owari no Hajimari ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167151.jpg",
+        "alt": "sekai-no-owari-no-hajimari-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

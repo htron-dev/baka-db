@@ -1,5 +1,9 @@
 {
     "title": "Aishite Sou♡Rou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131409.jpg",
+        "alt": "aishite-sou♡-rou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "愛してソウ ♡ ロウ",
@@ -11,7 +15,6 @@
         "Azuki",
         "Yuu (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

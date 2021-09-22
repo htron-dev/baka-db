@@ -1,5 +1,9 @@
 {
     "title": "Stand by Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174217.jpg",
+        "alt": "stand-by-me"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "stand by me",

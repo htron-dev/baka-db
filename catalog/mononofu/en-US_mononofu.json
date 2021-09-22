@@ -1,5 +1,9 @@
 {
     "title": "Mononofu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171383.jpg",
+        "alt": "mononofu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

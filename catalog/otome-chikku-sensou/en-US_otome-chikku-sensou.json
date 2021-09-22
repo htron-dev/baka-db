@@ -1,5 +1,9 @@
 {
     "title": "Otome Chikku Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/112407.jpg",
+        "alt": "otome-chikku-sensou"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "乙女ちっく戦争",

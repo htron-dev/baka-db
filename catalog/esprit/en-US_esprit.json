@@ -1,5 +1,9 @@
 {
     "title": "Esprit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/50571.jpg",
+        "alt": "esprit"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "30",

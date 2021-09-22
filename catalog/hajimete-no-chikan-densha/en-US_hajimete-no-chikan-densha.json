@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Chikan Densha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6237.jpg",
+        "alt": "hajimete-no-chikan-densha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Inazuma Eleven: Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112305.jpg",
+        "alt": "inazuma-eleven-special"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "54",

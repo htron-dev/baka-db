@@ -1,5 +1,9 @@
 {
     "title": "Inazuma Eleven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177907.jpg",
+        "alt": "inazuma-eleven"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "43",

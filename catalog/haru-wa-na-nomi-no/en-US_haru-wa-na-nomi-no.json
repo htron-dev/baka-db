@@ -1,5 +1,9 @@
 {
     "title": "Haru wa Na nomi no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180426.jpg",
+        "alt": "haru-wa-na-nomi-no"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "The Day the Magpie Cries",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205035.jpg",
+        "alt": "the-day-the-magpie-cries"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "29",

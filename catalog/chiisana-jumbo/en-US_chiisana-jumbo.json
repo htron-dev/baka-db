@@ -1,5 +1,9 @@
 {
     "title": "Chiisana Jumbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/18865.jpg",
+        "alt": "chiisana-jumbo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "小さなジャンボ",

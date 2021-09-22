@@ -1,5 +1,9 @@
 {
     "title": "Tokio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31367.jpg",
+        "alt": "tokio"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "トキオ",

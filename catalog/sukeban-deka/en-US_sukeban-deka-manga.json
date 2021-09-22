@@ -1,5 +1,9 @@
 {
     "title": "Sukeban Deka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23178.jpg",
+        "alt": "sukeban-deka"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "132",

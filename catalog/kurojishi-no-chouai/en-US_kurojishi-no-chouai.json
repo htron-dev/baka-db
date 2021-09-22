@@ -1,5 +1,9 @@
 {
     "title": "Kurojishi no Chouai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241075.jpg",
+        "alt": "kurojishi-no-chouai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "黒獅子の寵愛",

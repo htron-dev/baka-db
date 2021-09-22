@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Dekiru kana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197950.jpg",
+        "alt": "sayonara-dekiru-kana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

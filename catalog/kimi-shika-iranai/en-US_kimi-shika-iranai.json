@@ -1,5 +1,9 @@
 {
     "title": "Kimi shika Iranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201079.jpg",
+        "alt": "kimi-shika-iranai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

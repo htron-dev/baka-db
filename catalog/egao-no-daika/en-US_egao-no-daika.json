@@ -1,5 +1,9 @@
 {
     "title": "Egao no Daika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1640/100466.jpg",
+        "alt": "egao-no-daika"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "エガオノダイカ",

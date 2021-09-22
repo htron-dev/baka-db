@@ -1,5 +1,9 @@
 {
     "title": "Ai to Makoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208336.jpg",
+        "alt": "ai-to-makoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

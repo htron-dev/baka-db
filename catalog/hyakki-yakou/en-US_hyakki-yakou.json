@@ -1,5 +1,9 @@
 {
     "title": "Hyakki Yakou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140849.jpg",
+        "alt": "hyakki-yakou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

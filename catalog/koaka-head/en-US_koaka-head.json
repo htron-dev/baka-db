@@ -1,5 +1,9 @@
 {
     "title": "Koaka Head",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125155.jpg",
+        "alt": "koaka-head"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

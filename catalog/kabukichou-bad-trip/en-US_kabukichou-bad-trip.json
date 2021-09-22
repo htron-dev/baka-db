@@ -1,5 +1,9 @@
 {
     "title": "Kabukichou Bad Trip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244719.jpg",
+        "alt": "kabukichou-bad-trip"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

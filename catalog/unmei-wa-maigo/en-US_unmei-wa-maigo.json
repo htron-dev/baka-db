@@ -1,5 +1,9 @@
 {
     "title": "Unmei wa Maigo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226033.jpg",
+        "alt": "unmei-wa-maigo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

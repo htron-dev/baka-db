@@ -1,5 +1,9 @@
 {
     "title": "Hirunaka no Ryuusei Bangai-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165500.jpg",
+        "alt": "hirunaka-no-ryuusei-bangai-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

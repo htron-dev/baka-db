@@ -1,5 +1,9 @@
 {
     "title": "Ao no Maharaja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241250.jpg",
+        "alt": "ao-no-maharaja"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "蒼のマハラジャ",

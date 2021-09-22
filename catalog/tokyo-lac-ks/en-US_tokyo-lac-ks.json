@@ -1,5 +1,9 @@
 {
     "title": "Tokyo LACKs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236236.jpg",
+        "alt": "tokyo-lac-ks"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "東京 LACKs",

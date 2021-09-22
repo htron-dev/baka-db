@@ -1,5 +1,9 @@
 {
     "title": "Vazzrock The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1374/110110.jpg",
+        "alt": "vazzrock-the-animation"
+    },
     "type": "tv-serie",
     "original_name": "VAZZROCK THE ANIMATION",
     "rating": "None",

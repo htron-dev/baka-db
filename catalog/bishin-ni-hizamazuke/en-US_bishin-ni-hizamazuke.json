@@ -1,5 +1,9 @@
 {
     "title": "Bishin ni Hizamazuke!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44821.jpg",
+        "alt": "bishin-ni-hizamazuke"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "美神にひざまずけ！",

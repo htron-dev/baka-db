@@ -1,5 +1,9 @@
 {
     "title": "Shinsei Kourin Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25938.jpg",
+        "alt": "shinsei-kourin-angel"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "神聖降臨エンジェル",

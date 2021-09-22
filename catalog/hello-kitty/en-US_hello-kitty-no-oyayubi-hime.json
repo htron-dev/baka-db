@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Oyayubi-hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/78316.jpg",
+        "alt": "hello-kitty-no-oyayubi-hime"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハローキティのおやゆびひめ",

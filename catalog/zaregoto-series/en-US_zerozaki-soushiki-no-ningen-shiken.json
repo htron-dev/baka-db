@@ -1,5 +1,9 @@
 {
     "title": "Zerozaki Soushiki no Ningen Shiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/60581.jpg",
+        "alt": "zerozaki-soushiki-no-ningen-shiken"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

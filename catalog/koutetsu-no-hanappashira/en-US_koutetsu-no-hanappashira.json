@@ -1,5 +1,9 @@
 {
     "title": "Koutetsu no Hanappashira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42532.jpg",
+        "alt": "koutetsu-no-hanappashira"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "90",

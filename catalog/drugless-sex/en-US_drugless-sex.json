@@ -1,5 +1,9 @@
 {
     "title": "Drugless Sex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226775.jpg",
+        "alt": "drugless-sex"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

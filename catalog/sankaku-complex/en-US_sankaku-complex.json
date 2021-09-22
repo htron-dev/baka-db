@@ -1,5 +1,9 @@
 {
     "title": "Sankaku Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113679.jpg",
+        "alt": "sankaku-complex"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "▲ コンプレックス",

@@ -1,5 +1,9 @@
 {
     "title": "Spicy Pink",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/123913.jpg",
+        "alt": "spicy-pink"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

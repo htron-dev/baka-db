@@ -1,5 +1,9 @@
 {
     "title": "Auto Focus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25880.jpg",
+        "alt": "auto-focus"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "18",

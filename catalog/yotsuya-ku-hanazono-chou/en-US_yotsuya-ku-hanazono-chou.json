@@ -1,5 +1,9 @@
 {
     "title": "Yotsuya-ku Hanazono-chou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205018.jpg",
+        "alt": "yotsuya-ku-hanazono-chou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

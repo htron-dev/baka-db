@@ -1,5 +1,9 @@
 {
     "title": "Kiomaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19817.jpg",
+        "alt": "kiomaru"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "42",

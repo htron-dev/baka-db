@@ -1,5 +1,9 @@
 {
     "title": "Bakemonogatari Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/65863.jpg",
+        "alt": "bakemonogatari-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "化物語",

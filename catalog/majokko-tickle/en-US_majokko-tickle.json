@@ -1,5 +1,9 @@
 {
     "title": "Majokko Tickle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/6935.jpg",
+        "alt": "majokko-tickle"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "魔女っ子チックル",

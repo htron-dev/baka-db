@@ -1,12 +1,16 @@
 {
     "title": "Popolocrois Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/17877.jpg",
+        "alt": "popolocrois-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ポポロクロイス物語",
     "start_date": "1998-10-04",
     "end_date": "1998-10-04",
     "opening_song": "\"Natsu Kikyuu (Summer Balloon)\" by Ootsuka Rie (eps 1-25)",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Kaze no Mahou (Magic of the Wind)\" by Ootou Fumi (eps 1-24)",
     "rating": "PG - Children",
     "tags": [
         "adventure",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/PoPoLoCrois_(anime"
+            "link": "http://en.wikipedia.org/wiki/PoPoLoCrois_%28anime%29"
         }
     ]
 }

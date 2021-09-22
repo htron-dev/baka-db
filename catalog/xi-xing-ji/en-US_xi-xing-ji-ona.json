@@ -1,5 +1,9 @@
 {
     "title": "Xi Xing Ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1390/105248.jpg",
+        "alt": "xi-xing-ji"
+    },
     "type": "ona",
     "episodes": "16",
     "original_name": "西行纪",

@@ -1,5 +1,9 @@
 {
     "title": "Versailles no Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155632.jpg",
+        "alt": "versailles-no-bara"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "82",

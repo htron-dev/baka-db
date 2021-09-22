@@ -1,5 +1,9 @@
 {
     "title": "Calligraffiti",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/60691.jpg",
+        "alt": "calligraffiti"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "カリグラフィティー",

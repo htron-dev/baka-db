@@ -1,5 +1,9 @@
 {
     "title": "Dase! Ikevo Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1658/107930.jpg",
+        "alt": "dase-ikevo-gakuen"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "出せ！イケボ学園",

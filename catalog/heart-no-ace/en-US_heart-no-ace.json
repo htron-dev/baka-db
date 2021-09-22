@@ -1,5 +1,9 @@
 {
     "title": "Heart no Ace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70333.jpg",
+        "alt": "heart-no-ace"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

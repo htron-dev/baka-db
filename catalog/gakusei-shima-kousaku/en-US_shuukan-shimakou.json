@@ -1,5 +1,9 @@
 {
     "title": "Shuukan Shimakou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1514/96543.jpg",
+        "alt": "shuukan-shimakou"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "週刊シマコー",

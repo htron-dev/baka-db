@@ -1,5 +1,9 @@
 {
     "title": "Saiyuki Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33321.jpg",
+        "alt": "saiyuki-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "最遊記 ANTHOLOGY",

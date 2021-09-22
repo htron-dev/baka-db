@@ -1,5 +1,9 @@
 {
     "title": "Soutai Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1433/95260.jpg",
+        "alt": "soutai-sekai"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "ソウタイセカイ",

@@ -1,5 +1,9 @@
 {
     "title": "Gesui yo! Hanamura-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192479.jpg",
+        "alt": "gesui-yo-hanamura-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

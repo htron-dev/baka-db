@@ -1,5 +1,9 @@
 {
     "title": "Nanocore 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/79961.jpg",
+        "alt": "nanocore-2nd-season"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "纳米核心 - 第二季 - 第一集",

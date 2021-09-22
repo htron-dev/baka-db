@@ -1,5 +1,9 @@
 {
     "title": "Buraiden Gai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3993.jpg",
+        "alt": "buraiden-gai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "38",

@@ -1,12 +1,16 @@
 {
     "title": "Toriko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1757/100671.jpg",
+        "alt": "toriko"
+    },
     "type": "tv-serie",
     "episodes": "147",
     "original_name": "トリコ",
     "start_date": "2011-04-03",
     "end_date": "2011-04-03",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Guts Guts!! (ガツガツ!!)\" by Akira Kushida (eps 1-98)",
+    "ending_song": "#01: \"Satisfaction\" by F.T Island (eps 1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Crack Hound",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22715.jpg",
+        "alt": "crack-hound"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

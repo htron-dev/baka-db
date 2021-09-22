@@ -1,5 +1,9 @@
 {
     "title": "Yuusha wa Shimei wo Wasureteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221199.jpg",
+        "alt": "yuusha-wa-shimei-wo-wasureteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

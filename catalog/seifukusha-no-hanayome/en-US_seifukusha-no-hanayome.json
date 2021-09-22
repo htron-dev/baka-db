@@ -1,5 +1,9 @@
 {
     "title": "Seifukusha no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202568.jpg",
+        "alt": "seifukusha-no-hanayome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "征服者の花嫁",

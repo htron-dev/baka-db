@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Tokidoki Seifuku de Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225989.jpg",
+        "alt": "sensei-tokidoki-seifuku-de-kiss"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

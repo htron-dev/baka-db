@@ -1,5 +1,9 @@
 {
     "title": "School! Scoop?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89187.jpg",
+        "alt": "school-scoop"
+    },
     "type": "manga",
     "original_name": "すくーる!すくーぷ?",
     "start_date": "2011-10-25",

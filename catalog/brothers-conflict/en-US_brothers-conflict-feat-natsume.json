@@ -1,5 +1,9 @@
 {
     "title": "Brothers Conflict feat. Natsume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98971.jpg",
+        "alt": "brothers-conflict-feat-natsume"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

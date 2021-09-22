@@ -1,5 +1,9 @@
 {
     "title": "Sonna Koe Dashicha Iya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79683.jpg",
+        "alt": "sonna-koe-dashicha-iya"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

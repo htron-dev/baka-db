@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Tomatta Big Ben",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/58695.jpg",
+        "alt": "hello-kitty-no-tomatta-big-ben"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのとまった大時計",

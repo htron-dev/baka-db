@@ -1,5 +1,9 @@
 {
     "title": "Hyakki Yakoushou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/19666.jpg",
+        "alt": "hyakki-yakoushou"
+    },
     "type": "manga",
     "original_name": "百鬼夜行抄",
     "tags": [

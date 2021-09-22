@@ -1,11 +1,15 @@
 {
     "title": "Code Geass: Hangyaku no Lelouch III - Oudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1126/91344.jpg",
+        "alt": "code-geass-hangyaku-no-lelouch-iii-oudou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "コードギアス 反逆のルルーシュ Ⅲ 皇道",
     "start_date": "2018-05-26",
     "opening_song": "\"WORLD END\" by FLOW",
-    "ending_song": "\"NE",
+    "ending_song": "\"NE:ONE\" by Survive Said The Prophet",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

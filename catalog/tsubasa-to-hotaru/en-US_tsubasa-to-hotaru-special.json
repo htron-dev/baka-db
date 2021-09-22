@@ -1,10 +1,14 @@
 {
     "title": "Tsubasa to Hotaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/59507.jpg",
+        "alt": "tsubasa-to-hotaru"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "つばさとホタル",
     "start_date": "2014-03-16",
-    "ending_song": "\"Tsubasa to Hotaru (つばさとホタル)\" by Tsubasa Sonokawa (CV",
+    "ending_song": "\"Tsubasa to Hotaru (つばさとホタル)\" by Tsubasa Sonokawa (CV: Kanae Itou)",
     "rating": "G - All Ages",
     "tags": [
         "romance",

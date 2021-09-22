@@ -1,5 +1,9 @@
 {
     "title": "Yorishiroshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160057.jpg",
+        "alt": "yorishiroshi"
+    },
     "type": "manga",
     "original_name": "ヨリシロシ",
     "start_date": "2015-08-06",

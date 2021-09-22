@@ -1,5 +1,9 @@
 {
     "title": "Under the Ceiling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19257.jpg",
+        "alt": "under-the-ceiling"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "天井の下",

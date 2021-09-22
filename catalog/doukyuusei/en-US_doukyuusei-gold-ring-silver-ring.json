@@ -1,5 +1,9 @@
 {
     "title": "Doukyuusei: Gold Ring & Silver Ring",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192985.jpg",
+        "alt": "doukyuusei-gold-ring-silver-ring"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

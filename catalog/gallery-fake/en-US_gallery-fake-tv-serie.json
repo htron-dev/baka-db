@@ -1,12 +1,16 @@
 {
     "title": "Gallery Fake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/30129.jpg",
+        "alt": "gallery-fake"
+    },
     "type": "tv-serie",
     "episodes": "37",
     "original_name": "ギャラリーフェイク",
     "start_date": "2005-01-08",
     "end_date": "2005-01-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Ragtime\" by Katteni Shiyagare (eps 1-25)",
+    "ending_song": "#1: \"Omoisugoshi no Kounou\" by Santara (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mystery",

@@ -1,5 +1,9 @@
 {
     "title": "Hasangokoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/74219.jpg",
+        "alt": "hasangokoushi"
+    },
     "type": "manga",
     "original_name": "破三国志",
     "tags": [

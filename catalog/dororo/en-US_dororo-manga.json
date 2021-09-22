@@ -1,5 +1,9 @@
 {
     "title": "Dororo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175740.jpg",
+        "alt": "dororo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

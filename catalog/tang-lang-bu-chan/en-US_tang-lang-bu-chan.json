@@ -1,5 +1,9 @@
 {
     "title": "Tang Lang Bu Chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/76910.jpg",
+        "alt": "tang-lang-bu-chan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "螳螂捕蝉",

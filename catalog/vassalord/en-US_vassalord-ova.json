@@ -1,5 +1,9 @@
 {
     "title": "Vassalord.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/43213.jpg",
+        "alt": "vassalord"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "Vassalord. (ヴァッサロード)",

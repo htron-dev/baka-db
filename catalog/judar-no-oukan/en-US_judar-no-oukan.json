@@ -1,5 +1,9 @@
 {
     "title": "Judar no Oukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/73901.jpg",
+        "alt": "judar-no-oukan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

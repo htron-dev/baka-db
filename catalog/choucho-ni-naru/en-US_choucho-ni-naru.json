@@ -1,5 +1,9 @@
 {
     "title": "Choucho ni Naru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95451.jpg",
+        "alt": "choucho-ni-naru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ちょうちょになる。",

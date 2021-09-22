@@ -1,5 +1,9 @@
 {
     "title": "Miseinen dakedo Kodomo ja Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177111.jpg",
+        "alt": "miseinen-dakedo-kodomo-ja-nai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "36",

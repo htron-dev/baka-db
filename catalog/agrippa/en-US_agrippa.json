@@ -1,5 +1,9 @@
 {
     "title": "Agrippa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40724.jpg",
+        "alt": "agrippa"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "アグリッパ-AGRIPPA-",

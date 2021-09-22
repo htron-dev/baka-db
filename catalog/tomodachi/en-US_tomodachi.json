@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1945.jpg",
+        "alt": "tomodachi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Boy Skirt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167508.jpg",
+        "alt": "boy-skirt"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

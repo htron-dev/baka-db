@@ -1,5 +1,9 @@
 {
     "title": "Tatsunoko Pro x Peeping Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/77238.jpg",
+        "alt": "tatsunoko-pro-x-peeping-life"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "タツノコプロ ×Peeping Life",

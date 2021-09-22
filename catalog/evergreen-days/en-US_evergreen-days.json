@@ -1,5 +1,9 @@
 {
     "title": "Evergreen Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170703.jpg",
+        "alt": "evergreen-days"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

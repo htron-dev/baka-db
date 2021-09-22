@@ -1,5 +1,9 @@
 {
     "title": "Sensei no Shiroi Uso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208097.jpg",
+        "alt": "sensei-no-shiroi-uso"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "49",

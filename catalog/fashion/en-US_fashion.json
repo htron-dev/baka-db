@@ -1,5 +1,9 @@
 {
     "title": "Fashion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/71293.jpg",
+        "alt": "fashion"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ファッション",

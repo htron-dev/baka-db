@@ -1,5 +1,9 @@
 {
     "title": "Hanayome wa Bara ni Chirasareru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156302.jpg",
+        "alt": "hanayome-wa-bara-ni-chirasareru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "花嫁は薔薇に散らされる",

@@ -1,5 +1,9 @@
 {
     "title": "Shousetsuka to Kaseifu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152375.jpg",
+        "alt": "shousetsuka-to-kaseifu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "小説家と家政夫",

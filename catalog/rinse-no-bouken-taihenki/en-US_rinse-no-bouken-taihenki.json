@@ -1,5 +1,9 @@
 {
     "title": "Rinse no Bouken Taihenki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148243.jpg",
+        "alt": "rinse-no-bouken-taihenki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

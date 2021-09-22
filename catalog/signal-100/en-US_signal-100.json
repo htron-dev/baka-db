@@ -1,5 +1,9 @@
 {
     "title": "Signal 100",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184766.jpg",
+        "alt": "signal-100"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

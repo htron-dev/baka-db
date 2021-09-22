@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Hansel to Gretel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/58855.jpg",
+        "alt": "hello-kitty-no-hansel-to-gretel"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのヘンゼルとグレーテル",

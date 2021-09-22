@@ -1,5 +1,9 @@
 {
     "title": "Yokohata Koukou Ouendan Kanzakigumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179573.jpg",
+        "alt": "yokohata-koukou-ouendan-kanzakigumi"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "横幡高校応援団 神咲組",

@@ -1,5 +1,9 @@
 {
     "title": "Shayou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1054/96046.jpg",
+        "alt": "shayou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "斜陽",

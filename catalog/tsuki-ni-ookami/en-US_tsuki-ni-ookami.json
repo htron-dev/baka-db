@@ -1,5 +1,9 @@
 {
     "title": "Tsuki ni Ookami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/89861.jpg",
+        "alt": "tsuki-ni-ookami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

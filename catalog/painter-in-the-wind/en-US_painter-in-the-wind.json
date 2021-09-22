@@ -1,5 +1,9 @@
 {
     "title": "Painter in the Wind",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155157.jpg",
+        "alt": "painter-in-the-wind"
+    },
     "type": "manhwa",
     "volumes": "2",
     "original_name": "바람의 화원",

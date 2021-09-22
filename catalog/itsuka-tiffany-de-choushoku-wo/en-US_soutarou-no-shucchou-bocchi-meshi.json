@@ -1,5 +1,9 @@
 {
     "title": "Soutarou no Shucchou Bocchi Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243097.jpg",
+        "alt": "soutarou-no-shucchou-bocchi-meshi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

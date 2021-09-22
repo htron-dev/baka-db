@@ -1,5 +1,9 @@
 {
     "title": "Darling, I Love You!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2623.jpg",
+        "alt": "darling-i-love-you"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

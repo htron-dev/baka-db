@@ -1,5 +1,9 @@
 {
     "title": "Boys Run the Riot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236715.jpg",
+        "alt": "boys-run-the-riot"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

@@ -1,5 +1,9 @@
 {
     "title": "Aoki Tsushin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151654.jpg",
+        "alt": "aoki-tsushin"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "青木通信",

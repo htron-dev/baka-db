@@ -1,5 +1,9 @@
 {
     "title": "Denshi Mahoutsukai no Tronica.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160131.jpg",
+        "alt": "denshi-mahoutsukai-no-tronica"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "電子魔法使いのトロニカ。",

@@ -1,5 +1,9 @@
 {
     "title": "The Snow Queen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10086.jpg",
+        "alt": "the-snow-queen"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "18",

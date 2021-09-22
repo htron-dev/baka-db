@@ -1,5 +1,9 @@
 {
     "title": "Taimashin: Akamushi Masatsukou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46475.jpg",
+        "alt": "taimashin-akamushi-masatsukou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "35",

@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Koudan Apartment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115497.jpg",
+        "alt": "shoujo-koudan-apartment"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "少女公団アパートメント",

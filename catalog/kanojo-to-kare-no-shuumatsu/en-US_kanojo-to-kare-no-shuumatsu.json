@@ -1,5 +1,9 @@
 {
     "title": "Kanojo to Kare no Shuumatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203351.jpg",
+        "alt": "kanojo-to-kare-no-shuumatsu"
+    },
     "type": "manga",
     "original_name": "彼女と彼の週末",
     "start_date": "2015-09-04",

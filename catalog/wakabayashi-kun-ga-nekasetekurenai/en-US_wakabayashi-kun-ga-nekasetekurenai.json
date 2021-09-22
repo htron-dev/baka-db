@@ -1,5 +1,9 @@
 {
     "title": "Wakabayashi-kun ga Nekasetekurenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173440.jpg",
+        "alt": "wakabayashi-kun-ga-nekasetekurenai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "69",

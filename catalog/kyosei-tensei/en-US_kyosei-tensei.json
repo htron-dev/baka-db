@@ -1,5 +1,9 @@
 {
     "title": "Kyosei Tensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240795.jpg",
+        "alt": "kyosei-tensei"
+    },
     "type": "manga",
     "original_name": "去勢転生",
     "start_date": "2019-09-09",

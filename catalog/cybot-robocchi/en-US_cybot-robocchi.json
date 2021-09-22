@@ -1,5 +1,9 @@
 {
     "title": "Cybot Robocchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/19447.jpg",
+        "alt": "cybot-robocchi"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "サイボットロボッチ",

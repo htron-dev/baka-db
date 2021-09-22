@@ -1,5 +1,9 @@
 {
     "title": "Action Heroine Cheer Fruits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/86741.jpg",
+        "alt": "action-heroine-cheer-fruits"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アクションヒロイン チアフルーツ",

@@ -1,5 +1,9 @@
 {
     "title": "Yappari Nui ja Dame!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23994.jpg",
+        "alt": "yappari-nui-ja-dame"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

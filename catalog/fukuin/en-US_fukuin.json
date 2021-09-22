@@ -1,5 +1,9 @@
 {
     "title": "Fukuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2113.jpg",
+        "alt": "fukuin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

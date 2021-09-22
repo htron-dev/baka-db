@@ -1,5 +1,9 @@
 {
     "title": "Indefinite Linkcage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176605.jpg",
+        "alt": "indefinite-linkcage"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "35",

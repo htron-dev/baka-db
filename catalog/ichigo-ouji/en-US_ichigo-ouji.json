@@ -1,5 +1,9 @@
 {
     "title": "Ichigo Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25090.jpg",
+        "alt": "ichigo-ouji"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "苺王子",

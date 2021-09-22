@@ -1,5 +1,9 @@
 {
     "title": "Flakes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/105579.jpg",
+        "alt": "flakes"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Last Notes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113427.jpg",
+        "alt": "last-notes"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

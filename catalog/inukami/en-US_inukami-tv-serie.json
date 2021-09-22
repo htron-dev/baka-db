@@ -1,12 +1,16 @@
 {
     "title": "Inukami!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1405/110246.jpg",
+        "alt": "inukami"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "いぬかみっ!",
     "start_date": "2006-04-06",
     "end_date": "2006-04-06",
     "opening_song": "\"Hikari\" by Yui Horie",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yuujou Monogatari\" by Aice5",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

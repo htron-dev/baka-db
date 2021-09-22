@@ -1,5 +1,9 @@
 {
     "title": "Otomegokoro Yumegokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153971.jpg",
+        "alt": "otomegokoro-yumegokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

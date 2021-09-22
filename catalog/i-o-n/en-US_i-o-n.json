@@ -1,5 +1,9 @@
 {
     "title": "I.O.N",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17076.jpg",
+        "alt": "i-o-n"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

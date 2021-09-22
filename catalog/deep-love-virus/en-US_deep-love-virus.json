@@ -1,5 +1,9 @@
 {
     "title": "Deep Love Virus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4267.jpg",
+        "alt": "deep-love-virus"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

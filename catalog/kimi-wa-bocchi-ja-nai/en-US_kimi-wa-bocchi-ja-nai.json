@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Bocchi ja Nai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162983.jpg",
+        "alt": "kimi-wa-bocchi-ja-nai"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

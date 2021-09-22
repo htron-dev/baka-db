@@ -1,12 +1,16 @@
 {
     "title": "H2O: Footprints in the Sand",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/5962.jpg",
+        "alt": "h-2-o-footprints-in-the-sand"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "H2O ~FOOTPRINTS IN THE SAND~",
     "start_date": "2008-01-04",
     "end_date": "2008-01-04",
     "opening_song": "\"Katayoku no Icarus (片翼のイカロス)\" by Yui Sakakibara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kazahane (カザハネ)\" by Haruka Shimotsuki (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

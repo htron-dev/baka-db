@@ -1,5 +1,9 @@
 {
     "title": "Sekiganjuu Mitsuyoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179372.jpg",
+        "alt": "sekiganjuu-mitsuyoshi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

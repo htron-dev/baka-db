@@ -1,5 +1,9 @@
 {
     "title": "Kuroneko to Koushaku no Juusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172584.jpg",
+        "alt": "kuroneko-to-koushaku-no-juusha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "The House Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180892.jpg",
+        "alt": "the-house-cat"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "50",

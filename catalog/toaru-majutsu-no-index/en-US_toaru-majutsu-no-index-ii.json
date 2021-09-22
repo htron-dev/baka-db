@@ -1,12 +1,16 @@
 {
     "title": "Toaru Majutsu no Index II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75612.jpg",
+        "alt": "toaru-majutsu-no-index-ii"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "とある魔術の禁書目録 Ⅱ",
     "start_date": "2010-10-08",
     "end_date": "2010-10-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"No buts!\" by Mami Kawada (eps 1-16)",
+    "ending_song": "#1: \"Magic∞world\" by Maon Kurosaki (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

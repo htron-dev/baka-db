@@ -1,5 +1,9 @@
 {
     "title": "Koiiro Senritsu Double Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16635.jpg",
+        "alt": "koiiro-senritsu-double-ouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

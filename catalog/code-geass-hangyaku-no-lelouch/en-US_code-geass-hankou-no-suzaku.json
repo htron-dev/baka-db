@@ -1,5 +1,9 @@
 {
     "title": "Code Geass: Hankou no Suzaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44353.jpg",
+        "alt": "code-geass-hankou-no-suzaku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

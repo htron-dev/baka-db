@@ -1,5 +1,9 @@
 {
     "title": "Banana wa Ane ni Hairimasu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128428.jpg",
+        "alt": "banana-wa-ane-ni-hairimasu-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

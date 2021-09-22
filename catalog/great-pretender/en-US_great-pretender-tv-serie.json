@@ -1,5 +1,9 @@
 {
     "title": "Great Pretender",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1418/107954.jpg",
+        "alt": "great-pretender"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "start_date": "2020-07-09",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Great_Pretender_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/Great_Pretender_%28TV_series%29"
         }
     ]
 }

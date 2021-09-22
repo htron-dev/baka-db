@@ -1,5 +1,9 @@
 {
     "title": "Live On Cardliver Kakeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/21028.jpg",
+        "alt": "live-on-cardliver-kakeru"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ライブオン CARDLIVER 翔",

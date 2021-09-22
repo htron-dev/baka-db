@@ -1,5 +1,9 @@
 {
     "title": "Yuukoku no Rasputin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144087.jpg",
+        "alt": "yuukoku-no-rasputin"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "53",

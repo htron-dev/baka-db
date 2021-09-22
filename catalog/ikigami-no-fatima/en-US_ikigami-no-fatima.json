@@ -1,5 +1,9 @@
 {
     "title": "Ikigami no Fatima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123555.jpg",
+        "alt": "ikigami-no-fatima"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

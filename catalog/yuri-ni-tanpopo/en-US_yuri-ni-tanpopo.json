@@ -1,5 +1,9 @@
 {
     "title": "Yuri ni Tanpopo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/97503.jpg",
+        "alt": "yuri-ni-tanpopo"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "ゆりにタンポポ",

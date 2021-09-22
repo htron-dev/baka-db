@@ -1,5 +1,9 @@
 {
     "title": "Akuma de Junai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156345.jpg",
+        "alt": "akuma-de-junai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

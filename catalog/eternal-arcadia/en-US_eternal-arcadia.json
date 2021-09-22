@@ -1,5 +1,9 @@
 {
     "title": "Eternal Arcadia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182968.jpg",
+        "alt": "eternal-arcadia"
+    },
     "type": "manga",
     "chapters": "10",
     "original_name": "エターナルアルカディア",

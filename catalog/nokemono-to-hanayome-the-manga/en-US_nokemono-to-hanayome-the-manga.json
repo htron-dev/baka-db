@@ -1,5 +1,9 @@
 {
     "title": "Nokemono to Hanayome the Manga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25957.jpg",
+        "alt": "nokemono-to-hanayome-the-manga"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "110",

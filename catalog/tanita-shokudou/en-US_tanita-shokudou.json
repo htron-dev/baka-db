@@ -1,5 +1,9 @@
 {
     "title": "Tanita Shokudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/74513.jpg",
+        "alt": "tanita-shokudou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "タニタ食堂",

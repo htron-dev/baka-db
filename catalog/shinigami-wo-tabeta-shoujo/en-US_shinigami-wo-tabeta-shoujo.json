@@ -1,5 +1,9 @@
 {
     "title": "Shinigami wo Tabeta Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137429.jpg",
+        "alt": "shinigami-wo-tabeta-shoujo"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "35",

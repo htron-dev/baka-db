@@ -1,12 +1,16 @@
 {
     "title": "Owari no Seraph",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/73474.jpg",
+        "alt": "owari-no-seraph"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "終わりのセラフ",
     "start_date": "2015-04-04",
     "end_date": "2015-04-04",
-    "opening_song": "\"X.U.\" by SawanoHiroyuki[nZk]",
-    "ending_song": "\"scaPEGoat\" by SawanoHiroyuki[nZk]",
+    "opening_song": "\"X.U.\" by SawanoHiroyuki[nZk]:Gemie (eps 2-12)",
+    "ending_song": "\"scaPEGoat\" by SawanoHiroyuki[nZk]:Yosh (eps 2-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Shigatsu Tsuitachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34070.jpg",
+        "alt": "shigatsu-tsuitachi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "4 月 1 日",

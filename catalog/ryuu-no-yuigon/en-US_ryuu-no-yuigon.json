@@ -1,5 +1,9 @@
 {
     "title": "Ryuu no Yuigon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40146.jpg",
+        "alt": "ryuu-no-yuigon"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "竜の遺言",

@@ -1,5 +1,9 @@
 {
     "title": "Lemon Roman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154662.jpg",
+        "alt": "lemon-roman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

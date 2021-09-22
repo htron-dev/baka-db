@@ -1,5 +1,9 @@
 {
     "title": "Michiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27644.jpg",
+        "alt": "michiko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

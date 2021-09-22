@@ -1,5 +1,9 @@
 {
     "title": "Hatsuyuki Sakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149282.jpg",
+        "alt": "hatsuyuki-sakura"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "はつゆきさくら",

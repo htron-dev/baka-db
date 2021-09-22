@@ -1,5 +1,9 @@
 {
     "title": "Doujin Work",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75482.jpg",
+        "alt": "doujin-work"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ドージンワーク",

@@ -1,5 +1,9 @@
 {
     "title": "Animegatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/73567.jpg",
+        "alt": "animegatari"
+    },
     "type": "movie",
     "episodes": "8",
     "original_name": "アニメガタリ",

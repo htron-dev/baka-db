@@ -1,5 +1,9 @@
 {
     "title": "RG Veda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1487/112102.jpg",
+        "alt": "rg-veda"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "聖伝",

@@ -1,5 +1,9 @@
 {
     "title": "Fateful Moments",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160144.jpg",
+        "alt": "fateful-moments"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "フェイトフル・モーメンツ",

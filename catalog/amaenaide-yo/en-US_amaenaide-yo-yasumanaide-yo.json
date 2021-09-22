@@ -1,8 +1,12 @@
 {
     "title": "Amaenaide yo!!: Yasumanaide yo!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/32069.jpg",
+        "alt": "amaenaide-yo-yasumanaide-yo"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "あまえないでよっ!!",
+    "original_name": "あまえないでよっ!!: 休まないでよっ!!",
     "start_date": "2005-12-21",
     "opening_song": "\"Afurete Yuku no wa Kono Kimochi\" by Amae-tai!",
     "rating": "R+ - Mild Nudity",

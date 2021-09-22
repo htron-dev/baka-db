@@ -1,5 +1,9 @@
 {
     "title": "Sensei no Apron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179837.jpg",
+        "alt": "sensei-no-apron"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

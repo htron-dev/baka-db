@@ -1,5 +1,9 @@
 {
     "title": "Yoru wo Higashi ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230619.jpg",
+        "alt": "yoru-wo-higashi-ni"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

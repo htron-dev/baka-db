@@ -1,5 +1,9 @@
 {
     "title": "Chihayafuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135341.jpg",
+        "alt": "chihayafuru"
+    },
     "type": "manga",
     "original_name": "ちはやふる",
     "start_date": "2007-12-28",

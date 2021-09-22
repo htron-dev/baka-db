@@ -1,5 +1,9 @@
 {
     "title": "7 Call",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28164.jpg",
+        "alt": "7-call"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "7 コール",

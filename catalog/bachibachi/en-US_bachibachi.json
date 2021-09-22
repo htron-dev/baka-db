@@ -1,5 +1,9 @@
 {
     "title": "Bachibachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/214599.jpg",
+        "alt": "bachibachi"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "141",

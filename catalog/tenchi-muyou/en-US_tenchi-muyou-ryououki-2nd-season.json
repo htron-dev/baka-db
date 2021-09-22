@@ -1,5 +1,9 @@
 {
     "title": "Tenchi Muyou! Ryououki 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2437.jpg",
+        "alt": "tenchi-muyou-ryououki-2nd-season"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "天地無用！魎皇鬼",

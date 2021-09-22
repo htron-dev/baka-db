@@ -1,5 +1,9 @@
 {
     "title": "Kimi wo Aisuru to Iu Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95431.jpg",
+        "alt": "kimi-wo-aisuru-to-iu-koto"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "君を愛するということ",

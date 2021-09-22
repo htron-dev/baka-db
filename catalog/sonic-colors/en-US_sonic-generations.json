@@ -1,5 +1,9 @@
 {
     "title": "Sonic Generations",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/48389.jpg",
+        "alt": "sonic-generations"
+    },
     "type": "manga",
     "chapters": "7",
     "original_name": "ソニック ジェネレーションズ",

@@ -1,5 +1,9 @@
 {
     "title": "Sentou Jousai Masurawo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39356.jpg",
+        "alt": "sentou-jousai-masurawo"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "28",

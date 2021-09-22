@@ -1,12 +1,16 @@
 {
     "title": "Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/18793.jpg",
+        "alt": "monster"
+    },
     "type": "tv-serie",
     "episodes": "74",
     "original_name": "モンスター",
     "start_date": "2004-04-07",
     "end_date": "2004-04-07",
     "opening_song": "\"Grain\" by Kuniaki Haishima",
-    "ending_song": "#1",
+    "ending_song": "#1: \"For The Love of Life\" by David Sylvian (eps 1-32)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "drama",

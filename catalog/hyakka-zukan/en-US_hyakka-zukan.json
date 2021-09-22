@@ -1,5 +1,9 @@
 {
     "title": "Hyakka Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/17157.jpg",
+        "alt": "hyakka-zukan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ひゃっかずかん",

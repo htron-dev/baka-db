@@ -1,5 +1,9 @@
 {
     "title": "Digimon Adventure tri. 1: Saikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75493.jpg",
+        "alt": "digimon-adventure-tri-1-saikai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "デジモンアドベンチャー tri.（トライ）第１章「再会」",

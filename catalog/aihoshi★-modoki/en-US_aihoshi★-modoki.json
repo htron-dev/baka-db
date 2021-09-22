@@ -1,5 +1,9 @@
 {
     "title": "Aihoshi★Modoki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161541.jpg",
+        "alt": "aihoshi★-modoki"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "アイホシ ★ モドキ",

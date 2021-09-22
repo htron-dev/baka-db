@@ -1,5 +1,9 @@
 {
     "title": "Arase Haruka, Yousha Nashi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163283.jpg",
+        "alt": "arase-haruka-yousha-nashi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "16",

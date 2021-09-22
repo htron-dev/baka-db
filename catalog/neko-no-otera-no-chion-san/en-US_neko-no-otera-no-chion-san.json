@@ -1,5 +1,9 @@
 {
     "title": "Neko no Otera no Chion-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187071.jpg",
+        "alt": "neko-no-otera-no-chion-san"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "79",

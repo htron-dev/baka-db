@@ -1,5 +1,9 @@
 {
     "title": "Heaven's Runner Akira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177789.jpg",
+        "alt": "heavens-runner-akira"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "69",

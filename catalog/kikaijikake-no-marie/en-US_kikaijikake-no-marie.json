@@ -1,5 +1,9 @@
 {
     "title": "Kikaijikake no Marie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239155.jpg",
+        "alt": "kikaijikake-no-marie"
+    },
     "type": "manga",
     "original_name": "機械じかけのマリー",
     "start_date": "2020-06-24",

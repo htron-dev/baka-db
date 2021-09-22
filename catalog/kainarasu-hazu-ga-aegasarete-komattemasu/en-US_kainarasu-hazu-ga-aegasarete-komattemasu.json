@@ -1,5 +1,9 @@
 {
     "title": "Kainarasu Hazu ga, Aegasarete Komattemasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223297.jpg",
+        "alt": "kainarasu-hazu-ga-aegasarete-komattemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

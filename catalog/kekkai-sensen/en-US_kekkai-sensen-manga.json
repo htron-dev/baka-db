@@ -1,5 +1,9 @@
 {
     "title": "Kekkai Sensen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154778.jpg",
+        "alt": "kekkai-sensen"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "33",

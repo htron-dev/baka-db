@@ -1,5 +1,9 @@
 {
     "title": "Seppun Shuugyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168436.jpg",
+        "alt": "seppun-shuugyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

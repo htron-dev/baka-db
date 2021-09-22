@@ -1,5 +1,9 @@
 {
     "title": "Murenase! Seton Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198434.jpg",
+        "alt": "murenase-seton-gakuen"
+    },
     "type": "manga",
     "original_name": "群れなせ！シートン学園",
     "start_date": "2016-05-08",

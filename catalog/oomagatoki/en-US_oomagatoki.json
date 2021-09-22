@@ -1,5 +1,9 @@
 {
     "title": "Oomagatoki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203476.jpg",
+        "alt": "oomagatoki"
+    },
     "type": "manga",
     "original_name": "オオマガトキ",
     "start_date": "2016-12-15",

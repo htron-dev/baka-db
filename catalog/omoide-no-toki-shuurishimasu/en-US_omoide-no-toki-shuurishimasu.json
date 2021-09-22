@@ -1,5 +1,9 @@
 {
     "title": "Omoide no Toki Shuurishimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211372.jpg",
+        "alt": "omoide-no-toki-shuurishimasu"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "23",

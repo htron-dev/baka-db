@@ -1,5 +1,9 @@
 {
     "title": "Goal FH: Field Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/61767.jpg",
+        "alt": "goal-fh-field-hunter"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ゴール FH (フィールド・ハンター)",

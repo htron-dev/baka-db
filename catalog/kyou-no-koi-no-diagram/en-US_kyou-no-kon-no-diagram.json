@@ -1,5 +1,9 @@
 {
     "title": "Kyou no Kon no Diagram",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237579.jpg",
+        "alt": "kyou-no-kon-no-diagram"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo ESP",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/64587.jpg",
+        "alt": "tokyo-esp"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "東京 ESP",

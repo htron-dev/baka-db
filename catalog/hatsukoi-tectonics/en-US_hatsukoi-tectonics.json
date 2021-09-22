@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Tectonics",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126235.jpg",
+        "alt": "hatsukoi-tectonics"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

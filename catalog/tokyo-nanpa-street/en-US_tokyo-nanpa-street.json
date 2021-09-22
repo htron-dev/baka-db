@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Nanpa Street",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158909.jpg",
+        "alt": "tokyo-nanpa-street"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

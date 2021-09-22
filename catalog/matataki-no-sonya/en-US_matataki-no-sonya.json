@@ -1,5 +1,9 @@
 {
     "title": "Matataki no Sonya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/105997.jpg",
+        "alt": "matataki-no-sonya"
+    },
     "type": "manga",
     "original_name": "瞬きのソーニャ Молниеносная Соня",
     "start_date": "2009-04-15",

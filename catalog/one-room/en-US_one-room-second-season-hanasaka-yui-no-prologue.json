@@ -1,5 +1,9 @@
 {
     "title": "One Room Second Season: Hanasaka Yui no Prologue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1473/93256.jpg",
+        "alt": "one-room-second-season-hanasaka-yui-no-prologue"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "One Room セカンドシーズン　花坂結衣のプロローグ",
@@ -25,7 +29,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/One_Room_(anime"
+            "link": "https://en.wikipedia.org/wiki/One_Room_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Kapon (&gt;\\_&lt;)!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6663.jpg",
+        "alt": "kapon-gt-lt"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

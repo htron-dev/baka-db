@@ -1,5 +1,9 @@
 {
     "title": "Moe♥Mani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130401.jpg",
+        "alt": "moe♥-mani"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

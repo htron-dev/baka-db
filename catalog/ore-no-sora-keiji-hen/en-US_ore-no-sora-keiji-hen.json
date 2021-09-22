@@ -1,5 +1,9 @@
 {
     "title": "Ore no Sora Keiji-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/25868.jpg",
+        "alt": "ore-no-sora-keiji-hen"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "俺の空 刑事篇",

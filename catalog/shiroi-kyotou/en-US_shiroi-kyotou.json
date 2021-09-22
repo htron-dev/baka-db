@@ -1,5 +1,9 @@
 {
     "title": "Shiroi Kyotou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216661.jpg",
+        "alt": "shiroi-kyotou"
+    },
     "type": "manga",
     "original_name": "白い巨塔",
     "start_date": "2018-10-20",

@@ -1,5 +1,9 @@
 {
     "title": "Hakugin Gymnasium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149770.jpg",
+        "alt": "hakugin-gymnasium"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

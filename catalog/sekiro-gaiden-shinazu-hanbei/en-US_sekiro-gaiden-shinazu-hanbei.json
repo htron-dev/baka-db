@@ -1,5 +1,9 @@
 {
     "title": "Sekiro Gaiden: Shinazu Hanbei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228269.jpg",
+        "alt": "sekiro-gaiden-shinazu-hanbei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

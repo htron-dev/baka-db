@@ -1,5 +1,9 @@
 {
     "title": "Kuroshitsuji: Book of Circus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/64811.jpg",
+        "alt": "kuroshitsuji-book-of-circus"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "黒執事 Book of Circus",

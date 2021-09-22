@@ -1,5 +1,9 @@
 {
     "title": "7th Dragon the Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121185.jpg",
+        "alt": "7th-dragon-the-comic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

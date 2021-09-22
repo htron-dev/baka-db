@@ -1,5 +1,9 @@
 {
     "title": "Hito wa Naze Hatarakanakereba Naranai no ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29079.jpg",
+        "alt": "hito-wa-naze-hatarakanakereba-naranai-no-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

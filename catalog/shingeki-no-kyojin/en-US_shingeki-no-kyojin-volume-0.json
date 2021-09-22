@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Kyojin Volume 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100805.jpg",
+        "alt": "shingeki-no-kyojin-volume-0"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "進撃の巨人 0 巻",

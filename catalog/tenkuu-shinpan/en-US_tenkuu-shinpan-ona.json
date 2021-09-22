@@ -1,5 +1,9 @@
 {
     "title": "Tenkuu Shinpan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1374/109963.jpg",
+        "alt": "tenkuu-shinpan"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "天空侵犯",

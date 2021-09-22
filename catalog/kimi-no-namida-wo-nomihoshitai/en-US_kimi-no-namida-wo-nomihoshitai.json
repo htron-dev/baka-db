@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Namida wo Nomihoshitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245309.jpg",
+        "alt": "kimi-no-namida-wo-nomihoshitai"
+    },
     "type": "manga",
     "original_name": "君の涙を飲み干したい",
     "start_date": "2020-08-01",

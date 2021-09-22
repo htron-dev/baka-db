@@ -1,5 +1,9 @@
 {
     "title": "In Business on Earth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10556.jpg",
+        "alt": "in-business-on-earth"
+    },
     "type": "manhwa",
     "volumes": "10",
     "tags": [

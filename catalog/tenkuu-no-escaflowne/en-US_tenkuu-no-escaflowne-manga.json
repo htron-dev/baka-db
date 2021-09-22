@@ -1,5 +1,9 @@
 {
     "title": "Tenkuu no Escaflowne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1407.jpg",
+        "alt": "tenkuu-no-escaflowne"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "34",

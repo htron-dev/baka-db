@@ -1,5 +1,9 @@
 {
     "title": "Shinsekai yori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78611.jpg",
+        "alt": "shinsekai-yori"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "27",

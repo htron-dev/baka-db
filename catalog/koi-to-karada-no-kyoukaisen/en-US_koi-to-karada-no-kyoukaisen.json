@@ -1,5 +1,9 @@
 {
     "title": "Koi to Karada no Kyoukaisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36671.jpg",
+        "alt": "koi-to-karada-no-kyoukaisen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋とカラダの境界線",

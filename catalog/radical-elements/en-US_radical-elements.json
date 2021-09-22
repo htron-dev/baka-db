@@ -1,5 +1,9 @@
 {
     "title": "Radical Elements",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163401.jpg",
+        "alt": "radical-elements"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

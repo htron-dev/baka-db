@@ -1,5 +1,9 @@
 {
     "title": "I Ueo Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/108713.jpg",
+        "alt": "i-ueo-boy"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "63",

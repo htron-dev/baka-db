@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Rakuen Room",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157260.jpg",
+        "alt": "kimi-to-rakuen-room"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

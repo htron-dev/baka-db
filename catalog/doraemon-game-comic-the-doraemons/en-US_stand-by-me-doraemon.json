@@ -1,5 +1,9 @@
 {
     "title": "Stand By Me Doraemon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/65571.jpg",
+        "alt": "stand-by-me-doraemon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "STAND BY ME ドラえもん",

@@ -1,5 +1,9 @@
 {
     "title": "Seishun Girigiri Overline",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/214885.jpg",
+        "alt": "seishun-girigiri-overline"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

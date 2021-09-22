@@ -1,5 +1,9 @@
 {
     "title": "Tonari wa Scramble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44753.jpg",
+        "alt": "tonari-wa-scramble"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

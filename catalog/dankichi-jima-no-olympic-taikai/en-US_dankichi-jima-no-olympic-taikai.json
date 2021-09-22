@@ -1,5 +1,9 @@
 {
     "title": "Dankichi-jima no Olympic Taikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/12226.jpg",
+        "alt": "dankichi-jima-no-olympic-taikai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ダン吉島のオリムピック大会",

@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Yarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/16399.jpg",
+        "alt": "tonari-no-yarou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "隣の野郎",

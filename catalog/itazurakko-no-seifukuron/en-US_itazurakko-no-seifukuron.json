@@ -1,5 +1,9 @@
 {
     "title": "Itazurakko no Seifukuron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204765.jpg",
+        "alt": "itazurakko-no-seifukuron"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

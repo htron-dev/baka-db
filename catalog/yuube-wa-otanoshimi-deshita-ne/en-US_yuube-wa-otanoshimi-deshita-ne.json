@@ -1,5 +1,9 @@
 {
     "title": "Yuube wa Otanoshimi Deshita ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156176.jpg",
+        "alt": "yuube-wa-otanoshimi-deshita-ne"
+    },
     "type": "manga",
     "original_name": "ゆうべはお楽しみでしたね",
     "start_date": "2014-06-20",

@@ -1,5 +1,9 @@
 {
     "title": "Black Clover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166254.jpg",
+        "alt": "black-clover"
+    },
     "type": "manga",
     "original_name": "ブラッククローバー",
     "start_date": "2015-02-16",

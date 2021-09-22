@@ -1,5 +1,9 @@
 {
     "title": "Tengoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152452.jpg",
+        "alt": "tengoku"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "52",

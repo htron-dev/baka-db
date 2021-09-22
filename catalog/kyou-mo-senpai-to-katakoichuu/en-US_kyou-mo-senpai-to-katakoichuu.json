@@ -1,5 +1,9 @@
 {
     "title": "Kyou mo Senpai to Katakoichuu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170879.jpg",
+        "alt": "kyou-mo-senpai-to-katakoichuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

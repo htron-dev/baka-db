@@ -1,5 +1,9 @@
 {
     "title": "Juan Siliang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1745/116295.jpg",
+        "alt": "juan-siliang"
+    },
     "type": "ona",
     "episodes": "15",
     "original_name": "眷思量",

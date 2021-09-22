@@ -1,5 +1,9 @@
 {
     "title": "La Esperança",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5496.jpg",
+        "alt": "la-esperanca"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "26",

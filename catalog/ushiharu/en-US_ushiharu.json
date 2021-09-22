@@ -1,5 +1,9 @@
 {
     "title": "Ushiharu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246039.jpg",
+        "alt": "ushiharu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "77",

@@ -1,5 +1,9 @@
 {
     "title": "Choujin Locke: Kaze no Houyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124919.jpg",
+        "alt": "choujin-locke-kaze-no-houyou"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "42",

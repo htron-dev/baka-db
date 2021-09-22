@@ -1,5 +1,9 @@
 {
     "title": "Private Eye Dol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/66087.jpg",
+        "alt": "private-eye-dol"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "Private eye dol [プライベート・アイ・ドル]",

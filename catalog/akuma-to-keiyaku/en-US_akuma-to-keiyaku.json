@@ -1,5 +1,9 @@
 {
     "title": "Akuma to Keiyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224202.jpg",
+        "alt": "akuma-to-keiyaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

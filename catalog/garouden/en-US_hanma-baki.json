@@ -1,5 +1,9 @@
 {
     "title": "Hanma Baki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159342.jpg",
+        "alt": "hanma-baki"
+    },
     "type": "manga",
     "volumes": "37",
     "chapters": "312",

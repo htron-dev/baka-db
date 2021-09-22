@@ -1,5 +1,9 @@
 {
     "title": "Kokoro Made Daite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13531.jpg",
+        "alt": "kokoro-made-daite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

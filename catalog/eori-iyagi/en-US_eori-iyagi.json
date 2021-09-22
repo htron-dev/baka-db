@@ -1,5 +1,9 @@
 {
     "title": "Eori Iyagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1979/114517.jpg",
+        "alt": "eori-iyagi"
+    },
     "type": "tv-serie",
     "episodes": "78",
     "original_name": "어리 이야기",

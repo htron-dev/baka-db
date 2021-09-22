@@ -1,5 +1,9 @@
 {
     "title": "Bin: Sonshi Iden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185873.jpg",
+        "alt": "bin-sonshi-iden"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "148",

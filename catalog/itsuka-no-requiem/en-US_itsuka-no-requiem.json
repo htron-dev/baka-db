@@ -1,5 +1,9 @@
 {
     "title": "Itsuka no Requiem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202521.jpg",
+        "alt": "itsuka-no-requiem"
+    },
     "type": "light-novel",
     "original_name": "いつかのレクイエム",
     "start_date": "2017-11-15",

@@ -1,5 +1,9 @@
 {
     "title": "Sachi no Otera Gohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204650.jpg",
+        "alt": "sachi-no-otera-gohan"
+    },
     "type": "manga",
     "original_name": "サチのお寺ごはん",
     "start_date": "2015-02-26",

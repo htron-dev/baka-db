@@ -1,5 +1,9 @@
 {
     "title": "Wonder!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/45447.jpg",
+        "alt": "wonder"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "96",

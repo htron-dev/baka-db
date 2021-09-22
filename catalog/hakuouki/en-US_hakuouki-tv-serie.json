@@ -1,5 +1,9 @@
 {
     "title": "Hakuouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/71800.jpg",
+        "alt": "hakuouki"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "薄桜鬼",

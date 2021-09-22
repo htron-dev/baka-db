@@ -1,12 +1,16 @@
 {
     "title": "Re:␣Hamatora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75641.jpg",
+        "alt": "re-␣-hamatora"
+    },
     "type": "tv-serie",
     "episodes": "12",
-    "original_name": "Re",
+    "original_name": "Re:␣ ハマトラ",
     "start_date": "2014-07-08",
     "end_date": "2014-07-08",
     "opening_song": "\"Sen no Tsubasa (千の翼)\" by livetune adding Takuro Sugawara (from 9mm Parabellum Bullet) (eps 1-10)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Brand New World\" by ayami (eps 1-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",

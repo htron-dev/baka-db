@@ -1,5 +1,9 @@
 {
     "title": "Sanzensekai no Karasu wo Koroshi Kanzenban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199111.jpg",
+        "alt": "sanzensekai-no-karasu-wo-koroshi-kanzenban"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

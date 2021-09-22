@@ -1,5 +1,9 @@
 {
     "title": "Mashiro-iro Symphony: Twinkle Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83877.jpg",
+        "alt": "mashiro-iro-symphony-twinkle-moon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

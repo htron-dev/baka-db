@@ -1,5 +1,9 @@
 {
     "title": "Romantic Egoist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179721.jpg",
+        "alt": "romantic-egoist"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

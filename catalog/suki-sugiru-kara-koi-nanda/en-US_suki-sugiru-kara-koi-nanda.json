@@ -1,5 +1,9 @@
 {
     "title": "Suki Sugiru kara Koi nanda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79561.jpg",
+        "alt": "suki-sugiru-kara-koi-nanda"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

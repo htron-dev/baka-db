@@ -1,5 +1,9 @@
 {
     "title": "Neko Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164440.jpg",
+        "alt": "neko-tantei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "44",

@@ -1,5 +1,9 @@
 {
     "title": "Jouzu na Yume no Kanaekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4096.jpg",
+        "alt": "jouzu-na-yume-no-kanaekata"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "上手な夢のかなえかた",

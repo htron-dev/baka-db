@@ -1,9 +1,13 @@
 {
     "title": "Aware! Meisaku-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/79069.jpg",
+        "alt": "aware-meisaku-kun"
+    },
     "type": "tv-serie",
     "original_name": "あはれ! 名作くん",
     "start_date": "2016-04-08",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Aware! Warera ga Sekai no Chuushin (あはれ! 我らが世界の中心)\" by Dempagumi.inc (eps 1-39)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

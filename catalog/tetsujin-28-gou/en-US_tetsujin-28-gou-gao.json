@@ -1,5 +1,9 @@
 {
     "title": "Tetsujin 28-gou Gao!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/52129.jpg",
+        "alt": "tetsujin-28-gou-gao"
+    },
     "type": "tv-serie",
     "episodes": "151",
     "original_name": "鉄人 28 号ガオ!",

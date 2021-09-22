@@ -1,5 +1,9 @@
 {
     "title": "Sonotoki wa Kare ni Yoroshiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29056.jpg",
+        "alt": "sonotoki-wa-kare-ni-yoroshiku"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "2007-01-20",

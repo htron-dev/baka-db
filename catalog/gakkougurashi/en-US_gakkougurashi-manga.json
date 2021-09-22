@@ -1,5 +1,9 @@
 {
     "title": "Gakkougurashi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188787.jpg",
+        "alt": "gakkougurashi"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "78",

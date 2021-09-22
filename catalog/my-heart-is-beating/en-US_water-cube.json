@@ -1,5 +1,9 @@
 {
     "title": "Water Cube",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57997.jpg",
+        "alt": "water-cube"
+    },
     "type": "manga",
     "original_name": "water cube",
     "start_date": "2011-03-12",

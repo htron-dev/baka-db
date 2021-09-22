@@ -1,5 +1,9 @@
 {
     "title": "Dynamic Heroes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/163524.jpg",
+        "alt": "dynamic-heroes"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Jie Yao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1579/105384.jpg",
+        "alt": "jie-yao"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "解药",

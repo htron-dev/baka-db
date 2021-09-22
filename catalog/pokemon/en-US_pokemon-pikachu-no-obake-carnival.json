@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Pikachu no Obake Carnival",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/12258.jpg",
+        "alt": "pokemon-pikachu-no-obake-carnival"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ピカチュウのおばけカーニバル",

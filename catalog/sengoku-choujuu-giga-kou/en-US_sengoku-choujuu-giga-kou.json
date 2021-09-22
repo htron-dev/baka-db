@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Choujuu Giga: Kou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/82326.jpg",
+        "alt": "sengoku-choujuu-giga-kou"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "戦国鳥獣戯画~甲~",

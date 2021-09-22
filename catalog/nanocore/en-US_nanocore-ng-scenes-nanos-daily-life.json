@@ -1,5 +1,9 @@
 {
     "title": "Nanocore: NG Scenes - Nano's Daily Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/79966.jpg",
+        "alt": "nanocore-ng-scenes-nanos-daily-life"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "纳米核心 - NG 镜头 - 纳米的日",

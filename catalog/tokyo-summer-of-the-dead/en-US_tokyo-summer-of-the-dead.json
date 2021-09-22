@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Summer of the Dead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85141.jpg",
+        "alt": "tokyo-summer-of-the-dead"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Airwolf",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79107.jpg",
+        "alt": "airwolf"
+    },
     "type": "manga",
     "original_name": "エアーウルフ",
     "start_date": "1987-12-19",

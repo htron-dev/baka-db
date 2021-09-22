@@ -1,5 +1,9 @@
 {
     "title": "Hokusai to Meshi sae Areba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154550.jpg",
+        "alt": "hokusai-to-meshi-sae-areba"
+    },
     "type": "manga",
     "original_name": "ホクサイと飯さえあれば",
     "start_date": "2014-09-05",

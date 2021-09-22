@@ -1,5 +1,9 @@
 {
     "title": "Harukanaru Toki no Naka de 6",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193235.jpg",
+        "alt": "harukanaru-toki-no-naka-de-6"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "36",

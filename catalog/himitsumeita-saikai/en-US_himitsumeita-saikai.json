@@ -1,5 +1,9 @@
 {
     "title": "Himitsumeita Saikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229061.jpg",
+        "alt": "himitsumeita-saikai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "秘密めいた再会",

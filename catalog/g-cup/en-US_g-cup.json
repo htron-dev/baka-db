@@ -1,5 +1,9 @@
 {
     "title": "G-Cup",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117175.jpg",
+        "alt": "g-cup"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

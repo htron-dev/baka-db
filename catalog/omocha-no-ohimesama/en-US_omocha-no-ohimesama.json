@@ -1,5 +1,9 @@
 {
     "title": "Omocha no Ohimesama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/51909.jpg",
+        "alt": "omocha-no-ohimesama"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

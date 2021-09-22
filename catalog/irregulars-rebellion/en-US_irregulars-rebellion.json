@@ -1,5 +1,9 @@
 {
     "title": "Irregular's Rebellion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199808.jpg",
+        "alt": "irregulars-rebellion"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "32",

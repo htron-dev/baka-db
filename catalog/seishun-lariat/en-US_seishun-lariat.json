@@ -1,5 +1,9 @@
 {
     "title": "Seishun Lariat!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164679.jpg",
+        "alt": "seishun-lariat"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "青春ラリアット!!",

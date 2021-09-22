@@ -1,5 +1,9 @@
 {
     "title": "Seito de Nanka Irarenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175799.jpg",
+        "alt": "seito-de-nanka-irarenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

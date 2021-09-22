@@ -1,5 +1,9 @@
 {
     "title": "Cooking Papa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/61713.jpg",
+        "alt": "cooking-papa"
+    },
     "type": "tv-serie",
     "episodes": "151",
     "original_name": "クッキングパパ",

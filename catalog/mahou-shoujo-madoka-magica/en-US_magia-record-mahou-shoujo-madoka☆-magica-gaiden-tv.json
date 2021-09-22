@@ -1,12 +1,16 @@
 {
     "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1786/104783.jpg",
+        "alt": "magia-record-mahou-shoujo-madoka☆-magica-gaiden-tv"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "マギアレコード 魔法少女まどか ☆ マギカ外伝 (TV)",
     "start_date": "2020-01-05",
     "end_date": "2020-01-05",
     "opening_song": "\"Gomakashi (ごまかし)\" by TrySail",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Alicia (アリシア)\" by ClariS (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "psychological",

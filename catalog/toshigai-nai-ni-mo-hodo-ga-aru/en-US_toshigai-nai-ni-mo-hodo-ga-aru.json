@@ -1,5 +1,9 @@
 {
     "title": "Toshigai Nai ni mo hodo ga Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170885.jpg",
+        "alt": "toshigai-nai-ni-mo-hodo-ga-aru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

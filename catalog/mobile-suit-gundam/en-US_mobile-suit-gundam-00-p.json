@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam 00P",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/111845.jpg",
+        "alt": "mobile-suit-gundam-00-p"
+    },
     "type": "light-novel",
     "volumes": "4",
     "start_date": "2008-05-20",

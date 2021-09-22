@@ -1,5 +1,9 @@
 {
     "title": "Princess Tutu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211192.jpg",
+        "alt": "princess-tutu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

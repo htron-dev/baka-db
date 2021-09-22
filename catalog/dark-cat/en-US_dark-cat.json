@@ -1,5 +1,9 @@
 {
     "title": "Dark Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1216/94235.jpg",
+        "alt": "dark-cat"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ダークキャット",

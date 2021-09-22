@@ -1,5 +1,9 @@
 {
     "title": "Yuki no Tsubasa no Freesia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164391.jpg",
+        "alt": "yuki-no-tsubasa-no-freesia"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

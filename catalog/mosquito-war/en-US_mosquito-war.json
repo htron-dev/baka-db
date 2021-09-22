@@ -1,5 +1,9 @@
 {
     "title": "Mosquito War",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237418.jpg",
+        "alt": "mosquito-war"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "49",

@@ -1,5 +1,9 @@
 {
     "title": "Choujin Locke Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/45600.jpg",
+        "alt": "choujin-locke-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "超人ロック",

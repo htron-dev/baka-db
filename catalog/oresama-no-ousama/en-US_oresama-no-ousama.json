@@ -1,5 +1,9 @@
 {
     "title": "Oresama no Ousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/74273.jpg",
+        "alt": "oresama-no-ousama"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "オレ様の王様",

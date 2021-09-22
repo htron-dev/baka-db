@@ -1,5 +1,9 @@
 {
     "title": "Tarot Maiden Kisara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204997.jpg",
+        "alt": "tarot-maiden-kisara"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

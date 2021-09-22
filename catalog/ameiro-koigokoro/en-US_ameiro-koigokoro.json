@@ -1,5 +1,9 @@
 {
     "title": "Ameiro Koigokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41845.jpg",
+        "alt": "ameiro-koigokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

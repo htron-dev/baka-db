@@ -1,5 +1,9 @@
 {
     "title": "Asobi ja Nai no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11253.jpg",
+        "alt": "asobi-ja-nai-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

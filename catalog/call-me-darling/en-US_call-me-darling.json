@@ -1,5 +1,9 @@
 {
     "title": "Call Me Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114537.jpg",
+        "alt": "call-me-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

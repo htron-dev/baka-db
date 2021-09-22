@@ -1,5 +1,9 @@
 {
     "title": "Pochi to Tama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195509.jpg",
+        "alt": "pochi-to-tama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

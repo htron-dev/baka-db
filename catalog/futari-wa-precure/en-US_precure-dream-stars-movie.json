@@ -1,5 +1,9 @@
 {
     "title": "Precure Dream Stars! Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/86596.jpg",
+        "alt": "precure-dream-stars-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画プリキュアドリームスターズ!",

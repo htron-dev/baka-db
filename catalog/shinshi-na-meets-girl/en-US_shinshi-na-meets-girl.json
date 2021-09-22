@@ -1,5 +1,9 @@
 {
     "title": "Shinshi na Meets Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40671.jpg",
+        "alt": "shinshi-na-meets-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

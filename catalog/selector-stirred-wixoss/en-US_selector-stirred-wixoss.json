@@ -1,5 +1,9 @@
 {
     "title": "Selector Stirred WIXOSS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196503.jpg",
+        "alt": "selector-stirred-wixoss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

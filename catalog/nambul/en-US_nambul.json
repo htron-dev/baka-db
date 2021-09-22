@@ -1,5 +1,9 @@
 {
     "title": "Nambul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182691.jpg",
+        "alt": "nambul"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "남벌",

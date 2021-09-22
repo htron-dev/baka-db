@@ -1,5 +1,9 @@
 {
     "title": "3 Inch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215365.jpg",
+        "alt": "3-inch"
+    },
     "type": "manga",
     "original_name": "3 インチ",
     "start_date": "2018-08-13",

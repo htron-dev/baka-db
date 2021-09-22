@@ -1,5 +1,9 @@
 {
     "title": "Houkago Minkowski",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187067.jpg",
+        "alt": "houkago-minkowski"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "55",

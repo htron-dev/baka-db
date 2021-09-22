@@ -1,5 +1,9 @@
 {
     "title": "6 Angels",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/36019.jpg",
+        "alt": "6-angels"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "シックス・エンジェルズ",

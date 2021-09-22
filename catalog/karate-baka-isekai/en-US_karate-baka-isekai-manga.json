@@ -1,5 +1,9 @@
 {
     "title": "Karate Baka Isekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233710.jpg",
+        "alt": "karate-baka-isekai"
+    },
     "type": "manga",
     "original_name": "空手バカ異世界",
     "start_date": "2019-04-24",

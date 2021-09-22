@@ -1,12 +1,16 @@
 {
     "title": "Genshiken 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1958/94708.jpg",
+        "alt": "genshiken-2"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "げんしけん 2",
     "start_date": "2007-10-10",
     "end_date": "2007-10-10",
     "opening_song": "\"disarm dreamer\" by Misato Aki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Clubhouse Sandwich (クラブハウスサンド)\" by Yuumao (eps 1,2,4-6,8,10-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "comedy",

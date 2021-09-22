@@ -1,10 +1,14 @@
 {
     "title": "Pokemon: Pikachu no Natsuyasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/26367.jpg",
+        "alt": "pokemon-pikachu-no-natsuyasumi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ピカチュウのなつやすみ",
     "start_date": "1998-07-18",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Summer Vacation Fan Club\" by Pokémon Kids, Pokémon Mamas, Ikue Ohtani (Japanese Version)",
     "ending_song": "\"Pika Pika Massaichu\" by Pokémon Kids & Okido-hakase + Pikachu",
     "rating": "PG - Children",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Frozen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/247978.jpg",
+        "alt": "frozen"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "フローズン",

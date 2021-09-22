@@ -1,5 +1,9 @@
 {
     "title": "B-gata H-kei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46861.jpg",
+        "alt": "b-gata-h-kei"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "315",

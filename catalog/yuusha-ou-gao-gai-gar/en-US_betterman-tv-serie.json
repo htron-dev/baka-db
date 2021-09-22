@@ -1,12 +1,16 @@
 {
     "title": "Betterman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1157/91069.jpg",
+        "alt": "betterman"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ベターマン",
     "start_date": "1999-04-02",
     "end_date": "1999-04-02",
     "opening_song": "\"Yume No Kakera (ユメノカケラ)\" by Wuyontana",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Chin: Requiem (鎮-requiem-)\" by Mai",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",
@@ -39,7 +43,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Betterman_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/Betterman_%28TV_series%29"
         }
     ]
 }

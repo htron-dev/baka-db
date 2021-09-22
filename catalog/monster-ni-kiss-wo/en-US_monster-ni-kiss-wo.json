@@ -1,5 +1,9 @@
 {
     "title": "Monster ni Kiss wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179449.jpg",
+        "alt": "monster-ni-kiss-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

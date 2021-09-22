@@ -1,5 +1,9 @@
 {
     "title": "Alice to Amaryllis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243861.jpg",
+        "alt": "alice-to-amaryllis"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi sae Inakereba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67281.jpg",
+        "alt": "kimi-sae-inakereba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

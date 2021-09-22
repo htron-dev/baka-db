@@ -1,5 +1,9 @@
 {
     "title": "Open Air",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146993.jpg",
+        "alt": "open-air"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

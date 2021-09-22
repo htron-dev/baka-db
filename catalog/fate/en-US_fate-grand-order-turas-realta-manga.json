@@ -1,5 +1,9 @@
 {
     "title": "Fate/Grand Order: Turas Réalta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205354.jpg",
+        "alt": "fate-grand-order-turas-realta"
+    },
     "type": "manga",
     "original_name": "Fate/Grand Order -turas réalta-",
     "start_date": "2017-08-09",

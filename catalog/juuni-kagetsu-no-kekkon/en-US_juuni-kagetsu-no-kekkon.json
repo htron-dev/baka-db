@@ -1,5 +1,9 @@
 {
     "title": "Juuni-kagetsu no Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246983.jpg",
+        "alt": "juuni-kagetsu-no-kekkon"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "十二カ月の結婚",

@@ -1,5 +1,9 @@
 {
     "title": "Sekai ni Hitotsu dake no R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226451.jpg",
+        "alt": "sekai-ni-hitotsu-dake-no-r"
+    },
     "type": "manga",
     "original_name": "世界に一つだけの R",
     "start_date": "2019-06-15",

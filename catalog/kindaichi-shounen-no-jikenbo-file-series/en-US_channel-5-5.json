@@ -1,8 +1,12 @@
 {
     "title": "Channel 5.5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/71605.jpg",
+        "alt": "channel-5-5"
+    },
     "type": "ona",
     "episodes": "4",
-    "original_name": "チャンネル5.5",
+    "original_name": "チャンネル 5.5",
     "start_date": "2014-01-28",
     "end_date": "2014-01-28",
     "rating": "PG-13 - Teens 13 or older",

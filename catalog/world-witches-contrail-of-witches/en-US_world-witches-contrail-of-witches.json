@@ -1,5 +1,9 @@
 {
     "title": "World Witches: Contrail of Witches",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193297.jpg",
+        "alt": "world-witches-contrail-of-witches"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

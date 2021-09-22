@@ -1,5 +1,9 @@
 {
     "title": "Drifters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/80271.jpg",
+        "alt": "drifters"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "DRIFTERS",
@@ -37,7 +41,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Drifters_(manga"
+            "link": "https://en.wikipedia.org/wiki/Drifters_%28manga%29"
         }
     ]
 }

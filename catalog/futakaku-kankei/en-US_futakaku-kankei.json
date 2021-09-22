@@ -1,5 +1,9 @@
 {
     "title": "Futakaku Kankei.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187803.jpg",
+        "alt": "futakaku-kankei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

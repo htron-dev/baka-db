@@ -1,5 +1,9 @@
 {
     "title": "Naniwa Kinyuudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213014.jpg",
+        "alt": "naniwa-kinyuudou"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "261",

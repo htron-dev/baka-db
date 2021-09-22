@@ -1,5 +1,9 @@
 {
     "title": "Nurukunaru made Matte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91807.jpg",
+        "alt": "nurukunaru-made-matte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

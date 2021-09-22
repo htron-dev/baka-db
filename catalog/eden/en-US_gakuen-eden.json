@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Eden\\*",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79589.jpg",
+        "alt": "gakuen-eden"
+    },
     "type": "manga",
     "original_name": "学園 eden\\*",
     "tags": [

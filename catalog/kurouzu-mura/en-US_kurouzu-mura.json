@@ -1,5 +1,9 @@
 {
     "title": "Kurouzu-mura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124343.jpg",
+        "alt": "kurouzu-mura"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "黒水村",

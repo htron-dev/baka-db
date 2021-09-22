@@ -1,12 +1,16 @@
 {
     "title": "Tamagotchi! Yume Kira Dream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/42957.jpg",
+        "alt": "tamagotchi-yume-kira-dream"
+    },
     "type": "tv-serie",
     "episodes": "49",
     "original_name": "たまごっち! ゆめキラドリーム",
     "start_date": "2012-09-10",
     "end_date": "2012-09-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Do Re Mi Fa Sol Ra Iro (ドレミファソライロ)\" by Dream5 (eps 1-)",
+    "ending_song": "#1: Kitto Zutto Happy! (きっとずっと Happy!)\" by Dream5 (eps 1-)",
     "rating": "G - All Ages",
     "tags": [
         "comedy"

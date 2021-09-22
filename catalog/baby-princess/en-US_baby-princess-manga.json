@@ -1,5 +1,9 @@
 {
     "title": "Baby Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158532.jpg",
+        "alt": "baby-princess"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

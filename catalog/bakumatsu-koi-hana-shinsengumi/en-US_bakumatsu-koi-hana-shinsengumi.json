@@ -1,5 +1,9 @@
 {
     "title": "Bakumatsu Koi Hana Shinsengumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82446.jpg",
+        "alt": "bakumatsu-koi-hana-shinsengumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

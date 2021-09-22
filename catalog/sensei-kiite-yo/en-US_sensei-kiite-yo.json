@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Kiite yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/84537.jpg",
+        "alt": "sensei-kiite-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

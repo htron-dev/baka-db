@@ -1,5 +1,9 @@
 {
     "title": "Candy Candy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/75631.jpg",
+        "alt": "candy-candy"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "44",

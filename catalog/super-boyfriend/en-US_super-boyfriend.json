@@ -1,5 +1,9 @@
 {
     "title": "Super Boyfriend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7731.jpg",
+        "alt": "super-boyfriend"
+    },
     "type": "manhwa",
     "chapters": "3",
     "tags": [

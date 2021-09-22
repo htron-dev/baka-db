@@ -1,5 +1,9 @@
 {
     "title": "AKB48 Satsujin Jiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129451.jpg",
+        "alt": "akb-48-satsujin-jiken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

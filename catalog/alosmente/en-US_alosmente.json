@@ -1,5 +1,9 @@
 {
     "title": "Alosmente",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157898.jpg",
+        "alt": "alosmente"
+    },
     "type": "manga",
     "original_name": "アルオスメンテ",
     "start_date": "2010-01-16",

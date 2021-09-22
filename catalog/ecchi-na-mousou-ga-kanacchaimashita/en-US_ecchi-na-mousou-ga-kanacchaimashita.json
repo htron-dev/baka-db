@@ -1,5 +1,9 @@
 {
     "title": "Ecchi na Mousou ga Kanacchaimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247854.jpg",
+        "alt": "ecchi-na-mousou-ga-kanacchaimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

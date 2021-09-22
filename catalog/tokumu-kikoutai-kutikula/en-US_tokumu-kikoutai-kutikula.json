@@ -1,5 +1,9 @@
 {
     "title": "Tokumu Kikoutai Kutikula",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10993.jpg",
+        "alt": "tokumu-kikoutai-kutikula"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "特務機甲隊クチクラ",

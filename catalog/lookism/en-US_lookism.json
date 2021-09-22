@@ -1,5 +1,9 @@
 {
     "title": "Lookism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208866.jpg",
+        "alt": "lookism"
+    },
     "type": "manhwa",
     "original_name": "외모지상주의",
     "start_date": "2014-11-20",

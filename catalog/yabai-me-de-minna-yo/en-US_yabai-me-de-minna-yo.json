@@ -1,5 +1,9 @@
 {
     "title": "Yabai Me de Minna yo!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/91825.jpg",
+        "alt": "yabai-me-de-minna-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

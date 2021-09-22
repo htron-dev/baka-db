@@ -1,5 +1,9 @@
 {
     "title": "Triple Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10677.jpg",
+        "alt": "triple-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

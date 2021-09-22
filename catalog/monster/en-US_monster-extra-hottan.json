@@ -1,5 +1,9 @@
 {
     "title": "Monster Extra: Hottan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/10372.jpg",
+        "alt": "monster-extra-hottan"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "モンスター EXTRA",

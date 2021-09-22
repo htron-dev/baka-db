@@ -1,5 +1,9 @@
 {
     "title": "Tantou Henshuu Botsuko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190035.jpg",
+        "alt": "tantou-henshuu-botsuko-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

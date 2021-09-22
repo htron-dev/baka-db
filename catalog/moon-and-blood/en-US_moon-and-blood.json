@@ -1,5 +1,9 @@
 {
     "title": "Moon and Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38819.jpg",
+        "alt": "moon-and-blood"
+    },
     "type": "manga",
     "start_date": "2011-05-31",
     "tags": [

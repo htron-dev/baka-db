@@ -1,5 +1,9 @@
 {
     "title": "Hishoken!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82288.jpg",
+        "alt": "hishoken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

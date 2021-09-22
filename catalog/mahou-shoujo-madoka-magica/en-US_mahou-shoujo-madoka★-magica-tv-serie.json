@@ -1,12 +1,16 @@
 {
     "title": "Mahou Shoujo Madoka★Magica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
+        "alt": "mahou-shoujo-madoka★-magica"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "魔法少女まどか ★ マギカ",
     "start_date": "2011-01-07",
     "end_date": "2011-01-07",
     "opening_song": "\"Connect (コネクト)\" by ClariS (eps 1-9, 11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mata Ashita (また あした)\" by Aoi Yuuki (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "psychological",

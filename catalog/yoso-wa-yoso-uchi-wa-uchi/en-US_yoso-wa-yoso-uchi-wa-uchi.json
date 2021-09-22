@@ -1,5 +1,9 @@
 {
     "title": "Yoso wa Yoso, Uchi wa Uchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117701.jpg",
+        "alt": "yoso-wa-yoso-uchi-wa-uchi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "よそはよそ、ウチはウチ",

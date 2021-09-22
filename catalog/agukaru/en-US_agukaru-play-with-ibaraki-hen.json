@@ -1,5 +1,9 @@
 {
     "title": "Agukaru: Play with Ibaraki-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/64027.jpg",
+        "alt": "agukaru-play-with-ibaraki-hen"
+    },
     "type": "ona",
     "episodes": "20",
     "original_name": "あぐかる PLAY WITH IBARAKI 編",

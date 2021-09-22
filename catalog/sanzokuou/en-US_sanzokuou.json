@@ -1,5 +1,9 @@
 {
     "title": "Sanzokuou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37862.jpg",
+        "alt": "sanzokuou"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "50",

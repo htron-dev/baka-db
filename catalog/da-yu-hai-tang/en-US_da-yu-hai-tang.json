@@ -1,5 +1,9 @@
 {
     "title": "Da Yu Hai Tang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1404/99059.jpg",
+        "alt": "da-yu-hai-tang"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "大鱼海棠",

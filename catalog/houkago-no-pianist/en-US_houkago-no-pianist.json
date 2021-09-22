@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Pianist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137243.jpg",
+        "alt": "houkago-no-pianist"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "放課後のピアニスト",

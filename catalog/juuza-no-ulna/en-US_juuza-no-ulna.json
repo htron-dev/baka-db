@@ -1,5 +1,9 @@
 {
     "title": "Juuza no Ulna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173946.jpg",
+        "alt": "juuza-no-ulna"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "38",

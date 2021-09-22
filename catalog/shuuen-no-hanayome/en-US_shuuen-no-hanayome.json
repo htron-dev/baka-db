@@ -1,5 +1,9 @@
 {
     "title": "Shuuen no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237053.jpg",
+        "alt": "shuuen-no-hanayome"
+    },
     "type": "light-novel",
     "original_name": "終焉ノ花嫁",
     "start_date": "2020-07-20",

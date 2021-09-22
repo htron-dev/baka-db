@@ -1,5 +1,9 @@
 {
     "title": "Giji Harem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219464.jpg",
+        "alt": "giji-harem"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "157",

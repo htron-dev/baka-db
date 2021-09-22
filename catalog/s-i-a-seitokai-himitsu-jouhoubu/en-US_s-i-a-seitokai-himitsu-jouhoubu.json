@@ -1,5 +1,9 @@
 {
     "title": "S.I.A.: Seitokai Himitsu Jouhoubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178272.jpg",
+        "alt": "s-i-a-seitokai-himitsu-jouhoubu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "S.I.A. ―生徒会秘密情報部―",

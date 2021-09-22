@@ -1,5 +1,9 @@
 {
     "title": "Girls Bravo?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44831.jpg",
+        "alt": "girls-bravo"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ガールズ・ブラヴォー?",

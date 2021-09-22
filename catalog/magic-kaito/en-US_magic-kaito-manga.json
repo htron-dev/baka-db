@@ -1,5 +1,9 @@
 {
     "title": "Magic Kaito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164654.jpg",
+        "alt": "magic-kaito"
+    },
     "type": "manga",
     "original_name": "まじっく快斗",
     "start_date": "1987-05-27",

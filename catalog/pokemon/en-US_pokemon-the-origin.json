@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: The Origin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/53701.jpg",
+        "alt": "pokemon-the-origin"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "ポケットモンスター THE ORIGIN",

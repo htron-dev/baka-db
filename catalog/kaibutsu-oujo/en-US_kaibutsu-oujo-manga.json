@@ -1,5 +1,9 @@
 {
     "title": "Kaibutsu Oujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163097.jpg",
+        "alt": "kaibutsu-oujo"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "87",

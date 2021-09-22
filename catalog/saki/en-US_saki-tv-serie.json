@@ -1,12 +1,16 @@
 {
     "title": "Saki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/73933.jpg",
+        "alt": "saki"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "咲-Saki-",
     "start_date": "2009-04-06",
     "end_date": "2009-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Glossy:MMM\" by Miyuki Hashimoto (eps 2-14)",
+    "ending_song": "#1: \"Glossy:MMM\" by Miyuki Hashimoto (eps 1, 25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "game",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Saki_(manga"
+            "link": "http://en.wikipedia.org/wiki/Saki_%28manga%29#Anime"
         }
     ]
 }

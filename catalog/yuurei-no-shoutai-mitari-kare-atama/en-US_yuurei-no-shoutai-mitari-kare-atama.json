@@ -1,5 +1,9 @@
 {
     "title": "Yuurei no Shoutai Mitari, Kare Atama.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200540.jpg",
+        "alt": "yuurei-no-shoutai-mitari-kare-atama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

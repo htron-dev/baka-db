@@ -1,5 +1,9 @@
 {
     "title": "Wind",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1238/108146.jpg",
+        "alt": "wind"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "WIND",

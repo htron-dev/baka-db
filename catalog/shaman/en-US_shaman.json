@@ -1,5 +1,9 @@
 {
     "title": "Shaman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194266.jpg",
+        "alt": "shaman"
+    },
     "type": "manga",
     "original_name": "謝男",
     "start_date": "2011-12-16",

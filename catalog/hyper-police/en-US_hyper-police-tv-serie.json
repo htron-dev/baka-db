@@ -1,12 +1,16 @@
 {
     "title": "Hyper Police",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/60155.jpg",
+        "alt": "hyper-police"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "はいぱーぽりす",
     "start_date": "1997-04-03",
     "end_date": "1997-04-03",
     "opening_song": "\"That's Hypertension!\" by AYA",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hey Hold Up!\" by Yuko Miyamura and Chiyako Shibahara",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

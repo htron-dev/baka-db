@@ -1,5 +1,9 @@
 {
     "title": "Yuu☆Yuu☆Hakusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/250027.jpg",
+        "alt": "yuu☆-yuu☆-hakusho"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "176",

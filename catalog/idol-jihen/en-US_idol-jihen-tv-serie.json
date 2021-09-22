@@ -1,5 +1,9 @@
 {
     "title": "Idol Jihen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1137/117403.jpg",
+        "alt": "idol-jihen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アイドル事変",

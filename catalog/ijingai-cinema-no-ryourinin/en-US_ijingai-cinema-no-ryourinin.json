@@ -1,5 +1,9 @@
 {
     "title": "Ijingai Cinema no Ryourinin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221798.jpg",
+        "alt": "ijingai-cinema-no-ryourinin"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "14",

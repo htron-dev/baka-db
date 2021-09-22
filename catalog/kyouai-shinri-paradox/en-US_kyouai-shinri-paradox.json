@@ -1,5 +1,9 @@
 {
     "title": "Kyouai Shinri Paradox",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226100.jpg",
+        "alt": "kyouai-shinri-paradox"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

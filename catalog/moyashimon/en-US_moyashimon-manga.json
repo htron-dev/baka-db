@@ -1,5 +1,9 @@
 {
     "title": "Moyashimon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/75589.jpg",
+        "alt": "moyashimon"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "159",

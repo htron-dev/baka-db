@@ -1,5 +1,9 @@
 {
     "title": "Natsu wo Oboeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62375.jpg",
+        "alt": "natsu-wo-oboeru"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "夏をおぼえる",

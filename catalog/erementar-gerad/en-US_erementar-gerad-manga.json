@@ -1,5 +1,9 @@
 {
     "title": "Erementar Gerad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/55581.jpg",
+        "alt": "erementar-gerad"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "96",

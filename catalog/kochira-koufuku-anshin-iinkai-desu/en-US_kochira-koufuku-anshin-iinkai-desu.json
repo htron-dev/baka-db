@@ -1,5 +1,9 @@
 {
     "title": "Kochira, Koufuku Anshin Iinkai desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171232.jpg",
+        "alt": "kochira-koufuku-anshin-iinkai-desu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Hoka Hoka Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/21284.jpg",
+        "alt": "hoka-hoka-kazoku"
+    },
     "type": "tv-serie",
     "episodes": "1428",
     "original_name": "ほかほか家族",

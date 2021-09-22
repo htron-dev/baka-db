@@ -1,5 +1,9 @@
 {
     "title": "Hakuouki Movie 1: Kyoto Ranbu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/49399.jpg",
+        "alt": "hakuouki-movie-1-kyoto-ranbu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 薄桜鬼 第一章 京都乱舞",

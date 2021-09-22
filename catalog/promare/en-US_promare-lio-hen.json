@@ -1,5 +1,9 @@
 {
     "title": "Promare: Lio-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1289/108896.jpg",
+        "alt": "promare-lio-hen"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "PROMARE（プロメア）リオ編",

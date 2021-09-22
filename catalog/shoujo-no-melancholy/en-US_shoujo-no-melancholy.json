@@ -1,5 +1,9 @@
 {
     "title": "Shoujo no Melancholy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171797.jpg",
+        "alt": "shoujo-no-melancholy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

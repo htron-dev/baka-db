@@ -1,5 +1,9 @@
 {
     "title": "Gouin dakedo Yasashikute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7412.jpg",
+        "alt": "gouin-dakedo-yasashikute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

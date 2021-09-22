@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Midara de Yokubuka na Akazukin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139175.jpg",
+        "alt": "manga-grimm-douwa-midara-de-yokubuka-na-akazukin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

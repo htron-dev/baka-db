@@ -1,5 +1,9 @@
 {
     "title": "Dekiai no Ori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225068.jpg",
+        "alt": "dekiai-no-ori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

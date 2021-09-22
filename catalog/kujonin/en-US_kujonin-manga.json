@@ -1,5 +1,9 @@
 {
     "title": "Kujonin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205173.jpg",
+        "alt": "kujonin"
+    },
     "type": "manga",
     "original_name": "駆除人",
     "start_date": "2017-06-26",

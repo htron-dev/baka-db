@@ -1,5 +1,9 @@
 {
     "title": "Sotsugyou Zenya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16890.jpg",
+        "alt": "sotsugyou-zenya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

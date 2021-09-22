@@ -1,5 +1,9 @@
 {
     "title": "Chiheisen no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181543.jpg",
+        "alt": "chiheisen-no-hoshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

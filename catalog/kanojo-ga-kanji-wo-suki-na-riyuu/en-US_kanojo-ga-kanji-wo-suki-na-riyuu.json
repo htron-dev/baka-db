@@ -1,5 +1,9 @@
 {
     "title": "Kanojo ga Kanji wo Suki na Riyuu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/76306.jpg",
+        "alt": "kanojo-ga-kanji-wo-suki-na-riyuu"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "彼女が漢字を好きな理由。",

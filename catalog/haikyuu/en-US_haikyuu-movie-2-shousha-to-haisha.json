@@ -1,5 +1,9 @@
 {
     "title": "Haikyuu!! Movie 2: Shousha to Haisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/74813.jpg",
+        "alt": "haikyuu-movie-2-shousha-to-haisha"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハイキュー!! 勝者と敗者",

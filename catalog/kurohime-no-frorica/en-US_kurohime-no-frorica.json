@@ -1,5 +1,9 @@
 {
     "title": "Kurohime no Frorica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192517.jpg",
+        "alt": "kurohime-no-frorica"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

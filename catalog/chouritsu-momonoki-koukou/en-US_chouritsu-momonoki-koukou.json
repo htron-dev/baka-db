@@ -1,5 +1,9 @@
 {
     "title": "Chouritsu!! Momonoki Koukou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207266.jpg",
+        "alt": "chouritsu-momonoki-koukou"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "超立!!桃の木高校",

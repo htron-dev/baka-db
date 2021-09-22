@@ -1,5 +1,9 @@
 {
     "title": "Mobu Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160822.jpg",
+        "alt": "mobu-koi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "モブ恋",

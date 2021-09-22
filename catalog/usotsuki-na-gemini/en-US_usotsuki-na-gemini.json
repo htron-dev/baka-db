@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki na Gemini",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11777.jpg",
+        "alt": "usotsuki-na-gemini"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

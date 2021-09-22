@@ -1,5 +1,9 @@
 {
     "title": "Kamui Gaiden Daini-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27263.jpg",
+        "alt": "kamui-gaiden-daini-bu"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "116",

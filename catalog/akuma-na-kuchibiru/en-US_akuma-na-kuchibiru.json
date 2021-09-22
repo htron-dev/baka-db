@@ -1,5 +1,9 @@
 {
     "title": "Akuma na Kuchibiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203961.jpg",
+        "alt": "akuma-na-kuchibiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

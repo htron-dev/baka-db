@@ -1,5 +1,9 @@
 {
     "title": "Saa Ikou! Tamagotchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/15719.jpg",
+        "alt": "saa-ikou-tamagotchi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "さぁイコー！たまごっち",

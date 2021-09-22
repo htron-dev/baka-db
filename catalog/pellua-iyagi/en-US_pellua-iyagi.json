@@ -1,5 +1,9 @@
 {
     "title": "Pellua Iyagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70977.jpg",
+        "alt": "pellua-iyagi"
+    },
     "type": "manhwa",
     "original_name": "펠루아 이야기",
     "tags": [

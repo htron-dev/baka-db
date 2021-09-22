@@ -1,5 +1,9 @@
 {
     "title": "Honto Yajuu x Suki tte?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124127.jpg",
+        "alt": "honto-yajuu-x-suki-tte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

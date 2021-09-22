@@ -1,5 +1,9 @@
 {
     "title": "Shakkin Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95735.jpg",
+        "alt": "shakkin-kanojo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "借金カノジョ",

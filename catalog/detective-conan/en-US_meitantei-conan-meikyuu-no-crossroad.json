@@ -1,5 +1,9 @@
 {
     "title": "Meitantei Conan: Meikyuu no Crossroad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240668.jpg",
+        "alt": "meitantei-conan-meikyuu-no-crossroad"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

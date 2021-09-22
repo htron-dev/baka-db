@@ -1,12 +1,16 @@
 {
     "title": "Black Jack (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/14889.jpg",
+        "alt": "black-jack-tv"
+    },
     "type": "tv-serie",
     "episodes": "61",
     "original_name": "ブラックジャック",
     "start_date": "2004-10-11",
     "end_date": "2004-10-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Gekkouka (月光花)\" by Janne Da Arc (eps 1-28)",
+    "ending_song": "#1: \"Kuroge Wagyuu Kamishio Tanyaki 680 En (黒毛和牛上塩タン焼 680 円)\" by Ai Ootsuka (eps 1-28)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama"
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Black_Jack_(manga"
+            "link": "http://en.wikipedia.org/wiki/Black_Jack_%28manga%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Suki na Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144271.jpg",
+        "alt": "watashi-no-suki-na-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

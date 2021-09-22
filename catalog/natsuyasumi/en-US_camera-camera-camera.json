@@ -1,5 +1,9 @@
 {
     "title": "Camera Camera Camera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30593.jpg",
+        "alt": "camera-camera-camera"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

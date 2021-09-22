@@ -1,5 +1,9 @@
 {
     "title": "Warau Hyouteki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1300/94011.jpg",
+        "alt": "warau-hyouteki"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "笑う標的",

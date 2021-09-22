@@ -1,5 +1,9 @@
 {
     "title": "Kaifuku Jutsushi no Yarinaoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208529.jpg",
+        "alt": "kaifuku-jutsushi-no-yarinaoshi"
+    },
     "type": "manga",
     "original_name": "回復術士のやり直し",
     "start_date": "2017-10-24",

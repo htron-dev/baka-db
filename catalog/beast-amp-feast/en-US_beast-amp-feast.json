@@ -1,5 +1,9 @@
 {
     "title": "Beast &amp; Feast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37604.jpg",
+        "alt": "beast-amp-feast"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,11 +1,15 @@
 {
     "title": "Denpa-teki na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1722/111810.jpg",
+        "alt": "denpa-teki-na-kanojo"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "電波的な彼女",
     "start_date": "2009-02-04",
     "end_date": "2009-02-04",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Taiyo\" by tenohira",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",

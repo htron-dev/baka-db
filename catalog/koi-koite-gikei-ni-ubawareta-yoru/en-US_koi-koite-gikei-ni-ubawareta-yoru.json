@@ -1,5 +1,9 @@
 {
     "title": "Koi Koite: Gikei ni Ubawareta Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184239.jpg",
+        "alt": "koi-koite-gikei-ni-ubawareta-yoru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

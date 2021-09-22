@@ -1,5 +1,9 @@
 {
     "title": "Coppelion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167792.jpg",
+        "alt": "coppelion"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "226",

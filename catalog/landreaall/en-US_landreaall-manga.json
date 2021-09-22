@@ -1,5 +1,9 @@
 {
     "title": "Landreaall",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172950.jpg",
+        "alt": "landreaall"
+    },
     "type": "manga",
     "original_name": "Landreaall",
     "start_date": "2002-10-28",

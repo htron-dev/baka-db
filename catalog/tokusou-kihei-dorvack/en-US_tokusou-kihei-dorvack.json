@@ -1,5 +1,9 @@
 {
     "title": "Tokusou Kihei Dorvack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/68555.jpg",
+        "alt": "tokusou-kihei-dorvack"
+    },
     "type": "tv-serie",
     "episodes": "36",
     "original_name": "特装機兵ドルバック",

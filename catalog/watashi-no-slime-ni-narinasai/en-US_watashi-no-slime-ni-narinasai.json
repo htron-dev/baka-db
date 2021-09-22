@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Slime ni Narinasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164076.jpg",
+        "alt": "watashi-no-slime-ni-narinasai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

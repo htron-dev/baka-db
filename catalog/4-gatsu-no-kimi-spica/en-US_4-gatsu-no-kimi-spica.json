@@ -1,5 +1,9 @@
 {
     "title": "4-gatsu no Kimi, Spica.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158517.jpg",
+        "alt": "4-gatsu-no-kimi-spica"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "53",

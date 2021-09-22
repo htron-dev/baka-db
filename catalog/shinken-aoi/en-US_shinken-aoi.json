@@ -1,5 +1,9 @@
 {
     "title": "Shinken Aoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126343.jpg",
+        "alt": "shinken-aoi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "神剣アオイ",

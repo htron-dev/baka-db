@@ -1,5 +1,9 @@
 {
     "title": "Boxer's Blast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215369.jpg",
+        "alt": "boxers-blast"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

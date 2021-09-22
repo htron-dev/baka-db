@@ -1,5 +1,9 @@
 {
     "title": "Boku no Yome ni Naranai ka!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151014.jpg",
+        "alt": "boku-no-yome-ni-naranai-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

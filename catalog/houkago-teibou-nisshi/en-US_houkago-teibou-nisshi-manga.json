@@ -1,5 +1,9 @@
 {
     "title": "Houkago Teibou Nisshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202043.jpg",
+        "alt": "houkago-teibou-nisshi"
+    },
     "type": "manga",
     "original_name": "放課後ていぼう日誌",
     "start_date": "2017-02-21",

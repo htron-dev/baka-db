@@ -1,5 +1,9 @@
 {
     "title": "Samugari ni Yuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245459.jpg",
+        "alt": "samugari-ni-yuki"
+    },
     "type": "manga",
     "original_name": "寒がりに雪",
     "start_date": "2020-01-20",

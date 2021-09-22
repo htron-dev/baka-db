@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Hajikko ga Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/67419.jpg",
+        "alt": "boku-wa-hajikko-ga-suki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

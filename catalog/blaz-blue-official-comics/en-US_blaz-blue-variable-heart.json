@@ -1,5 +1,9 @@
 {
     "title": "BlazBlue: Variable Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186722.jpg",
+        "alt": "blaz-blue-variable-heart"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

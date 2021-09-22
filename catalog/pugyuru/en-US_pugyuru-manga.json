@@ -1,5 +1,9 @@
 {
     "title": "Pugyuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3354.jpg",
+        "alt": "pugyuru"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Sumire Stitch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33842.jpg",
+        "alt": "sumire-stitch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

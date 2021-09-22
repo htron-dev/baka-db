@@ -1,5 +1,9 @@
 {
     "title": "Kamui Gaiden Daiichi-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150859.jpg",
+        "alt": "kamui-gaiden-daiichi-bu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

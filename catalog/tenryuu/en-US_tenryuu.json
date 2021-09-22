@@ -1,5 +1,9 @@
 {
     "title": "Tenryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16823.jpg",
+        "alt": "tenryuu"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "天龍",

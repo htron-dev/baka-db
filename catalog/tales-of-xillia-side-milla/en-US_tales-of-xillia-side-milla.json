@@ -1,5 +1,9 @@
 {
     "title": "Tales of Xillia: Side;Milla",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121371.jpg",
+        "alt": "tales-of-xillia-side-milla"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

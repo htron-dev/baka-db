@@ -1,5 +1,9 @@
 {
     "title": "Otokonoko ni wa Himitsu ga Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/145541.jpg",
+        "alt": "otokonoko-ni-wa-himitsu-ga-aru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

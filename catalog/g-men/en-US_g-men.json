@@ -1,5 +1,9 @@
 {
     "title": "G-Men",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202385.jpg",
+        "alt": "g-men"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "161",

@@ -1,5 +1,9 @@
 {
     "title": "Kanikousen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150773.jpg",
+        "alt": "kanikousen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

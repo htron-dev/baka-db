@@ -1,5 +1,9 @@
 {
     "title": "Nazuna Himesama SOS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140967.jpg",
+        "alt": "nazuna-himesama-sos"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "なずな姫様 SOS",

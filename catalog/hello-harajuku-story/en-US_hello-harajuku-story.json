@@ -1,5 +1,9 @@
 {
     "title": "Hello Harajuku Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21155.jpg",
+        "alt": "hello-harajuku-story"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

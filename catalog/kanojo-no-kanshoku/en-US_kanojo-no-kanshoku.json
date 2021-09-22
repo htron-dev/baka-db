@@ -1,5 +1,9 @@
 {
     "title": "Kanojo no Kanshoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157530.jpg",
+        "alt": "kanojo-no-kanshoku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

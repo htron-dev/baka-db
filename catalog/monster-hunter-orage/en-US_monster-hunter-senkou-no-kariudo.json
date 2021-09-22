@@ -1,5 +1,9 @@
 {
     "title": "Monster Hunter: Senkou no Kariudo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149654.jpg",
+        "alt": "monster-hunter-senkou-no-kariudo"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "90",

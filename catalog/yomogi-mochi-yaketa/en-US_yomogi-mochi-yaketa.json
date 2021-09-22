@@ -1,5 +1,9 @@
 {
     "title": "Yomogi Mochi Yaketa?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/43349.jpg",
+        "alt": "yomogi-mochi-yaketa"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ヨモギもちヤケた",

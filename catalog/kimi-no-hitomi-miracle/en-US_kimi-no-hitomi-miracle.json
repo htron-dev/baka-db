@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Hitomi Miracle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26669.jpg",
+        "alt": "kimi-no-hitomi-miracle"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "君の瞳はミラクル",

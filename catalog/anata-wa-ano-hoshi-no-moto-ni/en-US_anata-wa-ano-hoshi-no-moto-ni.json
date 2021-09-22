@@ -1,5 +1,9 @@
 {
     "title": "Anata wa Ano Hoshi no Moto ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190451.jpg",
+        "alt": "anata-wa-ano-hoshi-no-moto-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

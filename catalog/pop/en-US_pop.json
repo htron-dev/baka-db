@@ -1,5 +1,9 @@
 {
     "title": "Pop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/16398.jpg",
+        "alt": "pop"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ポップ",

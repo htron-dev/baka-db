@@ -1,5 +1,9 @@
 {
     "title": "Nagaki Seisen no Ato ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184220.jpg",
+        "alt": "nagaki-seisen-no-ato-ni"
+    },
     "type": "light-novel",
     "original_name": "永き聖戦の後に",
     "start_date": "2016-11-01",

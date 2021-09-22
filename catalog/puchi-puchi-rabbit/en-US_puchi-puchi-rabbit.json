@@ -1,5 +1,9 @@
 {
     "title": "Puchi Puchi Rabbit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126991.jpg",
+        "alt": "puchi-puchi-rabbit"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

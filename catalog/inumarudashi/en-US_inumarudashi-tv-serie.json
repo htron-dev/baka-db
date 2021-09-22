@@ -1,5 +1,9 @@
 {
     "title": "Inumarudashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/36871.jpg",
+        "alt": "inumarudashi"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "いぬまるだしっ",

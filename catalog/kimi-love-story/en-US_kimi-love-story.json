@@ -1,5 +1,9 @@
 {
     "title": "Kimi Love Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83785.jpg",
+        "alt": "kimi-love-story"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

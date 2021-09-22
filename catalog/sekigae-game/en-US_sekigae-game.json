@@ -1,5 +1,9 @@
 {
     "title": "Sekigae Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81324.jpg",
+        "alt": "sekigae-game"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

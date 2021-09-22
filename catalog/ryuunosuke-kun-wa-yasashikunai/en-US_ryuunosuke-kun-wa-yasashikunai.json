@@ -1,5 +1,9 @@
 {
     "title": "Ryuunosuke-kun wa Yasashikunai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182339.jpg",
+        "alt": "ryuunosuke-kun-wa-yasashikunai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Mahoroba no Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155795.jpg",
+        "alt": "mahoroba-no-hibi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

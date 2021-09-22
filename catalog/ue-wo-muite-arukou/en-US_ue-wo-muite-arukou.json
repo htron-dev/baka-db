@@ -1,5 +1,9 @@
 {
     "title": "Ue wo Muite Arukou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155934.jpg",
+        "alt": "ue-wo-muite-arukou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "上を向いて歩こう!",

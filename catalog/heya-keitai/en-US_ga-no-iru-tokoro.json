@@ -1,5 +1,9 @@
 {
     "title": "Ga no Iru Tokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/59753.jpg",
+        "alt": "ga-no-iru-tokoro"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "蛾のいるところ",

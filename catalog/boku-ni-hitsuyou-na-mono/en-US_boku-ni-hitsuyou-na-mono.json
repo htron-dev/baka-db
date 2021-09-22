@@ -1,5 +1,9 @@
 {
     "title": "Boku ni Hitsuyou na Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171571.jpg",
+        "alt": "boku-ni-hitsuyou-na-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

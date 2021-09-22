@@ -1,5 +1,9 @@
 {
     "title": "Natsukashi Machi no Rozione",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32610.jpg",
+        "alt": "natsukashi-machi-no-rozione"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

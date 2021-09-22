@@ -1,5 +1,9 @@
 {
     "title": "Matome★Groggy Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170473.jpg",
+        "alt": "matome★-groggy-heaven"
+    },
     "type": "manga",
     "original_name": "まとめ ★ グロッキーヘブン",
     "start_date": "2015-01-28",

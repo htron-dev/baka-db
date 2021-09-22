@@ -1,12 +1,16 @@
 {
     "title": "Yuu☆Yuu☆Hakusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg",
+        "alt": "yuu☆-yuu☆-hakusho"
+    },
     "type": "tv-serie",
     "episodes": "112",
     "original_name": "幽 ☆ 遊 ☆ 白書",
     "start_date": "1992-10-10",
     "end_date": "1992-10-10",
     "opening_song": "\"Hohoemi no Bakudan\" by Matsuko Mawatari",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Homework ga Owaranai\" by Matsuko Mawatari (eps 1-29)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

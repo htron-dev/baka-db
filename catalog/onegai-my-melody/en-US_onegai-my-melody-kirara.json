@@ -1,5 +1,9 @@
 {
     "title": "Onegai♪My Melody Kirara★",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/68501.jpg",
+        "alt": "onegai♪-my-melody-kirara★"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "おねがい ♪ マイメロディ きららっ ★",

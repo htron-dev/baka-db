@@ -1,5 +1,9 @@
 {
     "title": "Osananajimi no Yamabuki-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201678.jpg",
+        "alt": "osananajimi-no-yamabuki-san"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "10",

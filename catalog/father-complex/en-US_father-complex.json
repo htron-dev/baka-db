@@ -1,5 +1,9 @@
 {
     "title": "Father Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/41700.jpg",
+        "alt": "father-complex"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

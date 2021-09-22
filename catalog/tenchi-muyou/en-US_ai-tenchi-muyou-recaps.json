@@ -1,5 +1,9 @@
 {
     "title": "Ai Tenchi Muyou! Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/70135.jpg",
+        "alt": "ai-tenchi-muyou-recaps"
+    },
     "type": "special",
     "episodes": "10",
     "original_name": "愛・天地無用! 振り返り",

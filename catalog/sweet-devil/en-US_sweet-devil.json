@@ -1,5 +1,9 @@
 {
     "title": "Sweet Devil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16804.jpg",
+        "alt": "sweet-devil"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

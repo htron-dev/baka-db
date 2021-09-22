@@ -1,12 +1,16 @@
 {
     "title": "Shounan Bakusouzoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/69945.jpg",
+        "alt": "shounan-bakusouzoku"
+    },
     "type": "ova",
     "episodes": "12",
     "original_name": "湘南爆走族",
     "start_date": "1986-09-10",
     "end_date": "1986-09-10",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Let's Go Nice Knight (Let's go nice 騎士(ナイト))\" by Shou",
+    "ending_song": "#01: \"Shounan Bakusouzoku (湘南暴走族)\" by Shou",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

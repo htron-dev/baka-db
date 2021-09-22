@@ -1,5 +1,9 @@
 {
     "title": "Yawara no Michelangelo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201602.jpg",
+        "alt": "yawara-no-michelangelo"
+    },
     "type": "manga",
     "original_name": "柔のミケランジェロ",
     "start_date": "2017-10-06",

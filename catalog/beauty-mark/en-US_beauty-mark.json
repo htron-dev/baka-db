@@ -1,5 +1,9 @@
 {
     "title": "Beauty Mark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243962.jpg",
+        "alt": "beauty-mark"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

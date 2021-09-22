@@ -1,5 +1,9 @@
 {
     "title": "Second Brain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123383.jpg",
+        "alt": "second-brain"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

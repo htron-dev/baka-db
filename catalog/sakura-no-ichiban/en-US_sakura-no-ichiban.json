@@ -1,5 +1,9 @@
 {
     "title": "Sakura no Ichiban!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/32274.jpg",
+        "alt": "sakura-no-ichiban"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

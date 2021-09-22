@@ -1,5 +1,9 @@
 {
     "title": "Fuuzokujou Debut Shimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193716.jpg",
+        "alt": "fuuzokujou-debut-shimashita"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Tenshou Gakuen Gekkouroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30441.jpg",
+        "alt": "tenshou-gakuen-gekkouroku"
+    },
     "type": "manga",
     "original_name": "転生學園月光録",
     "tags": [

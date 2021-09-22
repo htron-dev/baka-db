@@ -1,12 +1,16 @@
 {
     "title": "Kirakira Happy★Hirake! Cocotama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1742/93170.jpg",
+        "alt": "kirakira-happy★-hirake-cocotama"
+    },
     "type": "tv-serie",
     "episodes": "55",
     "original_name": "キラキラハッピー ★ ひらけ! ここたま",
     "start_date": "2018-09-06",
     "end_date": "2018-09-06",
     "opening_song": "\"Himitsu no Kagi, Cocotama! (ヒミツのカギ、ここたま！)\" by Haruka Hoshinokawa (Minami Takahashi), Ribbon (Inori Minase), Pillow (Mariya Ise), Chako (Emiri Iwai)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Cocotama Sagaso! Mi~tsukketa♪ (ここたまさがそっ！み～つっけた ♪)\" by Kaoru Masaki",
     "rating": "PG - Children",
     "tags": [
         "slice-of-life",

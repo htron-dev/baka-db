@@ -1,5 +1,9 @@
 {
     "title": "Kiss no Mukou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2570.jpg",
+        "alt": "kiss-no-mukou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

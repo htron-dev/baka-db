@@ -1,11 +1,15 @@
 {
     "title": "One Room",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/83777.jpg",
+        "alt": "one-room"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "One Room (ワンルーム)",
     "start_date": "2017-01-11",
     "end_date": "2017-01-11",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Harumachi Clover (春待ちクローバー)\" by Yui Hanasaka (Mao Ichimichi) (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life"

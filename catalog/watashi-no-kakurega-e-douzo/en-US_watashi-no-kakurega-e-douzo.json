@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Kakurega e Douzo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19849.jpg",
+        "alt": "watashi-no-kakurega-e-douzo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

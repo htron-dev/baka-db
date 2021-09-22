@@ -1,5 +1,9 @@
 {
     "title": "See You Later, Mermaid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228676.jpg",
+        "alt": "see-you-later-mermaid"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

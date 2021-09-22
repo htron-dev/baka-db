@@ -1,5 +1,9 @@
 {
     "title": "Naqua-den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163096.jpg",
+        "alt": "naqua-den"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "25",

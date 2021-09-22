@@ -1,5 +1,9 @@
 {
     "title": "Genjuu no Sougaku Kishidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235585.jpg",
+        "alt": "genjuu-no-sougaku-kishidan"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "17",

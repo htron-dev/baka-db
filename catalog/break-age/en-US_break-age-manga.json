@@ -1,5 +1,9 @@
 {
     "title": "Break-Age",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/102695.jpg",
+        "alt": "break-age"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "62",

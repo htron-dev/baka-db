@@ -1,5 +1,9 @@
 {
     "title": "Run &amp; Roll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/81091.jpg",
+        "alt": "run-amp-roll"
+    },
     "type": "movie",
     "episodes": "1",
     "start_date": "2013-01-20",

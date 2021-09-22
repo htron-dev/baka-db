@@ -1,5 +1,9 @@
 {
     "title": "PP a la Carte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16791.jpg",
+        "alt": "pp-a-la-carte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

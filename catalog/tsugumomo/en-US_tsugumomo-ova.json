@@ -1,5 +1,9 @@
 {
     "title": "Tsugumomo OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1269/110128.jpg",
+        "alt": "tsugumomo-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "つぐもも OVA",

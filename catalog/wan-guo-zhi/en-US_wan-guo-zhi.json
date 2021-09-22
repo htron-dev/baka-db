@@ -1,5 +1,9 @@
 {
     "title": "Wan Guo Zhi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1835/105725.jpg",
+        "alt": "wan-guo-zhi"
+    },
     "type": "ona",
     "episodes": "16",
     "original_name": "万国志",

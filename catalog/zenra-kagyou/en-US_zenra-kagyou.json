@@ -1,5 +1,9 @@
 {
     "title": "Zenra Kagyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245353.jpg",
+        "alt": "zenra-kagyou"
+    },
     "type": "manga",
     "original_name": "全裸稼業",
     "start_date": "2020-05-14",

@@ -1,5 +1,9 @@
 {
     "title": "Z/X: Code Reunion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215191.jpg",
+        "alt": "z-x-code-reunion"
+    },
     "type": "manga",
     "original_name": "Z/X Code Reunion",
     "start_date": "2017-09-21",

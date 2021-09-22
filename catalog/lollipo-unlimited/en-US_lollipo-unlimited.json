@@ -1,5 +1,9 @@
 {
     "title": "Lollipo Unlimited",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9960.jpg",
+        "alt": "lollipo-unlimited"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "ろりぽ ∞",

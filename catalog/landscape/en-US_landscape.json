@@ -1,5 +1,9 @@
 {
     "title": "Landscape",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/74281.jpg",
+        "alt": "landscape"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "LANDSCAPE",

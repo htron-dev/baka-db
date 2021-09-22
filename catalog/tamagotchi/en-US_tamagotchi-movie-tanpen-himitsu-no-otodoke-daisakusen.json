@@ -1,5 +1,9 @@
 {
     "title": "Tamagotchi Movie: Tanpen Himitsu no Otodoke Daisakusen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/82642.jpg",
+        "alt": "tamagotchi-movie-tanpen-himitsu-no-otodoke-daisakusen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画たまごっち　ヒミツのおとどけ大作戦!",

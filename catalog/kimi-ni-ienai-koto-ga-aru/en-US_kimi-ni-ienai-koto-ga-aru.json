@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Ienai Koto ga Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226876.jpg",
+        "alt": "kimi-ni-ienai-koto-ga-aru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

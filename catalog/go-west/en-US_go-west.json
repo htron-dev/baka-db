@@ -1,5 +1,9 @@
 {
     "title": "Go West!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31441.jpg",
+        "alt": "go-west"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

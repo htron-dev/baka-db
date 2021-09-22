@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Aroe Yohou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23128.jpg",
+        "alt": "kimi-ni-aroe-yohou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "君にあろえ予報！",

@@ -1,5 +1,9 @@
 {
     "title": "Sprite Spiegel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158634.jpg",
+        "alt": "sprite-spiegel"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "27",

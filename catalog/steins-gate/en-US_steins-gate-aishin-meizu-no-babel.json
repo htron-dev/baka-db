@@ -1,5 +1,9 @@
 {
     "title": "Steins;Gate: Aishin Meizu no Babel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/84307.jpg",
+        "alt": "steins-gate-aishin-meizu-no-babel"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

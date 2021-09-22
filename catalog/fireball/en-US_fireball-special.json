@@ -1,5 +1,9 @@
 {
     "title": "Fireball Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/29365.jpg",
+        "alt": "fireball-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "メイキングオブファイアボール",
@@ -25,7 +29,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Fireball_(anime"
+            "link": "http://en.wikipedia.org/wiki/Fireball_%28anime%29"
         }
     ]
 }

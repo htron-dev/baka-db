@@ -1,5 +1,9 @@
 {
     "title": "...Virgin Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73505.jpg",
+        "alt": "virgin-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Tamamo no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244546.jpg",
+        "alt": "tamamo-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

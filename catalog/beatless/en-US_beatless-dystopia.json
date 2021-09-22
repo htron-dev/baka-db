@@ -1,5 +1,9 @@
 {
     "title": "Beatless: Dystopia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112473.jpg",
+        "alt": "beatless-dystopia"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

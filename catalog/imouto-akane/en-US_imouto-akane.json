@@ -1,5 +1,9 @@
 {
     "title": "Imouto: Akane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15350.jpg",
+        "alt": "imouto-akane"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "148",

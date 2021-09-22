@@ -1,5 +1,9 @@
 {
     "title": "Hajimete, Koi, shita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151921.jpg",
+        "alt": "hajimete-koi-shita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

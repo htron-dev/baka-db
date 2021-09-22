@@ -1,5 +1,9 @@
 {
     "title": "Ajin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/87801.jpg",
+        "alt": "ajin"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "84",

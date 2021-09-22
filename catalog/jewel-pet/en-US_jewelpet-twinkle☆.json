@@ -1,5 +1,9 @@
 {
     "title": "Jewelpet Twinkle☆",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/73943.jpg",
+        "alt": "jewelpet-twinkle☆"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ジュエルペット てぃんくる ☆",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Jewelpet_(anime"
+            "link": "http://en.wikipedia.org/wiki/Jewelpet_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "The Monkey King Conquers the Demon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/26077.jpg",
+        "alt": "the-monkey-king-conquers-the-demon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "金猴降妖",

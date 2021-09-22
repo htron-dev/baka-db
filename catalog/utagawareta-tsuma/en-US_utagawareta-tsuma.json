@@ -1,5 +1,9 @@
 {
     "title": "Utagawareta Tsuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230090.jpg",
+        "alt": "utagawareta-tsuma"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "疑われた妻",

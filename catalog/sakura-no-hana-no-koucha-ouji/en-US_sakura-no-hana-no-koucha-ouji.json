@@ -1,5 +1,9 @@
 {
     "title": "Sakura no Hana no Koucha Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169813.jpg",
+        "alt": "sakura-no-hana-no-koucha-ouji"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "55",

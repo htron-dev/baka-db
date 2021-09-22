@@ -1,5 +1,9 @@
 {
     "title": "Torokeru You ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148797.jpg",
+        "alt": "torokeru-you-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

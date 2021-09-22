@@ -1,5 +1,9 @@
 {
     "title": "Blood+: Yakou Joushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33946.jpg",
+        "alt": "blood-yakou-joushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

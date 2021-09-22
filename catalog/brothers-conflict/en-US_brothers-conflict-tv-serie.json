@@ -1,5 +1,9 @@
 {
     "title": "Brothers Conflict",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/51409.jpg",
+        "alt": "brothers-conflict"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "BROTHERS CONFLICT",

@@ -1,5 +1,9 @@
 {
     "title": "Short Cake Cake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176987.jpg",
+        "alt": "short-cake-cake"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "67",

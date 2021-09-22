@@ -1,5 +1,9 @@
 {
     "title": "Awajima Hyakkei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154640.jpg",
+        "alt": "awajima-hyakkei"
+    },
     "type": "manga",
     "original_name": "淡島百景",
     "start_date": "2011-06-07",

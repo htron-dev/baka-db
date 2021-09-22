@@ -1,5 +1,9 @@
 {
     "title": "Hanazono-san, Kekkon suru n Datte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241262.jpg",
+        "alt": "hanazono-san-kekkon-suru-n-datte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

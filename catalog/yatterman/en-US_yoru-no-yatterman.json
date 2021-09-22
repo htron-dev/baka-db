@@ -1,12 +1,16 @@
 {
     "title": "Yoru no Yatterman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/71773.jpg",
+        "alt": "yoru-no-yatterman"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "夜ノヤッターマン",
     "start_date": "2015-01-11",
     "end_date": "2015-01-11",
     "opening_song": "\"Kyokugen Dreamer (極限 Dreamer)\" by SCREEN mode (eps 2-)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kyokugen Dreamer (極限 Dreamer)\" by SCREEN mode (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

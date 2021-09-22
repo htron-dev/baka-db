@@ -1,5 +1,9 @@
 {
     "title": "Stainless Steel Armadillo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29628.jpg",
+        "alt": "stainless-steel-armadillo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Ai wa Noroi no Nihon Ningyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23173.jpg",
+        "alt": "ai-wa-noroi-no-nihon-ningyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

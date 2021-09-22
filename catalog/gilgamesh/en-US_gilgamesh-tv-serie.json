@@ -1,12 +1,16 @@
 {
     "title": "Gilgamesh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/6640.jpg",
+        "alt": "gilgamesh"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ギルガメッシュ",
     "start_date": "2003-11-02",
     "end_date": "2003-11-02",
     "opening_song": "\"Crazy 4U\" by Kumi Kouda",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Wasuremono no Mori\" by Yuko Ando (ep 2-25)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "drama",

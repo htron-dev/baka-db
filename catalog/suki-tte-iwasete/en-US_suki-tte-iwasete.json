@@ -1,5 +1,9 @@
 {
     "title": "Suki tte Iwasete?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/130161.jpg",
+        "alt": "suki-tte-iwasete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

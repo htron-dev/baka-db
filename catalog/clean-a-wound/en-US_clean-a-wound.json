@@ -1,5 +1,9 @@
 {
     "title": "Clean a Wound",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28923.jpg",
+        "alt": "clean-a-wound"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

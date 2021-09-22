@@ -1,5 +1,9 @@
 {
     "title": "Tanoshiku na Kayoku Yasashiku ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/43467.jpg",
+        "alt": "tanoshiku-na-kayoku-yasashiku-ne"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "たのしくなかよくやさしくね",

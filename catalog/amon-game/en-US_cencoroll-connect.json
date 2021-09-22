@@ -1,5 +1,9 @@
 {
     "title": "Cencoroll Connect",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1454/99902.jpg",
+        "alt": "cencoroll-connect"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "センコロール",

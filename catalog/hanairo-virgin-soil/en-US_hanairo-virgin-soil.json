@@ -1,5 +1,9 @@
 {
     "title": "Hanairo Virgin Soil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30168.jpg",
+        "alt": "hanairo-virgin-soil"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

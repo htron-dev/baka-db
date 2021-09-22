@@ -1,5 +1,9 @@
 {
     "title": "DearS: Kin no Tama Desu no?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/83451.jpg",
+        "alt": "dear-s-kin-no-tama-desu-no"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "金の玉ですの？",

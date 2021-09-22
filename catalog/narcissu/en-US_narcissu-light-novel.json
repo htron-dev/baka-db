@@ -1,5 +1,9 @@
 {
     "title": "Narcissu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124893.jpg",
+        "alt": "narcissu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

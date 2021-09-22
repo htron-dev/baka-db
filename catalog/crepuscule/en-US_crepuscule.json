@@ -1,5 +1,9 @@
 {
     "title": "Crepuscule",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189103.jpg",
+        "alt": "crepuscule"
+    },
     "type": "manhwa",
     "chapters": "253",
     "original_name": "크리퍼스큘",

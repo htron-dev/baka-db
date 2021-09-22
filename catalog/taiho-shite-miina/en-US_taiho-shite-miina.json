@@ -1,5 +1,9 @@
 {
     "title": "Taiho Shite Miina!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9603.jpg",
+        "alt": "taiho-shite-miina"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "タイホしてみ～な！",

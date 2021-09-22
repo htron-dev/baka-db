@@ -1,5 +1,9 @@
 {
     "title": "Koi toka Ai toka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152547.jpg",
+        "alt": "koi-toka-ai-toka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

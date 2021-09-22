@@ -1,5 +1,9 @@
 {
     "title": "Okaasan Switch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246468.jpg",
+        "alt": "okaasan-switch"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "41",

@@ -1,5 +1,9 @@
 {
     "title": "Pac-World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75298.jpg",
+        "alt": "pac-world"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "パックワールド",

@@ -1,5 +1,9 @@
 {
     "title": "Usokon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223449.jpg",
+        "alt": "usokon"
+    },
     "type": "manga",
     "original_name": "ウソ婚",
     "start_date": "2017-09-01",

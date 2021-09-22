@@ -1,5 +1,9 @@
 {
     "title": "DIY Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/30340.jpg",
+        "alt": "diy-girl"
+    },
     "type": "manhwa",
     "original_name": "디아이와이 걸",
     "tags": [

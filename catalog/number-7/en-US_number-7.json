@@ -1,5 +1,9 @@
 {
     "title": "Number 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84379.jpg",
+        "alt": "number-7"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "13",

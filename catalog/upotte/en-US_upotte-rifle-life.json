@@ -1,5 +1,9 @@
 {
     "title": "Upotte!! Rifle Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162577.jpg",
+        "alt": "upotte-rifle-life"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Therapy Game: Restart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239827.jpg",
+        "alt": "therapy-game-restart"
+    },
     "type": "manga",
     "original_name": "セラピーゲーム リスタート",
     "start_date": "2019-10-12",

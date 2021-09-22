@@ -1,5 +1,9 @@
 {
     "title": "Marvelous Twins",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85571.jpg",
+        "alt": "marvelous-twins"
+    },
     "type": "manga",
     "chapters": "7",
     "original_name": "マーベラス・ツインズ",

@@ -1,5 +1,9 @@
 {
     "title": "Ninja Senshi Tobikage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/20897.jpg",
+        "alt": "ninja-senshi-tobikage"
+    },
     "type": "tv-serie",
     "episodes": "43",
     "original_name": "忍者戦士飛影",

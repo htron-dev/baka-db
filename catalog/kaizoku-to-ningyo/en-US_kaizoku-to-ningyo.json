@@ -1,5 +1,9 @@
 {
     "title": "Kaizoku to Ningyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19758.jpg",
+        "alt": "kaizoku-to-ningyo"
+    },
     "type": "manga",
     "original_name": "海賊と人魚",
     "start_date": "2007-12-19",

@@ -1,5 +1,9 @@
 {
     "title": "Niji no Ikusa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229112.jpg",
+        "alt": "niji-no-ikusa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

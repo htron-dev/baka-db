@@ -1,5 +1,9 @@
 {
     "title": "Senseitte Yobanaide!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10901.jpg",
+        "alt": "senseitte-yobanaide"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "先生って呼ばないで!",

@@ -1,5 +1,9 @@
 {
     "title": "Four Cours After",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204509.jpg",
+        "alt": "four-cours-after"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "40",

@@ -1,5 +1,9 @@
 {
     "title": "Hakusei no Gallop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199908.jpg",
+        "alt": "hakusei-no-gallop"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

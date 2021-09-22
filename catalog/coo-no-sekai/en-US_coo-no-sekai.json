@@ -1,5 +1,9 @@
 {
     "title": "Coo no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138589.jpg",
+        "alt": "coo-no-sekai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

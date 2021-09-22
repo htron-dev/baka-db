@@ -1,5 +1,9 @@
 {
     "title": "Sweet Bitter Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28725.jpg",
+        "alt": "sweet-bitter-love"
+    },
     "type": "manhwa",
     "volumes": "10",
     "tags": [

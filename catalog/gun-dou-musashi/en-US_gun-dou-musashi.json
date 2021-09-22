@@ -1,12 +1,16 @@
 {
     "title": "Gun-dou Musashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/28268.jpg",
+        "alt": "gun-dou-musashi"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "GUN 道 MUSASHI",
     "start_date": "2006-04-09",
     "end_date": "2006-04-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"GHOST BUSTERZ\" by ULTRA BRAiN (eps 1-14)",
+    "ending_song": "#1: \"STYLE\" by kimeru (eps 1-14)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

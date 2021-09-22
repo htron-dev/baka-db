@@ -1,5 +1,9 @@
 {
     "title": "Guild wa Honjitsu mo Heiwa nari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187886.jpg",
+        "alt": "guild-wa-honjitsu-mo-heiwa-nari"
+    },
     "type": "light-novel",
     "original_name": "ギルドは本日も平和なり",
     "start_date": "2016-12-28",

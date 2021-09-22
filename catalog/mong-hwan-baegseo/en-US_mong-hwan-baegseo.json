@@ -1,5 +1,9 @@
 {
     "title": "Mong Hwan Baegseo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/41578.jpg",
+        "alt": "mong-hwan-baegseo"
+    },
     "type": "manhwa",
     "volumes": "20",
     "original_name": "몽환백서",

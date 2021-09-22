@@ -1,5 +1,9 @@
 {
     "title": "Taiyo Made 3M",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9730.jpg",
+        "alt": "taiyo-made-3-m"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

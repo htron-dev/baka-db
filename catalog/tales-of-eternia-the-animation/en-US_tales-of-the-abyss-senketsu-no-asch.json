@@ -1,5 +1,9 @@
 {
     "title": "Tales of the Abyss: Senketsu no Asch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148301.jpg",
+        "alt": "tales-of-the-abyss-senketsu-no-asch"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

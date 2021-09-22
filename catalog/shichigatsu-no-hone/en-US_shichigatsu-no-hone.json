@@ -1,5 +1,9 @@
 {
     "title": "Shichigatsu No Hone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/60385.jpg",
+        "alt": "shichigatsu-no-hone"
+    },
     "type": "manga",
     "original_name": "七月の骨",
     "tags": [

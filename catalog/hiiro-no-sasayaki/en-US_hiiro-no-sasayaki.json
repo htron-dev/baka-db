@@ -1,5 +1,9 @@
 {
     "title": "Hiiro no Sasayaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38912.jpg",
+        "alt": "hiiro-no-sasayaki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "緋色の囁き",

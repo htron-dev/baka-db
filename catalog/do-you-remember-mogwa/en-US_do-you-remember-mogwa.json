@@ -1,5 +1,9 @@
 {
     "title": "Do You Remember, Mogwa?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/32758.jpg",
+        "alt": "do-you-remember-mogwa"
+    },
     "type": "manhwa",
     "volumes": "15",
     "tags": [

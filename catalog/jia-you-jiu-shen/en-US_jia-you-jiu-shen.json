@@ -1,5 +1,9 @@
 {
     "title": "Jia You Jiu Shen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1171/115486.jpg",
+        "alt": "jia-you-jiu-shen"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "家有酒神",

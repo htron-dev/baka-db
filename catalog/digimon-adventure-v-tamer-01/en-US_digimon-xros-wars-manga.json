@@ -1,5 +1,9 @@
 {
     "title": "Digimon Xros Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194129.jpg",
+        "alt": "digimon-xros-wars"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

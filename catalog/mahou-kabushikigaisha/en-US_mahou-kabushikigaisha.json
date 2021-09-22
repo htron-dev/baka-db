@@ -1,5 +1,9 @@
 {
     "title": "Mahou Kabushikigaisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11377.jpg",
+        "alt": "mahou-kabushikigaisha"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "魔法株式会社",

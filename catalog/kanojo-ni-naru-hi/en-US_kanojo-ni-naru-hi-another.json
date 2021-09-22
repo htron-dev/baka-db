@@ -1,5 +1,9 @@
 {
     "title": "Kanojo ni Naru Hi: Another",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184545.jpg",
+        "alt": "kanojo-ni-naru-hi-another"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

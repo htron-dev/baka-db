@@ -1,5 +1,9 @@
 {
     "title": "Usagi no Omocha wo Dakishimero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114287.jpg",
+        "alt": "usagi-no-omocha-wo-dakishimero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Hermès no Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12795.jpg",
+        "alt": "hermes-no-michi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "エルメスの道",

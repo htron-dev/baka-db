@@ -1,5 +1,9 @@
 {
     "title": "Kusuriya no Hitorigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176943.jpg",
+        "alt": "kusuriya-no-hitorigoto"
+    },
     "type": "light-novel",
     "original_name": "薬屋のひとりごと",
     "start_date": "2014-08-29",

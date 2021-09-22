@@ -1,5 +1,9 @@
 {
     "title": "Fight Class 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216673.jpg",
+        "alt": "fight-class-3"
+    },
     "type": "manhwa",
     "original_name": "격기 3 반",
     "start_date": "2016-08-15",

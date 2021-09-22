@@ -1,5 +1,9 @@
 {
     "title": "3-gatsu no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9245.jpg",
+        "alt": "3-gatsu-no-yume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

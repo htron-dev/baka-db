@@ -1,5 +1,9 @@
 {
     "title": "Musubaru Yakeato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228967.jpg",
+        "alt": "musubaru-yakeato"
+    },
     "type": "manga",
     "original_name": "結ばる焼け跡",
     "start_date": "2017-08-04",

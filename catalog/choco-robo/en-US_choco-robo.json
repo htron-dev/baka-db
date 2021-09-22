@@ -1,5 +1,9 @@
 {
     "title": "Choco Robo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220921.jpg",
+        "alt": "choco-robo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "46",

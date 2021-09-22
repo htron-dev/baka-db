@@ -1,5 +1,9 @@
 {
     "title": "Tegami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1642/98527.jpg",
+        "alt": "tegami"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "手紙",

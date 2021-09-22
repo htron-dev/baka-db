@@ -1,5 +1,9 @@
 {
     "title": "Taiyou no Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149086.jpg",
+        "alt": "taiyou-no-ie"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "53",

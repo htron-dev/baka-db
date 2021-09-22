@@ -1,12 +1,16 @@
 {
     "title": "Pikachin-Kit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/88334.jpg",
+        "alt": "pikachin-kit"
+    },
     "type": "tv-serie",
     "episodes": "115",
     "original_name": "ポチっと発明 ピカちんキット",
     "start_date": "2018-01-06",
     "end_date": "2018-01-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Pika☆Chin Time (ピカ ☆ ちんタイム)\" by Hajime Akira to Tsukumo-chan (Ichirou Itou & Shion Miyawaki) (はじめあきらとつくもちゃん（伊藤一朗と宮脇詩音）) (eps 1-65)",
+    "ending_song": "#1: \"Pika☆Chin Time (ピカ ☆ ちんタイム)\" by Hajime Akira to Tsukumo-chan (Ichirou Itou & Shion Miyawaki) (はじめあきらとつくもちゃん（伊藤一朗と宮脇詩音）) (eps 1-13, 66-115)",
     "rating": "PG - Children",
     "tags": [
         "sci-fi",

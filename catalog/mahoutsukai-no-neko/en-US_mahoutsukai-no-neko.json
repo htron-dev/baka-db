@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai no Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37344.jpg",
+        "alt": "mahoutsukai-no-neko"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "36",

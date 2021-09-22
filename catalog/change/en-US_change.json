@@ -1,5 +1,9 @@
 {
     "title": "Change!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207771.jpg",
+        "alt": "change"
+    },
     "type": "manga",
     "original_name": "Change!",
     "start_date": "2017-11-06",

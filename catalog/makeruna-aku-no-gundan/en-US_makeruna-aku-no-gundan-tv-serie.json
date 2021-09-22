@@ -1,11 +1,15 @@
 {
     "title": "Makeruna!! Aku no Gundan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/84731.jpg",
+        "alt": "makeruna-aku-no-gundan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "まけるな!! あくのぐんだん！",
     "start_date": "2017-04-05",
     "end_date": "2017-04-05",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Neba Neba Gippar (ねばねばぎっぱー)\" by Riho Iida & Mikoi Sasaki",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

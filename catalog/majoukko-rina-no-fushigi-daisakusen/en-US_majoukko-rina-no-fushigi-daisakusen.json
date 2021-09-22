@@ -1,5 +1,9 @@
 {
     "title": "Majoukko Rina no Fushigi Daisakusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186130.jpg",
+        "alt": "majoukko-rina-no-fushigi-daisakusen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

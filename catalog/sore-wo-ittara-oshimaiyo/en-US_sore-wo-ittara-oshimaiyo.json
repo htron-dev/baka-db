@@ -1,5 +1,9 @@
 {
     "title": "Sore wo Ittara Oshimaiyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30562.jpg",
+        "alt": "sore-wo-ittara-oshimaiyo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

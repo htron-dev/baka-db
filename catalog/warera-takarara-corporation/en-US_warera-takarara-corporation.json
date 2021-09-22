@@ -1,5 +1,9 @@
 {
     "title": "Warera Takarara Corporation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2492.jpg",
+        "alt": "warera-takarara-corporation"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

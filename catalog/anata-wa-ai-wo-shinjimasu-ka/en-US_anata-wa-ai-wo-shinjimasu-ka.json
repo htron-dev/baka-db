@@ -1,5 +1,9 @@
 {
     "title": "Anata wa Ai wo Shinjimasu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238917.jpg",
+        "alt": "anata-wa-ai-wo-shinjimasu-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

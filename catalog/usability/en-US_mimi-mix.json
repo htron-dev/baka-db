@@ -1,5 +1,9 @@
 {
     "title": "Mimi Mix!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196133.jpg",
+        "alt": "mimi-mix"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

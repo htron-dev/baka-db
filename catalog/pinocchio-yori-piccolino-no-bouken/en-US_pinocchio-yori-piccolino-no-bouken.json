@@ -1,12 +1,16 @@
 {
     "title": "Pinocchio yori Piccolino no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/60891.jpg",
+        "alt": "pinocchio-yori-piccolino-no-bouken"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ピノキオより ピコリーノの冒険",
     "start_date": "1976-04-27",
     "end_date": "1976-04-27",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Boku wa Picolino (ぼくはピコリーノ)\" by Kumiko Osugi, Young Fresh",
+    "ending_song": "#1: \"Olive no Kokage (オリーブの木陰)\" by Kumiko Osugi, Young Fresh",
     "rating": "G - All Ages",
     "tags": [
         "adventure"

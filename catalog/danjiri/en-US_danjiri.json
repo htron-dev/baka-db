@@ -1,5 +1,9 @@
 {
     "title": "Danjiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189511.jpg",
+        "alt": "danjiri"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "だんじり",

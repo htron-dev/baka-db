@@ -1,12 +1,16 @@
 {
     "title": "Yowamushi Pedal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/53211.jpg",
+        "alt": "yowamushi-pedal"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "弱虫ペダル",
     "start_date": "2013-10-08",
     "end_date": "2013-10-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Reclimb (リクライム)\" by ROOKiEZ is PUNK'D (eps 1-12)",
+    "ending_song": "#1: \"Kaze wo Yobe (風を呼べ)\" by Under Graph (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

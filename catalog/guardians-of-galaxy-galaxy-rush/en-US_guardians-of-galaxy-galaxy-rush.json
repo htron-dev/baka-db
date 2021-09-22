@@ -1,5 +1,9 @@
 {
     "title": "Guardians of Galaxy: Galaxy Rush",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207248.jpg",
+        "alt": "guardians-of-galaxy-galaxy-rush"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

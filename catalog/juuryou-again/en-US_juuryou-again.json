@@ -1,5 +1,9 @@
 {
     "title": "Juuryou Again",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227938.jpg",
+        "alt": "juuryou-again"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

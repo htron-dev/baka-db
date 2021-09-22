@@ -1,12 +1,16 @@
 {
     "title": "Sakura Momoko Gekijou: Coji-Coji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/6922.jpg",
+        "alt": "sakura-momoko-gekijou-coji-coji"
+    },
     "type": "tv-serie",
     "episodes": "100",
     "original_name": "さくらももこ劇場 コジコジ",
     "start_date": "1997-10-04",
     "end_date": "1997-10-04",
     "opening_song": "\"Coji-Coji Ginza\" by Hoff Dylan",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Pocket Cowboy (ポケット・カウボーイ)\" by Denki Groove (eps 1-66)",
     "rating": "G - All Ages",
     "tags": [
         "fantasy",

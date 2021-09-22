@@ -1,5 +1,9 @@
 {
     "title": "Hulaing Babies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1560/100533.jpg",
+        "alt": "hulaing-babies"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "フライングベイビーズ",

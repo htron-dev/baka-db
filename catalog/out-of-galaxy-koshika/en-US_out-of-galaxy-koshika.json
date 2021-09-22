@@ -1,5 +1,9 @@
 {
     "title": "Out of Galaxy Koshika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37117.jpg",
+        "alt": "out-of-galaxy-koshika"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Power Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2956.jpg",
+        "alt": "power-game"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

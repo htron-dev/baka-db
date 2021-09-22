@@ -1,5 +1,9 @@
 {
     "title": "Yousei Dick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/59719.jpg",
+        "alt": "yousei-dick"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "妖精ディック",

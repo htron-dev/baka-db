@@ -1,5 +1,9 @@
 {
     "title": "Ai yori Aoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184631.jpg",
+        "alt": "ai-yori-aoshi"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "153",

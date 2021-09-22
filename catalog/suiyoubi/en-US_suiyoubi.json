@@ -1,5 +1,9 @@
 {
     "title": "Suiyoubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123093.jpg",
+        "alt": "suiyoubi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "34",

@@ -1,5 +1,9 @@
 {
     "title": "Paperman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/85635.jpg",
+        "alt": "paperman"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ペーパーマン",

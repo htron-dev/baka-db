@@ -1,5 +1,9 @@
 {
     "title": "Shinkai Tsuzuri no Dokkairoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160892.jpg",
+        "alt": "shinkai-tsuzuri-no-dokkairoku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

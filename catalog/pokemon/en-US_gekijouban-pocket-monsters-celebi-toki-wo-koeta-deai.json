@@ -1,5 +1,9 @@
 {
     "title": "Gekijouban Pocket Monsters: Celebi - Toki wo Koeta Deai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/105215.jpg",
+        "alt": "gekijouban-pocket-monsters-celebi-toki-wo-koeta-deai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "劇場版 ポケットモンスター セレビィ 時を超えた遭遇（であい）",

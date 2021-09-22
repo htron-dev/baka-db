@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Football",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/43235.jpg",
+        "alt": "sayonara-football"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

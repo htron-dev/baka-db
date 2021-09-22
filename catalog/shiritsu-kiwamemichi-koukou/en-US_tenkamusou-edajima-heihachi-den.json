@@ -1,5 +1,9 @@
 {
     "title": "Tenkamusou: Edajima Heihachi Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174142.jpg",
+        "alt": "tenkamusou-edajima-heihachi-den"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "60",

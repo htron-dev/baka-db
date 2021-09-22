@@ -1,5 +1,9 @@
 {
     "title": "Sankaku Love Home",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168029.jpg",
+        "alt": "sankaku-love-home"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

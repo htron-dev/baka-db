@@ -1,5 +1,9 @@
 {
     "title": "Tennen Sozai de Ikou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83440.jpg",
+        "alt": "tennen-sozai-de-ikou"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "40",

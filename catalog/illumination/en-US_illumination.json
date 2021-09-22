@@ -1,5 +1,9 @@
 {
     "title": "Illumination",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21751.jpg",
+        "alt": "illumination"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Negai Kanae Tamae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/937.jpg",
+        "alt": "negai-kanae-tamae"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

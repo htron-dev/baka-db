@@ -1,5 +1,9 @@
 {
     "title": "World Apartment Horror",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29222.jpg",
+        "alt": "world-apartment-horror"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Dead or Strike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234078.jpg",
+        "alt": "dead-or-strike"
+    },
     "type": "manga",
     "original_name": "デッド・オア・ストライク",
     "start_date": "2015-06-30",

@@ -1,5 +1,9 @@
 {
     "title": "KuiTan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186700.jpg",
+        "alt": "kui-tan"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "116",

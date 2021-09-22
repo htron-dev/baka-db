@@ -1,5 +1,9 @@
 {
     "title": "Short Stories: Boy Meets Girl in Three Minutes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63611.jpg",
+        "alt": "short-stories-boy-meets-girl-in-three-minutes"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "19",

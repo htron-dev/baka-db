@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Koushounin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198241.jpg",
+        "alt": "gakuen-koushounin"
+    },
     "type": "light-novel",
     "original_name": "学園交渉人",
     "start_date": "2017-07-15",

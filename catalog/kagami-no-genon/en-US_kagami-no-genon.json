@@ -1,5 +1,9 @@
 {
     "title": "Kagami no Genon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/7467.jpg",
+        "alt": "kagami-no-genon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "かがみのげんおん",

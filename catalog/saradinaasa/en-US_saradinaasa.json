@@ -1,5 +1,9 @@
 {
     "title": "Saradinaasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33277.jpg",
+        "alt": "saradinaasa"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "サラディナーサ",

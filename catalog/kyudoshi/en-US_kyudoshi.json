@@ -1,5 +1,9 @@
 {
     "title": "Kyudoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113529.jpg",
+        "alt": "kyudoshi"
+    },
     "type": "manga",
     "original_name": "弓導士",
     "start_date": "2011-02-25",

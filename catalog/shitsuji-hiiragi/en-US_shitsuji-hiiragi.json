@@ -1,5 +1,9 @@
 {
     "title": "Shitsuji Hiiragi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19890.jpg",
+        "alt": "shitsuji-hiiragi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "執事・柊",

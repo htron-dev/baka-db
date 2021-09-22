@@ -1,5 +1,9 @@
 {
     "title": "Hitsugi Tantei D&amp;W",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/141683.jpg",
+        "alt": "hitsugi-tantei-d-amp-w"
+    },
     "type": "manga",
     "original_name": "棺探偵 D&W",
     "start_date": "2012-11-19",

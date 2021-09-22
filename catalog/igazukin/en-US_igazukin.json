@@ -1,5 +1,9 @@
 {
     "title": "Igazukin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9217.jpg",
+        "alt": "igazukin"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "伊賀ずきん",

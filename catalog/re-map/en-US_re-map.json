@@ -1,8 +1,12 @@
 {
     "title": "RE:Map",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/82092.jpg",
+        "alt": "re-map"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "RE",
+    "original_name": "RE:Map（リマップ）",
     "start_date": "2008-08-29",
     "rating": "G - All Ages",
     "tags": [

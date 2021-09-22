@@ -1,5 +1,9 @@
 {
     "title": "Futatsu no Kurumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/18829.jpg",
+        "alt": "futatsu-no-kurumi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ふたつの胡桃",

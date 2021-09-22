@@ -1,12 +1,16 @@
 {
     "title": "Fruits Basket 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+        "alt": "fruits-basket-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "フルーツバスケット 2nd season",
     "start_date": "2020-04-07",
     "end_date": "2020-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Prism\" by AmPm ft. Miyuna (eps 1-13)",
+    "ending_song": "#1: \"ad meliora\" by THE CHARM PARK (eps 1-6, 8-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Tsugai ni Naru made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226560.jpg",
+        "alt": "kimi-ga-tsugai-ni-naru-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

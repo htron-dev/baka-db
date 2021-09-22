@@ -1,5 +1,9 @@
 {
     "title": "Brave 10 Spiral",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161252.jpg",
+        "alt": "brave-10-spiral"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "48",

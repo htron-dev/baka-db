@@ -1,5 +1,9 @@
 {
     "title": "Kyokutou Basilisk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21330.jpg",
+        "alt": "kyokutou-basilisk"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Liling-Po",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11011.jpg",
+        "alt": "liling-po"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "51",

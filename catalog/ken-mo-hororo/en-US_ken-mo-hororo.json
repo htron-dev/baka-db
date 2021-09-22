@@ -1,5 +1,9 @@
 {
     "title": "Ken mo Hororo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233656.jpg",
+        "alt": "ken-mo-hororo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "75",

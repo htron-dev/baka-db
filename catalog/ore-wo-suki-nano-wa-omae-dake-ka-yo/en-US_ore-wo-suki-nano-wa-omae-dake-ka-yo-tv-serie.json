@@ -1,5 +1,9 @@
 {
     "title": "Ore wo Suki nano wa Omae dake ka yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1348/102797.jpg",
+        "alt": "ore-wo-suki-nano-wa-omae-dake-ka-yo"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "俺を好きなのはお前だけかよ",

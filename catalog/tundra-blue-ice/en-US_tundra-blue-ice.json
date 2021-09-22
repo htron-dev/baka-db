@@ -1,5 +1,9 @@
 {
     "title": "Tundra Blue Ice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131877.jpg",
+        "alt": "tundra-blue-ice"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ツンドラブルーアイス",

@@ -1,5 +1,9 @@
 {
     "title": "Chanbara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66195.jpg",
+        "alt": "chanbara"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "チャンバラ 一撃小僧隼十",

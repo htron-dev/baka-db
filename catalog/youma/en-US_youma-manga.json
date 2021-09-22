@@ -1,5 +1,9 @@
 {
     "title": "Youma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30709.jpg",
+        "alt": "youma"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "妖魔",

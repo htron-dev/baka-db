@@ -1,5 +1,9 @@
 {
     "title": "Futari no Derby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195622.jpg",
+        "alt": "futari-no-derby"
+    },
     "type": "manga",
     "original_name": "ふたりのダービー",
     "start_date": "2016-12-26",

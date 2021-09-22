@@ -1,5 +1,9 @@
 {
     "title": "Howagura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14281.jpg",
+        "alt": "howagura"
+    },
     "type": "manga",
     "original_name": "ほわグラ",
     "start_date": "2008-07-20",

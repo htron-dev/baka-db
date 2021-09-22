@@ -1,5 +1,9 @@
 {
     "title": "Momochi-san Chi no Ayakashi Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153291.jpg",
+        "alt": "momochi-san-chi-no-ayakashi-ouji"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "67",

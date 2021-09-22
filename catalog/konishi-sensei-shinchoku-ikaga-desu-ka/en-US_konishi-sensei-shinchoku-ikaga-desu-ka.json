@@ -1,5 +1,9 @@
 {
     "title": "Konishi-sensei, Shinchoku Ikaga desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226148.jpg",
+        "alt": "konishi-sensei-shinchoku-ikaga-desu-ka"
+    },
     "type": "manga",
     "original_name": "小西先生、進捗いかがですか?",
     "start_date": "2020-01-22",

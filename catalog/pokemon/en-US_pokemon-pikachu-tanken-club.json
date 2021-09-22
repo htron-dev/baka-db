@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Pikachu Tanken Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/18114.jpg",
+        "alt": "pokemon-pikachu-tanken-club"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ピカチュウたんけんクラブ",

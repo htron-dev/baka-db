@@ -1,5 +1,9 @@
 {
     "title": "Suspicion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175747.jpg",
+        "alt": "suspicion"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "サスピション",

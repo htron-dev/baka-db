@@ -1,5 +1,9 @@
 {
     "title": "The Ring 0: Birthday",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3422.jpg",
+        "alt": "the-ring-0-birthday"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

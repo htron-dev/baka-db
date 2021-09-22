@@ -1,12 +1,16 @@
 {
     "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75376.jpg",
+        "alt": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-zoku"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "やはり俺の青春ラブコメはまちがっている。続",
     "start_date": "2015-04-03",
     "end_date": "2015-04-03",
     "opening_song": "\"Harumodoki (春擬き)\" by Nagi Yanagi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Everyday World (エブリデイワールド)\" by Yukino Yukinoshita (Saori Hayami) & Yui Yuigahama (Nao Touyama) (eps 1-6, 8-11, 13; BD/DVD: eps 1-3, 5-6, 8-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

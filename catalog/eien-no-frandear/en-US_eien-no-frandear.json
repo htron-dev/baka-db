@@ -1,5 +1,9 @@
 {
     "title": "Eien no Frandear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191237.jpg",
+        "alt": "eien-no-frandear"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

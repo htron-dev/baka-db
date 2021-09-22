@@ -1,5 +1,9 @@
 {
     "title": "Hug tto! Precure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226995.jpg",
+        "alt": "hug-tto-precure"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

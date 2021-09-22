@@ -1,12 +1,16 @@
 {
     "title": "Kaze ga Tsuyoku Fuiteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1692/93918.jpg",
+        "alt": "kaze-ga-tsuyoku-fuiteiru"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "風が強く吹いている",
     "start_date": "2018-10-03",
     "end_date": "2018-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Catch up, latency\" by UNISON SQUARE GARDEN",
+    "ending_song": "#1: \"Reset (リセット)\" by Taichi Mukai (向井太一)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

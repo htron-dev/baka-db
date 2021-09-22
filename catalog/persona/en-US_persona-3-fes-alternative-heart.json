@@ -1,5 +1,9 @@
 {
     "title": "Persona 3 FES: Alternative Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127029.jpg",
+        "alt": "persona-3-fes-alternative-heart"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ペルソナ 3 フェス〜Alternative Heart〜",

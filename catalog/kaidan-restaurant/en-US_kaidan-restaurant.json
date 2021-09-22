@@ -1,5 +1,9 @@
 {
     "title": "Kaidan Restaurant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/17905.jpg",
+        "alt": "kaidan-restaurant"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "怪談レストラン",

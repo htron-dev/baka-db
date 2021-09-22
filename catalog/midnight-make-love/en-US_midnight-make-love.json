@@ -1,5 +1,9 @@
 {
     "title": "Midnight Make Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203979.jpg",
+        "alt": "midnight-make-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

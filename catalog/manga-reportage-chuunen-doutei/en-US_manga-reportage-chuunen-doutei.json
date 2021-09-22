@@ -1,5 +1,9 @@
 {
     "title": "Manga Reportage: Chuunen Doutei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222083.jpg",
+        "alt": "manga-reportage-chuunen-doutei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Saga: Fuuma Fuujin Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152372.jpg",
+        "alt": "sengoku-saga-fuuma-fuujin-den"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Dragon Roars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32299.jpg",
+        "alt": "dragon-roars"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

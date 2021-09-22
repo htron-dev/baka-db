@@ -1,5 +1,9 @@
 {
     "title": "Hone no Oto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30815.jpg",
+        "alt": "hone-no-oto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

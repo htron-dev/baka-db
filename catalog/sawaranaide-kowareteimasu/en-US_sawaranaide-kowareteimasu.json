@@ -1,5 +1,9 @@
 {
     "title": "Sawaranaide, Kowareteimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164631.jpg",
+        "alt": "sawaranaide-kowareteimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Senpai, Sore Hitokuchi Kudasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188939.jpg",
+        "alt": "senpai-sore-hitokuchi-kudasai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "34",

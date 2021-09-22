@@ -1,5 +1,9 @@
 {
     "title": "Momo Raba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41196.jpg",
+        "alt": "momo-raba"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

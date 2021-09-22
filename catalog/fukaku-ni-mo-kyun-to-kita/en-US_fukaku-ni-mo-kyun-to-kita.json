@@ -1,5 +1,9 @@
 {
     "title": "Fukaku ni mo Kyun to Kita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211058.jpg",
+        "alt": "fukaku-ni-mo-kyun-to-kita"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

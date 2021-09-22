@@ -1,5 +1,9 @@
 {
     "title": "Buddy Spirits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114833.jpg",
+        "alt": "buddy-spirits"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "Time Driver: Bokura ga Kaita Mirai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/89197.jpg",
+        "alt": "time-driver-bokura-ga-kaita-mirai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "TIME DRIVER 僕らが描いた未来",

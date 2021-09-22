@@ -1,5 +1,9 @@
 {
     "title": "Akuma to Dolce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6317.jpg",
+        "alt": "akuma-to-dolce"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

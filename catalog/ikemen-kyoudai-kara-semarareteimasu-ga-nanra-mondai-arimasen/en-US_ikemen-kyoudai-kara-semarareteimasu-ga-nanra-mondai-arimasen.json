@@ -1,5 +1,9 @@
 {
     "title": "Ikemen Kyoudai kara Semarareteimasu ga Nanra Mondai Arimasen.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192709.jpg",
+        "alt": "ikemen-kyoudai-kara-semarareteimasu-ga-nanra-mondai-arimasen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

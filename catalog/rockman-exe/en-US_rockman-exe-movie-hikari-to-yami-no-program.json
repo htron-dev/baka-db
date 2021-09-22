@@ -1,8 +1,12 @@
 {
     "title": "Rockman.EXE Movie: Hikari to Yami no Program",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2203.jpg",
+        "alt": "rockman-exe-movie-hikari-to-yami-no-program"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "劇場版 ロックマン エグゼ",
+    "original_name": "劇場版 ロックマン エグゼ: 光と闇の遺産",
     "start_date": "2005-03-12",
     "opening_song": "\"Be Somewhere\" by Buzy",
     "rating": "PG - Children",

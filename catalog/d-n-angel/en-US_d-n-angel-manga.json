@@ -1,5 +1,9 @@
 {
     "title": "D.N.Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145023.jpg",
+        "alt": "d-n-angel"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "108",

@@ -1,5 +1,9 @@
 {
     "title": "Global Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/39060.jpg",
+        "alt": "global-garden"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "40",

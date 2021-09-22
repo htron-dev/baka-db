@@ -1,5 +1,9 @@
 {
     "title": "Bannou Kanteishi Q no Suirigeki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/107617.jpg",
+        "alt": "bannou-kanteishi-q-no-suirigeki"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "125",

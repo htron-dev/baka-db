@@ -1,5 +1,9 @@
 {
     "title": "Yakyuu no Hoshi Metman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/214542.jpg",
+        "alt": "yakyuu-no-hoshi-metman"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

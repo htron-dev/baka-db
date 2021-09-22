@@ -1,5 +1,9 @@
 {
     "title": "Ranpo Kitan: Game of Laplace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/79565.jpg",
+        "alt": "ranpo-kitan-game-of-laplace"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "乱歩奇譚 Game of Laplace",

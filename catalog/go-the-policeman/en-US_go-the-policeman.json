@@ -1,5 +1,9 @@
 {
     "title": "Go! The Policeman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18241.jpg",
+        "alt": "go-the-policeman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

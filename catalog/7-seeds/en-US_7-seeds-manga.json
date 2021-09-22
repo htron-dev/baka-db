@@ -1,5 +1,9 @@
 {
     "title": "7 Seeds",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196607.jpg",
+        "alt": "7-seeds"
+    },
     "type": "manga",
     "volumes": "35",
     "chapters": "177",

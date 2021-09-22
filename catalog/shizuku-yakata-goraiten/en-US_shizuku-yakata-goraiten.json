@@ -1,5 +1,9 @@
 {
     "title": "Shizuku Yakata Goraiten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11506.jpg",
+        "alt": "shizuku-yakata-goraiten"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "雫館御来店",

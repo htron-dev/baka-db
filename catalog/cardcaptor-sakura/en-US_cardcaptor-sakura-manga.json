@@ -1,5 +1,9 @@
 {
     "title": "Cardcaptor Sakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173442.jpg",
+        "alt": "cardcaptor-sakura"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "50",

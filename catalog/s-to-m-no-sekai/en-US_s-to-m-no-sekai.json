@@ -1,5 +1,9 @@
 {
     "title": "S to M no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37113.jpg",
+        "alt": "s-to-m-no-sekai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "4",

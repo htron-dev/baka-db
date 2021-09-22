@@ -1,5 +1,9 @@
 {
     "title": "Houseki no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/52443.jpg",
+        "alt": "houseki-no-kuni"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "宝石の国",

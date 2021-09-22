@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Kiku Okusuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79473.jpg",
+        "alt": "koi-ni-kiku-okusuri"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋に効くお薬",

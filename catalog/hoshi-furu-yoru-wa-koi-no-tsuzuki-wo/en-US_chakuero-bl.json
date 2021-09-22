@@ -1,5 +1,9 @@
 {
     "title": "Chakuero BL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244591.jpg",
+        "alt": "chakuero-bl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

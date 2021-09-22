@@ -1,5 +1,9 @@
 {
     "title": "Pucca 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/29860.jpg",
+        "alt": "pucca-2"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "짜장소녀 뿌까",

@@ -1,5 +1,9 @@
 {
     "title": "Animal Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173420.jpg",
+        "alt": "animal-company"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "21",

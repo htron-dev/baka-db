@@ -1,5 +1,9 @@
 {
     "title": "Enjoy Ghost Company Life!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164434.jpg",
+        "alt": "enjoy-ghost-company-life"
+    },
     "type": "manhwa",
     "chapters": "1",
     "tags": [

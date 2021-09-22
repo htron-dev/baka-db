@@ -1,5 +1,9 @@
 {
     "title": "Nisennenme no Propose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/436.jpg",
+        "alt": "nisennenme-no-propose"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

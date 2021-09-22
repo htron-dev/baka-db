@@ -1,5 +1,9 @@
 {
     "title": "Shitsuren Mania",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78847.jpg",
+        "alt": "shitsuren-mania"
+    },
     "type": "manga",
     "original_name": "失恋マニア",
     "tags": [

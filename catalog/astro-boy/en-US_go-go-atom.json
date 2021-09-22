@@ -1,5 +1,9 @@
 {
     "title": "Go! Go! Atom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1793/107568.jpg",
+        "alt": "go-go-atom"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "GO!GO!アトム",

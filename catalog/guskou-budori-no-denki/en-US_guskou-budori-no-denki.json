@@ -1,5 +1,9 @@
 {
     "title": "Guskou Budori no Denki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/22300.jpg",
+        "alt": "guskou-budori-no-denki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "グスコーブドリの伝記",

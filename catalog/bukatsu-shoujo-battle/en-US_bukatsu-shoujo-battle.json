@@ -1,5 +1,9 @@
 {
     "title": "Bukatsu Shoujo Battle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176201.jpg",
+        "alt": "bukatsu-shoujo-battle"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "部活少女バトル",

@@ -1,12 +1,16 @@
 {
     "title": "Kyomu Senshi Miroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71239.jpg",
+        "alt": "kyomu-senshi-miroku"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "虚無戦史ＭＩＲＯＫＵ",
     "start_date": "1989-01-10",
     "end_date": "1989-01-10",
     "opening_song": "\"Stop That!\" by K-Chan",
-    "ending_song": "\"For Your Dream",
+    "ending_song": "\"For Your Dream: Kimi no Yume e (FOR YOUR DREAM~君の夢へ~)\" by K-Chan",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

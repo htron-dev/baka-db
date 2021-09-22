@@ -1,5 +1,9 @@
 {
     "title": "Toriaezu Chikyuu ga Horobiru Mae ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72723.jpg",
+        "alt": "toriaezu-chikyuu-ga-horobiru-mae-ni"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

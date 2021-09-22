@@ -1,5 +1,9 @@
 {
     "title": "Te wo Tsunagou yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187417.jpg",
+        "alt": "te-wo-tsunagou-yo"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "33",

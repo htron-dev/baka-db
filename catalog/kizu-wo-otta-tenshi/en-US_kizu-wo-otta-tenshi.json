@@ -1,5 +1,9 @@
 {
     "title": "Kizu wo Otta Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247163.jpg",
+        "alt": "kizu-wo-otta-tenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "傷を負った天使",

@@ -1,5 +1,9 @@
 {
     "title": "Shin Ikkitousen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1677/116286.jpg",
+        "alt": "shin-ikkitousen"
+    },
     "type": "tv-serie",
     "original_name": "真・一騎当千",
     "rating": "R+ - Mild Nudity",

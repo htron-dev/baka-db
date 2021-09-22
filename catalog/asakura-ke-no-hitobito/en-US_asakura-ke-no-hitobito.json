@@ -1,5 +1,9 @@
 {
     "title": "Asakura-ke no Hitobito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1232.jpg",
+        "alt": "asakura-ke-no-hitobito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Denpa na Megami no Iru Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158454.jpg",
+        "alt": "denpa-na-megami-no-iru-nichijou"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "電波な女神のいる日常",

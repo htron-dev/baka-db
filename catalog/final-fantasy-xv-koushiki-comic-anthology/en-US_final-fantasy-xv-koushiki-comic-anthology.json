@@ -1,5 +1,9 @@
 {
     "title": "Final Fantasy XV: Koushiki Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241294.jpg",
+        "alt": "final-fantasy-xv-koushiki-comic-anthology"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

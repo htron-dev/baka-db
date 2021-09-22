@@ -1,5 +1,9 @@
 {
     "title": "Boku no Kanojo-sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219625.jpg",
+        "alt": "boku-no-kanojo-sensei"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "56",

@@ -1,5 +1,9 @@
 {
     "title": "Kaijuu no Tokage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221851.jpg",
+        "alt": "kaijuu-no-tokage"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

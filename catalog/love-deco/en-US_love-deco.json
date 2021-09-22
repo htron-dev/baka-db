@@ -1,5 +1,9 @@
 {
     "title": "Love Deco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15855.jpg",
+        "alt": "love-deco"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ラブ・デコ",

@@ -1,5 +1,9 @@
 {
     "title": "Sentou Ishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171622.jpg",
+        "alt": "sentou-ishi"
+    },
     "type": "light-novel",
     "original_name": "戦闘医師",
     "start_date": "2016-02-01",

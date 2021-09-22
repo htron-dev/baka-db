@@ -1,5 +1,9 @@
 {
     "title": "Ohisama Egao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22820.jpg",
+        "alt": "ohisama-egao"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

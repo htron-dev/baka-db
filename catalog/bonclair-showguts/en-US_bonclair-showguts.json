@@ -1,5 +1,9 @@
 {
     "title": "Bonclair Showguts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34271.jpg",
+        "alt": "bonclair-showguts"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ボンクレー ☆ ショーガッツ",

@@ -1,5 +1,9 @@
 {
     "title": "DOODLE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/102165.jpg",
+        "alt": "doodle"
+    },
     "type": "manga",
     "original_name": "DOODLE [ドードル]",
     "start_date": "2013-10-09",

@@ -1,5 +1,9 @@
 {
     "title": "Otobako Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/69977.jpg",
+        "alt": "otobako-garden"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "音匣ガーデン",

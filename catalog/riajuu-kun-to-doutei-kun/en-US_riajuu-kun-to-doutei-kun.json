@@ -1,5 +1,9 @@
 {
     "title": "Riajuu-kun to Doutei-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72229.jpg",
+        "alt": "riajuu-kun-to-doutei-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

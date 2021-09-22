@@ -1,12 +1,16 @@
 {
     "title": "Taisou Zamurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1484/109365.jpg",
+        "alt": "taisou-zamurai"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "体操ザムライ",
     "start_date": "2020-10-11",
     "end_date": "2020-10-11",
     "opening_song": "\"Shanghai Honey (上海ハニー)\" by Joutarou Aragaki (Daisuke Namikawa), Leonardo (Kensho Ono), Tetsuo Minamino (Yuki Kaji) eps 2-10)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shanghai Honey (上海ハニー)\" by Joutarou Aragaki (Daisuke Namikawa), Leonardo (Kensho Ono), Tetsuo Minamino (Yuki Kaji) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sports"

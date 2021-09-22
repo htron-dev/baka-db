@@ -1,5 +1,9 @@
 {
     "title": "Boku ni Datte Iibun ga Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7227.jpg",
+        "alt": "boku-ni-datte-iibun-ga-aru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

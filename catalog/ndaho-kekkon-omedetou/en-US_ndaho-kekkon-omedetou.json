@@ -1,5 +1,9 @@
 {
     "title": "Ndaho Kekkon Omedetou!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1130/114687.jpg",
+        "alt": "ndaho-kekkon-omedetou"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ンダホ結婚おめでとう！！",

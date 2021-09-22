@@ -1,5 +1,9 @@
 {
     "title": "Ichigoda-san no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162681.jpg",
+        "alt": "ichigoda-san-no-hanashi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "33",

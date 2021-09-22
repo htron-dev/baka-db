@@ -1,5 +1,9 @@
 {
     "title": "Cai Yunnan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1590/115495.jpg",
+        "alt": "cai-yunnan"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "彩云南",

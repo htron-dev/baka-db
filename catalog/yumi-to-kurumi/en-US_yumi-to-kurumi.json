@@ -1,5 +1,9 @@
 {
     "title": "Yumi to Kurumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222806.jpg",
+        "alt": "yumi-to-kurumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

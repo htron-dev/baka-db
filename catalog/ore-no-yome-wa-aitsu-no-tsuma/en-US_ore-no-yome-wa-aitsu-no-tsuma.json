@@ -1,5 +1,9 @@
 {
     "title": "Ore no Yome wa Aitsu no Tsuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176890.jpg",
+        "alt": "ore-no-yome-wa-aitsu-no-tsuma"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

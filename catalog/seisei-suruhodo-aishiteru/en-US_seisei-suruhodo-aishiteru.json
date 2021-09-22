@@ -1,5 +1,9 @@
 {
     "title": "Seisei Suruhodo, Aishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177104.jpg",
+        "alt": "seisei-suruhodo-aishiteru"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "せいせいするほど、愛してる",

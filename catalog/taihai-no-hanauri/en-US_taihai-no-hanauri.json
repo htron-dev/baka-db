@@ -1,5 +1,9 @@
 {
     "title": "Taihai no Hanauri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224146.jpg",
+        "alt": "taihai-no-hanauri"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "頽廃の花売り",

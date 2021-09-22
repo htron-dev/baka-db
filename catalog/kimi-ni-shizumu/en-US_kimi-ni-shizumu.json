@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Shizumu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26515.jpg",
+        "alt": "kimi-ni-shizumu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

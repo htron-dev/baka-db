@@ -1,5 +1,9 @@
 {
     "title": "Phantom of Kill: Danzai no Kuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180931.jpg",
+        "alt": "phantom-of-kill-danzai-no-kuro"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

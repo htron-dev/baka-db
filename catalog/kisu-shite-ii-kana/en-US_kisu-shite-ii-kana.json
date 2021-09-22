@@ -1,5 +1,9 @@
 {
     "title": "Kisu Shite ii Kana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10325.jpg",
+        "alt": "kisu-shite-ii-kana"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キスしていいかな",

@@ -1,5 +1,9 @@
 {
     "title": "Kuroi Hohoemi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/103037.jpg",
+        "alt": "kuroi-hohoemi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

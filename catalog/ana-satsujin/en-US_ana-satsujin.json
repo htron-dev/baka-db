@@ -1,5 +1,9 @@
 {
     "title": "Ana Satsujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128593.jpg",
+        "alt": "ana-satsujin"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "135",

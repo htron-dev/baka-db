@@ -1,5 +1,9 @@
 {
     "title": "Hakaijuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/43301.jpg",
+        "alt": "hakaijuu"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "82",

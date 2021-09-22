@@ -1,5 +1,9 @@
 {
     "title": "gdMen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/88981.jpg",
+        "alt": "gd-men"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "gd メン",

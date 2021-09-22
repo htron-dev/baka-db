@@ -1,5 +1,9 @@
 {
     "title": "Baka Misérables",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/54813.jpg",
+        "alt": "baka-miserables"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "バカ・ミゼラブル",

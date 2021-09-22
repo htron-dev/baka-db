@@ -1,5 +1,9 @@
 {
     "title": "Master of Epic: The Animation Age",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1885.jpg",
+        "alt": "master-of-epic-the-animation-age"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "マスター オブ エピック The Animation Age",

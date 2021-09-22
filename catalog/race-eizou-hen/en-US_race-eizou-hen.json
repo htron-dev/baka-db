@@ -1,5 +1,9 @@
 {
     "title": "Race Eizou-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1988/97161.jpg",
+        "alt": "race-eizou-hen"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "レース映像篇",

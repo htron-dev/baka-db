@@ -1,5 +1,9 @@
 {
     "title": "Oushitsu Kyoushi Heine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130353.jpg",
+        "alt": "oushitsu-kyoushi-heine"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "103",

@@ -1,5 +1,9 @@
 {
     "title": "Eomaia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/218076.jpg",
+        "alt": "eomaia"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

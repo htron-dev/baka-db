@@ -1,5 +1,9 @@
 {
     "title": "Nikushoku Joshi!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194324.jpg",
+        "alt": "nikushoku-joshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

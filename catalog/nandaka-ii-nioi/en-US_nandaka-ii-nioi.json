@@ -1,5 +1,9 @@
 {
     "title": "Nandaka Ii Nioi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128105.jpg",
+        "alt": "nandaka-ii-nioi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kuuki no Soko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9654.jpg",
+        "alt": "kuuki-no-soko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

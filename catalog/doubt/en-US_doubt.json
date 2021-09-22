@@ -1,5 +1,9 @@
 {
     "title": "Doubt!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6330.jpg",
+        "alt": "doubt"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

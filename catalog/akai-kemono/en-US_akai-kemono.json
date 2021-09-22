@@ -1,5 +1,9 @@
 {
     "title": "Akai Kemono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231305.jpg",
+        "alt": "akai-kemono"
+    },
     "type": "manga",
     "original_name": "アカイケモノ",
     "start_date": "2014-04-17",

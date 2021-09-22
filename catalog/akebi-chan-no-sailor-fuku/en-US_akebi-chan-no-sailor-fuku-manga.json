@@ -1,5 +1,9 @@
 {
     "title": "Akebi-chan no Sailor-fuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/250312.jpg",
+        "alt": "akebi-chan-no-sailor-fuku"
+    },
     "type": "manga",
     "original_name": "明日ちゃんのセーラー服",
     "start_date": "2016-08-02",

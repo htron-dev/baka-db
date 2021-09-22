@@ -1,12 +1,16 @@
 {
     "title": "Gakuen Utopia Manabi Straight!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/4907.jpg",
+        "alt": "gakuen-utopia-manabi-straight"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "がくえんゆーとぴあ まなびストレート！",
     "start_date": "2007-01-08",
     "end_date": "2007-01-08",
     "opening_song": "\"A Happy Life\" by Megumi Hayashibara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Lucky & Happy\" by Megumi Hayashibara (eps 1, 3, 5-11)",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

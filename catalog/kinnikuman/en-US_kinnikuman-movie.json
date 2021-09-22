@@ -1,5 +1,9 @@
 {
     "title": "Kinnikuman (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/73922.jpg",
+        "alt": "kinnikuman-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キン肉マン (キン肉マン 奪われたチャンピオンベルト)",

@@ -1,5 +1,9 @@
 {
     "title": "Robot Atom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1521/102920.jpg",
+        "alt": "robot-atom"
+    },
     "type": "ova",
     "episodes": "8",
     "original_name": "ろぼっとアトム",

@@ -1,5 +1,9 @@
 {
     "title": "Pacusi no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/17805.jpg",
+        "alt": "pacusi-no-uta"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "パクシのうた",

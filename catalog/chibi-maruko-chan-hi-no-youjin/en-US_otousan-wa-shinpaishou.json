@@ -1,5 +1,9 @@
 {
     "title": "Otousan wa Shinpaishou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231011.jpg",
+        "alt": "otousan-wa-shinpaishou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "65",

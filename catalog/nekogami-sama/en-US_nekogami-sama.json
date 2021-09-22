@@ -1,5 +1,9 @@
 {
     "title": "Nekogami-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181949.jpg",
+        "alt": "nekogami-sama"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ねこ神さま",

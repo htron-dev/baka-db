@@ -1,5 +1,9 @@
 {
     "title": "Kangoku Gakkou nite Monban wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176750.jpg",
+        "alt": "kangoku-gakkou-nite-monban-wo"
+    },
     "type": "light-novel",
     "original_name": "監獄学校にて門番を",
     "start_date": "2014-07-10",

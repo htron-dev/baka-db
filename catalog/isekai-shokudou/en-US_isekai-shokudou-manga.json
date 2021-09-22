@@ -1,5 +1,9 @@
 {
     "title": "Isekai Shokudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197609.jpg",
+        "alt": "isekai-shokudou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

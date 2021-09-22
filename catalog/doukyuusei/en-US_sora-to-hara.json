@@ -1,5 +1,9 @@
 {
     "title": "Sora to Hara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67873.jpg",
+        "alt": "sora-to-hara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

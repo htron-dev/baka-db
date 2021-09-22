@@ -1,5 +1,9 @@
 {
     "title": "Mochiron, Isharyou Seikyuu Itashimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223745.jpg",
+        "alt": "mochiron-isharyou-seikyuu-itashimasu"
+    },
     "type": "manga",
     "original_name": "勿論、慰謝料請求いたします!",
     "start_date": "2018-12-25",

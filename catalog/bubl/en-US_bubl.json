@@ -1,5 +1,9 @@
 {
     "title": "BUBL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36869.jpg",
+        "alt": "bubl"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "BUBL－バブル－",

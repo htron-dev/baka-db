@@ -1,5 +1,9 @@
 {
     "title": "Sora Oto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14575.jpg",
+        "alt": "sora-oto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

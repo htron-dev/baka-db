@@ -1,5 +1,9 @@
 {
     "title": "Sherlock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150596.jpg",
+        "alt": "sherlock"
+    },
     "type": "manhwa",
     "volumes": "2",
     "original_name": "셜록",

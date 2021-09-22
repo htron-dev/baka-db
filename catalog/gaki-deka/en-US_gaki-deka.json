@@ -1,5 +1,9 @@
 {
     "title": "Gaki Deka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/61177.jpg",
+        "alt": "gaki-deka"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "がきデカ",

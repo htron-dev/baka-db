@@ -1,5 +1,9 @@
 {
     "title": "Dual Justice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/25533.jpg",
+        "alt": "dual-justice"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "デュアルジャスティス",

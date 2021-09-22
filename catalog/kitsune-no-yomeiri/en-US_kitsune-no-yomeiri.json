@@ -1,5 +1,9 @@
 {
     "title": "Kitsune no Yomeiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194520.jpg",
+        "alt": "kitsune-no-yomeiri"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,12 +1,16 @@
 {
     "title": "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75662.jpg",
+        "alt": "campione-matsurowanu-kamigami-to-kamigoroshi-no-maou"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "カンピオーネ！ ～まつろわぬ神々と神殺しの魔王～",
     "start_date": "2012-07-06",
     "end_date": "2012-07-06",
     "opening_song": "\"BRAVE BLADE!\" by Megu Sakuragawa (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Raise\" by Yui Ogura (eps 2-11, 13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

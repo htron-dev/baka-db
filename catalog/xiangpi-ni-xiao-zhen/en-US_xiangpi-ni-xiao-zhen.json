@@ -1,5 +1,9 @@
 {
     "title": "Xiangpi Ni Xiao Zhen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1969/115451.jpg",
+        "alt": "xiangpi-ni-xiao-zhen"
+    },
     "type": "tv-serie",
     "episodes": "365",
     "original_name": "橡皮泥小镇",

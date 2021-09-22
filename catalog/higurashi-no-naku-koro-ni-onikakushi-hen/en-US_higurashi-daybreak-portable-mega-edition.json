@@ -1,5 +1,9 @@
 {
     "title": "Higurashi Daybreak Portable: Mega Edition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137919.jpg",
+        "alt": "higurashi-daybreak-portable-mega-edition"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

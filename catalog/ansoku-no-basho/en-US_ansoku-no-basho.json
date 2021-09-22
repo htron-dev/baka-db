@@ -1,5 +1,9 @@
 {
     "title": "Ansoku no Basho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1163/112583.jpg",
+        "alt": "ansoku-no-basho"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "安息の場所",

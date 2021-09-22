@@ -1,5 +1,9 @@
 {
     "title": "Gakuen x Fuusa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165089.jpg",
+        "alt": "gakuen-x-fuusa"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "40",

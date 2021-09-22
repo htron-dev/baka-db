@@ -1,5 +1,9 @@
 {
     "title": "The New Gate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209213.jpg",
+        "alt": "the-new-gate"
+    },
     "type": "light-novel",
     "original_name": "THE NEW GATE",
     "start_date": "2013-12-19",

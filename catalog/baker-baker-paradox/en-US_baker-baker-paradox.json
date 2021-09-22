@@ -1,5 +1,9 @@
 {
     "title": "Baker Baker Paradox",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238252.jpg",
+        "alt": "baker-baker-paradox"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Saihate no Paladin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1961/114468.jpg",
+        "alt": "saihate-no-paladin"
+    },
     "type": "tv-serie",
     "original_name": "最果てのパラディン",
     "start_date": "2021-10-20",

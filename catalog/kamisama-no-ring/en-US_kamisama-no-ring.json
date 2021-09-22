@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Ring",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34956.jpg",
+        "alt": "kamisama-no-ring"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "神様のリング",

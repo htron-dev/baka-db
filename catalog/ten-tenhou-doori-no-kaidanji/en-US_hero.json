@@ -1,5 +1,9 @@
 {
     "title": "Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156261.jpg",
+        "alt": "hero"
+    },
     "type": "manga",
     "original_name": "HERO",
     "start_date": "2009-10-01",

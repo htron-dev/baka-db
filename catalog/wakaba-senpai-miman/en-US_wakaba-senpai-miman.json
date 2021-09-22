@@ -1,5 +1,9 @@
 {
     "title": "Wakaba-senpai Miman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152635.jpg",
+        "alt": "wakaba-senpai-miman"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "わかば先輩未満",

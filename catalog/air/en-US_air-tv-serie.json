@@ -1,12 +1,16 @@
 {
     "title": "Air",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/22059.jpg",
+        "alt": "air"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "AIR",
     "start_date": "2005-01-07",
     "end_date": "2005-01-07",
     "opening_song": "\"Tori no Uta (鳥の詩)\" by Lia",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Farewell Song\" by Lia (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Cocoon World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156856.jpg",
+        "alt": "cocoon-world"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Kotoura-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/76501.jpg",
+        "alt": "kotoura-san"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "琴浦さん",

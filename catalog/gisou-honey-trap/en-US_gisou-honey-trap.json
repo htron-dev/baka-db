@@ -1,5 +1,9 @@
 {
     "title": "Gisou Honey Trap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84567.jpg",
+        "alt": "gisou-honey-trap"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,7 +1,11 @@
 {
     "title": "Princess Connect! Re:Dive Season 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1906/117145.jpg",
+        "alt": "princess-connect-re-dive-season-2"
+    },
     "type": "tv-serie",
-    "original_name": "プリンセスコネクト! Re",
+    "original_name": "プリンセスコネクト! Re:Dive Season 2",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

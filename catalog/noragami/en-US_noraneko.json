@@ -1,5 +1,9 @@
 {
     "title": "Noraneko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88357.jpg",
+        "alt": "noraneko"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ノラネコ",

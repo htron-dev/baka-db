@@ -1,5 +1,9 @@
 {
     "title": "Tenshi mo Teiji de Kaeritai!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203265.jpg",
+        "alt": "tenshi-mo-teiji-de-kaeritai"
+    },
     "type": "manga",
     "original_name": "天使も定時で帰りたい!!",
     "start_date": "2016-10-28",

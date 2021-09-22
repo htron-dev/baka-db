@@ -1,5 +1,9 @@
 {
     "title": "Harujoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11814.jpg",
+        "alt": "harujoon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

@@ -1,5 +1,9 @@
 {
     "title": "Osaka Hamlet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185485.jpg",
+        "alt": "osaka-hamlet"
+    },
     "type": "manga",
     "original_name": "大阪ハムレット",
     "start_date": "2005-05-02",

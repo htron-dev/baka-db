@@ -1,5 +1,9 @@
 {
     "title": "Natsu, Kimi ga Saku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12561.jpg",
+        "alt": "natsu-kimi-ga-saku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

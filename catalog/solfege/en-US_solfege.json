@@ -1,5 +1,9 @@
 {
     "title": "Solfege",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20921.jpg",
+        "alt": "solfege"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

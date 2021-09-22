@@ -1,5 +1,9 @@
 {
     "title": "Kuuchuu de Oshokuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40247.jpg",
+        "alt": "kuuchuu-de-oshokuji"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "空中でお食事",

@@ -1,5 +1,9 @@
 {
     "title": "Fastening Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/68209.jpg",
+        "alt": "fastening-days"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "FASTENING DAYS",

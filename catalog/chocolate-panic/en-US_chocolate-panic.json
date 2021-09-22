@@ -1,5 +1,9 @@
 {
     "title": "Chocolate Panic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226720.jpg",
+        "alt": "chocolate-panic"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

@@ -1,5 +1,9 @@
 {
     "title": "Aishiteru yo Bye-Bye",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46377.jpg",
+        "alt": "aishiteru-yo-bye-bye"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

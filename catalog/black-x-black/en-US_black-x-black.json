@@ -1,5 +1,9 @@
 {
     "title": "Black x Black",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82776.jpg",
+        "alt": "black-x-black"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

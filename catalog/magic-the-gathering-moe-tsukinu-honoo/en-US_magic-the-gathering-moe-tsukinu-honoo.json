@@ -1,8 +1,12 @@
 {
     "title": "Magic: The Gathering - Moe Tsukinu Honoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/92613.jpg",
+        "alt": "magic-the-gathering-moe-tsukinu-honoo"
+    },
     "type": "manga",
     "volumes": "2",
-    "original_name": "マジック",
+    "original_name": "マジック: ザ・ギャザリング 燃え尽きぬ炎",
     "start_date": "2010-02-27",
     "end_date": "2010-02-27",
     "tags": [

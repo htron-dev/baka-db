@@ -1,5 +1,9 @@
 {
     "title": "Asanaga Fuugetsu, Shodouka desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135421.jpg",
+        "alt": "asanaga-fuugetsu-shodouka-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

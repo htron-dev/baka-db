@@ -1,5 +1,9 @@
 {
     "title": "Cherish!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23131.jpg",
+        "alt": "cherish"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "チェリッシュ！！",

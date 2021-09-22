@@ -1,5 +1,9 @@
 {
     "title": "Shousetsu Higashi no Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115981.jpg",
+        "alt": "shousetsu-higashi-no-eden"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

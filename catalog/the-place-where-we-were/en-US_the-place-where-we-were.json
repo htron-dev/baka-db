@@ -1,5 +1,9 @@
 {
     "title": "The Place Where We Were",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/19068.jpg",
+        "alt": "the-place-where-we-were"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "エンゼル The Place Where We Were",

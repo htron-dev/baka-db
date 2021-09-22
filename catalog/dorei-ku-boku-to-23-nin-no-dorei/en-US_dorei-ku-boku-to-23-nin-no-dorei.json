@@ -1,5 +1,9 @@
 {
     "title": "Dorei-ku: Boku to 23-nin no Dorei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185251.jpg",
+        "alt": "dorei-ku-boku-to-23-nin-no-dorei"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "45",

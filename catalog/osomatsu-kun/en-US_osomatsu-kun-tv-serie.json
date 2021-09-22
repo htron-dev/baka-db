@@ -1,11 +1,15 @@
 {
     "title": "Osomatsu-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/76965.jpg",
+        "alt": "osomatsu-kun"
+    },
     "type": "tv-serie",
     "episodes": "56",
     "original_name": "おそ松くん",
     "start_date": "1966-02-05",
     "end_date": "1966-02-05",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Osomatsu-kun (おそ松くん)\" by Young Fresh, Osomatsu-kun Main Cast",
     "rating": "PG - Children",
     "tags": [
         "comedy"

@@ -1,5 +1,9 @@
 {
     "title": "Hokuto no Ken Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/25067.jpg",
+        "alt": "hokuto-no-ken-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "北斗の拳",

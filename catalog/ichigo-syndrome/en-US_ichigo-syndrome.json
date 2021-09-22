@@ -1,5 +1,9 @@
 {
     "title": "Ichigo Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247370.jpg",
+        "alt": "ichigo-syndrome"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

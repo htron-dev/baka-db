@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Retsujou Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237105.jpg",
+        "alt": "tonari-no-retsujou-monster"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Halloween Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/47945.jpg",
+        "alt": "halloween-densetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

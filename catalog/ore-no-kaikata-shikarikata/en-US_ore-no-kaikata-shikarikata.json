@@ -1,5 +1,9 @@
 {
     "title": "Ore no Kaikata Shikarikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190893.jpg",
+        "alt": "ore-no-kaikata-shikarikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

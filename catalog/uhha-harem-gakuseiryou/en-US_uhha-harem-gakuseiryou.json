@@ -1,5 +1,9 @@
 {
     "title": "Uhha! Harem Gakuseiryou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240104.jpg",
+        "alt": "uhha-harem-gakuseiryou"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "79",

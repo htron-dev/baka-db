@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Ookami.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189820.jpg",
+        "alt": "boku-wa-ookami"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Usalullaby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/78344.jpg",
+        "alt": "usalullaby"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "USALULLABY",

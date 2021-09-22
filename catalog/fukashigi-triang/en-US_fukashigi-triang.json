@@ -1,5 +1,9 @@
 {
     "title": "Fukashigi Triang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162257.jpg",
+        "alt": "fukashigi-triang"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

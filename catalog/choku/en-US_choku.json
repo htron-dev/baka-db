@@ -1,5 +1,9 @@
 {
     "title": "Choku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20516.jpg",
+        "alt": "choku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

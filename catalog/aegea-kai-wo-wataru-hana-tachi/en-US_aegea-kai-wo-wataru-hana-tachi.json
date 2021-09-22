@@ -1,5 +1,9 @@
 {
     "title": "Aegea-kai wo Wataru Hana-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215630.jpg",
+        "alt": "aegea-kai-wo-wataru-hana-tachi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

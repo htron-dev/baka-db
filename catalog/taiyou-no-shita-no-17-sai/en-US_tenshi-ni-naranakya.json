@@ -1,5 +1,9 @@
 {
     "title": "Tenshi ni Naranakya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/61457.jpg",
+        "alt": "tenshi-ni-naranakya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

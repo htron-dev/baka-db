@@ -1,5 +1,9 @@
 {
     "title": "Tactics Ogre",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25332.jpg",
+        "alt": "tactics-ogre"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "タクティクスオウガ",

@@ -1,5 +1,9 @@
 {
     "title": "Noobow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/49785.jpg",
+        "alt": "noobow"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ぬーぼー",

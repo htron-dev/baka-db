@@ -1,5 +1,9 @@
 {
     "title": "Machiisha Jumbo!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151354.jpg",
+        "alt": "machiisha-jumbo"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "192",

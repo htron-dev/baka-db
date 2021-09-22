@@ -1,5 +1,9 @@
 {
     "title": "Sweet Sister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95579.jpg",
+        "alt": "sweet-sister"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

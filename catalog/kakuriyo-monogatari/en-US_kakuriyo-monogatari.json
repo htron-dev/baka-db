@@ -1,5 +1,9 @@
 {
     "title": "Kakuriyo Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/109823.jpg",
+        "alt": "kakuriyo-monogatari"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "68",

@@ -1,5 +1,9 @@
 {
     "title": "Tantei Miimi no Oshare Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174963.jpg",
+        "alt": "tantei-miimi-no-oshare-jikenbo"
+    },
     "type": "manga",
     "original_name": "探偵ミーミのおしゃれ事件簿",
     "start_date": "2015-03-03",

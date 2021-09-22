@@ -1,5 +1,9 @@
 {
     "title": "Chishiryou Dolis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152412.jpg",
+        "alt": "chishiryou-dolis"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

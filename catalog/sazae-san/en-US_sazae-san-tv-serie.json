@@ -1,5 +1,9 @@
 {
     "title": "Sazae-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/25502.jpg",
+        "alt": "sazae-san"
+    },
     "type": "tv-serie",
     "original_name": "サザエさん",
     "start_date": "1969-10-05",

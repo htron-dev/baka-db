@@ -1,5 +1,9 @@
 {
     "title": "Hikounin Mahou Shoujo Sensen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206390.jpg",
+        "alt": "hikounin-mahou-shoujo-sensen"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "22",

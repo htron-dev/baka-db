@@ -1,5 +1,9 @@
 {
     "title": "Aoi Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6143.jpg",
+        "alt": "aoi-futari"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "青いふたり",

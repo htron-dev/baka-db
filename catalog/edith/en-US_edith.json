@@ -1,5 +1,9 @@
 {
     "title": "Edith",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/29116.jpg",
+        "alt": "edith"
+    },
     "type": "manga",
     "original_name": "エディス",
     "start_date": "2008-08-20",

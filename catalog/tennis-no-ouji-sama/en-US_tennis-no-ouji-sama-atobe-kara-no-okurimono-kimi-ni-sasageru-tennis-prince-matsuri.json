@@ -1,10 +1,14 @@
 {
     "title": "Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tennis Prince Matsuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/6381.jpg",
+        "alt": "tennis-no-ouji-sama-atobe-kara-no-okurimono-kimi-ni-sasageru-tennis-prince-matsuri"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "テニスの王子様 跡部からの贈り物 君に捧げるテニプリ祭り",
     "start_date": "2005-01-29",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Brand New Day\" by 3 Guava Trio",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Shimauma Gaiden: Aka to Kiinu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172295.jpg",
+        "alt": "shimauma-gaiden-aka-to-kiinu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

@@ -1,5 +1,9 @@
 {
     "title": "Diego no Kyojin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186737.jpg",
+        "alt": "diego-no-kyojin"
+    },
     "type": "light-novel",
     "original_name": "ディエゴの巨神",
     "start_date": "2016-11-10",

@@ -1,5 +1,9 @@
 {
     "title": "Emerging",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190247.jpg",
+        "alt": "emerging"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

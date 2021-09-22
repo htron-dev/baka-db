@@ -1,5 +1,9 @@
 {
     "title": "Shounen Zanzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36333.jpg",
+        "alt": "shounen-zanzou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

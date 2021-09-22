@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi wa Mada Aoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245625.jpg",
+        "alt": "bokutachi-wa-mada-aoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

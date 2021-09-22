@@ -1,5 +1,9 @@
 {
     "title": "Yume no Atosaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61659.jpg",
+        "alt": "yume-no-atosaki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

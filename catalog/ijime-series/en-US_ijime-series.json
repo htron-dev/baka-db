@@ -1,5 +1,9 @@
 {
     "title": "Ijime Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161027.jpg",
+        "alt": "ijime-series"
+    },
     "type": "manga",
     "original_name": "いじめ シリーズ",
     "start_date": "2005-05-02",

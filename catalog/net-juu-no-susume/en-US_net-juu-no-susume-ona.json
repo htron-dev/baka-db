@@ -1,5 +1,9 @@
 {
     "title": "Net-juu no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/87463.jpg",
+        "alt": "net-juu-no-susume"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "ネト充のススメ",

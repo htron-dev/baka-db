@@ -1,5 +1,9 @@
 {
     "title": "Kaifuku Jutsushi no Omotenashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248797.jpg",
+        "alt": "kaifuku-jutsushi-no-omotenashi"
+    },
     "type": "manga",
     "original_name": "回復術士のおもてなし",
     "start_date": "2021-01-18",

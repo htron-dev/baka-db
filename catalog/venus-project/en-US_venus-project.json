@@ -1,5 +1,9 @@
 {
     "title": "Venus Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13520.jpg",
+        "alt": "venus-project"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ヴィーナス・プロジェク",

@@ -1,5 +1,9 @@
 {
     "title": "Phantom Cognition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21366.jpg",
+        "alt": "phantom-cognition"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "ファントムコグニション",

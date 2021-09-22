@@ -1,5 +1,9 @@
 {
     "title": "Mini Toji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1781/98227.jpg",
+        "alt": "mini-toji"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "みにとじ",

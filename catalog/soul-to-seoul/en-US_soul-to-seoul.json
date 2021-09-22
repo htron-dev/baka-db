@@ -1,5 +1,9 @@
 {
     "title": "Soul to Seoul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3366.jpg",
+        "alt": "soul-to-seoul"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "18",

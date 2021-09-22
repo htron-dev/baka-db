@@ -1,5 +1,9 @@
 {
     "title": "Hana no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84625.jpg",
+        "alt": "hana-no-uta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

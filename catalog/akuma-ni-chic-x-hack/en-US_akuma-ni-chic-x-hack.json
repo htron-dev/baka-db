@@ -1,5 +1,9 @@
 {
     "title": "Akuma ni Chic x Hack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183859.jpg",
+        "alt": "akuma-ni-chic-x-hack"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

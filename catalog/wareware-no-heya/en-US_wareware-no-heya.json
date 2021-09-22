@@ -1,5 +1,9 @@
 {
     "title": "Wareware no Heya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/82244.jpg",
+        "alt": "wareware-no-heya"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "われわれの部屋",

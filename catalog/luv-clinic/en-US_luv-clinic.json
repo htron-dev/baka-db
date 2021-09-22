@@ -1,5 +1,9 @@
 {
     "title": "Luv Clinic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9406.jpg",
+        "alt": "luv-clinic"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ラブ・クリニック",

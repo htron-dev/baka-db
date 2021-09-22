@@ -1,5 +1,9 @@
 {
     "title": "Aoharu x Kikanjuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/106519.jpg",
+        "alt": "aoharu-x-kikanjuu"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "84",

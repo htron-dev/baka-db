@@ -1,5 +1,9 @@
 {
     "title": "Touch Me Again",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57303.jpg",
+        "alt": "touch-me-again"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

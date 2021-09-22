@@ -1,5 +1,9 @@
 {
     "title": "ViVid Strike!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/82015.jpg",
+        "alt": "vi-vid-strike"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ViVid Strike!",

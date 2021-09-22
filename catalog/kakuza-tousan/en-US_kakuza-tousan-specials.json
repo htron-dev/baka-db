@@ -1,5 +1,9 @@
 {
     "title": "Kakuza Tousan Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1947/105578.jpg",
+        "alt": "kakuza-tousan-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "かくざ父さん",

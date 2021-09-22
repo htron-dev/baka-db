@@ -1,5 +1,9 @@
 {
     "title": "Onna Senshi tte Motenai n desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237890.jpg",
+        "alt": "onna-senshi-tte-motenai-n-desu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "34",

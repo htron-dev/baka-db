@@ -1,5 +1,9 @@
 {
     "title": "Nanka Youkai!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38909.jpg",
+        "alt": "nanka-youkai"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "なんか妖かい!?",

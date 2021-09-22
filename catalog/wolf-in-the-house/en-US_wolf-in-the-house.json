@@ -1,5 +1,9 @@
 {
     "title": "Wolf in the House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230370.jpg",
+        "alt": "wolf-in-the-house"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "울프 인더 하우스",

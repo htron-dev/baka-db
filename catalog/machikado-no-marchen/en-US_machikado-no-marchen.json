@@ -1,5 +1,9 @@
 {
     "title": "Machikado no Märchen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/31057.jpg",
+        "alt": "machikado-no-marchen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "Radio City Fantasy 街角のメルヘン",

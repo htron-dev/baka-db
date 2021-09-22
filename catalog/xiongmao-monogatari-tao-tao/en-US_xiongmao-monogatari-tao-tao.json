@@ -1,5 +1,9 @@
 {
     "title": "Xiongmao Monogatari TaoTao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/63351.jpg",
+        "alt": "xiongmao-monogatari-tao-tao"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "シュンマオ物語 タオタオ",
@@ -21,7 +25,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Taotao_(anime"
+            "link": "http://en.wikipedia.org/wiki/Taotao_%28anime%29"
         }
     ]
 }

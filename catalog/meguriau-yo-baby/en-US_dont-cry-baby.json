@@ -1,5 +1,9 @@
 {
     "title": "Don't Cry Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199192.jpg",
+        "alt": "dont-cry-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kurogane no Mahoutsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246566.jpg",
+        "alt": "kurogane-no-mahoutsukai"
+    },
     "type": "light-novel",
     "original_name": "黒鉄の魔法使い",
     "start_date": "2018-06-25",

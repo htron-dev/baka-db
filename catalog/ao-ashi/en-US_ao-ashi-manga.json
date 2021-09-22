@@ -1,5 +1,9 @@
 {
     "title": "Ao Ashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185325.jpg",
+        "alt": "ao-ashi"
+    },
     "type": "manga",
     "original_name": "アオアシ",
     "start_date": "2015-01-05",

@@ -1,5 +1,9 @@
 {
     "title": "Nemurenai! Midnight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15211.jpg",
+        "alt": "nemurenai-midnight"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "眠れない！ミッドナイト",

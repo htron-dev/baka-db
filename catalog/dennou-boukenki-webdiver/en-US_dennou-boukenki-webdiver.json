@@ -1,12 +1,16 @@
 {
     "title": "Dennou Boukenki Webdiver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/5989.jpg",
+        "alt": "dennou-boukenki-webdiver"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "電脳冒険記ウェブダイバー",
     "start_date": "2001-04-06",
     "end_date": "2001-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Diver #2100\" by R.A.M (eps 1-32)",
+    "ending_song": "#1: \"TOGETHER\" by Katsumi (eps 1-24, 52)",
     "rating": "PG - Children",
     "tags": [
         "adventure",

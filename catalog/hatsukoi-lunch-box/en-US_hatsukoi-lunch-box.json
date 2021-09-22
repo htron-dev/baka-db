@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Lunch Box",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67589.jpg",
+        "alt": "hatsukoi-lunch-box"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

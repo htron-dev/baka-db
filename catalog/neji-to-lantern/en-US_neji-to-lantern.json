@@ -1,5 +1,9 @@
 {
     "title": "Neji to Lantern",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36022.jpg",
+        "alt": "neji-to-lantern"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

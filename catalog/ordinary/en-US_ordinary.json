@@ -1,5 +1,9 @@
 {
     "title": "Ordinary±",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14198.jpg",
+        "alt": "ordinary"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

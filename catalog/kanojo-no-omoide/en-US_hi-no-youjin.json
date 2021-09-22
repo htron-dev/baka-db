@@ -1,5 +1,9 @@
 {
     "title": "Hi no Youjin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/53165.jpg",
+        "alt": "hi-no-youjin"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "火要鎮",

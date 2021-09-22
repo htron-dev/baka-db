@@ -1,5 +1,9 @@
 {
     "title": "Inzak",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/108709.jpg",
+        "alt": "inzak"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "인작",

@@ -1,5 +1,9 @@
 {
     "title": "Inside Full Bloom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243047.jpg",
+        "alt": "inside-full-bloom"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

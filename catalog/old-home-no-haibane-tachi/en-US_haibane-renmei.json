@@ -1,5 +1,9 @@
 {
     "title": "Haibane Renmei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/13134.jpg",
+        "alt": "haibane-renmei"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "灰羽連盟",

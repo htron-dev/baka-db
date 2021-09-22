@@ -1,5 +1,9 @@
 {
     "title": "Motto Aishite Aisare Nakucchane!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11070.jpg",
+        "alt": "motto-aishite-aisare-nakucchane"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "もっと愛して愛されなくっちゃね！",

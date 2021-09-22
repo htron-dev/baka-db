@@ -1,5 +1,9 @@
 {
     "title": "Nisekoi Kareshi wa Junkyouju!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194367.jpg",
+        "alt": "nisekoi-kareshi-wa-junkyouju"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Warui Koibito ja Dame?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/41887.jpg",
+        "alt": "warui-koibito-ja-dame"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

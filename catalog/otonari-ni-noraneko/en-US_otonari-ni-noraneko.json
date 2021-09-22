@@ -1,5 +1,9 @@
 {
     "title": "Otonari ni Noraneko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25104.jpg",
+        "alt": "otonari-ni-noraneko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,8 +1,12 @@
 {
     "title": "Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/14762.jpg",
+        "alt": "candy-boy-episode-ex-02-shiawase-kyouyuu-riron"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "Candy boy episode",
+    "original_name": "Candy boy episode: EX02 「シアワセキョウユウリロン」",
     "start_date": "2009-06-24",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

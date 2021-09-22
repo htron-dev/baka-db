@@ -1,5 +1,9 @@
 {
     "title": "Kouga no Ruby Wolf",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162520.jpg",
+        "alt": "kouga-no-ruby-wolf"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "57",

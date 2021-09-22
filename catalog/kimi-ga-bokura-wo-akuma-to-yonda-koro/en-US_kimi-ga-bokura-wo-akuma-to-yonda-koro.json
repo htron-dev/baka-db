@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Bokura wo Akuma to Yonda Koro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226512.jpg",
+        "alt": "kimi-ga-bokura-wo-akuma-to-yonda-koro"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "154",

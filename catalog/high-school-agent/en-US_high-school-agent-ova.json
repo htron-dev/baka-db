@@ -1,11 +1,15 @@
 {
     "title": "High School Agent",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/49631.jpg",
+        "alt": "high-school-agent"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ハイスクール AGENT, (ハイスクール AGENT II U ボートを追え!)",
     "start_date": "1987-07-01",
     "end_date": "1987-07-01",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Dakishime I Love You (抱きしめ I Love You)\" by SCRAP (ep 1)",
     "ending_song": "\"Konya mo Blue (今夜もブルー)\" by SCRAP",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

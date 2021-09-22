@@ -1,5 +1,9 @@
 {
     "title": "Good Morning Call",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185191.jpg",
+        "alt": "good-morning-call"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "57",

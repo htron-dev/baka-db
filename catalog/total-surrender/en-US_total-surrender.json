@@ -1,5 +1,9 @@
 {
     "title": "Total Surrender",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14585.jpg",
+        "alt": "total-surrender"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

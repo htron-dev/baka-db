@@ -1,5 +1,9 @@
 {
     "title": "Kirameki☆Gingachou Shoutengai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41130.jpg",
+        "alt": "kirameki☆-gingachou-shoutengai"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "48",

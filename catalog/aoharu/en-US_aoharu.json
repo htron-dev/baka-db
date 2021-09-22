@@ -1,5 +1,9 @@
 {
     "title": "Aoharu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124997.jpg",
+        "alt": "aoharu"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "17",

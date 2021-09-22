@@ -1,5 +1,9 @@
 {
     "title": "Kingyosou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6262.jpg",
+        "alt": "kingyosou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

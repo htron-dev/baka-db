@@ -1,5 +1,9 @@
 {
     "title": "Dead or Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175311.jpg",
+        "alt": "dead-or-animation"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

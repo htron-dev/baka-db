@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Dance!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233305.jpg",
+        "alt": "hatsukoi-dance"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "40",

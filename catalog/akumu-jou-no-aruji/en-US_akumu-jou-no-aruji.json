@@ -1,5 +1,9 @@
 {
     "title": "Akumu-jou no Aruji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164914.jpg",
+        "alt": "akumu-jou-no-aruji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

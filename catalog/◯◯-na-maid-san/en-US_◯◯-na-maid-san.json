@@ -1,5 +1,9 @@
 {
     "title": "◯◯ na Maid-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241952.jpg",
+        "alt": "◯◯-na-maid-san"
+    },
     "type": "manga",
     "original_name": "◯◯ なメイドさん",
     "start_date": "2020-03-25",

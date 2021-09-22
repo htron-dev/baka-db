@@ -1,5 +1,9 @@
 {
     "title": "Bogle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32008.jpg",
+        "alt": "bogle"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ボーグル",

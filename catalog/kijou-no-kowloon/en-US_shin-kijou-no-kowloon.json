@@ -1,5 +1,9 @@
 {
     "title": "Shin Kijou no Kowloon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/52387.jpg",
+        "alt": "shin-kijou-no-kowloon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

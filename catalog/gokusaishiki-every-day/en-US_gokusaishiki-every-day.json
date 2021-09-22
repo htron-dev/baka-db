@@ -1,5 +1,9 @@
 {
     "title": "Gokusaishiki Every Day",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135911.jpg",
+        "alt": "gokusaishiki-every-day"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "極彩色エブリデイ",

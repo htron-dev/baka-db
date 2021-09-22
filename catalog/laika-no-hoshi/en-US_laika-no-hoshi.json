@@ -1,5 +1,9 @@
 {
     "title": "Laika no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243364.jpg",
+        "alt": "laika-no-hoshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

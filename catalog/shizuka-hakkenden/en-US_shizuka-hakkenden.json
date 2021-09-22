@@ -1,5 +1,9 @@
 {
     "title": "Shizuka Hakkenden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23383.jpg",
+        "alt": "shizuka-hakkenden"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "シズカ八犬伝",

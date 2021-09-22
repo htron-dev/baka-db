@@ -1,12 +1,16 @@
 {
     "title": "Dansai Bunri no Crime Edge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/52137.jpg",
+        "alt": "dansai-bunri-no-crime-edge"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "断裁分離のクライムエッジ",
     "start_date": "2013-04-04",
     "end_date": "2013-04-04",
     "opening_song": "\"Unmei no Ori (運命の檻)\" by Aimi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Glass no Mikazuki (硝子の三日月)\" by Iwai Mushanokouji (Kotori Koiwai) (eps 1, 6, 13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

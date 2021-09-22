@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Christmas",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/28220.jpg",
+        "alt": "hajimete-no-christmas"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "はじめてのクリスマス",

@@ -1,5 +1,9 @@
 {
     "title": "Gal to Kyouryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217678.jpg",
+        "alt": "gal-to-kyouryuu"
+    },
     "type": "manga",
     "original_name": "ギャルと恐竜",
     "start_date": "2018-10-15",

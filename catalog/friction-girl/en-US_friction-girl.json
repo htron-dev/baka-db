@@ -1,5 +1,9 @@
 {
     "title": "Friction Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237903.jpg",
+        "alt": "friction-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

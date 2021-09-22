@@ -1,5 +1,9 @@
 {
     "title": "Kimi tte Yatsu wa Konna ni mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227433.jpg",
+        "alt": "kimi-tte-yatsu-wa-konna-ni-mo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

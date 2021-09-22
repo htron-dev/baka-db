@@ -1,5 +1,9 @@
 {
     "title": "Anata no Tame Nara Dokomade mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28921.jpg",
+        "alt": "anata-no-tame-nara-dokomade-mo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

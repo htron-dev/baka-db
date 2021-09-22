@@ -1,5 +1,9 @@
 {
     "title": "Zombie-Loan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/21539.jpg",
+        "alt": "zombie-loan"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "ZOMBIE-LOAN ゾンビローン",

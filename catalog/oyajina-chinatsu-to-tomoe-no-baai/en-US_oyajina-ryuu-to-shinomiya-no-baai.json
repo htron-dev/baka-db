@@ -1,5 +1,9 @@
 {
     "title": "Oyajina! ~Ryuu to Shinomiya no Baai~",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/63567.jpg",
+        "alt": "oyajina-ryuu-to-shinomiya-no-baai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

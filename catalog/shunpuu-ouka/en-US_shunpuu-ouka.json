@@ -1,5 +1,9 @@
 {
     "title": "Shunpuu Ouka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/48405.jpg",
+        "alt": "shunpuu-ouka"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "春風桜花",

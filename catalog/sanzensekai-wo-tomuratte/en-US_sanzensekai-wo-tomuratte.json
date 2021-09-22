@@ -1,5 +1,9 @@
 {
     "title": "Sanzensekai wo Tomuratte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246823.jpg",
+        "alt": "sanzensekai-wo-tomuratte"
+    },
     "type": "manga",
     "original_name": "三千世界を弔って",
     "start_date": "2020-08-25",

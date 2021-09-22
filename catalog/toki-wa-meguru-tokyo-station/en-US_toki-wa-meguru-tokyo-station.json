@@ -1,5 +1,9 @@
 {
     "title": "Toki wa Meguru: Tokyo Station",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1426/95659.jpg",
+        "alt": "toki-wa-meguru-tokyo-station"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "時季（とき）は巡る～ TOKYO STATION ～",

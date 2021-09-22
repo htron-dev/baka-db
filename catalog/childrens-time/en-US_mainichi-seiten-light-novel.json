@@ -1,5 +1,9 @@
 {
     "title": "Mainichi Seiten!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7687.jpg",
+        "alt": "mainichi-seiten"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "毎日晴天!",

@@ -1,5 +1,9 @@
 {
     "title": "Hi ni Nagarete Hashi ni Iku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203421.jpg",
+        "alt": "hi-ni-nagarete-hashi-ni-iku"
+    },
     "type": "manga",
     "original_name": "日に流れて橋に行く",
     "start_date": "2017-01-14",

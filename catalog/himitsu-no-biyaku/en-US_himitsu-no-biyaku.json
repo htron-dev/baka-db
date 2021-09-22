@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Biyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194681.jpg",
+        "alt": "himitsu-no-biyaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "秘蜜の媚薬",

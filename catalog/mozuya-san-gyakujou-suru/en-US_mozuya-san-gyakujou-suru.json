@@ -1,5 +1,9 @@
 {
     "title": "Mozuya-san Gyakujou suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/92181.jpg",
+        "alt": "mozuya-san-gyakujou-suru"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "58",

@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka no Jewel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90871.jpg",
+        "alt": "mayonaka-no-jewel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Seraphim Zone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169602.jpg",
+        "alt": "seraphim-zone"
+    },
     "type": "light-novel",
     "original_name": "熾天使空域〈セラフィム・ゾーン〉",
     "start_date": "2015-03-25",

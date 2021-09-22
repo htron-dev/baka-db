@@ -1,5 +1,9 @@
 {
     "title": "Hifi no Shokubutsu Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202387.jpg",
+        "alt": "hifi-no-shokubutsu-zukan"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "33",

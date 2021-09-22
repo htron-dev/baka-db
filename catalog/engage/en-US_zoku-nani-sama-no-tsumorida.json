@@ -1,5 +1,9 @@
 {
     "title": "Zoku Nani-sama no Tsumorida!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6296.jpg",
+        "alt": "zoku-nani-sama-no-tsumorida"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "続何様のつもりダ!!",

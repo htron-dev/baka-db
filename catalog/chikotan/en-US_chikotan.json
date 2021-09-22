@@ -1,5 +1,9 @@
 {
     "title": "Chikotan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/71181.jpg",
+        "alt": "chikotan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "チコタン",

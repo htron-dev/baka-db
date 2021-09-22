@@ -1,5 +1,9 @@
 {
     "title": "Tsukiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7256.jpg",
+        "alt": "tsukiya"
+    },
     "type": "manga",
     "tags": [
         "comedy",

@@ -1,8 +1,12 @@
 {
     "title": "Koi yori Kanbi na Shoya ni Shite: Ijiwaru Kizoku no Gekiai Kyuukon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184424.jpg",
+        "alt": "koi-yori-kanbi-na-shoya-ni-shite-ijiwaru-kizoku-no-gekiai-kyuukon"
+    },
     "type": "light-novel",
     "volumes": "1",
-    "original_name": "恋より甘美な初夜にして",
+    "original_name": "恋より甘美な初夜にして: いじわる貴族の激愛求婚",
     "start_date": "2016-10-17",
     "tags": [
         "romance",

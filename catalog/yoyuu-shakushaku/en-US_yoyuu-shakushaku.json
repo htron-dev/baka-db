@@ -1,5 +1,9 @@
 {
     "title": "Yoyuu Shakushaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195396.jpg",
+        "alt": "yoyuu-shakushaku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "61",

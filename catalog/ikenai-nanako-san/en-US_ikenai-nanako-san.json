@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Nanako-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204389.jpg",
+        "alt": "ikenai-nanako-san"
+    },
     "type": "manga",
     "original_name": "イケナイ菜々子さん",
     "start_date": "2017-03-10",

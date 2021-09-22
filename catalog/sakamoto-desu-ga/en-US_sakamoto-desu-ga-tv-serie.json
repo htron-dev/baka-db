@@ -1,5 +1,9 @@
 {
     "title": "Sakamoto Desu ga?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/79468.jpg",
+        "alt": "sakamoto-desu-ga"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "坂本ですが？",

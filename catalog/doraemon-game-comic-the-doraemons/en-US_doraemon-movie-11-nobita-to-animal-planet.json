@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie 11: Nobita to Animal Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/72416.jpg",
+        "alt": "doraemon-movie-11-nobita-to-animal-planet"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん のび太とアニマル惑星[プラネット]",

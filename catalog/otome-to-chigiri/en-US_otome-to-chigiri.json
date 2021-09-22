@@ -1,5 +1,9 @@
 {
     "title": "Otome to Chigiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183864.jpg",
+        "alt": "otome-to-chigiri"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "乙女とちぎり",

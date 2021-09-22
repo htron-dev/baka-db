@@ -1,5 +1,9 @@
 {
     "title": "BanG Dream! Yonkoma: Bandori!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232397.jpg",
+        "alt": "ban-g-dream-yonkoma-bandori"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

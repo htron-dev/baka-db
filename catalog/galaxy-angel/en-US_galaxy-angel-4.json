@@ -1,12 +1,16 @@
 {
     "title": "Galaxy Angel 4",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75307.jpg",
+        "alt": "galaxy-angel-4"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ギャラクシーエンジェル 4",
     "start_date": "2004-07-07",
     "end_date": "2004-07-07",
     "opening_song": "\"Angel Rock and Roll\" by Angel-tai",
-    "ending_song": "#1",
+    "ending_song": "#1: ''Jelly Beans'' by Shintani Ryoko and Gotou Saori",
     "rating": "PG - Children",
     "tags": [
         "comedy",

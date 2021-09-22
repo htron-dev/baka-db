@@ -1,5 +1,9 @@
 {
     "title": "Kagome Kagome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146573.jpg",
+        "alt": "kagome-kagome"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

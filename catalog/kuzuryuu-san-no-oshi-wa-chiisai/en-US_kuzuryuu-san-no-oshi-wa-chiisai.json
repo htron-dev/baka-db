@@ -1,5 +1,9 @@
 {
     "title": "Kuzuryuu-san no Oshi wa Chiisai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242395.jpg",
+        "alt": "kuzuryuu-san-no-oshi-wa-chiisai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

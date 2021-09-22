@@ -1,5 +1,9 @@
 {
     "title": "Lunatic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38977.jpg",
+        "alt": "lunatic"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ルナティック",

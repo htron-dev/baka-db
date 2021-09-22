@@ -1,5 +1,9 @@
 {
     "title": "A-A'",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/158293.jpg",
+        "alt": "a-a"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

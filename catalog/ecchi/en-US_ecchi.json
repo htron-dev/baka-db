@@ -1,5 +1,9 @@
 {
     "title": "Ecchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38170.jpg",
+        "alt": "ecchi"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "えっち",

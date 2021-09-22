@@ -1,11 +1,15 @@
 {
     "title": "Futari no Joe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/8086.jpg",
+        "alt": "futari-no-joe"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "ふたりのジョー",
     "start_date": "2003-05-25",
     "end_date": "2003-05-25",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Tomo yo\" by Yuji Ohya (eps 1-6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "shounen",

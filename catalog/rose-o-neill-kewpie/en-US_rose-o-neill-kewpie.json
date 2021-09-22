@@ -1,5 +1,9 @@
 {
     "title": "Rose O'Neill Kewpie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/16995.jpg",
+        "alt": "rose-o-neill-kewpie"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ローズオニール キューピー",

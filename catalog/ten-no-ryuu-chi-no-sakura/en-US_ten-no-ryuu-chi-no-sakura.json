@@ -1,5 +1,9 @@
 {
     "title": "Ten no Ryuu Chi no Sakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30743.jpg",
+        "alt": "ten-no-ryuu-chi-no-sakura"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

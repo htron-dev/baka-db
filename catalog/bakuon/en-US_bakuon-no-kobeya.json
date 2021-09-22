@@ -1,5 +1,9 @@
 {
     "title": "Bakuon!! no Kobeya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/83535.jpg",
+        "alt": "bakuon-no-kobeya"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "ばくおん!!の小部屋",

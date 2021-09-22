@@ -1,5 +1,9 @@
 {
     "title": "Dino Getter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209859.jpg",
+        "alt": "dino-getter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

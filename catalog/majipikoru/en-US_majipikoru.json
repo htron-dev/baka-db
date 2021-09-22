@@ -1,5 +1,9 @@
 {
     "title": "Majipikoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20306.jpg",
+        "alt": "majipikoru"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "まじぴこる",

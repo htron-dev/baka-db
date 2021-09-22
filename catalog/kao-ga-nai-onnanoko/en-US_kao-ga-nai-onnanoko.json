@@ -1,5 +1,9 @@
 {
     "title": "Kao ga Nai Onnanoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242593.jpg",
+        "alt": "kao-ga-nai-onnanoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "27",

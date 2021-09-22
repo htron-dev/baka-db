@@ -1,5 +1,9 @@
 {
     "title": "Dochamon Junior",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/76520.jpg",
+        "alt": "dochamon-junior"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "どちゃもん じゅにあ",

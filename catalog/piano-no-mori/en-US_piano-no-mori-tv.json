@@ -1,5 +1,9 @@
 {
     "title": "Piano no Mori (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1501/91916.jpg",
+        "alt": "piano-no-mori-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ピアノの森",

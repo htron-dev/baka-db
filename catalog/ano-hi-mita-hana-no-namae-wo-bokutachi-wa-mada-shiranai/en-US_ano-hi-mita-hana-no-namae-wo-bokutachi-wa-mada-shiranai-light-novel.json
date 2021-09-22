@@ -1,5 +1,9 @@
 {
     "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84563.jpg",
+        "alt": "ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "30",

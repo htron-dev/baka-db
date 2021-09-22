@@ -1,5 +1,9 @@
 {
     "title": "Mirai Shoujo Emomotion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/101149.jpg",
+        "alt": "mirai-shoujo-emomotion"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

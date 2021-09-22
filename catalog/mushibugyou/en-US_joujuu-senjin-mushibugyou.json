@@ -1,5 +1,9 @@
 {
     "title": "Joujuu Senjin!! Mushibugyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169921.jpg",
+        "alt": "joujuu-senjin-mushibugyou"
+    },
     "type": "manga",
     "volumes": "32",
     "chapters": "316",

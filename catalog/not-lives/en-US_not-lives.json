@@ -1,5 +1,9 @@
 {
     "title": "Not Lives",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154153.jpg",
+        "alt": "not-lives"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "54",

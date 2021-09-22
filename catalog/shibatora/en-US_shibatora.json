@@ -1,5 +1,9 @@
 {
     "title": "Shibatora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/56481.jpg",
+        "alt": "shibatora"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "131",

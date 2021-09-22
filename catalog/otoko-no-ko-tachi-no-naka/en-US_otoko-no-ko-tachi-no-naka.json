@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Ko-tachi no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162268.jpg",
+        "alt": "otoko-no-ko-tachi-no-naka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

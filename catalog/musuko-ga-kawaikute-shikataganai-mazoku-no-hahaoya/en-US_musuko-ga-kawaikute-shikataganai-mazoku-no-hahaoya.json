@@ -1,5 +1,9 @@
 {
     "title": "Musuko ga Kawaikute Shikataganai Mazoku no Hahaoya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190178.jpg",
+        "alt": "musuko-ga-kawaikute-shikataganai-mazoku-no-hahaoya"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "220",

@@ -1,5 +1,9 @@
 {
     "title": "Kirai na Senpai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63037.jpg",
+        "alt": "kirai-na-senpai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "嫌いな先輩",

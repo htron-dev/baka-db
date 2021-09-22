@@ -1,5 +1,9 @@
 {
     "title": "Working Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7739.jpg",
+        "alt": "working-musume"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ワーキング娘",

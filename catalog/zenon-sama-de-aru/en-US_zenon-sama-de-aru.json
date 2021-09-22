@@ -1,5 +1,9 @@
 {
     "title": "Zenon-sama de Aru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162533.jpg",
+        "alt": "zenon-sama-de-aru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

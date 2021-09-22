@@ -1,5 +1,9 @@
 {
     "title": "Choco Parfait",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11419.jpg",
+        "alt": "choco-parfait"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ちょこパフェ",

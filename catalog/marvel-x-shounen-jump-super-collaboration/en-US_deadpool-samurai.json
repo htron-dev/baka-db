@@ -1,5 +1,9 @@
 {
     "title": "Deadpool: Samurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242625.jpg",
+        "alt": "deadpool-samurai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

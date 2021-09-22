@@ -1,12 +1,16 @@
 {
     "title": "Shadows House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1424/113342.jpg",
+        "alt": "shadows-house"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "シャドーハウス",
     "start_date": "2021-04-11",
     "end_date": "2021-04-11",
     "opening_song": "\"a hollow shadow\" by Kenichirou Suehiro (末廣健一郎)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Nai Nai (ないない)\" by ReoNa (eps 1-7, 9-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

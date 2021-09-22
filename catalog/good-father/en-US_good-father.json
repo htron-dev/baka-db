@@ -1,5 +1,9 @@
 {
     "title": "Good Father",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64579.jpg",
+        "alt": "good-father"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

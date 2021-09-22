@@ -1,5 +1,9 @@
 {
     "title": "Houkago wa Kissaten de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204899.jpg",
+        "alt": "houkago-wa-kissaten-de"
+    },
     "type": "manga",
     "original_name": "放課後は喫茶店で",
     "start_date": "2017-06-16",

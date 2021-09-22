@@ -1,5 +1,9 @@
 {
     "title": "Woo to Wah",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/89764.jpg",
+        "alt": "woo-to-wah"
+    },
     "type": "ona",
     "original_name": "ウーとワー",
     "start_date": "2017-10-02",

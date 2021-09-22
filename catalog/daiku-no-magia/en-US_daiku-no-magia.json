@@ -1,5 +1,9 @@
 {
     "title": "Daiku no Magia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166855.jpg",
+        "alt": "daiku-no-magia"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

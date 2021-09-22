@@ -1,5 +1,9 @@
 {
     "title": "Ring &amp; Link!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176067.jpg",
+        "alt": "ring-amp-link"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "りんぐ&りんく!",

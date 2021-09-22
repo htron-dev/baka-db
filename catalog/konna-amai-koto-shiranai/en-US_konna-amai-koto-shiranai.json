@@ -1,5 +1,9 @@
 {
     "title": "Konna Amai Koto, Shiranai....",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197112.jpg",
+        "alt": "konna-amai-koto-shiranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

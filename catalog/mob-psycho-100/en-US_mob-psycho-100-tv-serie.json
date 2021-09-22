@@ -1,12 +1,16 @@
 {
     "title": "Mob Psycho 100",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/80356.jpg",
+        "alt": "mob-psycho-100"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "モブサイコ 100",
     "start_date": "2016-07-11",
     "end_date": "2016-07-11",
     "opening_song": "\"99\" by MOB CHOIR",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Refrain Boy (リフレインボーイ)\" by ALL OFF (eps 1-7, 9-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

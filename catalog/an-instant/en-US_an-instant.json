@@ -1,5 +1,9 @@
 {
     "title": "An Instant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1703/107114.jpg",
+        "alt": "an-instant"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "AN INSTANT",

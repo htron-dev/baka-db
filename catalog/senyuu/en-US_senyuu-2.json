@@ -1,5 +1,9 @@
 {
     "title": "Senyuu. 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/51879.jpg",
+        "alt": "senyuu-2"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "戦勇。2",

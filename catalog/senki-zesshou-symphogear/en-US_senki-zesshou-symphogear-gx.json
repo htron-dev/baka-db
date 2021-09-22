@@ -1,12 +1,16 @@
 {
     "title": "Senki Zesshou Symphogear GX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/86681.jpg",
+        "alt": "senki-zesshou-symphogear-gx"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "戦姫絶唱シンフォギア GX",
     "start_date": "2015-07-04",
     "end_date": "2015-07-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Exterminate\" by Nana Mizuki (eps 2-11)",
+    "ending_song": "#1: \"Glorious Break\" by Nana Mizuki (eps 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

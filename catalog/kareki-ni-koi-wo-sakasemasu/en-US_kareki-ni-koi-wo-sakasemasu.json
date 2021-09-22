@@ -1,5 +1,9 @@
 {
     "title": "Kareki ni Koi wo Sakasemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9621.jpg",
+        "alt": "kareki-ni-koi-wo-sakasemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

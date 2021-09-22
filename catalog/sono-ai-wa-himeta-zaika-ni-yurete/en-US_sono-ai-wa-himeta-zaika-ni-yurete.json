@@ -1,5 +1,9 @@
 {
     "title": "Sono Ai wa Himeta Zaika ni Yurete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194372.jpg",
+        "alt": "sono-ai-wa-himeta-zaika-ni-yurete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Replicant no Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30953.jpg",
+        "alt": "replicant-no-yoru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

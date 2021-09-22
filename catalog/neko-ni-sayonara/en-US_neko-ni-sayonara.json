@@ -1,5 +1,9 @@
 {
     "title": "Neko ni Sayonara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246152.jpg",
+        "alt": "neko-ni-sayonara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

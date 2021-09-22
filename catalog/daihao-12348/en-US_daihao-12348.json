@@ -1,5 +1,9 @@
 {
     "title": "Daihao 12348",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1079/115368.jpg",
+        "alt": "daihao-12348"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "代号 12348",

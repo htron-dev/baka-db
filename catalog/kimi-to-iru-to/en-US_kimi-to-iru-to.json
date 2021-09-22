@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Iru to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45445.jpg",
+        "alt": "kimi-to-iru-to"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "きみといると",

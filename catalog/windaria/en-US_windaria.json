@@ -1,5 +1,9 @@
 {
     "title": "Windaria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/25497.jpg",
+        "alt": "windaria"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ウインダリア, 童話めいた戦史ウインダリア",

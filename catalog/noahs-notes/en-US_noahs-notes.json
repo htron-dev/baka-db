@@ -1,5 +1,9 @@
 {
     "title": "Noah's Notes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210504.jpg",
+        "alt": "noahs-notes"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

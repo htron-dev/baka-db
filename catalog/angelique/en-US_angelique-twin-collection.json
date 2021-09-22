@@ -1,12 +1,16 @@
 {
     "title": "Angelique: Twin Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/3185.jpg",
+        "alt": "angelique-twin-collection"
+    },
     "type": "ova",
     "episodes": "8",
     "original_name": "アンジェリーク　 Twin コレクション",
     "start_date": "2002-03-27",
     "end_date": "2002-03-27",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Gold Rush ~21st Century's~\" by Olivie (cv. Takehito Koyasu) (ep 1)",
+    "ending_song": "#1: \"Resolution ~Zutto Hanasanai~\" by Oscar (cv. Kenyuu Horiuchi) (ep 1)",
     "rating": "PG - Children",
     "tags": [
         "fantasy",

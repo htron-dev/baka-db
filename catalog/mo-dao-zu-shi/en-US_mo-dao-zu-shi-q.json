@@ -1,5 +1,9 @@
 {
     "title": "Mo Dao Zu Shi Q",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1748/108467.jpg",
+        "alt": "mo-dao-zu-shi-q"
+    },
     "type": "ona",
     "episodes": "30",
     "original_name": "魔道祖师 Q",

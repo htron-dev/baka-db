@@ -1,5 +1,9 @@
 {
     "title": "Kabukichou Sherlock OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1456/108076.jpg",
+        "alt": "kabukichou-sherlock-ova"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "歌舞伎町シャーロック",

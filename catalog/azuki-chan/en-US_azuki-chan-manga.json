@@ -1,5 +1,9 @@
 {
     "title": "Azuki-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9370.jpg",
+        "alt": "azuki-chan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "58",

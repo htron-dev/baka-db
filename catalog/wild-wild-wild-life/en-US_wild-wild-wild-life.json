@@ -1,5 +1,9 @@
 {
     "title": "Wild Wild Wild Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189619.jpg",
+        "alt": "wild-wild-wild-life"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Yumemaboroshi no Gotoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166335.jpg",
+        "alt": "yumemaboroshi-no-gotoku"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "91",

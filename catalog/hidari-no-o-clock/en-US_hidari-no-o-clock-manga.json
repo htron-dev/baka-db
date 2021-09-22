@@ -1,5 +1,9 @@
 {
     "title": "Hidari no O'Clock!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198775.jpg",
+        "alt": "hidari-no-o-clock"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Mushrambo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/87702.jpg",
+        "alt": "mushrambo"
+    },
     "type": "tv-serie",
     "episodes": "32",
     "original_name": "マシュランボー",

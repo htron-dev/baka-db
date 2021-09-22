@@ -1,5 +1,9 @@
 {
     "title": "Tsukiyo no Kokuhaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/50173.jpg",
+        "alt": "tsukiyo-no-kokuhaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

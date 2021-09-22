@@ -1,5 +1,9 @@
 {
     "title": "Misumisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80887.jpg",
+        "alt": "misumisou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

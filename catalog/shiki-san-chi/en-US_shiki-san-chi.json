@@ -1,5 +1,9 @@
 {
     "title": "Shiki-san Chi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224326.jpg",
+        "alt": "shiki-san-chi"
+    },
     "type": "manga",
     "original_name": "志木さんち",
     "start_date": "2017-10-20",

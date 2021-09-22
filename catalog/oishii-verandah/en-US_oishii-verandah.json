@@ -1,5 +1,9 @@
 {
     "title": "Oishii Verandah.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222349.jpg",
+        "alt": "oishii-verandah"
+    },
     "type": "manga",
     "original_name": "おいしいベランダ。",
     "start_date": "2018-03-05",

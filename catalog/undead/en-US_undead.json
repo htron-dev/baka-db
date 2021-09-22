@@ -1,5 +1,9 @@
 {
     "title": "Undead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205509.jpg",
+        "alt": "undead"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Grimm Douwa Anime Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/84671.jpg",
+        "alt": "grimm-douwa-anime-series"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "グリム童話アニメシリーズ",

@@ -1,12 +1,16 @@
 {
     "title": "Kemono no Souja Erin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/19845.jpg",
+        "alt": "kemono-no-souja-erin"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "獣の奏者エリン",
     "start_date": "2009-01-10",
     "end_date": "2009-01-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Shizuku (雫)\" by Sukima Switch (eps 1-30)",
+    "ending_song": "#1: \"After the rain\" by cossami (eps 1-29)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

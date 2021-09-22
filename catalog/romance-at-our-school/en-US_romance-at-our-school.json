@@ -1,5 +1,9 @@
 {
     "title": "Romance at Our School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11638.jpg",
+        "alt": "romance-at-our-school"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

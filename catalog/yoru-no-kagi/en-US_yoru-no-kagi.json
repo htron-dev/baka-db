@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Kagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210976.jpg",
+        "alt": "yoru-no-kagi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "52",

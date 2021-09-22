@@ -1,5 +1,9 @@
 {
     "title": "Obocchama no Otanoshimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26777.jpg",
+        "alt": "obocchama-no-otanoshimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

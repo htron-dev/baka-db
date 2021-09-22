@@ -1,5 +1,9 @@
 {
     "title": "Muv-Luv",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135017.jpg",
+        "alt": "muv-luv"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

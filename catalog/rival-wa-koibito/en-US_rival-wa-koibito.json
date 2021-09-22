@@ -1,5 +1,9 @@
 {
     "title": "Rival wa, Koibito.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/108239.jpg",
+        "alt": "rival-wa-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Grimm Meisaku Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1562/96991.jpg",
+        "alt": "grimm-meisaku-gekijou"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "グリム名作劇場",

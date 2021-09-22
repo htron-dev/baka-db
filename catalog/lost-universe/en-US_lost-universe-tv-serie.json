@@ -1,12 +1,16 @@
 {
     "title": "Lost Universe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/20409.jpg",
+        "alt": "lost-universe"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ロスト・ユニバース",
     "start_date": "1998-04-03",
     "end_date": "1998-04-03",
     "opening_song": "\"Infinity (~infinity~∞)\" by Megumi Hayashibara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Extrication\" by Megumi Hayashibara (eps 1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

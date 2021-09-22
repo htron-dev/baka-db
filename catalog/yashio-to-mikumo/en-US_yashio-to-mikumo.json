@@ -1,5 +1,9 @@
 {
     "title": "Yashio to Mikumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196318.jpg",
+        "alt": "yashio-to-mikumo"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "32",

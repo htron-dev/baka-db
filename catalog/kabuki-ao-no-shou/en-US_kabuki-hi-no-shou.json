@@ -1,5 +1,9 @@
 {
     "title": "Kabuki - Hi no Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14607.jpg",
+        "alt": "kabuki-hi-no-shou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "カブキ～緋の章～",

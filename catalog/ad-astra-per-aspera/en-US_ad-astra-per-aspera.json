@@ -1,5 +1,9 @@
 {
     "title": "Ad Astra Per Aspera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172690.jpg",
+        "alt": "ad-astra-per-aspera"
+    },
     "type": "manga",
     "original_name": "アド アストラ ペル アスペラ",
     "start_date": "2015-09-02",

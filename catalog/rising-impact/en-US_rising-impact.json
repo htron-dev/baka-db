@@ -1,5 +1,9 @@
 {
     "title": "Rising Impact",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186584.jpg",
+        "alt": "rising-impact"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "170",

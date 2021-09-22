@@ -1,5 +1,9 @@
 {
     "title": "Imawabi no Dakini",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/110967.jpg",
+        "alt": "imawabi-no-dakini"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

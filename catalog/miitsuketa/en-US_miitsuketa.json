@@ -1,5 +1,9 @@
 {
     "title": "Miitsuketa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/65981.jpg",
+        "alt": "miitsuketa"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "みーつけた！",

@@ -1,5 +1,9 @@
 {
     "title": "Rurouni Kenshin: Yahiko's Battle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/48927.jpg",
+        "alt": "rurouni-kenshin-yahikos-battle"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "22",

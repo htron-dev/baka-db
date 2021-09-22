@@ -1,5 +1,9 @@
 {
     "title": "Unsimulated Incubator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177904.jpg",
+        "alt": "unsimulated-incubator"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

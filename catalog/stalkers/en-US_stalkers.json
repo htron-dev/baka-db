@@ -1,5 +1,9 @@
 {
     "title": "Stalkers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233883.jpg",
+        "alt": "stalkers"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

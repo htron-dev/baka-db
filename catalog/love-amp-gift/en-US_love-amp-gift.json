@@ -1,5 +1,9 @@
 {
     "title": "Love &amp; Gift",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75955.jpg",
+        "alt": "love-amp-gift"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "LOVE&GIFT",

@@ -1,5 +1,9 @@
 {
     "title": "Sakura Taisen: Le Nouveau Paris",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1260/107216.jpg",
+        "alt": "sakura-taisen-le-nouveau-paris"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "サクラ大戦『ル・ヌーヴォー・巴里』",

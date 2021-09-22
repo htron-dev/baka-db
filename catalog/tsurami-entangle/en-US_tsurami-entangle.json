@@ -1,5 +1,9 @@
 {
     "title": "Tsurami Entangle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133279.jpg",
+        "alt": "tsurami-entangle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

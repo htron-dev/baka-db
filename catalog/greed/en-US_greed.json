@@ -1,5 +1,9 @@
 {
     "title": "Greed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/47315.jpg",
+        "alt": "greed"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "グリード",

@@ -1,5 +1,9 @@
 {
     "title": "Given",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172497.jpg",
+        "alt": "given"
+    },
     "type": "manga",
     "original_name": "ギヴン",
     "start_date": "2013-04-30",

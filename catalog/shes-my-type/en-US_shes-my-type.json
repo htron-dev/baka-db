@@ -1,5 +1,9 @@
 {
     "title": "She's My Type",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244928.jpg",
+        "alt": "shes-my-type"
+    },
     "type": "manhwa",
     "original_name": "취향저격 그녀",
     "start_date": "2018-04-01",

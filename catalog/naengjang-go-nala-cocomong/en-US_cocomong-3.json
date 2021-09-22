@@ -1,5 +1,9 @@
 {
     "title": "Cocomong 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1137/93099.jpg",
+        "alt": "cocomong-3"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "코코몽3",

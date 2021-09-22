@@ -1,5 +1,9 @@
 {
     "title": "q.Tenjou no Ongaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237319.jpg",
+        "alt": "q-tenjou-no-ongaku"
+    },
     "type": "manga",
     "original_name": "q.天上の音楽",
     "start_date": "2020-05-27",

@@ -1,5 +1,9 @@
 {
     "title": "Unmei wa Boku no Tonari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29871.jpg",
+        "alt": "unmei-wa-boku-no-tonari"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "運命は僕の隣",

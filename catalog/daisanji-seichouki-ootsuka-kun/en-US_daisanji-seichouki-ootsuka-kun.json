@@ -1,5 +1,9 @@
 {
     "title": "Daisanji Seichouki, Ootsuka-kun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125887.jpg",
+        "alt": "daisanji-seichouki-ootsuka-kun"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

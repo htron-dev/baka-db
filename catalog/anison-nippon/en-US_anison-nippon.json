@@ -1,5 +1,9 @@
 {
     "title": "Anison Nippon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/77500.jpg",
+        "alt": "anison-nippon"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "アニソン日本",

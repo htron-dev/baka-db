@@ -1,12 +1,16 @@
 {
     "title": "Uta no☆Prince-sama♪: Maji Love Revolutions",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/73328.jpg",
+        "alt": "uta-no☆-prince-sama♪-maji-love-revolutions"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "うたの ☆ プリンスさまっ ♪ マジ LOVE レボリューションズ",
     "start_date": "2015-04-05",
     "end_date": "2015-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"The dice are cast\" by Quartet Night (ep 1)",
+    "ending_song": "#1:\"Maji Love Revolutions (マジ LOVE レボリューションズ)\" by ST☆RISH (eps 2-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

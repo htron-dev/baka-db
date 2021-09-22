@@ -1,5 +1,9 @@
 {
     "title": "Otome, Sakazu ni Chiru na Kare.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/69605.jpg",
+        "alt": "otome-sakazu-ni-chiru-na-kare"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

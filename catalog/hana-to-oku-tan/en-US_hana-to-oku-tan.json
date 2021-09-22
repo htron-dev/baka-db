@@ -1,5 +1,9 @@
 {
     "title": "Hana to Oku-tan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222484.jpg",
+        "alt": "hana-to-oku-tan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "19",

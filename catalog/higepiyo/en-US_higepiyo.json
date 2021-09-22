@@ -1,5 +1,9 @@
 {
     "title": "Higepiyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/23125.jpg",
+        "alt": "higepiyo"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ひげぴよ, ヒゲぴよ",

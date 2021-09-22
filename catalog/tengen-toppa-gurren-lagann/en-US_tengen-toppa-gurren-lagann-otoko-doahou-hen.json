@@ -1,5 +1,9 @@
 {
     "title": "Tengen Toppa Gurren Lagann: Otoko Doahou!-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157918.jpg",
+        "alt": "tengen-toppa-gurren-lagann-otoko-doahou-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

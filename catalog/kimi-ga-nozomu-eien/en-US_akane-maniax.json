@@ -1,12 +1,16 @@
 {
     "title": "Akane Maniax",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/5237.jpg",
+        "alt": "akane-maniax"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "アカネマニアックス",
     "start_date": "2004-11-25",
     "end_date": "2004-11-25",
     "opening_song": "\"Beginning\" by Minami Kuribayashi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Arigato...\" by Kaori Mizuhashi (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

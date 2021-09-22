@@ -1,5 +1,9 @@
 {
     "title": "Salad Juu Yuushi Tomatoman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/32445.jpg",
+        "alt": "salad-juu-yuushi-tomatoman"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "サラダ十勇士トマトマン",

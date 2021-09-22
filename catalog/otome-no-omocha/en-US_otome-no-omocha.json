@@ -1,5 +1,9 @@
 {
     "title": "Otome no Omocha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242622.jpg",
+        "alt": "otome-no-omocha"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

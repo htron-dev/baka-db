@@ -1,5 +1,9 @@
 {
     "title": "Brafman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187023.jpg",
+        "alt": "brafman"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

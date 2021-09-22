@@ -1,5 +1,9 @@
 {
     "title": "Nonscale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128453.jpg",
+        "alt": "nonscale"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

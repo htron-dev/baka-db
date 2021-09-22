@@ -1,12 +1,16 @@
 {
     "title": "Mahou Sensei Negima!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/89535.jpg",
+        "alt": "mahou-sensei-negima"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "魔法先生 ネギま！",
     "start_date": "2005-01-06",
     "end_date": "2005-01-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Happy Material\" by Yuri Shiratori, Madoka Kimura, Ayana Sasagawa, Natsuko Kuwatani, Kotomi Yamakawa, Azumi Yamamoto (eps 1-4)",
+    "ending_song": "#1: \"Kagayaku Kimi e\" by Akemi Kanda, Ai Nonaka, Mamiko Noto, and Yu Kobayashi (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

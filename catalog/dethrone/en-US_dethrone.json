@@ -1,5 +1,9 @@
 {
     "title": "Dethrone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/105525.jpg",
+        "alt": "dethrone"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

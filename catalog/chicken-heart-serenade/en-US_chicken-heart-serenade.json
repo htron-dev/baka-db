@@ -1,5 +1,9 @@
 {
     "title": "Chicken Heart Serenade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245833.jpg",
+        "alt": "chicken-heart-serenade"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

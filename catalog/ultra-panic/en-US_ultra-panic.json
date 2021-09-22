@@ -1,5 +1,9 @@
 {
     "title": "Ultra Panic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130201.jpg",
+        "alt": "ultra-panic"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ウルトラパニック",

@@ -1,5 +1,9 @@
 {
     "title": "Black Dahlia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82472.jpg",
+        "alt": "black-dahlia"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

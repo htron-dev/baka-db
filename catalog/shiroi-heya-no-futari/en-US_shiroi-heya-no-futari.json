@@ -1,5 +1,9 @@
 {
     "title": "Shiroi Heya no Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12864.jpg",
+        "alt": "shiroi-heya-no-futari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

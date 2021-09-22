@@ -1,5 +1,9 @@
 {
     "title": "Rule",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/72933.jpg",
+        "alt": "rule"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ルール",

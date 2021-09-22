@@ -1,5 +1,9 @@
 {
     "title": "Papa wa Dandy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95785.jpg",
+        "alt": "papa-wa-dandy"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "パパはダンディー",

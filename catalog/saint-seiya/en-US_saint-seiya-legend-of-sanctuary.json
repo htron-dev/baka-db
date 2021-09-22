@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya: Legend of Sanctuary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/78671.jpg",
+        "alt": "saint-seiya-legend-of-sanctuary"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "聖闘士星矢 LEGEND of SANCTUARY",

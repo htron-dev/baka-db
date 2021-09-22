@@ -1,5 +1,9 @@
 {
     "title": "Zenkamono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215301.jpg",
+        "alt": "zenkamono"
+    },
     "type": "manga",
     "original_name": "前科者",
     "start_date": "2017-12-20",

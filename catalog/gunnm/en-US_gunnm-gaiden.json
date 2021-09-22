@@ -1,5 +1,9 @@
 {
     "title": "Gunnm Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210364.jpg",
+        "alt": "gunnm-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

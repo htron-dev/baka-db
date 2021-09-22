@@ -1,5 +1,9 @@
 {
     "title": "The Man Who Saw Hell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33928.jpg",
+        "alt": "the-man-who-saw-hell"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

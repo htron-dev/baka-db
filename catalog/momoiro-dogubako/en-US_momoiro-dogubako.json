@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Dogubako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81584.jpg",
+        "alt": "momoiro-dogubako"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "百いろどうぐばこ",

@@ -1,5 +1,9 @@
 {
     "title": "Hareru Unicorn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126363.jpg",
+        "alt": "hareru-unicorn"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ハレルユニコーン",

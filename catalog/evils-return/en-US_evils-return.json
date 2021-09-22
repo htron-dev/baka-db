@@ -1,5 +1,9 @@
 {
     "title": "Evil's Return",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166999.jpg",
+        "alt": "evils-return"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "14",

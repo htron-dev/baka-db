@@ -1,5 +1,9 @@
 {
     "title": "Kuroshitsuji Anthology Comic: Nijishitsuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18909.jpg",
+        "alt": "kuroshitsuji-anthology-comic-nijishitsuji"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "27",

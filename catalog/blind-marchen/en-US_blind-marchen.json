@@ -1,5 +1,9 @@
 {
     "title": "Blind Märchen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/66313.jpg",
+        "alt": "blind-marchen"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "24",

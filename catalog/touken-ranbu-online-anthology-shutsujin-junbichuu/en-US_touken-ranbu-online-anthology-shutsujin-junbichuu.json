@@ -1,5 +1,9 @@
 {
     "title": "Touken Ranbu Online Anthology: Shutsujin Junbichuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248022.jpg",
+        "alt": "touken-ranbu-online-anthology-shutsujin-junbichuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

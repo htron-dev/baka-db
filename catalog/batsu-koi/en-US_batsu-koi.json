@@ -1,5 +1,9 @@
 {
     "title": "Batsu Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163663.jpg",
+        "alt": "batsu-koi"
+    },
     "type": "manga",
     "original_name": "バツコイ",
     "start_date": "2014-12-13",

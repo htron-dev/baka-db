@@ -1,12 +1,16 @@
 {
     "title": "Geneshaft",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/76287.jpg",
+        "alt": "geneshaft"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ジーンシャフト",
     "start_date": "2001-04-05",
     "end_date": "2001-04-05",
     "opening_song": "\"Shaft Drive\" by Akira Takasaki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Broken Camera\" by Ji-Zo",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

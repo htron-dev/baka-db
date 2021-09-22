@@ -1,5 +1,9 @@
 {
     "title": "Taishou Origami Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246308.jpg",
+        "alt": "taishou-origami-shounen"
+    },
     "type": "manga",
     "original_name": "大正折リ紙少年",
     "start_date": "2019-10-15",

@@ -1,5 +1,9 @@
 {
     "title": "Kono Senaka ni Tsume wo Tatete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240595.jpg",
+        "alt": "kono-senaka-ni-tsume-wo-tatete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

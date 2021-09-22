@@ -1,5 +1,9 @@
 {
     "title": "Dame Dame Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/161026.jpg",
+        "alt": "dame-dame-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kousoku Renai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/59515.jpg",
+        "alt": "kousoku-renai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

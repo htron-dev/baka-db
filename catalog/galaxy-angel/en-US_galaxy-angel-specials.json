@@ -1,5 +1,9 @@
 {
     "title": "Galaxy Angel Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/37189.jpg",
+        "alt": "galaxy-angel-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ギャラクシーエンジェル",

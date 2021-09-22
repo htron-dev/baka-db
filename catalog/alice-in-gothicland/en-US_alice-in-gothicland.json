@@ -1,5 +1,9 @@
 {
     "title": "Alice in Gothicland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122763.jpg",
+        "alt": "alice-in-gothicland"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "26",

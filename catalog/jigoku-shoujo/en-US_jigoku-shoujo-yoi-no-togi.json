@@ -1,5 +1,9 @@
 {
     "title": "Jigoku Shoujo: Yoi no Togi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1110/92117.jpg",
+        "alt": "jigoku-shoujo-yoi-no-togi"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "地獄少女 宵伽",

@@ -1,12 +1,16 @@
 {
     "title": "Onegai My Melody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/23590.jpg",
+        "alt": "onegai-my-melody"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "おねがいマイメロディ",
     "start_date": "2005-04-03",
     "end_date": "2005-04-03",
     "opening_song": "\"Oto MELODY\" by Mikako Takahashi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"My Dream, My Melody\" by MY MELODIES",
     "rating": "PG - Children",
     "tags": [
         "comedy",

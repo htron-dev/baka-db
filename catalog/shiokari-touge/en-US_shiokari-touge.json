@@ -1,5 +1,9 @@
 {
     "title": "Shiokari Touge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/66201.jpg",
+        "alt": "shiokari-touge"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "塩狩峠",

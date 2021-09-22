@@ -1,12 +1,16 @@
 {
     "title": "Kemono Jihen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1258/108331.jpg",
+        "alt": "kemono-jihen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "怪物事変",
     "start_date": "2021-01-10",
     "end_date": "2021-01-10",
     "opening_song": "\"Kemono Michi (ケモノミチ)\" by Daisuke Ono (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shirushi (-標（しるし）-)\" by Sayaka Sasaki (eps 1-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

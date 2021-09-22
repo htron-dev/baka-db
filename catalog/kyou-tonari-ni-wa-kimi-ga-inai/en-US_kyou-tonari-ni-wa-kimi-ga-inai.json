@@ -1,5 +1,9 @@
 {
     "title": "Kyou, Tonari ni wa Kimi ga Inai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160755.jpg",
+        "alt": "kyou-tonari-ni-wa-kimi-ga-inai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

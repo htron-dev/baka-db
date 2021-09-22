@@ -1,5 +1,9 @@
 {
     "title": "Kimi to, Sekai ga Owaru made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124949.jpg",
+        "alt": "kimi-to-sekai-ga-owaru-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

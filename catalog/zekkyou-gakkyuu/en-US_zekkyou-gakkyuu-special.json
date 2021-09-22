@@ -1,5 +1,9 @@
 {
     "title": "Zekkyou Gakkyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76953.jpg",
+        "alt": "zekkyou-gakkyuu"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "絶叫学級",

@@ -1,5 +1,9 @@
 {
     "title": "Happyakuya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246332.jpg",
+        "alt": "happyakuya"
+    },
     "type": "manga",
     "original_name": "八百夜",
     "start_date": "2017-12-28",

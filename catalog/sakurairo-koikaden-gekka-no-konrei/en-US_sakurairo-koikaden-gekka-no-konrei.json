@@ -1,5 +1,9 @@
 {
     "title": "Sakurairo Koikaden: Gekka no Konrei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182390.jpg",
+        "alt": "sakurairo-koikaden-gekka-no-konrei"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

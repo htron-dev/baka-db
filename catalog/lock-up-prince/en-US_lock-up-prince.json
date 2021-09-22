@@ -1,5 +1,9 @@
 {
     "title": "Lock Up Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222504.jpg",
+        "alt": "lock-up-prince"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

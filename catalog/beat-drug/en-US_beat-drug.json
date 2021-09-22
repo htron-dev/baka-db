@@ -1,5 +1,9 @@
 {
     "title": "Beat Drug",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7629.jpg",
+        "alt": "beat-drug"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ビート・ドラッグ",

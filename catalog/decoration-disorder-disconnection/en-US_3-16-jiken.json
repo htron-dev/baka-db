@@ -1,5 +1,9 @@
 {
     "title": "3/16 Jiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163430.jpg",
+        "alt": "3-16-jiken"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "3/16 事件",

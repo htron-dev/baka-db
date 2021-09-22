@@ -1,5 +1,9 @@
 {
     "title": "Chill",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78369.jpg",
+        "alt": "chill"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "CHILL",

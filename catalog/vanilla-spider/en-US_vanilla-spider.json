@@ -1,5 +1,9 @@
 {
     "title": "Vanilla Spider",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184296.jpg",
+        "alt": "vanilla-spider"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

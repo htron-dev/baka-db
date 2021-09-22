@@ -1,5 +1,9 @@
 {
     "title": "Princess Nightmare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20857.jpg",
+        "alt": "princess-nightmare"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

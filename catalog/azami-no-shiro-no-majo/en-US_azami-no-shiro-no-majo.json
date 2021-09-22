@@ -1,5 +1,9 @@
 {
     "title": "Azami no Shiro no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222623.jpg",
+        "alt": "azami-no-shiro-no-majo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

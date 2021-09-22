@@ -1,5 +1,9 @@
 {
     "title": "Ao no Rhapsodia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63351.jpg",
+        "alt": "ao-no-rhapsodia"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

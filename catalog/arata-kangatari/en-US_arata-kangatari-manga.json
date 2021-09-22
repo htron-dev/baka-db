@@ -1,5 +1,9 @@
 {
     "title": "Arata Kangatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159724.jpg",
+        "alt": "arata-kangatari"
+    },
     "type": "manga",
     "original_name": "アラタカンガタリ～革神語～",
     "start_date": "2008-10-01",

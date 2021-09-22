@@ -1,5 +1,9 @@
 {
     "title": "Vocchi-men",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205408.jpg",
+        "alt": "vocchi-men"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

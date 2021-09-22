@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Kiss de Furete.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96431.jpg",
+        "alt": "kimi-no-kiss-de-furete"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

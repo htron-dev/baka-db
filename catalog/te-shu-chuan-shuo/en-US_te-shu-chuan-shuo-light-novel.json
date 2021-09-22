@@ -1,5 +1,9 @@
 {
     "title": "Te Shu Chuan Shuo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125999.jpg",
+        "alt": "te-shu-chuan-shuo"
+    },
     "type": "light-novel",
     "original_name": "特殊傳說",
     "start_date": "2007-07-20",

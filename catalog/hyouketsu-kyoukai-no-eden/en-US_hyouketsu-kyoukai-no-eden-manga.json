@@ -1,5 +1,9 @@
 {
     "title": "Hyouketsu Kyoukai no Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/119933.jpg",
+        "alt": "hyouketsu-kyoukai-no-eden"
+    },
     "type": "manga",
     "original_name": "氷結鏡界のエデン",
     "start_date": "2012-06-26",

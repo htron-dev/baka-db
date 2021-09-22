@@ -1,5 +1,9 @@
 {
     "title": "Rockman Battle &amp; Chase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35089.jpg",
+        "alt": "rockman-battle-amp-chase"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "洛克人大賽車",

@@ -1,5 +1,9 @@
 {
     "title": "Crusher Joe OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/18788.jpg",
+        "alt": "crusher-joe-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "クラッシャージョウ",

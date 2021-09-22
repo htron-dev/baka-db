@@ -1,5 +1,9 @@
 {
     "title": "Oujo Denka wa Oikari no you desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230217.jpg",
+        "alt": "oujo-denka-wa-oikari-no-you-desu"
+    },
     "type": "light-novel",
     "original_name": "王女殿下はお怒りのようです",
     "start_date": "2018-12-25",

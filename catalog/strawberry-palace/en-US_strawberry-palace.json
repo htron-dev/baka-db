@@ -1,5 +1,9 @@
 {
     "title": "Strawberry Palace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30834.jpg",
+        "alt": "strawberry-palace"
+    },
     "type": "manga",
     "original_name": "ストロベリー・パレス",
     "start_date": "2008-09-20",

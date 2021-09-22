@@ -1,5 +1,9 @@
 {
     "title": "My Beautiful World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151887.jpg",
+        "alt": "my-beautiful-world"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "68",

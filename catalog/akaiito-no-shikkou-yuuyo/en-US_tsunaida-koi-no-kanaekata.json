@@ -1,5 +1,9 @@
 {
     "title": "Tsunaida Koi no Kanaekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227728.jpg",
+        "alt": "tsunaida-koi-no-kanaekata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Battle Spirits: Saga Brave",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1275/102211.jpg",
+        "alt": "battle-spirits-saga-brave"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "バトルスピリッツ サーガブレイヴ",

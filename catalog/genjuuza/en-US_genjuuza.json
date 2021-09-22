@@ -1,5 +1,9 @@
 {
     "title": "Genjuuza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115579.jpg",
+        "alt": "genjuuza"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

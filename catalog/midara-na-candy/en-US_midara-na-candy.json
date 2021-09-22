@@ -1,5 +1,9 @@
 {
     "title": "Midara na Candy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/31864.jpg",
+        "alt": "midara-na-candy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

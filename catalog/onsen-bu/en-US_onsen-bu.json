@@ -1,5 +1,9 @@
 {
     "title": "Onsen-bu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124489.jpg",
+        "alt": "onsen-bu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "おんせん部!",

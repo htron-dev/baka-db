@@ -1,5 +1,9 @@
 {
     "title": "Neko no Te wa Karinai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204476.jpg",
+        "alt": "neko-no-te-wa-karinai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Sakura Code",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156896.jpg",
+        "alt": "sakura-code"
+    },
     "type": "manga",
     "original_name": "サクラコード",
     "start_date": "2013-04-26",

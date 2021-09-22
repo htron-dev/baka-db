@@ -1,5 +1,9 @@
 {
     "title": "Family!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27344.jpg",
+        "alt": "family"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "ファミリー!",

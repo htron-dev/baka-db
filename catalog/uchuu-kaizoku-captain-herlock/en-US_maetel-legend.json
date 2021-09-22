@@ -1,5 +1,9 @@
 {
     "title": "Maetel Legend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2396.jpg",
+        "alt": "maetel-legend"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "メーテルレジェンド",

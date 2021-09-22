@@ -1,5 +1,9 @@
 {
     "title": "Koi Puzzle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22432.jpg",
+        "alt": "koi-puzzle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

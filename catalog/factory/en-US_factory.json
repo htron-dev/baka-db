@@ -1,5 +1,9 @@
 {
     "title": "Factory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1352/94786.jpg",
+        "alt": "factory"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "FACTORY",

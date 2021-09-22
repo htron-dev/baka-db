@@ -1,5 +1,9 @@
 {
     "title": "Kocchi Muite! Miiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/39638.jpg",
+        "alt": "kocchi-muite-miiko"
+    },
     "type": "manga",
     "original_name": "こっちむいて!みい子",
     "tags": [

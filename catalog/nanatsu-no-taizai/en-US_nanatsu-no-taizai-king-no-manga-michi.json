@@ -1,5 +1,9 @@
 {
     "title": "Nanatsu no Taizai: King no Manga Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185481.jpg",
+        "alt": "nanatsu-no-taizai-king-no-manga-michi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "48",

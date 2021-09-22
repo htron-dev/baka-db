@@ -1,12 +1,16 @@
 {
     "title": "Rockman.EXE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/26575.jpg",
+        "alt": "rockman-exe"
+    },
     "type": "tv-serie",
     "episodes": "56",
     "original_name": "ロックマン エグゼ",
     "start_date": "2002-03-04",
     "end_date": "2002-03-04",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Kaze wo Tsukinukete\" by Jin Hashimoto",
+    "ending_song": "#01: \"Piece of Peace\" by Mika (eps 1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

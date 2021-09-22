@@ -1,5 +1,9 @@
 {
     "title": "Dokoka Tooku no Hanashi wo Shiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227351.jpg",
+        "alt": "dokoka-tooku-no-hanashi-wo-shiyou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

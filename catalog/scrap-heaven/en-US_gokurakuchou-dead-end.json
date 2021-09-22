@@ -1,5 +1,9 @@
 {
     "title": "Gokurakuchou Dead End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187216.jpg",
+        "alt": "gokurakuchou-dead-end"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

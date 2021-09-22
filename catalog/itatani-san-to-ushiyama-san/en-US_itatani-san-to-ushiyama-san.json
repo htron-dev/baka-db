@@ -1,5 +1,9 @@
 {
     "title": "Itatani-san to Ushiyama-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165461.jpg",
+        "alt": "itatani-san-to-ushiyama-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

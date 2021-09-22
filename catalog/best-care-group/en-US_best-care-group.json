@@ -1,5 +1,9 @@
 {
     "title": "Best Care Group",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/81650.jpg",
+        "alt": "best-care-group"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "ベストケアグループ",

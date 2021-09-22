@@ -1,5 +1,9 @@
 {
     "title": "Kare ni Biyaku wo Nomasetara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236080.jpg",
+        "alt": "kare-ni-biyaku-wo-nomasetara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

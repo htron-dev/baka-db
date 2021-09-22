@@ -1,5 +1,9 @@
 {
     "title": "Hanayome wa Motodanshi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173099.jpg",
+        "alt": "hanayome-wa-motodanshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

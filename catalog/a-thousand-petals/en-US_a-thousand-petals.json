@@ -1,5 +1,9 @@
 {
     "title": "A Thousand Petals",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164635.jpg",
+        "alt": "a-thousand-petals"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "90",

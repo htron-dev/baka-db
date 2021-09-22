@@ -1,5 +1,9 @@
 {
     "title": "Binkan! Vivit-san.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241191.jpg",
+        "alt": "binkan-vivit-san"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "敏感! ビビットさん。",

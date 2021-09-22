@@ -1,5 +1,9 @@
 {
     "title": "Last Exile: Sunadokei no Tabibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210750.jpg",
+        "alt": "last-exile-sunadokei-no-tabibito"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Centaur no Nayami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76597.jpg",
+        "alt": "centaur-no-nayami"
+    },
     "type": "manga",
     "original_name": "セントールの悩み",
     "start_date": "2010-12-18",

@@ -1,5 +1,9 @@
 {
     "title": "Shinkurou, Hashiru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210830.jpg",
+        "alt": "shinkurou-hashiru"
+    },
     "type": "manga",
     "original_name": "新九郎、奔る！",
     "start_date": "2018-01-27",

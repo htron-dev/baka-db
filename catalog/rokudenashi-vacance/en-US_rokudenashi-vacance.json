@@ -1,5 +1,9 @@
 {
     "title": "Rokudenashi Vacance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161848.jpg",
+        "alt": "rokudenashi-vacance"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Azrael",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/60561.jpg",
+        "alt": "azrael"
+    },
     "type": "manhwa",
     "original_name": "아즈라엘",
     "tags": [

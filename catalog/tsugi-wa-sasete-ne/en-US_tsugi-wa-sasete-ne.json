@@ -1,5 +1,9 @@
 {
     "title": "Tsugi wa Sasete ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190711.jpg",
+        "alt": "tsugi-wa-sasete-ne"
+    },
     "type": "manga",
     "original_name": "次はさせてね",
     "start_date": "2016-06-22",

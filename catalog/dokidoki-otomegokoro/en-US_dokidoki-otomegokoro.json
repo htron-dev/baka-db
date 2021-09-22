@@ -1,5 +1,9 @@
 {
     "title": "Dokidoki Otomegokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/10425.jpg",
+        "alt": "dokidoki-otomegokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ドキドキ。乙女心",

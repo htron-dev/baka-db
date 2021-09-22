@@ -1,5 +1,9 @@
 {
     "title": "Yoru wo Meguru Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81914.jpg",
+        "alt": "yoru-wo-meguru-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

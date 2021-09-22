@@ -1,5 +1,9 @@
 {
     "title": "Er Dan Toutai Ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1745/115316.jpg",
+        "alt": "er-dan-toutai-ji"
+    },
     "type": "tv-serie",
     "episodes": "2",
     "original_name": "二蛋投胎记",

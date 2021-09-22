@@ -1,12 +1,16 @@
 {
     "title": "Youkai Watch: Shadow Side",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1072/90600.jpg",
+        "alt": "youkai-watch-shadow-side"
+    },
     "type": "tv-serie",
     "episodes": "49",
     "original_name": "妖怪ウォッチ シャドウサイド",
     "start_date": "2018-04-13",
     "end_date": "2018-04-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Toki wo Matou\" by Hard Birds (eps 1-26)",
+    "ending_song": "#1: \"Funky Boogie Bar (ファンキー・ブギブバー)\" by King Cream Soda (eps 1-26)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

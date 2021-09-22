@@ -1,5 +1,9 @@
 {
     "title": "Dīsupo Faitazu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248581.jpg",
+        "alt": "disupo-faitazu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

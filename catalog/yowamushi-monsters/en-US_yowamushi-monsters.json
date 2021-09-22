@@ -1,5 +1,9 @@
 {
     "title": "Yowamushi Monsters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/72127.jpg",
+        "alt": "yowamushi-monsters"
+    },
     "type": "tv-serie",
     "original_name": "よわむしモンスターズ",
     "start_date": "2012-12-25",

@@ -1,5 +1,9 @@
 {
     "title": "The Chef: Shinshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76591.jpg",
+        "alt": "the-chef-shinshou"
+    },
     "type": "manga",
     "volumes": "41",
     "original_name": "ザ・シェフ 新章",

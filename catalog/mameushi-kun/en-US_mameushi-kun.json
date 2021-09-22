@@ -1,5 +1,9 @@
 {
     "title": "Mameushi-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/34397.jpg",
+        "alt": "mameushi-kun"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "まめうしくん",

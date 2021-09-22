@@ -1,12 +1,16 @@
 {
     "title": "Weiß Kreuz Glühen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/23693.jpg",
+        "alt": "weiss-kreuz-gluhen"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ヴァイスクロイツ・グリーエン",
     "start_date": "2002-11-28",
     "end_date": "2002-11-28",
     "opening_song": "\"Glühen\" by Weiß",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Stone Roses\" by Weiß (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

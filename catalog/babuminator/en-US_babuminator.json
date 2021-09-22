@@ -1,5 +1,9 @@
 {
     "title": "Babuminator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201050.jpg",
+        "alt": "babuminator"
+    },
     "type": "light-novel",
     "original_name": "バブみネーター",
     "start_date": "2017-09-25",

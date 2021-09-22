@@ -1,5 +1,9 @@
 {
     "title": "Furimukuna Kimi wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196952.jpg",
+        "alt": "furimukuna-kimi-wa"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

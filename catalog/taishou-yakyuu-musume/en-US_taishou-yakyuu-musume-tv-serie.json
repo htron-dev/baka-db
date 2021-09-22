@@ -1,5 +1,9 @@
 {
     "title": "Taishou Yakyuu Musume.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/22583.jpg",
+        "alt": "taishou-yakyuu-musume"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "大正野球娘。",

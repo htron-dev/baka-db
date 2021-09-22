@@ -1,5 +1,9 @@
 {
     "title": "Uta∽Kata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/25392.jpg",
+        "alt": "uta∽-kata"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "うた ∽ かた",

@@ -1,12 +1,16 @@
 {
     "title": "Karasu Tengu Kabuto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2445.jpg",
+        "alt": "karasu-tengu-kabuto"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "カラス天狗カブト",
     "start_date": "1990-07-29",
     "end_date": "1990-07-29",
     "opening_song": "\"Kabuto (KA・BU・TO)\" by Akira Kushida",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Beyond the Era: Jidai wo Koete (Beyond The Era -時代を越えて-)\" by Mika Kaneko",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

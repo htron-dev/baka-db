@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Alps no Shoujo Heidi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/58661.jpg",
+        "alt": "hello-kitty-no-alps-no-shoujo-heidi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのアルプスの少女ハイジ",

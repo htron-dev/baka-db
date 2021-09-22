@@ -1,5 +1,9 @@
 {
     "title": "My Fair Sister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139135.jpg",
+        "alt": "my-fair-sister"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "マイフェア SISTER",

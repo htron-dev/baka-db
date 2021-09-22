@@ -1,10 +1,14 @@
 {
     "title": "Sore Ike! Anpanman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1902/111797.jpg",
+        "alt": "sore-ike-anpanman"
+    },
     "type": "tv-serie",
     "original_name": "それいけ！アンパンマン",
     "start_date": "1988-10-03",
     "opening_song": "\"Anpanman no March\" by Dreaming",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Yuuki Rin Rin\" by Dreaming (October 1988 ~)",
     "rating": "PG - Children",
     "tags": [
         "comedy",

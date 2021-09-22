@@ -1,5 +1,9 @@
 {
     "title": "Salva Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79649.jpg",
+        "alt": "salva-me"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

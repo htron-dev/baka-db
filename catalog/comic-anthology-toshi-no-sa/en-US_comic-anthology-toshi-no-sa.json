@@ -1,5 +1,9 @@
 {
     "title": "Comic Anthology Toshi no Sa.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22055.jpg",
+        "alt": "comic-anthology-toshi-no-sa"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "コミックアンソロジー年の差。",

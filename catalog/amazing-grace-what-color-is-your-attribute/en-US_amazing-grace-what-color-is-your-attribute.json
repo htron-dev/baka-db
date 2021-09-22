@@ -1,5 +1,9 @@
 {
     "title": "Amazing Grace: What Color Is Your Attribute?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226047.jpg",
+        "alt": "amazing-grace-what-color-is-your-attribute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

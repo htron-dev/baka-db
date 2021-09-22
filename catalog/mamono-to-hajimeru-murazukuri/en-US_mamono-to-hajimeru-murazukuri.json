@@ -1,5 +1,9 @@
 {
     "title": "Mamono to Hajimeru Murazukuri!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195289.jpg",
+        "alt": "mamono-to-hajimeru-murazukuri"
+    },
     "type": "light-novel",
     "original_name": "魔物と始める村づくり！",
     "start_date": "2017-04-22",

@@ -1,5 +1,9 @@
 {
     "title": "Propeller Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9074.jpg",
+        "alt": "propeller-heaven"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

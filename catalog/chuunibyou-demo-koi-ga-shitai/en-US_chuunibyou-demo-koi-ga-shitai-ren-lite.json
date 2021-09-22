@@ -1,5 +1,9 @@
 {
     "title": "Chuunibyou demo Koi ga Shitai! Ren Lite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/57457.jpg",
+        "alt": "chuunibyou-demo-koi-ga-shitai-ren-lite"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "中二病でも恋がしたい！戀 Lite",

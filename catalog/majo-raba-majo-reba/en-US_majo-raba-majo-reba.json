@@ -1,5 +1,9 @@
 {
     "title": "Majo Raba Majo Reba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242604.jpg",
+        "alt": "majo-raba-majo-reba"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

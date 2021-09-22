@@ -1,5 +1,9 @@
 {
     "title": "Kill Me Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158552.jpg",
+        "alt": "kill-me-baby"
+    },
     "type": "manga",
     "original_name": "キルミーベイベー",
     "start_date": "2008-07-27",

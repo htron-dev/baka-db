@@ -1,5 +1,9 @@
 {
     "title": "Sai Drill",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192111.jpg",
+        "alt": "sai-drill"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

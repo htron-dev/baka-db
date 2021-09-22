@@ -1,12 +1,16 @@
 {
     "title": "Hime-chan no Ribbon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1049/111001.jpg",
+        "alt": "hime-chan-no-ribbon"
+    },
     "type": "tv-serie",
     "episodes": "61",
     "original_name": "姫ちゃんのリボン",
     "start_date": "1992-10-02",
     "end_date": "1992-10-02",
     "opening_song": "\"Egao no Genki (笑顔のゲンキ)\" by SMAP",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Bura Bura Sasete (ブラブラさせて)\" by SMAP (eps 1-31)",
     "rating": "PG - Children",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Tayo-ui Jangnangam Adventure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1698/101725.jpg",
+        "alt": "tayo-ui-jangnangam-adventure"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "타요의 장난감 어드벤처",

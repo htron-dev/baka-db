@@ -1,5 +1,9 @@
 {
     "title": "Anima ni Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45029.jpg",
+        "alt": "anima-ni-aru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アニマニアル",

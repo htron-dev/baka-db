@@ -1,5 +1,9 @@
 {
     "title": "Appleseed α",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148991.jpg",
+        "alt": "appleseed-α"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

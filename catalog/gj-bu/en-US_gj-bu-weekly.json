@@ -1,5 +1,9 @@
 {
     "title": "GJ-bu Weekly",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160566.jpg",
+        "alt": "gj-bu-weekly"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "32",

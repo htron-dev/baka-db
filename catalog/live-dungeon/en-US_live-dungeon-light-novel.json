@@ -1,5 +1,9 @@
 {
     "title": "Live Dungeon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186101.jpg",
+        "alt": "live-dungeon"
+    },
     "type": "light-novel",
     "original_name": "ライブダンジョン!",
     "start_date": "2016-12-10",

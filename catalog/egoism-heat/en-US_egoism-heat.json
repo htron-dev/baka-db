@@ -1,5 +1,9 @@
 {
     "title": "Egoism Heat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246002.jpg",
+        "alt": "egoism-heat"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

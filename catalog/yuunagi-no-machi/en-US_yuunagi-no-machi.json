@@ -1,5 +1,9 @@
 {
     "title": "Yuunagi no Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159037.jpg",
+        "alt": "yuunagi-no-machi"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

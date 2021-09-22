@@ -1,5 +1,9 @@
 {
     "title": "Kioku Capsule: Oniichan to, Mou Ichido",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231697.jpg",
+        "alt": "kioku-capsule-oniichan-to-mou-ichido"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

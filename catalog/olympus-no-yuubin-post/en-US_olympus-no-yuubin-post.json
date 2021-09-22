@@ -1,5 +1,9 @@
 {
     "title": "Olympus no Yuubin Post",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238418.jpg",
+        "alt": "olympus-no-yuubin-post"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "オリンポスの郵便ポスト",

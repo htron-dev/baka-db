@@ -1,5 +1,9 @@
 {
     "title": "Fei Zhi Baike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1106/109450.jpg",
+        "alt": "fei-zhi-baike"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "肥志百科",

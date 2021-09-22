@@ -1,5 +1,9 @@
 {
     "title": "On or Off",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238369.jpg",
+        "alt": "on-or-off"
+    },
     "type": "manhwa",
     "original_name": "온 오어 오프",
     "start_date": "2019-02-01",

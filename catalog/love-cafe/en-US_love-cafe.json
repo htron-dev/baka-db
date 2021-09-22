@@ -1,5 +1,9 @@
 {
     "title": "Love Café?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7542.jpg",
+        "alt": "love-cafe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

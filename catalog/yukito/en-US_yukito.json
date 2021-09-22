@@ -1,5 +1,9 @@
 {
     "title": "Yukito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151966.jpg",
+        "alt": "yukito"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "46",

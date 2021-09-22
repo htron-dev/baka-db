@@ -1,5 +1,9 @@
 {
     "title": "Gondora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/61765.jpg",
+        "alt": "gondora"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ゴンドラ",

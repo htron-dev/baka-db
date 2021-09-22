@@ -1,5 +1,9 @@
 {
     "title": "Lunch wa Futari de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113341.jpg",
+        "alt": "lunch-wa-futari-de"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ランチはふたりで",

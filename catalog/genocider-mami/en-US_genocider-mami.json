@@ -1,5 +1,9 @@
 {
     "title": "Genocider Mami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/34730.jpg",
+        "alt": "genocider-mami"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "完殺者真魅〈ジェノサイダー・マミ〉",

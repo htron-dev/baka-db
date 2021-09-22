@@ -1,5 +1,9 @@
 {
     "title": "I Love You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14211.jpg",
+        "alt": "i-love-you"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "アイ・ラブ・ユー",

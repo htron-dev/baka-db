@@ -1,5 +1,9 @@
 {
     "title": "Seiju no Kuni no Kinjutsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177703.jpg",
+        "alt": "seiju-no-kuni-no-kinjutsukai"
+    },
     "type": "light-novel",
     "original_name": "聖樹の国の禁呪使い",
     "start_date": "2014-10-25",

@@ -1,5 +1,9 @@
 {
     "title": "Pokemon XY: Mega Evolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/60225.jpg",
+        "alt": "pokemon-xy-mega-evolution"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "ポケットモンスター XY MEGA EVOLUTION",

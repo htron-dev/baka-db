@@ -1,5 +1,9 @@
 {
     "title": "The Fable",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152911.jpg",
+        "alt": "the-fable"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "240",

@@ -1,5 +1,9 @@
 {
     "title": "Copihan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75584.jpg",
+        "alt": "copihan"
+    },
     "type": "ona",
     "episodes": "7",
     "original_name": "こぴはん",

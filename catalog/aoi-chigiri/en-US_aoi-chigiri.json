@@ -1,5 +1,9 @@
 {
     "title": "Aoi Chigiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194777.jpg",
+        "alt": "aoi-chigiri"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "蒼い契り",

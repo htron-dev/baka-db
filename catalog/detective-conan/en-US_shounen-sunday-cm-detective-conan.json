@@ -1,5 +1,9 @@
 {
     "title": "Shounen Sunday CM: Detective Conan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1661/102859.jpg",
+        "alt": "shounen-sunday-cm-detective-conan"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "CM 小学館 少年サンデー「名探偵コナン」編",

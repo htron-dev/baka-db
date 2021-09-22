@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Maou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216127.jpg",
+        "alt": "kuro-no-maou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Boys' Kingdom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11033.jpg",
+        "alt": "boys-kingdom"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

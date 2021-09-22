@@ -1,5 +1,9 @@
 {
     "title": "The Tempest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/21752.jpg",
+        "alt": "the-tempest"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

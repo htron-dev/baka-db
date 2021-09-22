@@ -1,5 +1,9 @@
 {
     "title": "Dame Yome Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34157.jpg",
+        "alt": "dame-yome-nikki"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "だめよめにっき",

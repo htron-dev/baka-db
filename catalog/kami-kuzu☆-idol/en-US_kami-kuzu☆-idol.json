@@ -1,5 +1,9 @@
 {
     "title": "Kami Kuzu☆Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224374.jpg",
+        "alt": "kami-kuzu☆-idol"
+    },
     "type": "manga",
     "original_name": "神クズ ☆ アイドル",
     "start_date": "2017-12-28",

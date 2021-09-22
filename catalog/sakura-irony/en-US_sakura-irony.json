@@ -1,5 +1,9 @@
 {
     "title": "Sakura Irony",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/103737.jpg",
+        "alt": "sakura-irony"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

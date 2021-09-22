@@ -1,5 +1,9 @@
 {
     "title": "Yacchimonee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179457.jpg",
+        "alt": "yacchimonee"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

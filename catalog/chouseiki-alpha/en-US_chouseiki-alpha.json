@@ -1,5 +1,9 @@
 {
     "title": "Chouseiki Alpha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212351.jpg",
+        "alt": "chouseiki-alpha"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "超世紀アルファ",

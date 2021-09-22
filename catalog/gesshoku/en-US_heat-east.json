@@ -1,5 +1,9 @@
 {
     "title": "Heat East",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38976.jpg",
+        "alt": "heat-east"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ヒート・イースト",

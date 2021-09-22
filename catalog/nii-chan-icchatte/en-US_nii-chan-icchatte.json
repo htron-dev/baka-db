@@ -1,5 +1,9 @@
 {
     "title": "Nii-chan, Icchatte!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22254.jpg",
+        "alt": "nii-chan-icchatte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

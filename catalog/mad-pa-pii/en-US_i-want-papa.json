@@ -1,5 +1,9 @@
 {
     "title": "I Want Papa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16806.jpg",
+        "alt": "i-want-papa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Megaren: Megane x Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37408.jpg",
+        "alt": "megaren-megane-x-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

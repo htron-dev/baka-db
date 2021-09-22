@@ -1,5 +1,9 @@
 {
     "title": "Ultramix Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21056.jpg",
+        "alt": "ultramix-collection"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

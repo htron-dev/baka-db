@@ -1,5 +1,9 @@
 {
     "title": "Hoikumen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/65973.jpg",
+        "alt": "hoikumen"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "ホイクメン！",

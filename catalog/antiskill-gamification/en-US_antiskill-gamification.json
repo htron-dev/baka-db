@@ -1,5 +1,9 @@
 {
     "title": "Antiskill Gamification",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185410.jpg",
+        "alt": "antiskill-gamification"
+    },
     "type": "light-novel",
     "original_name": "アンチスキル・ゲーミフィケーション",
     "start_date": "2016-11-25",

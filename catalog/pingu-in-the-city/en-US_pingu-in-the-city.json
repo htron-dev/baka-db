@@ -1,5 +1,9 @@
 {
     "title": "Pingu in the City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1140/95174.jpg",
+        "alt": "pingu-in-the-city"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ピングー in ザ・シティ",

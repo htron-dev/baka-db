@@ -1,5 +1,9 @@
 {
     "title": "Enkoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205066.jpg",
+        "alt": "enkoi"
+    },
     "type": "manga",
     "original_name": "エンコイ",
     "start_date": "2017-03-31",

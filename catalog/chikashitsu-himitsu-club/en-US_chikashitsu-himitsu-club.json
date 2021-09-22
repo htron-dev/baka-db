@@ -1,5 +1,9 @@
 {
     "title": "Chikashitsu Himitsu Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19976.jpg",
+        "alt": "chikashitsu-himitsu-club"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

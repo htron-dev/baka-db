@@ -1,5 +1,9 @@
 {
     "title": "Strike Witches: Koushiki Comic à la Carte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159997.jpg",
+        "alt": "strike-witches-koushiki-comic-a-la-carte"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "61",

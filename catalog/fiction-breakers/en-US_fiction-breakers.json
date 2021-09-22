@@ -1,5 +1,9 @@
 {
     "title": "Fiction Breakers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183477.jpg",
+        "alt": "fiction-breakers"
+    },
     "type": "light-novel",
     "original_name": "フィクション・ブレイカーズ",
     "start_date": "2016-09-14",

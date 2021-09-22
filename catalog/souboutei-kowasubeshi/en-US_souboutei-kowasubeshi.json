@@ -1,5 +1,9 @@
 {
     "title": "Souboutei Kowasubeshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183921.jpg",
+        "alt": "souboutei-kowasubeshi"
+    },
     "type": "manga",
     "volumes": "25",
     "chapters": "250",

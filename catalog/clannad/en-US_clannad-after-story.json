@@ -1,12 +1,16 @@
 {
     "title": "Clannad: After Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg",
+        "alt": "clannad-after-story"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "CLANNAD〜AFTER STORY〜 クラナド アフターストーリー",
     "start_date": "2008-10-03",
     "end_date": "2008-10-03",
     "opening_song": "\"Toki wo Kizamu Uta (時を刻む唄)\" by Lia",
-    "ending_song": "#1",
+    "ending_song": "#1: \"TORCH\" by Lia (eps 1-21)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Clannad_(visual_novel"
+            "link": "http://en.wikipedia.org/wiki/Clannad_%28visual_novel%29"
         }
     ]
 }

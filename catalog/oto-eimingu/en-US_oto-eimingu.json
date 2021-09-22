@@ -1,5 +1,9 @@
 {
     "title": "Oto Eimingu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79373.jpg",
+        "alt": "oto-eimingu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "オート・エイミング",

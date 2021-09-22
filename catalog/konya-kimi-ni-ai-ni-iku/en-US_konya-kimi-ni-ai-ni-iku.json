@@ -1,5 +1,9 @@
 {
     "title": "Konya, Kimi ni Ai ni Iku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176676.jpg",
+        "alt": "konya-kimi-ni-ai-ni-iku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

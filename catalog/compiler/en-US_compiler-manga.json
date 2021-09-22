@@ -1,5 +1,9 @@
 {
     "title": "Compiler",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3197.jpg",
+        "alt": "compiler"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

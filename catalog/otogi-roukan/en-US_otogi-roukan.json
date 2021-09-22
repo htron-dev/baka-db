@@ -1,5 +1,9 @@
 {
     "title": "Otogi Roukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44233.jpg",
+        "alt": "otogi-roukan"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "御伽楼館",

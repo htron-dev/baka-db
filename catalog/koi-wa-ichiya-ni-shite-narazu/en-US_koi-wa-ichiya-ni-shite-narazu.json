@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Ichiya ni Shite Narazu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147095.jpg",
+        "alt": "koi-wa-ichiya-ni-shite-narazu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

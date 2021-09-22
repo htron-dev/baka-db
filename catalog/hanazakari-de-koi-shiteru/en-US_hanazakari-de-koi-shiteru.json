@@ -1,5 +1,9 @@
 {
     "title": "Hanazakari de Koi Shiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10950.jpg",
+        "alt": "hanazakari-de-koi-shiteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

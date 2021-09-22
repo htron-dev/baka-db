@@ -1,5 +1,9 @@
 {
     "title": "Sansha Sanyou Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/79682.jpg",
+        "alt": "sansha-sanyou-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "三者三葉",

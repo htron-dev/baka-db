@@ -1,5 +1,9 @@
 {
     "title": "Mitama Security",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226603.jpg",
+        "alt": "mitama-security"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

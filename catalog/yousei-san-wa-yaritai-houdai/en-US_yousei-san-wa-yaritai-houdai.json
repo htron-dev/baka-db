@@ -1,5 +1,9 @@
 {
     "title": "Yousei-san wa Yaritai Houdai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233975.jpg",
+        "alt": "yousei-san-wa-yaritai-houdai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

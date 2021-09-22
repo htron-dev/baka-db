@@ -1,5 +1,9 @@
 {
     "title": "Kanokon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/52931.jpg",
+        "alt": "kanokon"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "47",

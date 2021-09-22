@@ -1,5 +1,9 @@
 {
     "title": "Kuukyo na Kekkon wo Me de Mitashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194464.jpg",
+        "alt": "kuukyo-na-kekkon-wo-me-de-mitashite"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

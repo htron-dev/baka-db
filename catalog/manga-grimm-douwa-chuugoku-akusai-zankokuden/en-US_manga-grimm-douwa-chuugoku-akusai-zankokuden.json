@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Chuugoku Akusai Zankokuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140627.jpg",
+        "alt": "manga-grimm-douwa-chuugoku-akusai-zankokuden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

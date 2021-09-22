@@ -1,5 +1,9 @@
 {
     "title": "Torajima no Miime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63875.jpg",
+        "alt": "torajima-no-miime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

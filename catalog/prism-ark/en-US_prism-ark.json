@@ -1,12 +1,16 @@
 {
     "title": "Prism Ark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/23155.jpg",
+        "alt": "prism-ark"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "プリズム・アーク",
     "start_date": "2007-10-08",
     "end_date": "2007-10-08",
     "opening_song": "\"Soshite Boku wa... (そして僕は…)\" by Yui Sakakibara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Soshite Boku wa... (そして僕は…)\" by Yui Sakakibara (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

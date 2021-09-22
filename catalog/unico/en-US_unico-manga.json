@@ -1,5 +1,9 @@
 {
     "title": "Unico",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25910.jpg",
+        "alt": "unico"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

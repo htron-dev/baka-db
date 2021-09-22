@@ -1,5 +1,9 @@
 {
     "title": "Koiki na Yatsura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230834.jpg",
+        "alt": "koiki-na-yatsura"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "4",

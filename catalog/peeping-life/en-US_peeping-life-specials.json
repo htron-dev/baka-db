@@ -1,5 +1,9 @@
 {
     "title": "Peeping Life Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/45819.jpg",
+        "alt": "peeping-life-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ピーピング・ライフ",

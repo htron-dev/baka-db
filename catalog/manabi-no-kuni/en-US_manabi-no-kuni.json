@@ -1,5 +1,9 @@
 {
     "title": "Manabi no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73083.jpg",
+        "alt": "manabi-no-kuni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

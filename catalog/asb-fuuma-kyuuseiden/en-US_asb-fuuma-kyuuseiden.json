@@ -1,5 +1,9 @@
 {
     "title": "ASB: Fuuma Kyuuseiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152952.jpg",
+        "alt": "asb-fuuma-kyuuseiden"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ASB―封魔九星伝―",

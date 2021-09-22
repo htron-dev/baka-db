@@ -1,5 +1,9 @@
 {
     "title": "Pico-Pico Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84063.jpg",
+        "alt": "pico-pico-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

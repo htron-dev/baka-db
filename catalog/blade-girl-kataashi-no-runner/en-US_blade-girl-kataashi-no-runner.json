@@ -1,5 +1,9 @@
 {
     "title": "Blade Girl: Kataashi no Runner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230947.jpg",
+        "alt": "blade-girl-kataashi-no-runner"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

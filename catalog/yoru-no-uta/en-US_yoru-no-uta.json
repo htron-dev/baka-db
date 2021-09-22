@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160464.jpg",
+        "alt": "yoru-no-uta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

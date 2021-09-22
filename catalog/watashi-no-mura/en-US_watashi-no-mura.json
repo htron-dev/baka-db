@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Mura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190467.jpg",
+        "alt": "watashi-no-mura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "22",

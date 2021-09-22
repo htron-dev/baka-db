@@ -1,5 +1,9 @@
 {
     "title": "Jackass!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181602.jpg",
+        "alt": "jackass"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

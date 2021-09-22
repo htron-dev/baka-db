@@ -1,8 +1,12 @@
 {
     "title": "Turning Mecard W: Black Mirror-ui Buhwal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/85663.jpg",
+        "alt": "turning-mecard-w-black-mirror-ui-buhwal"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "터닝메카드 W",
+    "original_name": "터닝메카드 W: 블랙미러의 부활",
     "start_date": "2017-01-18",
     "rating": "PG - Children",
     "tags": [

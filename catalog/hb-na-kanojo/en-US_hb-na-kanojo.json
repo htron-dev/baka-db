@@ -1,5 +1,9 @@
 {
     "title": "HB na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240402.jpg",
+        "alt": "hb-na-kanojo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

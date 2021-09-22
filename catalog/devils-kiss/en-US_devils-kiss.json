@@ -1,5 +1,9 @@
 {
     "title": "Devil's Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19382.jpg",
+        "alt": "devils-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

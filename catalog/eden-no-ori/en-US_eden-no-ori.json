@@ -1,5 +1,9 @@
 {
     "title": "Eden no Ori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/56963.jpg",
+        "alt": "eden-no-ori"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "185",

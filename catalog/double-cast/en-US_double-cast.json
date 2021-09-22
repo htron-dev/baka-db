@@ -1,5 +1,9 @@
 {
     "title": "Double Cast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176719.jpg",
+        "alt": "double-cast"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "ダブル・キャスト",

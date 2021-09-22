@@ -1,5 +1,9 @@
 {
     "title": "Lavender wa Kiken na Kaori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/62467.jpg",
+        "alt": "lavender-wa-kiken-na-kaori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

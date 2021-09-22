@@ -1,5 +1,9 @@
 {
     "title": "Zettai Shoujo Seiiki Amnesian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24357.jpg",
+        "alt": "zettai-shoujo-seiiki-amnesian"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

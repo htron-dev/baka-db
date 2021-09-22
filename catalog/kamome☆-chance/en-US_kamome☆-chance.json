@@ -1,5 +1,9 @@
 {
     "title": "Kamome☆Chance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/106221.jpg",
+        "alt": "kamome☆-chance"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "213",

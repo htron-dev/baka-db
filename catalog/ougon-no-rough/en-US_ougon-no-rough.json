@@ -1,5 +1,9 @@
 {
     "title": "Ougon no Rough",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123535.jpg",
+        "alt": "ougon-no-rough"
+    },
     "type": "manga",
     "volumes": "33",
     "original_name": "黄金のラフ～草太のスタンス～",

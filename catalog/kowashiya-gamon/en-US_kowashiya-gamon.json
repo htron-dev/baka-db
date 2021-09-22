@@ -1,5 +1,9 @@
 {
     "title": "Kowashiya Gamon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5098.jpg",
+        "alt": "kowashiya-gamon"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "88",

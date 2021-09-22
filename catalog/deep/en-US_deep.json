@@ -1,5 +1,9 @@
 {
     "title": "Deep",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174108.jpg",
+        "alt": "deep"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "45",

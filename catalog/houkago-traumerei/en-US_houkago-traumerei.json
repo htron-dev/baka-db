@@ -1,5 +1,9 @@
 {
     "title": "Houkago Träumerei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160626.jpg",
+        "alt": "houkago-traumerei"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "17",

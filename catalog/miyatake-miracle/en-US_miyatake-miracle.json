@@ -1,5 +1,9 @@
 {
     "title": "Miyatake Miracle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248098.jpg",
+        "alt": "miyatake-miracle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

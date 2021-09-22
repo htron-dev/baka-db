@@ -1,5 +1,9 @@
 {
     "title": "Azur Lane Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1713/104378.jpg",
+        "alt": "azur-lane-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "三笠大先輩と学ぶアニメ「アズールレーン」",

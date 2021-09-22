@@ -1,5 +1,9 @@
 {
     "title": "Komatta Toki ni wa Hoshi ni Kike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/168392.jpg",
+        "alt": "komatta-toki-ni-wa-hoshi-ni-kike"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "82",

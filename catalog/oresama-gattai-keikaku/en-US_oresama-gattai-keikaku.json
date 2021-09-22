@@ -1,5 +1,9 @@
 {
     "title": "Oresama Gattai Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15502.jpg",
+        "alt": "oresama-gattai-keikaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

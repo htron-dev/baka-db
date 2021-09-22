@@ -1,5 +1,9 @@
 {
     "title": "Hakui no Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189998.jpg",
+        "alt": "hakui-no-kanojo"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "51",

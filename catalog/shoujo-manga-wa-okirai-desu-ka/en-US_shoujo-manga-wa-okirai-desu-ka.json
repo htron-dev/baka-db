@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Manga wa Okirai desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205494.jpg",
+        "alt": "shoujo-manga-wa-okirai-desu-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

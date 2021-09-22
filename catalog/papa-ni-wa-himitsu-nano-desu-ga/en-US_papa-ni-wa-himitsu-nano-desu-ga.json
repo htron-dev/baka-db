@@ -1,5 +1,9 @@
 {
     "title": "Papa ni wa Himitsu nano desu ga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159835.jpg",
+        "alt": "papa-ni-wa-himitsu-nano-desu-ga"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "パパには秘密なのですが",

@@ -1,12 +1,16 @@
 {
     "title": "RErideD: Tokigoe no Derrida",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1481/95784.jpg",
+        "alt": "r-eride-d-tokigoe-no-derrida"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "RErideD－刻越えのデリダ－",
     "start_date": "2018-09-22",
     "end_date": "2018-09-22",
     "opening_song": "\"PARADOX\" by QUADRANGLE",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Toki no Tsubasa (トキノツバサ)\" by Mage (Mao Ichimichi) (eps 2, 8, 10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

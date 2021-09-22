@@ -1,5 +1,9 @@
 {
     "title": "Shingetsutan Tsukihime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/20669.jpg",
+        "alt": "shingetsutan-tsukihime"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "真月譚 月姫",

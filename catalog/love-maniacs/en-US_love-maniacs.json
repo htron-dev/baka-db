@@ -1,5 +1,9 @@
 {
     "title": "Love Maniacs!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20191.jpg",
+        "alt": "love-maniacs"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

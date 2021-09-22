@@ -1,5 +1,9 @@
 {
     "title": "Hotch Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130839.jpg",
+        "alt": "hotch-kiss"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

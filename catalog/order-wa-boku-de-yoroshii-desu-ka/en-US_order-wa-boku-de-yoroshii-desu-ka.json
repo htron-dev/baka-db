@@ -1,5 +1,9 @@
 {
     "title": "Order wa Boku de Yoroshii desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38363.jpg",
+        "alt": "order-wa-boku-de-yoroshii-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

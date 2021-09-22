@@ -1,5 +1,9 @@
 {
     "title": "Cinderella Plot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144123.jpg",
+        "alt": "cinderella-plot"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

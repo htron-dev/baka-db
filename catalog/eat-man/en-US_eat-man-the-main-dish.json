@@ -1,5 +1,9 @@
 {
     "title": "Eat-Man: The Main Dish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219707.jpg",
+        "alt": "eat-man-the-main-dish"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "33",

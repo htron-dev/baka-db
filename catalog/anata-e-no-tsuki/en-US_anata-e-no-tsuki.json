@@ -1,5 +1,9 @@
 {
     "title": "Anata e no Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/169678.jpg",
+        "alt": "anata-e-no-tsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

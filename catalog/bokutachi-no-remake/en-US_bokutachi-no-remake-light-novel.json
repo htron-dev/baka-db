@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi no Remake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193589.jpg",
+        "alt": "bokutachi-no-remake"
+    },
     "type": "light-novel",
     "original_name": "ぼくたちのリメイク",
     "start_date": "2017-03-25",

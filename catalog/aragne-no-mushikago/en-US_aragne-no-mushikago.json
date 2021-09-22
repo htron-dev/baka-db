@@ -1,5 +1,9 @@
 {
     "title": "Aragne no Mushikago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1477/96023.jpg",
+        "alt": "aragne-no-mushikago"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アラーニェの虫籠",

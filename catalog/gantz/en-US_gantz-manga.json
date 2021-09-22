@@ -1,5 +1,9 @@
 {
     "title": "Gantz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/157936.jpg",
+        "alt": "gantz"
+    },
     "type": "manga",
     "volumes": "37",
     "chapters": "383",

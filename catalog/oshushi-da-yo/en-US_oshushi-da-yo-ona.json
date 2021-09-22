@@ -1,5 +1,9 @@
 {
     "title": "Oshushi Da yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/88033.jpg",
+        "alt": "oshushi-da-yo"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "おしゅしだよ",

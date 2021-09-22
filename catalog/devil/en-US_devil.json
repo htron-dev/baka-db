@@ -1,5 +1,9 @@
 {
     "title": "Devil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/128037.jpg",
+        "alt": "devil"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

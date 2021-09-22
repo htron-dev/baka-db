@@ -1,5 +1,9 @@
 {
     "title": "Boku ga Ojousama no Pet ni Natta Wake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128303.jpg",
+        "alt": "boku-ga-ojousama-no-pet-ni-natta-wake"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Kokumei no Golem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168718.jpg",
+        "alt": "kokumei-no-golem"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

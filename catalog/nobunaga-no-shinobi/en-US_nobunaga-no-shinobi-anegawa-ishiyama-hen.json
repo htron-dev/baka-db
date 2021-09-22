@@ -1,11 +1,15 @@
 {
     "title": "Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1651/91110.jpg",
+        "alt": "nobunaga-no-shinobi-anegawa-ishiyama-hen"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "信長の忍び~姉川・石山篇~",
     "start_date": "2018-04-07",
     "end_date": "2018-04-07",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Kingyorui. (金魚涙。)\" by Renka",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

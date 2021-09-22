@@ -1,5 +1,9 @@
 {
     "title": "Kyou no Deki Goto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38466.jpg",
+        "alt": "kyou-no-deki-goto"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "きょうのできごと",

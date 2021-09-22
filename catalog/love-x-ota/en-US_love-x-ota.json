@@ -1,5 +1,9 @@
 {
     "title": "Love x Ota",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31207.jpg",
+        "alt": "love-x-ota"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ラブ・オタ",

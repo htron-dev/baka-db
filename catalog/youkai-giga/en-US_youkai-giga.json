@@ -1,5 +1,9 @@
 {
     "title": "Youkai Giga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201212.jpg",
+        "alt": "youkai-giga"
+    },
     "type": "manga",
     "original_name": "妖怪ギガ",
     "start_date": "2017-04-26",

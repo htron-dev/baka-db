@@ -1,5 +1,9 @@
 {
     "title": "Sekai Ninja Taikai Kiroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227310.jpg",
+        "alt": "sekai-ninja-taikai-kiroku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

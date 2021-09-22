@@ -1,5 +1,9 @@
 {
     "title": "Tsubasa: Shunraiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/33841.jpg",
+        "alt": "tsubasa-shunraiki"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ツバサ 春雷記",

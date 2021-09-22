@@ -1,5 +1,9 @@
 {
     "title": "Tsun-Ama na Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226842.jpg",
+        "alt": "tsun-ama-na-kareshi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "64",

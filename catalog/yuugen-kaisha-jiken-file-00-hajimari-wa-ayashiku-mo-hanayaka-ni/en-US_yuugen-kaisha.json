@@ -1,5 +1,9 @@
 {
     "title": "Yuugen Kaisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1932/96386.jpg",
+        "alt": "yuugen-kaisha"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "幽幻怪社",

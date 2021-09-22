@@ -1,5 +1,9 @@
 {
     "title": "Girls of the Wild's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83615.jpg",
+        "alt": "girls-of-the-wilds"
+    },
     "type": "manhwa",
     "chapters": "260",
     "original_name": "소녀 더 와일즈",

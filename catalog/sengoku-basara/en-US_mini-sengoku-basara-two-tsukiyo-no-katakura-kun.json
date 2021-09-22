@@ -1,5 +1,9 @@
 {
     "title": "Mini Sengoku Basara Two: Tsukiyo no Katakura-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/26667.jpg",
+        "alt": "mini-sengoku-basara-two-tsukiyo-no-katakura-kun"
+    },
     "type": "special",
     "episodes": "7",
     "original_name": "ミニ戦国 BASARA 弐　月夜の片倉くん",
@@ -26,7 +30,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Sengoku_Basara_(anime"
+            "link": "http://en.wikipedia.org/wiki/Sengoku_Basara_%28anime%29"
         }
     ]
 }

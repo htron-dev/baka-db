@@ -1,12 +1,16 @@
 {
     "title": "Uragiri wa Boku no Namae wo Shitteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/26525.jpg",
+        "alt": "uragiri-wa-boku-no-namae-wo-shitteiru"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "裏切りは僕の名前を知っている",
     "start_date": "2010-04-12",
     "end_date": "2010-04-12",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Uragiri no Nai Sekai Made (裏切りのない世界まで)\" by Rayflower (eps 1-14)",
+    "ending_song": "#1: \"Aoi Ito (蒼い糸)\" by Rayflower (eps 1-14)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Neko Neko Nihonshi 4th Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1757/106368.jpg",
+        "alt": "neko-neko-nihonshi-4th-season"
+    },
     "type": "tv-serie",
     "episodes": "32",
     "original_name": "ねこねこ日本史 第 4 期",

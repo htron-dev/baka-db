@@ -1,5 +1,9 @@
 {
     "title": "Imadoki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82696.jpg",
+        "alt": "imadoki"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

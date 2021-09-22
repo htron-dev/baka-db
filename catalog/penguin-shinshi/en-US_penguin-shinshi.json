@@ -1,5 +1,9 @@
 {
     "title": "Penguin Shinshi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246114.jpg",
+        "alt": "penguin-shinshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

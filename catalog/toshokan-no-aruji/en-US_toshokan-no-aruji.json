@@ -1,5 +1,9 @@
 {
     "title": "Toshokan no Aruji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167480.jpg",
+        "alt": "toshokan-no-aruji"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "124",

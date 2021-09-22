@@ -1,5 +1,9 @@
 {
     "title": "Mémoires du Masque",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26987.jpg",
+        "alt": "memoires-du-masque"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "20",

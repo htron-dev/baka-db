@@ -1,5 +1,9 @@
 {
     "title": "Omae wo Otaku ni Shiteyaru kara, Ore wo Riajuu ni Shitekure!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158561.jpg",
+        "alt": "omae-wo-otaku-ni-shiteyaru-kara-ore-wo-riajuu-ni-shitekure"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "39",

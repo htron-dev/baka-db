@@ -1,12 +1,16 @@
 {
     "title": "Kekkaishi (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75191.jpg",
+        "alt": "kekkaishi-tv"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "結界師",
     "start_date": "2006-10-16",
     "end_date": "2006-10-16",
     "opening_song": "\"Sha la la –Ayakashi NIGHT–\" by Saeka Uura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Akai Ito (赤い糸)\" by Koshi Inaba (eps 1-15, 38, 40, 48, 52)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

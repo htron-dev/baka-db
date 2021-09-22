@@ -1,5 +1,9 @@
 {
     "title": "MAZE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81259.jpg",
+        "alt": "maze"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

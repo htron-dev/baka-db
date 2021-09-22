@@ -1,12 +1,16 @@
 {
     "title": "Arad Senki: Slap Up Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/20760.jpg",
+        "alt": "arad-senki-slap-up-party"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "アラド戦記 ～スラップアップパーティー～",
     "start_date": "2009-04-04",
     "end_date": "2009-04-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Party Play\" by Nogawa Sakura",
+    "ending_song": "#1: \"Hateshinai Sekai\" by YMCK",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

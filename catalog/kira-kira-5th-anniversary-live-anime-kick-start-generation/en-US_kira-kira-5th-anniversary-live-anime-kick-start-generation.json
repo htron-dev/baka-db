@@ -1,5 +1,9 @@
 {
     "title": "Kira Kira 5th Anniversary Live Anime: Kick Start Generation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/41237.jpg",
+        "alt": "kira-kira-5th-anniversary-live-anime-kick-start-generation"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "キラ ☆ キラ 5th Anniversary Live Anime KICK START GENERATION",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Kirakira_(visual_novel"
+            "link": "http://en.wikipedia.org/wiki/Kirakira_%28visual_novel%29"
         }
     ]
 }

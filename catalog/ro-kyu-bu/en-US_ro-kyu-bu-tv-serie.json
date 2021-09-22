@@ -1,5 +1,9 @@
 {
     "title": "Ro-Kyu-Bu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/32643.jpg",
+        "alt": "ro-kyu-bu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ロウきゅーぶ!",

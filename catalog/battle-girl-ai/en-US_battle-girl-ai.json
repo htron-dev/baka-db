@@ -1,5 +1,9 @@
 {
     "title": "Battle Girl Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15205.jpg",
+        "alt": "battle-girl-ai"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "バトルガール藍",

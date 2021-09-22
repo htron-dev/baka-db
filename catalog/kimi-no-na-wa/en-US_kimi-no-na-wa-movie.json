@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Na wa.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+        "alt": "kimi-no-na-wa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "君の名は。",

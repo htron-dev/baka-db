@@ -1,5 +1,9 @@
 {
     "title": "Snark-gari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149524.jpg",
+        "alt": "snark-gari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

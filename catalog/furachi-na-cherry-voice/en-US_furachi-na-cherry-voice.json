@@ -1,5 +1,9 @@
 {
     "title": "Furachi na Cherry Voice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85821.jpg",
+        "alt": "furachi-na-cherry-voice"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

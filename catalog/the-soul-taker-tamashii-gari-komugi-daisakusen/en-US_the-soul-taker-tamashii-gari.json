@@ -1,5 +1,9 @@
 {
     "title": "The SoulTaker: Tamashii-gari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/11004.jpg",
+        "alt": "the-soul-taker-tamashii-gari"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "The SoulTaker ～魂狩～",

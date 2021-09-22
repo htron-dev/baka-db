@@ -1,12 +1,16 @@
 {
     "title": "Hundred",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/78858.jpg",
+        "alt": "hundred"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ハンドレッド",
     "start_date": "2016-04-05",
     "end_date": "2016-04-05",
     "opening_song": "\"BLOODRED\" by D-selections",
-    "ending_song": "#1",
+    "ending_song": "#1: \"EYES ON ME\" by Emilia (Rumi Ookubo) & Sakura (Mayu Yoshioka) (eps 1-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -37,7 +41,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Hundred_(novel_series"
+            "link": "http://en.wikipedia.org/wiki/Hundred_%28novel_series%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Degen Mädchen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159295.jpg",
+        "alt": "degen-madchen"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "24",

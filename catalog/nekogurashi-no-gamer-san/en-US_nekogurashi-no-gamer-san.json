@@ -1,5 +1,9 @@
 {
     "title": "Nekogurashi no Gamer-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222202.jpg",
+        "alt": "nekogurashi-no-gamer-san"
+    },
     "type": "manga",
     "original_name": "猫暮らしのゲーマーさん",
     "start_date": "2018-11-24",

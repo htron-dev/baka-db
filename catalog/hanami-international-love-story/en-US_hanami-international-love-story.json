@@ -1,5 +1,9 @@
 {
     "title": "Hanami: International Love Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4723.jpg",
+        "alt": "hanami-international-love-story"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "42",

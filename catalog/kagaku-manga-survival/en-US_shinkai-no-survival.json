@@ -1,5 +1,9 @@
 {
     "title": "Shinkai no Survival!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1681/116513.jpg",
+        "alt": "shinkai-no-survival"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "深海のサバイバル！",

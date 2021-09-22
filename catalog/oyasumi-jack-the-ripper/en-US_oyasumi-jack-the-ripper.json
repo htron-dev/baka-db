@@ -1,5 +1,9 @@
 {
     "title": "Oyasumi Jack the Ripper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172002.jpg",
+        "alt": "oyasumi-jack-the-ripper"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

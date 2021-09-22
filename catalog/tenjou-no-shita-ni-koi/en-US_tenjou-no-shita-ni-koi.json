@@ -1,5 +1,9 @@
 {
     "title": "Tenjou no Shita ni Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221609.jpg",
+        "alt": "tenjou-no-shita-ni-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

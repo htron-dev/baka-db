@@ -1,5 +1,9 @@
 {
     "title": "Lamp no Shita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174106.jpg",
+        "alt": "lamp-no-shita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

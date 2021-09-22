@@ -1,5 +1,9 @@
 {
     "title": "Neko Musume Michikusa Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188955.jpg",
+        "alt": "neko-musume-michikusa-nikki"
+    },
     "type": "manga",
     "original_name": "ねこむすめ道草日記",
     "start_date": "2008-04-19",

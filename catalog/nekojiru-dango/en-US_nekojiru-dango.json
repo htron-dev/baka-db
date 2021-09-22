@@ -1,5 +1,9 @@
 {
     "title": "Nekojiru Dango",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180252.jpg",
+        "alt": "nekojiru-dango"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ねこぢるだんご",

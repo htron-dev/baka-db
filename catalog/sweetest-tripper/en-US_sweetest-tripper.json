@@ -1,5 +1,9 @@
 {
     "title": "Sweetest Tripper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13427.jpg",
+        "alt": "sweetest-tripper"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",
@@ -12,7 +16,6 @@
         "Uchida",
         "Kazuna (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

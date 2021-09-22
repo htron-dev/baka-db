@@ -1,5 +1,9 @@
 {
     "title": "Koi kara Hajimaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36711.jpg",
+        "alt": "koi-kara-hajimaru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

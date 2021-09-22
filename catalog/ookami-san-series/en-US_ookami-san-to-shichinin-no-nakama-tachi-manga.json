@@ -1,5 +1,9 @@
 {
     "title": "Ookami-san to Shichinin no Nakama-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163082.jpg",
+        "alt": "ookami-san-to-shichinin-no-nakama-tachi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

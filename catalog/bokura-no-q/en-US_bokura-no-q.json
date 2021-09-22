@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Q",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200776.jpg",
+        "alt": "bokura-no-q"
+    },
     "type": "manga",
     "chapters": "46",
     "original_name": "ぼくらの Q",

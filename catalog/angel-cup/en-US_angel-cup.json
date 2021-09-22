@@ -1,5 +1,9 @@
 {
     "title": "Angel Cup",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5434.jpg",
+        "alt": "angel-cup"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "35",

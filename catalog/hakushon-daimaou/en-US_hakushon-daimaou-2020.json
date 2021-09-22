@@ -1,12 +1,16 @@
 {
     "title": "Hakushon Daimaou 2020",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
+        "alt": "hakushon-daimaou-2020"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "ハクション大魔王 2020",
     "start_date": "2020-04-11",
     "end_date": "2020-04-11",
     "opening_song": "\"Satesu Hakushon (サテスハクション)\" by Tamio Okuda (奥田民生)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Akubi wo Sureba (あくびをすれば)\" by Friends (フレンズ)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

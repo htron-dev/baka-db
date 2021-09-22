@@ -1,5 +1,9 @@
 {
     "title": "Narara! Ujujeonham Geobukseon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/45058.jpg",
+        "alt": "narara-ujujeonham-geobukseon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "날아라 우주전함 거북선",

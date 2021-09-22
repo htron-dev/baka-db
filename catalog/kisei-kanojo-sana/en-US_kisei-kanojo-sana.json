@@ -1,5 +1,9 @@
 {
     "title": "Kisei Kanojo Sana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163862.jpg",
+        "alt": "kisei-kanojo-sana"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "25",

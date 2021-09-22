@@ -1,5 +1,9 @@
 {
     "title": "Adam no Rokkotsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219750.jpg",
+        "alt": "adam-no-rokkotsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

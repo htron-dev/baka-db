@@ -1,5 +1,9 @@
 {
     "title": "Easy Writer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152291.jpg",
+        "alt": "easy-writer"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Red List: Zetsumetsu Shinkaron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241272.jpg",
+        "alt": "red-list-zetsumetsu-shinkaron"
+    },
     "type": "manga",
     "original_name": "レッドリスト 絶滅進化論",
     "start_date": "2021-01-27",

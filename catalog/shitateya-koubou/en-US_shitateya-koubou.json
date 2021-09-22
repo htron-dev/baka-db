@@ -1,5 +1,9 @@
 {
     "title": "Shitateya Koubou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170424.jpg",
+        "alt": "shitateya-koubou"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "60",

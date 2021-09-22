@@ -1,5 +1,9 @@
 {
     "title": "Cherry no Manma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/104675.jpg",
+        "alt": "cherry-no-manma"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "Cherry のまんま",

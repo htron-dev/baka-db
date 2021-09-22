@@ -1,5 +1,9 @@
 {
     "title": "Vanilla Ice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41220.jpg",
+        "alt": "vanilla-ice"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "21",

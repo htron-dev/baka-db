@@ -1,5 +1,9 @@
 {
     "title": "Beer Mukashi Mukashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/72030.jpg",
+        "alt": "beer-mukashi-mukashi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ビールむかしむかし",

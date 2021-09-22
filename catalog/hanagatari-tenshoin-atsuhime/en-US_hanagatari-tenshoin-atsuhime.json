@@ -1,5 +1,9 @@
 {
     "title": "Hanagatari Tenshoin Atsuhime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73773.jpg",
+        "alt": "hanagatari-tenshoin-atsuhime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

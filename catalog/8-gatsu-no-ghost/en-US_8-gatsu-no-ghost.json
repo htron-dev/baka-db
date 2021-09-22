@@ -1,5 +1,9 @@
 {
     "title": "8-gatsu no Ghost",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194156.jpg",
+        "alt": "8-gatsu-no-ghost"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

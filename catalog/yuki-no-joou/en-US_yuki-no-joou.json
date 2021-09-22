@@ -1,5 +1,9 @@
 {
     "title": "Yuki no Joou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/84376.jpg",
+        "alt": "yuki-no-joou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "雪の女王",

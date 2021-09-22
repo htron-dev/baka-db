@@ -1,5 +1,9 @@
 {
     "title": "Usagi Drop Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/30759.jpg",
+        "alt": "usagi-drop-specials"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "うさぎドロップ",

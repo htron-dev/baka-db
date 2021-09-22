@@ -1,5 +1,9 @@
 {
     "title": "Hana to Sakazuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220987.jpg",
+        "alt": "hana-to-sakazuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

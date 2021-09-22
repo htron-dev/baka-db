@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam 00I 2314",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39908.jpg",
+        "alt": "mobile-suit-gundam-00-i-2314"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

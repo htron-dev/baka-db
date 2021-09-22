@@ -1,5 +1,9 @@
 {
     "title": "Yoru to Umi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220664.jpg",
+        "alt": "yoru-to-umi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

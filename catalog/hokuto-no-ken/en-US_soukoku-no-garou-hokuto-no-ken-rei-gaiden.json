@@ -1,5 +1,9 @@
 {
     "title": "Soukoku no Garou - Hokuto no Ken Rei Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130531.jpg",
+        "alt": "soukoku-no-garou-hokuto-no-ken-rei-gaiden"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "54",

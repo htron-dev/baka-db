@@ -1,8 +1,12 @@
 {
     "title": "Mobile Suit Gundam SEED C.E.73: Stargazer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1013/91082.jpg",
+        "alt": "mobile-suit-gundam-seed-c-e-73-stargazer"
+    },
     "type": "ona",
     "episodes": "3",
-    "original_name": "機動戦士ガンダム SEED C.E.73",
+    "original_name": "機動戦士ガンダム SEED C.E.73: Stargazer",
     "start_date": "2006-07-14",
     "end_date": "2006-07-14",
     "ending_song": "\"STARGAZER ~ Hoshi no Tobira\" by Satori Negishi",

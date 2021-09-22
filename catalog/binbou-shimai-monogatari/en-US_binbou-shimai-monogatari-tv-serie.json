@@ -1,5 +1,9 @@
 {
     "title": "Binbou Shimai Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1959/108682.jpg",
+        "alt": "binbou-shimai-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "貧乏姉妹物語",

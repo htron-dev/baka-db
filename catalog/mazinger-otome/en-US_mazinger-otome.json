@@ -1,5 +1,9 @@
 {
     "title": "Mazinger Otome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118131.jpg",
+        "alt": "mazinger-otome"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

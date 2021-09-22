@@ -1,5 +1,9 @@
 {
     "title": "Made in Abyss: Koushiki Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236911.jpg",
+        "alt": "made-in-abyss-koushiki-anthology"
+    },
     "type": "manga",
     "original_name": "メイドインアビス公式アンソロジー",
     "start_date": "2017-03-10",

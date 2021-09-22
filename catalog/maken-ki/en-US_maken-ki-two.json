@@ -1,5 +1,9 @@
 {
     "title": "Maken-Ki! Two",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/58191.jpg",
+        "alt": "maken-ki-two"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "マケン姫っ！通",

@@ -1,5 +1,9 @@
 {
     "title": "Kakko Kawaii Sengen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37213.jpg",
+        "alt": "kakko-kawaii-sengen"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "カッコカワイイ宣言！",

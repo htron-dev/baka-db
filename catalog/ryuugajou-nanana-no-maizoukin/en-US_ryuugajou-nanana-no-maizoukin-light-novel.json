@@ -1,5 +1,9 @@
 {
     "title": "Ryuugajou Nanana no Maizoukin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109151.jpg",
+        "alt": "ryuugajou-nanana-no-maizoukin"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "111",

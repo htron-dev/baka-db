@@ -1,5 +1,9 @@
 {
     "title": "Bathroom Guuwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174022.jpg",
+        "alt": "bathroom-guuwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

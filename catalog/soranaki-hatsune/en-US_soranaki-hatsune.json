@@ -1,5 +1,9 @@
 {
     "title": "Soranaki Hatsune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20868.jpg",
+        "alt": "soranaki-hatsune"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ソラナキ初音",

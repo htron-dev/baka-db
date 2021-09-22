@@ -1,5 +1,9 @@
 {
     "title": "Hakoniwa Fools",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160072.jpg",
+        "alt": "hakoniwa-fools"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "ハコニワフールズ",

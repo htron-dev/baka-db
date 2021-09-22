@@ -1,5 +1,9 @@
 {
     "title": "Nemurenu Kishi ni Hanataba wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/46401.jpg",
+        "alt": "nemurenu-kishi-ni-hanataba-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

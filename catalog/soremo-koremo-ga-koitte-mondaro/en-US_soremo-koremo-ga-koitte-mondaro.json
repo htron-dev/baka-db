@@ -1,5 +1,9 @@
 {
     "title": "Soremo Koremo ga Koitte Mondaro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39146.jpg",
+        "alt": "soremo-koremo-ga-koitte-mondaro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

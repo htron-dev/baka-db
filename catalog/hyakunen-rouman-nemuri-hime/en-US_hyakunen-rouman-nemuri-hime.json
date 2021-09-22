@@ -1,5 +1,9 @@
 {
     "title": "Hyakunen Rouman Nemuri Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240213.jpg",
+        "alt": "hyakunen-rouman-nemuri-hime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

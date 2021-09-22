@@ -1,5 +1,9 @@
 {
     "title": "Abciee Shuugyou Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1548/110221.jpg",
+        "alt": "abciee-shuugyou-nikki"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "エビシー修業日記",

@@ -1,5 +1,9 @@
 {
     "title": "Sensei!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1817.jpg",
+        "alt": "sensei"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "81",

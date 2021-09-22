@@ -1,5 +1,9 @@
 {
     "title": "Fetiple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219848.jpg",
+        "alt": "fetiple"
+    },
     "type": "manga",
     "original_name": "フェチップル",
     "start_date": "2018-08-25",

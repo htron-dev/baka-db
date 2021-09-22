@@ -1,5 +1,9 @@
 {
     "title": "Five Box Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13430.jpg",
+        "alt": "five-box-stories"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

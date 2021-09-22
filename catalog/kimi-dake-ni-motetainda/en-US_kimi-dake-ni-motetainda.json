@@ -1,10 +1,14 @@
 {
     "title": "Kimi dake ni Motetainda.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1454/102840.jpg",
+        "alt": "kimi-dake-ni-motetainda"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キミだけにモテたいんだ。",
     "start_date": "2019-10-25",
-    "ending_song": "\"High School Princess (ハイスクールプリンセス)\" by Odawara Jousei Koukou Motemen-bu (小田原城星高校モテメン部) [Tokio Furuta (Souma Saitou), Shigekazu Ashida (Kouki Uchiyama), Koutarou Tojima (Rikiya Tomizono), Aki Sahashi",
+    "ending_song": "\"High School Princess (ハイスクールプリンセス)\" by Odawara Jousei Koukou Motemen-bu (小田原城星高校モテメン部) [Tokio Furuta (Souma Saitou), Shigekazu Ashida (Kouki Uchiyama), Koutarou Tojima (Rikiya Tomizono), Aki Sahashi: Yoshitsu",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "NEET no Ongaeshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160872.jpg",
+        "alt": "neet-no-ongaeshi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ニートの恩返し",

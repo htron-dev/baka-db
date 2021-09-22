@@ -1,5 +1,9 @@
 {
     "title": "Mochiron de Gozaimasu, Ojousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162530.jpg",
+        "alt": "mochiron-de-gozaimasu-ojousama"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "30",

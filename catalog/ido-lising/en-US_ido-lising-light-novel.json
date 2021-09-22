@@ -1,5 +1,9 @@
 {
     "title": "Ido-Lising!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131571.jpg",
+        "alt": "ido-lising"
+    },
     "type": "light-novel",
     "original_name": "アイドライジング!",
     "start_date": "2011-02-10",

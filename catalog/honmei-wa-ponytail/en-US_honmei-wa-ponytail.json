@@ -1,5 +1,9 @@
 {
     "title": "Honmei wa Ponytail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194158.jpg",
+        "alt": "honmei-wa-ponytail"
+    },
     "type": "manga",
     "original_name": "本命はポニーテール",
     "start_date": "2016-11-18",

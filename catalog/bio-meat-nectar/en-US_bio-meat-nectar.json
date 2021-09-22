@@ -1,5 +1,9 @@
 {
     "title": "BioMeat: Nectar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4707.jpg",
+        "alt": "bio-meat-nectar"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "105",

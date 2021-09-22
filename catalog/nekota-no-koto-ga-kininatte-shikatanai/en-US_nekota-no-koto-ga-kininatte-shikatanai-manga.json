@@ -1,5 +1,9 @@
 {
     "title": "Nekota no Koto ga Kininatte Shikatanai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185397.jpg",
+        "alt": "nekota-no-koto-ga-kininatte-shikatanai"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "49",

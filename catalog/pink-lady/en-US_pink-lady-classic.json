@@ -1,5 +1,9 @@
 {
     "title": "Pink Lady Classic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91863.jpg",
+        "alt": "pink-lady-classic"
+    },
     "type": "manhwa",
     "chapters": "96",
     "original_name": "핑크레이디 클래식",

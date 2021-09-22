@@ -1,5 +1,9 @@
 {
     "title": "Bouken Ou Beet Excellion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/21570.jpg",
+        "alt": "bouken-ou-beet-excellion"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "冒険王ビィト エクセリオン",

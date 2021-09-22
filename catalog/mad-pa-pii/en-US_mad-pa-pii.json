@@ -1,5 +1,9 @@
 {
     "title": "Mad Pa Pii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16805.jpg",
+        "alt": "mad-pa-pii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

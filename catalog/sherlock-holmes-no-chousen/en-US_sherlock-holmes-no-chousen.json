@@ -1,5 +1,9 @@
 {
     "title": "Sherlock Holmes no Chousen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/91483.jpg",
+        "alt": "sherlock-holmes-no-chousen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

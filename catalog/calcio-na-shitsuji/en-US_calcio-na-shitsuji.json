@@ -1,5 +1,9 @@
 {
     "title": "Calcio na Shitsuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146361.jpg",
+        "alt": "calcio-na-shitsuji"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

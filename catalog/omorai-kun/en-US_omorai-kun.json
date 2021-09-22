@@ -1,5 +1,9 @@
 {
     "title": "Omorai-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11930.jpg",
+        "alt": "omorai-kun"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "オモライくん",

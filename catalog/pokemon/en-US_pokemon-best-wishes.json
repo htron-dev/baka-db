@@ -1,12 +1,16 @@
 {
     "title": "Pokemon Best Wishes!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/26135.jpg",
+        "alt": "pokemon-best-wishes"
+    },
     "type": "tv-serie",
     "episodes": "84",
     "original_name": "ポケットモンスターベストウイッシュ",
     "start_date": "2010-09-23",
     "end_date": "2010-09-23",
     "opening_song": "\"Best Wishes! (ベストウイッシュ！)\" by Rica Matsumoto",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Fanfare of the Heart 「心のファンファーレ」\" by Aki Okui (eps 1-25)",
     "rating": "PG - Children",
     "tags": [
         "action",

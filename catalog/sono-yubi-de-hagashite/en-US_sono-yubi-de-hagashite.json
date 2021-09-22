@@ -1,5 +1,9 @@
 {
     "title": "Sono Yubi de Hagashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236194.jpg",
+        "alt": "sono-yubi-de-hagashite"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "そのゆびで剥がして",

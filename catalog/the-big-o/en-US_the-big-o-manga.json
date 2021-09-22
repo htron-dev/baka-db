@@ -1,5 +1,9 @@
 {
     "title": "The Big O",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25.jpg",
+        "alt": "the-big-o"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "21",

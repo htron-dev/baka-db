@@ -1,5 +1,9 @@
 {
     "title": "Orange Yellow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32452.jpg",
+        "alt": "orange-yellow"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

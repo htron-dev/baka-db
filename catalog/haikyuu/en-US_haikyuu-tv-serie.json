@@ -1,12 +1,16 @@
 {
     "title": "Haikyuu!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+        "alt": "haikyuu"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ハイキュー!!",
     "start_date": "2014-04-06",
     "end_date": "2014-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Imagination (イマジネーション)\" by SPYAIR (eps 1-13)",
+    "ending_song": "#1: \"Tenchi Gaeshi (天地ガエシ)\" by NICO Touches the Walls (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

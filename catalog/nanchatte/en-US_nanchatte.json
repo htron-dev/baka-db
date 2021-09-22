@@ -1,5 +1,9 @@
 {
     "title": "Nanchatte!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/24825.jpg",
+        "alt": "nanchatte"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "なんちゃって!",

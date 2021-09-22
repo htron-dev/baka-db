@@ -1,5 +1,9 @@
 {
     "title": "Jinchiku Mugai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196352.jpg",
+        "alt": "jinchiku-mugai"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "人畜無骸",

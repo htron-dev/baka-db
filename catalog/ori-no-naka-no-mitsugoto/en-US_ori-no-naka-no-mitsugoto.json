@@ -1,5 +1,9 @@
 {
     "title": "Ori no Naka no Mitsugoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184071.jpg",
+        "alt": "ori-no-naka-no-mitsugoto"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Ookami Shounen Ken (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/59909.jpg",
+        "alt": "ookami-shounen-ken-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "狼少年ケン (1963)",

@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Shitteiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238946.jpg",
+        "alt": "boku-wa-shitteiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Ninja Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/62465.jpg",
+        "alt": "ninja-mono"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "Ｎｉｎｊａ者",

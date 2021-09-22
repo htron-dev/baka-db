@@ -1,5 +1,9 @@
 {
     "title": "First Love - Zutto Daisuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29692.jpg",
+        "alt": "first-love-zutto-daisuki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "First Love ～ずっと大好き～",

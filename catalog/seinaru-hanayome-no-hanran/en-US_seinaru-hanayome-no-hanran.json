@@ -1,5 +1,9 @@
 {
     "title": "Seinaru Hanayome no Hanran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158456.jpg",
+        "alt": "seinaru-hanayome-no-hanran"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

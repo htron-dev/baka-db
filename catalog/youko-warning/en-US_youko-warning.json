@@ -1,5 +1,9 @@
 {
     "title": "Youko Warning!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/214900.jpg",
+        "alt": "youko-warning"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

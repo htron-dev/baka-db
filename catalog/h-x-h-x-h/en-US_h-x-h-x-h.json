@@ -1,5 +1,9 @@
 {
     "title": "H x H x H",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224344.jpg",
+        "alt": "h-x-h-x-h"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

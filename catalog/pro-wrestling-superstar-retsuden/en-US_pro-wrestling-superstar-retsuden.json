@@ -1,5 +1,9 @@
 {
     "title": "Pro Wrestling Superstar Retsuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153059.jpg",
+        "alt": "pro-wrestling-superstar-retsuden"
+    },
     "type": "manga",
     "volumes": "17",
     "original_name": "プロレススーパースター列伝",

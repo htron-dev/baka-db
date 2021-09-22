@@ -1,5 +1,9 @@
 {
     "title": "Build Divide: Code Black",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1014/117452.jpg",
+        "alt": "build-divide-code-black"
+    },
     "type": "tv-serie",
     "original_name": "ビルディバイド -#000000(コードブラック)-",
     "start_date": "2021-10-20",

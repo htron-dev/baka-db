@@ -1,5 +1,9 @@
 {
     "title": "Azur Lane: Queen's Orders",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220961.jpg",
+        "alt": "azur-lane-queens-orders"
+    },
     "type": "manga",
     "original_name": "アズールレーン Queen's Orders",
     "start_date": "2018-10-26",

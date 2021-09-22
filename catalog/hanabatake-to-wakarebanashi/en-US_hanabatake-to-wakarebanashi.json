@@ -1,5 +1,9 @@
 {
     "title": "Hanabatake to Wakarebanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/102007.jpg",
+        "alt": "hanabatake-to-wakarebanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

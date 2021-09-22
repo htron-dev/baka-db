@@ -1,12 +1,16 @@
 {
     "title": "Nagi no Asu kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/53549.jpg",
+        "alt": "nagi-no-asu-kara"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "凪のあすから",
     "start_date": "2013-10-03",
     "end_date": "2013-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"lull ~Soshite Bokura wa~ (lull ～そして僕らは～)\" by Ray (eps 1-13)",
+    "ending_song": "#1: \"Aqua Terrarium (アクアテラリウム)\" by Nagi Yanagi (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

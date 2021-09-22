@@ -1,5 +1,9 @@
 {
     "title": "Vanitas no Karte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176009.jpg",
+        "alt": "vanitas-no-karte"
+    },
     "type": "manga",
     "original_name": "ヴァニタスの手記〈カルテ〉",
     "start_date": "2015-12-22",

@@ -1,5 +1,9 @@
 {
     "title": "Kuchibiru Mellow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246842.jpg",
+        "alt": "kuchibiru-mellow"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

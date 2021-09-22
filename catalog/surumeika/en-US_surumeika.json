@@ -1,5 +1,9 @@
 {
     "title": "Surumeika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178390.jpg",
+        "alt": "surumeika"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "79",

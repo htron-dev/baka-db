@@ -1,5 +1,9 @@
 {
     "title": "Shin Kurosagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161297.jpg",
+        "alt": "shin-kurosagi"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "198",

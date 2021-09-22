@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam: The Origin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151300.jpg",
+        "alt": "kidou-senshi-gundam-the-origin"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "112",

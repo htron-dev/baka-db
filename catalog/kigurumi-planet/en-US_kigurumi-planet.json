@@ -1,5 +1,9 @@
 {
     "title": "Kigurumi Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33773.jpg",
+        "alt": "kigurumi-planet"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

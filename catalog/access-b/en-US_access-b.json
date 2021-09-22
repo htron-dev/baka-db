@@ -1,5 +1,9 @@
 {
     "title": "Access-B",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35262.jpg",
+        "alt": "access-b"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "2001-04-20",
@@ -12,7 +16,6 @@
         "Matoh",
         "Sanami (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

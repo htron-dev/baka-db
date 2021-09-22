@@ -1,5 +1,9 @@
 {
     "title": "Midnight Rain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223729.jpg",
+        "alt": "midnight-rain"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

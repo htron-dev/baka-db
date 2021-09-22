@@ -1,5 +1,9 @@
 {
     "title": "Around 30 Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201291.jpg",
+        "alt": "around-30-quest"
+    },
     "type": "manga",
     "original_name": "アラサークエスト",
     "start_date": "2017-02-28",

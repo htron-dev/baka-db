@@ -1,5 +1,9 @@
 {
     "title": "Mahjong Hourouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203689.jpg",
+        "alt": "mahjong-hourouki"
+    },
     "type": "manga",
     "original_name": "麻雀放浪記",
     "start_date": "2017-01-06",

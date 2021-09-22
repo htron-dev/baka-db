@@ -1,5 +1,9 @@
 {
     "title": "10-nen Tatte mo Aishiteru?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148655.jpg",
+        "alt": "10-nen-tatte-mo-aishiteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

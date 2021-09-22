@@ -1,5 +1,9 @@
 {
     "title": "Honey Trap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22118.jpg",
+        "alt": "honey-trap"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ハニートラップ",

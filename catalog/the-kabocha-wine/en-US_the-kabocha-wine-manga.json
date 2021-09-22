@@ -1,5 +1,9 @@
 {
     "title": "The Kabocha Wine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227282.jpg",
+        "alt": "the-kabocha-wine"
+    },
     "type": "manga",
     "volumes": "18",
     "original_name": "The・かぼちゃワイン",

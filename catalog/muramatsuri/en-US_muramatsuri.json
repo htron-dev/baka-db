@@ -1,5 +1,9 @@
 {
     "title": "Muramatsuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216535.jpg",
+        "alt": "muramatsuri"
+    },
     "type": "manga",
     "original_name": "村祀り",
     "start_date": "2014-08-08",

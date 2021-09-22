@@ -1,5 +1,9 @@
 {
     "title": "Cyphers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/81758.jpg",
+        "alt": "cyphers"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "사이퍼즈",

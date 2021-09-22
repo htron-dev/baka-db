@@ -1,5 +1,9 @@
 {
     "title": "Dragon Seekers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193630.jpg",
+        "alt": "dragon-seekers"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

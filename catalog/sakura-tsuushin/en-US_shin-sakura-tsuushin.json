@@ -1,5 +1,9 @@
 {
     "title": "Shin Sakura Tsuushin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168394.jpg",
+        "alt": "shin-sakura-tsuushin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

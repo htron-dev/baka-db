@@ -1,5 +1,9 @@
 {
     "title": "Family Simulation!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194097.jpg",
+        "alt": "family-simulation"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

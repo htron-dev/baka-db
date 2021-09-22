@@ -1,5 +1,9 @@
 {
     "title": "Lodoss-tou Senki: Eiyuu Kishi Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1065/92495.jpg",
+        "alt": "lodoss-tou-senki-eiyuu-kishi-den"
+    },
     "type": "tv-serie",
     "episodes": "27",
     "original_name": "ロードス島戦記　英雄騎士伝",

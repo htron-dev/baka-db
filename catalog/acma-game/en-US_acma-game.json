@@ -1,5 +1,9 @@
 {
     "title": "Acma:Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164639.jpg",
+        "alt": "acma-game"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "198",

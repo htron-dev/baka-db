@@ -1,5 +1,9 @@
 {
     "title": "Amnesia OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/54853.jpg",
+        "alt": "amnesia-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "AMNESIA",

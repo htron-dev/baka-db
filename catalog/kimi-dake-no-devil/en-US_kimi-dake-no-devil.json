@@ -1,5 +1,9 @@
 {
     "title": "Kimi dake no Devil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9485.jpg",
+        "alt": "kimi-dake-no-devil"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

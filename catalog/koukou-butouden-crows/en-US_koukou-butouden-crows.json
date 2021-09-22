@@ -1,11 +1,15 @@
 {
     "title": "Koukou Butouden Crows",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/24261.jpg",
+        "alt": "koukou-butouden-crows"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "高校武闘伝 クローズ",
     "start_date": "1994-01-28",
     "end_date": "1994-01-28",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Totsuzen, Natsu no Arashi no you ni (突然、夏の嵐のように)\" by THE STREET BEATS (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

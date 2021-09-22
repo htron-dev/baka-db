@@ -1,5 +1,9 @@
 {
     "title": "Hotel Tantei Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62733.jpg",
+        "alt": "hotel-tantei-doll"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

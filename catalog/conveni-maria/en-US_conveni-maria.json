@@ -1,5 +1,9 @@
 {
     "title": "Conveni Maria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207967.jpg",
+        "alt": "conveni-maria"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

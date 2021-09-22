@@ -1,5 +1,9 @@
 {
     "title": "Happy Tomorrow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173485.jpg",
+        "alt": "happy-tomorrow"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

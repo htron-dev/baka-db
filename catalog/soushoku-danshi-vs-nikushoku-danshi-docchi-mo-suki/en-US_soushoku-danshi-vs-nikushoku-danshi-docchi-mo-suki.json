@@ -1,5 +1,9 @@
 {
     "title": "Soushoku Danshi VS Nikushoku Danshi: Docchi mo Suki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204200.jpg",
+        "alt": "soushoku-danshi-vs-nikushoku-danshi-docchi-mo-suki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

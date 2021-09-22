@@ -1,5 +1,9 @@
 {
     "title": "Ben-To Zero: Road to Witch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173159.jpg",
+        "alt": "ben-to-zero-road-to-witch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

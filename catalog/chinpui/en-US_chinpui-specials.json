@@ -1,5 +1,9 @@
 {
     "title": "Chinpui Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/27734.jpg",
+        "alt": "chinpui-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "チンプイ",

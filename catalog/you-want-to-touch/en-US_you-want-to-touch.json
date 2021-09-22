@@ -1,5 +1,9 @@
 {
     "title": "You Want to Touch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18233.jpg",
+        "alt": "you-want-to-touch"
+    },
     "type": "manhwa",
     "volumes": "11",
     "tags": [

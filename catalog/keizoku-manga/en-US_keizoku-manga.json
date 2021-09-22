@@ -1,5 +1,9 @@
 {
     "title": "Keizoku/Manga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154479.jpg",
+        "alt": "keizoku-manga"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

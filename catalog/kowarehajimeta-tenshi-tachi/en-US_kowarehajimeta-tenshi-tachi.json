@@ -1,5 +1,9 @@
 {
     "title": "Kowarehajimeta Tenshi Tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1071.jpg",
+        "alt": "kowarehajimeta-tenshi-tachi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "22",

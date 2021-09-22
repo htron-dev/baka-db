@@ -1,5 +1,9 @@
 {
     "title": "Kijou Senshi Mokuba-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248080.jpg",
+        "alt": "kijou-senshi-mokuba-san"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

@@ -1,5 +1,9 @@
 {
     "title": "Ninja Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162797.jpg",
+        "alt": "ninja-mono"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

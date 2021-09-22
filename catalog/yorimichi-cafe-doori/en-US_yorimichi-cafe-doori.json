@@ -1,5 +1,9 @@
 {
     "title": "Yorimichi Café-doori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159322.jpg",
+        "alt": "yorimichi-cafe-doori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

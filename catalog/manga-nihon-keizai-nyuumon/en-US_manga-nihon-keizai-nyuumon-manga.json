@@ -1,5 +1,9 @@
 {
     "title": "Manga Nihon Keizai Nyuumon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59849.jpg",
+        "alt": "manga-nihon-keizai-nyuumon"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "マンガ日本経済入門",

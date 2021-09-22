@@ -1,5 +1,9 @@
 {
     "title": "I Don't Want This Kind of Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/83220.jpg",
+        "alt": "i-dont-want-this-kind-of-hero"
+    },
     "type": "manhwa",
     "chapters": "301",
     "original_name": "이런 영웅은 싫어",

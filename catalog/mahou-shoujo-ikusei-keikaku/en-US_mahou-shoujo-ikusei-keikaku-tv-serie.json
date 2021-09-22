@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Ikusei Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/81087.jpg",
+        "alt": "mahou-shoujo-ikusei-keikaku"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "魔法少女育成計画",

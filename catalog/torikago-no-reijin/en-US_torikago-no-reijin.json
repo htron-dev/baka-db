@@ -1,5 +1,9 @@
 {
     "title": "Torikago no Reijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226403.jpg",
+        "alt": "torikago-no-reijin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

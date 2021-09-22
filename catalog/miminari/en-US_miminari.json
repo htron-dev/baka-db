@@ -1,5 +1,9 @@
 {
     "title": "Miminari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1849/108142.jpg",
+        "alt": "miminari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "耳鳴り",

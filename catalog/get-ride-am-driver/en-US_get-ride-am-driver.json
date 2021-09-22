@@ -1,12 +1,16 @@
 {
     "title": "Get Ride! AMDriver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/21726.jpg",
+        "alt": "get-ride-am-driver"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "Get Ride! アムドライバー",
     "start_date": "2004-04-05",
     "end_date": "2004-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Silent Moon\" by HIRO☆TAKAMI",
+    "ending_song": "#1: \"Straight From My Heart\" by Northern Bright",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

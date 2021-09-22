@@ -1,5 +1,9 @@
 {
     "title": "Ourouden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146111.jpg",
+        "alt": "ourouden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Seireitsukai no Blade Dance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217828.jpg",
+        "alt": "seireitsukai-no-blade-dance"
+    },
     "type": "light-novel",
     "volumes": "20",
     "chapters": "218",

@@ -1,5 +1,9 @@
 {
     "title": "Mahou no Shunkan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72533.jpg",
+        "alt": "mahou-no-shunkan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "魔法の瞬間",

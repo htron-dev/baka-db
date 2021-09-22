@@ -1,5 +1,9 @@
 {
     "title": "New Game!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117451.jpg",
+        "alt": "new-game"
+    },
     "type": "manga",
     "original_name": "NEW GAME!",
     "start_date": "2013-01-28",

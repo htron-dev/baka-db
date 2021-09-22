@@ -1,5 +1,9 @@
 {
     "title": "Super Saiyuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11717.jpg",
+        "alt": "super-saiyuki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スーパー西遊記",

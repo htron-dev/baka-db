@@ -1,9 +1,13 @@
 {
     "title": "Shinrei Taiken: Jikkenshitsu no Mariko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/57447.jpg",
+        "alt": "shinrei-taiken-jikkenshitsu-no-mariko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",
-    "original_name": "心霊体験",
+    "original_name": "心霊体験 : 実験室のマリコ",
     "start_date": "1991-05-19",
     "tags": [
         "horror",

@@ -1,5 +1,9 @@
 {
     "title": "Toridori Renka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139913.jpg",
+        "alt": "toridori-renka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

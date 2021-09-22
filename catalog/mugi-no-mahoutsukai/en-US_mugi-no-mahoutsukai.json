@@ -1,5 +1,9 @@
 {
     "title": "Mugi no Mahoutsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203715.jpg",
+        "alt": "mugi-no-mahoutsukai"
+    },
     "type": "manga",
     "original_name": "麦の魔法使い",
     "start_date": "2016-08-23",

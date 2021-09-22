@@ -1,5 +1,9 @@
 {
     "title": "Koi no Sankaku Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247027.jpg",
+        "alt": "koi-no-sankaku-kankei"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "恋の三角関係",

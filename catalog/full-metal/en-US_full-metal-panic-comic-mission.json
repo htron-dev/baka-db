@@ -1,5 +1,9 @@
 {
     "title": "Full Metal Panic! Comic Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36795.jpg",
+        "alt": "full-metal-panic-comic-mission"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "60",

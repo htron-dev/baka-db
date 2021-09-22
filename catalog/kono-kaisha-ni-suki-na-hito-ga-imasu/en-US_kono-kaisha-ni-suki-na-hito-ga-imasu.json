@@ -1,5 +1,9 @@
 {
     "title": "Kono Kaisha ni Suki na Hito ga Imasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226093.jpg",
+        "alt": "kono-kaisha-ni-suki-na-hito-ga-imasu"
+    },
     "type": "manga",
     "original_name": "この会社に好きな人がいます",
     "start_date": "2019-03-07",

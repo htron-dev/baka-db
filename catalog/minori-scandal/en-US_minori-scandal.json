@@ -1,5 +1,9 @@
 {
     "title": "Minori Scandal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148407.jpg",
+        "alt": "minori-scandal"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

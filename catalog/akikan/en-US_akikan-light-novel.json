@@ -1,5 +1,9 @@
 {
     "title": "Akikan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154247.jpg",
+        "alt": "akikan"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "53",

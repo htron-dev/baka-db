@@ -1,5 +1,9 @@
 {
     "title": "Kusano to Nozomi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/249626.jpg",
+        "alt": "kusano-to-nozomi"
+    },
     "type": "manga",
     "original_name": "草野と希",
     "start_date": "2021-02-26",

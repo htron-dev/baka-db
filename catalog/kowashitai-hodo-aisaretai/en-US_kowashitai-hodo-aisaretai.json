@@ -1,5 +1,9 @@
 {
     "title": "Kowashitai hodo Aisaretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11089.jpg",
+        "alt": "kowashitai-hodo-aisaretai"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "こわしたいほど愛されたい",

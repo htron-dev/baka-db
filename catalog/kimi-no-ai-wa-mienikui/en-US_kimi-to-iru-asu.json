@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Iru Asu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2450.jpg",
+        "alt": "kimi-to-iru-asu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

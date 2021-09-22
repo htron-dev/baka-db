@@ -1,5 +1,9 @@
 {
     "title": "B-Project: Zecchou\\*Emotion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1368/111378.jpg",
+        "alt": "b-project-zecchou-emotion"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "B-PROJECT ～絶頂＊エモーション～",

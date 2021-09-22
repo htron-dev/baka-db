@@ -1,5 +1,9 @@
 {
     "title": "Guns n' Pride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242620.jpg",
+        "alt": "guns-n-pride"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

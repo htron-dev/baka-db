@@ -1,5 +1,9 @@
 {
     "title": "Mushoku Tensei: 4-koma ni Nattemo Honki Dasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236976.jpg",
+        "alt": "mushoku-tensei-4-koma-ni-nattemo-honki-dasu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Cherry ni Kuchizuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28425.jpg",
+        "alt": "cherry-ni-kuchizuke"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "チェリーにくちづけ",

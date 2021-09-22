@@ -1,5 +1,9 @@
 {
     "title": "Himegoto: Juukyuusai no Seifuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188905.jpg",
+        "alt": "himegoto-juukyuusai-no-seifuku"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "100",

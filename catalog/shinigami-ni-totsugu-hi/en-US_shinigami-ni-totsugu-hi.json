@@ -1,5 +1,9 @@
 {
     "title": "Shinigami ni Totsugu Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205024.jpg",
+        "alt": "shinigami-ni-totsugu-hi"
+    },
     "type": "manga",
     "original_name": "死神に嫁ぐ日",
     "start_date": "2017-03-22",

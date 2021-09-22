@@ -1,5 +1,9 @@
 {
     "title": "Hououdou Milia wa Hatarakanai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163175.jpg",
+        "alt": "hououdou-milia-wa-hatarakanai"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "11",

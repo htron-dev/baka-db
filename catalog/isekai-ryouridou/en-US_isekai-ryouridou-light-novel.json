@@ -1,5 +1,9 @@
 {
     "title": "Isekai Ryouridou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176668.jpg",
+        "alt": "isekai-ryouridou"
+    },
     "type": "light-novel",
     "original_name": "異世界料理道",
     "start_date": "2015-02-20",

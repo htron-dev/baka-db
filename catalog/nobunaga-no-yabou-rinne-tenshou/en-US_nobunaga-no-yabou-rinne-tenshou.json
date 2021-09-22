@@ -1,5 +1,9 @@
 {
     "title": "Nobunaga no Yabou: Rinne Tenshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138295.jpg",
+        "alt": "nobunaga-no-yabou-rinne-tenshou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

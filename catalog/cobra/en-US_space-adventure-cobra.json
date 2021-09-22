@@ -1,5 +1,9 @@
 {
     "title": "Space Adventure Cobra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/42525.jpg",
+        "alt": "space-adventure-cobra"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "SPACE ADVENTURE コブラ",

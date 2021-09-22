@@ -1,5 +1,9 @@
 {
     "title": "Kakikake to Keshiin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35846.jpg",
+        "alt": "kakikake-to-keshiin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "かきかけとけしいん",

@@ -1,5 +1,9 @@
 {
     "title": "Arte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131495.jpg",
+        "alt": "arte"
+    },
     "type": "manga",
     "original_name": "アルテ",
     "start_date": "2013-10-25",

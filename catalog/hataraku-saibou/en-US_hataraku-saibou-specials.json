@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Saibou Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1481/100090.jpg",
+        "alt": "hataraku-saibou-specials"
+    },
     "type": "special",
     "episodes": "5",
     "original_name": "はたらく細胞",

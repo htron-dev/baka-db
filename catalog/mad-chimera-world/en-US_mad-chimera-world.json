@@ -1,5 +1,9 @@
 {
     "title": "Mad Chimera World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203500.jpg",
+        "alt": "mad-chimera-world"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

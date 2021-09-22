@@ -1,5 +1,9 @@
 {
     "title": "Crystal-yojeong Z-Squad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1939/114463.jpg",
+        "alt": "crystal-yojeong-z-squad"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "크리스탈요정 지스쿼드",

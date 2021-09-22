@@ -1,5 +1,9 @@
 {
     "title": "Shite Wagamama H",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27448.jpg",
+        "alt": "shite-wagamama-h"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

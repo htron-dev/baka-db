@@ -1,5 +1,9 @@
 {
     "title": "Suna no Rasen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146823.jpg",
+        "alt": "suna-no-rasen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

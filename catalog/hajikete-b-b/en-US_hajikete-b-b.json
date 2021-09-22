@@ -1,5 +1,9 @@
 {
     "title": "Hajikete B.B.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6312.jpg",
+        "alt": "hajikete-b-b"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "22",

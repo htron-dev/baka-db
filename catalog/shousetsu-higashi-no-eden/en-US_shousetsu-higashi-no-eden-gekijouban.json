@@ -1,5 +1,9 @@
 {
     "title": "Shousetsu Higashi no Eden Gekijouban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115983.jpg",
+        "alt": "shousetsu-higashi-no-eden-gekijouban"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "小説 東のエデン 劇場版",

@@ -1,5 +1,9 @@
 {
     "title": "Toritsu Mizushou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3289.jpg",
+        "alt": "toritsu-mizushou"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "235",

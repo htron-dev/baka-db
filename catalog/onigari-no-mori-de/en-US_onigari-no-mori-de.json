@@ -1,5 +1,9 @@
 {
     "title": "Onigari no Mori de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/141989.jpg",
+        "alt": "onigari-no-mori-de"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

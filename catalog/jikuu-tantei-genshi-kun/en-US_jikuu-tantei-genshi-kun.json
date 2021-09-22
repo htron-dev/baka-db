@@ -1,12 +1,16 @@
 {
     "title": "Jikuu Tantei Genshi-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/53787.jpg",
+        "alt": "jikuu-tantei-genshi-kun"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "時空探偵ゲンシクン",
     "start_date": "1998-10-01",
     "end_date": "1998-10-01",
     "opening_song": "\"Power na Kimochi (パワーなきもち)\" by Yukari Asakura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Moshimo... (もしも...)\" by Mayumi Iizuka",
     "rating": "PG - Children",
     "tags": [
         "adventure",

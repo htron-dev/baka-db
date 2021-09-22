@@ -1,5 +1,9 @@
 {
     "title": "Bunbougu Waltz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146977.jpg",
+        "alt": "bunbougu-waltz"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

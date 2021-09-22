@@ -1,5 +1,9 @@
 {
     "title": "Game no Ketsumatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79215.jpg",
+        "alt": "game-no-ketsumatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

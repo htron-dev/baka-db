@@ -1,5 +1,9 @@
 {
     "title": "Bouncer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191308.jpg",
+        "alt": "bouncer"
+    },
     "type": "manga",
     "original_name": "バウンサー",
     "start_date": "2014-09-30",

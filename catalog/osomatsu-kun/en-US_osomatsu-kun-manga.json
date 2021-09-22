@@ -1,5 +1,9 @@
 {
     "title": "Osomatsu-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159720.jpg",
+        "alt": "osomatsu-kun"
+    },
     "type": "manga",
     "volumes": "34",
     "original_name": "おそ松くん",

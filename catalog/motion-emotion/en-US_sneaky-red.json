@@ -1,5 +1,9 @@
 {
     "title": "Sneaky Red",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202962.jpg",
+        "alt": "sneaky-red"
+    },
     "type": "manga",
     "original_name": "スニーキーレッド",
     "start_date": "2012-07-25",

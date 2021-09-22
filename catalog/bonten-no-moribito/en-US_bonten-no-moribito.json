@@ -1,5 +1,9 @@
 {
     "title": "Bonten no Moribito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42717.jpg",
+        "alt": "bonten-no-moribito"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "梵天の守人",

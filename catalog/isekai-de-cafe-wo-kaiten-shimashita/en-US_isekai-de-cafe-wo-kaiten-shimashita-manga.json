@@ -1,5 +1,9 @@
 {
     "title": "Isekai de Café wo Kaiten shimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186470.jpg",
+        "alt": "isekai-de-cafe-wo-kaiten-shimashita"
+    },
     "type": "manga",
     "original_name": "異世界でカフェを開店しました。",
     "start_date": "2014-10-24",

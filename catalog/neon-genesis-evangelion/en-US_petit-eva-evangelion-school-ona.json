@@ -1,5 +1,9 @@
 {
     "title": "Petit Eva: Evangelion@School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/7593.jpg",
+        "alt": "petit-eva-evangelion-school"
+    },
     "type": "ona",
     "episodes": "24",
     "original_name": "ぷちえう゛ぁ",

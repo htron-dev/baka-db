@@ -1,5 +1,9 @@
 {
     "title": "Tou no Kemono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157963.jpg",
+        "alt": "tou-no-kemono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Pachislo Kizoku Gin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/62405.jpg",
+        "alt": "pachislo-kizoku-gin"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "パチスロ貴族 銀",

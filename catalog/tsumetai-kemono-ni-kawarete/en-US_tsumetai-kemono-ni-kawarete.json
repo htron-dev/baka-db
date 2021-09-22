@@ -1,5 +1,9 @@
 {
     "title": "Tsumetai Kemono ni Kawarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3416.jpg",
+        "alt": "tsumetai-kemono-ni-kawarete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

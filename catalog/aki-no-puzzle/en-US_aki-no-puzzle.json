@@ -1,5 +1,9 @@
 {
     "title": "Aki no Puzzle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/73763.jpg",
+        "alt": "aki-no-puzzle"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "秋のパズル",

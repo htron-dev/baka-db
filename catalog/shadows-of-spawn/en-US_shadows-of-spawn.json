@@ -1,5 +1,9 @@
 {
     "title": "Shadows of Spawn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244053.jpg",
+        "alt": "shadows-of-spawn"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

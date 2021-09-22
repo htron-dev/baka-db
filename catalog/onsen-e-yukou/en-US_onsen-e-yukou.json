@@ -1,5 +1,9 @@
 {
     "title": "Onsen e Yukou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174885.jpg",
+        "alt": "onsen-e-yukou"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "92",

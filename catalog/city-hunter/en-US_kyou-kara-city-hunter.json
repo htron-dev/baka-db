@@ -1,5 +1,9 @@
 {
     "title": "Kyou kara City Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209193.jpg",
+        "alt": "kyou-kara-city-hunter"
+    },
     "type": "manga",
     "original_name": "今日から CITY HUNTER",
     "start_date": "2017-07-25",

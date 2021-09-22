@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Uchuujin ni Koi wo Shita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185399.jpg",
+        "alt": "boku-wa-uchuujin-ni-koi-wo-shita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

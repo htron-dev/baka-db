@@ -1,5 +1,9 @@
 {
     "title": "Avian Wander",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135821.jpg",
+        "alt": "avian-wander"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

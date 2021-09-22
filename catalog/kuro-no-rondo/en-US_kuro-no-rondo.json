@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Rondo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/48909.jpg",
+        "alt": "kuro-no-rondo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

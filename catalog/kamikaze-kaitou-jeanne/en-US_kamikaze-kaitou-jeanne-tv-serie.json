@@ -1,12 +1,16 @@
 {
     "title": "Kamikaze Kaitou Jeanne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/20389.jpg",
+        "alt": "kamikaze-kaitou-jeanne"
+    },
     "type": "tv-serie",
     "episodes": "44",
     "original_name": "神風怪盗ジャンヌ",
     "start_date": "1999-02-13",
     "end_date": "1999-02-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Piece of Love\" by Shazna (eps 1-27)",
+    "ending_song": "#1: \"Haruka...\" by Pierrot (eps 1-27)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

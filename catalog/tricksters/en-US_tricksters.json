@@ -1,5 +1,9 @@
 {
     "title": "Tricksters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136851.jpg",
+        "alt": "tricksters"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "36",

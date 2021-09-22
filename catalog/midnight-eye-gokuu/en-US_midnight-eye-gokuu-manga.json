@@ -1,5 +1,9 @@
 {
     "title": "Midnight Eye Gokuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26359.jpg",
+        "alt": "midnight-eye-gokuu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "6",

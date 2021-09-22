@@ -1,5 +1,9 @@
 {
     "title": "Camera, Hajimete mo Ii desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235272.jpg",
+        "alt": "camera-hajimete-mo-ii-desu-ka"
+    },
     "type": "manga",
     "original_name": "カメラ、はじめてもいいですか？",
     "start_date": "2019-08-30",

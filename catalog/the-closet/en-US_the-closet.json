@@ -1,5 +1,9 @@
 {
     "title": "The Closet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1390/100523.jpg",
+        "alt": "the-closet"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "The closet",

@@ -1,12 +1,16 @@
 {
     "title": "Ga-Rei: Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/11355.jpg",
+        "alt": "ga-rei-zero"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "喰霊–零–",
     "start_date": "2008-10-06",
     "end_date": "2008-10-06",
     "opening_song": "\"Paradise Lost\" by Minori Chihara (eps 4-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yume no Ashioto ga Kikoeru (夢の足音が聞こえる)\" by Kaoru Mizuhara (eps 2, 4-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

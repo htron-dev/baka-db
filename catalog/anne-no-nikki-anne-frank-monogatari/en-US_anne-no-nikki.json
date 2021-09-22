@@ -1,5 +1,9 @@
 {
     "title": "Anne no Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/46771.jpg",
+        "alt": "anne-no-nikki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アンネの日記",

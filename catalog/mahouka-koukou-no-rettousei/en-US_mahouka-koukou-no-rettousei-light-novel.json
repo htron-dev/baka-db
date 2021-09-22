@@ -1,5 +1,9 @@
 {
     "title": "Mahouka Koukou no Rettousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62151.jpg",
+        "alt": "mahouka-koukou-no-rettousei"
+    },
     "type": "light-novel",
     "volumes": "32",
     "original_name": "魔法科高校の劣等生",

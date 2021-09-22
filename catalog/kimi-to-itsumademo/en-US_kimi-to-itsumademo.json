@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Itsumademo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/104409.jpg",
+        "alt": "kimi-to-itsumademo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

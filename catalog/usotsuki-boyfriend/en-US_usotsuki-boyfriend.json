@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki Boyfriend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177451.jpg",
+        "alt": "usotsuki-boyfriend"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "42",

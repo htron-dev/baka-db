@@ -1,5 +1,9 @@
 {
     "title": "Kodoku no Kane ga Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21063.jpg",
+        "alt": "kodoku-no-kane-ga-naru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,12 +1,16 @@
 {
     "title": "Zoids Wild",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1792/95048.jpg",
+        "alt": "zoids-wild"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ゾイドワイルド",
     "start_date": "2018-07-07",
     "end_date": "2018-07-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Starting Over\" by DISH// (eps 1-13)",
+    "ending_song": "#1: \"Shounen no Boku e (少年の僕へ)\" by PENGUIN RESEARCH (eps 1-13)",
     "rating": "PG - Children",
     "tags": [
         "action",

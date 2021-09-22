@@ -1,5 +1,9 @@
 {
     "title": "Ano Koi no Tsuzuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/46099.jpg",
+        "alt": "ano-koi-no-tsuzuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

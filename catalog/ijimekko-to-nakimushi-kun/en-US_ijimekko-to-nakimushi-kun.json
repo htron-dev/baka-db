@@ -1,5 +1,9 @@
 {
     "title": "Ijimekko to Nakimushi-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215250.jpg",
+        "alt": "ijimekko-to-nakimushi-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

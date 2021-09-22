@@ -1,5 +1,9 @@
 {
     "title": "Paradise Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26814.jpg",
+        "alt": "paradise-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

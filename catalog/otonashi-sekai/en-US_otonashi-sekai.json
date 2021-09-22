@@ -1,5 +1,9 @@
 {
     "title": "Otonashi Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162099.jpg",
+        "alt": "otonashi-sekai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "音無し世界",

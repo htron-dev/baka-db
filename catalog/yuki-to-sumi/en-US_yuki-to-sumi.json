@@ -1,5 +1,9 @@
 {
     "title": "Yuki to Sumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198479.jpg",
+        "alt": "yuki-to-sumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

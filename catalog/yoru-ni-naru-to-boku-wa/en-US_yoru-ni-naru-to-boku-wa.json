@@ -1,5 +1,9 @@
 {
     "title": "Yoru ni Naru to Boku wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212693.jpg",
+        "alt": "yoru-ni-naru-to-boku-wa"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

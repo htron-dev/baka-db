@@ -1,5 +1,9 @@
 {
     "title": "Dairoku Sense",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246048.jpg",
+        "alt": "dairoku-sense"
+    },
     "type": "manga",
     "original_name": "ダイロクセンス",
     "start_date": "2021-01-09",

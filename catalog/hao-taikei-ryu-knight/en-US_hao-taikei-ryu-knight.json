@@ -1,5 +1,9 @@
 {
     "title": "Hao Taikei Ryu Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9628.jpg",
+        "alt": "hao-taikei-ryu-knight"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "覇王大系リューナイト",

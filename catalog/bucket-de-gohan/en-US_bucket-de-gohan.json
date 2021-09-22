@@ -1,12 +1,16 @@
 {
     "title": "Bucket de Gohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/26452.jpg",
+        "alt": "bucket-de-gohan"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "バケツでごはん",
     "start_date": "1996-01-08",
     "end_date": "1996-01-08",
     "opening_song": "\"SHIAWASE no Ou-sama\" by Papa Lunch Mama",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Samishikunai yo ne (さみしくないよね)\" by Aya Yamamoto (eps 1-10)",
     "rating": "None",
     "tags": [
         "comedy"

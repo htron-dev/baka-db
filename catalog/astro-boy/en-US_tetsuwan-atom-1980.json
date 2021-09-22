@@ -1,12 +1,16 @@
 {
     "title": "Tetsuwan Atom (1980)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/57325.jpg",
+        "alt": "tetsuwan-atom-1980"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "鉄腕アトム",
     "start_date": "1980-10-01",
     "end_date": "1980-10-01",
     "opening_song": "\"Tetsuwan Atom (鉄腕アトム)\" by Atoms (アトムズ)",
-    "ending_song": "\"Mirai ni Mukatte",
+    "ending_song": "\"Mirai ni Mukatte: New Tetsuwan Atom (未来に向かって~ニュー鉄腕アトム~)\" by ANKH",
     "rating": "G - All Ages",
     "tags": [
         "action",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Astro_Boy_(1980_TV_series"
+            "link": "http://en.wikipedia.org/wiki/Astro_Boy_%281980_TV_series%29"
         }
     ]
 }

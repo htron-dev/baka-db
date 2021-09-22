@@ -1,5 +1,9 @@
 {
     "title": "Tekken Chinmi Legends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/75073.jpg",
+        "alt": "tekken-chinmi-legends"
+    },
     "type": "manga",
     "original_name": "鉄拳チンミ Legends",
     "tags": [

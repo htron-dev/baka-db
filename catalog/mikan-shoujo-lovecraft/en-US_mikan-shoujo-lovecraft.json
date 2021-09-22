@@ -1,5 +1,9 @@
 {
     "title": "Mikan Shoujo Lovecraft",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160815.jpg",
+        "alt": "mikan-shoujo-lovecraft"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "19",

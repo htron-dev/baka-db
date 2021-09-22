@@ -1,5 +1,9 @@
 {
     "title": "Innocents Shounen Juujigun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166912.jpg",
+        "alt": "innocents-shounen-juujigun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

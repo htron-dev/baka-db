@@ -1,5 +1,9 @@
 {
     "title": "Running Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1325/98783.jpg",
+        "alt": "running-man"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "런닝맨",
@@ -22,7 +26,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Running_Man_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/Running_Man_%28TV_series%29#Animation"
         }
     ]
 }

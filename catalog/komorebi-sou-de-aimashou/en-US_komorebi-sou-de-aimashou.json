@@ -1,5 +1,9 @@
 {
     "title": "Komorebi-sou de Aimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226242.jpg",
+        "alt": "komorebi-sou-de-aimashou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

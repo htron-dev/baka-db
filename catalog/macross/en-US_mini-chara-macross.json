@@ -1,5 +1,9 @@
 {
     "title": "Mini-Chara Macross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75898.jpg",
+        "alt": "mini-chara-macross"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ミニキャラマクロス",

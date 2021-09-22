@@ -1,5 +1,9 @@
 {
     "title": "Viehmannin wa Utau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/176273.jpg",
+        "alt": "viehmannin-wa-utau"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

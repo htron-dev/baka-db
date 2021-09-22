@@ -1,5 +1,9 @@
 {
     "title": "Zhi Pengyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1707/115237.jpg",
+        "alt": "zhi-pengyou"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "纸朋友",

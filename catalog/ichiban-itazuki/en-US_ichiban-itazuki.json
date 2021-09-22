@@ -1,5 +1,9 @@
 {
     "title": "Ichiban Itazuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170484.jpg",
+        "alt": "ichiban-itazuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

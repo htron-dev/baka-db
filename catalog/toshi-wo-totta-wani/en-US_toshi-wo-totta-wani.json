@@ -1,5 +1,9 @@
 {
     "title": "Toshi wo Totta Wani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/8561.jpg",
+        "alt": "toshi-wo-totta-wani"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "年をとった鰐",

@@ -1,5 +1,9 @@
 {
     "title": "Shoumonai Bokura no Renairon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226338.jpg",
+        "alt": "shoumonai-bokura-no-renairon"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "54",

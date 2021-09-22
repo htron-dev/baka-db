@@ -1,5 +1,9 @@
 {
     "title": "Chicken Papa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/81519.jpg",
+        "alt": "chicken-papa"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "チキンパパ",

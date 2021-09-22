@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238186.jpg",
+        "alt": "uchuu-sensou"
+    },
     "type": "manga",
     "original_name": "宇宙戦争",
     "start_date": "2018-10-05",

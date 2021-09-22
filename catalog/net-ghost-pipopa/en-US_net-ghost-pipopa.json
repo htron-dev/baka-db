@@ -1,12 +1,16 @@
 {
     "title": "Net Ghost Pipopa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/23634.jpg",
+        "alt": "net-ghost-pipopa"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ネットゴースト PIPOPA",
     "start_date": "2008-04-06",
     "end_date": "2008-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Password@PIPOPA (パスワード@PIPOPA)\" by Atsuko Bungo (eps 2-4)",
+    "ending_song": "#1: \"Hoshi Kirari (星キラリ)\" by COON (eps 1-26)",
     "rating": "G - All Ages",
     "tags": [
         "action",

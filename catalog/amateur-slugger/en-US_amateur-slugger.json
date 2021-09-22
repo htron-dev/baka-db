@@ -1,5 +1,9 @@
 {
     "title": "Amateur Slugger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171397.jpg",
+        "alt": "amateur-slugger"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

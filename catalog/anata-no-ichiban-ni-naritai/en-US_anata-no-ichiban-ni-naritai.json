@@ -1,5 +1,9 @@
 {
     "title": "Anata no Ichiban ni Naritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10872.jpg",
+        "alt": "anata-no-ichiban-ni-naritai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あなたの一番になりたい",

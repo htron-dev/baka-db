@@ -1,5 +1,9 @@
 {
     "title": "Doukyonin no Binandomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118397.jpg",
+        "alt": "doukyonin-no-binandomo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

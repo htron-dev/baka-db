@@ -1,5 +1,9 @@
 {
     "title": "Isekai Ekisha no Kissaten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223069.jpg",
+        "alt": "isekai-ekisha-no-kissaten"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

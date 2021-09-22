@@ -1,5 +1,9 @@
 {
     "title": "f-Ningyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188253.jpg",
+        "alt": "f-ningyo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "66",

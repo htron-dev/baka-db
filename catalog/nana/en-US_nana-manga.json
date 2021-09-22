@@ -1,5 +1,9 @@
 {
     "title": "Nana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163191.jpg",
+        "alt": "nana"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "84",

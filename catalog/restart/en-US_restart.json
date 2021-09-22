@@ -1,5 +1,9 @@
 {
     "title": "Restart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186120.jpg",
+        "alt": "restart"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

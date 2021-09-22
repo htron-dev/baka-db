@@ -1,5 +1,9 @@
 {
     "title": "Maou-sama Chotto Sore Totte!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164111.jpg",
+        "alt": "maou-sama-chotto-sore-totte"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "71",

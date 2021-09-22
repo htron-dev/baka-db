@@ -1,5 +1,9 @@
 {
     "title": "Tactical Roar Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/3401.jpg",
+        "alt": "tactical-roar-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "タクティカルロア - マーキュリーズの休日",

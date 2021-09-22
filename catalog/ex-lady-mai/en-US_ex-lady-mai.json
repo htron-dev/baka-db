@@ -1,5 +1,9 @@
 {
     "title": "Ex. Lady Mai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/36577.jpg",
+        "alt": "ex-lady-mai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Ex.レディ舞",

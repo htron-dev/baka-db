@@ -1,5 +1,9 @@
 {
     "title": "Game Center Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/205245.jpg",
+        "alt": "game-center-arashi"
+    },
     "type": "manga",
     "volumes": "17",
     "original_name": "ゲームセンターあらし",

@@ -1,11 +1,15 @@
 {
     "title": "Hori-san to Miyamura-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/40175.jpg",
+        "alt": "hori-san-to-miyamura-kun"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "堀さんと宮村くん",
     "start_date": "2012-09-26",
     "end_date": "2012-09-26",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shirotsumekusa (シロツメクサ)\" by Kyouko Hori (Asami Seto)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

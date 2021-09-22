@@ -1,5 +1,9 @@
 {
     "title": "Strawberry Panic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6181.jpg",
+        "alt": "strawberry-panic"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

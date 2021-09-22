@@ -1,5 +1,9 @@
 {
     "title": "Kyouko to Tousan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170728.jpg",
+        "alt": "kyouko-to-tousan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Papa to Odorou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/72800.jpg",
+        "alt": "papa-to-odorou"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "パパと踊ろう",

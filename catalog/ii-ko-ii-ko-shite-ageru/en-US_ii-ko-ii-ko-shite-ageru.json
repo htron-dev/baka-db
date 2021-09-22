@@ -1,5 +1,9 @@
 {
     "title": "Ii Ko Ii Ko shite Ageru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221672.jpg",
+        "alt": "ii-ko-ii-ko-shite-ageru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

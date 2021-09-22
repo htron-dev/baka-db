@@ -1,5 +1,9 @@
 {
     "title": "Nekojou Mu-Mu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183847.jpg",
+        "alt": "nekojou-mu-mu"
+    },
     "type": "manga",
     "original_name": "猫嬢ムーム",
     "start_date": "2014-09-25",

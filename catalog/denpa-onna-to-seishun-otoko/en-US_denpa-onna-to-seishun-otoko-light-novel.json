@@ -1,5 +1,9 @@
 {
     "title": "Denpa Onna to Seishun Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132513.jpg",
+        "alt": "denpa-onna-to-seishun-otoko"
+    },
     "type": "light-novel",
     "volumes": "9",
     "original_name": "電波女と青春男",

@@ -1,12 +1,16 @@
 {
     "title": "Queen Emeraldas",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/21120.jpg",
+        "alt": "queen-emeraldas"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "クィーン・エメラルダス",
     "start_date": "1998-06-05",
     "end_date": "1998-06-05",
     "opening_song": "\"Queen Emeraldas (クィーンエメラルダス)\" by Tamami Matsumoto (松本圭未)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hitori de mo Hitori de wa Nai (ひとりでも ひとりではない)\" by Lily",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

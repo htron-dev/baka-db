@@ -1,5 +1,9 @@
 {
     "title": "Ichinen Ikkumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/67469.jpg",
+        "alt": "ichinen-ikkumi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "1 ねん 1 くみ",

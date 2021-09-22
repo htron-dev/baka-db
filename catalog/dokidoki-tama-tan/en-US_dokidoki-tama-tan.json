@@ -1,5 +1,9 @@
 {
     "title": "Dokidoki! Tama-tan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25810.jpg",
+        "alt": "dokidoki-tama-tan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

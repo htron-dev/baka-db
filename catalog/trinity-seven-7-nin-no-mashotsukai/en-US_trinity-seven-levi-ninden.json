@@ -1,5 +1,9 @@
 {
     "title": "Trinity Seven: Levi Ninden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175690.jpg",
+        "alt": "trinity-seven-levi-ninden"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

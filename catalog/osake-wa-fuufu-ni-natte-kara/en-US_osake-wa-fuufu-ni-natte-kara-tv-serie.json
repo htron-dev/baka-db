@@ -1,5 +1,9 @@
 {
     "title": "Osake wa Fuufu ni Natte kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1684/108627.jpg",
+        "alt": "osake-wa-fuufu-ni-natte-kara"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "お酒は夫婦になってから",

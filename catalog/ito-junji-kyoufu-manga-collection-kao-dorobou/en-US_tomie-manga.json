@@ -1,5 +1,9 @@
 {
     "title": "Tomie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164476.jpg",
+        "alt": "tomie"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Heya Camp△",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1228/104364.jpg",
+        "alt": "heya-camp△"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "へやキャン △",

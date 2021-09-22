@@ -1,5 +1,9 @@
 {
     "title": "Gekkou no Sasayaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231149.jpg",
+        "alt": "gekkou-no-sasayaki"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "78",

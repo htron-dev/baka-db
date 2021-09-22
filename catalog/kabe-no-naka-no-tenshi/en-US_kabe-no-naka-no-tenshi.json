@@ -1,5 +1,9 @@
 {
     "title": "Kabe no Naka no Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37084.jpg",
+        "alt": "kabe-no-naka-no-tenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

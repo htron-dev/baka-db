@@ -1,5 +1,9 @@
 {
     "title": "Ashita mo Tanin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179743.jpg",
+        "alt": "ashita-mo-tanin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

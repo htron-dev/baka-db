@@ -1,5 +1,9 @@
 {
     "title": "Pokemon Movie 15: Kyurem vs. Seikenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/38311.jpg",
+        "alt": "pokemon-movie-15-kyurem-vs-seikenshi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 ポケットモンスター ベストウイッシュ キュレム VS 聖剣士",

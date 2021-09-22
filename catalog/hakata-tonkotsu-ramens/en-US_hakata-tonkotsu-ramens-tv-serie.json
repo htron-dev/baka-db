@@ -1,12 +1,16 @@
 {
     "title": "Hakata Tonkotsu Ramens",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1718/91097.jpg",
+        "alt": "hakata-tonkotsu-ramens"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "博多豚骨ラーメンズ",
     "start_date": "2018-01-12",
     "end_date": "2018-01-12",
     "opening_song": "\"Stray (ストレイ)\" by Kishida Kyoudan & The Akeboshi Rockets (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Stray (ストレイ)\" by Kishida Kyoudan & The Akeboshi Rockets (eps 1, 12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

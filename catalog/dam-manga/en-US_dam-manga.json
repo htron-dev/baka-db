@@ -1,5 +1,9 @@
 {
     "title": "Dam Manga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142539.jpg",
+        "alt": "dam-manga"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

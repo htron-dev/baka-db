@@ -1,5 +1,9 @@
 {
     "title": "Maroko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/67705.jpg",
+        "alt": "maroko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "MAROKO 麿子",

@@ -1,5 +1,9 @@
 {
     "title": "Dementia 21",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191015.jpg",
+        "alt": "dementia-21"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "37",

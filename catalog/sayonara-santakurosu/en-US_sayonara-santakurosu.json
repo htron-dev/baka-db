@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Santakurosu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31565.jpg",
+        "alt": "sayonara-santakurosu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "さよならサンタクロース",

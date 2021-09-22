@@ -1,5 +1,9 @@
 {
     "title": "Prison Town e Youkoso!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210438.jpg",
+        "alt": "prison-town-e-youkoso"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

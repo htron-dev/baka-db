@@ -1,5 +1,9 @@
 {
     "title": "Nandaka Velonica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/60199.jpg",
+        "alt": "nandaka-velonica"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "ナンダカベロニカ",

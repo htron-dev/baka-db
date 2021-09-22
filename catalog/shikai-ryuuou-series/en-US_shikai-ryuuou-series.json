@@ -1,5 +1,9 @@
 {
     "title": "Shikai Ryuuou Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239039.jpg",
+        "alt": "shikai-ryuuou-series"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

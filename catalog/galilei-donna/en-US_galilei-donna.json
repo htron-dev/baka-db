@@ -1,5 +1,9 @@
 {
     "title": "Galilei Donna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/53239.jpg",
+        "alt": "galilei-donna"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "ガリレイドンナ",

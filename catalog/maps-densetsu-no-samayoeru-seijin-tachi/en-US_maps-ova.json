@@ -1,5 +1,9 @@
 {
     "title": "Maps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/22262.jpg",
+        "alt": "maps"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "マップス",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Maps_(anime"
+            "link": "http://en.wikipedia.org/wiki/Maps_%28anime%29"
         }
     ]
 }

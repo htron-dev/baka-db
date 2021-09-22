@@ -1,5 +1,9 @@
 {
     "title": "The Poet Who Buys Words",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1775.jpg",
+        "alt": "the-poet-who-buys-words"
+    },
     "type": "manhwa",
     "chapters": "3",
     "original_name": "언어를 사는 시인",

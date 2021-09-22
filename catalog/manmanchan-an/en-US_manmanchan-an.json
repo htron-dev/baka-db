@@ -1,5 +1,9 @@
 {
     "title": "Manmanchan, An",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169932.jpg",
+        "alt": "manmanchan-an"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

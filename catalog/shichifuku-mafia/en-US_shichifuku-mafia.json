@@ -1,5 +1,9 @@
 {
     "title": "Shichifuku Mafia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142907.jpg",
+        "alt": "shichifuku-mafia"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Shuuden na Ka-n-ke-i",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78937.jpg",
+        "alt": "shuuden-na-ka-n-ke-i"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

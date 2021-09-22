@@ -1,5 +1,9 @@
 {
     "title": "Himitsu Kichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5092.jpg",
+        "alt": "himitsu-kichi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

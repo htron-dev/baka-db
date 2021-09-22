@@ -1,5 +1,9 @@
 {
     "title": "Koroshiya Menkichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226935.jpg",
+        "alt": "koroshiya-menkichi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "40",

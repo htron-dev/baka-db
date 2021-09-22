@@ -1,5 +1,9 @@
 {
     "title": "Akai Ringo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237642.jpg",
+        "alt": "akai-ringo"
+    },
     "type": "manga",
     "original_name": "アカイリンゴ",
     "start_date": "2020-01-14",

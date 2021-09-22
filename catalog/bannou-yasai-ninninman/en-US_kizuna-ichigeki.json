@@ -1,5 +1,9 @@
 {
     "title": "Kizuna Ichigeki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/29055.jpg",
+        "alt": "kizuna-ichigeki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キズナ 一撃",

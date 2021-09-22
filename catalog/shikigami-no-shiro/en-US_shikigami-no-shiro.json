@@ -1,5 +1,9 @@
 {
     "title": "Shikigami no Shiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207268.jpg",
+        "alt": "shikigami-no-shiro"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

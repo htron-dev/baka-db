@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Sexy Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153351.jpg",
+        "alt": "tokyo-sexy-night"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "東京セクシーナイト",

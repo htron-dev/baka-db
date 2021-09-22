@@ -1,5 +1,9 @@
 {
     "title": "Goichi Jiisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/86285.jpg",
+        "alt": "goichi-jiisan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "五一ぢいさん",

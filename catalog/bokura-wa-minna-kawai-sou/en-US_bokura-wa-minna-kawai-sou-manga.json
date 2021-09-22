@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Minna Kawai-sou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204982.jpg",
+        "alt": "bokura-wa-minna-kawai-sou"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "93",

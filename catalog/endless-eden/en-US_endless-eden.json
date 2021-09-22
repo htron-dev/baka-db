@@ -1,5 +1,9 @@
 {
     "title": "Endless Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200168.jpg",
+        "alt": "endless-eden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

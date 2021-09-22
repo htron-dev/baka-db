@@ -1,5 +1,9 @@
 {
     "title": "Kuchibiru ni Suketa Orange",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173657.jpg",
+        "alt": "kuchibiru-ni-suketa-orange"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

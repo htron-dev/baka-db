@@ -1,5 +1,9 @@
 {
     "title": "Bougyoryoku Zero no Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225336.jpg",
+        "alt": "bougyoryoku-zero-no-yome"
+    },
     "type": "manga",
     "original_name": "防御力ゼロの嫁",
     "start_date": "2019-04-26",

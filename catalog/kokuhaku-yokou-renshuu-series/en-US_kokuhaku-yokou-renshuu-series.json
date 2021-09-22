@@ -1,5 +1,9 @@
 {
     "title": "Kokuhaku Yokou Renshuu Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150445.jpg",
+        "alt": "kokuhaku-yokou-renshuu-series"
+    },
     "type": "light-novel",
     "original_name": "告白予行練習シリーズ",
     "start_date": "2014-02-01",

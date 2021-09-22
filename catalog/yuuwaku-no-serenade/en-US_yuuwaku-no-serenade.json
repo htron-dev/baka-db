@@ -1,5 +1,9 @@
 {
     "title": "Yuuwaku no Serenade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227446.jpg",
+        "alt": "yuuwaku-no-serenade"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "誘惑のセレナーデ",

@@ -1,5 +1,9 @@
 {
     "title": "Katsuai Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18670.jpg",
+        "alt": "katsuai-monster"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

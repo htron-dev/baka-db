@@ -1,5 +1,9 @@
 {
     "title": "Koi Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46257.jpg",
+        "alt": "koi-neko"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "100",

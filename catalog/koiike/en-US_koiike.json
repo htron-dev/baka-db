@@ -1,5 +1,9 @@
 {
     "title": "Koiike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183273.jpg",
+        "alt": "koiike"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

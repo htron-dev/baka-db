@@ -1,5 +1,9 @@
 {
     "title": "Genbanojou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/84200.jpg",
+        "alt": "genbanojou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "げんばのじょう-玄蕃之丞-",

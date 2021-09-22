@@ -1,5 +1,9 @@
 {
     "title": "Ghost Only: Yuurei Senyou Restaurant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211272.jpg",
+        "alt": "ghost-only-yuurei-senyou-restaurant"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

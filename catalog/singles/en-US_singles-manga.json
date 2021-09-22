@@ -1,5 +1,9 @@
 {
     "title": "Singles",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152214.jpg",
+        "alt": "singles"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

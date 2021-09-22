@@ -1,5 +1,9 @@
 {
     "title": "Raitei no Maid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201893.jpg",
+        "alt": "raitei-no-maid"
+    },
     "type": "light-novel",
     "original_name": "雷帝のメイド",
     "start_date": "2017-09-15",

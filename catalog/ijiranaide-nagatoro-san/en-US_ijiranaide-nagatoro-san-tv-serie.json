@@ -1,12 +1,16 @@
 {
     "title": "Ijiranaide, Nagatoro-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1900/110097.jpg",
+        "alt": "ijiranaide-nagatoro-san"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "イジらないで、長瀞さん",
     "start_date": "2021-04-11",
     "end_date": "2021-04-11",
     "opening_song": "\"EASY LOVE\" by Sumire Uesaka (上坂 すみれ) (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"EASY LOVE\" by Sumire Uesaka (上坂 すみれ) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Kenkaku Taiheiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174534.jpg",
+        "alt": "kenkaku-taiheiki"
+    },
     "type": "manga",
     "chapters": "14",
     "original_name": "剣客太平記",

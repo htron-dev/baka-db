@@ -1,5 +1,9 @@
 {
     "title": "Diamond no Ace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14653.jpg",
+        "alt": "diamond-no-ace"
+    },
     "type": "manga",
     "volumes": "47",
     "chapters": "418",

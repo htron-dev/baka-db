@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Dead or Alive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1408/94363.jpg",
+        "alt": "lupin-iii-dead-or-alive"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ルパン三世 DEAD OR ALIVE",

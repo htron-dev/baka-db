@@ -1,5 +1,9 @@
 {
     "title": "My Heart Is Beating",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64415.jpg",
+        "alt": "my-heart-is-beating"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "30",

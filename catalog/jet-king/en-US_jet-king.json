@@ -1,5 +1,9 @@
 {
     "title": "Jet King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237836.jpg",
+        "alt": "jet-king"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ジェットキング",

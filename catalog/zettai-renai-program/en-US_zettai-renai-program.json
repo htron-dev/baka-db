@@ -1,5 +1,9 @@
 {
     "title": "Zettai Renai Program",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81690.jpg",
+        "alt": "zettai-renai-program"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

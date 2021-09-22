@@ -1,5 +1,9 @@
 {
     "title": "Sayori na Parallel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150420.jpg",
+        "alt": "sayori-na-parallel"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

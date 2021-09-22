@@ -1,5 +1,9 @@
 {
     "title": "Nazotokine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/81048.jpg",
+        "alt": "nazotokine"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ナゾトキネ",

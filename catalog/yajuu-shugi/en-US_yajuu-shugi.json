@@ -1,5 +1,9 @@
 {
     "title": "Yajuu Shugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26295.jpg",
+        "alt": "yajuu-shugi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "野獣主義",

@@ -1,5 +1,9 @@
 {
     "title": "Oyayubi kara Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3792.jpg",
+        "alt": "oyayubi-kara-romance"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "52",

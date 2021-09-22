@@ -1,5 +1,9 @@
 {
     "title": "Ghost Messenger Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1984/93768.jpg",
+        "alt": "ghost-messenger-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "고스트 메신저 극장판",

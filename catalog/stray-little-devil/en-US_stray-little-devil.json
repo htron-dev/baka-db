@@ -1,5 +1,9 @@
 {
     "title": "Stray Little Devil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169653.jpg",
+        "alt": "stray-little-devil"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "32",

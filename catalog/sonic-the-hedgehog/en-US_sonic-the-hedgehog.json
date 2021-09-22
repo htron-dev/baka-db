@@ -1,5 +1,9 @@
 {
     "title": "Sonic the Hedgehog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13925.jpg",
+        "alt": "sonic-the-hedgehog"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ソニック・ザ・ヘッジホッグ",

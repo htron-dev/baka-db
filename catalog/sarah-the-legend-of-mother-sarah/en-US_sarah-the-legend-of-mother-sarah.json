@@ -1,5 +1,9 @@
 {
     "title": "Sarah - The Legend of Mother Sarah",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/105847.jpg",
+        "alt": "sarah-the-legend-of-mother-sarah"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "60",

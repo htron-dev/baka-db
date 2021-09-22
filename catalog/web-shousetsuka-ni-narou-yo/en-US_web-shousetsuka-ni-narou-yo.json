@@ -1,5 +1,9 @@
 {
     "title": "Web Shousetsuka ni Narou yo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164458.jpg",
+        "alt": "web-shousetsuka-ni-narou-yo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

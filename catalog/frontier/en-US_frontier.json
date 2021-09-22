@@ -1,5 +1,9 @@
 {
     "title": "Frontier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227778.jpg",
+        "alt": "frontier"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

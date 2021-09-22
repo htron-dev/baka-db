@@ -1,5 +1,9 @@
 {
     "title": "K-On!: Live House!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/15892.jpg",
+        "alt": "k-on-live-house"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "けいおん! ライブハウス!",

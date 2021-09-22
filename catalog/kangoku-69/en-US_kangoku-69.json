@@ -1,5 +1,9 @@
 {
     "title": "Kangoku 69",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28656.jpg",
+        "alt": "kangoku-69"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

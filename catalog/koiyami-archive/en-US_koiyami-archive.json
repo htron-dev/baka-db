@@ -1,5 +1,9 @@
 {
     "title": "Koiyami Archive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2619.jpg",
+        "alt": "koiyami-archive"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

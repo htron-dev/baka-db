@@ -1,5 +1,9 @@
 {
     "title": "Muteki☆Joshikousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7948.jpg",
+        "alt": "muteki☆-joshikousei"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "無敵 ☆ 女子高生",

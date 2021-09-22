@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Limited.: Gentei Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/15991.jpg",
+        "alt": "hatsukoi-limited-gentei-shoujo"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "初恋限定。限定少女",

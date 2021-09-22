@@ -1,5 +1,9 @@
 {
     "title": "Kujakuou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/82866.jpg",
+        "alt": "kujakuou"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "孔雀王",

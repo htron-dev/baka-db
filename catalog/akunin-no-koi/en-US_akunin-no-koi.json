@@ -1,5 +1,9 @@
 {
     "title": "Akunin no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236605.jpg",
+        "alt": "akunin-no-koi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

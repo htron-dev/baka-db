@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Kawaii Onnanoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173049.jpg",
+        "alt": "kimi-wa-kawaii-onnanoko"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "54",

@@ -1,5 +1,9 @@
 {
     "title": "docca",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88193.jpg",
+        "alt": "docca"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

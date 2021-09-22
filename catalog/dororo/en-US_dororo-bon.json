@@ -1,5 +1,9 @@
 {
     "title": "Dororo Bon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38007.jpg",
+        "alt": "dororo-bon"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

@@ -1,5 +1,9 @@
 {
     "title": "July Found by Chance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245898.jpg",
+        "alt": "july-found-by-chance"
+    },
     "type": "manhwa",
     "original_name": "어쩌다 발견한 7월",
     "start_date": "2018-01-18",

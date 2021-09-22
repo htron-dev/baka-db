@@ -1,5 +1,9 @@
 {
     "title": "Shining Tears X Wind",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/2298.jpg",
+        "alt": "shining-tears-x-wind"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "シャイニング・ティアーズ・クロス・ウィンド",

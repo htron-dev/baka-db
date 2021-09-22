@@ -1,5 +1,9 @@
 {
     "title": "Tsubasa: WoRLD CHRoNiCLE - Niraikanai-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151905.jpg",
+        "alt": "tsubasa-wo-rld-ch-ro-ni-cle-niraikanai-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

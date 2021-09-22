@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ghoul √A",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/71777.jpg",
+        "alt": "tokyo-ghoul-√a"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "東京喰種 √A",

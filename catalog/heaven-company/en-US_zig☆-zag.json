@@ -1,5 +1,9 @@
 {
     "title": "Zig☆Zag",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171468.jpg",
+        "alt": "zig☆-zag"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "44",

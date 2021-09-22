@@ -1,5 +1,9 @@
 {
     "title": "Ogrebuster Overdrive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147693.jpg",
+        "alt": "ogrebuster-overdrive"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

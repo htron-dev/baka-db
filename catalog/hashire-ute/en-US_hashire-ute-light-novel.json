@@ -1,5 +1,9 @@
 {
     "title": "Hashire, Ute!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70385.jpg",
+        "alt": "hashire-ute"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "116",

@@ -1,5 +1,9 @@
 {
     "title": "Are wa Choukouritsu no Mochako da yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176148.jpg",
+        "alt": "are-wa-choukouritsu-no-mochako-da-yo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

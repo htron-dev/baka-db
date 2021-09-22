@@ -1,5 +1,9 @@
 {
     "title": "Neko Neko Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227582.jpg",
+        "alt": "neko-neko-honey"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

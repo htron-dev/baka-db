@@ -1,5 +1,9 @@
 {
     "title": "Macaroni Switch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196456.jpg",
+        "alt": "macaroni-switch"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "67",

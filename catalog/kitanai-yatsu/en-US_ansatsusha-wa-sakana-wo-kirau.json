@@ -1,5 +1,9 @@
 {
     "title": "Ansatsusha wa Sakana wo Kirau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24652.jpg",
+        "alt": "ansatsusha-wa-sakana-wo-kirau"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

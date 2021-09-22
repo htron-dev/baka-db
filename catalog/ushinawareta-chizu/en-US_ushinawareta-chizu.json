@@ -1,5 +1,9 @@
 {
     "title": "Ushinawareta Chizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227374.jpg",
+        "alt": "ushinawareta-chizu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "失われた地図",

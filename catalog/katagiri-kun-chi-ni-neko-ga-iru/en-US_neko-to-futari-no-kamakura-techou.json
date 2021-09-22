@@ -1,5 +1,9 @@
 {
     "title": "Neko to Futari no Kamakura Techou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237477.jpg",
+        "alt": "neko-to-futari-no-kamakura-techou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "59",

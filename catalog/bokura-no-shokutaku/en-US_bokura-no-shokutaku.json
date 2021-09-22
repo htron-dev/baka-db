@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Shokutaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196394.jpg",
+        "alt": "bokura-no-shokutaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

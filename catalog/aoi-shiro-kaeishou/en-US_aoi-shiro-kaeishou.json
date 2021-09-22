@@ -1,5 +1,9 @@
 {
     "title": "Aoi Shiro: Kaeishou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13200.jpg",
+        "alt": "aoi-shiro-kaeishou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

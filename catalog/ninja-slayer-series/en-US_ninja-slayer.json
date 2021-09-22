@@ -1,5 +1,9 @@
 {
     "title": "Ninja Slayer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155685.jpg",
+        "alt": "ninja-slayer"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "60",

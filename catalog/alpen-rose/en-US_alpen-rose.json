@@ -1,5 +1,9 @@
 {
     "title": "Alpen Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/175785.jpg",
+        "alt": "alpen-rose"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "56",

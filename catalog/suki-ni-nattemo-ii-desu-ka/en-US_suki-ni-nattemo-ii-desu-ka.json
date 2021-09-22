@@ -1,5 +1,9 @@
 {
     "title": "Suki ni Nattemo Ii desu ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176110.jpg",
+        "alt": "suki-ni-nattemo-ii-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

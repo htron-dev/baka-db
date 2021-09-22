@@ -1,5 +1,9 @@
 {
     "title": "Furidashi ni Ochiru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210325.jpg",
+        "alt": "furidashi-ni-ochiru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

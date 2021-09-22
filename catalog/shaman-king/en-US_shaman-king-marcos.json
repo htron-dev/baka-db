@@ -1,5 +1,9 @@
 {
     "title": "Shaman King: Marcos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235898.jpg",
+        "alt": "shaman-king-marcos"
+    },
     "type": "manga",
     "original_name": "SHAMAN KING マルコス",
     "start_date": "2020-04-17",

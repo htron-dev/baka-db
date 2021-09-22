@@ -1,5 +1,9 @@
 {
     "title": "Neko Neko Fantasia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/22666.jpg",
+        "alt": "neko-neko-fantasia"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ねこ・ねこ・幻想曲",

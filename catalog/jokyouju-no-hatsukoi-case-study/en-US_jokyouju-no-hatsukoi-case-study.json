@@ -1,5 +1,9 @@
 {
     "title": "Jokyouju no Hatsukoi Case Study",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193802.jpg",
+        "alt": "jokyouju-no-hatsukoi-case-study"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

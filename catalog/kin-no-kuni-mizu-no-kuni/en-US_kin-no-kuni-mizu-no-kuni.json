@@ -1,5 +1,9 @@
 {
     "title": "Kin no Kuni Mizu no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186834.jpg",
+        "alt": "kin-no-kuni-mizu-no-kuni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

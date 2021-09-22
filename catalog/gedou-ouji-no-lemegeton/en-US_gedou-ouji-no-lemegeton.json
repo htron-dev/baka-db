@@ -1,5 +1,9 @@
 {
     "title": "Gedou Ouji no Lemegeton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173065.jpg",
+        "alt": "gedou-ouji-no-lemegeton"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Love Calendar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178422.jpg",
+        "alt": "love-calendar"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

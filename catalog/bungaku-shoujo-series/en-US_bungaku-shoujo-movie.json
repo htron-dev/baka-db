@@ -1,5 +1,9 @@
 {
     "title": "\"Bungaku Shoujo\" Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/81162.jpg",
+        "alt": "bungaku-shoujo-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版“文学少女”",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Book_Girl_(film"
+            "link": "http://en.wikipedia.org/wiki/Book_Girl_%28film%29"
         }
     ]
 }

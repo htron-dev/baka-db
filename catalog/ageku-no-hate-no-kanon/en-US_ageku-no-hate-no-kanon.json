@@ -1,5 +1,9 @@
 {
     "title": "Ageku no Hate no Kanon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207330.jpg",
+        "alt": "ageku-no-hate-no-kanon"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

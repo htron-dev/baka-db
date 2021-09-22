@@ -1,5 +1,9 @@
 {
     "title": "Seraphic Feather",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/138125.jpg",
+        "alt": "seraphic-feather"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "136",

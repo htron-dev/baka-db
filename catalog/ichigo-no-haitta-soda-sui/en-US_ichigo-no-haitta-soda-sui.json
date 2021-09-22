@@ -1,5 +1,9 @@
 {
     "title": "Ichigo no Haitta Soda-sui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193704.jpg",
+        "alt": "ichigo-no-haitta-soda-sui"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "70",

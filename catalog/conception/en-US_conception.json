@@ -1,12 +1,16 @@
 {
     "title": "Conception",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1849/95019.jpg",
+        "alt": "conception"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "CONCEPTION（コンセプション）",
     "start_date": "2018-10-10",
     "end_date": "2018-10-10",
     "opening_song": "\"Star light, Star bright\" by nano",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Desires\" by Manami Numakura (eps 1-7, 9-)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

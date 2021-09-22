@@ -1,5 +1,9 @@
 {
     "title": "Angel Beats! Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/25073.jpg",
+        "alt": "angel-beats-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "エンジェルビーツ",

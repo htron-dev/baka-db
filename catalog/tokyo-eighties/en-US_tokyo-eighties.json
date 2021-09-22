@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Eighties",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95513.jpg",
+        "alt": "tokyo-eighties"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "120",

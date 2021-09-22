@@ -1,5 +1,9 @@
 {
     "title": "Teppenkaketaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169823.jpg",
+        "alt": "teppenkaketaka"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "テッペンカケタカ",

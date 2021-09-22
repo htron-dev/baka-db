@@ -1,5 +1,9 @@
 {
     "title": "Jintai no Survival!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1419/108415.jpg",
+        "alt": "jintai-no-survival"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "人体のサバイバル!",

@@ -1,5 +1,9 @@
 {
     "title": "Eien no Hou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/16138.jpg",
+        "alt": "eien-no-hou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "永遠の法",

@@ -1,5 +1,9 @@
 {
     "title": "Tobenai Chou to Sora no Shachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196306.jpg",
+        "alt": "tobenai-chou-to-sora-no-shachi"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "43",

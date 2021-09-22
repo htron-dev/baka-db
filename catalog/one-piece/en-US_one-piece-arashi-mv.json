@@ -1,5 +1,9 @@
 {
     "title": "One Piece Arashi MV",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1053/105478.jpg",
+        "alt": "one-piece-arashi-mv"
+    },
     "type": "ona",
     "episodes": "1",
     "start_date": "2020-01-04",

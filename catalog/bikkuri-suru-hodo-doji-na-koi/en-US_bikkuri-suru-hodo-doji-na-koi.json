@@ -1,5 +1,9 @@
 {
     "title": "Bikkuri Suru hodo Doji na Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84501.jpg",
+        "alt": "bikkuri-suru-hodo-doji-na-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

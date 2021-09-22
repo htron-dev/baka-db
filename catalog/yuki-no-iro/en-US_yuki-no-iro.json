@@ -1,5 +1,9 @@
 {
     "title": "Yuki no Iro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235304.jpg",
+        "alt": "yuki-no-iro"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

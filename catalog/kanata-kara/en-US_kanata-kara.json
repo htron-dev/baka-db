@@ -1,5 +1,9 @@
 {
     "title": "Kanata kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185863.jpg",
+        "alt": "kanata-kara"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "57",

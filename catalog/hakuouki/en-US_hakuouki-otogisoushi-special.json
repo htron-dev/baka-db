@@ -1,5 +1,9 @@
 {
     "title": "Hakuouki: Otogisoushi Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/84387.jpg",
+        "alt": "hakuouki-otogisoushi-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "薄桜鬼～御伽草子～ 特別篇",

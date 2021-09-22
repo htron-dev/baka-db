@@ -1,5 +1,9 @@
 {
     "title": "Tamashichi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/88295.jpg",
+        "alt": "tamashichi"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "たましち！",

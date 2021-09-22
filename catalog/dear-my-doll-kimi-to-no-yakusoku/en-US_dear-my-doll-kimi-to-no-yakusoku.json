@@ -1,5 +1,9 @@
 {
     "title": "Dear my Doll -~Kimi to no Yakusoku~",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14293.jpg",
+        "alt": "dear-my-doll-kimi-to-no-yakusoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

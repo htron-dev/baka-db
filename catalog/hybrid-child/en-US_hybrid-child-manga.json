@@ -1,5 +1,9 @@
 {
     "title": "Hybrid Child",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129067.jpg",
+        "alt": "hybrid-child"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

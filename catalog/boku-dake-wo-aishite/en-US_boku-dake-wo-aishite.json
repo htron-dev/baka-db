@@ -1,5 +1,9 @@
 {
     "title": "Boku dake wo Aishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247156.jpg",
+        "alt": "boku-dake-wo-aishite"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "僕だけを愛して",

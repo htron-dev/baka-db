@@ -1,5 +1,9 @@
 {
     "title": "Tarzan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/72628.jpg",
+        "alt": "tarzan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ターザン",

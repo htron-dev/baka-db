@@ -1,5 +1,9 @@
 {
     "title": "17 Easy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32730.jpg",
+        "alt": "17-easy"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "17EASY",

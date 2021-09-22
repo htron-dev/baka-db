@@ -1,5 +1,9 @@
 {
     "title": "Meiken Jolie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/22959.jpg",
+        "alt": "meiken-jolie"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "名犬ジョリィ",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Belle_and_Sebastian_(Japanese_TV_series"
+            "link": "http://en.wikipedia.org/wiki/Belle_and_Sebastian_%28Japanese_TV_series%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Eien no Yuuwaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15728.jpg",
+        "alt": "eien-no-yuuwaku"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "永遠の誘惑",

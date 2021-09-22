@@ -1,5 +1,9 @@
 {
     "title": "Haguruma Kyousou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/59465.jpg",
+        "alt": "haguruma-kyousou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Dies Irae: Irasshai Zonnenji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/88198.jpg",
+        "alt": "dies-irae-irasshai-zonnenji"
+    },
     "type": "ona",
     "episodes": "18",
     "original_name": "【Dies irae】「いらっしゃい雑念寺」",
@@ -22,7 +26,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Dies_irae_(visual_novel"
+            "link": "https://en.wikipedia.org/wiki/Dies_irae_%28visual_novel%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Mokuyoubi no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44947.jpg",
+        "alt": "mokuyoubi-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

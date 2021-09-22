@@ -1,5 +1,9 @@
 {
     "title": "Kare no Tokubetsu na Kare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/98117.jpg",
+        "alt": "kare-no-tokubetsu-na-kare"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

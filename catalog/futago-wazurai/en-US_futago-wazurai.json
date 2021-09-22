@@ -1,5 +1,9 @@
 {
     "title": "Futago Wazurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235549.jpg",
+        "alt": "futago-wazurai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

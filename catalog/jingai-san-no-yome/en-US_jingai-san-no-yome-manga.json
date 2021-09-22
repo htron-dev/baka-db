@@ -1,5 +1,9 @@
 {
     "title": "Jingai-san no Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203949.jpg",
+        "alt": "jingai-san-no-yome"
+    },
     "type": "manga",
     "original_name": "人外さんの嫁",
     "start_date": "2016-06-03",

@@ -1,5 +1,9 @@
 {
     "title": "Futari no Table",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124823.jpg",
+        "alt": "futari-no-table"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

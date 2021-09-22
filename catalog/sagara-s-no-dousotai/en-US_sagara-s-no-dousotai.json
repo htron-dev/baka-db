@@ -1,5 +1,9 @@
 {
     "title": "Sagara: S no Dousotai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216101.jpg",
+        "alt": "sagara-s-no-dousotai"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "71",

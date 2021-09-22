@@ -1,5 +1,9 @@
 {
     "title": "Kuro Ouji no Iinari ni Naranai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216417.jpg",
+        "alt": "kuro-ouji-no-iinari-ni-naranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

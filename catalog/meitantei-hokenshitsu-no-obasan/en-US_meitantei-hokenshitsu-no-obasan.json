@@ -1,5 +1,9 @@
 {
     "title": "Meitantei Hokenshitsu no Obasan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31990.jpg",
+        "alt": "meitantei-hokenshitsu-no-obasan"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "名探偵保健室のオバさん",

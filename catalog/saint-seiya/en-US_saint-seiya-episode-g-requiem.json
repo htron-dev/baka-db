@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya Episode G: Requiem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246287.jpg",
+        "alt": "saint-seiya-episode-g-requiem"
+    },
     "type": "manga",
     "original_name": "聖闘士星矢 EPISODE.G レクイエム",
     "start_date": "2020-01-28",

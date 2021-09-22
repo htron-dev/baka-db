@@ -1,12 +1,16 @@
 {
     "title": "Nekogami Yaoyorozu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/73476.jpg",
+        "alt": "nekogami-yaoyorozu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "猫神やおよろず",
     "start_date": "2011-07-09",
     "end_date": "2011-07-09",
     "opening_song": "\"Kami-sama to Issho (神サマといっしょ)\" by Haruka Tomatsu and Yui Horie",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Oh My God♥\" by Haruka Tomatsu (eps 1-6, 8-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

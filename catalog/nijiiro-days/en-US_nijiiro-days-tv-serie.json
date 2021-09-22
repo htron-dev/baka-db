@@ -1,12 +1,16 @@
 {
     "title": "Nijiiro Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/76691.jpg",
+        "alt": "nijiiro-days"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "虹色デイズ",
     "start_date": "2016-01-10",
     "end_date": "2016-01-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Best Friend (ベストフレンド)\" by Sonar Pocket (eps 1-12)",
+    "ending_song": "#1: \"Rainbow Days!\" by Natsuki Hashiba (Yoshitsugu Matsuoka), Tomoya Matsunaga (Takuya Eguchi), Keiichi Katakura (Nobunaga Shimazaki), Tsuyoshi Naoya (Kouki Uchiyama) (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Me-gumi no Daigo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171426.jpg",
+        "alt": "me-gumi-no-daigo"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "182",

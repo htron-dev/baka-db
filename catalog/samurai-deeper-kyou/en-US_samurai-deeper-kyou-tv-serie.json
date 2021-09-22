@@ -1,5 +1,9 @@
 {
     "title": "Samurai Deeper Kyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/23744.jpg",
+        "alt": "samurai-deeper-kyou"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "SAMURAI DEEPER KYO",

@@ -1,5 +1,9 @@
 {
     "title": "Food Fighter Tabelu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172739.jpg",
+        "alt": "food-fighter-tabelu"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "102",

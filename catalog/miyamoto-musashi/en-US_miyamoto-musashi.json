@@ -1,5 +1,9 @@
 {
     "title": "Miyamoto Musashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26953.jpg",
+        "alt": "miyamoto-musashi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "宮本武蔵",

@@ -1,5 +1,9 @@
 {
     "title": "Benten-sama ni wa Iwanaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159899.jpg",
+        "alt": "benten-sama-ni-wa-iwanaide"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "41",

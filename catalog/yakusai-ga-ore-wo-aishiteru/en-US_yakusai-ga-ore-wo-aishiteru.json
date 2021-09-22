@@ -1,5 +1,9 @@
 {
     "title": "Yakusai ga Ore wo Aishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230194.jpg",
+        "alt": "yakusai-ga-ore-wo-aishiteru"
+    },
     "type": "manga",
     "original_name": "厄災が俺を愛してる",
     "start_date": "2019-12-27",

@@ -1,5 +1,9 @@
 {
     "title": "Blade Runner: Black Lotus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1707/117044.jpg",
+        "alt": "blade-runner-black-lotus"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "BLADE RUNNER – BLACK LOTUS",

@@ -1,5 +1,9 @@
 {
     "title": "Hotel Harbour View",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12207.jpg",
+        "alt": "hotel-harbour-view"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

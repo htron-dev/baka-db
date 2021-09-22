@@ -1,5 +1,9 @@
 {
     "title": "Marugoto☆Ore no Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/111993.jpg",
+        "alt": "marugoto☆-ore-no-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

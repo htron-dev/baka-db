@@ -1,5 +1,9 @@
 {
     "title": "Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30499.jpg",
+        "alt": "alice"
+    },
     "type": "manhwa",
     "chapters": "1",
     "original_name": "앨리스",

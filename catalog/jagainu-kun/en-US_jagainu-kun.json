@@ -1,5 +1,9 @@
 {
     "title": "Jagainu-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1839.jpg",
+        "alt": "jagainu-kun"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "じゃがいぬくん",

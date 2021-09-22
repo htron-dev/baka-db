@@ -1,5 +1,9 @@
 {
     "title": "The☆Ultraman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/61901.jpg",
+        "alt": "the☆-ultraman"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ザ ☆ ウルトラマン",

@@ -1,5 +1,9 @@
 {
     "title": "Heian Joruri Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12796.jpg",
+        "alt": "heian-joruri-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

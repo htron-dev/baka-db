@@ -1,5 +1,9 @@
 {
     "title": "Frank: The Lute String",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33874.jpg",
+        "alt": "frank-the-lute-string"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ポップショウ、フランクとプシュポウのリュートの弦",

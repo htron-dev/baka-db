@@ -1,12 +1,16 @@
 {
     "title": "Gintama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+        "alt": "gintama"
+    },
     "type": "tv-serie",
     "episodes": "201",
     "original_name": "銀魂",
     "start_date": "2006-04-04",
     "end_date": "2006-04-04",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Pray\" by Tommy heavenly6 (eps 1-24)",
+    "ending_song": "#01: \"Fuusen Gum\" by Captain Straydum (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

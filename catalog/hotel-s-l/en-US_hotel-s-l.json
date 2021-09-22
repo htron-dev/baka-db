@@ -1,5 +1,9 @@
 {
     "title": "Hotel S.L.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190633.jpg",
+        "alt": "hotel-s-l"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

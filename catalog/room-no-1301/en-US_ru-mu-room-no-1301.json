@@ -1,5 +1,9 @@
 {
     "title": "Ru~mu! Room No.1301",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125185.jpg",
+        "alt": "ru-mu-room-no-1301"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

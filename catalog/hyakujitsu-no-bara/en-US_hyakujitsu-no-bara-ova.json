@@ -1,5 +1,9 @@
 {
     "title": "Hyakujitsu no Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/34517.jpg",
+        "alt": "hyakujitsu-no-bara"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "百日の薔薇",

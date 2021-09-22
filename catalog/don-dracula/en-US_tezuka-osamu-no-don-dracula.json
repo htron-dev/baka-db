@@ -1,5 +1,9 @@
 {
     "title": "Tezuka Osamu no Don Dracula",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/15129.jpg",
+        "alt": "tezuka-osamu-no-don-dracula"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "手塚治虫のドン・ドラキュラ",

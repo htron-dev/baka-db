@@ -1,5 +1,9 @@
 {
     "title": "Pia no Shouzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131801.jpg",
+        "alt": "pia-no-shouzou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

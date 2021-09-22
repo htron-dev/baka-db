@@ -1,12 +1,16 @@
 {
     "title": "Chaos Dragon: Sekiryuu Seneki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/74375.jpg",
+        "alt": "chaos-dragon-sekiryuu-seneki"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ケイオスドラゴン 赤竜戦役",
     "start_date": "2015-07-02",
     "end_date": "2015-07-02",
     "opening_song": "\"ISOtone\" by Natsumi Kon (eps 2-)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"ISOtone\" by Natsumi Kon (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

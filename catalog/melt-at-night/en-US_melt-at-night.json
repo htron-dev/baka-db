@@ -1,5 +1,9 @@
 {
     "title": "Melt at Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245803.jpg",
+        "alt": "melt-at-night"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

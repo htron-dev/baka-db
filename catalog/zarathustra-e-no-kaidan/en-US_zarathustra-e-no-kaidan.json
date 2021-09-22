@@ -1,5 +1,9 @@
 {
     "title": "Zarathustra e no Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159504.jpg",
+        "alt": "zarathustra-e-no-kaidan"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

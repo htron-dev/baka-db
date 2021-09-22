@@ -1,5 +1,9 @@
 {
     "title": "Rouge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/110349.jpg",
+        "alt": "rouge"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ルージュ-ROUGE-",

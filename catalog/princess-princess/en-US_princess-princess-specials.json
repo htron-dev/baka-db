@@ -1,5 +1,9 @@
 {
     "title": "Princess Princess Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/73602.jpg",
+        "alt": "princess-princess-specials"
+    },
     "type": "special",
     "episodes": "12",
     "original_name": "プリンセス・プリンセス",

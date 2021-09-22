@@ -1,5 +1,9 @@
 {
     "title": "Gekikara Ojousama wa Jibun wo Basshitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224354.jpg",
+        "alt": "gekikara-ojousama-wa-jibun-wo-basshitai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

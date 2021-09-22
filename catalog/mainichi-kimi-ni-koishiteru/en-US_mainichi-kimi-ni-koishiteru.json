@@ -1,5 +1,9 @@
 {
     "title": "Mainichi Kimi ni Koishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18474.jpg",
+        "alt": "mainichi-kimi-ni-koishiteru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

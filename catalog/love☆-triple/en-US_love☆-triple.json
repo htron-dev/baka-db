@@ -1,5 +1,9 @@
 {
     "title": "Love☆Triple!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5163.jpg",
+        "alt": "love☆-triple"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ラブ ☆ トリプル！",

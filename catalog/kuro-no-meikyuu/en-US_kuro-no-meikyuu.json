@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Meikyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/48911.jpg",
+        "alt": "kuro-no-meikyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

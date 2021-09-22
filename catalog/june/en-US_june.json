@@ -1,5 +1,9 @@
 {
     "title": "June",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21539.jpg",
+        "alt": "june"
+    },
     "type": "manhwa",
     "tags": [
         "drama",

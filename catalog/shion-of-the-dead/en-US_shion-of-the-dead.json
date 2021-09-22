@@ -1,5 +1,9 @@
 {
     "title": "Shion of the Dead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165096.jpg",
+        "alt": "shion-of-the-dead"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "43",

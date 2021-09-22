@@ -1,5 +1,9 @@
 {
     "title": "Clamp no Kiseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11761.jpg",
+        "alt": "clamp-no-kiseki"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "12",

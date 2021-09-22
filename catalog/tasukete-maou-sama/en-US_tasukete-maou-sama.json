@@ -1,5 +1,9 @@
 {
     "title": "Tasukete Maou-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231188.jpg",
+        "alt": "tasukete-maou-sama"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "41",

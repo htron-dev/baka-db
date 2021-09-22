@@ -1,5 +1,9 @@
 {
     "title": "Itsuka, Yuusha Datta Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159120.jpg",
+        "alt": "itsuka-yuusha-datta-shounen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

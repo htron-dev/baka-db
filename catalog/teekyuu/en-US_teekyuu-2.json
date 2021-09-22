@@ -1,11 +1,15 @@
 {
     "title": "Teekyuu 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/73504.jpg",
+        "alt": "teekyuu-2"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "てーきゅう ２期",
     "start_date": "2013-07-07",
     "end_date": "2013-07-07",
-    "opening_song": "\"Menimeni Manimani (メニメニマニマニ)\" by Nasuno Takamiya (CV",
+    "opening_song": "\"Menimeni Manimani (メニメニマニマニ)\" by Nasuno Takamiya (CV: Kyoko Narumi)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

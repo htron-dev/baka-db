@@ -1,5 +1,9 @@
 {
     "title": "Kashimashi Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200354.jpg",
+        "alt": "kashimashi-meshi"
+    },
     "type": "manga",
     "original_name": "かしましめし",
     "start_date": "2016-02-08",

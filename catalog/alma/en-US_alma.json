@@ -1,5 +1,9 @@
 {
     "title": "Alma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225995.jpg",
+        "alt": "alma"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

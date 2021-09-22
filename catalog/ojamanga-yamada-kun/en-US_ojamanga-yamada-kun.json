@@ -1,12 +1,16 @@
 {
     "title": "Ojamanga Yamada-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/44616.jpg",
+        "alt": "ojamanga-yamada-kun"
+    },
     "type": "tv-serie",
     "episodes": "103",
     "original_name": "おじゃまんが山田くん",
     "start_date": "1980-09-28",
     "end_date": "1980-09-28",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"おじゃまんが山田くん (Ojamanga Yamada-kun)\" by Koorogi '73",
+    "ending_song": "#1: \"今日も夕やけ (Kyou mo yuuyake)\" by Koorogi '73",
     "rating": "None",
     "tags": [
         "comedy",

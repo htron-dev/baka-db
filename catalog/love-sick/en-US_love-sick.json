@@ -1,5 +1,9 @@
 {
     "title": "Love Sick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57979.jpg",
+        "alt": "love-sick"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

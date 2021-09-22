@@ -1,5 +1,9 @@
 {
     "title": "Private Eyes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91749.jpg",
+        "alt": "private-eyes"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "プライベートアイズ",

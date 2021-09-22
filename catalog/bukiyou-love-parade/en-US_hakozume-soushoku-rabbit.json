@@ -1,5 +1,9 @@
 {
     "title": "Hakozume Soushoku Rabbit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171389.jpg",
+        "alt": "hakozume-soushoku-rabbit"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Dynamite★Beauty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35391.jpg",
+        "alt": "dynamite★-beauty"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

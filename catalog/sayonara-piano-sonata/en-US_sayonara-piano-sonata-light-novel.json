@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Piano Sonata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147071.jpg",
+        "alt": "sayonara-piano-sonata"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "55",

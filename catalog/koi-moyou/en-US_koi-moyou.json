@@ -1,5 +1,9 @@
 {
     "title": "Koi-Moyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13762.jpg",
+        "alt": "koi-moyou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

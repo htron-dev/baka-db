@@ -1,5 +1,9 @@
 {
     "title": "Bitter Sweet Café",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82058.jpg",
+        "alt": "bitter-sweet-cafe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kagura Maimai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233762.jpg",
+        "alt": "kagura-maimai"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "かぐらまいまい！",

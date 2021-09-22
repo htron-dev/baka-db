@@ -1,5 +1,9 @@
 {
     "title": "Kiss &amp; Never Cry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3755.jpg",
+        "alt": "kiss-amp-never-cry"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "65",

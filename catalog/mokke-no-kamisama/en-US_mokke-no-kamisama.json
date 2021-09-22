@@ -1,5 +1,9 @@
 {
     "title": "Mokke no Kamisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25243.jpg",
+        "alt": "mokke-no-kamisama"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "モッケの神様",

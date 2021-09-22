@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Shiikugakari-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204651.jpg",
+        "alt": "watashi-no-shiikugakari-kun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

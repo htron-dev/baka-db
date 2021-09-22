@@ -1,5 +1,9 @@
 {
     "title": "Yoroi to OL-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239173.jpg",
+        "alt": "yoroi-to-ol-san"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "鎧と OL さん",

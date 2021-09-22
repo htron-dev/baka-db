@@ -1,5 +1,9 @@
 {
     "title": "Jungle de Ikou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/3097.jpg",
+        "alt": "jungle-de-ikou"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ジャングル DE いこう!",

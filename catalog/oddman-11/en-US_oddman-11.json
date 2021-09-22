@@ -1,5 +1,9 @@
 {
     "title": "Oddman 11",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191289.jpg",
+        "alt": "oddman-11"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "50",

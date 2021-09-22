@@ -1,5 +1,9 @@
 {
     "title": "Kabuki - Ao no Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14609.jpg",
+        "alt": "kabuki-ao-no-shou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "カブキ 蒼の章",

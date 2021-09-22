@@ -1,5 +1,9 @@
 {
     "title": "Boku to Issho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197265.jpg",
+        "alt": "boku-to-issho"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "49",

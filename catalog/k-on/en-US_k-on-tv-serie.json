@@ -1,12 +1,16 @@
 {
     "title": "K-On!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76121.jpg",
+        "alt": "k-on"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "けいおん!!",
     "start_date": "2010-04-07",
     "end_date": "2010-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"GO! GO! MANIAC\" by HTT (Houkago Tea Time) (eps 1-13)",
+    "ending_song": "#1: \"Listen!!\" by HTT (Houkago Tea Time) (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

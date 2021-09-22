@@ -1,5 +1,9 @@
 {
     "title": "Shamo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148319.jpg",
+        "alt": "shamo"
+    },
     "type": "manga",
     "volumes": "34",
     "chapters": "338",

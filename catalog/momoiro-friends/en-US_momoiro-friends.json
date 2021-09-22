@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Friends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/27779.jpg",
+        "alt": "momoiro-friends"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ももいろフレンズ",

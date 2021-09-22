@@ -1,5 +1,9 @@
 {
     "title": "Otaku no Musume-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/50389.jpg",
+        "alt": "otaku-no-musume-san"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "63",

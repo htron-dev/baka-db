@@ -1,5 +1,9 @@
 {
     "title": "Kakugo wo Kimete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30317.jpg",
+        "alt": "kakugo-wo-kimete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Oh My Vamp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25160.jpg",
+        "alt": "oh-my-vamp"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "OH MY VAMP",

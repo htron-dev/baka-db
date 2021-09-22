@@ -1,5 +1,9 @@
 {
     "title": "Takamiya Nasuno desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152020.jpg",
+        "alt": "takamiya-nasuno-desu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

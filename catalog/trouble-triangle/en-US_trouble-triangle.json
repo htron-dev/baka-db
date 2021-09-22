@@ -1,5 +1,9 @@
 {
     "title": "Trouble Triangle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/43553.jpg",
+        "alt": "trouble-triangle"
+    },
     "type": "manga",
     "original_name": "とらぶる TRY アングル",
     "start_date": "2000-06-20",

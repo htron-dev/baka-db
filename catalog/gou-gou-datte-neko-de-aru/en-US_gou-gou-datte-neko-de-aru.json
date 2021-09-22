@@ -1,5 +1,9 @@
 {
     "title": "Gou Gou datte Neko de Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176537.jpg",
+        "alt": "gou-gou-datte-neko-de-aru"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "177",

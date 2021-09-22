@@ -1,5 +1,9 @@
 {
     "title": "Real na Uranai Daisainan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240016.jpg",
+        "alt": "real-na-uranai-daisainan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

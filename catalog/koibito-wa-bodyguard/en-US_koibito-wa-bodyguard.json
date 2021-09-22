@@ -1,5 +1,9 @@
 {
     "title": "Koibito wa bodyguard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25477.jpg",
+        "alt": "koibito-wa-bodyguard"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

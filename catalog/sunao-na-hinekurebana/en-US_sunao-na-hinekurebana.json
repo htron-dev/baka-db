@@ -1,5 +1,9 @@
 {
     "title": "Sunao na Hinekurebana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246409.jpg",
+        "alt": "sunao-na-hinekurebana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

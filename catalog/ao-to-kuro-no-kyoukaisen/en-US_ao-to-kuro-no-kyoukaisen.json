@@ -1,5 +1,9 @@
 {
     "title": "Ao to Kuro no Kyoukaisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159893.jpg",
+        "alt": "ao-to-kuro-no-kyoukaisen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "青と黒の境界線",

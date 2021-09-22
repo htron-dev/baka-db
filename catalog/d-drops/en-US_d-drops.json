@@ -1,5 +1,9 @@
 {
     "title": "D-Drops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40524.jpg",
+        "alt": "d-drops"
+    },
     "type": "manga",
     "original_name": "D・ドロップス",
     "start_date": "2010-05-20",

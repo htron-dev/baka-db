@@ -1,5 +1,9 @@
 {
     "title": "Wish: Tatta Hitotsu no Negaigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177757.jpg",
+        "alt": "wish-tatta-hitotsu-no-negaigoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

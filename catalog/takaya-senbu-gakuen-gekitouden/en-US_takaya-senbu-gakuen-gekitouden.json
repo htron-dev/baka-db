@@ -1,5 +1,9 @@
 {
     "title": "Takaya: Senbu Gakuen Gekitouden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115275.jpg",
+        "alt": "takaya-senbu-gakuen-gekitouden"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "41",

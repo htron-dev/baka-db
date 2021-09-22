@@ -1,5 +1,9 @@
 {
     "title": "Asanami-san to Shindemo Ikitai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244524.jpg",
+        "alt": "asanami-san-to-shindemo-ikitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

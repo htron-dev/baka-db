@@ -1,5 +1,9 @@
 {
     "title": "Sennen no Mushin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193217.jpg",
+        "alt": "sennen-no-mushin"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "千年の無心",

@@ -1,5 +1,9 @@
 {
     "title": "Joou wa Hanamuko wo Kau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220272.jpg",
+        "alt": "joou-wa-hanamuko-wo-kau"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "女王は花婿を買う",

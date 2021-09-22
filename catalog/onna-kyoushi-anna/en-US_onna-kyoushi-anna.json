@@ -1,5 +1,9 @@
 {
     "title": "Onna Kyoushi Anna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195971.jpg",
+        "alt": "onna-kyoushi-anna"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "女教師アンナ",

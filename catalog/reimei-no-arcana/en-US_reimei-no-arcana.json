@@ -1,5 +1,9 @@
 {
     "title": "Reimei no Arcana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/161802.jpg",
+        "alt": "reimei-no-arcana"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "65",

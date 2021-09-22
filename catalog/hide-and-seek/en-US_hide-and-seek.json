@@ -1,5 +1,9 @@
 {
     "title": "Hide and Seek",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204386.jpg",
+        "alt": "hide-and-seek"
+    },
     "type": "manga",
     "original_name": "HIDE AND SEEK",
     "start_date": "2016-10-08",

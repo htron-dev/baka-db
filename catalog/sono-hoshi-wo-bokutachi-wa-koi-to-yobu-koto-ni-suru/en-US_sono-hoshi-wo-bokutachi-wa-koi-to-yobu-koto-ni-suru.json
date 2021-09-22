@@ -1,5 +1,9 @@
 {
     "title": "Sono Hoshi wo Bokutachi wa Koi to Yobu Koto ni Suru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164136.jpg",
+        "alt": "sono-hoshi-wo-bokutachi-wa-koi-to-yobu-koto-ni-suru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

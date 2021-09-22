@@ -1,5 +1,9 @@
 {
     "title": "Hatsune Miku no Shoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154786.jpg",
+        "alt": "hatsune-miku-no-shoushitsu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "初音ミクの消失",

@@ -1,5 +1,9 @@
 {
     "title": "Sennin Buraku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/78110.jpg",
+        "alt": "sennin-buraku"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "仙人部落",

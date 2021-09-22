@@ -1,5 +1,9 @@
 {
     "title": "Instant History",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/39141.jpg",
+        "alt": "instant-history"
+    },
     "type": "tv-serie",
     "episodes": "312",
     "original_name": "インスタントヒストリー",

@@ -1,5 +1,9 @@
 {
     "title": "Butten Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/84283.jpg",
+        "alt": "butten-monogatari"
+    },
     "type": "ova",
     "episodes": "10",
     "original_name": "仏典物語",

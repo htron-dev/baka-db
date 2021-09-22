@@ -1,5 +1,9 @@
 {
     "title": "Wakaranai Buta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/27618.jpg",
+        "alt": "wakaranai-buta"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "わからないブタ",

@@ -1,5 +1,9 @@
 {
     "title": "Yume de Aimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41974.jpg",
+        "alt": "yume-de-aimashou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

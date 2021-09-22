@@ -1,5 +1,9 @@
 {
     "title": "Kemono Friends 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226243.jpg",
+        "alt": "kemono-friends-2"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

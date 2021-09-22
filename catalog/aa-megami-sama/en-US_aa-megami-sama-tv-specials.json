@@ -1,12 +1,16 @@
 {
     "title": "Aa! Megami-sama! (TV) Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/17893.jpg",
+        "alt": "aa-megami-sama-tv-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ああっ女神さまっ",
     "start_date": "2005-04-01",
     "end_date": "2005-04-01",
     "opening_song": "\"Open Your Mind ~Chiisana Hane Hirogete~ (OPEN YOUR MIND 〜小さな羽根ひろげて〜)\" by Yoko Ishida",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Negai (願い)\" by Yoko Ishida (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "magic",

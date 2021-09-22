@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam MS IGLOO 603",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18865.jpg",
+        "alt": "mobile-suit-gundam-ms-igloo-603"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

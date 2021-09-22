@@ -1,11 +1,15 @@
 {
     "title": "Maido! Urayasu Tekkin Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/65115.jpg",
+        "alt": "maido-urayasu-tekkin-kazoku"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "毎度！浦安鉄筋家族",
     "start_date": "2014-07-06",
     "end_date": "2014-07-06",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Hagane no Machi (鋼の街)\" by Tetsuya Kanmuri (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

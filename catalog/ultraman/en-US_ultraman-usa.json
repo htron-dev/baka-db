@@ -1,5 +1,9 @@
 {
     "title": "Ultraman USA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/36055.jpg",
+        "alt": "ultraman-usa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ウルトラマン USA",

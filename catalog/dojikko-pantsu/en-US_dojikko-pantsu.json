@@ -1,5 +1,9 @@
 {
     "title": "Dojikko Pantsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237179.jpg",
+        "alt": "dojikko-pantsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

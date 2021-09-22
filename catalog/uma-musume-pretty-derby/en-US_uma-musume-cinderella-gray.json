@@ -1,5 +1,9 @@
 {
     "title": "Uma Musume Cinderella Gray",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240780.jpg",
+        "alt": "uma-musume-cinderella-gray"
+    },
     "type": "manga",
     "original_name": "ウマ娘 シンデレラグレイ",
     "start_date": "2020-06-11",

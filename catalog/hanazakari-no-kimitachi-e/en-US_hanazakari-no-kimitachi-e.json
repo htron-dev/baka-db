@@ -1,5 +1,9 @@
 {
     "title": "Hanazakari no Kimitachi e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186895.jpg",
+        "alt": "hanazakari-no-kimitachi-e"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "148",

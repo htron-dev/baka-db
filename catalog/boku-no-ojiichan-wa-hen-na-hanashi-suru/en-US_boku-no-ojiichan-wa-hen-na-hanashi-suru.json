@@ -1,5 +1,9 @@
 {
     "title": "Boku no Ojiichan wa Hen na Hanashi suru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131073.jpg",
+        "alt": "boku-no-ojiichan-wa-hen-na-hanashi-suru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "44",

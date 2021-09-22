@@ -1,12 +1,16 @@
 {
     "title": "number24",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1885/102374.jpg",
+        "alt": "number-24"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "number24 ナンバー・トゥーフォー",
     "start_date": "2020-01-08",
     "end_date": "2020-01-08",
     "opening_song": "\"SET!\" by Masanori Kobayashi (小林正典)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimi to Iru nara (君といるなら)\" by Natsusa Yuzuki (Kengo Kawanishi) & Seiichirou Jingyouji (Ryouta Suzuki)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sports",

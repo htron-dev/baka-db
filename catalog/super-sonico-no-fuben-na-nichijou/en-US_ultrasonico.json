@@ -1,5 +1,9 @@
 {
     "title": "Ultrasonico",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/85083.jpg",
+        "alt": "ultrasonico"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ウルトラソニコ",

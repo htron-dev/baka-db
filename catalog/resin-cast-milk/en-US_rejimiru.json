@@ -1,5 +1,9 @@
 {
     "title": "Rejimiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164668.jpg",
+        "alt": "rejimiru"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "れじみる。",

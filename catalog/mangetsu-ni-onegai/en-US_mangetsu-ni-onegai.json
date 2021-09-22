@@ -1,5 +1,9 @@
 {
     "title": "Mangetsu ni Onegai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28544.jpg",
+        "alt": "mangetsu-ni-onegai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "満月にお願い",

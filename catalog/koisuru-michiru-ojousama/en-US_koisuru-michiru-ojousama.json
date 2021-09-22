@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Michiru Ojousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/103949.jpg",
+        "alt": "koisuru-michiru-ojousama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

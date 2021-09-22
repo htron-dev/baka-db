@@ -1,5 +1,9 @@
 {
     "title": "Ninkoi: Kakurenbo Hichou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/138771.jpg",
+        "alt": "ninkoi-kakurenbo-hichou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,12 +1,16 @@
 {
     "title": "Magic Kaito 1412",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/67807.jpg",
+        "alt": "magic-kaito-1412"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "まじっく快斗 1412",
     "start_date": "2014-10-04",
     "end_date": "2014-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kimi no Matsu Sekai (君の待つ世界)\" by LAGOON (eps 1-12)",
+    "ending_song": "#1: \"WHITE of CRIME\" by REVALCY (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

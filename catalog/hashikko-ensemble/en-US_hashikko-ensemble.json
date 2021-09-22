@@ -1,5 +1,9 @@
 {
     "title": "Hashikko Ensemble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223585.jpg",
+        "alt": "hashikko-ensemble"
+    },
     "type": "manga",
     "original_name": "はしっこアンサンブル",
     "start_date": "2018-02-24",

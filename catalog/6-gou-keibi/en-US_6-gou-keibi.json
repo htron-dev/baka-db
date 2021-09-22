@@ -1,5 +1,9 @@
 {
     "title": "6-gou Keibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226474.jpg",
+        "alt": "6-gou-keibi"
+    },
     "type": "manga",
     "original_name": "6 号警備",
     "start_date": "2017-11-27",

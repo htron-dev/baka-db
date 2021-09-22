@@ -1,5 +1,9 @@
 {
     "title": "Usa Weather Show",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1417/93950.jpg",
+        "alt": "usa-weather-show"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "usa Weather Show",

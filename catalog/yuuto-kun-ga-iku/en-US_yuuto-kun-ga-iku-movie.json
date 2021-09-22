@@ -1,5 +1,9 @@
 {
     "title": "Yuuto-kun ga Iku Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/59177.jpg",
+        "alt": "yuuto-kun-ga-iku-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 ゆうとくんがいく",

@@ -1,5 +1,9 @@
 {
     "title": "Akuma de Koibito.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24607.jpg",
+        "alt": "akuma-de-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

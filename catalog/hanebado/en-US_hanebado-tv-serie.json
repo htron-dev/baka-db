@@ -1,12 +1,16 @@
 {
     "title": "Hanebado!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1288/93432.jpg",
+        "alt": "hanebado"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "はねバド！",
     "start_date": "2018-07-02",
     "end_date": "2018-07-02",
     "opening_song": "\"Futari no Hane (ふたりの羽根)\" by YURiKA",
-    "ending_song": "#1",
+    "ending_song": "#1: \"High Stepper (ハイステッパー)\" by Yuiko Ohara (eps 2, 4-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "seinen",

@@ -1,5 +1,9 @@
 {
     "title": "Kakegurui Joker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225976.jpg",
+        "alt": "kakegurui-joker"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

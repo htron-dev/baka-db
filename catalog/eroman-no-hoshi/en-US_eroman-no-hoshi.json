@@ -1,5 +1,9 @@
 {
     "title": "Eroman no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166553.jpg",
+        "alt": "eroman-no-hoshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "45",

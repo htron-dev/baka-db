@@ -1,5 +1,9 @@
 {
     "title": "Cossette no Shouzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/77004.jpg",
+        "alt": "cossette-no-shouzou"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "コゼットの肖像",

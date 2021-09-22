@@ -1,5 +1,9 @@
 {
     "title": "Ao ni Naku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208327.jpg",
+        "alt": "ao-ni-naku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

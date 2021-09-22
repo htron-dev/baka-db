@@ -1,5 +1,9 @@
 {
     "title": "Yorozuya Toukaidou Honpo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112115.jpg",
+        "alt": "yorozuya-toukaidou-honpo"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "よろず屋東海道本舗",

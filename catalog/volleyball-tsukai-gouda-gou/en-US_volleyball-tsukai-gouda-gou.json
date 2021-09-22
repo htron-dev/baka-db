@@ -1,5 +1,9 @@
 {
     "title": "Volleyball Tsukai Gouda Gou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227263.jpg",
+        "alt": "volleyball-tsukai-gouda-gou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

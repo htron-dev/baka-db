@@ -1,5 +1,9 @@
 {
     "title": "Noda-ke no Oshie ni Yori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203848.jpg",
+        "alt": "noda-ke-no-oshie-ni-yori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

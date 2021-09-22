@@ -1,5 +1,9 @@
 {
     "title": "Ryoukatakoi no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247965.jpg",
+        "alt": "ryoukatakoi-no-susume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

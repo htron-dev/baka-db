@@ -1,5 +1,9 @@
 {
     "title": "Nazotoki yori mo Taihen da",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248892.jpg",
+        "alt": "nazotoki-yori-mo-taihen-da"
+    },
     "type": "manga",
     "original_name": "謎解きよりも大変だ",
     "start_date": "2021-03-22",

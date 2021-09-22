@@ -1,5 +1,9 @@
 {
     "title": "GJ-bu◎",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156352.jpg",
+        "alt": "gj-bu◎"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Kichiku no Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206397.jpg",
+        "alt": "kichiku-no-machi"
+    },
     "type": "manga",
     "original_name": "鬼畜の街",
     "start_date": "2017-07-21",

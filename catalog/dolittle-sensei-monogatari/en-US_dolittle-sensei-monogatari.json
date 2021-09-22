@@ -1,5 +1,9 @@
 {
     "title": "Dolittle-sensei Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71943.jpg",
+        "alt": "dolittle-sensei-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ドリトル先生物語",
@@ -19,7 +23,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%88%E3%83%AB%E5%85%88%E7%94%9F%E7%89%A9%E8%AA%9E_(%E3%82%A2%E3%83%8B%E3%83%A1"
+            "link": "http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%88%E3%83%AB%E5%85%88%E7%94%9F%E7%89%A9%E8%AA%9E_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
         }
     ]
 }

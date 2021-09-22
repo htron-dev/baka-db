@@ -1,5 +1,9 @@
 {
     "title": "Sekishoku Elegy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180926.jpg",
+        "alt": "sekishoku-elegy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

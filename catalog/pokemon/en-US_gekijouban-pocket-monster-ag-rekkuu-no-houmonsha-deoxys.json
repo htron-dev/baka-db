@@ -1,5 +1,9 @@
 {
     "title": "Gekijouban Pocket Monster AG: Rekkuu no Houmonsha Deoxys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39114.jpg",
+        "alt": "gekijouban-pocket-monster-ag-rekkuu-no-houmonsha-deoxys"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

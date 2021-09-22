@@ -1,5 +1,9 @@
 {
     "title": "Sayonara wa Watashi kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227514.jpg",
+        "alt": "sayonara-wa-watashi-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "さよならは私から",

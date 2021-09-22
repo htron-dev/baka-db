@@ -1,5 +1,9 @@
 {
     "title": "25-sai no Joshikousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/89091.jpg",
+        "alt": "25-sai-no-joshikousei"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "25 歳の女子高生",

@@ -1,5 +1,9 @@
 {
     "title": "Hibari ga Naitara Tsukamaete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237471.jpg",
+        "alt": "hibari-ga-naitara-tsukamaete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

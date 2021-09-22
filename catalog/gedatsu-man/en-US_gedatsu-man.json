@@ -1,5 +1,9 @@
 {
     "title": "Gedatsu Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167307.jpg",
+        "alt": "gedatsu-man"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

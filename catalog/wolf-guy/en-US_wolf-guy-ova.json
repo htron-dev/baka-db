@@ -1,5 +1,9 @@
 {
     "title": "Wolf Guy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1290/94492.jpg",
+        "alt": "wolf-guy"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "ウルフガイ",

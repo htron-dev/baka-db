@@ -1,5 +1,9 @@
 {
     "title": "Bijin Kakumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40306.jpg",
+        "alt": "bijin-kakumei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

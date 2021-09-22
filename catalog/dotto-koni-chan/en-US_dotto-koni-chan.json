@@ -1,5 +1,9 @@
 {
     "title": "Dotto Koni-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1910/106998.jpg",
+        "alt": "dotto-koni-chan"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ドッと KONI ちゃん",

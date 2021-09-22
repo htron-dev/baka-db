@@ -1,5 +1,9 @@
 {
     "title": "Kaijuu no Kodomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1103/99778.jpg",
+        "alt": "kaijuu-no-kodomo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "海獣の子供",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Children_of_the_Sea_(manga"
+            "link": "https://en.wikipedia.org/wiki/Children_of_the_Sea_%28manga%29"
         }
     ]
 }

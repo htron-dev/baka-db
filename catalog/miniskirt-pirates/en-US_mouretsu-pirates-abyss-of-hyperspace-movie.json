@@ -1,10 +1,14 @@
 {
     "title": "Mouretsu Pirates: Abyss of Hyperspace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/58361.jpg",
+        "alt": "mouretsu-pirates-abyss-of-hyperspace"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "モーレツ宇宙海賊 ABYSS OF HYPERSPACE -亜空の深淵-",
     "start_date": "2014-02-22",
-    "opening_song": "\"Mouretsu Uchuu Koukyoukyoku",
+    "opening_song": "\"Mouretsu Uchuu Koukyoukyoku: Dainana Gakushou 'Mugen no Ai' (猛烈宇宙交響曲・第七楽章「無限の愛」)\" by Momoiro Clover Z",
     "ending_song": "\"Kirakira-go-round (キラキラ-go-round)\" by angela Presents/Shoko Nakagawa",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

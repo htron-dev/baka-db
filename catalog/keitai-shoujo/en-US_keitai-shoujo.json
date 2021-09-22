@@ -1,5 +1,9 @@
 {
     "title": "Keitai Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/18524.jpg",
+        "alt": "keitai-shoujo"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "ケータイ少女",

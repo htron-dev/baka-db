@@ -1,5 +1,9 @@
 {
     "title": "Kyou mo Korosezu ni Aishiau dake.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244691.jpg",
+        "alt": "kyou-mo-korosezu-ni-aishiau-dake"
+    },
     "type": "manga",
     "original_name": "今日も殺せずに愛し合うだけ。",
     "start_date": "2020-02-20",

@@ -1,5 +1,9 @@
 {
     "title": "Romanticer's High",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186698.jpg",
+        "alt": "romanticers-high"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

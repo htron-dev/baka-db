@@ -1,5 +1,9 @@
 {
     "title": "Final Fantasy Reishiki Gaiden: Hyouken no Shinigami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/108091.jpg",
+        "alt": "final-fantasy-reishiki-gaiden-hyouken-no-shinigami"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Dokgo Rewind",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207422.jpg",
+        "alt": "dokgo-rewind"
+    },
     "type": "manhwa",
     "volumes": "7",
     "original_name": "독고 리와인드",

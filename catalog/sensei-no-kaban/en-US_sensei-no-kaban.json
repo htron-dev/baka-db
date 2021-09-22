@@ -1,5 +1,9 @@
 {
     "title": "Sensei no Kaban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37531.jpg",
+        "alt": "sensei-no-kaban"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

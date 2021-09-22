@@ -1,5 +1,9 @@
 {
     "title": "Owari Nochi, Asanagi-kurashi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193584.jpg",
+        "alt": "owari-nochi-asanagi-kurashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

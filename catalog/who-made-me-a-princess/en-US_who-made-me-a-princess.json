@@ -1,5 +1,9 @@
 {
     "title": "Who Made Me a Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222587.jpg",
+        "alt": "who-made-me-a-princess"
+    },
     "type": "manhwa",
     "original_name": "어느 날 공주가 되어버렸다",
     "start_date": "2017-12-20",

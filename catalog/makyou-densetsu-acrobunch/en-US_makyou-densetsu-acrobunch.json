@@ -1,5 +1,9 @@
 {
     "title": "Makyou Densetsu Acrobunch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/39313.jpg",
+        "alt": "makyou-densetsu-acrobunch"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "魔境伝説アクロバンチ",

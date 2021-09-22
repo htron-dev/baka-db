@@ -1,5 +1,9 @@
 {
     "title": "W'z Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1102/96165.jpg",
+        "alt": "wz-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ウィズ",

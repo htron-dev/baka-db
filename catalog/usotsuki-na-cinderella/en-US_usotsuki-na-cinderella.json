@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki na Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189500.jpg",
+        "alt": "usotsuki-na-cinderella"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "嘘つきなシンデレラ",

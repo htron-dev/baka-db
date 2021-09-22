@@ -1,5 +1,9 @@
 {
     "title": "Skip to Loafer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220669.jpg",
+        "alt": "skip-to-loafer"
+    },
     "type": "manga",
     "original_name": "スキップとローファー",
     "start_date": "2018-08-25",

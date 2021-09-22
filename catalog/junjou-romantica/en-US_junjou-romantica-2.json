@@ -1,5 +1,9 @@
 {
     "title": "Junjou Romantica 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/38417.jpg",
+        "alt": "junjou-romantica-2"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "純情ロマンチカ 2(に)",

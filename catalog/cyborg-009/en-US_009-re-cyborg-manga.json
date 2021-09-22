@@ -1,5 +1,9 @@
 {
     "title": "009 Re:Cyborg",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163640.jpg",
+        "alt": "009-re-cyborg"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "35",

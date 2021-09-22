@@ -1,5 +1,9 @@
 {
     "title": "Nijiiro Days: Houkago Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/79554.jpg",
+        "alt": "nijiiro-days-houkago-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "虹色デイズ 放課後スペシャル",

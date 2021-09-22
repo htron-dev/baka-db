@@ -1,12 +1,16 @@
 {
     "title": "Captain Earth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/61051.jpg",
+        "alt": "captain-earth"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "キャプテン・アース",
     "start_date": "2014-04-06",
     "end_date": "2014-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Believers High (ビリーバーズ・ハイ)\" by flumpool (eps 2-13)",
+    "ending_song": "#1: \"Believers High (ビリーバーズ・ハイ)\" by flumpool (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

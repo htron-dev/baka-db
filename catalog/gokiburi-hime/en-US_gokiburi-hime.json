@@ -1,5 +1,9 @@
 {
     "title": "Gokiburi Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/87988.jpg",
+        "alt": "gokiburi-hime"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ゴキブリ姫",

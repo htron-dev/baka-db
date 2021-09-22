@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Ondo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1366.jpg",
+        "alt": "kimi-no-ondo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

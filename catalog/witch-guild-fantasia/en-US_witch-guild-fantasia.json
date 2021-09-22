@@ -1,5 +1,9 @@
 {
     "title": "Witch Guild Fantasia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221862.jpg",
+        "alt": "witch-guild-fantasia"
+    },
     "type": "manga",
     "original_name": "ウィッチギルド ファンタジア",
     "start_date": "2017-12-25",

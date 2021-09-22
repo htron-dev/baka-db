@@ -1,5 +1,9 @@
 {
     "title": "Tabi no Kisetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/66199.jpg",
+        "alt": "tabi-no-kisetsu"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "足袋の季節",

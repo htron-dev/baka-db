@@ -1,5 +1,9 @@
 {
     "title": "Otome-tachi no Sanka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79809.jpg",
+        "alt": "otome-tachi-no-sanka"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "乙女たちの賛歌",

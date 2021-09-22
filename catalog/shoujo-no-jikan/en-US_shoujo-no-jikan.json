@@ -1,5 +1,9 @@
 {
     "title": "Shoujo no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39535.jpg",
+        "alt": "shoujo-no-jikan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

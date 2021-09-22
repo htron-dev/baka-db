@@ -1,5 +1,9 @@
 {
     "title": "Gekkou Jourei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149058.jpg",
+        "alt": "gekkou-jourei"
+    },
     "type": "manga",
     "volumes": "29",
     "chapters": "286",

@@ -1,5 +1,9 @@
 {
     "title": "Daisan no Nami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170398.jpg",
+        "alt": "daisan-no-nami"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "第三の波",

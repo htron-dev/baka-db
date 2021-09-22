@@ -1,5 +1,9 @@
 {
     "title": "Runway wo☆Produce!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202215.jpg",
+        "alt": "runway-wo☆-produce"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

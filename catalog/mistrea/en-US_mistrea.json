@@ -1,5 +1,9 @@
 {
     "title": "Mistrea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/71911.jpg",
+        "alt": "mistrea"
+    },
     "type": "manga",
     "original_name": "ミストレア",
     "start_date": "2011-09-27",

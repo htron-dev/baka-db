@@ -1,5 +1,9 @@
 {
     "title": "Paro Yakyuu News",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156788.jpg",
+        "alt": "paro-yakyuu-news"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "パロ野球ニュース",

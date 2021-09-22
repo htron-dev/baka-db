@@ -1,5 +1,9 @@
 {
     "title": "Hana Bolo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131609.jpg",
+        "alt": "hana-bolo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Mermaid Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181713.jpg",
+        "alt": "mermaid-boys"
+    },
     "type": "manga",
     "original_name": "マーメイド・ボーイズ",
     "start_date": "2016-03-28",

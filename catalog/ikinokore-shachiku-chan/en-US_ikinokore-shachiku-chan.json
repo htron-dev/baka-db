@@ -1,5 +1,9 @@
 {
     "title": "Ikinokore! Shachiku-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180715.jpg",
+        "alt": "ikinokore-shachiku-chan"
+    },
     "type": "manga",
     "original_name": "いきのこれ！社畜ちゃん",
     "start_date": "2015-12-18",

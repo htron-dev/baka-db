@@ -1,5 +1,9 @@
 {
     "title": "Kanashii Hito wa Doko ni mo Inai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/60091.jpg",
+        "alt": "kanashii-hito-wa-doko-ni-mo-inai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

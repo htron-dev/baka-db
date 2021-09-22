@@ -1,5 +1,9 @@
 {
     "title": "Giga Tokyo Toy Box",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115017.jpg",
+        "alt": "giga-tokyo-toy-box"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "60",

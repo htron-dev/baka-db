@@ -1,5 +1,9 @@
 {
     "title": "Aishiterutte Itte mo Ii yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40000.jpg",
+        "alt": "aishiterutte-itte-mo-ii-yo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

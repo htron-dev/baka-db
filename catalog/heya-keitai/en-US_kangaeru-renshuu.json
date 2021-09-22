@@ -1,5 +1,9 @@
 {
     "title": "Kangaeru Renshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/59757.jpg",
+        "alt": "kangaeru-renshuu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "考える練習",

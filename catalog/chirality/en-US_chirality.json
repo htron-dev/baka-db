@@ -1,5 +1,9 @@
 {
     "title": "Chirality",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186205.jpg",
+        "alt": "chirality"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Shaolin Sisters: Reborn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3847.jpg",
+        "alt": "shaolin-sisters-reborn"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

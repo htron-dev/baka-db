@@ -1,5 +1,9 @@
 {
     "title": "Ikebukuro Stingray",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203684.jpg",
+        "alt": "ikebukuro-stingray"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

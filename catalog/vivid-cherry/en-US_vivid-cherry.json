@@ -1,5 +1,9 @@
 {
     "title": "Vivid Cherry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125205.jpg",
+        "alt": "vivid-cherry"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

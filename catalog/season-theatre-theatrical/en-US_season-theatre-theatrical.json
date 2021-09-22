@@ -1,5 +1,9 @@
 {
     "title": "Season Theatre Theatrical",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200509.jpg",
+        "alt": "season-theatre-theatrical"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "シーズンシアターシアトリカル",

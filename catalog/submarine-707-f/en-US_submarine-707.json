@@ -1,5 +1,9 @@
 {
     "title": "Submarine 707",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83176.jpg",
+        "alt": "submarine-707"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "サブマリン 707",

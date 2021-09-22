@@ -1,5 +1,9 @@
 {
     "title": "Saiyuukiden Daienou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11716.jpg",
+        "alt": "saiyuukiden-daienou"
+    },
     "type": "manga",
     "original_name": "西遊奇伝・大猿王",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Reworld Frontier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186856.jpg",
+        "alt": "reworld-frontier"
+    },
     "type": "light-novel",
     "original_name": "リワールド・フロンティア",
     "start_date": "2016-12-10",

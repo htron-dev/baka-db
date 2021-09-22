@@ -1,5 +1,9 @@
 {
     "title": "Best Ending?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172591.jpg",
+        "alt": "best-ending"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

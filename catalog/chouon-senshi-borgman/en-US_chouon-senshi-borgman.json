@@ -1,12 +1,16 @@
 {
     "title": "Chouon Senshi Borgman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/23045.jpg",
+        "alt": "chouon-senshi-borgman"
+    },
     "type": "tv-serie",
     "episodes": "35",
     "original_name": "超音戦士ボーグマン",
     "start_date": "1988-04-13",
     "end_date": "1988-04-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Don't Look Back\" by EARTHSHAKER",
+    "ending_song": "#1: \"Forever\" by EARTHSHAKER",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

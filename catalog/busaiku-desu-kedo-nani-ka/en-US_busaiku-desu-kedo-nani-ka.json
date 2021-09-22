@@ -1,5 +1,9 @@
 {
     "title": "Busaiku desu kedo Nani ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171890.jpg",
+        "alt": "busaiku-desu-kedo-nani-ka"
+    },
     "type": "light-novel",
     "original_name": "ブサイクですけど何か?",
     "start_date": "2016-01-30",

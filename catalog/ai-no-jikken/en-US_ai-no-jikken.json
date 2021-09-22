@@ -1,5 +1,9 @@
 {
     "title": "Ai no Jikken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212616.jpg",
+        "alt": "ai-no-jikken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

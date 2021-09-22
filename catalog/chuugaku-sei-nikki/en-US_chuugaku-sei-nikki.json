@@ -1,5 +1,9 @@
 {
     "title": "Chuugaku-sei Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115693.jpg",
+        "alt": "chuugaku-sei-nikki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

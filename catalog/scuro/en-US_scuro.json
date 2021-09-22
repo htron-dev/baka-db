@@ -1,5 +1,9 @@
 {
     "title": "Scuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121499.jpg",
+        "alt": "scuro"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "SCURO スク一ロ",

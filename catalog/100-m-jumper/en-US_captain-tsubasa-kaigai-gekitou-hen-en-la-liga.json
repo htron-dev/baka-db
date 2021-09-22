@@ -1,5 +1,9 @@
 {
     "title": "Captain Tsubasa: Kaigai Gekitou-hen - En La Liga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33231.jpg",
+        "alt": "captain-tsubasa-kaigai-gekitou-hen-en-la-liga"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "58",

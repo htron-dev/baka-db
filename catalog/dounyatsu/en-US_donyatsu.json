@@ -1,11 +1,15 @@
 {
     "title": "Donyatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/50109.jpg",
+        "alt": "donyatsu"
+    },
     "type": "movie",
     "episodes": "12",
     "original_name": "どーにゃつ",
     "start_date": "2013-06-01",
     "end_date": "2013-06-01",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Toroamachu (とろあまちゅ)\" by Pikarin Shiina (eps 1–7)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

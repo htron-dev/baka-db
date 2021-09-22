@@ -1,5 +1,9 @@
 {
     "title": "Cyboy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35520.jpg",
+        "alt": "cyboy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

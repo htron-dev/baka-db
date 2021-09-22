@@ -1,5 +1,9 @@
 {
     "title": "Senakagurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120803.jpg",
+        "alt": "senakagurashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

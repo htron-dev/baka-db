@@ -1,5 +1,9 @@
 {
     "title": "Mune ga Naru no wa Kimi no Sei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150390.jpg",
+        "alt": "mune-ga-naru-no-wa-kimi-no-sei"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

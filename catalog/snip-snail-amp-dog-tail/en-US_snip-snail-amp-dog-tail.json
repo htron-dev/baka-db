@@ -1,5 +1,9 @@
 {
     "title": "Snip, Snail &amp; Dog Tail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227591.jpg",
+        "alt": "snip-snail-amp-dog-tail"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

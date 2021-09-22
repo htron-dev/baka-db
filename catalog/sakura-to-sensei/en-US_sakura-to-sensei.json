@@ -1,5 +1,9 @@
 {
     "title": "Sakura to Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198498.jpg",
+        "alt": "sakura-to-sensei"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "21",

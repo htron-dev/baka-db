@@ -1,5 +1,9 @@
 {
     "title": "Neko no Dayan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/60755.jpg",
+        "alt": "neko-no-dayan"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "猫のダヤン",

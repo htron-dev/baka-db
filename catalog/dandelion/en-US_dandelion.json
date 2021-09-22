@@ -1,5 +1,9 @@
 {
     "title": "Dandelion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35532.jpg",
+        "alt": "dandelion"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ダンデライオン",

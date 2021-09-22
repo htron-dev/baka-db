@@ -1,10 +1,14 @@
 {
     "title": "Mobile Suit Gundam NT",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1552/95706.jpg",
+        "alt": "mobile-suit-gundam-nt"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "機動戦士ガンダム NT（ナラティブ）",
     "start_date": "2018-11-30",
-    "ending_song": "\"narrative\" by SawanoHiroyuki[nZk]",
+    "ending_song": "\"narrative\" by SawanoHiroyuki[nZk]: LiSA",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

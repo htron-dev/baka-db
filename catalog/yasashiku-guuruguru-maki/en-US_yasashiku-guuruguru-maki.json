@@ -1,5 +1,9 @@
 {
     "title": "Yasashiku! Guuruguru Maki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156887.jpg",
+        "alt": "yasashiku-guuruguru-maki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

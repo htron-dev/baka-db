@@ -1,5 +1,9 @@
 {
     "title": "Yadosagashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1161/106725.jpg",
+        "alt": "yadosagashi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "やどさがし",

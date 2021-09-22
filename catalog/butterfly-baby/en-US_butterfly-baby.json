@@ -1,5 +1,9 @@
 {
     "title": "Butterfly Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20126.jpg",
+        "alt": "butterfly-baby"
+    },
     "type": "manga",
     "original_name": "バタフライベイビー",
     "tags": [

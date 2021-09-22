@@ -1,5 +1,9 @@
 {
     "title": "Switch Witch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136263.jpg",
+        "alt": "switch-witch"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "55",

@@ -1,5 +1,9 @@
 {
     "title": "Ano Ko wa Kawaii Soine-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235082.jpg",
+        "alt": "ano-ko-wa-kawaii-soine-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

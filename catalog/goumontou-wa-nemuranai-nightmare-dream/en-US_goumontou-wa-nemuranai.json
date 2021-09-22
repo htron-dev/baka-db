@@ -1,5 +1,9 @@
 {
     "title": "Goumontou wa Nemuranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135155.jpg",
+        "alt": "goumontou-wa-nemuranai"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

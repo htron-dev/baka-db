@@ -1,5 +1,9 @@
 {
     "title": "Melon Cream Soda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178385.jpg",
+        "alt": "melon-cream-soda"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "62",

@@ -1,5 +1,9 @@
 {
     "title": "Sangreal: Ou e no Rashinban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227023.jpg",
+        "alt": "sangreal-ou-e-no-rashinban"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

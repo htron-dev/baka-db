@@ -1,5 +1,9 @@
 {
     "title": "Katayoku Shuttle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203952.jpg",
+        "alt": "katayoku-shuttle"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

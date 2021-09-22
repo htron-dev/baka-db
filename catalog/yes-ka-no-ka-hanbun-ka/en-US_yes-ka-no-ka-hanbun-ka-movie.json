@@ -1,5 +1,9 @@
 {
     "title": "Yes ka No ka Hanbun ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1359/108850.jpg",
+        "alt": "yes-ka-no-ka-hanbun-ka"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "イエスかノーか半分か",

@@ -1,5 +1,9 @@
 {
     "title": "Kazoku no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/69067.jpg",
+        "alt": "kazoku-no-hanashi"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "家族のはなし",

@@ -1,5 +1,9 @@
 {
     "title": "Ooyasan wa Shishunki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/105749.jpg",
+        "alt": "ooyasan-wa-shishunki"
+    },
     "type": "manga",
     "original_name": "大家さんは思春期!",
     "start_date": "2012-05-07",

@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Manga Teki Risou to Genjitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19290.jpg",
+        "alt": "shoujo-manga-teki-risou-to-genjitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

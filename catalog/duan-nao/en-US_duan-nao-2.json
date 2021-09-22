@@ -1,5 +1,9 @@
 {
     "title": "Duan Nao 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/84840.jpg",
+        "alt": "duan-nao-2"
+    },
     "type": "ona",
     "original_name": "端脑",
     "rating": "R - 17+ (violence & profanity)",
@@ -25,7 +29,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://zh.wikipedia.org/wiki/%E7%AB%AF%E8%84%91_(%E6%BC%AB%E7%94%BB"
+            "link": "https://zh.wikipedia.org/wiki/%E7%AB%AF%E8%84%91_%28%E6%BC%AB%E7%94%BB%29"
         }
     ]
 }

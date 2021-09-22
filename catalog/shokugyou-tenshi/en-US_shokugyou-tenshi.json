@@ -1,5 +1,9 @@
 {
     "title": "Shokugyou Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27916.jpg",
+        "alt": "shokugyou-tenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

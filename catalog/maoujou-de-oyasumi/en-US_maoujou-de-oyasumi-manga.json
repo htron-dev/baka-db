@@ -1,5 +1,9 @@
 {
     "title": "Maoujou de Oyasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183044.jpg",
+        "alt": "maoujou-de-oyasumi"
+    },
     "type": "manga",
     "original_name": "魔王城でおやすみ",
     "start_date": "2016-05-11",

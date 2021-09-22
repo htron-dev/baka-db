@@ -1,5 +1,9 @@
 {
     "title": "Ginga Hyouryuu Vifam Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/89117.jpg",
+        "alt": "ginga-hyouryuu-vifam-recaps"
+    },
     "type": "ova",
     "episodes": "2",
     "start_date": "1984-10-28",

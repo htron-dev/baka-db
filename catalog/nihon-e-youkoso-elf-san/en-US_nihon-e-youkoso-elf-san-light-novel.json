@@ -1,5 +1,9 @@
 {
     "title": "Nihon e Youkoso Elf-san.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217379.jpg",
+        "alt": "nihon-e-youkoso-elf-san"
+    },
     "type": "light-novel",
     "original_name": "日本へようこそエルフさん。",
     "start_date": "2018-08-25",

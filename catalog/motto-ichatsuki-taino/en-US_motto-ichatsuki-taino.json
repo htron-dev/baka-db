@@ -1,5 +1,9 @@
 {
     "title": "Motto Ichatsuki Taino",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/119881.jpg",
+        "alt": "motto-ichatsuki-taino"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

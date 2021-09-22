@@ -1,5 +1,9 @@
 {
     "title": "Toki no Kousa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1062/94949.jpg",
+        "alt": "toki-no-kousa"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "トキノ交差",

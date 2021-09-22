@@ -1,5 +1,9 @@
 {
     "title": "Atom: The Beginning",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157917.jpg",
+        "alt": "atom-the-beginning"
+    },
     "type": "manga",
     "original_name": "アトム ザ・ビギニング",
     "start_date": "2014-12-01",

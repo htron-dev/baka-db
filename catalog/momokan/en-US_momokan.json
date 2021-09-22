@@ -1,5 +1,9 @@
 {
     "title": "Momokan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33806.jpg",
+        "alt": "momokan"
+    },
     "type": "manga",
     "original_name": "もも缶",
     "start_date": "2005-09-13",

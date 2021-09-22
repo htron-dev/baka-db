@@ -1,5 +1,9 @@
 {
     "title": "Kyoukasho no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166986.jpg",
+        "alt": "kyoukasho-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Blood Lad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/47677.jpg",
+        "alt": "blood-lad"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "ブラッドラッド",

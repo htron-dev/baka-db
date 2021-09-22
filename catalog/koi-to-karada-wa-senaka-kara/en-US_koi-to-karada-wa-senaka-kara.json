@@ -1,5 +1,9 @@
 {
     "title": "Koi to Karada wa Senaka kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30047.jpg",
+        "alt": "koi-to-karada-wa-senaka-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

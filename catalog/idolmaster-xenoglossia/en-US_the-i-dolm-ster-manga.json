@@ -1,5 +1,9 @@
 {
     "title": "The iDOLM@STER",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/111813.jpg",
+        "alt": "the-i-dolm-ster"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "42",

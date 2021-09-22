@@ -1,5 +1,9 @@
 {
     "title": "Ninja Slayer Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153899.jpg",
+        "alt": "ninja-slayer-series"
+    },
     "type": "light-novel",
     "original_name": "ニンジャスレイヤー シリーズ",
     "start_date": "2012-09-29",

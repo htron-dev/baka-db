@@ -1,5 +1,9 @@
 {
     "title": "Hajimete wa Midara na Kimi no Karada de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201826.jpg",
+        "alt": "hajimete-wa-midara-na-kimi-no-karada-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Tennin Karakusa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18098.jpg",
+        "alt": "tennin-karakusa"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "天人唐草",

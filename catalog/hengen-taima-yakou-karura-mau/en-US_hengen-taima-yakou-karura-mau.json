@@ -1,5 +1,9 @@
 {
     "title": "Hengen Taima Yakou Karura Mau!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226791.jpg",
+        "alt": "hengen-taima-yakou-karura-mau"
+    },
     "type": "manga",
     "volumes": "18",
     "original_name": "変幻退魔夜行 カルラ舞う!",

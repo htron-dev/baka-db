@@ -1,5 +1,9 @@
 {
     "title": "Baby Baachan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/77074.jpg",
+        "alt": "baby-baachan"
+    },
     "type": "tv-serie",
     "episodes": "53",
     "original_name": "ベイベーばあちゃん",

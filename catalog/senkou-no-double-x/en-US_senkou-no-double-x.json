@@ -1,5 +1,9 @@
 {
     "title": "Senkou no Double X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160973.jpg",
+        "alt": "senkou-no-double-x"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "10",

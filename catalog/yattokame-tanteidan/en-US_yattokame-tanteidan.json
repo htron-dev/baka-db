@@ -1,5 +1,9 @@
 {
     "title": "Yattokame Tanteidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/11274.jpg",
+        "alt": "yattokame-tanteidan"
+    },
     "type": "tv-serie",
     "episodes": "14",
     "original_name": "やっとかめ探偵団",

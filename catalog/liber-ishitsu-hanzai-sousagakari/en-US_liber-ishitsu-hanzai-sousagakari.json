@@ -1,5 +1,9 @@
 {
     "title": "Liber: Ishitsu Hanzai Sousagakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239541.jpg",
+        "alt": "liber-ishitsu-hanzai-sousagakari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

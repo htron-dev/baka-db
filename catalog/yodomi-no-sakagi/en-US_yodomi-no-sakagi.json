@@ -1,5 +1,9 @@
 {
     "title": "Yodomi no Sakagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/81337.jpg",
+        "alt": "yodomi-no-sakagi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "澱みの騒ぎ",

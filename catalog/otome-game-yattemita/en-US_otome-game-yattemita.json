@@ -1,5 +1,9 @@
 {
     "title": "Otome Game Yattemita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134987.jpg",
+        "alt": "otome-game-yattemita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Yappari Kimi wo Suki ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2870.jpg",
+        "alt": "yappari-kimi-wo-suki-ni-naru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

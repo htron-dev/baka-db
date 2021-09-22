@@ -1,5 +1,9 @@
 {
     "title": "Anime-ka Kikaku Shinkouchuu!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131339.jpg",
+        "alt": "anime-ka-kikaku-shinkouchuu"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "アニメ化企画進行中!?",

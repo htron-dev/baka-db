@@ -1,5 +1,9 @@
 {
     "title": "Neko to Watashi to Deutschland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211839.jpg",
+        "alt": "neko-to-watashi-to-deutschland"
+    },
     "type": "manga",
     "original_name": "ねこと私とドイッチュラント",
     "start_date": "2018-01-25",

@@ -1,5 +1,9 @@
 {
     "title": "Miman Renai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209660.jpg",
+        "alt": "miman-renai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

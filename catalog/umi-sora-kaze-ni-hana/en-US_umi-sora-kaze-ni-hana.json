@@ -1,5 +1,9 @@
 {
     "title": "Umi Sora Kaze ni Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247763.jpg",
+        "alt": "umi-sora-kaze-ni-hana"
+    },
     "type": "manga",
     "original_name": "うみそらかぜに花",
     "start_date": "2020-04-30",

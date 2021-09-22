@@ -1,5 +1,9 @@
 {
     "title": "Riajuu ni mo Otaku ni mo Narenai Ore no Seishun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200646.jpg",
+        "alt": "riajuu-ni-mo-otaku-ni-mo-narenai-ore-no-seishun"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "リア充にもオタクにもなれない俺の青春",

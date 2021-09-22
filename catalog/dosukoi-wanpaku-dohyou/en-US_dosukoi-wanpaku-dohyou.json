@@ -1,5 +1,9 @@
 {
     "title": "Dosukoi! Wanpaku Dohyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/64617.jpg",
+        "alt": "dosukoi-wanpaku-dohyou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "どすこい! わんぱく土俵",

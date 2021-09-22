@@ -1,5 +1,9 @@
 {
     "title": "Geshuku Biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/16160.jpg",
+        "alt": "geshuku-biyori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

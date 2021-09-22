@@ -1,5 +1,9 @@
 {
     "title": "Ojousama, Ookami ni wa Kiwotsukete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/142913.jpg",
+        "alt": "ojousama-ookami-ni-wa-kiwotsukete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

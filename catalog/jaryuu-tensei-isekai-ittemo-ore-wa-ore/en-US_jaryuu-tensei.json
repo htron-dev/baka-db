@@ -1,5 +1,9 @@
 {
     "title": "Jaryuu Tensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195684.jpg",
+        "alt": "jaryuu-tensei"
+    },
     "type": "manga",
     "original_name": "邪竜転生",
     "start_date": "2016-08-24",

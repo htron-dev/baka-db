@@ -1,5 +1,9 @@
 {
     "title": "Joumon Shounen Yogi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199185.jpg",
+        "alt": "joumon-shounen-yogi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

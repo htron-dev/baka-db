@@ -1,5 +1,9 @@
 {
     "title": "Mitsudomoe: Oppai Ippai Mama Genki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/26045.jpg",
+        "alt": "mitsudomoe-oppai-ippai-mama-genki"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "みつどもえ OPPAI IPPAI ママ元気",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Mitsudomoe_(manga"
+            "link": "http://en.wikipedia.org/wiki/Mitsudomoe_%28manga%29#Anime"
         }
     ]
 }

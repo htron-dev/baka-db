@@ -1,5 +1,9 @@
 {
     "title": "Wortenia Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195287.jpg",
+        "alt": "wortenia-senki"
+    },
     "type": "manga",
     "original_name": "ウォルテニア戦記",
     "start_date": "2016-10-21",

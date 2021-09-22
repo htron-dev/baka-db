@@ -1,5 +1,9 @@
 {
     "title": "Ame ni Nureta Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61203.jpg",
+        "alt": "ame-ni-nureta-tenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

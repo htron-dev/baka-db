@@ -1,5 +1,9 @@
 {
     "title": "Fuwatto Madoka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157041.jpg",
+        "alt": "fuwatto-madoka"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ふわっとまどか",

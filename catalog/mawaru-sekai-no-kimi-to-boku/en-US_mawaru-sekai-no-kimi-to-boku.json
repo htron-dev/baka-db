@@ -1,5 +1,9 @@
 {
     "title": "Mawaru Sekai no Kimi to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37572.jpg",
+        "alt": "mawaru-sekai-no-kimi-to-boku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

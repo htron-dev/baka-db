@@ -1,5 +1,9 @@
 {
     "title": "Hakushaku Cain Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160529.jpg",
+        "alt": "hakushaku-cain-series"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

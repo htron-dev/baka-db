@@ -1,5 +1,9 @@
 {
     "title": "Himekei♥Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32722.jpg",
+        "alt": "himekei♥-doll"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

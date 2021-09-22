@@ -1,5 +1,9 @@
 {
     "title": "Beyblade Burst",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/78786.jpg",
+        "alt": "beyblade-burst"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ベイブレードバースト",

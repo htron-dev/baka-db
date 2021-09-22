@@ -1,12 +1,16 @@
 {
     "title": "Rewrite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1827/92122.jpg",
+        "alt": "rewrite"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "リライト",
     "start_date": "2016-07-02",
     "end_date": "2016-07-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Philosophyz\" by Runa Mizutani (eps 2-4, 6-7)",
+    "ending_song": "#1: \"Sasayaka na Hajimari (ささやかなはじまり)\" by Runa Mizutani (eps 2-3, 6-7)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

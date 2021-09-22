@@ -1,5 +1,9 @@
 {
     "title": "Gareki no Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22992.jpg",
+        "alt": "gareki-no-rakuen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

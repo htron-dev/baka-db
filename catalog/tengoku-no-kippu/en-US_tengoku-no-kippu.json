@@ -1,5 +1,9 @@
 {
     "title": "Tengoku no Kippu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33588.jpg",
+        "alt": "tengoku-no-kippu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "天国の切符",

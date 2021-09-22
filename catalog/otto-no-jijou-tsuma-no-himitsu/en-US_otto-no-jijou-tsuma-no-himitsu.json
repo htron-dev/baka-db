@@ -1,5 +1,9 @@
 {
     "title": "Otto no Jijou Tsuma no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246203.jpg",
+        "alt": "otto-no-jijou-tsuma-no-himitsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

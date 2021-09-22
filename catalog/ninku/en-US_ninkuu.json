@@ -1,12 +1,16 @@
 {
     "title": "Ninkuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1983/92770.jpg",
+        "alt": "ninkuu"
+    },
     "type": "tv-serie",
     "episodes": "55",
     "original_name": "忍空",
     "start_date": "1995-01-14",
     "end_date": "1995-01-14",
     "opening_song": "\"輝きは君の中に (Kagayaki wa Kimi no Nakani; Radiance is inside of You)\" by Yume Suzuki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Soredemo Ashita wa Yatte Kuru\" by Yume Suzuki",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

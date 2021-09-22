@@ -1,5 +1,9 @@
 {
     "title": "Kannousei Playthings",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246337.jpg",
+        "alt": "kannousei-playthings"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

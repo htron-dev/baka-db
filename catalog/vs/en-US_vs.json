@@ -1,5 +1,9 @@
 {
     "title": "VS.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/878.jpg",
+        "alt": "vs"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "31",

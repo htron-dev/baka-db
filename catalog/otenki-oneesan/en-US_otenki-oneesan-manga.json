@@ -1,5 +1,9 @@
 {
     "title": "Otenki Oneesan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113105.jpg",
+        "alt": "otenki-oneesan"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "お天気お姉さん",

@@ -1,5 +1,9 @@
 {
     "title": "Ookami ga Kuru zo!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5978.jpg",
+        "alt": "ookami-ga-kuru-zo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "オオカミが来るぞ!?",

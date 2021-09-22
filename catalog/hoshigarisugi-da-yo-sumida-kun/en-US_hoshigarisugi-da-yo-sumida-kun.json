@@ -1,5 +1,9 @@
 {
     "title": "Hoshigarisugi da yo, Sumida-kun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246077.jpg",
+        "alt": "hoshigarisugi-da-yo-sumida-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

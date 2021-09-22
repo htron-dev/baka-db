@@ -1,5 +1,9 @@
 {
     "title": "Bokkonrinri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114313.jpg",
+        "alt": "bokkonrinri"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

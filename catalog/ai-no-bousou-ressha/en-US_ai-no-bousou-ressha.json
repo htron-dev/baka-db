@@ -1,5 +1,9 @@
 {
     "title": "Ai no Bousou Ressha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153448.jpg",
+        "alt": "ai-no-bousou-ressha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

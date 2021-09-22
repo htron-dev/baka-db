@@ -1,5 +1,9 @@
 {
     "title": "Dokusen Kenrisho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/105615.jpg",
+        "alt": "dokusen-kenrisho"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Wanko Number One",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149713.jpg",
+        "alt": "wanko-number-one"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "44",

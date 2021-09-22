@@ -1,5 +1,9 @@
 {
     "title": "Mugen Sekai no Amadeus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191661.jpg",
+        "alt": "mugen-sekai-no-amadeus"
+    },
     "type": "manga",
     "original_name": "無限世界のアマデウス",
     "start_date": "2017-02-20",

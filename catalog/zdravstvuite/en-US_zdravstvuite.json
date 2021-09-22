@@ -1,5 +1,9 @@
 {
     "title": "Zdravstvuite!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1341/115700.jpg",
+        "alt": "zdravstvuite"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ズドラーストヴィチェ!",

@@ -1,5 +1,9 @@
 {
     "title": "Fate/Extra CCC: Fox Tail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120387.jpg",
+        "alt": "fate-extra-ccc-fox-tail"
+    },
     "type": "manga",
     "original_name": "Fate/EXTRA CCC FoxTail",
     "start_date": "2013-10-26",

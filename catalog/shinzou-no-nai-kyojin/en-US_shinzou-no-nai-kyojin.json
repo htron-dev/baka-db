@@ -1,5 +1,9 @@
 {
     "title": "Shinzou no Nai Kyojin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32891.jpg",
+        "alt": "shinzou-no-nai-kyojin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

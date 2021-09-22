@@ -1,5 +1,9 @@
 {
     "title": "Suki, Kirai... demo Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/105177.jpg",
+        "alt": "suki-kirai-demo-suki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

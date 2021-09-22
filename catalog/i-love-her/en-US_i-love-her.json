@@ -1,5 +1,9 @@
 {
     "title": "I Love Her",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10810.jpg",
+        "alt": "i-love-her"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "22",

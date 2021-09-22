@@ -1,5 +1,9 @@
 {
     "title": "Niichan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/194899.jpg",
+        "alt": "niichan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

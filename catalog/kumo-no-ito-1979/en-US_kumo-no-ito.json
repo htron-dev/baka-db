@@ -1,5 +1,9 @@
 {
     "title": "Kumo no Ito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/67923.jpg",
+        "alt": "kumo-no-ito"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "蜘蛛の糸",

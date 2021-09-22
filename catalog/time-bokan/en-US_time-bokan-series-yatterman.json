@@ -1,12 +1,16 @@
 {
     "title": "Time Bokan Series: Yatterman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/60747.jpg",
+        "alt": "time-bokan-series-yatterman"
+    },
     "type": "tv-serie",
     "episodes": "108",
     "original_name": "タイムボカンシリーズ ヤッターマン",
     "start_date": "1977-01-01",
     "end_date": "1977-01-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Yatterman no Uta (ヤッターマンの歌)\" by Masayuki Yamamoto and Shounen Shoujo Gasshou Dan Mizuumi (eps 1-58)",
+    "ending_song": "#1: \"Tensai Doronbo (天才ドロンボー)\" by Noriko Ohara, Jouji Yanami and Kazuya Tatekabe (eps 1-58)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

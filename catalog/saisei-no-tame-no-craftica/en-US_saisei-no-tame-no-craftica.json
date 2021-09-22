@@ -1,5 +1,9 @@
 {
     "title": "Saisei no Tame no Craftica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164203.jpg",
+        "alt": "saisei-no-tame-no-craftica"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "再生のための創形魔術〈クラフティカ〉",

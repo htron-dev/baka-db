@@ -1,5 +1,9 @@
 {
     "title": "Ume ni Uguisu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89219.jpg",
+        "alt": "ume-ni-uguisu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

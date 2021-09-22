@@ -1,5 +1,9 @@
 {
     "title": "Kare to Watashi no Anna Koto...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78071.jpg",
+        "alt": "kare-to-watashi-no-anna-koto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

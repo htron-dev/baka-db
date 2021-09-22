@@ -1,5 +1,9 @@
 {
     "title": "Space Cobra Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/12000.jpg",
+        "alt": "space-cobra-pilot"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "スペースコブラ",

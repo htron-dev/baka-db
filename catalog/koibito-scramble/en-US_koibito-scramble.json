@@ -1,5 +1,9 @@
 {
     "title": "Koibito Scramble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65789.jpg",
+        "alt": "koibito-scramble"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

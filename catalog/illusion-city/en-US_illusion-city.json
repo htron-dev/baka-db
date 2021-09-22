@@ -1,5 +1,9 @@
 {
     "title": "Illusion City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19860.jpg",
+        "alt": "illusion-city"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

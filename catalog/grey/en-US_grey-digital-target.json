@@ -1,10 +1,14 @@
 {
     "title": "Grey: Digital Target",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1301/94928.jpg",
+        "alt": "grey-digital-target"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "GREY デジタル・ターゲット",
     "start_date": "1986-12-13",
-    "ending_song": "\"Love is Heart",
+    "ending_song": "\"Love is Heart: Seiza no Kodomo-tachi (LOVE IS HEART -星座の子供たち-)\" by Yuuri Sugimoto",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Grey_(manga"
+            "link": "http://en.wikipedia.org/wiki/Grey_%28manga%29"
         }
     ]
 }

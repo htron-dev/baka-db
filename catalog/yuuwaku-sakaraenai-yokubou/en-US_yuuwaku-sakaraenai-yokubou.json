@@ -1,5 +1,9 @@
 {
     "title": "Yuuwaku: Sakaraenai Yokubou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11754.jpg",
+        "alt": "yuuwaku-sakaraenai-yokubou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

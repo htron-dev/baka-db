@@ -1,5 +1,9 @@
 {
     "title": "About Desire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244547.jpg",
+        "alt": "about-desire"
+    },
     "type": "manhwa",
     "original_name": "욕망이라는 것에 대하여",
     "start_date": "2016-08-17",

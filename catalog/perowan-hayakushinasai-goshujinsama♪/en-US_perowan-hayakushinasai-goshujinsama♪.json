@@ -1,5 +1,9 @@
 {
     "title": "Perowan!: Hayakushinasai! Goshujinsama♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/86149.jpg",
+        "alt": "perowan-hayakushinasai-goshujinsama♪"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

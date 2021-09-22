@@ -1,5 +1,9 @@
 {
     "title": "Date A Live IV",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1809/113334.jpg",
+        "alt": "date-a-live-iv"
+    },
     "type": "tv-serie",
     "original_name": "デート・ア・ライブ Ⅳ",
     "start_date": "2021-10-20",

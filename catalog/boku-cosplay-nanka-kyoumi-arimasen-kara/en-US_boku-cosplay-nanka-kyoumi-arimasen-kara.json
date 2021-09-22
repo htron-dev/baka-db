@@ -1,5 +1,9 @@
 {
     "title": "Boku Cosplay nanka Kyoumi Arimasen kara!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148535.jpg",
+        "alt": "boku-cosplay-nanka-kyoumi-arimasen-kara"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

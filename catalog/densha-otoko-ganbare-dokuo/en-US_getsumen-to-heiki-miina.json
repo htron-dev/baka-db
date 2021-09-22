@@ -1,5 +1,9 @@
 {
     "title": "Getsumen to Heiki Miina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84143.jpg",
+        "alt": "getsumen-to-heiki-miina"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

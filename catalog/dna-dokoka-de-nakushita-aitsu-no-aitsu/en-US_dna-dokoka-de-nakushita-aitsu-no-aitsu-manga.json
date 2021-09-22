@@ -1,5 +1,9 @@
 {
     "title": "DNA²: Dokoka de Nakushita Aitsu no Aitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177761.jpg",
+        "alt": "dna-dokoka-de-nakushita-aitsu-no-aitsu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "42",

@@ -1,5 +1,9 @@
 {
     "title": "Kanashii Izumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/54049.jpg",
+        "alt": "kanashii-izumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

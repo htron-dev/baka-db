@@ -1,5 +1,9 @@
 {
     "title": "Komori to Tenma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196399.jpg",
+        "alt": "komori-to-tenma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

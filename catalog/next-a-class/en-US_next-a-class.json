@@ -1,5 +1,9 @@
 {
     "title": "Next A-Class",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/44099.jpg",
+        "alt": "next-a-class"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "NEXT A-Class",

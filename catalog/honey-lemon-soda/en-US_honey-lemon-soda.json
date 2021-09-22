@@ -1,5 +1,9 @@
 {
     "title": "Honey Lemon Soda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179110.jpg",
+        "alt": "honey-lemon-soda"
+    },
     "type": "manga",
     "original_name": "ハニーレモンソーダ",
     "start_date": "2015-12-28",

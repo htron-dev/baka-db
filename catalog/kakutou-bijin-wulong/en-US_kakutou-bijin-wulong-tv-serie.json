@@ -1,12 +1,16 @@
 {
     "title": "Kakutou Bijin Wulong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/2768.jpg",
+        "alt": "kakutou-bijin-wulong"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "格闘美神 武龍",
     "start_date": "2005-10-10",
     "end_date": "2005-10-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kimi no Ai ni Tsuzumarete Itai (君の愛に包まれて痛い)\" by Yuuka Saegusa in db (eps 1-13)",
+    "ending_song": "#1: \"ORANGE★NIGHT\" by Rina Aiuchi (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

@@ -1,11 +1,15 @@
 {
     "title": "There She Is!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/29995.jpg",
+        "alt": "there-she-is"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "떳다 그녀!!",
     "start_date": "2003-04-20",
     "end_date": "2003-04-20",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Tteosda! Geunyeo! (떳다! 그녀!; There she is!)\" by Witches (ep 1)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

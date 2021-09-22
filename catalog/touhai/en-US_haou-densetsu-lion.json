@@ -1,5 +1,9 @@
 {
     "title": "Haou Densetsu Lion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180082.jpg",
+        "alt": "haou-densetsu-lion"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

@@ -1,5 +1,9 @@
 {
     "title": "Ossan's Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238013.jpg",
+        "alt": "ossans-love"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

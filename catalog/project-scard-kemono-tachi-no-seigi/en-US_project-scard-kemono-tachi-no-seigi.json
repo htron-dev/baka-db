@@ -1,5 +1,9 @@
 {
     "title": "Project Scard: Kemono-tachi no Seigi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239609.jpg",
+        "alt": "project-scard-kemono-tachi-no-seigi"
+    },
     "type": "manga",
     "original_name": "PROJECT SCARD ～獣たちの正義～",
     "start_date": "2020-09-17",

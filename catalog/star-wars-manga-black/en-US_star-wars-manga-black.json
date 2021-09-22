@@ -1,5 +1,9 @@
 {
     "title": "Star Wars Manga Black",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33493.jpg",
+        "alt": "star-wars-manga-black"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

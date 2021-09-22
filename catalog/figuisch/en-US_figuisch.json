@@ -1,5 +1,9 @@
 {
     "title": "Figuisch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96833.jpg",
+        "alt": "figuisch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

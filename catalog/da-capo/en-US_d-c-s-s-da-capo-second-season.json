@@ -1,12 +1,16 @@
 {
     "title": "D.C.S.S: Da Capo Second Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/73937.jpg",
+        "alt": "d-c-s-s-da-capo-second-season"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "D.C.S.S. ～ダ・カーポ セカンドシーズン～",
     "start_date": "2005-07-02",
     "end_date": "2005-07-02",
     "opening_song": "\"Sakurairo no Kisetsu\" by yozuca\\*",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Akatsuki ni Saku Uta\" by CooRie (eps 1-23,26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

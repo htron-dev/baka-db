@@ -1,12 +1,16 @@
 {
     "title": "Yu☆Gi☆Oh! Zexal Second",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/43491.jpg",
+        "alt": "yu☆-gi☆-oh-zexal-second"
+    },
     "type": "tv-serie",
     "episodes": "73",
     "original_name": "遊 ☆ 戯 ☆ 王 ZEXALⅡ（セカンド）",
     "start_date": "2012-10-07",
     "end_date": "2012-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Orenai Heart (折れないハート)\" by Hideaki Takatori (高取ヒデアキ) (eps 1-25)",
+    "ending_song": "#1: \"Artist (アーティスト)\" by Vistlip (eps 1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

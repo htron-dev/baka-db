@@ -1,5 +1,9 @@
 {
     "title": "Natsuzora ni, Kimi to Mita Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61077.jpg",
+        "alt": "natsuzora-ni-kimi-to-mita-yume"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Dr. no Fureru Yubisaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/52379.jpg",
+        "alt": "dr-no-fureru-yubisaki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Dr.の触れる指先",

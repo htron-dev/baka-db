@@ -1,12 +1,16 @@
 {
     "title": "Kyuuketsuhime Miyu (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/61317.jpg",
+        "alt": "kyuuketsuhime-miyu-tv"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "吸血姫美夕",
     "start_date": "1997-10-06",
     "end_date": "1997-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Dance of Shinma\" by Kenji Kawai",
+    "ending_song": "#1: \"Miyu Yachiyo\" by Saeko Suzuki",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

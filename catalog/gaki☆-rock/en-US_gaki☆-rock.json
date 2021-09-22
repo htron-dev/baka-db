@@ -1,5 +1,9 @@
 {
     "title": "Gaki☆Rock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192705.jpg",
+        "alt": "gaki☆-rock"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

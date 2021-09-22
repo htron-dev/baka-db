@@ -1,5 +1,9 @@
 {
     "title": "Slam Dunk: 10 Days After",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236651.jpg",
+        "alt": "slam-dunk-10-days-after"
+    },
     "type": "manga",
     "chapters": "1",
     "start_date": "2005-02-20",

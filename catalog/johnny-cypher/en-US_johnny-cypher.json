@@ -1,5 +1,9 @@
 {
     "title": "Johnny Cypher",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/68099.jpg",
+        "alt": "johnny-cypher"
+    },
     "type": "tv-serie",
     "episodes": "130",
     "original_name": "ジョニーサイファー",

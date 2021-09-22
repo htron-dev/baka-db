@@ -1,5 +1,9 @@
 {
     "title": "Youjo Senki II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1437/115925.jpg",
+        "alt": "youjo-senki-ii"
+    },
     "type": "tv-serie",
     "original_name": "幼女戦記 II",
     "rating": "R - 17+ (violence & profanity)",

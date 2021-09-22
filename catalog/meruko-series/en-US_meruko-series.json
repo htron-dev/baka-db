@@ -1,5 +1,9 @@
 {
     "title": "Meruko Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162095.jpg",
+        "alt": "meruko-series"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "45",

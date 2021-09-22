@@ -1,5 +1,9 @@
 {
     "title": "Super Oresama Love Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/62225.jpg",
+        "alt": "super-oresama-love-story"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Kousei Tantou Hattori-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237633.jpg",
+        "alt": "kousei-tantou-hattori-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

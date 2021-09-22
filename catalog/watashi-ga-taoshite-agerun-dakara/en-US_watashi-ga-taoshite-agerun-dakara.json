@@ -1,5 +1,9 @@
 {
     "title": "Watashi ga Taoshite Agerun Dakara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168635.jpg",
+        "alt": "watashi-ga-taoshite-agerun-dakara"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Otokojuku Gaiden: Akashi Gouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226164.jpg",
+        "alt": "otokojuku-gaiden-akashi-gouji"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "37",

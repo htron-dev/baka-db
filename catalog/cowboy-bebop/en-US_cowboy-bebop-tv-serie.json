@@ -1,12 +1,16 @@
 {
     "title": "Cowboy Bebop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+        "alt": "cowboy-bebop"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "カウボーイビバップ",
     "start_date": "1998-04-03",
     "end_date": "1998-04-03",
     "opening_song": "\"Tank!\" by The Seatbelts (eps 1-25)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"The Real Folk Blues\" by The Seatbelts feat. Mai Yamane (eps 1-12, 14-25)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

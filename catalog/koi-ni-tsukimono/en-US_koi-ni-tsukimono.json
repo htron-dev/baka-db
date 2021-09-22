@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Tsukimono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117493.jpg",
+        "alt": "koi-ni-tsukimono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Oneesan to Issho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158874.jpg",
+        "alt": "oneesan-to-issho"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

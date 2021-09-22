@@ -1,5 +1,9 @@
 {
     "title": "Anemone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/28918.jpg",
+        "alt": "anemone"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "Anemone",

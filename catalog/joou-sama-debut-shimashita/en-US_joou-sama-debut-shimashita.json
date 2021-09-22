@@ -1,5 +1,9 @@
 {
     "title": "Joou-sama Debut Shimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193656.jpg",
+        "alt": "joou-sama-debut-shimashita"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

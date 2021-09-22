@@ -1,5 +1,9 @@
 {
     "title": "Kageki ni Junjouha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/175898.jpg",
+        "alt": "kageki-ni-junjouha"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "カゲキに純情派",

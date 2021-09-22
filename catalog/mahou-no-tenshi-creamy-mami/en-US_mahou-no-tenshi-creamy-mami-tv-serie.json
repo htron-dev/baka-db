@@ -1,12 +1,16 @@
 {
     "title": "Mahou no Tenshi Creamy Mami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/50081.jpg",
+        "alt": "mahou-no-tenshi-creamy-mami"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "魔法の天使 クリィミーマミ",
     "start_date": "1983-07-01",
     "end_date": "1983-07-01",
     "opening_song": "\"Delicate ni Sukishite (デリケートに好きして)\" by Takako Oota",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Pajama no Mama de (パジャマのままで)\" by Takako Oota (eps 1-26, 52)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

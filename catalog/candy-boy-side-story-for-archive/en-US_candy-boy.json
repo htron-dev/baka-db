@@ -1,5 +1,9 @@
 {
     "title": "Candy Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/34243.jpg",
+        "alt": "candy-boy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

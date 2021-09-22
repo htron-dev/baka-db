@@ -1,5 +1,9 @@
 {
     "title": "Koi no Tamago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25886.jpg",
+        "alt": "koi-no-tamago"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

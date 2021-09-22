@@ -1,5 +1,9 @@
 {
     "title": "Manga de Yomu Jinsei ga Tokimeku Katazuke no Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220652.jpg",
+        "alt": "manga-de-yomu-jinsei-ga-tokimeku-katazuke-no-mahou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

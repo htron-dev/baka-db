@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Alien Brothers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175315.jpg",
+        "alt": "tokyo-alien-brothers"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Bungo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164285.jpg",
+        "alt": "bungo"
+    },
     "type": "manga",
     "original_name": "BUNGO",
     "start_date": "2014-12-18",

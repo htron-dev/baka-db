@@ -1,5 +1,9 @@
 {
     "title": "One Piece Movie 5: Norowareta Seiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/25413.jpg",
+        "alt": "one-piece-movie-5-norowareta-seiken"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ワンピース呪われた聖剣",

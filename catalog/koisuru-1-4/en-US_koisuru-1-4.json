@@ -1,5 +1,9 @@
 {
     "title": "Koisuru 1/4",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/24791.jpg",
+        "alt": "koisuru-1-4"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "68",

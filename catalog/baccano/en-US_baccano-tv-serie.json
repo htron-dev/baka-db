@@ -1,5 +1,9 @@
 {
     "title": "Baccano!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/14547.jpg",
+        "alt": "baccano"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "バッカーノ！",

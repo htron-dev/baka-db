@@ -1,5 +1,9 @@
 {
     "title": "Sokuhi Shigan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194466.jpg",
+        "alt": "sokuhi-shigan"
+    },
     "type": "light-novel",
     "original_name": "側妃志願！",
     "start_date": "2014-08-22",

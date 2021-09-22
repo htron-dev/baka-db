@@ -1,5 +1,9 @@
 {
     "title": "Steel Rain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207019.jpg",
+        "alt": "steel-rain"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "32",

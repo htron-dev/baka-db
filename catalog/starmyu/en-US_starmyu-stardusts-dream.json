@@ -1,5 +1,9 @@
 {
     "title": "Starmyu: Stardust's Dream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248102.jpg",
+        "alt": "starmyu-stardusts-dream"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "スタミュ Stardust's Dream",

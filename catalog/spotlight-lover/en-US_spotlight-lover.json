@@ -1,5 +1,9 @@
 {
     "title": "Spotlight Lover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/73245.jpg",
+        "alt": "spotlight-lover"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

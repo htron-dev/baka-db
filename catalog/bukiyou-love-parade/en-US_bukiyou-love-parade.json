@@ -1,5 +1,9 @@
 {
     "title": "Bukiyou Love Parade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177378.jpg",
+        "alt": "bukiyou-love-parade"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

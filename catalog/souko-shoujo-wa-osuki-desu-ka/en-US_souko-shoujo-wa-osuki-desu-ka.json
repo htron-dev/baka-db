@@ -1,5 +1,9 @@
 {
     "title": "Souko Shoujo wa Osuki desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164658.jpg",
+        "alt": "souko-shoujo-wa-osuki-desu-ka"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "装甲少女はお好きですか？",

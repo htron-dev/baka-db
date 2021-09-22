@@ -1,5 +1,9 @@
 {
     "title": "Junketsu x Shojo Vampire Cafe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231415.jpg",
+        "alt": "junketsu-x-shojo-vampire-cafe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

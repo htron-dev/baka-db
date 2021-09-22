@@ -1,5 +1,9 @@
 {
     "title": "Chameleon Army",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156575.jpg",
+        "alt": "chameleon-army"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

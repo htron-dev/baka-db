@@ -1,5 +1,9 @@
 {
     "title": "Yoichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235232.jpg",
+        "alt": "yoichi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

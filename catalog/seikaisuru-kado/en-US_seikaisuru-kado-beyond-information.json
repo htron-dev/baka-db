@@ -1,8 +1,12 @@
 {
     "title": "Seikaisuru Kado: Beyond Information",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1632/93022.jpg",
+        "alt": "seikaisuru-kado-beyond-information"
+    },
     "type": "ona",
     "episodes": "1",
-    "original_name": "正解するカド 12.5 話 KADO",
+    "original_name": "正解するカド 12.5 話 KADO: Beyond Information",
     "start_date": "2018-05-21",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

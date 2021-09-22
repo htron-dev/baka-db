@@ -1,5 +1,9 @@
 {
     "title": "Major: World Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/75220.jpg",
+        "alt": "major-world-series"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "メジャー ワールドシリーズ編",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Major_(manga"
+            "link": "http://en.wikipedia.org/wiki/Major_%28manga%29"
         }
     ]
 }

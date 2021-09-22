@@ -1,5 +1,9 @@
 {
     "title": "Oretachi Ijiwaru Kei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/65431.jpg",
+        "alt": "oretachi-ijiwaru-kei"
+    },
     "type": "tv-serie",
     "episodes": "14",
     "original_name": "おれたちイジワルケイ",

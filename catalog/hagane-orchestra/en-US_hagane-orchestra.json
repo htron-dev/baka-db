@@ -1,5 +1,9 @@
 {
     "title": "Hagane Orchestra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/82323.jpg",
+        "alt": "hagane-orchestra"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "はがねオーケストラ",

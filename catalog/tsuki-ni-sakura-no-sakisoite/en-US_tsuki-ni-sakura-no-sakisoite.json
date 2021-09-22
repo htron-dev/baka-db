@@ -1,5 +1,9 @@
 {
     "title": "Tsuki ni Sakura no Sakisoite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170748.jpg",
+        "alt": "tsuki-ni-sakura-no-sakisoite"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

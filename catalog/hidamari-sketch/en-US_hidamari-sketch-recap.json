@@ -1,5 +1,9 @@
 {
     "title": "Hidamari Sketch Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/71503.jpg",
+        "alt": "hidamari-sketch-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ひだまりスケッチ",

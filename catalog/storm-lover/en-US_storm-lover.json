@@ -1,5 +1,9 @@
 {
     "title": "Storm Lover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66737.jpg",
+        "alt": "storm-lover"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

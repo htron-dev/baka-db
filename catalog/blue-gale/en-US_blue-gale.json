@@ -1,5 +1,9 @@
 {
     "title": "Blue Gale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119449.jpg",
+        "alt": "blue-gale"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ブルーゲイル 伊藤明弘版権物作品集",

@@ -1,5 +1,9 @@
 {
     "title": "Narara Wonder Gongju",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/45150.jpg",
+        "alt": "narara-wonder-gongju"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "날아라원더공주",

@@ -1,5 +1,9 @@
 {
     "title": "Innocence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75628.jpg",
+        "alt": "innocence"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "イノセンス",

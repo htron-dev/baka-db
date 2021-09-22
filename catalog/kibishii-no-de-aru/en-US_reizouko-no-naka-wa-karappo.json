@@ -1,5 +1,9 @@
 {
     "title": "Reizouko no Naka wa Karappo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238761.jpg",
+        "alt": "reizouko-no-naka-wa-karappo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

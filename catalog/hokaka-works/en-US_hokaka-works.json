@@ -1,5 +1,9 @@
 {
     "title": "Hokaka Works",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133317.jpg",
+        "alt": "hokaka-works"
+    },
     "type": "manga",
     "original_name": "ほかかわーくす",
     "start_date": "2013-06-07",

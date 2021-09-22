@@ -1,5 +1,9 @@
 {
     "title": "Hiiro no Kakera: Mezame no Toki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16641.jpg",
+        "alt": "hiiro-no-kakera-mezame-no-toki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

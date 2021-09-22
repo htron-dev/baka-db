@@ -1,5 +1,9 @@
 {
     "title": "Kanojo wa Otousan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212568.jpg",
+        "alt": "kanojo-wa-otousan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

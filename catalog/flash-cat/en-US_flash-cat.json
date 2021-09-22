@@ -1,5 +1,9 @@
 {
     "title": "Flash Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/173676.jpg",
+        "alt": "flash-cat"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "플래시켓",

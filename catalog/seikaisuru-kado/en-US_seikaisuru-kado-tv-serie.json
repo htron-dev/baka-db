@@ -1,5 +1,9 @@
 {
     "title": "Seikaisuru Kado",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/85255.jpg",
+        "alt": "seikaisuru-kado"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "正解するカド",

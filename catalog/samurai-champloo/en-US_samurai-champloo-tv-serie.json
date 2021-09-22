@@ -1,12 +1,16 @@
 {
     "title": "Samurai Champloo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/29134.jpg",
+        "alt": "samurai-champloo"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "サムライチャンプルー",
     "start_date": "2004-05-20",
     "end_date": "2004-05-20",
     "opening_song": "\"Battlecry\" by Nujabes feat. Shing02 (eps 1-25)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shiki no Uta (四季ノ唄)\" by MINMI (eps 1-11, 13-16, 18-22, 24-25)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

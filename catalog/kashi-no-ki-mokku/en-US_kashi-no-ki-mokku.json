@@ -1,5 +1,9 @@
 {
     "title": "Kashi no Ki Mokku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/23505.jpg",
+        "alt": "kashi-no-ki-mokku"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "樫の木モック",

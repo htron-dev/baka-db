@@ -1,5 +1,9 @@
 {
     "title": "Sophia no Enkan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235008.jpg",
+        "alt": "sophia-no-enkan"
+    },
     "type": "manga",
     "original_name": "ソフィアの円環",
     "start_date": "2020-04-03",

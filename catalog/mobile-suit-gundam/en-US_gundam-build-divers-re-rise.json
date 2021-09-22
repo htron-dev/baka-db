@@ -1,12 +1,16 @@
 {
     "title": "Gundam Build Divers Re:Rise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1011/109143.jpg",
+        "alt": "gundam-build-divers-re-rise"
+    },
     "type": "ona",
     "episodes": "13",
-    "original_name": "ガンダムビルドダイバーズ Re",
+    "original_name": "ガンダムビルドダイバーズ Re:RISE",
     "start_date": "2019-10-10",
     "end_date": "2019-10-10",
-    "opening_song": "\"Re",
-    "ending_song": "#1",
+    "opening_song": "\"Re:RISE\" by Spira Spica (eps 1-12)",
+    "ending_song": "#1: \"MAGIC TIME\" by SudannaYuzuYully (eps 1-12)",
     "rating": "G - All Ages",
     "tags": [
         "action",

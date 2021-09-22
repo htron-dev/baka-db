@@ -1,5 +1,9 @@
 {
     "title": "Girls x Sekuha-Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210030.jpg",
+        "alt": "girls-x-sekuha-life"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

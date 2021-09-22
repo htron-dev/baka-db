@@ -1,5 +1,9 @@
 {
     "title": "JoJo no Kimyou na Bouken: Adventure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/53147.jpg",
+        "alt": "jo-jo-no-kimyou-na-bouken-adventure"
+    },
     "type": "ova",
     "episodes": "7",
     "original_name": "ジョジョの奇妙な冒険 ADVENTURE",

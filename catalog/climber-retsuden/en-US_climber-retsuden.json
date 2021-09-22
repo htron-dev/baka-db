@@ -1,5 +1,9 @@
 {
     "title": "Climber Retsuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72689.jpg",
+        "alt": "climber-retsuden"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "岳人(クライマー)列伝",

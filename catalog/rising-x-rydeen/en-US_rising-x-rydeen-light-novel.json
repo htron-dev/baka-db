@@ -1,5 +1,9 @@
 {
     "title": "Rising x Rydeen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179592.jpg",
+        "alt": "rising-x-rydeen"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "57",

@@ -1,5 +1,9 @@
 {
     "title": "Zap Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1583/108148.jpg",
+        "alt": "zap-cat"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ZAP CAT",

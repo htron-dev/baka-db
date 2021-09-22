@@ -1,5 +1,9 @@
 {
     "title": "Slow Start",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157435.jpg",
+        "alt": "slow-start"
+    },
     "type": "manga",
     "original_name": "スロウスタート",
     "start_date": "2013-06-07",

@@ -1,5 +1,9 @@
 {
     "title": "Tokiwa Bowl no Megami-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201955.jpg",
+        "alt": "tokiwa-bowl-no-megami-sama"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

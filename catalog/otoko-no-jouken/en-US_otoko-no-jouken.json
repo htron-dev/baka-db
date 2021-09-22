@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Jouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186962.jpg",
+        "alt": "otoko-no-jouken"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

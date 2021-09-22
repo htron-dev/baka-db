@@ -1,5 +1,9 @@
 {
     "title": "Yamato 2520",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/61289.jpg",
+        "alt": "yamato-2520"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "YAMATO2520 [ヤマトニーゴーニーゼロ]",

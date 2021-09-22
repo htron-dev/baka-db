@@ -1,11 +1,15 @@
 {
     "title": "Business Fish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1834/112939.jpg",
+        "alt": "business-fish"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "ビジネスフィッシュ",
     "start_date": "2019-07-08",
     "end_date": "2019-07-08",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Don't Stop Moving\" by Sarah Kelly",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

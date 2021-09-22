@@ -1,5 +1,9 @@
 {
     "title": "Akai Mi Hajiketa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/140857.jpg",
+        "alt": "akai-mi-hajiketa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

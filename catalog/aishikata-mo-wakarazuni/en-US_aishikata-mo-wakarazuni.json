@@ -1,5 +1,9 @@
 {
     "title": "Aishikata mo Wakarazuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12832.jpg",
+        "alt": "aishikata-mo-wakarazuni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

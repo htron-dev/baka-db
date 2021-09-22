@@ -1,5 +1,9 @@
 {
     "title": "Hana wa Saku ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30475.jpg",
+        "alt": "hana-wa-saku-ka"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "35",

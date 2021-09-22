@@ -1,5 +1,9 @@
 {
     "title": "Dokusha Senyou Kensaku Engine: Chotto Morimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190070.jpg",
+        "alt": "dokusha-senyou-kensaku-engine-chotto-morimashita"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "読者専用検索エンジン ちょっと盛りました。",

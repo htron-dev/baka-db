@@ -1,5 +1,9 @@
 {
     "title": "Gunka no Hibiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131961.jpg",
+        "alt": "gunka-no-hibiki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "TO-Y",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39513.jpg",
+        "alt": "to-y"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "トーイ",

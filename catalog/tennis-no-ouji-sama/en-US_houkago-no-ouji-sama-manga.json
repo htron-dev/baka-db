@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/109185.jpg",
+        "alt": "houkago-no-ouji-sama"
+    },
     "type": "manga",
     "original_name": "放課後の王子様",
     "start_date": "2008-11-04",

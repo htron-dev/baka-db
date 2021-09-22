@@ -1,5 +1,9 @@
 {
     "title": "Tsuma ga Nani Yara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177477.jpg",
+        "alt": "tsuma-ga-nani-yara"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

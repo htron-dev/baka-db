@@ -1,12 +1,16 @@
 {
     "title": "Kaitou Saint Tail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/46607.jpg",
+        "alt": "kaitou-saint-tail"
+    },
     "type": "tv-serie",
     "episodes": "43",
     "original_name": "怪盗セイント・テール",
     "start_date": "1995-10-12",
     "end_date": "1995-10-12",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Toki o Koete\" by Matsuyuki Yasuko (eps 01-24)",
+    "ending_song": "#01: \"Junshin\" by Inoue Shoko (eps 01-24)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

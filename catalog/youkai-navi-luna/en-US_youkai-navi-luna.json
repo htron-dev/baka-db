@@ -1,5 +1,9 @@
 {
     "title": "Youkai Navi Luna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29801.jpg",
+        "alt": "youkai-navi-luna"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "25",

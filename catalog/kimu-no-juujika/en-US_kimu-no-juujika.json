@@ -1,5 +1,9 @@
 {
     "title": "Kimu no Juujika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/53177.jpg",
+        "alt": "kimu-no-juujika"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キムの十字架",

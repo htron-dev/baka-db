@@ -1,5 +1,9 @@
 {
     "title": "Romantic Joutou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171332.jpg",
+        "alt": "romantic-joutou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

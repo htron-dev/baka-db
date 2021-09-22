@@ -1,5 +1,9 @@
 {
     "title": "Hirugao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150126.jpg",
+        "alt": "hirugao"
+    },
     "type": "manga",
     "original_name": "ひるがお",
     "start_date": "2010-08-30",

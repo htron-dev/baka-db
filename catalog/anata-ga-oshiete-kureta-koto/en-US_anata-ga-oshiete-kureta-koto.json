@@ -1,5 +1,9 @@
 {
     "title": "Anata ga Oshiete Kureta Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6091.jpg",
+        "alt": "anata-ga-oshiete-kureta-koto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

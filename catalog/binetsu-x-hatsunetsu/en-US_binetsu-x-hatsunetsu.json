@@ -1,5 +1,9 @@
 {
     "title": "Binetsu x Hatsunetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124921.jpg",
+        "alt": "binetsu-x-hatsunetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "微熱 × 発熱",

@@ -1,5 +1,9 @@
 {
     "title": "Araidoki.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128607.jpg",
+        "alt": "araidoki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "33",

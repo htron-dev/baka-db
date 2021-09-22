@@ -1,5 +1,9 @@
 {
     "title": "Kurenai Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29159.jpg",
+        "alt": "kurenai-densetsu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "14",

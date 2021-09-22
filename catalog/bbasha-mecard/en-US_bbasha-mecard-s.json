@@ -1,5 +1,9 @@
 {
     "title": "Bbasha Mecard S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1145/114451.jpg",
+        "alt": "bbasha-mecard-s"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "빠샤메카드 S",

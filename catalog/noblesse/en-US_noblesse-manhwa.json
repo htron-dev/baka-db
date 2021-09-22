@@ -1,5 +1,9 @@
 {
     "title": "Noblesse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/50987.jpg",
+        "alt": "noblesse"
+    },
     "type": "manhwa",
     "original_name": "노블레스",
     "start_date": "2007-12-30",

@@ -1,5 +1,9 @@
 {
     "title": "Ikeda-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236744.jpg",
+        "alt": "ikeda-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

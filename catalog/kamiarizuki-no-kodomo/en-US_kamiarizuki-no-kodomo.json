@@ -1,5 +1,9 @@
 {
     "title": "Kamiarizuki no Kodomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1395/117591.jpg",
+        "alt": "kamiarizuki-no-kodomo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "神在月のこども",

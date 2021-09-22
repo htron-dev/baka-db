@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Gnosis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200780.jpg",
+        "alt": "houkago-no-gnosis"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

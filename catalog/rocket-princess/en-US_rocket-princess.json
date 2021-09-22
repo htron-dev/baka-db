@@ -1,5 +1,9 @@
 {
     "title": "Rocket Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9973.jpg",
+        "alt": "rocket-princess"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Shin Seitokai no Ichizon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98617.jpg",
+        "alt": "shin-seitokai-no-ichizon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Kishifuku no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171355.jpg",
+        "alt": "kishifuku-no-hanayome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "騎士服の花嫁",

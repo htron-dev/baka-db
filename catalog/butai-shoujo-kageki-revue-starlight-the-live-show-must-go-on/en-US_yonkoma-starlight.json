@@ -1,5 +1,9 @@
 {
     "title": "Yonkoma Starlight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222047.jpg",
+        "alt": "yonkoma-starlight"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "42",

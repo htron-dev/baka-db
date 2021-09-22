@@ -1,5 +1,9 @@
 {
     "title": "Un-Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/33009.jpg",
+        "alt": "un-go"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "UN-GO アン ゴ",

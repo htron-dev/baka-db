@@ -1,5 +1,9 @@
 {
     "title": "Baraou no Souretsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120487.jpg",
+        "alt": "baraou-no-souretsu"
+    },
     "type": "manga",
     "original_name": "薔薇王の葬列",
     "start_date": "2013-10-04",

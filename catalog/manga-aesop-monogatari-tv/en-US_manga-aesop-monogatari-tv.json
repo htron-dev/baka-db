@@ -1,5 +1,9 @@
 {
     "title": "Manga Aesop Monogatari (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/29833.jpg",
+        "alt": "manga-aesop-monogatari-tv"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "まんがイソップ物語",

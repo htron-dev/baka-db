@@ -1,5 +1,9 @@
 {
     "title": "Hi no Tori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/3622.jpg",
+        "alt": "hi-no-tori"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "火の鳥",

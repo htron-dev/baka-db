@@ -1,5 +1,9 @@
 {
     "title": "Omoi, Omoware, Furi, Furare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167944.jpg",
+        "alt": "omoi-omoware-furi-furare"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "48",

@@ -1,5 +1,9 @@
 {
     "title": "Maou-ppoi no!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171306.jpg",
+        "alt": "maou-ppoi-no"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "44",

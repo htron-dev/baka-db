@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Kyojin Season 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1173/92110.jpg",
+        "alt": "shingeki-no-kyojin-season-3"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "進撃の巨人 Season3",

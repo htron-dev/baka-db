@@ -1,5 +1,9 @@
 {
     "title": "Rurou no Tabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/218999.jpg",
+        "alt": "rurou-no-tabi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

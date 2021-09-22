@@ -1,5 +1,9 @@
 {
     "title": "Mieppari Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243864.jpg",
+        "alt": "mieppari-syndrome"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "21",

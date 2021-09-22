@@ -1,5 +1,9 @@
 {
     "title": "Sixteen Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/99757.jpg",
+        "alt": "sixteen-syndrome"
+    },
     "type": "manga",
     "original_name": "シックスティーン症候群(シンドローム)",
     "start_date": "2013-02-13",

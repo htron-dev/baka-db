@@ -1,5 +1,9 @@
 {
     "title": "Eyedrops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/82127.jpg",
+        "alt": "eyedrops"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "アイドロップス",

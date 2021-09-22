@@ -1,5 +1,9 @@
 {
     "title": "Seiten no Musou Shinki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170103.jpg",
+        "alt": "seiten-no-musou-shinki"
+    },
     "type": "light-novel",
     "original_name": "征天の無双神器",
     "start_date": "2016-01-01",

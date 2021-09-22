@@ -1,5 +1,9 @@
 {
     "title": "3 Banme no Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5406.jpg",
+        "alt": "3-banme-no-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

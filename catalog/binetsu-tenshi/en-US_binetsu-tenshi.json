@@ -1,5 +1,9 @@
 {
     "title": "Binetsu Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35013.jpg",
+        "alt": "binetsu-tenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "微熱天使",
@@ -12,7 +16,6 @@
         "Kobayashi",
         "Takumi (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

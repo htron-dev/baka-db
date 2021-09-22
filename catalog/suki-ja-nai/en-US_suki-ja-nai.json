@@ -1,5 +1,9 @@
 {
     "title": "Suki ja Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164423.jpg",
+        "alt": "suki-ja-nai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

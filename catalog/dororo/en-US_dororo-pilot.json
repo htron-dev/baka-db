@@ -1,5 +1,9 @@
 {
     "title": "Dororo Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/74368.jpg",
+        "alt": "dororo-pilot"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "どろろ",

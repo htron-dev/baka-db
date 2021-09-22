@@ -1,12 +1,16 @@
 {
     "title": "Mahoutsukai no Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/88476.jpg",
+        "alt": "mahoutsukai-no-yome"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "魔法使いの嫁",
     "start_date": "2017-10-08",
     "end_date": "2017-10-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Here\" by JUNNA (eps 1-12)",
+    "ending_song": "#1: \"Wa -cycle- (環-cycle-)\" by Hana Itoki (糸奇はな) (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

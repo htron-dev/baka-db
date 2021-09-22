@@ -1,12 +1,16 @@
 {
     "title": "Di Gi Charat Nyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/57015.jpg",
+        "alt": "di-gi-charat-nyo"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "デ・ジ・キャラットにょ",
     "start_date": "2003-04-06",
     "end_date": "2003-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Heartbeat\" by Prière",
+    "ending_song": "#1: \"EQUAL ロマンス (Equal Romance)\" by Prière",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

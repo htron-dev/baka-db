@@ -1,5 +1,9 @@
 {
     "title": "Thermae Romae Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/35741.jpg",
+        "alt": "thermae-romae-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "テルマエ・ロマエ",

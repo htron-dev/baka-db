@@ -1,5 +1,9 @@
 {
     "title": "Naturize",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154701.jpg",
+        "alt": "naturize"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

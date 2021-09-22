@@ -1,5 +1,9 @@
 {
     "title": "Koibana: Kono Yuuwaku niwa Katenai! Best 6",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11415.jpg",
+        "alt": "koibana-kono-yuuwaku-niwa-katenai-best-6"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

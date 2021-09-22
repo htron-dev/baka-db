@@ -1,5 +1,9 @@
 {
     "title": "Kindan Kon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1369.jpg",
+        "alt": "kindan-kon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

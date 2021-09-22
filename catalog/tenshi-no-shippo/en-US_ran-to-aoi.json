@@ -1,5 +1,9 @@
 {
     "title": "Ran to Aoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240191.jpg",
+        "alt": "ran-to-aoi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "43",

@@ -1,5 +1,9 @@
 {
     "title": "Hipira-kun Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/59991.jpg",
+        "alt": "hipira-kun-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ヒピラくん",

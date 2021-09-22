@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Cosmic Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200584.jpg",
+        "alt": "watashi-no-cosmic-monster"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

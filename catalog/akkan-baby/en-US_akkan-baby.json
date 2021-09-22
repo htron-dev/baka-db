@@ -1,5 +1,9 @@
 {
     "title": "Akkan Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181345.jpg",
+        "alt": "akkan-baby"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

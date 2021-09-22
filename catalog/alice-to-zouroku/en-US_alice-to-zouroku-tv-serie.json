@@ -1,5 +1,9 @@
 {
     "title": "Alice to Zouroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/84598.jpg",
+        "alt": "alice-to-zouroku"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アリスと蔵六",

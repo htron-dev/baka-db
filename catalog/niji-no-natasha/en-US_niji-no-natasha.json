@@ -1,5 +1,9 @@
 {
     "title": "Niji no Natasha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91765.jpg",
+        "alt": "niji-no-natasha"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "虹のナターシャ",

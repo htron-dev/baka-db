@@ -1,5 +1,9 @@
 {
     "title": "Contact",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/65749.jpg",
+        "alt": "contact"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Contact",

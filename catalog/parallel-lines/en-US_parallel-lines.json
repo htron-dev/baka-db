@@ -1,5 +1,9 @@
 {
     "title": "Parallel Lines",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/74027.jpg",
+        "alt": "parallel-lines"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

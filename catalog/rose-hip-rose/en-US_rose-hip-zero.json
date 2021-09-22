@@ -1,5 +1,9 @@
 {
     "title": "Rose Hip Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177217.jpg",
+        "alt": "rose-hip-zero"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "34",

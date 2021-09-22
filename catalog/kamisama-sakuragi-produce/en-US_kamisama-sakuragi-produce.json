@@ -1,5 +1,9 @@
 {
     "title": "Kamisama Sakuragi Produce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/142137.jpg",
+        "alt": "kamisama-sakuragi-produce"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

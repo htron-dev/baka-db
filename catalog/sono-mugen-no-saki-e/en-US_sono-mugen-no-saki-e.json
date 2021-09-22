@@ -1,5 +1,9 @@
 {
     "title": "Sono Mugen no Saki e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164871.jpg",
+        "alt": "sono-mugen-no-saki-e"
+    },
     "type": "light-novel",
     "original_name": "その無限の先へ",
     "start_date": "2015-10-23",

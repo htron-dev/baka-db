@@ -1,5 +1,9 @@
 {
     "title": "Iburigurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162981.jpg",
+        "alt": "iburigurashi"
+    },
     "type": "manga",
     "original_name": "いぶり暮らし",
     "start_date": "2014-01-25",

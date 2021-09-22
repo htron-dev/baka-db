@@ -1,5 +1,9 @@
 {
     "title": "Zutto Suki Suki Daisuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26695.jpg",
+        "alt": "zutto-suki-suki-daisuki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ず～っとすき・すき・だいすきっ",

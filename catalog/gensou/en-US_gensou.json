@@ -1,5 +1,9 @@
 {
     "title": "Gensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163771.jpg",
+        "alt": "gensou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "還相〈げんそう〉―むらかわみちお作品集",

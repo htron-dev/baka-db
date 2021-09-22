@@ -1,5 +1,9 @@
 {
     "title": "Mx0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/55903.jpg",
+        "alt": "mx-0"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "99",

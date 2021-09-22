@@ -1,5 +1,9 @@
 {
     "title": "Gato: Zero Ichi no Senjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216989.jpg",
+        "alt": "gato-zero-ichi-no-senjou"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "Kanojo wa Kannou Shousetsuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/50557.jpg",
+        "alt": "kanojo-wa-kannou-shousetsuka"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "54",

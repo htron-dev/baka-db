@@ -1,5 +1,9 @@
 {
     "title": "Kingyoya Koshoten Suitouchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/76719.jpg",
+        "alt": "kingyoya-koshoten-suitouchou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "金魚屋古書店出納帳",

@@ -1,5 +1,9 @@
 {
     "title": "Gekkousha Boorei Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246598.jpg",
+        "alt": "gekkousha-boorei-kitan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

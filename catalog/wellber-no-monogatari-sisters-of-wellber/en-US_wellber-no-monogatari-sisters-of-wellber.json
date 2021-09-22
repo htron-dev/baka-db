@@ -1,12 +1,16 @@
 {
     "title": "Wellber no Monogatari: Sisters of Wellber",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/23585.jpg",
+        "alt": "wellber-no-monogatari-sisters-of-wellber"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ウエルベールの物語 Sisters of Wellber",
     "start_date": "2007-04-04",
     "end_date": "2007-04-04",
     "opening_song": "\"Theme of Wellber\" by Akio Dobashi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kizuna -eternal rainbow-\" by E.O.D (Eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

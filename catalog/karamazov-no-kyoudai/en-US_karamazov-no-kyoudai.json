@@ -1,5 +1,9 @@
 {
     "title": "Karamazov no Kyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159252.jpg",
+        "alt": "karamazov-no-kyoudai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

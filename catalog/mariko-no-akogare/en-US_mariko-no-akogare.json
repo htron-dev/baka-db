@@ -1,5 +1,9 @@
 {
     "title": "Mariko no Akogare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149170.jpg",
+        "alt": "mariko-no-akogare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

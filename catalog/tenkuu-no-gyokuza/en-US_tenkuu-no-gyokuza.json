@@ -1,5 +1,9 @@
 {
     "title": "Tenkuu no Gyokuza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152633.jpg",
+        "alt": "tenkuu-no-gyokuza"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "56",

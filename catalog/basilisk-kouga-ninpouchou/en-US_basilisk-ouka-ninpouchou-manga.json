@@ -1,5 +1,9 @@
 {
     "title": "Basilisk: Ouka Ninpouchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202900.jpg",
+        "alt": "basilisk-ouka-ninpouchou"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "69",

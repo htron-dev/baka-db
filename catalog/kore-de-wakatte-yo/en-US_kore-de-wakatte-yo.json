@@ -1,5 +1,9 @@
 {
     "title": "Kore de Wakatte yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196396.jpg",
+        "alt": "kore-de-wakatte-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

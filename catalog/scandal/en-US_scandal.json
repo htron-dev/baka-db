@@ -1,5 +1,9 @@
 {
     "title": "Scandal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/15400.jpg",
+        "alt": "scandal"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "SCANDAL",

@@ -1,5 +1,9 @@
 {
     "title": "Shin Bikkuriman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1727/93730.jpg",
+        "alt": "shin-bikkuriman"
+    },
     "type": "tv-serie",
     "episodes": "72",
     "original_name": "新ビックリマン",

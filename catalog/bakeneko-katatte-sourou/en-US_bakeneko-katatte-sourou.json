@@ -1,5 +1,9 @@
 {
     "title": "Bakeneko Katatte Sourou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236814.jpg",
+        "alt": "bakeneko-katatte-sourou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

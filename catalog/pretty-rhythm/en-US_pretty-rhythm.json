@@ -1,5 +1,9 @@
 {
     "title": "Pretty Rhythm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61877.jpg",
+        "alt": "pretty-rhythm"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "24",

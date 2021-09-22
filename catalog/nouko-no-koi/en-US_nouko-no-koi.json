@@ -1,5 +1,9 @@
 {
     "title": "Nouko no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23990.jpg",
+        "alt": "nouko-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

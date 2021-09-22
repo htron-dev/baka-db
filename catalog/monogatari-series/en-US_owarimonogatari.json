@@ -1,11 +1,15 @@
 {
     "title": "Owarimonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/76479.jpg",
+        "alt": "owarimonogatari"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "終物語",
     "start_date": "2015-10-04",
     "end_date": "2015-10-04",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Decent Black\" by Ougi Oshino (Kaori Mizuhashi) (ep 1)",
     "ending_song": "\"Sayonara no Yukue (さよならのゆくえ)\" by Alisa Takigawa",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Monogatari_(series"
+            "link": "http://en.wikipedia.org/wiki/Monogatari_%28series%29"
         }
     ]
 }

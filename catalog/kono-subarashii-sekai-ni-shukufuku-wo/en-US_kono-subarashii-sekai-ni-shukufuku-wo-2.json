@@ -1,12 +1,16 @@
 {
     "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/83188.jpg",
+        "alt": "kono-subarashii-sekai-ni-shukufuku-wo-2"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "この素晴らしい世界に祝福を！ 2",
     "start_date": "2017-01-12",
     "end_date": "2017-01-12",
     "opening_song": "\"TOMORROW\" by Machico (ep 2-4, 6-9)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"TOMORROW\" by Machico (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

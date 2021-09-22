@@ -1,5 +1,9 @@
 {
     "title": "Keiji Yugami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199274.jpg",
+        "alt": "keiji-yugami"
+    },
     "type": "manga",
     "original_name": "刑事ゆがみ",
     "start_date": "2016-05-02",

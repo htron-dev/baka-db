@@ -1,5 +1,9 @@
 {
     "title": "Strait Jacket",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96489.jpg",
+        "alt": "strait-jacket"
+    },
     "type": "light-novel",
     "volumes": "11",
     "original_name": "ストレイト・ジャケット",

@@ -1,5 +1,9 @@
 {
     "title": "Hisui no Tameiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20548.jpg",
+        "alt": "hisui-no-tameiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

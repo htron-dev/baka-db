@@ -1,5 +1,9 @@
 {
     "title": "Masou Gakuen HxH",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/80262.jpg",
+        "alt": "masou-gakuen-hx-h"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "魔装学園 H×H",

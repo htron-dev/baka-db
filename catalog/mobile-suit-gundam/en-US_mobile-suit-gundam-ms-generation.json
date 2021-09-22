@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam: MS Generation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27523.jpg",
+        "alt": "mobile-suit-gundam-ms-generation"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

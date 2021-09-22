@@ -1,5 +1,9 @@
 {
     "title": "Hit Chart wo Kakenukero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23554.jpg",
+        "alt": "hit-chart-wo-kakenukero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

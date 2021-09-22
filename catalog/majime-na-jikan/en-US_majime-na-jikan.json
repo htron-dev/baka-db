@@ -1,5 +1,9 @@
 {
     "title": "Majime na Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82596.jpg",
+        "alt": "majime-na-jikan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Mameshiba Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/80674.jpg",
+        "alt": "mameshiba-gakuen"
+    },
     "type": "special",
     "episodes": "8",
     "original_name": "豆しば学園",
@@ -22,7 +26,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Mameshiba_(character"
+            "link": "https://en.wikipedia.org/wiki/Mameshiba_%28character%29"
         }
     ]
 }

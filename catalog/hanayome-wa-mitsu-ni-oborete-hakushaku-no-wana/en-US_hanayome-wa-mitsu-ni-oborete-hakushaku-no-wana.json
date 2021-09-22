@@ -1,5 +1,9 @@
 {
     "title": "Hanayome wa Mitsu ni Oborete: Hakushaku no Wana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192328.jpg",
+        "alt": "hanayome-wa-mitsu-ni-oborete-hakushaku-no-wana"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

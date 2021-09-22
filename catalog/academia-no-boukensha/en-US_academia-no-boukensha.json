@@ -1,5 +1,9 @@
 {
     "title": "Academia no Boukensha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28379.jpg",
+        "alt": "academia-no-boukensha"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "アカデメイアの冒険者",

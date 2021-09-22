@@ -1,12 +1,16 @@
 {
     "title": "Digimon Universe: Appli Monsters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/84900.jpg",
+        "alt": "digimon-universe-appli-monsters"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "デジモンユニバース アプリモンスターズ",
     "start_date": "2016-10-01",
     "end_date": "2016-10-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"DiVE!!\" by Amatsuki",
+    "ending_song": "#1: \"Aoi Honoo no Syndrome (青い炎のシンドローム)\" by Riho Iida (eps 1-13)",
     "rating": "PG - Children",
     "tags": [
         "action",

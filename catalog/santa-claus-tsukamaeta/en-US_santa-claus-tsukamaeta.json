@@ -1,5 +1,9 @@
 {
     "title": "Santa Claus Tsukamaeta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1870/112393.jpg",
+        "alt": "santa-claus-tsukamaeta"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "サンタクロースつかまえた ！",

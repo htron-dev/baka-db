@@ -1,5 +1,9 @@
 {
     "title": "Animetamae! Tensei no Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179849.jpg",
+        "alt": "animetamae-tensei-no-miko"
+    },
     "type": "manga",
     "original_name": "あにめたまえ! 天声の巫女",
     "start_date": "2012-11-26",

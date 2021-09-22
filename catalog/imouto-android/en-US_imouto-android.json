@@ -1,5 +1,9 @@
 {
     "title": "Imouto! Android",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134413.jpg",
+        "alt": "imouto-android"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "51",

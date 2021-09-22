@@ -1,5 +1,9 @@
 {
     "title": "Redline",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/28553.jpg",
+        "alt": "redline"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "REDLINE",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Redline_(2009_film"
+            "link": "http://en.wikipedia.org/wiki/Redline_%282009_film%29"
         }
     ]
 }

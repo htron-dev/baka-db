@@ -1,5 +1,9 @@
 {
     "title": "Dantotsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136969.jpg",
+        "alt": "dantotsu"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "ダントツ",

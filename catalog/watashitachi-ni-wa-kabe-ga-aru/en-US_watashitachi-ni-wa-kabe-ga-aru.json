@@ -1,5 +1,9 @@
 {
     "title": "Watashitachi ni wa Kabe ga Aru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147349.jpg",
+        "alt": "watashitachi-ni-wa-kabe-ga-aru"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "33",

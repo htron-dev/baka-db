@@ -1,5 +1,9 @@
 {
     "title": "Mushishi Tokubetsu-hen: Hihamukage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123403.jpg",
+        "alt": "mushishi-tokubetsu-hen-hihamukage"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

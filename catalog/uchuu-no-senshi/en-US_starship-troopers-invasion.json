@@ -1,5 +1,9 @@
 {
     "title": "Starship Troopers: Invasion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1698/95973.jpg",
+        "alt": "starship-troopers-invasion"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "スターシップ・トゥルーパーズ インベイジョン",

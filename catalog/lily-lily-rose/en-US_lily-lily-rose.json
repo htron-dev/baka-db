@@ -1,5 +1,9 @@
 {
     "title": "Lily Lily Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205019.jpg",
+        "alt": "lily-lily-rose"
+    },
     "type": "manga",
     "original_name": "Lily lily rose",
     "start_date": "2016-12-02",

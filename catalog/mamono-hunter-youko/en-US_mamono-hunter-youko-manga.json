@@ -1,5 +1,9 @@
 {
     "title": "Mamono Hunter Youko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35045.jpg",
+        "alt": "mamono-hunter-youko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

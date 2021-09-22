@@ -1,5 +1,9 @@
 {
     "title": "X Densha de Ikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2022.jpg",
+        "alt": "x-densha-de-ikou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "X 電車で行こう",

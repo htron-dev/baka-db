@@ -1,5 +1,9 @@
 {
     "title": "Sora no Iro ni Niteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38154.jpg",
+        "alt": "sora-no-iro-ni-niteiru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "空の色ににている",

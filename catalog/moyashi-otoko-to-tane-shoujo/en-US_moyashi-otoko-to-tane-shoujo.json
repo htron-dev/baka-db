@@ -1,5 +1,9 @@
 {
     "title": "Moyashi Otoko to Tane Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/73137.jpg",
+        "alt": "moyashi-otoko-to-tane-shoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

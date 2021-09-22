@@ -1,5 +1,9 @@
 {
     "title": "Icarus no Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161142.jpg",
+        "alt": "icarus-no-musume"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

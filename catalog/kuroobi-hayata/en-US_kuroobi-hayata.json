@@ -1,5 +1,9 @@
 {
     "title": "Kuroobi! Hayata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176370.jpg",
+        "alt": "kuroobi-hayata"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "36",

@@ -1,5 +1,9 @@
 {
     "title": "Nishio no Yatsuzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/88415.jpg",
+        "alt": "nishio-no-yatsuzou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "西尾の八ッ蔵",

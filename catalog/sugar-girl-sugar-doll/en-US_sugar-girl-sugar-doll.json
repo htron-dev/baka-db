@@ -1,5 +1,9 @@
 {
     "title": "Sugar Girl, Sugar Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164271.jpg",
+        "alt": "sugar-girl-sugar-doll"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Air Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162278.jpg",
+        "alt": "air-master"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "254",

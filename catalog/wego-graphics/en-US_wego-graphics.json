@@ -1,5 +1,9 @@
 {
     "title": "Wego Graphics",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1517/96918.jpg",
+        "alt": "wego-graphics"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "WEGO GRAPHICS",

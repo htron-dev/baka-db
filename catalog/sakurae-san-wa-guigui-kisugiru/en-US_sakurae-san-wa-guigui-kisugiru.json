@@ -1,5 +1,9 @@
 {
     "title": "Sakurae-san wa Guigui Kisugiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227062.jpg",
+        "alt": "sakurae-san-wa-guigui-kisugiru"
+    },
     "type": "manga",
     "original_name": "さくら江さんはグイグイ来すぎる。",
     "start_date": "2018-07-10",

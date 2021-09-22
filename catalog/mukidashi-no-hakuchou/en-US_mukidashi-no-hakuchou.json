@@ -1,5 +1,9 @@
 {
     "title": "Mukidashi no Hakuchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207426.jpg",
+        "alt": "mukidashi-no-hakuchou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "48",

@@ -1,5 +1,9 @@
 {
     "title": "Yuugo Final",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157036.jpg",
+        "alt": "yuugo-final"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

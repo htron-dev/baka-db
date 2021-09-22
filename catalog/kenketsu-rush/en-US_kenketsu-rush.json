@@ -1,5 +1,9 @@
 {
     "title": "Kenketsu Rush",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15309.jpg",
+        "alt": "kenketsu-rush"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

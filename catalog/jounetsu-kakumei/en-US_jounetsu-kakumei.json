@@ -1,5 +1,9 @@
 {
     "title": "Jounetsu Kakumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40528.jpg",
+        "alt": "jounetsu-kakumei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

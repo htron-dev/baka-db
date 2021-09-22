@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Kyojin Season 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/84177.jpg",
+        "alt": "shingeki-no-kyojin-season-2"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "進撃の巨人 Season2",

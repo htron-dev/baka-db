@@ -1,5 +1,9 @@
 {
     "title": "Ou-sama Ninatta Kitsune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/72001.jpg",
+        "alt": "ou-sama-ninatta-kitsune"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "王様になった狐",

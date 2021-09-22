@@ -1,12 +1,16 @@
 {
     "title": "Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/85260.jpg",
+        "alt": "shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "終末なにしてますか？忙しいですか？救ってもらっていいですか？",
     "start_date": "2017-04-11",
     "end_date": "2017-04-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Scarborough Fair\" by Tamaru Yamada (ep 1)",
+    "ending_song": "#1: \"From (フロム)\" by TRUE (eps 1-5, 7-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

@@ -1,5 +1,9 @@
 {
     "title": "Noel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192179.jpg",
+        "alt": "noel"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

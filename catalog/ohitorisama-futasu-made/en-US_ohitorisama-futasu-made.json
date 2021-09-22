@@ -1,5 +1,9 @@
 {
     "title": "Ohitorisama Futasu made!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31290.jpg",
+        "alt": "ohitorisama-futasu-made"
+    },
     "type": "manga",
     "original_name": "ママとミツバのビンボフル・ワンダフル; お一人様二つまで",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Macross Δ: Ginga wo Michibiku Utahime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185131.jpg",
+        "alt": "macross-δ-ginga-wo-michibiku-utahime"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

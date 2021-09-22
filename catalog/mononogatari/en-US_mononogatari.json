@@ -1,5 +1,9 @@
 {
     "title": "Mononogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158505.jpg",
+        "alt": "mononogatari"
+    },
     "type": "manga",
     "original_name": "もののがたり",
     "start_date": "2014-04-15",

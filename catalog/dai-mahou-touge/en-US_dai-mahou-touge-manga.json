@@ -1,5 +1,9 @@
 {
     "title": "Dai Mahou Touge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180913.jpg",
+        "alt": "dai-mahou-touge"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

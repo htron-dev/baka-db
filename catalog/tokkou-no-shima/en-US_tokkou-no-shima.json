@@ -1,5 +1,9 @@
 {
     "title": "Tokkou no Shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204380.jpg",
+        "alt": "tokkou-no-shima"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "70",

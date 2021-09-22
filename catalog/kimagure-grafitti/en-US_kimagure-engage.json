@@ -1,5 +1,9 @@
 {
     "title": "Kimagure Engage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/8054.jpg",
+        "alt": "kimagure-engage"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "気まぐれエンゲージ",

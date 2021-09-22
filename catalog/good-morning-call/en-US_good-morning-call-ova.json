@@ -1,5 +1,9 @@
 {
     "title": "Good Morning Call",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/4064.jpg",
+        "alt": "good-morning-call"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "グッドモーニング・コール",

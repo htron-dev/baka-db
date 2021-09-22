@@ -1,5 +1,9 @@
 {
     "title": "Mai-HiME Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/3569.jpg",
+        "alt": "mai-hi-me-specials"
+    },
     "type": "special",
     "episodes": "27",
     "original_name": "舞-HiME",

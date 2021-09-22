@@ -1,5 +1,9 @@
 {
     "title": "Nekketsu Uchuujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1655/113432.jpg",
+        "alt": "nekketsu-uchuujin"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "熱血宇宙人",

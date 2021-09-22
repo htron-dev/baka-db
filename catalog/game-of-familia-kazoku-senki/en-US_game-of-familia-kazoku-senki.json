@@ -1,5 +1,9 @@
 {
     "title": "Game of Familia: Kazoku Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/218270.jpg",
+        "alt": "game-of-familia-kazoku-senki"
+    },
     "type": "manga",
     "original_name": "ゲーム　オブ　ファミリア-家族戦記-",
     "start_date": "2018-05-09",

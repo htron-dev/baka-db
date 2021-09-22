@@ -1,5 +1,9 @@
 {
     "title": "Ikki Mandara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/191338.jpg",
+        "alt": "ikki-mandara"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

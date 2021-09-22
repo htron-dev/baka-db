@@ -1,5 +1,9 @@
 {
     "title": "Gesshoku Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200625.jpg",
+        "alt": "gesshoku-kitan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

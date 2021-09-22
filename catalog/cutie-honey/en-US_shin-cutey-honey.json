@@ -1,12 +1,16 @@
 {
     "title": "Shin Cutey Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1133/94174.jpg",
+        "alt": "shin-cutey-honey"
+    },
     "type": "ova",
     "episodes": "8",
     "original_name": "新・キューティーハニー",
     "start_date": "1994-04-21",
     "end_date": "1994-04-21",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Cutey Honey\" by les 5-4-3-2-1 (eps 1-4)",
+    "ending_song": "#1: \"Circle Game\" by les 5-4-3-2-1 (eps 1-2)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "adventure",

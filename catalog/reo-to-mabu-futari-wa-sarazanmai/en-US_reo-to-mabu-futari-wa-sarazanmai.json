@@ -1,5 +1,9 @@
 {
     "title": "Reo to Mabu: Futari wa Sarazanmai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219469.jpg",
+        "alt": "reo-to-mabu-futari-wa-sarazanmai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

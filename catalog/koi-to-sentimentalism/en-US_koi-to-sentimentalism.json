@@ -1,5 +1,9 @@
 {
     "title": "Koi to Sentimentalism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/90817.jpg",
+        "alt": "koi-to-sentimentalism"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋とセンチメンタリズム",

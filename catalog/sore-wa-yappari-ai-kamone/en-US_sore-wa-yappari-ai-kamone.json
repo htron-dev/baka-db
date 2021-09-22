@@ -1,5 +1,9 @@
 {
     "title": "Sore wa Yappari Ai Kamone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2212.jpg",
+        "alt": "sore-wa-yappari-ai-kamone"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

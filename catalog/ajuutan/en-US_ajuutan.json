@@ -1,5 +1,9 @@
 {
     "title": "Ajuutan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198725.jpg",
+        "alt": "ajuutan"
+    },
     "type": "manga",
     "original_name": "亜獣譚",
     "start_date": "2016-12-11",

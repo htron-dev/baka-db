@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Ekohiiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197607.jpg",
+        "alt": "kamisama-no-ekohiiki"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

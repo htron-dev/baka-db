@@ -1,5 +1,9 @@
 {
     "title": "Food Hunter Futaraiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39177.jpg",
+        "alt": "food-hunter-futaraiden"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "フードハンター双雷伝",

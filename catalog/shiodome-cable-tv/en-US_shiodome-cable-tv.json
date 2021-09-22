@@ -1,5 +1,9 @@
 {
     "title": "Shiodome Cable TV",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/29262.jpg",
+        "alt": "shiodome-cable-tv"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "汐留ケーブルテレビ",

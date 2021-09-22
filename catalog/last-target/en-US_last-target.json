@@ -1,5 +1,9 @@
 {
     "title": "Last Target",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5482.jpg",
+        "alt": "last-target"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

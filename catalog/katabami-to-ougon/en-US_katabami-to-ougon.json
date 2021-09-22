@@ -1,5 +1,9 @@
 {
     "title": "Katabami to Ougon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221541.jpg",
+        "alt": "katabami-to-ougon"
+    },
     "type": "manga",
     "original_name": "片喰と黄金",
     "start_date": "2019-03-19",

@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Doumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233694.jpg",
+        "alt": "hatsukoi-doumei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

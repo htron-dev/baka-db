@@ -1,5 +1,9 @@
 {
     "title": "Shujuu na Doukyuusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158969.jpg",
+        "alt": "shujuu-na-doukyuusei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

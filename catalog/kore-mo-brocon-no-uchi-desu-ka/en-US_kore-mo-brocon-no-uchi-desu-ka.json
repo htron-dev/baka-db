@@ -1,5 +1,9 @@
 {
     "title": "Kore mo Brocon no Uchi desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241245.jpg",
+        "alt": "kore-mo-brocon-no-uchi-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

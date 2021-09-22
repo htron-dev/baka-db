@@ -1,5 +1,9 @@
 {
     "title": "Nekomata.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194190.jpg",
+        "alt": "nekomata"
+    },
     "type": "manga",
     "original_name": "ねこまた。",
     "start_date": "2013-01-11",

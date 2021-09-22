@@ -1,5 +1,9 @@
 {
     "title": "Sanjin Sadou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131611.jpg",
+        "alt": "sanjin-sadou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

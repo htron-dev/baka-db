@@ -1,5 +1,9 @@
 {
     "title": "Kaijuu no Tail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22952.jpg",
+        "alt": "kaijuu-no-tail"
+    },
     "type": "manga",
     "original_name": "快獣のテイル",
     "tags": [

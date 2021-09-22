@@ -1,5 +1,9 @@
 {
     "title": "Mustard Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131727.jpg",
+        "alt": "mustard-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マスタード・ハニー",

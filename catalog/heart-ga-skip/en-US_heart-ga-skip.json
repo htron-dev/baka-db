@@ -1,5 +1,9 @@
 {
     "title": "Heart ga Skip!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26668.jpg",
+        "alt": "heart-ga-skip"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ハートが SKIP！",

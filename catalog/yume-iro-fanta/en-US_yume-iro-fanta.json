@@ -1,5 +1,9 @@
 {
     "title": "Yume-Iro Fanta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27061.jpg",
+        "alt": "yume-iro-fanta"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "40",

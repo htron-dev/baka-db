@@ -1,5 +1,9 @@
 {
     "title": "Masou Gakuen HxH Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/83016.jpg",
+        "alt": "masou-gakuen-hx-h-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "魔装学園 H×H",

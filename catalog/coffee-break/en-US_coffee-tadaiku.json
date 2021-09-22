@@ -1,5 +1,9 @@
 {
     "title": "Coffee Tadaiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/71437.jpg",
+        "alt": "coffee-tadaiku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "コーヒータダイク",

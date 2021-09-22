@@ -1,5 +1,9 @@
 {
     "title": "Hajime no Ippo: Rising",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/56147.jpg",
+        "alt": "hajime-no-ippo-rising"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "はじめの一歩 Rising",

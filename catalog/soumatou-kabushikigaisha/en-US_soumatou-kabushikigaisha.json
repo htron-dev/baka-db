@@ -1,5 +1,9 @@
 {
     "title": "Soumatou Kabushikigaisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144029.jpg",
+        "alt": "soumatou-kabushikigaisha"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "90",

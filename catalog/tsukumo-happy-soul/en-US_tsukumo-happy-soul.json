@@ -1,5 +1,9 @@
 {
     "title": "Tsukumo Happy Soul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67877.jpg",
+        "alt": "tsukumo-happy-soul"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

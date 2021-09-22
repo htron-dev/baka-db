@@ -1,5 +1,9 @@
 {
     "title": "Claymore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/25982.jpg",
+        "alt": "claymore"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "159",

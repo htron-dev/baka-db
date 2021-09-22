@@ -1,5 +1,9 @@
 {
     "title": "Nijiiro Photograph",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222104.jpg",
+        "alt": "nijiiro-photograph"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Megane na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31678.jpg",
+        "alt": "megane-na-kanojo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

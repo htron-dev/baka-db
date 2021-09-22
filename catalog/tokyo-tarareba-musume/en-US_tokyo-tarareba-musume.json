@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Tarareba Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162011.jpg",
+        "alt": "tokyo-tarareba-musume"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "31",

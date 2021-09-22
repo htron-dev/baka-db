@@ -1,5 +1,9 @@
 {
     "title": "Mado",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/69021.jpg",
+        "alt": "mado"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "窓",

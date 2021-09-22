@@ -1,5 +1,9 @@
 {
     "title": "Ningen no Tantei-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216845.jpg",
+        "alt": "ningen-no-tantei-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

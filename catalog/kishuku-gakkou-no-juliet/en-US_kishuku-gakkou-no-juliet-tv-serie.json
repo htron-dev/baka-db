@@ -1,5 +1,9 @@
 {
     "title": "Kishuku Gakkou no Juliet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1908/93416.jpg",
+        "alt": "kishuku-gakkou-no-juliet"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "寄宿学校のジュリエット",

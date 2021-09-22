@@ -1,5 +1,9 @@
 {
     "title": "Gunslinger Stratos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71880.jpg",
+        "alt": "gunslinger-stratos"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ガンスリンガー ストラトス",

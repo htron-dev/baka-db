@@ -1,5 +1,9 @@
 {
     "title": "Hirotta Yajuu ni Horerarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246923.jpg",
+        "alt": "hirotta-yajuu-ni-horerarete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

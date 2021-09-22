@@ -1,5 +1,9 @@
 {
     "title": "365-nichi no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32799.jpg",
+        "alt": "365-nichi-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "365 日の恋人",

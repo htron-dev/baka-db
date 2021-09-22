@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters HG SS: Jou no Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/80007.jpg",
+        "alt": "pocket-monsters-hg-ss-jou-no-daibouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

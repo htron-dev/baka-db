@@ -1,5 +1,9 @@
 {
     "title": "Sumi de Ii desu. Kamawanaide Kudasai yo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225366.jpg",
+        "alt": "sumi-de-ii-desu-kamawanaide-kudasai-yo"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "隅でいいです。構わないでくださいよ。",

@@ -1,5 +1,9 @@
 {
     "title": "Dream Festival! R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/86852.jpg",
+        "alt": "dream-festival-r"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "ドリフェス！R",

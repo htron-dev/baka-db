@@ -1,5 +1,9 @@
 {
     "title": "Koi wo Suru no ga Shigoto desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57223.jpg",
+        "alt": "koi-wo-suru-no-ga-shigoto-desu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Memory of Red",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/74283.jpg",
+        "alt": "memory-of-red"
+    },
     "type": "movie",
     "episodes": "1",
     "start_date": "2004-01-20",

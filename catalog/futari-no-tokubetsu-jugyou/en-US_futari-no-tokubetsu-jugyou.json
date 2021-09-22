@@ -1,5 +1,9 @@
 {
     "title": "Futari no Tokubetsu Jugyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174152.jpg",
+        "alt": "futari-no-tokubetsu-jugyou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ふたりの特別授業",

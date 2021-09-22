@@ -1,5 +1,9 @@
 {
     "title": "Jabberwocky 1914",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164789.jpg",
+        "alt": "jabberwocky-1914"
+    },
     "type": "manga",
     "original_name": "ジャバウォッキー 1914",
     "start_date": "2014-07-07",

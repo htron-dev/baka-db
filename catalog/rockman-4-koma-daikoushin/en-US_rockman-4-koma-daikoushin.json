@@ -1,5 +1,9 @@
 {
     "title": "Rockman: 4-koma Daikoushin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38838.jpg",
+        "alt": "rockman-4-koma-daikoushin"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ロックマン 4 コマ大行進",

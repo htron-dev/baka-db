@@ -1,5 +1,9 @@
 {
     "title": "Koi-ken!: Watashitachi Anime ni Nacchatta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/39121.jpg",
+        "alt": "koi-ken-watashitachi-anime-ni-nacchatta"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "こいけん！～私たちアニメになっちゃった！～",

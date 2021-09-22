@@ -1,5 +1,9 @@
 {
     "title": "Haikara†mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/45278.jpg",
+        "alt": "haikara-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Koguresou Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58813.jpg",
+        "alt": "koguresou-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

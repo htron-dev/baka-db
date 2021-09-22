@@ -1,5 +1,9 @@
 {
     "title": "Couple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19703.jpg",
+        "alt": "couple"
+    },
     "type": "manhwa",
     "volumes": "4",
     "original_name": "Couple",

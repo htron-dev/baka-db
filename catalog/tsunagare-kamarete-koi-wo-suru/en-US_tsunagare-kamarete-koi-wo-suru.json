@@ -1,5 +1,9 @@
 {
     "title": "Tsunagare Kamarete Koi wo Suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224931.jpg",
+        "alt": "tsunagare-kamarete-koi-wo-suru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

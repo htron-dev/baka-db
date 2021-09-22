@@ -1,5 +1,9 @@
 {
     "title": "Shakunetsu Kabaddi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1936/114022.jpg",
+        "alt": "shakunetsu-kabaddi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "灼熱カバディ",

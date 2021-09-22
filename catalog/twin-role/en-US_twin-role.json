@@ -1,5 +1,9 @@
 {
     "title": "Twin Role",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206966.jpg",
+        "alt": "twin-role"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

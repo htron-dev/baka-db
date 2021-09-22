@@ -1,5 +1,9 @@
 {
     "title": "Utakata no Uroko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224751.jpg",
+        "alt": "utakata-no-uroko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

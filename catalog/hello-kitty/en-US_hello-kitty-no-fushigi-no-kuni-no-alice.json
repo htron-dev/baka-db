@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Fushigi no Kuni no Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/42339.jpg",
+        "alt": "hello-kitty-no-fushigi-no-kuni-no-alice"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティの不思議の国のアリス",

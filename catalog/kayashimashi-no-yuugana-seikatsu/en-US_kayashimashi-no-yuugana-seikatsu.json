@@ -1,5 +1,9 @@
 {
     "title": "Kayashimashi no Yuugana Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25318.jpg",
+        "alt": "kayashimashi-no-yuugana-seikatsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

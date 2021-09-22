@@ -1,5 +1,9 @@
 {
     "title": "Baito de Wizard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135219.jpg",
+        "alt": "baito-de-wizard"
+    },
     "type": "light-novel",
     "volumes": "14",
     "chapters": "71",

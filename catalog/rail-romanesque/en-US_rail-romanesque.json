@@ -1,11 +1,15 @@
 {
     "title": "Rail Romanesque",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1858/113920.jpg",
+        "alt": "rail-romanesque"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "レヱル・ロマネスク",
     "start_date": "2020-10-03",
     "end_date": "2020-10-03",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Wonderful Rail\" by Ayumi. (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life"

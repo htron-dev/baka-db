@@ -1,5 +1,9 @@
 {
     "title": "B'T X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205170.jpg",
+        "alt": "bt-x"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "63",

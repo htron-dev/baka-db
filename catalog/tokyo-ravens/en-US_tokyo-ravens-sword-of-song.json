@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ravens: Sword of Song",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162303.jpg",
+        "alt": "tokyo-ravens-sword-of-song"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

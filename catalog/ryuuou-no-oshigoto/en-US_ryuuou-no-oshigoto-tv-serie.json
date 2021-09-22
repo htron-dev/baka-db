@@ -1,12 +1,16 @@
 {
     "title": "Ryuuou no Oshigoto!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/89979.jpg",
+        "alt": "ryuuou-no-oshigoto"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "りゅうおうのおしごと！",
     "start_date": "2018-01-08",
     "end_date": "2018-01-08",
     "opening_song": "\"Korekara (コレカラ)\" by Machico",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kore kara (コレカラ)\" by Machico (eps 1, 3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Lunfor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128471.jpg",
+        "alt": "lunfor"
+    },
     "type": "manga",
     "original_name": "鸞鳳 LUNFOR",
     "start_date": "2013-11-12",

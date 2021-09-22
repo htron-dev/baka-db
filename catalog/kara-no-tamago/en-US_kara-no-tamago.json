@@ -1,5 +1,9 @@
 {
     "title": "Kara no Tamago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1387/97552.jpg",
+        "alt": "kara-no-tamago"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "空の卵",

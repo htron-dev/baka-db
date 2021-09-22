@@ -1,5 +1,9 @@
 {
     "title": "Yume Senshi Wingman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75183.jpg",
+        "alt": "yume-senshi-wingman"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "夢戦士ウイングマン",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Wingman_(manga"
+            "link": "http://en.wikipedia.org/wiki/Wingman_%28manga%29"
         }
     ]
 }

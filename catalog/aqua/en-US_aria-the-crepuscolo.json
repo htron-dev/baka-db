@@ -1,5 +1,9 @@
 {
     "title": "Aria the Crepuscolo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1934/111002.jpg",
+        "alt": "aria-the-crepuscolo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ARIA The CREPUSCOLO",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Aria_(manga"
+            "link": "https://en.wikipedia.org/wiki/Aria_%28manga%29#Anime"
         }
     ]
 }

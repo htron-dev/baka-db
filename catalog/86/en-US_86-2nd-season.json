@@ -1,5 +1,9 @@
 {
     "title": "86 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1321/117508.jpg",
+        "alt": "86-2nd-season"
+    },
     "type": "tv-serie",
     "original_name": "86―エイティシックス―",
     "start_date": "2021-10-20",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/86_(novel_series"
+            "link": "https://en.wikipedia.org/wiki/86_%28novel_series%29#Anime"
         }
     ]
 }

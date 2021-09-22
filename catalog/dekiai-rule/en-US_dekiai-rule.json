@@ -1,5 +1,9 @@
 {
     "title": "Dekiai Rule",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24565.jpg",
+        "alt": "dekiai-rule"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

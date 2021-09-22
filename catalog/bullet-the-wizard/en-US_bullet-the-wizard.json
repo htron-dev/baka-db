@@ -1,5 +1,9 @@
 {
     "title": "Bullet the Wizard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183121.jpg",
+        "alt": "bullet-the-wizard"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

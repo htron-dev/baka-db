@@ -1,5 +1,9 @@
 {
     "title": "Ichioku Hensai Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114775.jpg",
+        "alt": "ichioku-hensai-nikki"
+    },
     "type": "manga",
     "original_name": "壱億返済日記",
     "start_date": "2010-12-28",

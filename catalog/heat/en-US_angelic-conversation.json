@@ -1,5 +1,9 @@
 {
     "title": "Angelic Conversation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16499.jpg",
+        "alt": "angelic-conversation"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Mama no Ojisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36859.jpg",
+        "alt": "mama-no-ojisama"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ママの王子さま M",
@@ -12,7 +16,6 @@
         "Abe",
         "Ritsuko (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

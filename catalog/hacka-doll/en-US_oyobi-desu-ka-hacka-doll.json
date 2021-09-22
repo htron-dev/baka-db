@@ -1,5 +1,9 @@
 {
     "title": "Oyobi desu ka!? Hacka Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164007.jpg",
+        "alt": "oyobi-desu-ka-hacka-doll"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

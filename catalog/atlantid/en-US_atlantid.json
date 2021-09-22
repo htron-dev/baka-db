@@ -1,5 +1,9 @@
 {
     "title": "Atlantid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174002.jpg",
+        "alt": "atlantid"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

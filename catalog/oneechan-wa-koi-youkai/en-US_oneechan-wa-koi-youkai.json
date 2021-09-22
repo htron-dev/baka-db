@@ -1,5 +1,9 @@
 {
     "title": "Oneechan wa Koi Youkai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222767.jpg",
+        "alt": "oneechan-wa-koi-youkai"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "100",

@@ -1,5 +1,9 @@
 {
     "title": "iShoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131607.jpg",
+        "alt": "i-shoujo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

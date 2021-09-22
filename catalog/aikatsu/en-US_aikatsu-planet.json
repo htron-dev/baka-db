@@ -1,5 +1,9 @@
 {
     "title": "Aikatsu Planet!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1319/111189.jpg",
+        "alt": "aikatsu-planet"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "アイカツプラネット！",

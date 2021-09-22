@@ -1,5 +1,9 @@
 {
     "title": "Ouka Toga no Chigiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237467.jpg",
+        "alt": "ouka-toga-no-chigiri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Elec-king The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/50731.jpg",
+        "alt": "elec-king-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "エレキング The Animation",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%B3%E3%82%B0_(%E6%BC%AB%E7%94%BB"
+            "link": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%B3%E3%82%B0_%28%E6%BC%AB%E7%94%BB%29#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
         }
     ]
 }

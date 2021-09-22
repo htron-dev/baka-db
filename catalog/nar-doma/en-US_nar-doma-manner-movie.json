@@ -1,5 +1,9 @@
 {
     "title": "Nar Doma Manner Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/77480.jpg",
+        "alt": "nar-doma-manner-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ナルどマ マナームービー",

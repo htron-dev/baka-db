@@ -1,12 +1,16 @@
 {
     "title": "BlazBlue: Alter Memory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/56137.jpg",
+        "alt": "blaz-blue-alter-memory"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ブレイブルー オルターメモリー",
     "start_date": "2013-10-09",
     "end_date": "2013-10-09",
     "opening_song": "\"BLUE BLAZE\" by Faylan",
-    "ending_song": "#1",
+    "ending_song": "#1: \"REINCARNATION BLUE\" by Aira Yuuki (eps 1-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

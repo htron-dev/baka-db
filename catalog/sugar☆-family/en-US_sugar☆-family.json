@@ -1,5 +1,9 @@
 {
     "title": "Sugar☆Family",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245006.jpg",
+        "alt": "sugar☆-family"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

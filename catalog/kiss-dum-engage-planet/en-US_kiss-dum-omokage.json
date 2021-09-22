@@ -1,8 +1,12 @@
 {
     "title": "Kiss Dum: Omokage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/69105.jpg",
+        "alt": "kiss-dum-omokage"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "キスダム",
+    "original_name": "キスダム: オモカゲ",
     "start_date": "2011-09-29",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Junjou Sentai Virginias",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235526.jpg",
+        "alt": "junjou-sentai-virginias"
+    },
     "type": "manga",
     "original_name": "純情戦隊ヴァージニアス",
     "start_date": "2019-04-25",

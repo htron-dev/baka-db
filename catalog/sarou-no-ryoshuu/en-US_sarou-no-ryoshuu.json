@@ -1,5 +1,9 @@
 {
     "title": "Sarou no Ryoshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2740.jpg",
+        "alt": "sarou-no-ryoshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,11 +1,15 @@
 {
     "title": "Oz no Mahoutsukai (1986)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/64339.jpg",
+        "alt": "oz-no-mahoutsukai-1986"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "オズの魔法使い",
     "start_date": "1986-10-06",
     "end_date": "1986-10-06",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Fancy Girl (ファンシーガール)\" by Satoko Yamano",
     "ending_song": "\"Mahou no Crayon (魔法のクレヨン)\" by Kumiko Oosugi, Ema Oosugi",
     "rating": "G - All Ages",
     "tags": [

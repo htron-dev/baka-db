@@ -1,5 +1,9 @@
 {
     "title": "Torotoro♥Himeawase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136631.jpg",
+        "alt": "torotoro♥-himeawase"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

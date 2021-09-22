@@ -1,5 +1,9 @@
 {
     "title": "Yondaime Ooyamato Tatsuyuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166039.jpg",
+        "alt": "yondaime-ooyamato-tatsuyuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Kirara Fantasia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239491.jpg",
+        "alt": "kirara-fantasia"
+    },
     "type": "manga",
     "original_name": "きららファンタジア",
     "start_date": "2019-10-08",

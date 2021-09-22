@@ -1,5 +1,9 @@
 {
     "title": "Shinigami to Chocolate Parfait",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17468.jpg",
+        "alt": "shinigami-to-chocolate-parfait"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

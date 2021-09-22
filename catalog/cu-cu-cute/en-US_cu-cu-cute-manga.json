@@ -1,5 +1,9 @@
 {
     "title": "Cu-Cu-Cute!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/85585.jpg",
+        "alt": "cu-cu-cute"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "きゅーきゅーキュート!",

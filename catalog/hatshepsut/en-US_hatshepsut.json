@@ -1,5 +1,9 @@
 {
     "title": "Hatshepsut",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/212189.jpg",
+        "alt": "hatshepsut"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

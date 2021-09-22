@@ -1,5 +1,9 @@
 {
     "title": "Hare, Tokidoki Raijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115449.jpg",
+        "alt": "hare-tokidoki-raijin"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "晴れ、ときどき雷神",

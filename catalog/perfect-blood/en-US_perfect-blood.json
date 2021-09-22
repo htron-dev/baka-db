@@ -1,5 +1,9 @@
 {
     "title": "Perfect Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133311.jpg",
+        "alt": "perfect-blood"
+    },
     "type": "light-novel",
     "volumes": "10",
     "original_name": "パーフェクト・ブラッド",

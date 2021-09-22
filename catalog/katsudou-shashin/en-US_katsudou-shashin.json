@@ -1,5 +1,9 @@
 {
     "title": "Katsudou Shashin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1891/109255.jpg",
+        "alt": "katsudou-shashin"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "活動写真",

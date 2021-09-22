@@ -1,5 +1,9 @@
 {
     "title": "Idol Land PriPara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1790/113555.jpg",
+        "alt": "idol-land-pri-para"
+    },
     "type": "ona",
     "original_name": "アイドルランドプリパラ",
     "start_date": "2021-08-18",

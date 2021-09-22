@@ -1,11 +1,15 @@
 {
     "title": "School Rumble: Ichi Gakki Hoshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/75489.jpg",
+        "alt": "school-rumble-ichi-gakki-hoshuu"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "スクールランブル一学期補習",
     "start_date": "2005-12-22",
     "opening_song": "\"Scramble\" by Horie Yui with UNSCANDAL",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ginga Ensen '05\" by Takahashi Hiroki (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

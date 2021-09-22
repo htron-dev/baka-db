@@ -1,5 +1,9 @@
 {
     "title": "Angel Lip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/11530.jpg",
+        "alt": "angel-lip"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "エンジェルリップ",

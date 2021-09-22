@@ -1,5 +1,9 @@
 {
     "title": "Monogusa na Kenja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223282.jpg",
+        "alt": "monogusa-na-kenja"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "ものぐさな賢者",

@@ -1,5 +1,9 @@
 {
     "title": "Onegai Dakara, Ato Gofun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163330.jpg",
+        "alt": "onegai-dakara-ato-gofun"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "お願いだから、あと五分！",

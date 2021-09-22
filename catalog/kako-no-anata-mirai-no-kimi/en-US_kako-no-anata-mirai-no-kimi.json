@@ -1,5 +1,9 @@
 {
     "title": "Kako no Anata, Mirai no Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244190.jpg",
+        "alt": "kako-no-anata-mirai-no-kimi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Yodaka no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/58331.jpg",
+        "alt": "yodaka-no-hoshi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "よだかの星",

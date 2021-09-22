@@ -1,5 +1,9 @@
 {
     "title": "Psycho Romantica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174574.jpg",
+        "alt": "psycho-romantica"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

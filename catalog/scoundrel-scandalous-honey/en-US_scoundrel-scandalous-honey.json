@@ -1,5 +1,9 @@
 {
     "title": "Scoundrel Scandalous Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6695.jpg",
+        "alt": "scoundrel-scandalous-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

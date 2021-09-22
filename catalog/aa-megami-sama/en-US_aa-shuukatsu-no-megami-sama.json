@@ -1,5 +1,9 @@
 {
     "title": "Aa! Shuukatsu no Megami-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223009.jpg",
+        "alt": "aa-shuukatsu-no-megami-sama"
+    },
     "type": "manga",
     "original_name": "ああっ就活の女神さまっ",
     "start_date": "2019-01-25",

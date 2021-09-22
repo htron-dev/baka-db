@@ -1,12 +1,16 @@
 {
     "title": "The Hakkenden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/23958.jpg",
+        "alt": "the-hakkenden"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "THE 八犬伝",
     "start_date": "1990-10-25",
     "end_date": "1990-10-25",
     "opening_song": "\"Red Pinwheel\" by ???",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ame ga mika tzuzu kuto\" by The Tops",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

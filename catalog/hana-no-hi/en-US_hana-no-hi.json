@@ -1,5 +1,9 @@
 {
     "title": "Hana no Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/87253.jpg",
+        "alt": "hana-no-hi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "鼻の日",

@@ -1,5 +1,9 @@
 {
     "title": "Wa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3557.jpg",
+        "alt": "wa"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "와!",

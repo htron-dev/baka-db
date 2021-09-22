@@ -1,5 +1,9 @@
 {
     "title": "Baby Pink KISS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20742.jpg",
+        "alt": "baby-pink-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

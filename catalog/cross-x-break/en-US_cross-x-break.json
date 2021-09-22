@@ -1,5 +1,9 @@
 {
     "title": "Cross X Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21442.jpg",
+        "alt": "cross-x-break"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

@@ -1,12 +1,16 @@
 {
     "title": "Cuticle Tantei Inaba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/73934.jpg",
+        "alt": "cuticle-tantei-inaba"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "キューティクル探偵因幡",
     "start_date": "2013-01-04",
     "end_date": "2013-01-04",
-    "opening_song": "\"Haruka, Nichijou no Naka de (遥か、日常の中で)\" by Hiroshi Inaba (CV",
-    "ending_song": "\"Prima Stella (プリマ・ステラ)\" by Don Valentino (CV",
+    "opening_song": "\"Haruka, Nichijou no Naka de (遥か、日常の中で)\" by Hiroshi Inaba (CV: Junichi Suwabe) (eps 2-12)",
+    "ending_song": "\"Prima Stella (プリマ・ステラ)\" by Don Valentino (CV: Toru Okawa)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

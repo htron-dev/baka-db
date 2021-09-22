@@ -1,5 +1,9 @@
 {
     "title": "Konya mo Warikan de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243171.jpg",
+        "alt": "konya-mo-warikan-de"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

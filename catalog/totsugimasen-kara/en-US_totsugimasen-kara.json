@@ -1,5 +1,9 @@
 {
     "title": "Totsugimasen kara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198149.jpg",
+        "alt": "totsugimasen-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Koro-sensei Q!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186156.jpg",
+        "alt": "koro-sensei-q"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

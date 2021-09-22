@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online: Aincrad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/77727.jpg",
+        "alt": "sword-art-online-aincrad"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

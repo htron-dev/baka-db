@@ -1,5 +1,9 @@
 {
     "title": "Junjou Karen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/92551.jpg",
+        "alt": "junjou-karen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

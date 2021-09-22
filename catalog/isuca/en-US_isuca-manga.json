@@ -1,5 +1,9 @@
 {
     "title": "Isuca",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158619.jpg",
+        "alt": "isuca"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "66",

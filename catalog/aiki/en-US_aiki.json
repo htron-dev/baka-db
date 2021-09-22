@@ -1,5 +1,9 @@
 {
     "title": "Aiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/52449.jpg",
+        "alt": "aiki"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "98",

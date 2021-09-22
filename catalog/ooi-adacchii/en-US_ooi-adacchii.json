@@ -1,5 +1,9 @@
 {
     "title": "Ooi! Adacchii!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/68027.jpg",
+        "alt": "ooi-adacchii"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "おーい! アダッチー",

@@ -1,5 +1,9 @@
 {
     "title": "Doku Tenshi no Shippo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/58307.jpg",
+        "alt": "doku-tenshi-no-shippo"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "毒天使のしっぽ",

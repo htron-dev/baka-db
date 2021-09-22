@@ -1,5 +1,9 @@
 {
     "title": "MahoYome: Aisatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/88136.jpg",
+        "alt": "maho-yome-aisatsu"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "まほよめ 「#0 あいさつ」",

@@ -1,5 +1,9 @@
 {
     "title": "Nekomocoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174639.jpg",
+        "alt": "nekomocoro"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

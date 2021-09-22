@@ -1,5 +1,9 @@
 {
     "title": "Chinomi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221957.jpg",
+        "alt": "chinomi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

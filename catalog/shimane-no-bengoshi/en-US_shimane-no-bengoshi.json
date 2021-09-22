@@ -1,5 +1,9 @@
 {
     "title": "Shimane no Bengoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198956.jpg",
+        "alt": "shimane-no-bengoshi"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "104",

@@ -1,5 +1,9 @@
 {
     "title": "Yoku Oni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167251.jpg",
+        "alt": "yoku-oni"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "30",

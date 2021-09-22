@@ -1,12 +1,16 @@
 {
     "title": "Atashin'chi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/50895.jpg",
+        "alt": "atashinchi"
+    },
     "type": "tv-serie",
     "episodes": "330",
     "original_name": "あたしンち",
     "start_date": "2002-04-19",
     "end_date": "2002-04-19",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Saraba (さらば)\" by Kinmokusei (eps 1-144)",
+    "ending_song": "#1: \"Kite Kite Atashin'chi (来て来てあたしンち)\" by Aya Hirayama (eps 1-161, 328)",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

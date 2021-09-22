@@ -1,5 +1,9 @@
 {
     "title": "Arisa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/111997.jpg",
+        "alt": "arisa"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ア・リ・サ",

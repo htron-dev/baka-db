@@ -1,5 +1,9 @@
 {
     "title": "Orfina Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80207.jpg",
+        "alt": "orfina-saga"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "オルフィーナ SAGA",

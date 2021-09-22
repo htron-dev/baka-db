@@ -1,5 +1,9 @@
 {
     "title": "Jormungand",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177020.jpg",
+        "alt": "jormungand"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "70",

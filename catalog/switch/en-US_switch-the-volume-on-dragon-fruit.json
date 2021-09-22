@@ -1,5 +1,9 @@
 {
     "title": "Switch: the volume on Dragon Fruit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174715.jpg",
+        "alt": "switch-the-volume-on-dragon-fruit"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

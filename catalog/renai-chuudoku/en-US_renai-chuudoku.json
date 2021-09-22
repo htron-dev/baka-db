@@ -1,5 +1,9 @@
 {
     "title": "Renai Chuudoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156581.jpg",
+        "alt": "renai-chuudoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

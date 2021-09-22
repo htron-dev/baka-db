@@ -1,5 +1,9 @@
 {
     "title": "Seifuku x Seifuku x Otokonoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23636.jpg",
+        "alt": "seifuku-x-seifuku-x-otokonoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

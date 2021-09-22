@@ -1,5 +1,9 @@
 {
     "title": "Actor Dance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233400.jpg",
+        "alt": "actor-dance"
+    },
     "type": "manga",
     "original_name": "アクターダンス",
     "start_date": "2019-12-28",

@@ -1,5 +1,9 @@
 {
     "title": "Tenshi wa Maiorita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26728.jpg",
+        "alt": "tenshi-wa-maiorita"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "天使は舞い降りた",

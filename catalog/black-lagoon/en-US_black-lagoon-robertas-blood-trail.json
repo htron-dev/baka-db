@@ -1,12 +1,16 @@
 {
     "title": "Black Lagoon: Roberta's Blood Trail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75529.jpg",
+        "alt": "black-lagoon-robertas-blood-trail"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "BLACK LAGOON Roberta's Blood Trail",
     "start_date": "2010-06-27",
     "end_date": "2010-06-27",
-    "opening_song": "#01",
-    "ending_song": "#1",
+    "opening_song": "#01: \"Red Fraction IO Drive mix\" by MELL",
+    "ending_song": "#1: \"When Johnny Comes Marching Home\" by EDISON",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

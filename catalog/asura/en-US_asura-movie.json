@@ -1,10 +1,14 @@
 {
     "title": "Asura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/44289.jpg",
+        "alt": "asura"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アシュラ",
     "start_date": "2012-09-29",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kibou\" (希望; Hope)\" by Yasuha Kominami",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "drama",

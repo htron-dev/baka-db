@@ -1,5 +1,9 @@
 {
     "title": "Hanaizawa-chou Kouminkan-dayori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225903.jpg",
+        "alt": "hanaizawa-chou-kouminkan-dayori"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

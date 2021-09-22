@@ -1,5 +1,9 @@
 {
     "title": "Miagete Goran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208725.jpg",
+        "alt": "miagete-goran"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "77",

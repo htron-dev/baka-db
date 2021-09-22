@@ -1,5 +1,9 @@
 {
     "title": "Upotte!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163490.jpg",
+        "alt": "upotte"
+    },
     "type": "manga",
     "original_name": "うぽって!!",
     "start_date": "2009-07-04",

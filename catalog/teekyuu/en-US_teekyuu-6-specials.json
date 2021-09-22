@@ -1,5 +1,9 @@
 {
     "title": "Teekyuu 6 Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/78679.jpg",
+        "alt": "teekyuu-6-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "てーきゅう　 6 期　ＴＶ未放送オリジナルエピソードアニメ",
@@ -15,10 +19,6 @@
         {
             "text": "My Anime list",
             "link": "https://myanimelist.net/anime/32816/Teekyuu_6_Specials"
-        },
-        {
-            "text": "Official Site",
-            "link": "http://てーきゅう　５期　ＴＶ未放送オリジナルエピソードアニメ "
         },
         {
             "text": "Wikipedia",

@@ -1,5 +1,9 @@
 {
     "title": "Ippanjin Enpou yori Kaeru. Mata Hatarakaneba!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241037.jpg",
+        "alt": "ippanjin-enpou-yori-kaeru-mata-hatarakaneba"
+    },
     "type": "manga",
     "original_name": "一般人遠方より帰る。また働かねば！",
     "start_date": "2020-06-30",

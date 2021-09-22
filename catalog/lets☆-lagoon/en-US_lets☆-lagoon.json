@@ -1,5 +1,9 @@
 {
     "title": "Let's☆Lagoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215200.jpg",
+        "alt": "lets☆-lagoon"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "68",

@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Fushigi Tanken Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/65129.jpg",
+        "alt": "sekai-no-fushigi-tanken-series"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "世界の不思議・探検シリーズ",

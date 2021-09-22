@@ -1,5 +1,9 @@
 {
     "title": "Bat x Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164415.jpg",
+        "alt": "bat-x-dragon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

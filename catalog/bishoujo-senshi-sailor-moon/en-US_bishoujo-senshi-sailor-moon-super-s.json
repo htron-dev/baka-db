@@ -1,12 +1,16 @@
 {
     "title": "Bishoujo Senshi Sailor Moon SuperS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1600/92253.jpg",
+        "alt": "bishoujo-senshi-sailor-moon-super-s"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "美少女戦士セーラームーン Super S",
     "start_date": "1995-03-04",
     "end_date": "1995-03-04",
     "opening_song": "\"Moonlight Densetsu\" by Moon Lips",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Watashi-tachi ni Naritakute\" by Miwako Fujitani (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

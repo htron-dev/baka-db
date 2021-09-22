@@ -1,5 +1,9 @@
 {
     "title": "QQ Sweeper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150693.jpg",
+        "alt": "qq-sweeper"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

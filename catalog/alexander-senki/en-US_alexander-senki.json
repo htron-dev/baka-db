@@ -1,5 +1,9 @@
 {
     "title": "Alexander Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1108/95688.jpg",
+        "alt": "alexander-senki"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "アレクサンダー戦記",

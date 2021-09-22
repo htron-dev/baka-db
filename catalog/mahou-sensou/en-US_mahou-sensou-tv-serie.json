@@ -1,5 +1,9 @@
 {
     "title": "Mahou Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/58103.jpg",
+        "alt": "mahou-sensou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "魔法戦争",

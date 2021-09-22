@@ -1,5 +1,9 @@
 {
     "title": "Onikirimaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136937.jpg",
+        "alt": "onikirimaru"
+    },
     "type": "manga",
     "volumes": "20",
     "original_name": "鬼切丸",

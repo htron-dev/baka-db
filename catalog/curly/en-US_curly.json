@@ -1,5 +1,9 @@
 {
     "title": "Curly",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/80666.jpg",
+        "alt": "curly"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Curly（カーリー）",

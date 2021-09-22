@@ -1,5 +1,9 @@
 {
     "title": "Koyoi wa Kimi to Chi no Kisu wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/48465.jpg",
+        "alt": "koyoi-wa-kimi-to-chi-no-kisu-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

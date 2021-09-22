@@ -1,5 +1,9 @@
 {
     "title": "Seitokai Tantei Kirika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158193.jpg",
+        "alt": "seitokai-tantei-kirika"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "43",

@@ -1,5 +1,9 @@
 {
     "title": "SOS TV Walpurgis Night Fever",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/24004.jpg",
+        "alt": "sos-tv-walpurgis-night-fever"
+    },
     "type": "ona",
     "episodes": "11",
     "original_name": "ワルプルギスナイトフィーバー",

@@ -1,5 +1,9 @@
 {
     "title": "Zelda no Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33350.jpg",
+        "alt": "zelda-no-densetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ゼルダの伝説",

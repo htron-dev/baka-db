@@ -1,5 +1,9 @@
 {
     "title": "Boku kara Kimi ga Kienai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24389.jpg",
+        "alt": "boku-kara-kimi-ga-kienai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Service Request!: Spica Fudousan Chintai Kanri-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189011.jpg",
+        "alt": "service-request-spica-fudousan-chintai-kanri-bu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

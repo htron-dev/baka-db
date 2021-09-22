@@ -1,5 +1,9 @@
 {
     "title": "Boukenkyou Jidai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36126.jpg",
+        "alt": "boukenkyou-jidai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Ginrou ni Kodoku wo Mita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131957.jpg",
+        "alt": "ginrou-ni-kodoku-wo-mita"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "銀狼に孤独をみた",

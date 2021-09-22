@@ -1,5 +1,9 @@
 {
     "title": "Neko Jockey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1769/114535.jpg",
+        "alt": "neko-jockey"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "猫ジョッキー",

@@ -1,12 +1,16 @@
 {
     "title": "Hana no Mahoutsukai Mary Bell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/27032.jpg",
+        "alt": "hana-no-mahoutsukai-mary-bell"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "花の魔法使いマリーベル",
     "start_date": "1992-02-03",
     "end_date": "1992-02-03",
     "opening_song": "\"Kitto Dekiru ne! (きっと出来るね!)\" by Michiyo Nakajima",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Omoide ni mo Narenai (思い出にもなれない)\" by Michiyo Nakajima (eps 1-29)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

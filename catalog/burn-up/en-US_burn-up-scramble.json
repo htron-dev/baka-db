@@ -1,5 +1,9 @@
 {
     "title": "Burn Up Scramble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/75500.jpg",
+        "alt": "burn-up-scramble"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "バーンナップスクランブル",

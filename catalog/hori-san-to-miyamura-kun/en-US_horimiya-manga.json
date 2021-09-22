@@ -1,5 +1,9 @@
 {
     "title": "Horimiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245008.jpg",
+        "alt": "horimiya"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "125",

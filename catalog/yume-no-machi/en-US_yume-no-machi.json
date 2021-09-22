@@ -1,5 +1,9 @@
 {
     "title": "Yume no Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7737.jpg",
+        "alt": "yume-no-machi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ユメノ街",

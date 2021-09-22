@@ -1,5 +1,9 @@
 {
     "title": "Saibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1056/112684.jpg",
+        "alt": "saibi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "사이비",

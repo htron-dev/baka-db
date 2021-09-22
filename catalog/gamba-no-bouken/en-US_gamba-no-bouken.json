@@ -1,5 +1,9 @@
 {
     "title": "Gamba no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/57873.jpg",
+        "alt": "gamba-no-bouken"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ガンバの冒険",

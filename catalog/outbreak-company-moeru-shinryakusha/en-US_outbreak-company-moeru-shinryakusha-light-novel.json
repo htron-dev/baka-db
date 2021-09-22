@@ -1,5 +1,9 @@
 {
     "title": "Outbreak Company: Moeru Shinryakusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195300.jpg",
+        "alt": "outbreak-company-moeru-shinryakusha"
+    },
     "type": "light-novel",
     "volumes": "18",
     "chapters": "75",

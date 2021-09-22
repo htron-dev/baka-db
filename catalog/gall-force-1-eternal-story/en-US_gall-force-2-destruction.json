@@ -1,5 +1,9 @@
 {
     "title": "Gall Force 2: Destruction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/26520.jpg",
+        "alt": "gall-force-2-destruction"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ガルフォース 2 ディストラクション",

@@ -1,5 +1,9 @@
 {
     "title": "Coupe to BB-dan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162212.jpg",
+        "alt": "coupe-to-bb-dan"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

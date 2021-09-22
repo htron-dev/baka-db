@@ -1,5 +1,9 @@
 {
     "title": "Edo no Tamamono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235179.jpg",
+        "alt": "edo-no-tamamono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

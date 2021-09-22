@@ -1,5 +1,9 @@
 {
     "title": "Uzakoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209490.jpg",
+        "alt": "uzakoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

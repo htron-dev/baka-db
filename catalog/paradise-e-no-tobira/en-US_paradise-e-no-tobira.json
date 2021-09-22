@@ -1,5 +1,9 @@
 {
     "title": "Paradise e No Tobira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23674.jpg",
+        "alt": "paradise-e-no-tobira"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Ryakudatsuou no Inai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230182.jpg",
+        "alt": "ryakudatsuou-no-inai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

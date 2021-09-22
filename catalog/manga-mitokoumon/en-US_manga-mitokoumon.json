@@ -1,5 +1,9 @@
 {
     "title": "Manga Mitokoumon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/72120.jpg",
+        "alt": "manga-mitokoumon"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "まんが水戸黄門",

@@ -1,5 +1,9 @@
 {
     "title": "Kuu ga Ue kara Shitsurei Shimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222149.jpg",
+        "alt": "kuu-ga-ue-kara-shitsurei-shimasu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "24",

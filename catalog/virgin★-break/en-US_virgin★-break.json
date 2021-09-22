@@ -1,5 +1,9 @@
 {
     "title": "Virgin★Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6022.jpg",
+        "alt": "virgin★-break"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

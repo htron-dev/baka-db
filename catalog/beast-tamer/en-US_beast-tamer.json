@@ -1,5 +1,9 @@
 {
     "title": "Beast Tamer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208188.jpg",
+        "alt": "beast-tamer"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

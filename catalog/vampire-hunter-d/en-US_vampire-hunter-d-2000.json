@@ -1,5 +1,9 @@
 {
     "title": "Vampire Hunter D (2000)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/21432.jpg",
+        "alt": "vampire-hunter-d-2000"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "バンパイアハンター D",

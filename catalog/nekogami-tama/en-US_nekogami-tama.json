@@ -1,5 +1,9 @@
 {
     "title": "Nekogami Tama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35157.jpg",
+        "alt": "nekogami-tama"
+    },
     "type": "manga",
     "original_name": "猫神たま",
     "tags": [

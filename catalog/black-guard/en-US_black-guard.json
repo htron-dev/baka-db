@@ -1,5 +1,9 @@
 {
     "title": "Black Guard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247633.jpg",
+        "alt": "black-guard"
+    },
     "type": "manga",
     "original_name": "ブラックガルド",
     "start_date": "2019-09-20",

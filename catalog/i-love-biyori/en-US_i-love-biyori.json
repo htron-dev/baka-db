@@ -1,5 +1,9 @@
 {
     "title": "I Love Biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175523.jpg",
+        "alt": "i-love-biyori"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "45",

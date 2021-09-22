@@ -1,5 +1,9 @@
 {
     "title": "The Naniwa Kinyuudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226809.jpg",
+        "alt": "the-naniwa-kinyuudou"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "45",

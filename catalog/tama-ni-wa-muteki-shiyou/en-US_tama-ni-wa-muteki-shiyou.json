@@ -1,5 +1,9 @@
 {
     "title": "Tama ni wa Muteki Shiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10031.jpg",
+        "alt": "tama-ni-wa-muteki-shiyou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "たまに無敵仕様",

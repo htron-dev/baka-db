@@ -1,5 +1,9 @@
 {
     "title": "Dogs: Stray Dogs Howling in the Dark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/57015.jpg",
+        "alt": "dogs-stray-dogs-howling-in-the-dark"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

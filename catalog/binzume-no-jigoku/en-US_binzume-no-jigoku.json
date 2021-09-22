@@ -1,5 +1,9 @@
 {
     "title": "Binzume no Jigoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150618.jpg",
+        "alt": "binzume-no-jigoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

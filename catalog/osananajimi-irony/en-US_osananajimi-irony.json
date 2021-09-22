@@ -1,5 +1,9 @@
 {
     "title": "Osananajimi Irony",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235010.jpg",
+        "alt": "osananajimi-irony"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

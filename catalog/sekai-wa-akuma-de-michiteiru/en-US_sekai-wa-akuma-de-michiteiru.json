@@ -1,5 +1,9 @@
 {
     "title": "Sekai wa Akuma de Michiteiru?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165090.jpg",
+        "alt": "sekai-wa-akuma-de-michiteiru"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "世界は悪魔で満ちている?",

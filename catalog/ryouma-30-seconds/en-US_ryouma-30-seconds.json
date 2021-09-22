@@ -1,5 +1,9 @@
 {
     "title": "Ryouma 30 Seconds",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/76307.jpg",
+        "alt": "ryouma-30-seconds"
+    },
     "type": "tv-serie",
     "episodes": "5",
     "original_name": "龍馬 30 Seconds",

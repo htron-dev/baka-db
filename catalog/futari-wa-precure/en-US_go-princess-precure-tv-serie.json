@@ -1,12 +1,16 @@
 {
     "title": "Go! Princess Precure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/88625.jpg",
+        "alt": "go-princess-precure"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "Go! プリンセスプリキュア",
     "start_date": "2015-02-01",
     "end_date": "2015-02-01",
     "opening_song": "\"Miracle GO! Princess Precure (Miracle GO！プリンセスプリキュア)\" by Karin Isobe",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Dreaming☆Princess Precure (ドリーミング ☆ プリンセスプリキュア)\" by Rie Kitagawa (eps 1-25)",
     "rating": "G - All Ages",
     "tags": [
         "action",

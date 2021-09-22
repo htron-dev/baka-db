@@ -1,5 +1,9 @@
 {
     "title": "Suki wo Watashi ni Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38171.jpg",
+        "alt": "suki-wo-watashi-ni-kudasai"
+    },
     "type": "manga",
     "original_name": "好きを私にください",
     "start_date": "2010-01-20",

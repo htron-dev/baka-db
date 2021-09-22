@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai Jiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/35793.jpg",
+        "alt": "mahoutsukai-jiji"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "まほうつかいじじぃ",

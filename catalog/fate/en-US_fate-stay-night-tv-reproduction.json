@@ -1,11 +1,15 @@
 {
     "title": "Fate/stay night TV Reproduction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/33537.jpg",
+        "alt": "fate-stay-night-tv-reproduction"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "Fate/stay night",
     "start_date": "2010-01-17",
     "opening_song": "\"disillusion -2010-\" by Tainaka Sachi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"With...\" by Jyukai feat. Sachi Tainaka",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

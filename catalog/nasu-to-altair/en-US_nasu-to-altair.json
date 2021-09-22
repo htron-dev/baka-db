@@ -1,5 +1,9 @@
 {
     "title": "Nasu to Altair",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161404.jpg",
+        "alt": "nasu-to-altair"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Green Apple Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245901.jpg",
+        "alt": "green-apple-paradise"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "26",

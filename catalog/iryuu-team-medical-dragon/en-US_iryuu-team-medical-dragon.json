@@ -1,5 +1,9 @@
 {
     "title": "Iryuu: Team Medical Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197743.jpg",
+        "alt": "iryuu-team-medical-dragon"
+    },
     "type": "manga",
     "volumes": "25",
     "chapters": "210",

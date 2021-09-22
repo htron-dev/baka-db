@@ -1,5 +1,9 @@
 {
     "title": "Lemon☆Aid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163076.jpg",
+        "alt": "lemon☆-aid"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "9",

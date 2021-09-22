@@ -1,5 +1,9 @@
 {
     "title": "Zettai☆Reiiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133275.jpg",
+        "alt": "zettai☆-reiiki"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "72",

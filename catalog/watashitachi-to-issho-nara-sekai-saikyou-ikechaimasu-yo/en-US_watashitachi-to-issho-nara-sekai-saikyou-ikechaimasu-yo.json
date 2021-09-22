@@ -1,5 +1,9 @@
 {
     "title": "Watashitachi to Issho nara Sekai Saikyou Ikechaimasu yo?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198720.jpg",
+        "alt": "watashitachi-to-issho-nara-sekai-saikyou-ikechaimasu-yo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

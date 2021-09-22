@@ -1,5 +1,9 @@
 {
     "title": "Makai Kizoku no Natsuyasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160116.jpg",
+        "alt": "makai-kizoku-no-natsuyasumi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "魔界貴族のなつやすみ",

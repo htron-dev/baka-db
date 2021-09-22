@@ -1,5 +1,9 @@
 {
     "title": "Ai Tenchi Muyou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168092.jpg",
+        "alt": "ai-tenchi-muyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

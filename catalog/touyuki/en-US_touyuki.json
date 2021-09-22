@@ -1,5 +1,9 @@
 {
     "title": "Touyuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26026.jpg",
+        "alt": "touyuki"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "東遊記",

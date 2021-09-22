@@ -1,5 +1,9 @@
 {
     "title": "Totsuzen desu ga, Ashita Kekkon Shimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149163.jpg",
+        "alt": "totsuzen-desu-ga-ashita-kekkon-shimasu"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "52",

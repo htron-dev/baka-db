@@ -1,5 +1,9 @@
 {
     "title": "Fantastic Fortune 2: Little Mermaid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21421.jpg",
+        "alt": "fantastic-fortune-2-little-mermaid"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

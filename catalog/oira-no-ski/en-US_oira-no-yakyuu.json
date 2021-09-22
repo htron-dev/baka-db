@@ -1,5 +1,9 @@
 {
     "title": "Oira no Yakyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1607/113878.jpg",
+        "alt": "oira-no-yakyuu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おい等の野球",

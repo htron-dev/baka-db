@@ -1,5 +1,9 @@
 {
     "title": "Wild Arms XF",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/80047.jpg",
+        "alt": "wild-arms-xf"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ワイルドアームズ XF",

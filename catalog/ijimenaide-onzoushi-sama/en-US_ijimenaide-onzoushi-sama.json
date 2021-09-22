@@ -1,5 +1,9 @@
 {
     "title": "Ijimenaide, Onzoushi-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194483.jpg",
+        "alt": "ijimenaide-onzoushi-sama"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

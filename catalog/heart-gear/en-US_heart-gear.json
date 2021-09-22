@@ -1,5 +1,9 @@
 {
     "title": "Heart Gear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219740.jpg",
+        "alt": "heart-gear"
+    },
     "type": "manga",
     "original_name": "HEART GEAR",
     "start_date": "2019-04-03",

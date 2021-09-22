@@ -1,5 +1,9 @@
 {
     "title": "Kekkon no Riyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227544.jpg",
+        "alt": "kekkon-no-riyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "結婚の理由",

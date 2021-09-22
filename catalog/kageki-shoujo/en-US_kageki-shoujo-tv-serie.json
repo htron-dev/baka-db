@@ -1,5 +1,9 @@
 {
     "title": "Kageki Shoujo!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1944/114427.jpg",
+        "alt": "kageki-shoujo"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "かげきしょうじょ!!",

@@ -1,5 +1,9 @@
 {
     "title": "Yume de Aetara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212.jpg",
+        "alt": "yume-de-aetara"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "143",

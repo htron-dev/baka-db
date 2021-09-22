@@ -1,5 +1,9 @@
 {
     "title": "Ki-Fighter Taerang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/28222.jpg",
+        "alt": "ki-fighter-taerang"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "キ・ファイター テラン",

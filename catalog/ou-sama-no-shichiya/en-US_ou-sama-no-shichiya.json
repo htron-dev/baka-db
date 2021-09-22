@@ -1,5 +1,9 @@
 {
     "title": "Ou-sama no Shichiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/10362.jpg",
+        "alt": "ou-sama-no-shichiya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Nanairo no Enbukyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81968.jpg",
+        "alt": "nanairo-no-enbukyoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

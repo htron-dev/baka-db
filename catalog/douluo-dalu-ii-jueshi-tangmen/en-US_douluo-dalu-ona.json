@@ -1,5 +1,9 @@
 {
     "title": "Douluo Dalu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1438/101531.jpg",
+        "alt": "douluo-dalu"
+    },
     "type": "ona",
     "episodes": "26",
     "original_name": "斗罗大陆",

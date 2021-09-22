@@ -1,5 +1,9 @@
 {
     "title": "Chi no Soko no Mahoutsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227709.jpg",
+        "alt": "chi-no-soko-no-mahoutsukai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

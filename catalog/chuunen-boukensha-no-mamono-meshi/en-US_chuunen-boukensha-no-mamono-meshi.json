@@ -1,5 +1,9 @@
 {
     "title": "Chuunen Boukensha no Mamono Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198761.jpg",
+        "alt": "chuunen-boukensha-no-mamono-meshi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "中年冒険者の魔物メシ",

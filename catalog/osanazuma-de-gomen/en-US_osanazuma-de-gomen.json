@@ -1,5 +1,9 @@
 {
     "title": "Osanazuma de Gomen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222415.jpg",
+        "alt": "osanazuma-de-gomen"
+    },
     "type": "manga",
     "original_name": "幼な妻でごめんっ!",
     "start_date": "2017-06-24",

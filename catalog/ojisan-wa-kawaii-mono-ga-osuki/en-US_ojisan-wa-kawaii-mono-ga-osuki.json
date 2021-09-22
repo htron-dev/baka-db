@@ -1,5 +1,9 @@
 {
     "title": "Ojisan wa Kawaii Mono ga Osuki.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224494.jpg",
+        "alt": "ojisan-wa-kawaii-mono-ga-osuki"
+    },
     "type": "manga",
     "original_name": "おじさんはカワイイものがお好き。",
     "start_date": "2017-07-06",

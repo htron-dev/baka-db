@@ -1,5 +1,9 @@
 {
     "title": "Girls & Panzer: Gekitou! Maginot-sen desu!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201017.jpg",
+        "alt": "girls-panzer-gekitou-maginot-sen-desu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

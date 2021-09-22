@@ -1,5 +1,9 @@
 {
     "title": "Pinkyuu★★★",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243090.jpg",
+        "alt": "pinkyuu★★★"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

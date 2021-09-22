@@ -1,5 +1,9 @@
 {
     "title": "Genki Bakuhatsu Ganbaruger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/89881.jpg",
+        "alt": "genki-bakuhatsu-ganbaruger"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "元気爆発ガンバルガー",

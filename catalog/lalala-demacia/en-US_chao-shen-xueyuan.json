@@ -1,5 +1,9 @@
 {
     "title": "Chao Shen Xueyuan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1185/114406.jpg",
+        "alt": "chao-shen-xueyuan"
+    },
     "type": "ona",
     "episodes": "20",
     "original_name": "超神学院",

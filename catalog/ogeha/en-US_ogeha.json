@@ -1,5 +1,9 @@
 {
     "title": "Ogeha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173379.jpg",
+        "alt": "ogeha"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

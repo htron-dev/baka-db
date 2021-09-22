@@ -1,5 +1,9 @@
 {
     "title": "Dekiru Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/88961.jpg",
+        "alt": "dekiru-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

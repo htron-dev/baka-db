@@ -1,5 +1,9 @@
 {
     "title": "Guardian Hearts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180608.jpg",
+        "alt": "guardian-hearts"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "68",

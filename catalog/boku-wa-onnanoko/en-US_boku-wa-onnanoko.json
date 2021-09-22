@@ -1,5 +1,9 @@
 {
     "title": "Boku wa, Onnanoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9434.jpg",
+        "alt": "boku-wa-onnanoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Honoo no Ninjaman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127069.jpg",
+        "alt": "honoo-no-ninjaman"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

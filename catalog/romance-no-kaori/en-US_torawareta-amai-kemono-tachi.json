@@ -1,5 +1,9 @@
 {
     "title": "Torawareta Amai Kemono-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153538.jpg",
+        "alt": "torawareta-amai-kemono-tachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

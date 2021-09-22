@@ -1,5 +1,9 @@
 {
     "title": "Poko to Asobou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171723.jpg",
+        "alt": "poko-to-asobou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

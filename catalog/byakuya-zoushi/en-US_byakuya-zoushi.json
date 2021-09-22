@@ -1,5 +1,9 @@
 {
     "title": "Byakuya Zoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/16314.jpg",
+        "alt": "byakuya-zoushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

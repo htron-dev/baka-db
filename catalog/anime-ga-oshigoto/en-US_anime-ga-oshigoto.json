@@ -1,5 +1,9 @@
 {
     "title": "Anime ga Oshigoto!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22738.jpg",
+        "alt": "anime-ga-oshigoto"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "42",

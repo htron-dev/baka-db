@@ -1,5 +1,9 @@
 {
     "title": "Mamiya Seitai Ningyouten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6919.jpg",
+        "alt": "mamiya-seitai-ningyouten"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

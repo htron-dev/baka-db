@@ -1,5 +1,9 @@
 {
     "title": "Chou no Michiyuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154703.jpg",
+        "alt": "chou-no-michiyuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

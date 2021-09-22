@@ -1,5 +1,9 @@
 {
     "title": "Nakayoshi no Tane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230481.jpg",
+        "alt": "nakayoshi-no-tane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

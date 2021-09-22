@@ -1,5 +1,9 @@
 {
     "title": "Kamishibai Kintarou no Maki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/85262.jpg",
+        "alt": "kamishibai-kintarou-no-maki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "紙芝居 金太郎の卷",

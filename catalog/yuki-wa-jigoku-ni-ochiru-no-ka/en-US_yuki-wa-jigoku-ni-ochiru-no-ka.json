@@ -1,5 +1,9 @@
 {
     "title": "Yuki wa Jigoku ni Ochiru no ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174136.jpg",
+        "alt": "yuki-wa-jigoku-ni-ochiru-no-ka"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

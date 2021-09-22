@@ -1,5 +1,9 @@
 {
     "title": "Otoko ni naru toki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22411.jpg",
+        "alt": "otoko-ni-naru-toki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

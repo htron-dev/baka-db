@@ -1,5 +1,9 @@
 {
     "title": "Okaeri, Tadaima, Mata Ashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201957.jpg",
+        "alt": "okaeri-tadaima-mata-ashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

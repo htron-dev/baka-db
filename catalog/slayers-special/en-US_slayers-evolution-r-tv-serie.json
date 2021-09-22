@@ -1,12 +1,16 @@
 {
     "title": "Slayers Evolution-R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/20938.jpg",
+        "alt": "slayers-evolution-r"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "スレイヤーズ EVOLUTION-R",
     "start_date": "2009-01-12",
     "end_date": "2009-01-12",
     "opening_song": "\"Front Breaking\" by Megumi Hayashibara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sunadokei (砂時計)\" by Megumi Hayashibara (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

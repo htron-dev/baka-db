@@ -1,5 +1,9 @@
 {
     "title": "Breath of Fire - Ryuu no Senshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13098.jpg",
+        "alt": "breath-of-fire-ryuu-no-senshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

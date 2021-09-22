@@ -1,5 +1,9 @@
 {
     "title": "Himawari!!: Sorekara no Daisuki!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165246.jpg",
+        "alt": "himawari-sorekara-no-daisuki"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "46",

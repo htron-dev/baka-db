@@ -1,5 +1,9 @@
 {
     "title": "Samurai Soldier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131935.jpg",
+        "alt": "samurai-soldier"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "サムライ・ソルジャー",

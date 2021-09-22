@@ -1,5 +1,9 @@
 {
     "title": "Koukaku no Pandora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/78805.jpg",
+        "alt": "koukaku-no-pandora"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "紅殻のパンドラ",

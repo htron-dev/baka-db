@@ -1,5 +1,9 @@
 {
     "title": "Napoleon: Shishi no Jidai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/70327.jpg",
+        "alt": "napoleon-shishi-no-jidai"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "ナポレオン ─ 獅子の時代 ─",

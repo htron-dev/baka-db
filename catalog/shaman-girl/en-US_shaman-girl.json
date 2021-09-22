@@ -1,5 +1,9 @@
 {
     "title": "Shaman Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222247.jpg",
+        "alt": "shaman-girl"
+    },
     "type": "manhwa",
     "original_name": "소녀 신선",
     "start_date": "2016-06-28",

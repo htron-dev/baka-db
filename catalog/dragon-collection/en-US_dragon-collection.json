@@ -1,5 +1,9 @@
 {
     "title": "Dragon Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/59129.jpg",
+        "alt": "dragon-collection"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ドラゴンコレクション",

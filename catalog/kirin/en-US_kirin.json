@@ -1,5 +1,9 @@
 {
     "title": "Kirin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155647.jpg",
+        "alt": "kirin"
+    },
     "type": "manga",
     "volumes": "39",
     "original_name": "キリン",

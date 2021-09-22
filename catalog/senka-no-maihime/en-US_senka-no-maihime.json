@@ -1,5 +1,9 @@
 {
     "title": "Senka no Maihime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185321.jpg",
+        "alt": "senka-no-maihime"
+    },
     "type": "light-novel",
     "original_name": "戦華の舞姫",
     "start_date": "2015-10-22",

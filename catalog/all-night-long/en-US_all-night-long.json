@@ -1,5 +1,9 @@
 {
     "title": "All Night Long",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193070.jpg",
+        "alt": "all-night-long"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

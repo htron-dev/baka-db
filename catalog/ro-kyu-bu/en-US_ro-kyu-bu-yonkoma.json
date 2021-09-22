@@ -1,5 +1,9 @@
 {
     "title": "Ro-Kyu-Bu! Yonkoma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/104013.jpg",
+        "alt": "ro-kyu-bu-yonkoma"
+    },
     "type": "manga",
     "original_name": "ロウきゅーぶ! よんこま",
     "start_date": "2011-04-26",

@@ -1,5 +1,9 @@
 {
     "title": "Sayonara, Imouto.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123983.jpg",
+        "alt": "sayonara-imouto"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

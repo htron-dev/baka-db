@@ -1,5 +1,9 @@
 {
     "title": "Kuruneko: Nyaalock Holmes no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/47305.jpg",
+        "alt": "kuruneko-nyaalock-holmes-no-bouken"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "ニャーロック・ホームズの冒険",

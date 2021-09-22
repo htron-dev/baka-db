@@ -1,5 +1,9 @@
 {
     "title": "Shinryuu Idea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243103.jpg",
+        "alt": "shinryuu-idea"
+    },
     "type": "manga",
     "original_name": "神龍イデア",
     "start_date": "2020-09-17",

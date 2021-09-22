@@ -1,5 +1,9 @@
 {
     "title": "Fushigi na Somera-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/76737.jpg",
+        "alt": "fushigi-na-somera-chan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "不思議なソメラちゃん",

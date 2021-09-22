@@ -1,5 +1,9 @@
 {
     "title": "Shibuya de Aimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20882.jpg",
+        "alt": "shibuya-de-aimashou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

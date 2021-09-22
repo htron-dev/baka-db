@@ -1,5 +1,9 @@
 {
     "title": "Anne Happy♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147679.jpg",
+        "alt": "anne-happy♪"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "71",

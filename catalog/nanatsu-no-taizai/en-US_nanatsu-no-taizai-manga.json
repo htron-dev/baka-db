@@ -1,5 +1,9 @@
 {
     "title": "Nanatsu no Taizai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153111.jpg",
+        "alt": "nanatsu-no-taizai"
+    },
     "type": "manga",
     "volumes": "41",
     "chapters": "364",

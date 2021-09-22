@@ -1,5 +1,9 @@
 {
     "title": "Planetary\\*",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36801.jpg",
+        "alt": "planetary"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

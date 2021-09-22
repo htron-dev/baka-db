@@ -1,5 +1,9 @@
 {
     "title": "Touhoku Jugon Doushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158920.jpg",
+        "alt": "touhoku-jugon-doushi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Boku yori Tomodachi ga Ooi Boku no Kanojo ga Shinpai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165132.jpg",
+        "alt": "boku-wa-boku-yori-tomodachi-ga-ooi-boku-no-kanojo-ga-shinpai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

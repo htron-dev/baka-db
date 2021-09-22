@@ -1,5 +1,9 @@
 {
     "title": "Soul Reviver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78265.jpg",
+        "alt": "soul-reviver"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "36",

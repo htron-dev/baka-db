@@ -1,12 +1,16 @@
 {
     "title": "C³",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/32285.jpg",
+        "alt": "c"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "シーキューブ",
     "start_date": "2011-10-01",
     "end_date": "2011-10-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Endless Story\" by Yukari Tamura (eps 2-8)",
+    "ending_song": "#1: \"Endless Story\" by Yukari Tamura (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

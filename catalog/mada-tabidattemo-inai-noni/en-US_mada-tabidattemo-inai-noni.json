@@ -1,5 +1,9 @@
 {
     "title": "Mada Tabidattemo Inai noni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167573.jpg",
+        "alt": "mada-tabidattemo-inai-noni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

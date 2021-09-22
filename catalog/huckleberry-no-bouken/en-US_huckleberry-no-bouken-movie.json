@@ -1,5 +1,9 @@
 {
     "title": "Huckleberry no Bouken (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/53231.jpg",
+        "alt": "huckleberry-no-bouken-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハックルベリィの冒険",

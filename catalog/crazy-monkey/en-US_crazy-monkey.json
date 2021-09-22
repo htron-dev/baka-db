@@ -1,5 +1,9 @@
 {
     "title": "Crazy Monkey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/74487.jpg",
+        "alt": "crazy-monkey"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "クレージーモンキー",

@@ -1,5 +1,9 @@
 {
     "title": "Makeruna!! Aku no Gundan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193546.jpg",
+        "alt": "makeruna-aku-no-gundan"
+    },
     "type": "manga",
     "original_name": "まけるな!! あくのぐんだん！",
     "start_date": "2013-09-06",

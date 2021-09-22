@@ -1,5 +1,9 @@
 {
     "title": "B: Brahms 20-sai no Tabiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173799.jpg",
+        "alt": "b-brahms-20-sai-no-tabiji"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "44",

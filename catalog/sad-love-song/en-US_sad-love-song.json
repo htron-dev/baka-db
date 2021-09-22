@@ -1,5 +1,9 @@
 {
     "title": "Sad Love Song",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7402.jpg",
+        "alt": "sad-love-song"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "22",

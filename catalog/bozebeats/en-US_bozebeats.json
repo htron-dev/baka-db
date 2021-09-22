@@ -1,5 +1,9 @@
 {
     "title": "Bozebeats",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209754.jpg",
+        "alt": "bozebeats"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Igyou-chan to Issho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225279.jpg",
+        "alt": "igyou-chan-to-issho"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

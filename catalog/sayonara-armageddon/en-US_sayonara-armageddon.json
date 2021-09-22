@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Armageddon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157784.jpg",
+        "alt": "sayonara-armageddon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

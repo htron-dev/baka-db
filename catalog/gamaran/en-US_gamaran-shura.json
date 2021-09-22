@@ -1,5 +1,9 @@
 {
     "title": "Gamaran: Shura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220667.jpg",
+        "alt": "gamaran-shura"
+    },
     "type": "manga",
     "original_name": "我間乱―修羅―",
     "start_date": "2018-03-22",

@@ -1,5 +1,9 @@
 {
     "title": "Oneichan to Issho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14197.jpg",
+        "alt": "oneichan-to-issho"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "おねいちゃんといっしょ",

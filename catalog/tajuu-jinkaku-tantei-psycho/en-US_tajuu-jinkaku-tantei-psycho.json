@@ -1,5 +1,9 @@
 {
     "title": "Tajuu Jinkaku Tantei Psycho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143117.jpg",
+        "alt": "tajuu-jinkaku-tantei-psycho"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "155",

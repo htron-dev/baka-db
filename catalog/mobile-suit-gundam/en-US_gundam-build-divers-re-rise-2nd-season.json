@@ -1,12 +1,16 @@
 {
     "title": "Gundam Build Divers Re:Rise 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1962/105909.jpg",
+        "alt": "gundam-build-divers-re-rise-2nd-season"
+    },
     "type": "ona",
     "episodes": "13",
-    "original_name": "ガンダムビルドダイバーズ Re",
+    "original_name": "ガンダムビルドダイバーズ Re:RISE",
     "start_date": "2020-04-09",
     "end_date": "2020-04-09",
     "opening_song": "\"Hatena\" by PENGUIN RESEARCH (eps 1-10, 12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Twinkle\" by Spira Spica (eps 1-6, 8-12)",
     "rating": "G - All Ages",
     "tags": [
         "action",

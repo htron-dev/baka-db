@@ -1,5 +1,9 @@
 {
     "title": "Crisis Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179089.jpg",
+        "alt": "crisis-girls"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

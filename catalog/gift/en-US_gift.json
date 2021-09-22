@@ -1,5 +1,9 @@
 {
     "title": "Gift",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224557.jpg",
+        "alt": "gift"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

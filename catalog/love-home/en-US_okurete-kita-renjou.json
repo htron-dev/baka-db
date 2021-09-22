@@ -1,5 +1,9 @@
 {
     "title": "Okurete Kita Renjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/52435.jpg",
+        "alt": "okurete-kita-renjou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

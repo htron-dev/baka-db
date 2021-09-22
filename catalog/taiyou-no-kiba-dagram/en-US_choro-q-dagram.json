@@ -1,5 +1,9 @@
 {
     "title": "Choro Q Dagram",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2493.jpg",
+        "alt": "choro-q-dagram"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "チョロＱダグラム",

@@ -1,5 +1,9 @@
 {
     "title": "Hakushaku Reijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73073.jpg",
+        "alt": "hakushaku-reijou"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "伯爵令嬢",

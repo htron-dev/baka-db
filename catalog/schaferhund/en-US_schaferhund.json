@@ -1,5 +1,9 @@
 {
     "title": "Schäferhund",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226821.jpg",
+        "alt": "schaferhund"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "シェイファー・ハウンド",

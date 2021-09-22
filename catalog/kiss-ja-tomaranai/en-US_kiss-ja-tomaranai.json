@@ -1,5 +1,9 @@
 {
     "title": "Kiss ja Tomaranai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153449.jpg",
+        "alt": "kiss-ja-tomaranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

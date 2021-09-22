@@ -1,5 +1,9 @@
 {
     "title": "Odd Girl Out",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222276.jpg",
+        "alt": "odd-girl-out"
+    },
     "type": "manhwa",
     "original_name": "소녀의 세계",
     "start_date": "2015-05-17",

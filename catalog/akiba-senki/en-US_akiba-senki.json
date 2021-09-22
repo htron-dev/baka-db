@@ -1,5 +1,9 @@
 {
     "title": "Akiba Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177342.jpg",
+        "alt": "akiba-senki"
+    },
     "type": "light-novel",
     "original_name": "アキバ戦記",
     "start_date": "2016-06-01",

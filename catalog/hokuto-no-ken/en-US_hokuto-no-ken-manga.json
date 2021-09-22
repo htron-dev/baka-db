@@ -1,5 +1,9 @@
 {
     "title": "Hokuto no Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/830.jpg",
+        "alt": "hokuto-no-ken"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "245",

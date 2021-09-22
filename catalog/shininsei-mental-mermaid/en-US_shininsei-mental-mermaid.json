@@ -1,5 +1,9 @@
 {
     "title": "Shininsei Mental Mermaid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205429.jpg",
+        "alt": "shininsei-mental-mermaid"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "27",

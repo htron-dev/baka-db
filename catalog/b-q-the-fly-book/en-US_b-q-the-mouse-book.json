@@ -1,5 +1,9 @@
 {
     "title": "B.Q The Mouse Book",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37277.jpg",
+        "alt": "b-q-the-mouse-book"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "B.Q. SIDE A THE MOUSE BOOK",

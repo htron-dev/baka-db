@@ -1,5 +1,9 @@
 {
     "title": "Shiranami no Illusion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175802.jpg",
+        "alt": "shiranami-no-illusion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Star x Fanboy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235693.jpg",
+        "alt": "star-x-fanboy"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "19",

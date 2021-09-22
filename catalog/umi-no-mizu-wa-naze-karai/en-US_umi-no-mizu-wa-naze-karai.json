@@ -1,5 +1,9 @@
 {
     "title": "Umi no Mizu wa Naze Karai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/15839.jpg",
+        "alt": "umi-no-mizu-wa-naze-karai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "海の水はなぜからい",

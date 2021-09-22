@@ -1,5 +1,9 @@
 {
     "title": "Nishi Muku Samurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33094.jpg",
+        "alt": "nishi-muku-samurai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "22",

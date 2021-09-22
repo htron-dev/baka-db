@@ -1,5 +1,9 @@
 {
     "title": "Onizuka-chan to Sawarida-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236481.jpg",
+        "alt": "onizuka-chan-to-sawarida-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "53",

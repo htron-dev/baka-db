@@ -1,5 +1,9 @@
 {
     "title": "Kawaiiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/46975.jpg",
+        "alt": "kawaiiya"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "かわいいや",

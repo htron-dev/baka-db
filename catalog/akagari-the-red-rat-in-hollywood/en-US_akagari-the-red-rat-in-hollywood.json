@@ -1,5 +1,9 @@
 {
     "title": "Akagari: The Red Rat in Hollywood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205944.jpg",
+        "alt": "akagari-the-red-rat-in-hollywood"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "89",

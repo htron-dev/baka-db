@@ -1,12 +1,16 @@
 {
     "title": "Hidamari no Ki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1344/110484.jpg",
+        "alt": "hidamari-no-ki"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "陽だまりの樹",
     "start_date": "2000-04-05",
     "end_date": "2000-04-05",
-    "opening_song": "\"Hidamari no Ki",
-    "ending_song": "#1",
+    "opening_song": "\"Hidamari no Ki: Manazashi (Hidamari no Ki~まなざし~)\" by Keiko Matsui",
+    "ending_song": "#1: \"Hikari no Mukou e (光の向こうへ)\" by Charcoal (eps 1-13)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

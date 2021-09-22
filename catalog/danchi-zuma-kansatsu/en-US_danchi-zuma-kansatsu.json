@@ -1,5 +1,9 @@
 {
     "title": "Danchi Zuma Kansatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95911.jpg",
+        "alt": "danchi-zuma-kansatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "団地ヅマ観察",

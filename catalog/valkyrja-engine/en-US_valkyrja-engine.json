@@ -1,5 +1,9 @@
 {
     "title": "Valkyrja Engine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161987.jpg",
+        "alt": "valkyrja-engine"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

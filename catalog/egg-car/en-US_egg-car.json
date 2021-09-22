@@ -1,5 +1,9 @@
 {
     "title": "Egg Car",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1750/102905.jpg",
+        "alt": "egg-car"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "EGG CAR エッグカー",

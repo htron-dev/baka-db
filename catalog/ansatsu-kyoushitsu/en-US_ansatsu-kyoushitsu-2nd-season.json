@@ -1,12 +1,16 @@
 {
     "title": "Ansatsu Kyoushitsu 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/77966.jpg",
+        "alt": "ansatsu-kyoushitsu-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "暗殺教室　第２期",
     "start_date": "2016-01-08",
     "end_date": "2016-01-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"QUESTION\" by 3-nen E-gumi Utatan (3 年 E 組うた担) [Mai Fuchigami, Aya Suzaki, Nobuhiko Okamoto, Ryota Osaka, Shintaro Asanuma] (eps 1-14)",
+    "ending_song": "#1: \"Kaketa Tsuki (欠けた月)\" by Shion Miyawaki (eps 1-14)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

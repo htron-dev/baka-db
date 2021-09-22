@@ -1,5 +1,9 @@
 {
     "title": "Yubikiribako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222577.jpg",
+        "alt": "yubikiribako"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

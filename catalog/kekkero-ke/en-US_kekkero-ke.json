@@ -1,5 +1,9 @@
 {
     "title": "Kekkero Ke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1377/93114.jpg",
+        "alt": "kekkero-ke"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ケッケロケー",

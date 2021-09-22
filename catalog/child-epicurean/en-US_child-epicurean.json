@@ -1,5 +1,9 @@
 {
     "title": "Child Epicurean",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30148.jpg",
+        "alt": "child-epicurean"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Ensemble Stars!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236963.jpg",
+        "alt": "ensemble-stars"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "33",

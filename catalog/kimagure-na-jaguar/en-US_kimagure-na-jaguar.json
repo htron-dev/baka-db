@@ -1,5 +1,9 @@
 {
     "title": "Kimagure na Jaguar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233381.jpg",
+        "alt": "kimagure-na-jaguar"
+    },
     "type": "manga",
     "original_name": "気まぐれなジャガー",
     "start_date": "2016-01-29",

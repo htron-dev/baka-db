@@ -1,5 +1,9 @@
 {
     "title": "Trump!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18115.jpg",
+        "alt": "trump"
+    },
     "type": "manhwa",
     "original_name": "트럼프!",
     "tags": [

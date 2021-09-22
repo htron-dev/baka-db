@@ -1,5 +1,9 @@
 {
     "title": "Tiger & Bunny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161787.jpg",
+        "alt": "tiger-bunny"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "38",

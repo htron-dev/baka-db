@@ -1,5 +1,9 @@
 {
     "title": "Oresama Teacher",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/186262.jpg",
+        "alt": "oresama-teacher"
+    },
     "type": "manga",
     "volumes": "29",
     "original_name": "俺様ティーチャー",

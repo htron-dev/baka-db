@@ -1,5 +1,9 @@
 {
     "title": "Koukou Debut",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/112439.jpg",
+        "alt": "koukou-debut"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "62",

@@ -1,5 +1,9 @@
 {
     "title": "Family Border",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2734.jpg",
+        "alt": "family-border"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

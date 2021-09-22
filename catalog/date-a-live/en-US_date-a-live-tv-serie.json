@@ -1,12 +1,16 @@
 {
     "title": "Date A Live",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/44844.jpg",
+        "alt": "date-a-live"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "デート・ア・ライブ",
     "start_date": "2013-04-06",
     "end_date": "2013-04-06",
     "opening_song": "\"Date A Live (デート・ア・ライブ)\" by sweet ARMS",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hatsukoi Winding Road\" by Kayoko Tsumita, Risako Murai, Midori Tsukimiya (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "sci-fi",

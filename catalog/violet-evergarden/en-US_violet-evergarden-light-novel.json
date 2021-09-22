@@ -1,5 +1,9 @@
 {
     "title": "Violet Evergarden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190961.jpg",
+        "alt": "violet-evergarden"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "13",

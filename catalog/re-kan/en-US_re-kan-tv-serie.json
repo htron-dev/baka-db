@@ -1,5 +1,9 @@
 {
     "title": "Re-Kan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/72544.jpg",
+        "alt": "re-kan"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "レーカン！",

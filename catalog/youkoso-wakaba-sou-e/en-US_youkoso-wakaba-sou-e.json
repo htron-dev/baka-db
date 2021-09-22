@@ -1,5 +1,9 @@
 {
     "title": "Youkoso. Wakaba-sou e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207244.jpg",
+        "alt": "youkoso-wakaba-sou-e"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "27",

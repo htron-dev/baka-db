@@ -1,5 +1,9 @@
 {
     "title": "Shounen wa Kakkou wo Haramu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224372.jpg",
+        "alt": "shounen-wa-kakkou-wo-haramu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

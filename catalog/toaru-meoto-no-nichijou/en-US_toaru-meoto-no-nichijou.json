@@ -1,5 +1,9 @@
 {
     "title": "Toaru Meoto no Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219472.jpg",
+        "alt": "toaru-meoto-no-nichijou"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ト或ル夫婦ノ日乗",

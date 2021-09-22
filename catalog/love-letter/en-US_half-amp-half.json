@@ -1,5 +1,9 @@
 {
     "title": "Half &amp; Half",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153889.jpg",
+        "alt": "half-amp-half"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

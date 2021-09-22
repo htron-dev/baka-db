@@ -1,5 +1,9 @@
 {
     "title": "Kamiato ni Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236810.jpg",
+        "alt": "kamiato-ni-ai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

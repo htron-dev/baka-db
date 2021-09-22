@@ -1,11 +1,15 @@
 {
     "title": "Rinshi!! Ekoda-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1165/113391.jpg",
+        "alt": "rinshi-ekoda-chan"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "臨死!!江古田ちゃん",
     "start_date": "2019-01-09",
     "end_date": "2019-01-09",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Ukiyo ni Hana (浮世に華)\" by Shoose (しゅーず) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Outlaw Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10168.jpg",
+        "alt": "outlaw-star"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

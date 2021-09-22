@@ -1,5 +1,9 @@
 {
     "title": "Youkaku no Majoromi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236763.jpg",
+        "alt": "youkaku-no-majoromi"
+    },
     "type": "manga",
     "original_name": "羊角のマジョロミ",
     "start_date": "2017-09-25",

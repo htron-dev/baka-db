@@ -1,5 +1,9 @@
 {
     "title": "Hinadori wa Shiokaze ni Madoromu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222175.jpg",
+        "alt": "hinadori-wa-shiokaze-ni-madoromu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

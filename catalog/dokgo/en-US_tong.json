@@ -1,5 +1,9 @@
 {
     "title": "Tong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222323.jpg",
+        "alt": "tong"
+    },
     "type": "manhwa",
     "volumes": "4",
     "original_name": "통",

@@ -1,5 +1,9 @@
 {
     "title": "Majo to Hatsukoi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189104.jpg",
+        "alt": "majo-to-hatsukoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

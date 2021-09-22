@@ -1,12 +1,16 @@
 {
     "title": "Cardcaptor Sakura: Clear Card-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1467/90338.jpg",
+        "alt": "cardcaptor-sakura-clear-card-hen"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "カードキャプターさくら クリアカード編",
     "start_date": "2018-01-07",
     "end_date": "2018-01-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"CLEAR\" by Maaya Sakamoto (eps 1-12)",
+    "ending_song": "#1: \"Jewelry\" by Saori Hayami",
     "rating": "PG - Children",
     "tags": [
         "adventure",

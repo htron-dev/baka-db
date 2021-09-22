@@ -1,5 +1,9 @@
 {
     "title": "2821 Coca Cola",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197795.jpg",
+        "alt": "2821-coca-cola"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "2821 コカコーラ",

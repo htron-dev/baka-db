@@ -1,12 +1,16 @@
 {
     "title": "Healin' Good♡Precure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1401/105084.jpg",
+        "alt": "healin-good♡-precure"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "ヒーリングっど ♥ プリキュア",
     "start_date": "2020-02-02",
     "end_date": "2020-02-02",
     "opening_song": "\"Healin' Good♥Precure Touch!!! (ヒーリングっど ♥ プリキュア Touch!)\" by Rie Kitagawa",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mirakuru tto Link Ring! (ミラクルっと ♥Link Ring！)\" by Machico",
     "rating": "G - All Ages",
     "tags": [
         "action",

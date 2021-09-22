@@ -1,5 +1,9 @@
 {
     "title": "Colorless",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226247.jpg",
+        "alt": "colorless"
+    },
     "type": "manga",
     "original_name": "カラーレス",
     "start_date": "2019-01-11",

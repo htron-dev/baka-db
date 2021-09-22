@@ -1,5 +1,9 @@
 {
     "title": "Eyedrops Special Episode",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1727/90471.jpg",
+        "alt": "eyedrops-special-episode"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "アイドロップス Special Episode",

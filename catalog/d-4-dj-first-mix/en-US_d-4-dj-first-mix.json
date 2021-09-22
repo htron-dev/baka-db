@@ -1,5 +1,9 @@
 {
     "title": "D4DJ: First Mix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1765/109713.jpg",
+        "alt": "d-4-dj-first-mix"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "D4DJ First Mix",

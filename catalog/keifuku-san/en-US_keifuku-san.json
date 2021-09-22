@@ -1,5 +1,9 @@
 {
     "title": "Keifuku-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/89781.jpg",
+        "alt": "keifuku-san"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "傾福さん",

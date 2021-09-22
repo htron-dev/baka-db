@@ -1,5 +1,9 @@
 {
     "title": "Pop Japan Travel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12260.jpg",
+        "alt": "pop-japan-travel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

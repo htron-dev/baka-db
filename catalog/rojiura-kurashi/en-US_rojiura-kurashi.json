@@ -1,5 +1,9 @@
 {
     "title": "Rojiura Kurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189399.jpg",
+        "alt": "rojiura-kurashi"
+    },
     "type": "manga",
     "original_name": "ロヂウラくらし",
     "start_date": "2015-06-23",

@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Oniichan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45823.jpg",
+        "alt": "watashi-no-oniichan"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "週刊わたしのおにいちゃん",

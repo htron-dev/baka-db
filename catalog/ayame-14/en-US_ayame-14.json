@@ -1,5 +1,9 @@
 {
     "title": "Ayame 14",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179309.jpg",
+        "alt": "ayame-14"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

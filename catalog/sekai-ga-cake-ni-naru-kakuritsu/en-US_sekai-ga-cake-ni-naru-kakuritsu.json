@@ -1,5 +1,9 @@
 {
     "title": "Sekai ga Cake ni Naru Kakuritsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/114465.jpg",
+        "alt": "sekai-ga-cake-ni-naru-kakuritsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

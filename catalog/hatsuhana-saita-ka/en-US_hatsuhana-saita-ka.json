@@ -1,5 +1,9 @@
 {
     "title": "Hatsuhana Saita ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224645.jpg",
+        "alt": "hatsuhana-saita-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

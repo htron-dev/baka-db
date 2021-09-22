@@ -1,5 +1,9 @@
 {
     "title": "Out Law",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225695.jpg",
+        "alt": "out-law"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "134",

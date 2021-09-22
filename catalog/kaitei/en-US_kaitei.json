@@ -1,5 +1,9 @@
 {
     "title": "Kaitei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234408.jpg",
+        "alt": "kaitei"
+    },
     "type": "manga",
     "original_name": "海帝",
     "start_date": "2018-07-10",

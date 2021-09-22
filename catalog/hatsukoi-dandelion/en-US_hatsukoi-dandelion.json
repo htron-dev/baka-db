@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Dandelion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136499.jpg",
+        "alt": "hatsukoi-dandelion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

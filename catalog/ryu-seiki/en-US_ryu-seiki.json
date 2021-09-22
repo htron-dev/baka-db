@@ -1,5 +1,9 @@
 {
     "title": "Ryu Seiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9641.jpg",
+        "alt": "ryu-seiki"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "竜世紀 ドラゴンセンチュリー",

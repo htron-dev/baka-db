@@ -1,5 +1,9 @@
 {
     "title": "Kingyo no Fun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/101195.jpg",
+        "alt": "kingyo-no-fun"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Suki tte Iwaretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/53989.jpg",
+        "alt": "suki-tte-iwaretai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

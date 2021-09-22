@@ -1,5 +1,9 @@
 {
     "title": "Horii Shimai no Gogatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204310.jpg",
+        "alt": "horii-shimai-no-gogatsu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

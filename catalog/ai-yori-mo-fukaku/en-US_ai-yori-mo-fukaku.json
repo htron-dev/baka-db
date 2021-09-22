@@ -1,5 +1,9 @@
 {
     "title": "Ai yori mo Fukaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182598.jpg",
+        "alt": "ai-yori-mo-fukaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "愛よりも深く",

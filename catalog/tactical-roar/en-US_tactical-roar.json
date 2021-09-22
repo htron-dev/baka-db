@@ -1,5 +1,9 @@
 {
     "title": "Tactical Roar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/61829.jpg",
+        "alt": "tactical-roar"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "タクティカルロア",

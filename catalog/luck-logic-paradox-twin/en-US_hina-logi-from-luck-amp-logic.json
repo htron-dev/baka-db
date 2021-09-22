@@ -1,12 +1,16 @@
 {
     "title": "Hina Logi: From Luck &amp; Logic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/86576.jpg",
+        "alt": "hina-logi-from-luck-amp-logic"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ひなろじ～ from Luck & Logic ～",
     "start_date": "2017-07-01",
     "end_date": "2017-07-01",
     "opening_song": "\"BUTTERFLY EFFECTOR\" by TRUE",
-    "ending_song": "\"Baby Bird!!",
+    "ending_song": "\"Baby Bird!!: Gakuen Logic (ベィビィバード！～ガクエンロジック～)\" by Leones Yelistratova (Madoka Asahina), Nina Alexandrovna (Hibiku Yamamura), Mahiro Kyoubashi (Natsumi Takamori)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

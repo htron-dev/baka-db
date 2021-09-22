@@ -1,5 +1,9 @@
 {
     "title": "Sora no Yousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123151.jpg",
+        "alt": "sora-no-yousei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

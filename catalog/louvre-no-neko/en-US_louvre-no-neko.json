@@ -1,5 +1,9 @@
 {
     "title": "Louvre no Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203466.jpg",
+        "alt": "louvre-no-neko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

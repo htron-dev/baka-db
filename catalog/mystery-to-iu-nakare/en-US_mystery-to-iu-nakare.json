@@ -1,5 +1,9 @@
 {
     "title": "Mystery to Iu nakare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206107.jpg",
+        "alt": "mystery-to-iu-nakare"
+    },
     "type": "manga",
     "original_name": "ミステリと言う勿れ",
     "start_date": "2017-11-28",

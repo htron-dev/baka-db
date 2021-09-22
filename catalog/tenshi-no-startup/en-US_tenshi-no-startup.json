@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Startup",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198103.jpg",
+        "alt": "tenshi-no-startup"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "天使のスタートアップ",

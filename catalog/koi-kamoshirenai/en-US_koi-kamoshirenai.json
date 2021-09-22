@@ -1,5 +1,9 @@
 {
     "title": "Koi Kamoshirenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220864.jpg",
+        "alt": "koi-kamoshirenai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

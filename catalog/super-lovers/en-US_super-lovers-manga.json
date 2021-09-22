@@ -1,5 +1,9 @@
 {
     "title": "Super Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34151.jpg",
+        "alt": "super-lovers"
+    },
     "type": "manga",
     "original_name": "SUPER LOVERS",
     "start_date": "2009-10-30",

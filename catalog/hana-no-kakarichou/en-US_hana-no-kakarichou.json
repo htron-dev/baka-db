@@ -1,5 +1,9 @@
 {
     "title": "Hana no Kakarichou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/53867.jpg",
+        "alt": "hana-no-kakarichou"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "花の係長",

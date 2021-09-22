@@ -1,5 +1,9 @@
 {
     "title": "Okubyou na Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/182996.jpg",
+        "alt": "okubyou-na-koi"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "臆病な恋",

@@ -1,5 +1,9 @@
 {
     "title": "Mayo Chiki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/54741.jpg",
+        "alt": "mayo-chiki"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "40",

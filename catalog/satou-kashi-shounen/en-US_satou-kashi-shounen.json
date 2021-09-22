@@ -1,5 +1,9 @@
 {
     "title": "Satou Kashi Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20166.jpg",
+        "alt": "satou-kashi-shounen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

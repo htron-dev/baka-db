@@ -1,5 +1,9 @@
 {
     "title": "Hatsu\\*Haru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187137.jpg",
+        "alt": "hatsu-haru"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "53",

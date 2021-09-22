@@ -1,5 +1,9 @@
 {
     "title": "Perestroika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/84964.jpg",
+        "alt": "perestroika"
+    },
     "type": "ova",
     "episodes": "12",
     "original_name": "ペレストロイカ",

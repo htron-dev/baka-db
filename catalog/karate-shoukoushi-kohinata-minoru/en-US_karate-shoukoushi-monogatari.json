@@ -1,5 +1,9 @@
 {
     "title": "Karate Shoukoushi Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113661.jpg",
+        "alt": "karate-shoukoushi-monogatari"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "空手小公子物語",

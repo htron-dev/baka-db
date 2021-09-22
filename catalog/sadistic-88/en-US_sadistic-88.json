@@ -1,5 +1,9 @@
 {
     "title": "Sadistic 88",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171893.jpg",
+        "alt": "sadistic-88"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "30",

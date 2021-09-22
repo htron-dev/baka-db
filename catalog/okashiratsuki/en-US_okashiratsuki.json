@@ -1,5 +1,9 @@
 {
     "title": "Okashiratsuki.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244047.jpg",
+        "alt": "okashiratsuki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Houshin shinai Engi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174648.jpg",
+        "alt": "houshin-shinai-engi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "34",

@@ -1,5 +1,9 @@
 {
     "title": "Vampire Master Dark Crimson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41147.jpg",
+        "alt": "vampire-master-dark-crimson"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

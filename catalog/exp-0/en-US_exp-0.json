@@ -1,5 +1,9 @@
 {
     "title": "EXP:0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167464.jpg",
+        "alt": "exp-0"
+    },
     "type": "manga",
     "original_name": "EXP：0",
     "start_date": "2014-09-22",

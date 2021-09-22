@@ -1,5 +1,9 @@
 {
     "title": "A Bias Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150659.jpg",
+        "alt": "a-bias-girl"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "15",

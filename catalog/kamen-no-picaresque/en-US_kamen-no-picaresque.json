@@ -1,5 +1,9 @@
 {
     "title": "Kamen no Picaresque",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/144825.jpg",
+        "alt": "kamen-no-picaresque"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "仮面のピカレスク",

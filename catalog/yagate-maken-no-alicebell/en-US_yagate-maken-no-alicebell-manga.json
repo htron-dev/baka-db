@@ -1,5 +1,9 @@
 {
     "title": "Yagate Maken no Alicebell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168025.jpg",
+        "alt": "yagate-maken-no-alicebell"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

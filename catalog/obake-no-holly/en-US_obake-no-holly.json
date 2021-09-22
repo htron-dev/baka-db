@@ -1,5 +1,9 @@
 {
     "title": "Obake no... Holly",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/24954.jpg",
+        "alt": "obake-no-holly"
+    },
     "type": "tv-serie",
     "episodes": "200",
     "original_name": "おばけの…　ホーリー",

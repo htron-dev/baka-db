@@ -1,5 +1,9 @@
 {
     "title": "Beast Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/45576.jpg",
+        "alt": "beast-saga"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "ビーストサーガ",

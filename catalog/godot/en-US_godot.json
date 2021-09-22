@@ -1,5 +1,9 @@
 {
     "title": "Godot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230712.jpg",
+        "alt": "godot"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

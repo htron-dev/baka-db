@@ -1,5 +1,9 @@
 {
     "title": "Space Non-fiction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204384.jpg",
+        "alt": "space-non-fiction"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

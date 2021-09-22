@@ -1,12 +1,16 @@
 {
     "title": "Blue Seed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/14047.jpg",
+        "alt": "blue-seed"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ブルーシード",
     "start_date": "1994-10-05",
     "end_date": "1994-10-05",
     "opening_song": "\"Carnival Babel\" by Takada Band",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Touch and Go\" by Megumi Hayashibara\" (eps.1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

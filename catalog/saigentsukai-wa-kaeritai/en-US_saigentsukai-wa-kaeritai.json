@@ -1,5 +1,9 @@
 {
     "title": "Saigentsukai wa Kaeritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235116.jpg",
+        "alt": "saigentsukai-wa-kaeritai"
+    },
     "type": "light-novel",
     "original_name": "再現使いは帰りたい",
     "start_date": "2018-02-28",

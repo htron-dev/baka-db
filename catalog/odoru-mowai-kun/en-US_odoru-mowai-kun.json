@@ -1,5 +1,9 @@
 {
     "title": "Odoru Mowai-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1123/102544.jpg",
+        "alt": "odoru-mowai-kun"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "おどるモワイくん",

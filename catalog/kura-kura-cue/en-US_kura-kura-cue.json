@@ -1,5 +1,9 @@
 {
     "title": "Kura Kura Cue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/60231.jpg",
+        "alt": "kura-kura-cue"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "くらくらく～",

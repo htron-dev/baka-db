@@ -1,5 +1,9 @@
 {
     "title": "Waga Seishun no Arcadia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/52037.jpg",
+        "alt": "waga-seishun-no-arcadia"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "わが青春のアルカディア",

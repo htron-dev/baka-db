@@ -1,5 +1,9 @@
 {
     "title": "Kigi wa Haru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240015.jpg",
+        "alt": "kigi-wa-haru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Denki-gai no Honya-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188779.jpg",
+        "alt": "denki-gai-no-honya-san"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "107",

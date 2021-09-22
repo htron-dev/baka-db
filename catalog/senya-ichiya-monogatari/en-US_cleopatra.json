@@ -1,5 +1,9 @@
 {
     "title": "Cleopatra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1086/96348.jpg",
+        "alt": "cleopatra"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "クレオパトラ",

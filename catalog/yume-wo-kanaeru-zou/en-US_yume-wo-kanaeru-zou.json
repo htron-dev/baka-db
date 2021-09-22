@@ -1,5 +1,9 @@
 {
     "title": "Yume wo Kanaeru Zou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/12867.jpg",
+        "alt": "yume-wo-kanaeru-zou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "夢をかなえるゾウ",

@@ -1,5 +1,9 @@
 {
     "title": "Paradise Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/165919.jpg",
+        "alt": "paradise-kiss"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "48",

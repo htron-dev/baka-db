@@ -1,5 +1,9 @@
 {
     "title": "Hentai no Megane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142725.jpg",
+        "alt": "hentai-no-megane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

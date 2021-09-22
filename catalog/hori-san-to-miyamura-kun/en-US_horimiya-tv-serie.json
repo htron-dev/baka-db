@@ -1,5 +1,9 @@
 {
     "title": "Horimiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1695/111486.jpg",
+        "alt": "horimiya"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ホリミヤ",

@@ -1,12 +1,16 @@
 {
     "title": "Future GPX Cyber Formula 11",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1686/117415.jpg",
+        "alt": "future-gpx-cyber-formula-11"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "新世紀ＧＰＸサイバーフォーミュラ１１",
     "start_date": "1992-11-01",
     "end_date": "1992-11-01",
     "opening_song": "\"Dreamer on the Road\" by Dynamite Shige",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Winners (English Version)\" by Dynamite Shige (eps 1-5)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

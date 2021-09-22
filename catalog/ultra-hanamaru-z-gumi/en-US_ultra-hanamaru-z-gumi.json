@@ -1,5 +1,9 @@
 {
     "title": "Ultra Hanamaru Z-gumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36629.jpg",
+        "alt": "ultra-hanamaru-z-gumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

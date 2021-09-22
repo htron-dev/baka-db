@@ -1,5 +1,9 @@
 {
     "title": "Little Nemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/82033.jpg",
+        "alt": "little-nemo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "リトル・ニモ",

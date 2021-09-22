@@ -1,5 +1,9 @@
 {
     "title": "Sagishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186473.jpg",
+        "alt": "sagishi"
+    },
     "type": "manga",
     "original_name": "詐騎士",
     "start_date": "2015-11-25",

@@ -1,5 +1,9 @@
 {
     "title": "Tejina Shi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/83681.jpg",
+        "alt": "tejina-shi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "手品師",

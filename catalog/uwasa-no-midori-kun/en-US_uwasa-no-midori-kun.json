@@ -1,5 +1,9 @@
 {
     "title": "Uwasa no Midori-kun!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174196.jpg",
+        "alt": "uwasa-no-midori-kun"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "51",

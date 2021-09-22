@@ -1,5 +1,9 @@
 {
     "title": "Shin Samurai Guard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124033.jpg",
+        "alt": "shin-samurai-guard"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "真サムライガード",

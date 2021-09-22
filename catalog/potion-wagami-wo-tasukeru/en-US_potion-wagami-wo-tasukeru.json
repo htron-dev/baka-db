@@ -1,5 +1,9 @@
 {
     "title": "Potion, Wagami wo Tasukeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177279.jpg",
+        "alt": "potion-wagami-wo-tasukeru"
+    },
     "type": "light-novel",
     "original_name": "ポーション、わが身を助ける",
     "start_date": "2015-04-27",

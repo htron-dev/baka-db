@@ -1,5 +1,9 @@
 {
     "title": "Taku Boda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/72787.jpg",
+        "alt": "taku-boda"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "タクボーダ",

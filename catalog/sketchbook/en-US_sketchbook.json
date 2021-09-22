@@ -1,5 +1,9 @@
 {
     "title": "Sketchbook",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178767.jpg",
+        "alt": "sketchbook"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "219",

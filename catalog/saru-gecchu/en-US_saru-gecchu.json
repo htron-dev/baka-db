@@ -1,5 +1,9 @@
 {
     "title": "Saru Gecchu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43669.jpg",
+        "alt": "saru-gecchu"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "サルゲッチュ",

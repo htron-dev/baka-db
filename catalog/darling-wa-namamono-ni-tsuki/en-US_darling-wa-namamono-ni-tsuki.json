@@ -1,5 +1,9 @@
 {
     "title": "Darling wa Namamono ni Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40554.jpg",
+        "alt": "darling-wa-namamono-ni-tsuki"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "40",

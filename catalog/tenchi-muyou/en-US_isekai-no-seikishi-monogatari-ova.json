@@ -1,5 +1,9 @@
 {
     "title": "Isekai no Seikishi Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/20345.jpg",
+        "alt": "isekai-no-seikishi-monogatari"
+    },
     "type": "ova",
     "episodes": "13",
     "original_name": "異世界の聖機師物語",

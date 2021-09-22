@@ -1,5 +1,9 @@
 {
     "title": "A wo Nerae!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166541.jpg",
+        "alt": "a-wo-nerae"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

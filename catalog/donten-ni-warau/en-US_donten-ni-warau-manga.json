@@ -1,5 +1,9 @@
 {
     "title": "Donten ni Warau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42047.jpg",
+        "alt": "donten-ni-warau"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

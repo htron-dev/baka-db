@@ -1,5 +1,9 @@
 {
     "title": "Melty Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15037.jpg",
+        "alt": "melty-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

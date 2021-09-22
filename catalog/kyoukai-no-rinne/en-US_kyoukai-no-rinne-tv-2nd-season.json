@@ -1,12 +1,16 @@
 {
     "title": "Kyoukai no Rinne (TV) 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/79665.jpg",
+        "alt": "kyoukai-no-rinne-tv-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "境界の RINNE 　第２シリーズ",
     "start_date": "2016-04-09",
     "end_date": "2016-04-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Melody\" by Pile (eps 1-12)",
+    "ending_song": "#1: \"Hanashi wo Shiyou (話をしよう)\" by GLIM SPANKY (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

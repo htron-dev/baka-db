@@ -1,5 +1,9 @@
 {
     "title": "Hetalia: The Beautiful World Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/46525.jpg",
+        "alt": "hetalia-the-beautiful-world-specials"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "ヘタリア The Beautiful World",

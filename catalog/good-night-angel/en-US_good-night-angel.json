@@ -1,5 +1,9 @@
 {
     "title": "Good Night! Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143627.jpg",
+        "alt": "good-night-angel"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "Good night! Angel",

@@ -1,5 +1,9 @@
 {
     "title": "Rental Oniichan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211528.jpg",
+        "alt": "rental-oniichan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

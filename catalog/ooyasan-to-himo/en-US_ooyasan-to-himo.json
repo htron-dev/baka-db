@@ -1,5 +1,9 @@
 {
     "title": "Ooyasan to Himo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225199.jpg",
+        "alt": "ooyasan-to-himo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Ikemen Manzaishi no Ikenai Tsukkomi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194632.jpg",
+        "alt": "ikemen-manzaishi-no-ikenai-tsukkomi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "イケメン漫才師のいけないツッコミ！",

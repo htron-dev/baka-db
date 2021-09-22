@@ -1,5 +1,9 @@
 {
     "title": "Material Candy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149756.jpg",
+        "alt": "material-candy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

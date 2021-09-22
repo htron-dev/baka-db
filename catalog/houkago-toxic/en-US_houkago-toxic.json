@@ -1,5 +1,9 @@
 {
     "title": "Houkago Toxic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204960.jpg",
+        "alt": "houkago-toxic"
+    },
     "type": "manga",
     "original_name": "放課後トキシック",
     "start_date": "2017-04-24",

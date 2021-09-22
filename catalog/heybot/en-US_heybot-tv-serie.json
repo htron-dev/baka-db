@@ -1,12 +1,16 @@
 {
     "title": "Heybot!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/82258.jpg",
+        "alt": "heybot"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ヘボット!",
     "start_date": "2016-09-18",
     "end_date": "2016-09-18",
     "opening_song": "\"Houkago Nejimaki Dance (放課後ねじまきダンス)\" by Misokkasu",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Goo Choki Pants no Seigi-san (グーチョキパンツの正義さん)\" by Wa-Suta (eps 1-26)",
     "rating": "PG - Children",
     "tags": [
         "sci-fi",

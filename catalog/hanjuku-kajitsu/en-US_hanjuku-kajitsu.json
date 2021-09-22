@@ -1,5 +1,9 @@
 {
     "title": "Hanjuku Kajitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112003.jpg",
+        "alt": "hanjuku-kajitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

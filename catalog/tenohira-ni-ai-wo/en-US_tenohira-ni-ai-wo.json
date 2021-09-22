@@ -1,5 +1,9 @@
 {
     "title": "Tenohira ni Ai wo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187056.jpg",
+        "alt": "tenohira-ni-ai-wo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "49",

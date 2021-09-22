@@ -1,12 +1,16 @@
 {
     "title": "Majutsushi Orphen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/61839.jpg",
+        "alt": "majutsushi-orphen"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "魔術士オーフェン",
     "start_date": "1998-10-03",
     "end_date": "1998-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Ai Just on my Love\" by Sharan Q (eps 1-13)",
+    "ending_song": "#1: \"Last Kiss\" by Tanpopo (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

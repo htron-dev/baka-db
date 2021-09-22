@@ -1,5 +1,9 @@
 {
     "title": "Fujilog 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/30525.jpg",
+        "alt": "fujilog-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "フジログ 第 2 シーズン",

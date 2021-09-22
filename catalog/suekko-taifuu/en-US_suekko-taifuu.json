@@ -1,5 +1,9 @@
 {
     "title": "Suekko Taifuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13675.jpg",
+        "alt": "suekko-taifuu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "すえっ子台風",

@@ -1,5 +1,9 @@
 {
     "title": "Touken Ranbu Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168991.jpg",
+        "alt": "touken-ranbu-gakuen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

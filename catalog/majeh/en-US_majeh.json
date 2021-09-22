@@ -1,5 +1,9 @@
 {
     "title": "Majeh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197257.jpg",
+        "alt": "majeh"
+    },
     "type": "manhwa",
     "volumes": "55",
     "chapters": "414",

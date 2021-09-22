@@ -1,5 +1,9 @@
 {
     "title": "Nobunagun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/111925.jpg",
+        "alt": "nobunagun"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "41",

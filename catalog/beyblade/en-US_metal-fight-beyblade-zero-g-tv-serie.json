@@ -1,5 +1,9 @@
 {
     "title": "Metal Fight Beyblade Zero G",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/37159.jpg",
+        "alt": "metal-fight-beyblade-zero-g"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "メタルファイト ベイブレード ZEROG",

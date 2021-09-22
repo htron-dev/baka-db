@@ -1,5 +1,9 @@
 {
     "title": "Koutei no Battle Throne!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162861.jpg",
+        "alt": "koutei-no-battle-throne"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "27",

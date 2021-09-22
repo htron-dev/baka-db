@@ -1,5 +1,9 @@
 {
     "title": "Ranran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119085.jpg",
+        "alt": "ranran"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

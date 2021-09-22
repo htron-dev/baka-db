@@ -1,5 +1,9 @@
 {
     "title": "Tabi Machi Late Show",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/78140.jpg",
+        "alt": "tabi-machi-late-show"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "旅街レイトショー",

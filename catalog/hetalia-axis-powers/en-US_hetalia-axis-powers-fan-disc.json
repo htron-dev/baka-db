@@ -1,5 +1,9 @@
 {
     "title": "Hetalia Axis Powers Fan Disc",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/27300.jpg",
+        "alt": "hetalia-axis-powers-fan-disc"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ヘタリア Axis Powers ファンディスク",

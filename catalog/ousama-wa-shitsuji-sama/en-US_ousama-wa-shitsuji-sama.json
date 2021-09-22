@@ -1,5 +1,9 @@
 {
     "title": "Ousama wa Shitsuji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171833.jpg",
+        "alt": "ousama-wa-shitsuji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

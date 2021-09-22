@@ -1,8 +1,12 @@
 {
     "title": "Evangelion: 1.0 You Are (Not) Alone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/74975.jpg",
+        "alt": "evangelion-1-0-you-are-not-alone"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "ヱヴァンゲリヲン新劇場版",
+    "original_name": "ヱヴァンゲリヲン新劇場版:序",
     "start_date": "2007-09-01",
     "ending_song": "\"Beautiful World\" by Utada Hikaru",
     "rating": "PG-13 - Teens 13 or older",

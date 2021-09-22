@@ -1,5 +1,9 @@
 {
     "title": "Susume! Jump Heppoko Tankentai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248527.jpg",
+        "alt": "susume-jump-heppoko-tankentai"
+    },
     "type": "manga",
     "original_name": "すすめ!ジャンプへっぽこ探検隊",
     "start_date": "2017-02-16",

@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Yawoyorozu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177572.jpg",
+        "alt": "sengoku-yawoyorozu"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "17",

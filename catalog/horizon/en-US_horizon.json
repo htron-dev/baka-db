@@ -1,5 +1,9 @@
 {
     "title": "Horizon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125483.jpg",
+        "alt": "horizon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

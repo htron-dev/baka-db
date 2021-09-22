@@ -1,12 +1,16 @@
 {
     "title": "Vivy: Fluorite Eye's Song",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1637/115052.jpg",
+        "alt": "vivy-fluorite-eyes-song"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "Vivy -Fluorite Eye's Song- (ヴィヴィ -フローライトアイズソング-)",
     "start_date": "2021-04-03",
     "end_date": "2021-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Happy Together\" by General-Purpose Diva AI (Miya Kotsuki) (ep 1)",
+    "ending_song": "#1: \"Ending Theme\" by Satoru Kousaki (MONACA) (eps 1-2, 5, 7)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

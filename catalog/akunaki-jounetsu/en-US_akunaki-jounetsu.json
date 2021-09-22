@@ -1,5 +1,9 @@
 {
     "title": "Akunaki Jounetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39521.jpg",
+        "alt": "akunaki-jounetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "飽くなき情熱",

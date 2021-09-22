@@ -1,5 +1,9 @@
 {
     "title": "Otokonoko ni Toriko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149517.jpg",
+        "alt": "otokonoko-ni-toriko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

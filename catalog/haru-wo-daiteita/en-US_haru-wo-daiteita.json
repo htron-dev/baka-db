@@ -1,5 +1,9 @@
 {
     "title": "Haru wo Daiteita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195851.jpg",
+        "alt": "haru-wo-daiteita"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "78",

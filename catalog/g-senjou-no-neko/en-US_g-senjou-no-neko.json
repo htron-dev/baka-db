@@ -1,5 +1,9 @@
 {
     "title": "G-senjou no Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186454.jpg",
+        "alt": "g-senjou-no-neko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

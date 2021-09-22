@@ -1,5 +1,9 @@
 {
     "title": "Midori no Tsumishiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227122.jpg",
+        "alt": "midori-no-tsumishiro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

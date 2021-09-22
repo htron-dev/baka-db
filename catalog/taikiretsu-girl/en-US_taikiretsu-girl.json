@@ -1,5 +1,9 @@
 {
     "title": "Taikiretsu Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198431.jpg",
+        "alt": "taikiretsu-girl"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "60",

@@ -1,12 +1,16 @@
 {
     "title": "Time Bokan Oudou Fukko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/8760.jpg",
+        "alt": "time-bokan-oudou-fukko"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "タイムボカン王道復古",
     "start_date": "1993-11-26",
     "end_date": "1993-11-26",
-    "opening_song": "#1",
-    "ending_song": "\"Sanaku 18-nen",
+    "opening_song": "#1: \"Akuyaku Door ga Hiraku (悪役ドアが開く)\" by ジャラ, Igarashi Rei, Kawakami Tomoko, 綾崎ミキ, Takemasa Hiroko, Pink Piggies, Yamamoto Masayuki, Hamura Kyouko, 高柳富子, 重田由美子, 中尾美貴",
+    "ending_song": "\"Sanaku 18-nen: Kimi wo Hanasanai Chu (-さんあく 18 年-君を離さないチュッ ☆)\" by Noriko Ohara, Jouji Yanami, Kazuya Tatekabe",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

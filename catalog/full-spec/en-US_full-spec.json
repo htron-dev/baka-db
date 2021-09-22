@@ -1,5 +1,9 @@
 {
     "title": "Full Spec",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225084.jpg",
+        "alt": "full-spec"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

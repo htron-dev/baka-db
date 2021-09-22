@@ -1,5 +1,9 @@
 {
     "title": "Snowdrop: Seria to Koi no Chouyakushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183277.jpg",
+        "alt": "snowdrop-seria-to-koi-no-chouyakushi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

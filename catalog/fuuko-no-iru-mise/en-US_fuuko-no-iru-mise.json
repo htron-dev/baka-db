@@ -1,5 +1,9 @@
 {
     "title": "Fuuko no Iru Mise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/28013.jpg",
+        "alt": "fuuko-no-iru-mise"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "風子のいる店",

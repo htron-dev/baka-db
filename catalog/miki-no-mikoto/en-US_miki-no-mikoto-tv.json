@@ -1,5 +1,9 @@
 {
     "title": "Miki no Mikoto (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1744/103919.jpg",
+        "alt": "miki-no-mikoto-tv"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "神酒ノ尊",

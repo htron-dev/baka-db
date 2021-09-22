@@ -1,5 +1,9 @@
 {
     "title": "Jigoku no Sata mo Kare Shidai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180748.jpg",
+        "alt": "jigoku-no-sata-mo-kare-shidai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

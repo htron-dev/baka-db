@@ -1,5 +1,9 @@
 {
     "title": "Kurosagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161298.jpg",
+        "alt": "kurosagi"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "220",

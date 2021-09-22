@@ -1,5 +1,9 @@
 {
     "title": "Ijimetai hodo Aishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7539.jpg",
+        "alt": "ijimetai-hodo-aishiteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

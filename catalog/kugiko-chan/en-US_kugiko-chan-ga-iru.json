@@ -1,5 +1,9 @@
 {
     "title": "Kugiko-chan ga Iru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231051.jpg",
+        "alt": "kugiko-chan-ga-iru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

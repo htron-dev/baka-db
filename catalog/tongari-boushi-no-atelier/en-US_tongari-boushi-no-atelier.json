@@ -1,5 +1,9 @@
 {
     "title": "Tongari Boushi no Atelier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190005.jpg",
+        "alt": "tongari-boushi-no-atelier"
+    },
     "type": "manga",
     "original_name": "とんがり帽子のアトリエ",
     "start_date": "2016-07-22",

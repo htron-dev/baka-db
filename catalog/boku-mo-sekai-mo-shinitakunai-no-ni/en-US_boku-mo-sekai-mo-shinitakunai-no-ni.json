@@ -1,5 +1,9 @@
 {
     "title": "Boku mo Sekai mo Shinitakunai no ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167074.jpg",
+        "alt": "boku-mo-sekai-mo-shinitakunai-no-ni"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "15",

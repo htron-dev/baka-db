@@ -1,5 +1,9 @@
 {
     "title": "Boukyaku Battery",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1216/113444.jpg",
+        "alt": "boukyaku-battery"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "忘却バッテリー",

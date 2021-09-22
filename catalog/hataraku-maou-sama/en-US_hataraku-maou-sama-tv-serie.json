@@ -1,12 +1,16 @@
 {
     "title": "Hataraku Maou-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/50177.jpg",
+        "alt": "hataraku-maou-sama"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "はたらく魔王さま!",
     "start_date": "2013-04-04",
     "end_date": "2013-04-04",
     "opening_song": "\"ZERO!!\" by Minami Kuribayashi (eps 3-13)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gekka (月花)\" by nano.RIPE (eps 1, 3-4, 6-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

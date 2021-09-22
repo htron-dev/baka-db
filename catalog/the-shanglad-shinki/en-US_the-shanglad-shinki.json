@@ -1,5 +1,9 @@
 {
     "title": "The Shanglad Shinki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79723.jpg",
+        "alt": "the-shanglad-shinki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

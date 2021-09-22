@@ -1,5 +1,9 @@
 {
     "title": "Kachin☆Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34866.jpg",
+        "alt": "kachin☆-ko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

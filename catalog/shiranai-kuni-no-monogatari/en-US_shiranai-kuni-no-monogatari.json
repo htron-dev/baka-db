@@ -1,5 +1,9 @@
 {
     "title": "Shiranai Kuni no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/30397.jpg",
+        "alt": "shiranai-kuni-no-monogatari"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "知らない国の物語",

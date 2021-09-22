@@ -1,5 +1,9 @@
 {
     "title": "Double Circle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/56319.jpg",
+        "alt": "double-circle"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "ダブルサークル",

@@ -1,5 +1,9 @@
 {
     "title": "Katanagatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167366.jpg",
+        "alt": "katanagatari"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "55",

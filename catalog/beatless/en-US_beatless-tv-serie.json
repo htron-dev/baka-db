@@ -1,12 +1,16 @@
 {
     "title": "Beatless",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1986/90184.jpg",
+        "alt": "beatless"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "BEATLESS",
     "start_date": "2018-01-13",
     "end_date": "2018-01-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Error\" by GARNiDELiA (eps 2-13)",
+    "ending_song": "#1: \"PRIMALove\" by ClariS (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

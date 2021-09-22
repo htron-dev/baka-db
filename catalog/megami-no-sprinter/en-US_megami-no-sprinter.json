@@ -1,5 +1,9 @@
 {
     "title": "Megami no Sprinter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210490.jpg",
+        "alt": "megami-no-sprinter"
+    },
     "type": "manga",
     "original_name": "女神のスプリンター",
     "start_date": "2017-11-20",

@@ -1,5 +1,9 @@
 {
     "title": "Hana Makura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164193.jpg",
+        "alt": "hana-makura"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "華枕",

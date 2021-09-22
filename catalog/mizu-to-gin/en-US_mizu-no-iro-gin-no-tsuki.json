@@ -1,5 +1,9 @@
 {
     "title": "Mizu no Iro Gin no Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156034.jpg",
+        "alt": "mizu-no-iro-gin-no-tsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

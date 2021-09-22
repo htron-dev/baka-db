@@ -1,5 +1,9 @@
 {
     "title": "Detatoko Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/62217.jpg",
+        "alt": "detatoko-princess"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "でたとこプリンセス",

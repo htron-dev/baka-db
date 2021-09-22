@@ -1,5 +1,9 @@
 {
     "title": "Tsuyu Tsuyu Midnight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/104399.jpg",
+        "alt": "tsuyu-tsuyu-midnight"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "つゆつゆミッドナイト",

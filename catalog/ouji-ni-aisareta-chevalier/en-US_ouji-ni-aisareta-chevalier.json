@@ -1,5 +1,9 @@
 {
     "title": "Ouji ni Aisareta Chevalier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183249.jpg",
+        "alt": "ouji-ni-aisareta-chevalier"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

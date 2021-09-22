@@ -1,12 +1,16 @@
 {
     "title": "Beastars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1234/102008.jpg",
+        "alt": "beastars"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "BEASTARS",
     "start_date": "2019-10-10",
     "end_date": "2019-10-10",
     "opening_song": "\"Wild Side\" by ALI",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Le zoo\" by YURiKA (eps 2, 5, 8, 9)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "slice-of-life",

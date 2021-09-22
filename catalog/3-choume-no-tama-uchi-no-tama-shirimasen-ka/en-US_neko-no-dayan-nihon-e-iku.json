@@ -1,5 +1,9 @@
 {
     "title": "Neko no Dayan: Nihon e Iku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/76100.jpg",
+        "alt": "neko-no-dayan-nihon-e-iku"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "猫のダヤン　日本へ行く",

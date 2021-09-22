@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Boku no Hole Share",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225915.jpg",
+        "alt": "kimi-to-boku-no-hole-share"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

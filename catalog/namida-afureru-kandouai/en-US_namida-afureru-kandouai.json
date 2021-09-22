@@ -1,5 +1,9 @@
 {
     "title": "Namida Afureru Kandouai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160611.jpg",
+        "alt": "namida-afureru-kandouai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Gut's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194913.jpg",
+        "alt": "guts"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "67",

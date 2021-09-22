@@ -1,5 +1,9 @@
 {
     "title": "Kore ga Koi to Iu naraba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/123935.jpg",
+        "alt": "kore-ga-koi-to-iu-naraba"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

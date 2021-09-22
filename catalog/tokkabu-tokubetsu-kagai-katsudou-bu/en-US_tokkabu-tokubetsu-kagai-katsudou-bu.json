@@ -1,5 +1,9 @@
 {
     "title": "Tokkabu: Tokubetsu Kagai Katsudou-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152133.jpg",
+        "alt": "tokkabu-tokubetsu-kagai-katsudou-bu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

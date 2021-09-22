@@ -1,5 +1,9 @@
 {
     "title": "Amaeru Kubiwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182415.jpg",
+        "alt": "amaeru-kubiwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

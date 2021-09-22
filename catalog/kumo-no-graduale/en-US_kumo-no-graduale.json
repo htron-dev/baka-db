@@ -1,5 +1,9 @@
 {
     "title": "Kumo no Graduale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9721.jpg",
+        "alt": "kumo-no-graduale"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

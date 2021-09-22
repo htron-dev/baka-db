@@ -1,12 +1,16 @@
 {
     "title": "Super Doll Licca-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1813/105492.jpg",
+        "alt": "super-doll-licca-chan"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "スーパードール リカちゃん",
     "start_date": "1998-10-06",
     "end_date": "1998-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Ne (「ねっ」)\" by Rooky (eps 1-39)",
+    "ending_song": "#1: \"Ne (Cutey Techno Mix) (「ねっ」(Cutey Techno Mix))\" by Rooky (eps 1-15)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

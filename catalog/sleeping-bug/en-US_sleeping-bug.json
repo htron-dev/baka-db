@@ -1,5 +1,9 @@
 {
     "title": "Sleeping Bug",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247450.jpg",
+        "alt": "sleeping-bug"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

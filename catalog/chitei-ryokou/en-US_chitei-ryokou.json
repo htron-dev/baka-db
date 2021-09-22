@@ -1,5 +1,9 @@
 {
     "title": "Chitei Ryokou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174739.jpg",
+        "alt": "chitei-ryokou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

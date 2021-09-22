@@ -1,5 +1,9 @@
 {
     "title": "Teddy Bear no Wakarekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208105.jpg",
+        "alt": "teddy-bear-no-wakarekata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

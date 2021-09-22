@@ -1,5 +1,9 @@
 {
     "title": "Shintan Kairou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242841.jpg",
+        "alt": "shintan-kairou"
+    },
     "type": "manga",
     "original_name": "深潭回廊",
     "tags": [

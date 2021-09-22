@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Fairytail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160624.jpg",
+        "alt": "houkago-no-fairytail"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "放課後のフェアリーテイル",

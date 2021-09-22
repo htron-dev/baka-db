@@ -1,5 +1,9 @@
 {
     "title": "Crazy Love Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/31627.jpg",
+        "alt": "crazy-love-game"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

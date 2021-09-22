@@ -1,11 +1,15 @@
 {
     "title": "Macademi Wasshoi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/74031.jpg",
+        "alt": "macademi-wasshoi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "まかでみ WA っしょい！",
     "start_date": "2008-10-06",
     "end_date": "2008-10-06",
-    "opening_song": "\"M☆O☆S☆O Ranbu (M☆O☆S☆O 乱舞)\" by MA・chu・RI",
+    "opening_song": "\"M☆O☆S☆O Ranbu (M☆O☆S☆O 乱舞)\" by MA・chu・RI: Mariya Ise, Ui Miyazaki and Yukari Fukui",
     "ending_song": "\"Pastel (パステル)\" by Ayumi Murata",
     "rating": "R+ - Mild Nudity",
     "tags": [

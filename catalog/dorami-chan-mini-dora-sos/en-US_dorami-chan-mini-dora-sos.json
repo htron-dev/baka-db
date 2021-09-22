@@ -1,5 +1,9 @@
 {
     "title": "Dorami-chan: Mini-Dora SOS!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/22663.jpg",
+        "alt": "dorami-chan-mini-dora-sos"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラミちゃん ミニドラ SOS!!!",

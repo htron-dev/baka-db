@@ -1,5 +1,9 @@
 {
     "title": "Renwu Dashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1726/109274.jpg",
+        "alt": "renwu-dashi"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "任务大师",

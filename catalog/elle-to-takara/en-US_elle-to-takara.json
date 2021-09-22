@@ -1,5 +1,9 @@
 {
     "title": "Elle to Takara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62355.jpg",
+        "alt": "elle-to-takara"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "エレとタカラ",

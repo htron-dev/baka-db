@@ -1,5 +1,9 @@
 {
     "title": "Grateful Dead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132061.jpg",
+        "alt": "grateful-dead"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

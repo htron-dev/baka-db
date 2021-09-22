@@ -1,5 +1,9 @@
 {
     "title": "Sister Generator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142161.jpg",
+        "alt": "sister-generator"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

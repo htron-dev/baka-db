@@ -1,5 +1,9 @@
 {
     "title": "Red Shoes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1403/112558.jpg",
+        "alt": "red-shoes"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "레드슈즈",

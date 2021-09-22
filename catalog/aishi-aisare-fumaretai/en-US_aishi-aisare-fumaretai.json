@@ -1,5 +1,9 @@
 {
     "title": "Aishi, Aisare, Fumaretai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192952.jpg",
+        "alt": "aishi-aisare-fumaretai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

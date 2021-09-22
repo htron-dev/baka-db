@@ -1,5 +1,9 @@
 {
     "title": "Princess Maison",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169516.jpg",
+        "alt": "princess-maison"
+    },
     "type": "manga",
     "original_name": "プリンセスメゾン",
     "start_date": "2014-08-07",

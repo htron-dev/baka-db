@@ -1,5 +1,9 @@
 {
     "title": "Junai Bride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/60605.jpg",
+        "alt": "junai-bride"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

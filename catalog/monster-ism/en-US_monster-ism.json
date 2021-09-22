@@ -1,5 +1,9 @@
 {
     "title": "Monster-ism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204604.jpg",
+        "alt": "monster-ism"
+    },
     "type": "manga",
     "original_name": "怪物体質～ monster-ism ～",
     "start_date": "2016-08-31",

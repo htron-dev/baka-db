@@ -1,5 +1,9 @@
 {
     "title": "Chikyuu no Houkago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188829.jpg",
+        "alt": "chikyuu-no-houkago"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "36",

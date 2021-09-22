@@ -1,5 +1,9 @@
 {
     "title": "Oya Niwa Naisho no Koimonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11957.jpg",
+        "alt": "oya-niwa-naisho-no-koimonogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

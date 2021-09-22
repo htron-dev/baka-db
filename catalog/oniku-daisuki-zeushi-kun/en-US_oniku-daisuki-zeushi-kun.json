@@ -1,11 +1,15 @@
 {
     "title": "Oniku Daisuki! Zeushi-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/58803.jpg",
+        "alt": "oniku-daisuki-zeushi-kun"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "おにくだいすき! ゼウシくん",
     "start_date": "2014-01-06",
     "end_date": "2014-01-06",
-    "opening_song": "\"Oniku Japanesque! (おにくじゃぽねすく！)\" by Zeushi-kun (CV",
+    "opening_song": "\"Oniku Japanesque! (おにくじゃぽねすく！)\" by Zeushi-kun (CV: Kana Hanazawa)",
     "rating": "G - All Ages",
     "tags": [
         "comedy"

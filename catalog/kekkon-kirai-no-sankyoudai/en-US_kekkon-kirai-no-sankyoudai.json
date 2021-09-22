@@ -1,5 +1,9 @@
 {
     "title": "Kekkon Kirai no Sankyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/89907.jpg",
+        "alt": "kekkon-kirai-no-sankyoudai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "結婚嫌いの三兄弟",

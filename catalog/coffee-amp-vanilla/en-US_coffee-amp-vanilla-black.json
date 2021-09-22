@@ -1,5 +1,9 @@
 {
     "title": "Coffee &amp; Vanilla Black",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236848.jpg",
+        "alt": "coffee-amp-vanilla-black"
+    },
     "type": "manga",
     "original_name": "コーヒー&バニラ black",
     "start_date": "2018-07-05",

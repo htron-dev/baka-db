@@ -1,5 +1,9 @@
 {
     "title": "My Little Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220904.jpg",
+        "alt": "my-little-vampire"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

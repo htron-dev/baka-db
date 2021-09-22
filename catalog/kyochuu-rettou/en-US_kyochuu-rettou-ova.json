@@ -1,5 +1,9 @@
 {
     "title": "Kyochuu Rettou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1808/116867.jpg",
+        "alt": "kyochuu-rettou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "巨蟲列島",

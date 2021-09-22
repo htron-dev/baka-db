@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Omatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203910.jpg",
+        "alt": "mahou-shoujo-omatsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

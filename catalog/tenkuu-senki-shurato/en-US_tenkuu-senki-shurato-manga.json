@@ -1,5 +1,9 @@
 {
     "title": "Tenkuu Senki Shurato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80385.jpg",
+        "alt": "tenkuu-senki-shurato"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "天空戦記シュラト",

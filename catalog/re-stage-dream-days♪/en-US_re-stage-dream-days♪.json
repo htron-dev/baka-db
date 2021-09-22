@@ -1,12 +1,16 @@
 {
     "title": "Re:Stage! Dream Days♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1002/111617.jpg",
+        "alt": "re-stage-dream-days♪"
+    },
     "type": "tv-serie",
     "episodes": "12",
-    "original_name": "Re",
+    "original_name": "Re:ステージ! ドリームデイズ ♪",
     "start_date": "2019-07-07",
     "end_date": "2019-07-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Brilliant Wings\" by Stellamaris [Aone Shikimiya (Minami Takahashi), Ruka Ichijou (Ayaka Suwa), Sango Misaki (Aimi Tanaka)] (ep 1)",
+    "ending_song": "#1: \"Akogare Future Sigin (Piano Strings Arrange) (憧れ Future Sign（Piano Strings Arrange）)\" by KiRaRe (eps 1-7, 9-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

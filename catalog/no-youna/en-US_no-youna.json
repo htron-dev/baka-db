@@ -1,5 +1,9 @@
 {
     "title": "No, Youna.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221530.jpg",
+        "alt": "no-youna"
+    },
     "type": "manga",
     "original_name": "の、ような。",
     "start_date": "2017-03-29",

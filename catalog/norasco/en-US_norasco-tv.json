@@ -1,5 +1,9 @@
 {
     "title": "Norasco (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/74585.jpg",
+        "alt": "norasco-tv"
+    },
     "type": "tv-serie",
     "episodes": "43",
     "original_name": "野良スコ",

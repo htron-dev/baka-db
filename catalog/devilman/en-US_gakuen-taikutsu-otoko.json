@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Taikutsu Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29080.jpg",
+        "alt": "gakuen-taikutsu-otoko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

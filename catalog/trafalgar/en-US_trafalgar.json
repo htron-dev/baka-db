@@ -1,5 +1,9 @@
 {
     "title": "Trafalgar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46631.jpg",
+        "alt": "trafalgar"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

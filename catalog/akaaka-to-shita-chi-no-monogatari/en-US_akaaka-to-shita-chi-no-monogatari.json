@@ -1,5 +1,9 @@
 {
     "title": "Akaaka to Shita Chi no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188836.jpg",
+        "alt": "akaaka-to-shita-chi-no-monogatari"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "103",

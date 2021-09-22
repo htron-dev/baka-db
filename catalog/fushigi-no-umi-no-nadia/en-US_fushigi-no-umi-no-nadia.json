@@ -1,5 +1,9 @@
 {
     "title": "Fushigi no Umi no Nadia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/52681.jpg",
+        "alt": "fushigi-no-umi-no-nadia"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ふしぎの海のナディア",

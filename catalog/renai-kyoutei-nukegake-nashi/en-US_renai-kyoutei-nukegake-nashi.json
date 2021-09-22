@@ -1,5 +1,9 @@
 {
     "title": "Renai Kyoutei: Nukegake Nashi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156069.jpg",
+        "alt": "renai-kyoutei-nukegake-nashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

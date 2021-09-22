@@ -1,5 +1,9 @@
 {
     "title": "Dual Eraser",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164260.jpg",
+        "alt": "dual-eraser"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Kagami no Mae de Aimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185401.jpg",
+        "alt": "kagami-no-mae-de-aimashou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

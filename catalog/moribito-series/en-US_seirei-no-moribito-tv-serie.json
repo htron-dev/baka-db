@@ -1,5 +1,9 @@
 {
     "title": "Seirei no Moribito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/50337.jpg",
+        "alt": "seirei-no-moribito"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "精霊の守り人",

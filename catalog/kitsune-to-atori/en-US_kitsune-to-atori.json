@@ -1,5 +1,9 @@
 {
     "title": "Kitsune to Atori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16084.jpg",
+        "alt": "kitsune-to-atori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

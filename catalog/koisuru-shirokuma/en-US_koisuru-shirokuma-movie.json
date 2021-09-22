@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Shirokuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/84270.jpg",
+        "alt": "koisuru-shirokuma"
+    },
     "type": "movie",
     "episodes": "9",
     "original_name": "恋するシロクマ",

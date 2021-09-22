@@ -1,5 +1,9 @@
 {
     "title": "99: Ninetynine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40319.jpg",
+        "alt": "99-ninetynine"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "99 ～ NINETYNINE ～",

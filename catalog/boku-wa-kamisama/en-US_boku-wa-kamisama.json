@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Kamisama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194882.jpg",
+        "alt": "boku-wa-kamisama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

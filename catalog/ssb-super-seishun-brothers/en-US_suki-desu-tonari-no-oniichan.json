@@ -1,5 +1,9 @@
 {
     "title": "Suki desu, Tonari no Oniichan.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229911.jpg",
+        "alt": "suki-desu-tonari-no-oniichan"
+    },
     "type": "manga",
     "original_name": "好きです、となりのお兄ちゃん。",
     "start_date": "2017-04-20",

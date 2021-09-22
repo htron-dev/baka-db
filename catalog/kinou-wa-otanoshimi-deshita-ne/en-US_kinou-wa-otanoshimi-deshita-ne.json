@@ -1,5 +1,9 @@
 {
     "title": "Kinou wa Otanoshimi deshita ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236167.jpg",
+        "alt": "kinou-wa-otanoshimi-deshita-ne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

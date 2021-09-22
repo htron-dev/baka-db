@@ -1,5 +1,9 @@
 {
     "title": "My Doll House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177034.jpg",
+        "alt": "my-doll-house"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

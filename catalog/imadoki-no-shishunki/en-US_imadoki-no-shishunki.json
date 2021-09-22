@@ -1,5 +1,9 @@
 {
     "title": "Imadoki no Shishunki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149493.jpg",
+        "alt": "imadoki-no-shishunki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

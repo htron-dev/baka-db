@@ -1,5 +1,9 @@
 {
     "title": "The Lamp Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1750/99283.jpg",
+        "alt": "the-lamp-man"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "The Lamp Man",

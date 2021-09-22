@@ -1,5 +1,9 @@
 {
     "title": "Blue Gralia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164319.jpg",
+        "alt": "blue-gralia"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

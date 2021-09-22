@@ -1,5 +1,9 @@
 {
     "title": "Ninja Box",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1421/102040.jpg",
+        "alt": "ninja-box"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "ニンジャボックス",

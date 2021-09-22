@@ -1,5 +1,9 @@
 {
     "title": "Ulineun Myeong-tam-jeong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1009/115259.jpg",
+        "alt": "ulineun-myeong-tam-jeong"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "우리는 명탐정",

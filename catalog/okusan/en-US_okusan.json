@@ -1,5 +1,9 @@
 {
     "title": "Okusan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72701.jpg",
+        "alt": "okusan"
+    },
     "type": "manga",
     "original_name": "おくさん",
     "start_date": "2008-12-23",

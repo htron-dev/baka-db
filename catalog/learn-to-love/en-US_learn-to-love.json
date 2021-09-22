@@ -1,5 +1,9 @@
 {
     "title": "Learn to Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/71460.jpg",
+        "alt": "learn-to-love"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "learn to love",

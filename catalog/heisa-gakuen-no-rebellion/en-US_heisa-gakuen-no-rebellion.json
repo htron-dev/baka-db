@@ -1,5 +1,9 @@
 {
     "title": "Heisa Gakuen no Rebellion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160553.jpg",
+        "alt": "heisa-gakuen-no-rebellion"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "閉鎖学園のリベリオン",

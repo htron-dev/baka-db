@@ -1,5 +1,9 @@
 {
     "title": "Rhythm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/85269.jpg",
+        "alt": "rhythm"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "RHYTHM(リズム)",

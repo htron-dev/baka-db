@@ -1,5 +1,9 @@
 {
     "title": "Genei Hakurankai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6169.jpg",
+        "alt": "genei-hakurankai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "40",

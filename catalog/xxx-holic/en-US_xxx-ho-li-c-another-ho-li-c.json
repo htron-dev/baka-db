@@ -1,5 +1,9 @@
 {
     "title": "xxxHOLiC: AnotherHOLiC",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202284.jpg",
+        "alt": "xxx-ho-li-c-another-ho-li-c"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

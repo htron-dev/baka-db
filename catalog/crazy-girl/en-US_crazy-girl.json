@@ -1,5 +1,9 @@
 {
     "title": "Crazy Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6368.jpg",
+        "alt": "crazy-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

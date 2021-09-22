@@ -1,9 +1,13 @@
 {
     "title": "Ore Space☆Dandy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165393.jpg",
+        "alt": "ore-space☆-dandy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",
-    "original_name": "俺 スペース☆ダンディ",
+    "original_name": "俺 スペース ☆ ダンディ",
     "start_date": "2014-06-22",
     "end_date": "2014-06-22",
     "tags": [

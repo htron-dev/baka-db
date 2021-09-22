@@ -1,10 +1,14 @@
 {
     "title": "Gundress",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1938/112269.jpg",
+        "alt": "gundress"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ガンドレス",
     "start_date": "1999-03-20",
-    "ending_song": "\"Close to Me",
+    "ending_song": "\"Close to Me: Sekai no Hate made (Cinema Version) (Close to me~世界の果てまで~(シネマバージョン))\" by R-ORANGE, Takura Kawana & Akiko Nakata",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Lalabel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/17538.jpg",
+        "alt": "mahou-shoujo-lalabel"
+    },
     "type": "tv-serie",
     "episodes": "49",
     "original_name": "魔法少女ララベル",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "http://Maeterlinck no Aoi Tori"
+            "link": "https://en.wikipedia.org/wiki/Lalabel,_the_Magical_Girl"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Gunjou Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197297.jpg",
+        "alt": "gunjou-senki"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "177",

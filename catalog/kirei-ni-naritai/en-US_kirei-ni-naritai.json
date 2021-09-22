@@ -1,5 +1,9 @@
 {
     "title": "Kirei ni Naritai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165073.jpg",
+        "alt": "kirei-ni-naritai"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "キレイになりたい!",

@@ -1,5 +1,9 @@
 {
     "title": "Penguin no Mondai POW",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1575/101999.jpg",
+        "alt": "penguin-no-mondai-pow"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ペンギンの問題 POW",

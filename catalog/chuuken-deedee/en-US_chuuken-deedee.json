@@ -1,5 +1,9 @@
 {
     "title": "Chuuken Deedee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5358.jpg",
+        "alt": "chuuken-deedee"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "忠犬ディディー",

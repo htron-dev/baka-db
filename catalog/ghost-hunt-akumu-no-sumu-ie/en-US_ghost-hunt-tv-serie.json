@@ -1,5 +1,9 @@
 {
     "title": "Ghost Hunt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/73908.jpg",
+        "alt": "ghost-hunt"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ゴーストハント",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Ghost_Hunt_(anime"
+            "link": "http://en.wikipedia.org/wiki/Ghost_Hunt_%28anime%29"
         }
     ]
 }

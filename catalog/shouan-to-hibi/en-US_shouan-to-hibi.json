@@ -1,5 +1,9 @@
 {
     "title": "Shouan to Hibi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231497.jpg",
+        "alt": "shouan-to-hibi"
+    },
     "type": "manga",
     "original_name": "しょうあんと日々。",
     "start_date": "2018-08-25",

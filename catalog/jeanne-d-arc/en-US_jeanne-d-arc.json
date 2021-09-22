@@ -1,5 +1,9 @@
 {
     "title": "Jeanne d'Arc",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28064.jpg",
+        "alt": "jeanne-d-arc"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "ジャンヌ・ダルク (天川 すみこ)",

@@ -1,5 +1,9 @@
 {
     "title": "Jim Button",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/15912.jpg",
+        "alt": "jim-button"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ジムボタン",

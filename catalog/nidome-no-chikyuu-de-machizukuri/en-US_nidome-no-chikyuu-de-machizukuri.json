@@ -1,5 +1,9 @@
 {
     "title": "Nidome no Chikyuu de Machizukuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200010.jpg",
+        "alt": "nidome-no-chikyuu-de-machizukuri"
+    },
     "type": "light-novel",
     "original_name": "二度目の地球で街づくり",
     "start_date": "2017-09-15",

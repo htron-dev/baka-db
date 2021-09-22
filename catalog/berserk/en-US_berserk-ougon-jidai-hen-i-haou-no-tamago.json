@@ -1,5 +1,9 @@
 {
     "title": "Berserk: Ougon Jidai-hen I - Haou no Tamago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/62179.jpg",
+        "alt": "berserk-ougon-jidai-hen-i-haou-no-tamago"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ベルセルク 黄金時代篇 Ⅰ 覇王の卵",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Berserk_(manga"
+            "link": "http://en.wikipedia.org/wiki/Berserk_%28manga%29"
         }
     ]
 }

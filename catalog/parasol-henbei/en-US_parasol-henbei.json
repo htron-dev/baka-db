@@ -1,5 +1,9 @@
 {
     "title": "Parasol Henbei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/44704.jpg",
+        "alt": "parasol-henbei"
+    },
     "type": "tv-serie",
     "episodes": "200",
     "original_name": "パラソルヘンべえ",

@@ -1,5 +1,9 @@
 {
     "title": "Yukiwatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/74507.jpg",
+        "alt": "yukiwatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "雪渡り",

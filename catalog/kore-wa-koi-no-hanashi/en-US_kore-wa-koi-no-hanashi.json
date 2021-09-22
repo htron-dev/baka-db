@@ -1,5 +1,9 @@
 {
     "title": "Kore wa Koi no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196299.jpg",
+        "alt": "kore-wa-koi-no-hanashi"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "45",

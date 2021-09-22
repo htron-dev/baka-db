@@ -1,5 +1,9 @@
 {
     "title": "Super Comic Gekijou: Fire Emblem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151597.jpg",
+        "alt": "super-comic-gekijou-fire-emblem"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スーパーコミック劇場 ファイアーエムブレム",

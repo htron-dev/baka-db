@@ -1,5 +1,9 @@
 {
     "title": "Ginen Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29280.jpg",
+        "alt": "ginen-shounen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

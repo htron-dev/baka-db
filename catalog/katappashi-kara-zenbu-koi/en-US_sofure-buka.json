@@ -1,5 +1,9 @@
 {
     "title": "Sofure Buka!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220989.jpg",
+        "alt": "sofure-buka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

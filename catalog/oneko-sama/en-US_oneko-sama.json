@@ -1,5 +1,9 @@
 {
     "title": "Oneko-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/127231.jpg",
+        "alt": "oneko-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Ranto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30014.jpg",
+        "alt": "ranto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "4",

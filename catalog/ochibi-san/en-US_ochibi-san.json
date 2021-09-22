@@ -1,5 +1,9 @@
 {
     "title": "Ochibi-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118155.jpg",
+        "alt": "ochibi-san"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "オチビサン",

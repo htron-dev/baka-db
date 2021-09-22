@@ -1,5 +1,9 @@
 {
     "title": "Boku to Kanojo no Game Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165574.jpg",
+        "alt": "boku-to-kanojo-no-game-sensou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

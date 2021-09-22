@@ -1,5 +1,9 @@
 {
     "title": "Onkyo Seimeitai Noiseman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/19521.jpg",
+        "alt": "onkyo-seimeitai-noiseman"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "音響生命体ノイズマン",

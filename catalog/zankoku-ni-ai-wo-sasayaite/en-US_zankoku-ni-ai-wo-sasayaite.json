@@ -1,5 +1,9 @@
 {
     "title": "Zankoku ni Ai wo Sasayaite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164850.jpg",
+        "alt": "zankoku-ni-ai-wo-sasayaite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

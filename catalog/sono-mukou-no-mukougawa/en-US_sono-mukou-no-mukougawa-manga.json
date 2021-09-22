@@ -1,5 +1,9 @@
 {
     "title": "Sono Mukou no Mukougawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/138525.jpg",
+        "alt": "sono-mukou-no-mukougawa"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "38",

@@ -1,5 +1,9 @@
 {
     "title": "Raphael",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7722.jpg",
+        "alt": "raphael"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Futari ga Kazoku ni Naru made ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240904.jpg",
+        "alt": "futari-ga-kazoku-ni-naru-made-ni"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

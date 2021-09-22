@@ -1,5 +1,9 @@
 {
     "title": "Tenkuu Shinpan Arrive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223734.jpg",
+        "alt": "tenkuu-shinpan-arrive"
+    },
     "type": "manga",
     "original_name": "天空侵犯 arrive",
     "start_date": "2019-07-28",

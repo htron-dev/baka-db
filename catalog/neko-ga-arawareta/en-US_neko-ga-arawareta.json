@@ -1,5 +1,9 @@
 {
     "title": "Neko ga Arawareta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221933.jpg",
+        "alt": "neko-ga-arawareta"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "43",

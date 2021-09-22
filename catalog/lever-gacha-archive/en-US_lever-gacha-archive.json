@@ -1,5 +1,9 @@
 {
     "title": "Lever Gacha Archive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215151.jpg",
+        "alt": "lever-gacha-archive"
+    },
     "type": "manga",
     "original_name": "レバガチャアーカイブ",
     "start_date": "2018-01-30",

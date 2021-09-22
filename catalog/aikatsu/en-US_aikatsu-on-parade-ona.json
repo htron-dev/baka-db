@@ -1,5 +1,9 @@
 {
     "title": "Aikatsu on Parade! (ONA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1704/106781.jpg",
+        "alt": "aikatsu-on-parade-ona"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "アイカツオンパレード!",

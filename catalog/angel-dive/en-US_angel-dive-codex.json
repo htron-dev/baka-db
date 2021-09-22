@@ -1,5 +1,9 @@
 {
     "title": "Angel+Dive: Codex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135511.jpg",
+        "alt": "angel-dive-codex"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ANGEL+DIVE CODEX",

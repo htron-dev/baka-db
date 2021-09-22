@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Trattoria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/107925.jpg",
+        "alt": "houkago-no-trattoria"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

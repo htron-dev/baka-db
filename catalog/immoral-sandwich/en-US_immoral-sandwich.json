@@ -1,5 +1,9 @@
 {
     "title": "Immoral Sandwich",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192855.jpg",
+        "alt": "immoral-sandwich"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "インモラルサンドイッチ",

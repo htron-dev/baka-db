@@ -1,5 +1,9 @@
 {
     "title": "Adam to Eve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178501.jpg",
+        "alt": "adam-to-eve"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

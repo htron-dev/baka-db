@@ -1,5 +1,9 @@
 {
     "title": "The X Files",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16902.jpg",
+        "alt": "the-x-files"
+    },
     "type": "manga",
     "volumes": "3",
     "start_date": "1996-03-01",

@@ -1,5 +1,9 @@
 {
     "title": "Kantan dakedo, Mendokusai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223855.jpg",
+        "alt": "kantan-dakedo-mendokusai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

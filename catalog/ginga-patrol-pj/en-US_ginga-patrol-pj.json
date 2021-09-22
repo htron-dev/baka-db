@@ -1,12 +1,16 @@
 {
     "title": "Ginga Patrol PJ",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/31535.jpg",
+        "alt": "ginga-patrol-pj"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "銀河パトロール PJ",
     "start_date": "1982-10-09",
     "end_date": "1982-10-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Ashita no Ginga e (あしたの銀河へ)\" by ピーカブー",
+    "ending_song": "#1: \"Ai no Mori (愛の森)\" by ピーカブー",
     "rating": "None",
     "tags": [
         "drama",

@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Ouja: King Kong Taikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/66461.jpg",
+        "alt": "sekai-no-ouja-king-kong-taikai"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "世界の王者 キングコング大会",

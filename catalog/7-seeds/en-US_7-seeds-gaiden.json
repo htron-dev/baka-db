@@ -1,5 +1,9 @@
 {
     "title": "7 Seeds Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220501.jpg",
+        "alt": "7-seeds-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Nameless Newbie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163869.jpg",
+        "alt": "nameless-newbie"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

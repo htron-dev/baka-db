@@ -1,5 +1,9 @@
 {
     "title": "Little Busters!: Last of Refrain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184005.jpg",
+        "alt": "little-busters-last-of-refrain"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

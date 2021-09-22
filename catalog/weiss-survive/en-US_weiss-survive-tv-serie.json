@@ -1,5 +1,9 @@
 {
     "title": "Weiß Survive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/17261.jpg",
+        "alt": "weiss-survive"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "ヴァイス・サヴァイヴ",

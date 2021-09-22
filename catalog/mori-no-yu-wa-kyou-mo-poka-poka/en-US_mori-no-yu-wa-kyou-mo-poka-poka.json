@@ -1,5 +1,9 @@
 {
     "title": "Mori no Yu wa Kyou mo Poka Poka!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45525.jpg",
+        "alt": "mori-no-yu-wa-kyou-mo-poka-poka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

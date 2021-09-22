@@ -1,5 +1,9 @@
 {
     "title": "Eden no Otome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223276.jpg",
+        "alt": "eden-no-otome"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

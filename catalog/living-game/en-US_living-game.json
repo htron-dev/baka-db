@@ -1,5 +1,9 @@
 {
     "title": "Living Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209664.jpg",
+        "alt": "living-game"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "119",

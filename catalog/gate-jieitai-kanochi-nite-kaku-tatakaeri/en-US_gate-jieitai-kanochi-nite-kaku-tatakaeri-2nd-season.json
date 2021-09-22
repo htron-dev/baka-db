@@ -1,12 +1,16 @@
 {
     "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/77382.jpg",
+        "alt": "gate-jieitai-kanochi-nite-kaku-tatakaeri-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "GATE（ゲート）自衛隊　彼の地にて、斯く戦えり　第 2 クール",
     "start_date": "2016-01-09",
     "end_date": "2016-01-09",
-    "opening_song": "\"GATE II",
-    "ending_song": "#1",
+    "opening_song": "\"GATE II: Sekai wo Koete (GATE Ⅱ ～世界を超えて～)\" by Kishida Kyoudan & The Akeboshi Rockets",
+    "ending_song": "#1: \"Itsudatte Communication (いつだってコミュニケーション)\" by Tuka (Hisako Kanemoto), Lelei (Nao Touyama), Rory (Risa Taneda) (eps 1-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Gate_(novel_series"
+            "link": "https://en.wikipedia.org/wiki/Gate_%28novel_series%29"
         }
     ]
 }

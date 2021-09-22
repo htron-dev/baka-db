@@ -1,5 +1,9 @@
 {
     "title": "Rulia Nya!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38432.jpg",
+        "alt": "rulia-nya"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ルリアーにゃ!!",

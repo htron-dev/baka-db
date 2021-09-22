@@ -1,5 +1,9 @@
 {
     "title": "Nihon no Ichiban Jungle na Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173435.jpg",
+        "alt": "nihon-no-ichiban-jungle-na-hi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Yuusha no Segare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194455.jpg",
+        "alt": "yuusha-no-segare"
+    },
     "type": "light-novel",
     "original_name": "勇者のセガレ",
     "start_date": "2017-01-10",

@@ -1,5 +1,9 @@
 {
     "title": "Bokusatsu Tenshi Dokuro-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4442.jpg",
+        "alt": "bokusatsu-tenshi-dokuro-chan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

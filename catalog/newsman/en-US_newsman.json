@@ -1,5 +1,9 @@
 {
     "title": "Newsman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23219.jpg",
+        "alt": "newsman"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

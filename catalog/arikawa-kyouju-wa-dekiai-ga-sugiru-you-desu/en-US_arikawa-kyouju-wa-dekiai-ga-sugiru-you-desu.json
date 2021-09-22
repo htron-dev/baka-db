@@ -1,5 +1,9 @@
 {
     "title": "Arikawa Kyouju wa Dekiai ga Sugiru you desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238380.jpg",
+        "alt": "arikawa-kyouju-wa-dekiai-ga-sugiru-you-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

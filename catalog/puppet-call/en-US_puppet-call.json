@@ -1,5 +1,9 @@
 {
     "title": "Puppet Call!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203232.jpg",
+        "alt": "puppet-call"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

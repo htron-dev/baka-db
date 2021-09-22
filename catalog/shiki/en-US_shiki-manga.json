@@ -1,5 +1,9 @@
 {
     "title": "Shiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/56519.jpg",
+        "alt": "shiki"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "42",

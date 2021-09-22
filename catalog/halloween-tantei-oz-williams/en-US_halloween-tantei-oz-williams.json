@@ -1,5 +1,9 @@
 {
     "title": "Halloween Tantei Oz Williams",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174651.jpg",
+        "alt": "halloween-tantei-oz-williams"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",
