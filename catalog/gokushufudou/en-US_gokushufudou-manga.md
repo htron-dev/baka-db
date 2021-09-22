@@ -1,5 +1,7 @@
 # Gokushufudou
 
+![gokushufudou](https://cdn.myanimelist.net/images/manga/3/210716.jpg)
+
 -   **type**: manga
 -   **original-name**: 極主夫道
 -   **start-date**: 2018-02-23

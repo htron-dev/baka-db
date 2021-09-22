@@ -1,5 +1,7 @@
 # A Wolf Warning
 
+![a-wolf-warning](https://cdn.myanimelist.net/images/manga/2/153982.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **original-name**: 늑대 주의보

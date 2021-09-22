@@ -1,5 +1,7 @@
 # Prince of Wangja
 
+![prince-of-wangja](https://cdn.myanimelist.net/images/manga/3/149529.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 프린스의 왕자
 -   **start-date**: 2014-05-04

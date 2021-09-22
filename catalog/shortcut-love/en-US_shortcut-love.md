@@ -1,5 +1,7 @@
 # Shortcut Love
 
+![shortcut-love](https://cdn.myanimelist.net/images/manga/1/6412.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

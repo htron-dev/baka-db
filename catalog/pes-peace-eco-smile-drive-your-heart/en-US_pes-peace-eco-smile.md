@@ -1,5 +1,7 @@
 # PES: Peace Eco Smile
 
+![pes-peace-eco-smile](https://cdn.myanimelist.net/images/anime/6/39245.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: PES: Peace Eco Smile

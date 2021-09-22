@@ -1,5 +1,7 @@
 # Mairimashita! Iruma-kun Koushiki Anthology: Houkago no! Iruma-kun
 
+![mairimashita-iruma-kun-koushiki-anthology-houkago-no-iruma-kun](https://cdn.myanimelist.net/images/manga/2/246123.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔入りました!入間くん公式アンソロジー 放課後の!入間くん
 -   **start-date**: 2020-11-06

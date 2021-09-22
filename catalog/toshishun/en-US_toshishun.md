@@ -1,5 +1,7 @@
 # Toshishun
 
+![toshishun](https://cdn.myanimelist.net/images/anime/9/74759.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 杜子春

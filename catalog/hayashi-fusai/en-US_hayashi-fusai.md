@@ -1,5 +1,7 @@
 # Hayashi-fusai
 
+![hayashi-fusai](https://cdn.myanimelist.net/images/anime/6/88648.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ハヤシフサイ

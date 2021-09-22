@@ -1,5 +1,7 @@
 # Kabe ni Shiri Ari!? Wakeari Kubiwa to Jibakurei
 
+![kabe-ni-shiri-ari-wakeari-kubiwa-to-jibakurei](https://cdn.myanimelist.net/images/manga/3/169773.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

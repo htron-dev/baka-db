@@ -1,5 +1,7 @@
 # Rozen Maiden: Meitantei Kunkun - Duell Walzer
 
+![rozen-maiden-meitantei-kunkun-duell-walzer](https://cdn.myanimelist.net/images/anime/10/3373.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 名探偵くんくん

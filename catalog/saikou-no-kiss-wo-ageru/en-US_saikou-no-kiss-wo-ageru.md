@@ -1,5 +1,7 @@
 # Saikou no Kiss wo Ageru
 
+![saikou-no-kiss-wo-ageru](https://cdn.myanimelist.net/images/manga/3/9246.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

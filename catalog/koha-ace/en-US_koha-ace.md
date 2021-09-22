@@ -1,5 +1,7 @@
 # Koha-Ace
 
+![koha-ace](https://cdn.myanimelist.net/images/manga/3/180809.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 92

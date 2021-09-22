@@ -1,5 +1,7 @@
 # Sekai wa Owattemo Ikiru tte Tanoshii
 
+![sekai-wa-owattemo-ikiru-tte-tanoshii](https://cdn.myanimelist.net/images/manga/1/235114.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界は終わっても生きるって楽しい
 -   **start-date**: 2020-02-14

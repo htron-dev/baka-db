@@ -1,5 +1,7 @@
 # Durarara!!x2 Ketsu
 
+![durarara-x-2-ketsu](https://cdn.myanimelist.net/images/anime/6/77838.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: デュラララ!!×2 結

@@ -1,5 +1,7 @@
 # Gozen 3-ji no Houmonsha - Sugihara Machiko Tanpenshuu
 
+![gozen-3-ji-no-houmonsha-sugihara-machiko-tanpenshuu](https://cdn.myanimelist.net/images/manga/3/40492.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

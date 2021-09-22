@@ -1,5 +1,7 @@
 # K Side:Red
 
+![k-side-red](https://cdn.myanimelist.net/images/manga/2/82952.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

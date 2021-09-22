@@ -1,5 +1,7 @@
 # Soredemo Suki desu Kasahara-san
 
+![soredemo-suki-desu-kasahara-san](https://cdn.myanimelist.net/images/manga/3/220424.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

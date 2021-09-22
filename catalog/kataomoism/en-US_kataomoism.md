@@ -1,5 +1,7 @@
 # Kataomoism
 
+![kataomoism](https://cdn.myanimelist.net/images/manga/3/160724.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 片想イズム

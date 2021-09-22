@@ -1,5 +1,7 @@
 # Wild Fish
 
+![wild-fish](https://cdn.myanimelist.net/images/manga/2/2640.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ryuujin Kishin to Tatakau Himemiko
 
+![ryuujin-kishin-to-tatakau-himemiko](https://cdn.myanimelist.net/images/manga/2/126169.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 龍刃機神と戦う姫巫女

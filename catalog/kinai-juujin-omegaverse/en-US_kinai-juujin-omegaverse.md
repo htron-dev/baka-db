@@ -1,5 +1,7 @@
 # Kinai: Juujin Omegaverse
 
+![kinai-juujin-omegaverse](https://cdn.myanimelist.net/images/manga/2/232066.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Okujou no Yurirei-san Side A: Mou Hitotsu no Yuritopia
 
+![okujou-no-yurirei-san-side-a-mou-hitotsu-no-yuritopia](https://cdn.myanimelist.net/images/manga/3/156112.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

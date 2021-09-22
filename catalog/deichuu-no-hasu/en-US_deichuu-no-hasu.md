@@ -1,5 +1,7 @@
 # Deichuu no Hasu
 
+![deichuu-no-hasu](https://cdn.myanimelist.net/images/manga/1/193187.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

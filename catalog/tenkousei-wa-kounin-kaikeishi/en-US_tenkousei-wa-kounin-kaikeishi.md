@@ -1,5 +1,7 @@
 # Tenkousei wa Kounin Kaikeishi!
 
+![tenkousei-wa-kounin-kaikeishi](https://cdn.myanimelist.net/images/anime/1198/90120.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 転校生は公認会計士！

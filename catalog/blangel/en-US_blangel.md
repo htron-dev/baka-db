@@ -1,5 +1,7 @@
 # BLANGEL
 
+![blangel](https://cdn.myanimelist.net/images/manga/2/9160.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ブランジェル

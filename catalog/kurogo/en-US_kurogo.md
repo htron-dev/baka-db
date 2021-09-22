@@ -1,5 +1,7 @@
 # Kurogo
 
+![kurogo](https://cdn.myanimelist.net/images/manga/3/27488.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: クロ號

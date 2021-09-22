@@ -1,5 +1,7 @@
 # Utsurosaki Masaki no Misshitsu Play
 
+![utsurosaki-masaki-no-misshitsu-play](https://cdn.myanimelist.net/images/manga/1/164262.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

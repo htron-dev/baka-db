@@ -1,5 +1,7 @@
 # Shin Koihime†Musou
 
+![shin-koihime-musou](https://cdn.myanimelist.net/images/anime/11/74035.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 真恋姫†無双 ～乙女繚乱 ☆ 三国志演義～

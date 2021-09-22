@@ -1,5 +1,7 @@
 # Kigu-tan: Kawaikute Kyouaku na OO Sha
 
+![kigu-tan-kawaikute-kyouaku-na-oo-sha](https://cdn.myanimelist.net/images/manga/3/110631.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

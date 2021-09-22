@@ -1,5 +1,7 @@
 # Onsen Takkyuu☆Companions!
 
+![onsen-takkyuu☆-companions](https://cdn.myanimelist.net/images/manga/2/206596.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

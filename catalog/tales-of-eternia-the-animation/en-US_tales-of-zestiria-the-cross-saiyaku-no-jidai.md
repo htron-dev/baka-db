@@ -1,5 +1,7 @@
 # Tales of Zestiria the Cross: Saiyaku no Jidai
 
+![tales-of-zestiria-the-cross-saiyaku-no-jidai](https://cdn.myanimelist.net/images/anime/6/80723.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: テイルズ オブ ゼスティリア ザ クロス #00 災厄の時代

@@ -1,5 +1,7 @@
 # Kimi wa Amai Amai
 
+![kimi-wa-amai-amai](https://cdn.myanimelist.net/images/manga/4/37964.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

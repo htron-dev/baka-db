@@ -1,5 +1,7 @@
 # Rinjin wa Door wo Tataku
 
+![rinjin-wa-door-wo-tataku](https://cdn.myanimelist.net/images/manga/2/89903.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 隣人はドアを叩く

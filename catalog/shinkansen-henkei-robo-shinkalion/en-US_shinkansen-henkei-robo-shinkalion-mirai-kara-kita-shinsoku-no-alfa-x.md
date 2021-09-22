@@ -1,5 +1,7 @@
 # Shinkansen Henkei Robo Shinkalion: Mirai kara Kita Shinsoku no ALFA-X
 
+![shinkansen-henkei-robo-shinkalion-mirai-kara-kita-shinsoku-no-alfa-x](https://cdn.myanimelist.net/images/anime/1445/101804.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新幹線変形ロボ シンカリオン 未来からきた神速の ALFA-X
@@ -11,7 +13,6 @@
 
 -   action
 -   sci-fi
-
 -   mecha
 
 ## Sinopse

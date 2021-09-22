@@ -1,5 +1,7 @@
 # Kuhime
 
+![kuhime](https://cdn.myanimelist.net/images/manga/2/180796.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

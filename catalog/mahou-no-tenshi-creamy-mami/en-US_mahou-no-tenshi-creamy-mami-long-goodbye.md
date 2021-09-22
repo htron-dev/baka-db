@@ -1,5 +1,7 @@
 # Mahou no Tenshi Creamy Mami: Long Goodbye
 
+![mahou-no-tenshi-creamy-mami-long-goodbye](https://cdn.myanimelist.net/images/anime/9/24833.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔法の天使クリィミーマミ　ロング・グッドバイ

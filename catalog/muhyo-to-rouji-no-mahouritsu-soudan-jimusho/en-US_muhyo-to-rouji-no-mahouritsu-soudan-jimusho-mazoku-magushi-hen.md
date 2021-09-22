@@ -1,5 +1,7 @@
 # Muhyo to Rouji no Mahouritsu Soudan Jimusho: Mazoku Magushi-hen
 
+![muhyo-to-rouji-no-mahouritsu-soudan-jimusho-mazoku-magushi-hen](https://cdn.myanimelist.net/images/manga/1/227302.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

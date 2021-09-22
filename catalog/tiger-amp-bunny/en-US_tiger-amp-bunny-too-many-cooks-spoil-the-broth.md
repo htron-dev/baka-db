@@ -1,5 +1,7 @@
 # Tiger &amp; Bunny: Too Many Cooks Spoil the Broth.
 
+![tiger-amp-bunny-too-many-cooks-spoil-the-broth](https://cdn.myanimelist.net/images/anime/9/74269.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Too many cooks spoil the broth.(船頭多くして船山に上る)

@@ -1,5 +1,7 @@
 # Bourgogne no Ouji-sama
 
+![bourgogne-no-ouji-sama](https://cdn.myanimelist.net/images/manga/3/155673.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

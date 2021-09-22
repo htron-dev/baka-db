@@ -1,5 +1,7 @@
 # Kakuriyo no Yadomeshi: Ayakashi Oyado ni Yomeiri shimasu.
 
+![kakuriyo-no-yadomeshi-ayakashi-oyado-ni-yomeiri-shimasu](https://cdn.myanimelist.net/images/manga/1/202911.jpg)
+
 -   **type**: manga
 -   **original-name**: かくりよの宿飯 あやかしお宿に嫁入りします。
 -   **start-date**: 2016-04-30

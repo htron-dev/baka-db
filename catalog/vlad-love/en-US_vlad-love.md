@@ -1,5 +1,7 @@
 # Vlad Love
 
+![vlad-love](https://cdn.myanimelist.net/images/anime/1796/110394.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ぶらどらぶ

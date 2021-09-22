@@ -1,5 +1,7 @@
 # Shuuai no Aria: Utahime wa Dekiai ni Amaku Naku
 
+![shuuai-no-aria-utahime-wa-dekiai-ni-amaku-naku](https://cdn.myanimelist.net/images/manga/3/184532.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

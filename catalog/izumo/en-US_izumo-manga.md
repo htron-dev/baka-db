@@ -1,5 +1,7 @@
 # Izumo
 
+![izumo](https://cdn.myanimelist.net/images/manga/2/209650.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

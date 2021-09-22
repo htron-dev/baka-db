@@ -1,5 +1,7 @@
 # Brave Witches
 
+![brave-witches](https://cdn.myanimelist.net/images/anime/6/81854.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 第 502 統合戦闘航空団 ブレイブウィッチーズ

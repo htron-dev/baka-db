@@ -1,5 +1,7 @@
 # Kuragehime Gaiden: Barakura - Bara no Aru Kurashi
 
+![kuragehime-gaiden-barakura-bara-no-aru-kurashi](https://cdn.myanimelist.net/images/manga/1/125223.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

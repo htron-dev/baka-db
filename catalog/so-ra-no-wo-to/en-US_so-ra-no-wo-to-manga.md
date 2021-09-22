@@ -1,5 +1,7 @@
 # So Ra No Wo To
 
+![so-ra-no-wo-to](https://cdn.myanimelist.net/images/manga/3/108315.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

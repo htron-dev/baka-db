@@ -1,5 +1,7 @@
 # Bibi
 
+![bibi](https://cdn.myanimelist.net/images/manga/2/26578.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 49

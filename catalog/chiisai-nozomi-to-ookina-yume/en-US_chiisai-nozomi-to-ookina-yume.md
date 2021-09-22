@@ -1,5 +1,7 @@
 # Chiisai Nozomi to Ookina Yume
 
+![chiisai-nozomi-to-ookina-yume](https://cdn.myanimelist.net/images/manga/2/232219.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

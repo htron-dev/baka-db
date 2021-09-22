@@ -1,5 +1,7 @@
 # Eddie the Fast Break
 
+![eddie-the-fast-break](https://cdn.myanimelist.net/images/anime/4/70727.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 7
 -   **original-name**: エディ・ザ・ファーストブレイク

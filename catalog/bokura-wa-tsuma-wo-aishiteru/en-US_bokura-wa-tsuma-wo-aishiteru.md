@@ -1,5 +1,7 @@
 # Bokura wa Tsuma wo Aishiteru
 
+![bokura-wa-tsuma-wo-aishiteru](https://cdn.myanimelist.net/images/manga/3/164438.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

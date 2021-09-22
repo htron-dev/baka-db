@@ -1,5 +1,7 @@
 # Magikano
 
+![magikano](https://cdn.myanimelist.net/images/manga/4/9633.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 53

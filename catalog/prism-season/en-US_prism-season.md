@@ -1,5 +1,7 @@
 # Prism Season
 
+![prism-season](https://cdn.myanimelist.net/images/anime/1507/94498.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: プリズムシーズン

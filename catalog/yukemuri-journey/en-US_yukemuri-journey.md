@@ -1,5 +1,7 @@
 # Yukemuri Journey
 
+![yukemuri-journey](https://cdn.myanimelist.net/images/manga/2/65663.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

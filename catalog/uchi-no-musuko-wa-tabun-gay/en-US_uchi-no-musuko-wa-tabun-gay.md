@@ -1,5 +1,7 @@
 # Uchi no Musuko wa Tabun Gay
 
+![uchi-no-musuko-wa-tabun-gay](https://cdn.myanimelist.net/images/manga/3/224102.jpg)
+
 -   **type**: manga
 -   **original-name**: うちの息子はたぶんゲイ
 -   **start-date**: 2019-08-22

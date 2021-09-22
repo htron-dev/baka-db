@@ -1,5 +1,7 @@
 # Bra Bra Ban Ban
 
+![bra-bra-ban-ban](https://cdn.myanimelist.net/images/manga/3/179569.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 62

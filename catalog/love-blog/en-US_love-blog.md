@@ -1,5 +1,7 @@
 # Love Blog
 
+![love-blog](https://cdn.myanimelist.net/images/manga/2/15501.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

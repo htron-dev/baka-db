@@ -1,5 +1,7 @@
 # Piyopiyo Clinic
 
+![piyopiyo-clinic](https://cdn.myanimelist.net/images/manga/2/27997.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぴよぴよ ☆ クリニック

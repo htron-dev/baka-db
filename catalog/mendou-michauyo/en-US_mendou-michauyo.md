@@ -1,5 +1,7 @@
 # Mendou Michauyo
 
+![mendou-michauyo](https://cdn.myanimelist.net/images/manga/3/2921.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Bippapbarulra
 
+![bippapbarulra](https://cdn.myanimelist.net/images/manga/1/206979.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 비빱바룰라

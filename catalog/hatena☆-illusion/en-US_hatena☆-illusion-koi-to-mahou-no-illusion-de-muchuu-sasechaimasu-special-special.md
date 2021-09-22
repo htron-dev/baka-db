@@ -1,5 +1,7 @@
 # Hatena☆Illusion: Koi to Mahou no Illusion de, Muchuu Sasechaimasu! Special
 
+![hatena☆-illusion-koi-to-mahou-no-illusion-de-muchuu-sasechaimasu-special](https://cdn.myanimelist.net/images/anime/1265/106701.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: はてな ☆ イリュージョン 特別編 「恋と魔法のイリュージョンで、夢中させちゃいます！スペシャル」

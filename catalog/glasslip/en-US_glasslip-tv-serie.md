@@ -1,5 +1,7 @@
 # Glasslip
 
+![glasslip](https://cdn.myanimelist.net/images/anime/12/64265.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: グラスリップ

@@ -1,5 +1,7 @@
 # Kasane
 
+![kasane](https://cdn.myanimelist.net/images/manga/1/205818.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

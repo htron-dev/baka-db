@@ -1,5 +1,7 @@
 # Oneechan Reboot!
 
+![oneechan-reboot](https://cdn.myanimelist.net/images/manga/1/164120.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

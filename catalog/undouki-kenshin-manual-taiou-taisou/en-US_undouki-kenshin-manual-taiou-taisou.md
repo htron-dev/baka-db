@@ -1,5 +1,7 @@
 # Undouki Kenshin Manual Taiou Taisou
 
+![undouki-kenshin-manual-taiou-taisou](https://cdn.myanimelist.net/images/anime/9/77734.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 運動器検診マニュアル対応体操

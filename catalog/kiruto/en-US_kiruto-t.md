@@ -1,5 +1,7 @@
 # Kiruto T
 
+![kiruto-t](https://cdn.myanimelist.net/images/manga/3/164801.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

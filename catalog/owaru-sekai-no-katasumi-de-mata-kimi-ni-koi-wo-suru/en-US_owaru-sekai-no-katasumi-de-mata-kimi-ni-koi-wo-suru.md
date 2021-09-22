@@ -1,5 +1,7 @@
 # Owaru Sekai no Katasumi de, Mata Kimi ni Koi wo Suru
 
+![owaru-sekai-no-katasumi-de-mata-kimi-ni-koi-wo-suru](https://cdn.myanimelist.net/images/manga/2/198104.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 終わる世界の片隅で、また君に恋をする

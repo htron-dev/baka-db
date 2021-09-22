@@ -1,5 +1,7 @@
 # Shinkonchuu de, Dekiai de.
 
+![shinkonchuu-de-dekiai-de](https://cdn.myanimelist.net/images/manga/1/232415.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

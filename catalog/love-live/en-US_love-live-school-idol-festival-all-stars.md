@@ -1,5 +1,7 @@
 # Love Live! School Idol Festival All Stars
 
+![love-live-school-idol-festival-all-stars](https://cdn.myanimelist.net/images/anime/1943/102566.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ラブライブ！スクールアイドルフェスティバル ALL STARS

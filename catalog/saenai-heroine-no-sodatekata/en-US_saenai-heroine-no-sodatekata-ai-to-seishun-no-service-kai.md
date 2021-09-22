@@ -1,5 +1,7 @@
 # Saenai Heroine no Sodatekata: Ai to Seishun no Service-kai
 
+![saenai-heroine-no-sodatekata-ai-to-seishun-no-service-kai](https://cdn.myanimelist.net/images/anime/6/70493.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 冴えない彼女の育てかた #0 「愛と青春のサービス回」

@@ -1,5 +1,7 @@
 # Biriken Nandemo Shoukai
 
+![biriken-nandemo-shoukai](https://cdn.myanimelist.net/images/anime/10/23070.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: ビリ犬なんでも商会

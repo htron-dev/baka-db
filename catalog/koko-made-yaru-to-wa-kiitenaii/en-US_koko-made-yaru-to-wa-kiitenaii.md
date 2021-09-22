@@ -1,5 +1,7 @@
 # Koko made Yaru to wa Kiitenaii!
 
+![koko-made-yaru-to-wa-kiitenaii](https://cdn.myanimelist.net/images/manga/3/247308.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

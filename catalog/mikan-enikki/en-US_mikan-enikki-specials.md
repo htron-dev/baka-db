@@ -1,5 +1,7 @@
 # Mikan Enikki Specials
 
+![mikan-enikki-specials](https://cdn.myanimelist.net/images/anime/6/65225.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: みかん絵日記

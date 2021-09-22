@@ -1,5 +1,7 @@
 # Oogami-san, Dadamore desu.
 
+![oogami-san-dadamore-desu](https://cdn.myanimelist.net/images/manga/1/197567.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 38

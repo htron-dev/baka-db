@@ -1,5 +1,7 @@
 # Nouka no Muko
 
+![nouka-no-muko](https://cdn.myanimelist.net/images/manga/3/41209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

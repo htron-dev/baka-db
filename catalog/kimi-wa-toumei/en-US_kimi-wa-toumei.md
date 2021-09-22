@@ -1,5 +1,7 @@
 # Kimi wa Toumei
 
+![kimi-wa-toumei](https://cdn.myanimelist.net/images/manga/2/76943.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

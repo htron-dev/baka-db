@@ -1,5 +1,7 @@
 # Isekai de Skill wo Kaitai shitara Cheat na Yome ga Zoushoku Shimashita: Gainen Kousa no Structure
 
+![isekai-de-skill-wo-kaitai-shitara-cheat-na-yome-ga-zoushoku-shimashita-gainen-kousa-no-structure](https://cdn.myanimelist.net/images/manga/3/205363.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界でスキルを解体したらチートな嫁が増殖しました 概念交差のストラクチャー
 -   **start-date**: 2017-07-07

@@ -1,5 +1,7 @@
 # Animal 1
 
+![animal-1](https://cdn.myanimelist.net/images/anime/2/47151.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: アニマル１

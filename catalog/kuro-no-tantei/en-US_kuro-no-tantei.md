@@ -1,5 +1,7 @@
 # Kuro no Tantei
 
+![kuro-no-tantei](https://cdn.myanimelist.net/images/manga/3/158493.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 30

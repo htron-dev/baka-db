@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Unicorn RE:0096
 
+![mobile-suit-gundam-unicorn-re-0096](https://cdn.myanimelist.net/images/anime/12/78633.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 機動戦士ガンダム UC（ユニコーン）RE:0096

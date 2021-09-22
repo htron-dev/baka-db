@@ -1,5 +1,7 @@
 # Houkago wa, Apron wo Kite.
 
+![houkago-wa-apron-wo-kite](https://cdn.myanimelist.net/images/manga/1/186543.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 放課後は、エプロンを着て。

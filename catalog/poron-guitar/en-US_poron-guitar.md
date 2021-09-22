@@ -1,5 +1,7 @@
 # Poron Guitar
 
+![poron-guitar](https://cdn.myanimelist.net/images/anime/8/71813.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポロンギター

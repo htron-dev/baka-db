@@ -1,5 +1,7 @@
 # Koi to Uso
 
+![koi-to-uso](https://cdn.myanimelist.net/images/manga/2/148055.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋と嘘
 -   **start-date**: 2014-08-10

@@ -1,5 +1,7 @@
 # Tomogui
 
+![tomogui](https://cdn.myanimelist.net/images/manga/1/203335.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

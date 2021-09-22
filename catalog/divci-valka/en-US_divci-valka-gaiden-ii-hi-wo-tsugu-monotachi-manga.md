@@ -1,5 +1,7 @@
 # Dívčí Válka Gaiden II: Hi wo Tsugu Monotachi
 
+![divci-valka-gaiden-ii-hi-wo-tsugu-monotachi](https://cdn.myanimelist.net/images/manga/1/238901.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙女戦争〈ディーヴチー・ヴァールカ〉 外伝 II 火を継ぐ者たち
 -   **start-date**: 2020-06-25

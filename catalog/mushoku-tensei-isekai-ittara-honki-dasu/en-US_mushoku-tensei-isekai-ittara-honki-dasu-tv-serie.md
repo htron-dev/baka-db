@@ -1,5 +1,7 @@
 # Mushoku Tensei: Isekai Ittara Honki Dasu
 
+![mushoku-tensei-isekai-ittara-honki-dasu](https://cdn.myanimelist.net/images/anime/1530/117776.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 無職転生 ～異世界行ったら本気だす～

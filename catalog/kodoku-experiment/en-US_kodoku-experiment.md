@@ -1,5 +1,7 @@
 # Kodoku Experiment
 
+![kodoku-experiment](https://cdn.myanimelist.net/images/manga/1/118097.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

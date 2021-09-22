@@ -1,5 +1,7 @@
 # Jagaimo Hatake no Kodomotachi
 
+![jagaimo-hatake-no-kodomotachi](https://cdn.myanimelist.net/images/manga/2/242735.jpg)
+
 -   **type**: manga
 -   **original-name**: ジャガイモ畑の子どもたち
 -   **start-date**: 2021-02-12

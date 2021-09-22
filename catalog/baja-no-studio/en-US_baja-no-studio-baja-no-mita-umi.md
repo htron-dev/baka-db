@@ -1,5 +1,7 @@
 # Baja no Studio: Baja no Mita Umi
 
+![baja-no-studio-baja-no-mita-umi](https://cdn.myanimelist.net/images/anime/1759/106278.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バジャのスタジオ~バジャのみた海~

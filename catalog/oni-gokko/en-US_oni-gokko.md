@@ -1,5 +1,7 @@
 # Oni-gokko
 
+![oni-gokko](https://cdn.myanimelist.net/images/manga/2/167735.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

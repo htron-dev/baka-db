@@ -1,5 +1,7 @@
 # Attack No.1
 
+![attack-no-1](https://cdn.myanimelist.net/images/anime/13/59517.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: アタック No.1

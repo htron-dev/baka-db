@@ -1,5 +1,7 @@
 # Kuro Tsubaki
 
+![kuro-tsubaki](https://cdn.myanimelist.net/images/manga/3/38984.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 玄椿

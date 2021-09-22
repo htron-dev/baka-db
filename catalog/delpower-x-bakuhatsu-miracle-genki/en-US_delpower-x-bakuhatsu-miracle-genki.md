@@ -1,5 +1,7 @@
 # Delpower X Bakuhatsu Miracle Genki!
 
+![delpower-x-bakuhatsu-miracle-genki](https://cdn.myanimelist.net/images/anime/1447/94000.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: デルパワーＸ爆発みらくる元気！

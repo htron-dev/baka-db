@@ -1,5 +1,7 @@
 # Yumemiru Angel Blue
 
+![yumemiru-angel-blue](https://cdn.myanimelist.net/images/manga/1/35403.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 夢みるエンジェルブルー

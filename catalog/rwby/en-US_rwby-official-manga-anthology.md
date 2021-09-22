@@ -1,5 +1,7 @@
 # RWBY: Official Manga Anthology
 
+![rwby-official-manga-anthology](https://cdn.myanimelist.net/images/manga/2/197717.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 78

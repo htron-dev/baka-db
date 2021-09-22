@@ -1,5 +1,7 @@
 # Yuragi-sou no Yuuna-san
 
+![yuragi-sou-no-yuuna-san](https://cdn.myanimelist.net/images/anime/1483/93141.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゆらぎ荘の幽奈さん

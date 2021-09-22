@@ -1,5 +1,7 @@
 # Hinaasobi
 
+![hinaasobi](https://cdn.myanimelist.net/images/manga/1/183988.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

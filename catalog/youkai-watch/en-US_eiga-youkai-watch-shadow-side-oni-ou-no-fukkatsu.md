@@ -1,5 +1,7 @@
 # Eiga Youkai Watch: Shadow Side - Oni-ou no Fukkatsu
 
+![eiga-youkai-watch-shadow-side-oni-ou-no-fukkatsu](https://cdn.myanimelist.net/images/manga/1/238513.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4
@@ -10,7 +12,6 @@
 ## Tags
 
 -   demons
-
 -   supernatural
 
 ## Authors

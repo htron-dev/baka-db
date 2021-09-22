@@ -1,5 +1,7 @@
 # Zukkoke Sannin-gumi: Zukkoke Jikuu Bouken
 
+![zukkoke-sannin-gumi-zukkoke-jikuu-bouken](https://cdn.myanimelist.net/images/anime/4/50827.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ズッコケ三人組　ズッコケ時空冒険

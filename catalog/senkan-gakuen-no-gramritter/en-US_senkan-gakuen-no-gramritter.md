@@ -1,5 +1,7 @@
 # Senkan Gakuen no Gramritter
 
+![senkan-gakuen-no-gramritter](https://cdn.myanimelist.net/images/manga/1/177575.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 戦艦学園のグラムリッター
 -   **start-date**: 2015-09-19

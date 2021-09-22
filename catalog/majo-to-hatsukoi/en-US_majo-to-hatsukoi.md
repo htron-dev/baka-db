@@ -1,5 +1,7 @@
 # Majo to Hatsukoi.
 
+![majo-to-hatsukoi](https://cdn.myanimelist.net/images/manga/3/189104.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

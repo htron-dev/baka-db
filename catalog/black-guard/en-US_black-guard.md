@@ -1,5 +1,7 @@
 # Black Guard
 
+![black-guard](https://cdn.myanimelist.net/images/manga/1/247633.jpg)
+
 -   **type**: manga
 -   **original-name**: ブラックガルド
 -   **start-date**: 2019-09-20

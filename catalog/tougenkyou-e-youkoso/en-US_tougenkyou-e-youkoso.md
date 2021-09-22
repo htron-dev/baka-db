@@ -1,5 +1,7 @@
 # Tougenkyou e Youkoso!
 
+![tougenkyou-e-youkoso](https://cdn.myanimelist.net/images/manga/3/167278.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

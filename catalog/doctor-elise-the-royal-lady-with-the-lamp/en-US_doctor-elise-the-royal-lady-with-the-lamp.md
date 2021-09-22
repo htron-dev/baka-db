@@ -1,5 +1,7 @@
 # Doctor Elise: The Royal Lady with the Lamp
 
+![doctor-elise-the-royal-lady-with-the-lamp](https://cdn.myanimelist.net/images/manga/1/237168.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 143
 -   **original-name**: 외과의사 엘리제

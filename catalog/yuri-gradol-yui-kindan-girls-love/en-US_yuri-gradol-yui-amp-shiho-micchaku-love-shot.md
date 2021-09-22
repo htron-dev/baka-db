@@ -1,5 +1,7 @@
 # Yuri Gradol Yui &amp; Shiho: Micchaku Love Shot
 
+![yuri-gradol-yui-amp-shiho-micchaku-love-shot](https://cdn.myanimelist.net/images/manga/2/168794.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

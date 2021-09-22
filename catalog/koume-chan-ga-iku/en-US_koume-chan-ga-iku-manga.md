@@ -1,5 +1,7 @@
 # Koume-chan ga Iku!!
 
+![koume-chan-ga-iku](https://cdn.myanimelist.net/images/manga/1/151476.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 小梅ちゃんが行く!!

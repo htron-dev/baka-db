@@ -1,5 +1,7 @@
 # Yowamushi Pedal: Spare Bike
 
+![yowamushi-pedal-spare-bike](https://cdn.myanimelist.net/images/manga/1/145351.jpg)
+
 -   **type**: manga
 -   **original-name**: 弱虫ペダル SPARE BIKE
 -   **start-date**: 2012-08-16

@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni: Kataribanashi-hen
 
+![higurashi-no-naku-koro-ni-kataribanashi-hen](https://cdn.myanimelist.net/images/manga/3/135121.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 33

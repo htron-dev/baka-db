@@ -1,5 +1,7 @@
 # Hakuji
 
+![hakuji](https://cdn.myanimelist.net/images/manga/2/22751.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

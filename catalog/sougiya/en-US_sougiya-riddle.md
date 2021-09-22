@@ -1,5 +1,7 @@
 # Sougiya Riddle
 
+![sougiya-riddle](https://cdn.myanimelist.net/images/manga/3/25083.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 46

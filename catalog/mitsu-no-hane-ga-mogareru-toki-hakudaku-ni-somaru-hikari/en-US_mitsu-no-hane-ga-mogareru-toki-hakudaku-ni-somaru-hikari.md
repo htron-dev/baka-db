@@ -1,5 +1,7 @@
 # Mitsu no Hane ga Mogareru Toki: Hakudaku ni Somaru Hikari
 
+![mitsu-no-hane-ga-mogareru-toki-hakudaku-ni-somaru-hikari](https://cdn.myanimelist.net/images/manga/2/169726.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 三つの羽がもがれるとき ~白濁に染まる光~

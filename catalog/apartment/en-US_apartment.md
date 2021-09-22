@@ -1,5 +1,7 @@
 # Apartment!
 
+![apartment](https://cdn.myanimelist.net/images/anime/9/23993.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Apartment!

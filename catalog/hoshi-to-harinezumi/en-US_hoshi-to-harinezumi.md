@@ -1,5 +1,7 @@
 # Hoshi to Harinezumi
 
+![hoshi-to-harinezumi](https://cdn.myanimelist.net/images/manga/3/224718.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

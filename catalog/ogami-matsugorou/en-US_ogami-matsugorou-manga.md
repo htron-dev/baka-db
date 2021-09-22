@@ -1,5 +1,7 @@
 # Ogami Matsugorou
 
+![ogami-matsugorou](https://cdn.myanimelist.net/images/manga/1/119011.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: おがみ松吾郎

@@ -1,5 +1,7 @@
 # Doraemon Movie 21: Nobita no Taiyou Ou Densetsu
 
+![doraemon-movie-21-nobita-no-taiyou-ou-densetsu](https://cdn.myanimelist.net/images/anime/7/72426.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の太陽王伝説
@@ -13,7 +15,6 @@
 -   comedy
 -   fantasy
 -   historical
-
 -   shounen
 
 ## Sinopse

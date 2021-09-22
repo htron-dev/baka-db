@@ -1,5 +1,7 @@
 # Chagama Ondo
 
+![chagama-ondo](https://cdn.myanimelist.net/images/anime/7/45765.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 茶釜音頭

@@ -1,5 +1,7 @@
 # Street Fighter II: Yomigaeru Fujiwara-Kyou - Toki wo Kaketa Fighter-tachi
 
+![street-fighter-ii-yomigaeru-fujiwara-kyou-toki-wo-kaketa-fighter-tachi](https://cdn.myanimelist.net/images/anime/1836/113597.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ストリートファイター II よみがえる藤原京 時を駆けたファイターたち

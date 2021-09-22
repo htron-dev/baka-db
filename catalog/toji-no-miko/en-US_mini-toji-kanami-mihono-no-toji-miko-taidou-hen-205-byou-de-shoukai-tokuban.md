@@ -1,5 +1,7 @@
 # Mini Toji: Kanami-Mihono no "Toji Miko Taidou-hen" 205-byou de Shoukai Tokuban!
 
+![mini-toji-kanami-mihono-no-toji-miko-taidou-hen-205-byou-de-shoukai-tokuban](https://cdn.myanimelist.net/images/anime/1852/98185.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: みにとじ 可奈美・美炎の「とじみこ 胎動編」205 秒で紹介特番!

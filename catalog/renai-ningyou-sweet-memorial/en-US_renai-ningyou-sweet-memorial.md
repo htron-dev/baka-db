@@ -1,5 +1,7 @@
 # Renai Ningyou - Sweet Memorial
 
+![renai-ningyou-sweet-memorial](https://cdn.myanimelist.net/images/manga/3/68259.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋愛人形 SWEET MEMORIAL

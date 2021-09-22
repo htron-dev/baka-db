@@ -1,5 +1,7 @@
 # Alice to Zouroku
 
+![alice-to-zouroku](https://cdn.myanimelist.net/images/manga/1/147017.jpg)
+
 -   **type**: manga
 -   **original-name**: アリスと蔵六
 -   **start-date**: 2012-10-19

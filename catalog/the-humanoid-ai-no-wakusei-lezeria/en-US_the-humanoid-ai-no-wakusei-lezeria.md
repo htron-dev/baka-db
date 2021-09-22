@@ -1,5 +1,7 @@
 # The Humanoid: Ai no Wakusei Lezeria
 
+![the-humanoid-ai-no-wakusei-lezeria](https://cdn.myanimelist.net/images/anime/1563/96475.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ザ・ヒューマノイド 哀の惑星レザリア

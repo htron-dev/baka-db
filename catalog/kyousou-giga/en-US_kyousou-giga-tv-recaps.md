@@ -1,5 +1,7 @@
 # Kyousou Giga (TV) Recaps
 
+![kyousou-giga-tv-recaps](https://cdn.myanimelist.net/images/anime/12/57233.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 京騒戯画

@@ -1,5 +1,7 @@
 # Tensei shita node Tsugi koso wa Shiawase na Jinsei wo Tsukande Misemashou
 
+![tensei-shita-node-tsugi-koso-wa-shiawase-na-jinsei-wo-tsukande-misemashou](https://cdn.myanimelist.net/images/manga/1/238446.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 83

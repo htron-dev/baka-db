@@ -1,5 +1,7 @@
 # Itsuka Kamen wo Nugu Tame ni: Warau Kishin to Yumemiru Dorei
 
+![itsuka-kamen-wo-nugu-tame-ni-warau-kishin-to-yumemiru-dorei](https://cdn.myanimelist.net/images/manga/2/241437.jpg)
+
 -   **type**: manga
 -   **original-name**: いつか仮面を脱ぐ為に ~嗤う鬼神と夢見る奴隷~
 -   **start-date**: 2020-04-16

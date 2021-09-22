@@ -1,5 +1,7 @@
 # Tottoi
 
+![tottoi](https://cdn.myanimelist.net/images/anime/10/31319.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トトイ
@@ -11,7 +13,6 @@
 
 -   adventure
 -   slice-of-life
-
 -   drama
 
 ## Sinopse

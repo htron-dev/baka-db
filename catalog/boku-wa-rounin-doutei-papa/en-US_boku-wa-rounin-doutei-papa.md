@@ -1,5 +1,7 @@
 # Boku wa Rounin Doutei Papa
 
+![boku-wa-rounin-doutei-papa](https://cdn.myanimelist.net/images/manga/2/176097.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

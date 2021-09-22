@@ -1,5 +1,7 @@
 # Yumeria
 
+![yumeria](https://cdn.myanimelist.net/images/anime/8/16782.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゆめりあ

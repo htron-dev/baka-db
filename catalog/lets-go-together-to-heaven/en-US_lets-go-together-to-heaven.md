@@ -1,5 +1,7 @@
 # Let's Go Together to Heaven
 
+![lets-go-together-to-heaven](https://cdn.myanimelist.net/images/manga/2/6225.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

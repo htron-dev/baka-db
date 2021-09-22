@@ -1,5 +1,7 @@
 # Camera, Hajimete mo Ii desu ka?
 
+![camera-hajimete-mo-ii-desu-ka](https://cdn.myanimelist.net/images/manga/2/235272.jpg)
+
 -   **type**: manga
 -   **original-name**: カメラ、はじめてもいいですか？
 -   **start-date**: 2019-08-30

@@ -1,5 +1,7 @@
 # Saboriman Ametani Kantarou
 
+![saboriman-ametani-kantarou](https://cdn.myanimelist.net/images/manga/2/209218.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

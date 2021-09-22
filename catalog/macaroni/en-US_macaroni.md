@@ -1,5 +1,7 @@
 # Macaroni
 
+![macaroni](https://cdn.myanimelist.net/images/manga/1/109357.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

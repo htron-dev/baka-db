@@ -1,5 +1,7 @@
 # Magi: Sinbad no Bouken - Prototype
 
+![magi-sinbad-no-bouken-prototype](https://cdn.myanimelist.net/images/manga/2/104553.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

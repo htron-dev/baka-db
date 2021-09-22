@@ -1,5 +1,7 @@
 # Last Exile: Ginyoku no Fam
 
+![last-exile-ginyoku-no-fam](https://cdn.myanimelist.net/images/anime/3/33541.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: ラストエグザイル-銀翼のファム-

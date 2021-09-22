@@ -1,5 +1,7 @@
 # Diamond no Ace Act II
 
+![diamond-no-ace-act-ii](https://cdn.myanimelist.net/images/manga/3/167576.jpg)
+
 -   **type**: manga
 -   **original-name**: ダイヤの A act II
 -   **start-date**: 2015-08-19

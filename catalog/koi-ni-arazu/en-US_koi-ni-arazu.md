@@ -1,5 +1,7 @@
 # Koi ni Arazu
 
+![koi-ni-arazu](https://cdn.myanimelist.net/images/manga/3/233797.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

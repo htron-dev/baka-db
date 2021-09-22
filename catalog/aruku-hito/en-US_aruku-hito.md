@@ -1,5 +1,7 @@
 # Aruku Hito
 
+![aruku-hito](https://cdn.myanimelist.net/images/manga/1/168496.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Ai.
 
+![ai](https://cdn.myanimelist.net/images/manga/1/203285.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 133

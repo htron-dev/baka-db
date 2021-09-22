@@ -1,5 +1,7 @@
 # Haikara-san ga Tooru
 
+![haikara-san-ga-tooru](https://cdn.myanimelist.net/images/manga/2/21229.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: はいからさんが通る

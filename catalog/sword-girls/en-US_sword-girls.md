@@ -1,5 +1,7 @@
 # Sword Girls
 
+![sword-girls](https://cdn.myanimelist.net/images/manga/2/104847.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 소드걸스
 -   **start-date**: 2012-11-01

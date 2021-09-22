@@ -1,5 +1,7 @@
 # Kimoiman
 
+![kimoiman](https://cdn.myanimelist.net/images/manga/3/190129.jpg)
+
 -   **type**: light-novel
 -   **original-name**: キモイマン
 -   **start-date**: 2017-01-18

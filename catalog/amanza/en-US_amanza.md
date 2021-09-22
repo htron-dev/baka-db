@@ -1,5 +1,7 @@
 # Amanza
 
+![amanza](https://cdn.myanimelist.net/images/manga/3/204784.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 110

@@ -1,5 +1,7 @@
 # Detective Conan: The Magician of Starlight
 
+![detective-conan-the-magician-of-starlight](https://cdn.myanimelist.net/images/anime/3/88889.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン～星影の魔術師～

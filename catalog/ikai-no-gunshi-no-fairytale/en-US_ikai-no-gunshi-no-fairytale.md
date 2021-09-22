@@ -1,5 +1,7 @@
 # Ikai no Gunshi no Fairytale
 
+![ikai-no-gunshi-no-fairytale](https://cdn.myanimelist.net/images/manga/2/176599.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

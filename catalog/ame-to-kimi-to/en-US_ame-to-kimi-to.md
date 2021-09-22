@@ -1,5 +1,7 @@
 # Ame to Kimi to
 
+![ame-to-kimi-to](https://cdn.myanimelist.net/images/manga/3/241988.jpg)
+
 -   **type**: manga
 -   **original-name**: 雨と君と
 -   **start-date**: 2020-08-17

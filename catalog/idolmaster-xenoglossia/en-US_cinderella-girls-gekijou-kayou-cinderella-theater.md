@@ -1,5 +1,7 @@
 # Cinderella Girls Gekijou: Kayou Cinderella Theater
 
+![cinderella-girls-gekijou-kayou-cinderella-theater](https://cdn.myanimelist.net/images/anime/8/89787.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: シンデレラガールズ劇場 火曜シンデレラシアター

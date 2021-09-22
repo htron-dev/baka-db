@@ -1,5 +1,7 @@
 # Ikkitousen: Shuugaku Toushi Keppuuroku
 
+![ikkitousen-shuugaku-toushi-keppuuroku](https://cdn.myanimelist.net/images/anime/2/33853.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 一騎当千 集鍔闘士血風録

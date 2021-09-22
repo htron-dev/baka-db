@@ -1,5 +1,7 @@
 # My Melody no Akazukin
 
+![my-melody-no-akazukin](https://cdn.myanimelist.net/images/anime/12/72894.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マイメロディの赤ずきん

@@ -1,5 +1,7 @@
 # Gyakuten Saiban: Sono "Shinjitsu", Igi Ari! Season 2
 
+![gyakuten-saiban-sono-shinjitsu-igi-ari-season-2](https://cdn.myanimelist.net/images/anime/1861/91089.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: 逆転裁判 ～その「真実」、異議あり！～ Season 2
@@ -30,4 +32,4 @@ With the help of their allies, Ryuuichi and Mayoi take this new challenger head-
 -   [Official Site](http://www.ytv.co.jp/animegyakuten/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13918)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21192)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Ace_Attorney_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Ace_Attorney_%28anime%29)

@@ -1,5 +1,7 @@
 # Inochi no Chikyuu: Dioxin no Natsu
 
+![inochi-no-chikyuu-dioxin-no-natsu](https://cdn.myanimelist.net/images/anime/9/26263.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: いのちの地球 ダイオキシンの夏

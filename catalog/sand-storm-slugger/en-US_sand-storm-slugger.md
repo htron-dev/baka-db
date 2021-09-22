@@ -1,5 +1,7 @@
 # Sand Storm Slugger
 
+![sand-storm-slugger](https://cdn.myanimelist.net/images/manga/1/202389.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 35

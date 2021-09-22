@@ -1,5 +1,7 @@
 # Bunburyoutou: Saikyou Saichi no Sodatekata
 
+![bunburyoutou-saikyou-saichi-no-sodatekata](https://cdn.myanimelist.net/images/manga/1/199867.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

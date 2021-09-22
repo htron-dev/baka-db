@@ -1,5 +1,7 @@
 # Moujuu wa Ori no Naka
 
+![moujuu-wa-ori-no-naka](https://cdn.myanimelist.net/images/manga/3/23832.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 猛獣は檻の中

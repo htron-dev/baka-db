@@ -1,5 +1,7 @@
 # Neechan wa Chuunibyou
 
+![neechan-wa-chuunibyou](https://cdn.myanimelist.net/images/manga/1/198874.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 69

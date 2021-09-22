@@ -1,5 +1,7 @@
 # Shout!
 
+![shout](https://cdn.myanimelist.net/images/manga/2/14675.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

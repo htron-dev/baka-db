@@ -1,5 +1,7 @@
 # Ricchan
 
+![ricchan](https://cdn.myanimelist.net/images/manga/2/153576.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

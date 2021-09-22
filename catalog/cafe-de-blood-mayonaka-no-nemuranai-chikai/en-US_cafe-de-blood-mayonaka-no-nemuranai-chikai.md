@@ -1,5 +1,7 @@
 # Café de Blood: Mayonaka no Nemuranai Chikai
 
+![cafe-de-blood-mayonaka-no-nemuranai-chikai](https://cdn.myanimelist.net/images/manga/3/186154.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

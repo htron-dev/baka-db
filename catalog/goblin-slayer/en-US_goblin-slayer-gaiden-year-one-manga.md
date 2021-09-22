@@ -1,5 +1,7 @@
 # Goblin Slayer Gaiden: Year One
 
+![goblin-slayer-gaiden-year-one](https://cdn.myanimelist.net/images/manga/1/207520.jpg)
+
 -   **type**: manga
 -   **original-name**: ゴブリンスレイヤー外伝：イヤーワン
 -   **start-date**: 2017-09-15

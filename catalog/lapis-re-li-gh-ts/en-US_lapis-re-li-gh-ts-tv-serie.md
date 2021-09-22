@@ -1,5 +1,7 @@
 # Lapis Re:LiGHTs
 
+![lapis-re-li-gh-ts](https://cdn.myanimelist.net/images/anime/1880/107611.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ラピスリライツ

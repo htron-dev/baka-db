@@ -1,5 +1,7 @@
 # Spirit Migration
 
+![spirit-migration](https://cdn.myanimelist.net/images/manga/3/186484.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: スピリット・マイグレーション

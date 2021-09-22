@@ -1,5 +1,7 @@
 # Miko Doki
 
+![miko-doki](https://cdn.myanimelist.net/images/manga/2/36779.jpg)
+
 -   **type**: manga
 -   **original-name**: みこドキッ!
 

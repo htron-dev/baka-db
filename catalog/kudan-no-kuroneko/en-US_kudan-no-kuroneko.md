@@ -1,5 +1,7 @@
 # Kudan no Kuroneko
 
+![kudan-no-kuroneko](https://cdn.myanimelist.net/images/manga/3/13984.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

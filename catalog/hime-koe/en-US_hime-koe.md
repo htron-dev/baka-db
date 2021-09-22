@@ -1,5 +1,7 @@
 # Hime-koe
 
+![hime-koe](https://cdn.myanimelist.net/images/manga/2/163243.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

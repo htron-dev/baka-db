@@ -1,5 +1,7 @@
 # Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun
 
+![dixia-cheng-yu-yongshi-nizhuan-zhi-lun](https://cdn.myanimelist.net/images/anime/1090/108165.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 地下城与勇士·逆转之轮

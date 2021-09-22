@@ -1,5 +1,7 @@
 # 12-nin no Yasashii Koroshiya: Leo Murder Case
 
+![12-nin-no-yasashii-koroshiya-leo-murder-case](https://cdn.myanimelist.net/images/manga/1/64769.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

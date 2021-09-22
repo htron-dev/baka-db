@@ -1,5 +1,7 @@
 # Shin Cutey Honey
 
+![shin-cutey-honey](https://cdn.myanimelist.net/images/anime/1133/94174.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: 新・キューティーハニー

@@ -1,5 +1,7 @@
 # U12
 
+![u-12](https://cdn.myanimelist.net/images/manga/3/163667.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 52

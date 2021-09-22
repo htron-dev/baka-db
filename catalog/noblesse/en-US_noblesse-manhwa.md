@@ -1,5 +1,7 @@
 # Noblesse
 
+![noblesse](https://cdn.myanimelist.net/images/manga/1/50987.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 노블레스
 -   **start-date**: 2007-12-30

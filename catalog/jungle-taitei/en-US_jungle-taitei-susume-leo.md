@@ -1,5 +1,7 @@
 # Jungle Taitei: Susume Leo!
 
+![jungle-taitei-susume-leo](https://cdn.myanimelist.net/images/anime/12/76173.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ジャングル大帝・進めレオ

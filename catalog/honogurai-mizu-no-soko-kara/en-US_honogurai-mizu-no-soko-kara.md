@@ -1,5 +1,7 @@
 # Honogurai Mizu no Soko kara
 
+![honogurai-mizu-no-soko-kara](https://cdn.myanimelist.net/images/manga/2/27424.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

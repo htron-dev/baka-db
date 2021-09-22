@@ -1,5 +1,7 @@
 # Keibuho Daimajin
 
+![keibuho-daimajin](https://cdn.myanimelist.net/images/manga/1/225535.jpg)
+
 -   **type**: manga
 -   **original-name**: 警部補 ダイマジン
 -   **start-date**: 2019-01-04

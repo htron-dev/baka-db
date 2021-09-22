@@ -1,5 +1,7 @@
 # Kaze no Daichi
 
+![kaze-no-daichi](https://cdn.myanimelist.net/images/manga/1/104011.jpg)
+
 -   **type**: manga
 -   **original-name**: 風の大地
 

@@ -1,5 +1,7 @@
 # Hangyakusei Million Arthur 2nd Season
 
+![hangyakusei-million-arthur-2nd-season](https://cdn.myanimelist.net/images/anime/1277/100464.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 叛逆性ミリオンアーサー 第 2 シーズン

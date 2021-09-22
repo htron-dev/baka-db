@@ -1,5 +1,7 @@
 # Fairy Tale Chronicle: Kuuki Yomanai Isekai Life
 
+![fairy-tale-chronicle-kuuki-yomanai-isekai-life](https://cdn.myanimelist.net/images/manga/2/212279.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 20
 -   **chapters**: 195

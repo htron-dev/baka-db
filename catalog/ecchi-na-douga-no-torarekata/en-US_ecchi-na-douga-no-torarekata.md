@@ -1,5 +1,7 @@
 # Ecchi na Douga no Torarekata
 
+![ecchi-na-douga-no-torarekata](https://cdn.myanimelist.net/images/manga/3/150835.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

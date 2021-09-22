@@ -1,5 +1,7 @@
 # Gozou Roppu no Koi
 
+![gozou-roppu-no-koi](https://cdn.myanimelist.net/images/manga/2/238115.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

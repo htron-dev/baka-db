@@ -1,5 +1,7 @@
 # Muse no Gakuen de Aou
 
+![muse-no-gakuen-de-aou](https://cdn.myanimelist.net/images/manga/5/12066.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 12

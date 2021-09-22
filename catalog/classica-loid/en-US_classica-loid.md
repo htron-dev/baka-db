@@ -1,5 +1,7 @@
 # ClassicaLoid
 
+![classica-loid](https://cdn.myanimelist.net/images/anime/10/82320.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: クラシカロイド

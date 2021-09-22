@@ -1,5 +1,7 @@
 # Koibito no Jouken
 
+![koibito-no-jouken](https://cdn.myanimelist.net/images/manga/1/149835.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

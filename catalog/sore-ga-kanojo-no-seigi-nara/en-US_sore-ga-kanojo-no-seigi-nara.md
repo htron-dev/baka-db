@@ -1,5 +1,7 @@
 # Sore ga Kanojo no Seigi nara
 
+![sore-ga-kanojo-no-seigi-nara](https://cdn.myanimelist.net/images/manga/2/118693.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

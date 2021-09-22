@@ -1,5 +1,7 @@
 # Gokurakuchou Dead End
 
+![gokurakuchou-dead-end](https://cdn.myanimelist.net/images/manga/1/187216.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

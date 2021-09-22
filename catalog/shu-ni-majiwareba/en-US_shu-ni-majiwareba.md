@@ -1,5 +1,7 @@
 # Shu ni Majiwareba
 
+![shu-ni-majiwareba](https://cdn.myanimelist.net/images/manga/3/198726.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

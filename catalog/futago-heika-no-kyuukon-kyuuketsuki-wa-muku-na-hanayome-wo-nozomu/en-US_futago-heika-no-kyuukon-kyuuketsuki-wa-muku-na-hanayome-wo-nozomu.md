@@ -1,5 +1,7 @@
 # Futago Heika no Kyuukon: Kyuuketsuki wa Muku na Hanayome wo Nozomu
 
+![futago-heika-no-kyuukon-kyuuketsuki-wa-muku-na-hanayome-wo-nozomu](https://cdn.myanimelist.net/images/manga/1/192520.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

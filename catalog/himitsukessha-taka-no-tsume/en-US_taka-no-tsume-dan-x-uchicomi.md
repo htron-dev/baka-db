@@ -1,5 +1,7 @@
 # Taka no Tsume-dan x Uchicomi!
 
+![taka-no-tsume-dan-x-uchicomi](https://cdn.myanimelist.net/images/anime/1997/102853.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 鷹の爪団 × ウチコミ！

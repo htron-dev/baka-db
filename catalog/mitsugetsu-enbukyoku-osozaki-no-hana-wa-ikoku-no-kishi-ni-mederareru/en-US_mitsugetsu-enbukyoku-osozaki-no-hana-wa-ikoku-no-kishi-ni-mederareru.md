@@ -1,5 +1,7 @@
 # Mitsugetsu Enbukyoku: Osozaki no Hana wa Ikoku no Kishi ni Mederareru
 
+![mitsugetsu-enbukyoku-osozaki-no-hana-wa-ikoku-no-kishi-ni-mederareru](https://cdn.myanimelist.net/images/manga/3/192421.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

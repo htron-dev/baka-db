@@ -1,5 +1,7 @@
 # Hone ga Kusaru made
 
+![hone-ga-kusaru-made](https://cdn.myanimelist.net/images/manga/1/191682.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 98

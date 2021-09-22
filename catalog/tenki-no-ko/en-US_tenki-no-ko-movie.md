@@ -1,5 +1,7 @@
 # Tenki no Ko
 
+![tenki-no-ko](https://cdn.myanimelist.net/images/anime/1880/101146.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 天気の子

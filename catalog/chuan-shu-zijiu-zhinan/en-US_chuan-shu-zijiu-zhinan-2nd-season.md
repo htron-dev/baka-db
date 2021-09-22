@@ -1,5 +1,7 @@
 # Chuan Shu Zijiu Zhinan 2nd Season
 
+![chuan-shu-zijiu-zhinan-2nd-season](https://cdn.myanimelist.net/images/anime/1476/116863.jpg)
+
 -   **type**: ona
 -   **original-name**: 穿书自救指南
 -   **rating**: R - 17+ (violence & profanity)

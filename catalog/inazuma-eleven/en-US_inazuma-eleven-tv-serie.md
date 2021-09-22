@@ -1,5 +1,7 @@
 # Inazuma Eleven
 
+![inazuma-eleven](https://cdn.myanimelist.net/images/anime/1854/94704.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 127
 -   **original-name**: イナズマイレブン

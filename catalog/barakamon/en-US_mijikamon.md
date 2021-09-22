@@ -1,5 +1,7 @@
 # Mijikamon
 
+![mijikamon](https://cdn.myanimelist.net/images/anime/11/75964.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: みじかもん

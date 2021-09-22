@@ -1,5 +1,7 @@
 # Sono Shousetsuka wa Chocolat de Dekiteiru.
 
+![sono-shousetsuka-wa-chocolat-de-dekiteiru](https://cdn.myanimelist.net/images/manga/1/167149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

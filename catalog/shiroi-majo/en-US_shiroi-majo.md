@@ -1,5 +1,7 @@
 # Shiroi Majo
 
+![shiroi-majo](https://cdn.myanimelist.net/images/manga/1/160165.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

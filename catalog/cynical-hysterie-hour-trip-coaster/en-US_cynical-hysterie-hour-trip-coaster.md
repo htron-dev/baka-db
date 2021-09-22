@@ -1,5 +1,7 @@
 # Cynical Hysterie Hour: Trip Coaster
 
+![cynical-hysterie-hour-trip-coaster](https://cdn.myanimelist.net/images/anime/4/27148.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: シニカル・ヒステリー・アワー トリップ・コースター

@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Persona 2 - Tsumi
 
+![super-comic-gekijou-persona-2-tsumi](https://cdn.myanimelist.net/images/manga/1/151605.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: スーパーコミック劇場 ペルソナ 2 罪

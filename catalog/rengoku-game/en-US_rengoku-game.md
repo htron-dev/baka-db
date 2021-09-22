@@ -1,5 +1,7 @@
 # Rengoku Game
 
+![rengoku-game](https://cdn.myanimelist.net/images/manga/3/162228.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 52

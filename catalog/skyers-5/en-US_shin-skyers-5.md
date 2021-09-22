@@ -1,5 +1,7 @@
 # Shin Skyers 5
 
+![shin-skyers-5](https://cdn.myanimelist.net/images/anime/8/59649.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 新スカイヤーズ 5

@@ -1,5 +1,7 @@
 # Aishi no Doll
 
+![aishi-no-doll](https://cdn.myanimelist.net/images/manga/1/193662.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

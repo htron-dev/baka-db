@@ -1,5 +1,7 @@
 # Kyochuu Rettou
 
+![kyochuu-rettou](https://cdn.myanimelist.net/images/anime/1808/116867.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 巨蟲列島

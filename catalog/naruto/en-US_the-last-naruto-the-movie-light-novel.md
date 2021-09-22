@@ -1,5 +1,7 @@
 # The Last: Naruto the Movie
 
+![the-last-naruto-the-movie](https://cdn.myanimelist.net/images/manga/1/144797.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

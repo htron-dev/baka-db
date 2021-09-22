@@ -1,5 +1,7 @@
 # Vampire Erotics
 
+![vampire-erotics](https://cdn.myanimelist.net/images/manga/2/95687.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

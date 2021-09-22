@@ -1,5 +1,7 @@
 # Marumofubiyori
 
+![marumofubiyori](https://cdn.myanimelist.net/images/anime/6/85133.jpg)
+
 -   **type**: ona
 -   **original-name**: まるもふびより
 -   **start-date**: 2017-04-03

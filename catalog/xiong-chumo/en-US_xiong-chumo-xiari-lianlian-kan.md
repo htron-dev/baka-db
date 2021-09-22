@@ -1,5 +1,7 @@
 # Xiong Chumo: Xiari Lianlian Kan
 
+![xiong-chumo-xiari-lianlian-kan](https://cdn.myanimelist.net/images/anime/11/83644.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 熊出没之夏日连连看

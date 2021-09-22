@@ -1,5 +1,7 @@
 # Hojotai Mozukus
 
+![hojotai-mozukus](https://cdn.myanimelist.net/images/manga/2/162926.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Tide-Line Blue: Kyoudai
 
+![tide-line-blue-kyoudai](https://cdn.myanimelist.net/images/anime/3/21407.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: タイドライン・ブルー 兄弟

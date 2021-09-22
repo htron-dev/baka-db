@@ -1,5 +1,7 @@
 # Shokugeki no Souma: San no Sara
 
+![shokugeki-no-souma-san-no-sara](https://cdn.myanimelist.net/images/anime/3/88434.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 食戟のソーマ 餐ノ皿

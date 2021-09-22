@@ -1,5 +1,7 @@
 # Wataru ga Pyun!
 
+![wataru-ga-pyun](https://cdn.myanimelist.net/images/manga/3/77597.jpg)
+
 -   **type**: manga
 -   **volumes**: 58
 -   **chapters**: 580

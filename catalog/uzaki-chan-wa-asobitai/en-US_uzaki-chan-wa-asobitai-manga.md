@@ -1,5 +1,7 @@
 # Uzaki-chan wa Asobitai!
 
+![uzaki-chan-wa-asobitai](https://cdn.myanimelist.net/images/manga/3/212607.jpg)
+
 -   **type**: manga
 -   **original-name**: 宇崎ちゃんは遊びたい！
 -   **start-date**: 2017-12-01

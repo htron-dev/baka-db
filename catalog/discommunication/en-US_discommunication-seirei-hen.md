@@ -1,5 +1,7 @@
 # Discommunication: Seirei-hen
 
+![discommunication-seirei-hen](https://cdn.myanimelist.net/images/manga/2/137589.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

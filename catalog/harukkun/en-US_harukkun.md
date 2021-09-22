@@ -1,5 +1,7 @@
 # Harukkun
 
+![harukkun](https://cdn.myanimelist.net/images/manga/2/136897.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 하루꾼
 -   **start-date**: 2014-01-01

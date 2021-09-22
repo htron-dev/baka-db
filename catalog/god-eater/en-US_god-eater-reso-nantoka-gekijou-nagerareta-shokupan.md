@@ -1,5 +1,7 @@
 # God Eater Reso Nantoka Gekijou: Nagerareta Shokupan
 
+![god-eater-reso-nantoka-gekijou-nagerareta-shokupan](https://cdn.myanimelist.net/images/anime/1587/95137.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: GOD EATER レゾなんとか劇場 #00.「投げられた食パン」

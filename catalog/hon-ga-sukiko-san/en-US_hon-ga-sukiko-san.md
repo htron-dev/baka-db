@@ -1,5 +1,7 @@
 # Hon ga Sukiko-san
 
+![hon-ga-sukiko-san](https://cdn.myanimelist.net/images/manga/1/194109.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

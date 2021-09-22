@@ -1,5 +1,7 @@
 # Kiss no Ondo
 
+![kiss-no-ondo](https://cdn.myanimelist.net/images/manga/1/30591.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 2

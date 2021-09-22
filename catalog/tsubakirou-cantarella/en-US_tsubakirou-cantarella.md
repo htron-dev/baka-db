@@ -1,5 +1,7 @@
 # Tsubakirou Cantarella
 
+![tsubakirou-cantarella](https://cdn.myanimelist.net/images/manga/2/154761.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

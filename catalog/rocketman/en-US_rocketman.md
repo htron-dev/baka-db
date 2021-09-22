@@ -1,5 +1,7 @@
 # Rocketman
 
+![rocketman](https://cdn.myanimelist.net/images/manga/1/38632.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9
@@ -10,7 +12,6 @@
 
 -   action
 -   mystery
-
 -   sci-fi
 -   super-power
 -   supernatural

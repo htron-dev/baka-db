@@ -1,5 +1,7 @@
 # Zhen Gyi Hong Shi
 
+![zhen-gyi-hong-shi](https://cdn.myanimelist.net/images/anime/4/87897.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 正义红师

@@ -1,5 +1,7 @@
 # Final Fantasy Crystal Chronicles: Hatenaki Sora no Mukou ni
 
+![final-fantasy-crystal-chronicles-hatenaki-sora-no-mukou-ni](https://cdn.myanimelist.net/images/manga/2/22383.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

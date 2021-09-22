@@ -1,5 +1,7 @@
 # Trinity Blood
 
+![trinity-blood](https://cdn.myanimelist.net/images/anime/10/24649.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: トリニティ・ブラッド

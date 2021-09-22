@@ -1,5 +1,7 @@
 # Hotel Harbour View
 
+![hotel-harbour-view](https://cdn.myanimelist.net/images/manga/2/12207.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

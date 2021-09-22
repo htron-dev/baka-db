@@ -1,5 +1,7 @@
 # Xiao Konglong Xungen Lixian Ji
 
+![xiao-konglong-xungen-lixian-ji](https://cdn.myanimelist.net/images/anime/1426/115332.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 小恐龙寻根历险记

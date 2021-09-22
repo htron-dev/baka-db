@@ -1,5 +1,7 @@
 # Shin Vampire Miyu
 
+![shin-vampire-miyu](https://cdn.myanimelist.net/images/manga/2/133745.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 新吸血姫 美夕

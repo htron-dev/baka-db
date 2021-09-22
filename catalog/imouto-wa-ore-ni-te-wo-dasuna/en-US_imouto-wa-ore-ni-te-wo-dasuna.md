@@ -1,5 +1,7 @@
 # Imouto wa Ore ni Te wo Dasuna!
 
+![imouto-wa-ore-ni-te-wo-dasuna](https://cdn.myanimelist.net/images/manga/1/163465.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 妹は僕に手を出すなっ!

@@ -1,5 +1,7 @@
 # Congming de Yixiu Zhi Fan Dou Gongzhu
 
+![congming-de-yixiu-zhi-fan-dou-gongzhu](https://cdn.myanimelist.net/images/anime/11/72374.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 聪明的一休之反斗公主

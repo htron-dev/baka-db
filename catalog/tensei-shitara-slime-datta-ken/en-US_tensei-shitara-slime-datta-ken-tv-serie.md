@@ -1,5 +1,7 @@
 # Tensei shitara Slime Datta Ken
 
+![tensei-shitara-slime-datta-ken](https://cdn.myanimelist.net/images/anime/1694/93337.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 転生したらスライムだった件

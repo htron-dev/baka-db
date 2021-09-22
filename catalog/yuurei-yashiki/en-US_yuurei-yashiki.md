@@ -1,5 +1,7 @@
 # Yuurei Yashiki
 
+![yuurei-yashiki](https://cdn.myanimelist.net/images/anime/10/85539.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 幽霊屋敷

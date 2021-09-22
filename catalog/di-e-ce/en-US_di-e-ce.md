@@ -1,5 +1,7 @@
 # Di[e]ce
 
+![di-e-ce](https://cdn.myanimelist.net/images/manga/3/172705.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 43

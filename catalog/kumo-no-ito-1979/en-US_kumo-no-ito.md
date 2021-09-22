@@ -1,5 +1,7 @@
 # Kumo no Ito
 
+![kumo-no-ito](https://cdn.myanimelist.net/images/anime/10/67923.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蜘蛛の糸

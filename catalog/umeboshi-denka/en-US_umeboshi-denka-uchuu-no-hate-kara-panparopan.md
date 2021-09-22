@@ -1,5 +1,7 @@
 # Umeboshi Denka: Uchuu no Hate kara Panparopan!
 
+![umeboshi-denka-uchuu-no-hate-kara-panparopan](https://cdn.myanimelist.net/images/anime/7/36121.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ウメ星デンカ 宇宙の果てからパンパロパン!

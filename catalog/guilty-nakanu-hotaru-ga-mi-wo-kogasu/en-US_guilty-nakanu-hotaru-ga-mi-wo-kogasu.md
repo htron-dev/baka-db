@@ -1,5 +1,7 @@
 # Guilty: Nakanu Hotaru ga Mi wo Kogasu
 
+![guilty-nakanu-hotaru-ga-mi-wo-kogasu](https://cdn.myanimelist.net/images/manga/3/235988.jpg)
+
 -   **type**: manga
 -   **original-name**: ギルティ ～鳴かぬ蛍が身を焦がす～
 -   **start-date**: 2017-09-15

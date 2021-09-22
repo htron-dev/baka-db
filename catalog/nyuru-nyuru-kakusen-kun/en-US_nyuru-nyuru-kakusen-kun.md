@@ -1,5 +1,7 @@
 # Nyuru Nyuru!! Kakusen-kun
 
+![nyuru-nyuru-kakusen-kun](https://cdn.myanimelist.net/images/anime/12/51787.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: にゅるにゅる!!KAKUSEN くん

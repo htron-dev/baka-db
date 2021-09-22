@@ -1,5 +1,7 @@
 # Tanaami Keiichi no Shouzou
 
+![tanaami-keiichi-no-shouzou](https://cdn.myanimelist.net/images/anime/3/58121.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 田名網敬一の肖像

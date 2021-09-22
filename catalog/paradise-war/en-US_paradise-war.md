@@ -1,5 +1,7 @@
 # Paradise War
 
+![paradise-war](https://cdn.myanimelist.net/images/manga/1/184042.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

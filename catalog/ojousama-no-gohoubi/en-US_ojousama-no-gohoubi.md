@@ -1,5 +1,7 @@
 # Ojousama no Gohoubi
 
+![ojousama-no-gohoubi](https://cdn.myanimelist.net/images/manga/4/22021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

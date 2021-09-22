@@ -1,5 +1,7 @@
 # One Piece Movie 3: Chinjuu-jima no Chopper Oukoku
 
+![one-piece-movie-3-chinjuu-jima-no-chopper-oukoku](https://cdn.myanimelist.net/images/anime/1017/97698.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ワンピース 珍獣島のチョッパー王国

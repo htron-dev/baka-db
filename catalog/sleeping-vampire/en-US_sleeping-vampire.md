@@ -1,5 +1,7 @@
 # Sleeping Vampire
 
+![sleeping-vampire](https://cdn.myanimelist.net/images/manga/2/170070.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

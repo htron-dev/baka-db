@@ -1,5 +1,7 @@
 # Utakata Dialog
 
+![utakata-dialog](https://cdn.myanimelist.net/images/manga/2/204231.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

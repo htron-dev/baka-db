@@ -1,5 +1,7 @@
 # Taiho Shite Miina!
 
+![taiho-shite-miina](https://cdn.myanimelist.net/images/manga/1/9603.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: タイホしてみ～な！

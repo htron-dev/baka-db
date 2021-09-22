@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei: Yokohama Souran-hen
 
+![mahouka-koukou-no-rettousei-yokohama-souran-hen](https://cdn.myanimelist.net/images/manga/2/120977.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

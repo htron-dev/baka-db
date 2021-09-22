@@ -1,5 +1,7 @@
 # Minna de Tamagocchi
 
+![minna-de-tamagocchi](https://cdn.myanimelist.net/images/manga/1/28004.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: みんなでたまごっち

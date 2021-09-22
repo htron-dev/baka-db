@@ -1,5 +1,7 @@
 # Full Metal Panic! The Second Raid
 
+![full-metal-panic-the-second-raid](https://cdn.myanimelist.net/images/anime/11/75261.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: フルメタル パニック！The Second Raid

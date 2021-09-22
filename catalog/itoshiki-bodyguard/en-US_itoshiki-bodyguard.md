@@ -1,5 +1,7 @@
 # Itoshiki Bodyguard
 
+![itoshiki-bodyguard](https://cdn.myanimelist.net/images/manga/3/48473.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

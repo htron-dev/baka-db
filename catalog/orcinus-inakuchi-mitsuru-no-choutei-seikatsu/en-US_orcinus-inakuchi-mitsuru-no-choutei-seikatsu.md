@@ -1,5 +1,7 @@
 # Orcinus: Inakuchi Mitsuru no Choutei Seikatsu
 
+![orcinus-inakuchi-mitsuru-no-choutei-seikatsu](https://cdn.myanimelist.net/images/manga/1/158345.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 26

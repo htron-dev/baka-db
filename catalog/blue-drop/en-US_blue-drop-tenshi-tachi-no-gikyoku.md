@@ -1,5 +1,7 @@
 # Blue Drop: Tenshi-tachi no Gikyoku
 
+![blue-drop-tenshi-tachi-no-gikyoku](https://cdn.myanimelist.net/images/anime/3/50485.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: BLUE DROP ～天使達の戯曲～

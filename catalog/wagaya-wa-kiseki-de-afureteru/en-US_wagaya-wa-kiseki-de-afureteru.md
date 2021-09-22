@@ -1,5 +1,7 @@
 # Wagaya wa Kiseki de Afureteru
 
+![wagaya-wa-kiseki-de-afureteru](https://cdn.myanimelist.net/images/manga/1/182936.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Anne Happy♪ Anthology Comic: Kichi
 
+![anne-happy♪-anthology-comic-kichi](https://cdn.myanimelist.net/images/manga/1/239814.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Ai ni Kuwarero!
 
+![ai-ni-kuwarero](https://cdn.myanimelist.net/images/manga/1/80679.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

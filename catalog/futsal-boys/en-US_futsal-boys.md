@@ -1,5 +1,7 @@
 # Futsal Boys!!!!!
 
+![futsal-boys](https://cdn.myanimelist.net/images/anime/1938/103382.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: フットサルボーイズ!!!!!
 -   **rating**: None

@@ -1,5 +1,7 @@
 # Ikkakujuu wa Tsuranukanai!
 
+![ikkakujuu-wa-tsuranukanai](https://cdn.myanimelist.net/images/manga/1/237904.jpg)
+
 -   **type**: manga
 -   **original-name**: 一角獣は貫かない!
 -   **start-date**: 2018-09-12

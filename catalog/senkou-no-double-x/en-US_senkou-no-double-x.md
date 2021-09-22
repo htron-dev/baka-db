@@ -1,5 +1,7 @@
 # Senkou no Double X
 
+![senkou-no-double-x](https://cdn.myanimelist.net/images/manga/2/160973.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

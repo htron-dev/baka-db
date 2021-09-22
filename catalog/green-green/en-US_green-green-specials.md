@@ -1,5 +1,7 @@
 # Green Green Specials
 
+![green-green-specials](https://cdn.myanimelist.net/images/anime/10/5068.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: グリーングリーン キャラクター DVD

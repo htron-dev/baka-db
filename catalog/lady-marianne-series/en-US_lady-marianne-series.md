@@ -1,5 +1,7 @@
 # Lady Marianne Series
 
+![lady-marianne-series](https://cdn.myanimelist.net/images/manga/3/165953.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman
 
+![sore-ike-anpanman](https://cdn.myanimelist.net/images/anime/1902/111797.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: それいけ！アンパンマン
 -   **start-date**: 1988-10-03
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   fantasy
 
 ## Sinopse

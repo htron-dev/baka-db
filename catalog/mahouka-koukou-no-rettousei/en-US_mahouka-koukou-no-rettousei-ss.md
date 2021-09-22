@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei SS
 
+![mahouka-koukou-no-rettousei-ss](https://cdn.myanimelist.net/images/manga/1/177897.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

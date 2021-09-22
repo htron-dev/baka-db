@@ -1,5 +1,7 @@
 # Bianca
 
+![bianca](https://cdn.myanimelist.net/images/manga/3/45649.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

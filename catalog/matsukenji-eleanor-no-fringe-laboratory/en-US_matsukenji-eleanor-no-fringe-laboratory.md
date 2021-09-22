@@ -1,5 +1,7 @@
 # Matsukenji Eleanor no Fringe Laboratory
 
+![matsukenji-eleanor-no-fringe-laboratory](https://cdn.myanimelist.net/images/manga/2/163864.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

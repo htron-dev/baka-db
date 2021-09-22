@@ -1,5 +1,7 @@
 # Grangerie
 
+![grangerie](https://cdn.myanimelist.net/images/manga/3/215327.jpg)
+
 -   **type**: manga
 -   **original-name**: グランジェリー
 -   **start-date**: 2018-09-04

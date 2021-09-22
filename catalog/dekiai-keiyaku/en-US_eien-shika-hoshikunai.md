@@ -1,5 +1,7 @@
 # Eien shika Hoshikunai
 
+![eien-shika-hoshikunai](https://cdn.myanimelist.net/images/manga/3/238081.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

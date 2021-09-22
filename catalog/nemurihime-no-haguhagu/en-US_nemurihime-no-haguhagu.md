@@ -1,5 +1,7 @@
 # Nemurihime no Haguhagu
 
+![nemurihime-no-haguhagu](https://cdn.myanimelist.net/images/manga/1/231504.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

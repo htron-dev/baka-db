@@ -1,5 +1,7 @@
 # Kimi ga Kokoro ni Sumitsuita
 
+![kimi-ga-kokoro-ni-sumitsuita](https://cdn.myanimelist.net/images/manga/1/231845.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

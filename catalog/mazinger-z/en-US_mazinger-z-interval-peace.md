@@ -1,5 +1,7 @@
 # Mazinger Z Interval Peace
 
+![mazinger-z-interval-peace](https://cdn.myanimelist.net/images/manga/3/237960.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

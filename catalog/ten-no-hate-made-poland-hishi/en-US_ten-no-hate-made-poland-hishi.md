@@ -1,5 +1,7 @@
 # Ten no Hate made: Poland Hishi
 
+![ten-no-hate-made-poland-hishi](https://cdn.myanimelist.net/images/manga/1/32897.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 天の涯まで ポーランド秘史

@@ -1,5 +1,7 @@
 # Ijousha no Ai
 
+![ijousha-no-ai](https://cdn.myanimelist.net/images/manga/3/198003.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 74

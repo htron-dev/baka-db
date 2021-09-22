@@ -1,5 +1,7 @@
 # Witch Hunt Curtain Call
 
+![witch-hunt-curtain-call](https://cdn.myanimelist.net/images/manga/2/161094.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

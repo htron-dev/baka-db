@@ -1,5 +1,7 @@
 # Line Novel
 
+![line-novel](https://cdn.myanimelist.net/images/anime/1805/100625.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: LINE ノベ

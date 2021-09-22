@@ -1,5 +1,7 @@
 # Rinpun Yaku
 
+![rinpun-yaku](https://cdn.myanimelist.net/images/manga/2/167375.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Hanoka Recap
 
+![hanoka-recap](https://cdn.myanimelist.net/images/anime/5/16847.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: HANOKA ～葉ノ香～

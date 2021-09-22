@@ -1,5 +1,7 @@
 # Hanamachi Junjou Rouman
 
+![hanamachi-junjou-rouman](https://cdn.myanimelist.net/images/manga/1/153354.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 花街純情浪漫

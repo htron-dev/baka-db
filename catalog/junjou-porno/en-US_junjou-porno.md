@@ -1,5 +1,7 @@
 # Junjou Porno
 
+![junjou-porno](https://cdn.myanimelist.net/images/manga/2/150462.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Shin Hokuto no Ken
 
+![shin-hokuto-no-ken](https://cdn.myanimelist.net/images/anime/6/2901.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 新・北斗の拳

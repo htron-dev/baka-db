@@ -1,5 +1,7 @@
 # The Story of the Gatekeeper
 
+![the-story-of-the-gatekeeper](https://cdn.myanimelist.net/images/manga/3/4462.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 

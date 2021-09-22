@@ -1,5 +1,7 @@
 # Reijou Elizabeth no Kareinaru Migawari Seikatsu
 
+![reijou-elizabeth-no-kareinaru-migawari-seikatsu](https://cdn.myanimelist.net/images/manga/1/242793.jpg)
+
 -   **type**: manga
 -   **original-name**: 令嬢エリザベスの華麗なる身代わり生活
 -   **start-date**: 2020-08-05

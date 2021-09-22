@@ -1,5 +1,7 @@
 # Mahoutsukai Yousei Senmon Magic Star Gakuin✡✡✡
 
+![mahoutsukai-yousei-senmon-magic-star-gakuin-✡-✡-✡](https://cdn.myanimelist.net/images/manga/3/203283.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

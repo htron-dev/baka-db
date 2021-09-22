@@ -1,5 +1,7 @@
 # Destiny Child
 
+![destiny-child](https://cdn.myanimelist.net/images/manga/1/222114.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

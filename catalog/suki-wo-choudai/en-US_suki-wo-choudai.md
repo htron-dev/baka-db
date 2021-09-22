@@ -1,5 +1,7 @@
 # Suki wo Choudai
 
+![suki-wo-choudai](https://cdn.myanimelist.net/images/manga/5/112435.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Namaiki na Kiss
 
+![namaiki-na-kiss](https://cdn.myanimelist.net/images/manga/2/100147.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 生意気なキス

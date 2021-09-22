@@ -1,5 +1,7 @@
 # Sumika
 
+![sumika](https://cdn.myanimelist.net/images/manga/1/189160.jpg)
+
 -   **type**: manga
 -   **chapters**: 16
 -   **original-name**: 棲家

@@ -1,5 +1,7 @@
 # Dragon Knights Gaiden: One Day, Another Day
 
+![dragon-knights-gaiden-one-day-another-day](https://cdn.myanimelist.net/images/manga/1/13805.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

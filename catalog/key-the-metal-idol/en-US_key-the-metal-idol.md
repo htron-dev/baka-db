@@ -1,5 +1,7 @@
 # Key the Metal Idol
 
+![key-the-metal-idol](https://cdn.myanimelist.net/images/anime/5/11220.jpg)
+
 -   **type**: ova
 -   **episodes**: 15
 -   **original-name**: KEY THE METAL IDOL

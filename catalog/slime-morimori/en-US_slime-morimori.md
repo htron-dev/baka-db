@@ -1,5 +1,7 @@
 # Slime Morimori
 
+![slime-morimori](https://cdn.myanimelist.net/images/manga/3/164708.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 184

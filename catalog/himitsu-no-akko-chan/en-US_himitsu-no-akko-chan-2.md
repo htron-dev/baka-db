@@ -1,5 +1,7 @@
 # Himitsu no Akko-chan 2
 
+![himitsu-no-akko-chan-2](https://cdn.myanimelist.net/images/anime/2/73343.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 61
 -   **original-name**: ひみつのアッコちゃん２

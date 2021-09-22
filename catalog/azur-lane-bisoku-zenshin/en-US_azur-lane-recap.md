@@ -1,5 +1,7 @@
 # Azur Lane Recap
 
+![azur-lane-recap](https://cdn.myanimelist.net/images/anime/1713/104378.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 三笠大先輩と学ぶアニメ「アズールレーン」

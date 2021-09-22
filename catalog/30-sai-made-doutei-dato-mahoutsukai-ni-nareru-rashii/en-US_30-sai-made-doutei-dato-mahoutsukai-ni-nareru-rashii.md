@@ -1,5 +1,7 @@
 # 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii
 
+![30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii](https://cdn.myanimelist.net/images/manga/2/220978.jpg)
+
 -   **type**: manga
 -   **original-name**: 30 歳まで童貞だと魔法使いになれるらしい
 -   **start-date**: 2018-09-07

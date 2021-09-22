@@ -1,5 +1,7 @@
 # Chikyuu SOS Sore Ike Kororin
 
+![chikyuu-sos-sore-ike-kororin](https://cdn.myanimelist.net/images/anime/5/39807.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 地球 SOS それいけコロリン
@@ -11,7 +13,6 @@
 
 -   action
 -   comedy
-
 -   sci-fi
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Ameiro Kouchakan Kandan
 
+![ameiro-kouchakan-kandan](https://cdn.myanimelist.net/images/manga/1/26092.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Nanimo Kikazu ni Dakasete Kure: Tsuyogari Shojo to Wakeari Ookami
 
+![nanimo-kikazu-ni-dakasete-kure-tsuyogari-shojo-to-wakeari-ookami](https://cdn.myanimelist.net/images/manga/1/245530.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

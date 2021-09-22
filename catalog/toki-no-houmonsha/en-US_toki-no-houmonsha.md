@@ -1,5 +1,7 @@
 # Toki no Houmonsha
 
+![toki-no-houmonsha](https://cdn.myanimelist.net/images/manga/2/12358.jpg)
+
 -   **type**: manga
 -   **original-name**: 時の訪問者
 

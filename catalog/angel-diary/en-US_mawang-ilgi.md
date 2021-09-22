@@ -1,5 +1,7 @@
 # Mawang Ilgi
 
+![mawang-ilgi](https://cdn.myanimelist.net/images/manga/3/10201.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 26

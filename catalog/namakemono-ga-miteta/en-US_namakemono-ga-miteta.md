@@ -1,5 +1,7 @@
 # Namakemono ga Miteta
 
+![namakemono-ga-miteta](https://cdn.myanimelist.net/images/anime/8/52845.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ナマケモノが見てた

@@ -1,5 +1,7 @@
 # Inu no Seikatsu
 
+![inu-no-seikatsu](https://cdn.myanimelist.net/images/manga/2/87825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

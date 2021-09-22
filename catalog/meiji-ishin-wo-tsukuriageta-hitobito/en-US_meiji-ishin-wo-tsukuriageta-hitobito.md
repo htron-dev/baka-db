@@ -1,5 +1,7 @@
 # Meiji Ishin wo Tsukuriageta Hitobito
 
+![meiji-ishin-wo-tsukuriageta-hitobito](https://cdn.myanimelist.net/images/anime/8/66209.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 明治維新をつくりあげた人々

@@ -1,5 +1,7 @@
 # Masuda Kousuke Gekijou: Gag Mangabiyori GB
 
+![masuda-kousuke-gekijou-gag-mangabiyori-gb](https://cdn.myanimelist.net/images/manga/3/168994.jpg)
+
 -   **type**: manga
 -   **original-name**: 増田こうすけ劇場 ギャグマンガ日和 GB
 

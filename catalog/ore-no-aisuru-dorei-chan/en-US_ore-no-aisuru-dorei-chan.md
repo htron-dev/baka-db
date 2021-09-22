@@ -1,5 +1,7 @@
 # Ore no Aisuru Dorei-chan
 
+![ore-no-aisuru-dorei-chan](https://cdn.myanimelist.net/images/manga/2/71909.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

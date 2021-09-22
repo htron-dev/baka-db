@@ -1,5 +1,7 @@
 # Oukoku no Ko
 
+![oukoku-no-ko](https://cdn.myanimelist.net/images/manga/1/211073.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 36

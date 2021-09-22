@@ -1,5 +1,7 @@
 # Planetarian: Chiisana Hoshi no Yume
 
+![planetarian-chiisana-hoshi-no-yume](https://cdn.myanimelist.net/images/manga/2/33542.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

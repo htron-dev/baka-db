@@ -1,5 +1,7 @@
 # Triangle Night: Aoi Me no Kyoudai to......
 
+![triangle-night-aoi-me-no-kyoudai-to](https://cdn.myanimelist.net/images/manga/3/195675.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

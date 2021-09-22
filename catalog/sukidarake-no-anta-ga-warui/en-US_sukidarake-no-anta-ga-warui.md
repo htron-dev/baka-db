@@ -1,5 +1,7 @@
 # Sukidarake no Anta ga Warui
 
+![sukidarake-no-anta-ga-warui](https://cdn.myanimelist.net/images/manga/2/246271.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

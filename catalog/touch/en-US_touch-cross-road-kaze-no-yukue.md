@@ -1,5 +1,7 @@
 # Touch: Cross Road - Kaze no Yukue
 
+![touch-cross-road-kaze-no-yukue](https://cdn.myanimelist.net/images/anime/13/6176.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: タッチ CROSS ROAD ～風のゆくえ

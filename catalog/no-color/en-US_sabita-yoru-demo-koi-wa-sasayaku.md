@@ -1,5 +1,7 @@
 # Sabita Yoru demo Koi wa Sasayaku
 
+![sabita-yoru-demo-koi-wa-sasayaku](https://cdn.myanimelist.net/images/manga/2/153865.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

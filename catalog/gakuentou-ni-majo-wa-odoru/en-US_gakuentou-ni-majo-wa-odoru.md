@@ -1,5 +1,7 @@
 # Gakuentou ni Majo wa Odoru
 
+![gakuentou-ni-majo-wa-odoru](https://cdn.myanimelist.net/images/manga/1/193673.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

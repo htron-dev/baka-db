@@ -1,5 +1,7 @@
 # Fireball Special
 
+![fireball-special](https://cdn.myanimelist.net/images/anime/4/29365.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: メイキングオブファイアボール
@@ -20,4 +22,4 @@ A small special in which the show's stars, Drossel and Gedächtnis, explain a li
 -   [My Anime list](https://myanimelist.net/anime/10666/Fireball_Special)
 -   [Official Site](http://www.mxtv.co.jp/fireball/index.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5904)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Fireball_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Fireball_%28anime%29)

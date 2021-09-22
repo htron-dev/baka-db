@@ -1,5 +1,7 @@
 # Bats & Terry
 
+![bats-terry](https://cdn.myanimelist.net/images/manga/3/89291.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **original-name**: バツ&テリー

@@ -1,5 +1,7 @@
 # Oyama-kun to Yanai-kun: Sakazaki Toshiki Tanpenshuu
 
+![oyama-kun-to-yanai-kun-sakazaki-toshiki-tanpenshuu](https://cdn.myanimelist.net/images/manga/1/20722.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

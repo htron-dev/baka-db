@@ -1,5 +1,7 @@
 # Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito
 
+![nanatsu-no-taizai-movie-1-tenkuu-no-torawarebito](https://cdn.myanimelist.net/images/anime/1444/91899.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 七つの大罪 天空の囚われ人
@@ -30,4 +32,4 @@ The battle progresses well, until one of the Six Knights awakens an "Indura of R
 -   [Official Site](http://www.7-taizai-movie.net/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13286)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20834)
--   [Wikipedia](<http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_%28manga%29)

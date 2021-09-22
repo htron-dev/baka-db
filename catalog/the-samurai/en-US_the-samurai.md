@@ -1,5 +1,7 @@
 # The Samurai
 
+![the-samurai](https://cdn.myanimelist.net/images/anime/1142/94471.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ザ・サムライ

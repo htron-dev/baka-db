@@ -1,5 +1,7 @@
 # Sorayume no Uta
 
+![sorayume-no-uta](https://cdn.myanimelist.net/images/manga/2/1508.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # ALMIGHTY X 10
 
+![almighty-x-10](https://cdn.myanimelist.net/images/manga/2/3941.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ALMIGHTY×10

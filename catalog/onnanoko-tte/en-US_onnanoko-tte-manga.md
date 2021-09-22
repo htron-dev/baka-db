@@ -1,5 +1,7 @@
 # Onnanoko tte.
 
+![onnanoko-tte](https://cdn.myanimelist.net/images/manga/1/149382.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 76

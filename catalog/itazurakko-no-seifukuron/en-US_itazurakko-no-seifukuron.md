@@ -1,5 +1,7 @@
 # Itazurakko no Seifukuron
 
+![itazurakko-no-seifukuron](https://cdn.myanimelist.net/images/manga/3/204765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

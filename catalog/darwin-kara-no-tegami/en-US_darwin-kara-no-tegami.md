@@ -1,5 +1,7 @@
 # Darwin kara no Tegami
 
+![darwin-kara-no-tegami](https://cdn.myanimelist.net/images/manga/2/151729.jpg)
+
 -   **type**: manga
 -   **chapters**: 23
 -   **original-name**: ダーウィンからの手紙

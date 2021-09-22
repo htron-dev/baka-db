@@ -1,5 +1,7 @@
 # Shiroi Senshi Yamato
 
+![shiroi-senshi-yamato](https://cdn.myanimelist.net/images/manga/1/184517.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 100

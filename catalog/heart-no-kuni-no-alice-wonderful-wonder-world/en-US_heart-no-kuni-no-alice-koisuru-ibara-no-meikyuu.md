@@ -1,5 +1,7 @@
 # Heart no Kuni no Alice: Koisuru Ibara no Meikyuu
 
+![heart-no-kuni-no-alice-koisuru-ibara-no-meikyuu](https://cdn.myanimelist.net/images/manga/2/161531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

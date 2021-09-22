@@ -1,5 +1,7 @@
 # Hell Mode: Yarikomi Suki no Gamer wa Hai-settei no Isekai de Musou suru - Hajimari no Shoukanshi
 
+![hell-mode-yarikomi-suki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-hajimari-no-shoukanshi](https://cdn.myanimelist.net/images/manga/1/244179.jpg)
+
 -   **type**: manga
 -   **original-name**: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ はじまりの召喚士
 -   **start-date**: 2020-10-15

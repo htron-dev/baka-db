@@ -1,5 +1,7 @@
 # Hong Ling Jin Xia
 
+![hong-ling-jin-xia](https://cdn.myanimelist.net/images/anime/8/72013.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 红领巾侠 THE RED

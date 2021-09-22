@@ -1,5 +1,7 @@
 # Fate/stay night: Garden of Avalon
 
+![fate-stay-night-garden-of-avalon](https://cdn.myanimelist.net/images/manga/3/148913.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

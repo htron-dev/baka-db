@@ -1,5 +1,7 @@
 # Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi
 
+![digimon-xros-wars-toki-wo-kakeru-shounen-hunter-tachi](https://cdn.myanimelist.net/images/anime/1928/97426.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: デジモンクロスウォーズ 時を駆ける少年ハンターたち

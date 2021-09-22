@@ -1,5 +1,7 @@
 # 15x24
 
+![15-x-24](https://cdn.myanimelist.net/images/manga/3/161656.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Classroom☆Crisis
 
+![classroom☆-crisis](https://cdn.myanimelist.net/images/manga/2/159758.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 12

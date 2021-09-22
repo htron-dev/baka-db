@@ -1,5 +1,7 @@
 # Kamiusagi Rope: Warau Asa ni wa Fukuraitaru tte Maji ssuka!?
 
+![kamiusagi-rope-warau-asa-ni-wa-fukuraitaru-tte-maji-ssuka](https://cdn.myanimelist.net/images/anime/6/72182.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 紙兎ロペ 〜笑う朝には福来たるってマジっすか!?
 -   **start-date**: 2012-11-16

@@ -1,5 +1,7 @@
 # Mini! Kiznaiver Gekijou
 
+![mini-kiznaiver-gekijou](https://cdn.myanimelist.net/images/manga/1/180723.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: みにっ! きずないーばー劇場

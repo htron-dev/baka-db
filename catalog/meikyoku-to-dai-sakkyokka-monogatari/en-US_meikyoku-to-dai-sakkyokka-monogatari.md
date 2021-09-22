@@ -1,5 +1,7 @@
 # Meikyoku to Dai Sakkyokka Monogatari
 
+![meikyoku-to-dai-sakkyokka-monogatari](https://cdn.myanimelist.net/images/anime/6/79387.jpg)
+
 -   **type**: ova
 -   **episodes**: 9
 -   **original-name**: 名曲と大作曲家物語

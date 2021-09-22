@@ -1,5 +1,7 @@
 # Robin-kun to 100 nin no Otomodachi Season 2
 
+![robin-kun-to-100-nin-no-otomodachi-season-2](https://cdn.myanimelist.net/images/anime/11/40909.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ロビンくんと 100 人のお友達シーズン 2

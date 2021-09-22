@@ -1,5 +1,7 @@
 # Huanji 45 Miao
 
+![huanji-45-miao](https://cdn.myanimelist.net/images/anime/1240/108694.jpg)
+
 -   **type**: ona
 -   **original-name**: 还击 45 秒
 -   **start-date**: 2020-08-20

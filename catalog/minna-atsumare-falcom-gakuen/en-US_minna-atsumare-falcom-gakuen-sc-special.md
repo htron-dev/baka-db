@@ -1,5 +1,7 @@
 # Minna Atsumare! Falcom Gakuen SC Special
 
+![minna-atsumare-falcom-gakuen-sc-special](https://cdn.myanimelist.net/images/anime/7/72922.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: みんな集まれ！ファルコム学園ＳＣ 第 13 話

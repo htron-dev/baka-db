@@ -1,5 +1,7 @@
 # Seika Gakuen Joshi Suikyuubu Monogatari
 
+![seika-gakuen-joshi-suikyuubu-monogatari](https://cdn.myanimelist.net/images/manga/3/22149.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖華学園女子水球部物語
 

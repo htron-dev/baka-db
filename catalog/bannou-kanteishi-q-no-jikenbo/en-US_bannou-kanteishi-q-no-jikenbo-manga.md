@@ -1,5 +1,7 @@
 # Bannou Kanteishi Q no Jikenbo
 
+![bannou-kanteishi-q-no-jikenbo](https://cdn.myanimelist.net/images/manga/2/107625.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 48

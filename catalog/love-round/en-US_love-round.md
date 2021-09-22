@@ -1,5 +1,7 @@
 # Love Round!!
 
+![love-round](https://cdn.myanimelist.net/images/manga/3/30762.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

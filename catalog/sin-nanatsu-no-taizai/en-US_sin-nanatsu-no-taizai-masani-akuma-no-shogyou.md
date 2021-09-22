@@ -1,5 +1,7 @@
 # Sin: Nanatsu no Taizai - Masani Akuma no Shogyou...
 
+![sin-nanatsu-no-taizai-masani-akuma-no-shogyou](https://cdn.myanimelist.net/images/anime/3/86622.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: sin 七つの大罪 第 4.5 話「まさに悪魔の所業…」

@@ -1,5 +1,7 @@
 # Tsuyoshi Shikkari Shinasai
 
+![tsuyoshi-shikkari-shinasai](https://cdn.myanimelist.net/images/manga/3/17031.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **original-name**: ツヨシしっかりしなさい

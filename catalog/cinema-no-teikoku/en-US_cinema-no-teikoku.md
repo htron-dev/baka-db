@@ -1,5 +1,7 @@
 # Cinema no Teikoku
 
+![cinema-no-teikoku](https://cdn.myanimelist.net/images/manga/3/24611.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

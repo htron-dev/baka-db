@@ -1,5 +1,7 @@
 # Kizoku Kyoudai to Mitsu-iro Maid Keiyaku
 
+![kizoku-kyoudai-to-mitsu-iro-maid-keiyaku](https://cdn.myanimelist.net/images/manga/1/194398.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Ryuu no Tamago wo Hiroimashite
 
+![ryuu-no-tamago-wo-hiroimashite](https://cdn.myanimelist.net/images/manga/2/219392.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 竜の卵を拾いまして

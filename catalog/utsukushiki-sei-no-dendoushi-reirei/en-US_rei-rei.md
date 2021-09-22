@@ -1,5 +1,7 @@
 # Rei Rei
 
+![rei-rei](https://cdn.myanimelist.net/images/manga/2/32308.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 麗々

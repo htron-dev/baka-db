@@ -1,5 +1,7 @@
 # Romantic Killer
 
+![romantic-killer](https://cdn.myanimelist.net/images/manga/1/236232.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # Dolghon Saga
 
+![dolghon-saga](https://cdn.myanimelist.net/images/manga/3/182208.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ドルグオン・サーガ
 -   **start-date**: 2016-09-01

@@ -1,5 +1,7 @@
 # Sukidatte Iwanai!
 
+![sukidatte-iwanai](https://cdn.myanimelist.net/images/manga/3/79477.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

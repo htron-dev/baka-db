@@ -1,5 +1,7 @@
 # Kurofuku Manogo
 
+![kurofuku-manogo](https://cdn.myanimelist.net/images/manga/4/38150.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 

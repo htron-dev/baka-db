@@ -1,5 +1,7 @@
 # Eros no Shushi
 
+![eros-no-shushi](https://cdn.myanimelist.net/images/manga/1/196766.jpg)
+
 -   **type**: manga
 -   **original-name**: エロスの種子
 -   **start-date**: 2015-12-24

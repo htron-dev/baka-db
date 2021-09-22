@@ -1,5 +1,7 @@
 # Watashi ni Tenshi ga Maiorita! Special
 
+![watashi-ni-tenshi-ga-maiorita-special](https://cdn.myanimelist.net/images/anime/1057/98215.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 私に天使が舞い降りた！

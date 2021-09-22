@@ -1,5 +1,7 @@
 # Jin-Rou
 
+![jin-rou](https://cdn.myanimelist.net/images/anime/1323/103343.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 人狼 JIN-ROH

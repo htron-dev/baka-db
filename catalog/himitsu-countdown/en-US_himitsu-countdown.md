@@ -1,5 +1,7 @@
 # Himitsu Countdown
 
+![himitsu-countdown](https://cdn.myanimelist.net/images/manga/3/101583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Seishin Sakuhinshuu: 12 Renkyuu
 
+![seishin-sakuhinshuu-12-renkyuu](https://cdn.myanimelist.net/images/manga/1/231385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

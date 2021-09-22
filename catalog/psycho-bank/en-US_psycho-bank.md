@@ -1,5 +1,7 @@
 # Psycho Bank
 
+![psycho-bank](https://cdn.myanimelist.net/images/manga/2/211051.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

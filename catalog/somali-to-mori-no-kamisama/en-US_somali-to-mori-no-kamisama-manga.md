@@ -1,5 +1,7 @@
 # Somali to Mori no Kamisama
 
+![somali-to-mori-no-kamisama](https://cdn.myanimelist.net/images/manga/1/171808.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 39

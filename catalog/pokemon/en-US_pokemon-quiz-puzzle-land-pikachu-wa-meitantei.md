@@ -1,5 +1,7 @@
 # Pokémon Quiz Puzzle-land: Pikachu wa Meitantei
 
+![pokemon-quiz-puzzle-land-pikachu-wa-meitantei](https://cdn.myanimelist.net/images/manga/3/189101.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

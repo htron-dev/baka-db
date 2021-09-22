@@ -1,5 +1,7 @@
 # Furusato Saisei: Nippon no Mukashibanashi
 
+![furusato-saisei-nippon-no-mukashibanashi](https://cdn.myanimelist.net/images/anime/11/82364.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 258
 -   **original-name**: ふるさと再生 日本の昔ばなし
@@ -12,7 +14,6 @@
 ## Tags
 
 -   historical
-
 -   supernatural
 
 ## Sinopse

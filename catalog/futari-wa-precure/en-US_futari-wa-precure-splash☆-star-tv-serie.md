@@ -1,5 +1,7 @@
 # Futari wa Precure: Splash☆Star
 
+![futari-wa-precure-splash☆-star](https://cdn.myanimelist.net/images/anime/3/7534.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: ふたりはプリキュア Splash☆Star

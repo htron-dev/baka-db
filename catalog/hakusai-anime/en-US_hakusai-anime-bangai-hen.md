@@ -1,5 +1,7 @@
 # Hakusai Anime Bangai-hen
 
+![hakusai-anime-bangai-hen](https://cdn.myanimelist.net/images/anime/9/75110.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 白菜アニメ番外編

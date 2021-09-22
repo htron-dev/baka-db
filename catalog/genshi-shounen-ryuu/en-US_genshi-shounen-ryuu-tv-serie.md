@@ -1,5 +1,7 @@
 # Genshi Shounen Ryuu
 
+![genshi-shounen-ryuu](https://cdn.myanimelist.net/images/anime/6/26879.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 原始少年リュウ

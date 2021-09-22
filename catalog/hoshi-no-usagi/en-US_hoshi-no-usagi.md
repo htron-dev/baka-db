@@ -1,5 +1,7 @@
 # Hoshi no Usagi
 
+![hoshi-no-usagi](https://cdn.myanimelist.net/images/manga/3/238205.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

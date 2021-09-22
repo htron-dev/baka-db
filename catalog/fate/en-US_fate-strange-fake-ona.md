@@ -1,5 +1,7 @@
 # Fate/strange Fake
 
+![fate-strange-fake](https://cdn.myanimelist.net/images/anime/1124/105177.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Fate/strange Fake

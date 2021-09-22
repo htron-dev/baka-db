@@ -1,5 +1,7 @@
 # Dr. Slump Movie 11: Dr. Mashirito & Abale-chan
 
+![dr-slump-movie-11-dr-mashirito-abale-chan](https://cdn.myanimelist.net/images/anime/8/23179.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 Dr.SLUMP Dr.マシリト アバレちゃん

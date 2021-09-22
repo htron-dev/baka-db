@@ -1,5 +1,7 @@
 # Koi Cupid♥
 
+![koi-cupid♥](https://cdn.myanimelist.net/images/manga/3/208400.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 16

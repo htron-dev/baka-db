@@ -1,5 +1,7 @@
 # Yatoware Maid to Nemurenai Hakushaku: Yuurei Yashiki no Koi
 
+![yatoware-maid-to-nemurenai-hakushaku-yuurei-yashiki-no-koi](https://cdn.myanimelist.net/images/manga/3/192868.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10
@@ -17,8 +19,6 @@
 -   Ichika (Art)
 -   Yamanobe
 -   Riri (Story)
-
-## Sinopse
 
 ## Links
 

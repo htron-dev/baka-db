@@ -1,5 +1,7 @@
 # Koi wa Ninkyou
 
+![koi-wa-ninkyou](https://cdn.myanimelist.net/images/manga/3/165470.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

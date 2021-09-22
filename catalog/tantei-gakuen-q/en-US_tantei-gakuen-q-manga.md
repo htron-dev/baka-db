@@ -1,5 +1,7 @@
 # Tantei Gakuen Q
 
+![tantei-gakuen-q](https://cdn.myanimelist.net/images/manga/2/11113.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 172

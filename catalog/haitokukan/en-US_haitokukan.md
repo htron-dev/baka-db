@@ -1,5 +1,7 @@
 # Haitokukan
 
+![haitokukan](https://cdn.myanimelist.net/images/manga/3/136927.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 背徳姦

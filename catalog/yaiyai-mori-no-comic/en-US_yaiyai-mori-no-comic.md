@@ -1,5 +1,7 @@
 # Yaiyai Mori no Comic
 
+![yaiyai-mori-no-comic](https://cdn.myanimelist.net/images/anime/2/84256.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: ヤイヤイ森のコミー

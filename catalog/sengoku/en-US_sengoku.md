@@ -1,5 +1,7 @@
 # Sengoku
 
+![sengoku](https://cdn.myanimelist.net/images/manga/3/10289.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 149

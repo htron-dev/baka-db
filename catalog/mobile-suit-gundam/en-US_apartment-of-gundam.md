@@ -1,5 +1,7 @@
 # Apartment of Gundam
 
+![apartment-of-gundam](https://cdn.myanimelist.net/images/manga/2/167202.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

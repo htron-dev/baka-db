@@ -1,5 +1,7 @@
 # Tetsuwan Atom: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...
 
+![tetsuwan-atom-kagayakeru-hoshi-anata-wa-aoku-utsukushii](https://cdn.myanimelist.net/images/anime/3/47835.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Tetsuwan Atom 鉄腕アトム 特別編: 輝ける地球 ~あなたは青く、美しい...~

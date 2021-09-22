@@ -1,5 +1,7 @@
 # Chibi☆Devi!
 
+![chibi☆-devi](https://cdn.myanimelist.net/images/manga/3/175587.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 80

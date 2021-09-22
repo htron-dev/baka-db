@@ -1,5 +1,7 @@
 # Asahinagu
 
+![asahinagu](https://cdn.myanimelist.net/images/manga/1/149866.jpg)
+
 -   **type**: manga
 -   **volumes**: 34
 -   **chapters**: 389

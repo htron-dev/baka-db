@@ -1,5 +1,7 @@
 # Waza no Tabibito
 
+![waza-no-tabibito](https://cdn.myanimelist.net/images/anime/13/30098.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 技の旅人

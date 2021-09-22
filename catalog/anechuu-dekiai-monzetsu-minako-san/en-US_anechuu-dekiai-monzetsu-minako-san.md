@@ -1,5 +1,7 @@
 # Anechuu! - Dekiai Monzetsu Minako-san
 
+![anechuu-dekiai-monzetsu-minako-san](https://cdn.myanimelist.net/images/manga/2/135419.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: あねちゅう! 溺愛悶絶美奈子さん

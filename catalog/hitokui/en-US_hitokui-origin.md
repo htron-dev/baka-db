@@ -1,5 +1,7 @@
 # Hitokui: Origin
 
+![hitokui-origin](https://cdn.myanimelist.net/images/manga/1/167296.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 105

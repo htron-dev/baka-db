@@ -1,5 +1,7 @@
 # Natsuaki-kun wa Kyou mo Kokuhaku shitai
 
+![natsuaki-kun-wa-kyou-mo-kokuhaku-shitai](https://cdn.myanimelist.net/images/manga/2/241041.jpg)
+
 -   **type**: manga
 -   **original-name**: 夏秋くんは今日も告白したい
 -   **start-date**: 2020-05-13

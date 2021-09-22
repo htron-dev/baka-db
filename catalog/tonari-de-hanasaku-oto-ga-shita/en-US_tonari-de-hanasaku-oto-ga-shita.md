@@ -1,5 +1,7 @@
 # Tonari de Hanasaku Oto ga Shita
 
+![tonari-de-hanasaku-oto-ga-shita](https://cdn.myanimelist.net/images/manga/1/211438.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

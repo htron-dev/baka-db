@@ -1,5 +1,7 @@
 # Shinagawashuku Nekokatari
 
+![shinagawashuku-nekokatari](https://cdn.myanimelist.net/images/manga/1/100731.jpg)
+
 -   **type**: manga
 -   **original-name**: 品川宿猫語り
 

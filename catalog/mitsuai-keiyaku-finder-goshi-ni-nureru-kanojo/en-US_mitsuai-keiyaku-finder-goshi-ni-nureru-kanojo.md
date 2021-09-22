@@ -1,5 +1,7 @@
 # Mitsuai Keiyaku: Finder Goshi ni Nureru Kanojo
 
+![mitsuai-keiyaku-finder-goshi-ni-nureru-kanojo](https://cdn.myanimelist.net/images/manga/3/196280.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

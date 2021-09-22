@@ -1,5 +1,7 @@
 # Neko Vitamin
 
+![neko-vitamin](https://cdn.myanimelist.net/images/manga/2/46951.jpg)
+
 -   **type**: manga
 -   **original-name**: 猫ビタミン
 -   **start-date**: 2009-06-15

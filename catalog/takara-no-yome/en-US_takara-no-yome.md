@@ -1,5 +1,7 @@
 # Takara no Yome
 
+![takara-no-yome](https://cdn.myanimelist.net/images/manga/3/224774.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

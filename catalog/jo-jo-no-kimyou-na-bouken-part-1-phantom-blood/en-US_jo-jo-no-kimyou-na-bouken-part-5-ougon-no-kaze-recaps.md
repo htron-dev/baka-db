@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken Part 5: Ougon no Kaze Recaps
 
+![jo-jo-no-kimyou-na-bouken-part-5-ougon-no-kaze-recaps](https://cdn.myanimelist.net/images/anime/1762/98169.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ジョジョの奇妙な冒険 黄金の風 Recaps

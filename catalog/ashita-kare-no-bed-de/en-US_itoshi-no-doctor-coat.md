@@ -1,5 +1,7 @@
 # Itoshi no Doctor Coat
 
+![itoshi-no-doctor-coat](https://cdn.myanimelist.net/images/manga/2/75471.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Pianoman Trailer
 
+![pianoman-trailer](https://cdn.myanimelist.net/images/anime/1294/106625.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: PIANOMAN Trailer

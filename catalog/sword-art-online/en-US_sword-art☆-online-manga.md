@@ -1,5 +1,7 @@
 # Sword Art☆Online.
 
+![sword-art☆-online](https://cdn.myanimelist.net/images/manga/2/185073.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 39

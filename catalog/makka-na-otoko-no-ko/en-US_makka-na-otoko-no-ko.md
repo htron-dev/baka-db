@@ -1,5 +1,7 @@
 # Makka na Otoko no Ko
 
+![makka-na-otoko-no-ko](https://cdn.myanimelist.net/images/manga/3/130191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: まっかなおとこのこ。

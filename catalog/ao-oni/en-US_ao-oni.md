@@ -1,5 +1,7 @@
 # Ao Oni
 
+![ao-oni](https://cdn.myanimelist.net/images/manga/2/202671.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 71

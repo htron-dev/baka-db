@@ -1,5 +1,7 @@
 # Tetsuwan Birdy
 
+![tetsuwan-birdy](https://cdn.myanimelist.net/images/anime/13/27256.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 鉄腕バーディー

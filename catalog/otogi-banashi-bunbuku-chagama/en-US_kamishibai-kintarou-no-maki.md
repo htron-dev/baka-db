@@ -1,5 +1,7 @@
 # Kamishibai Kintarou no Maki
 
+![kamishibai-kintarou-no-maki](https://cdn.myanimelist.net/images/anime/13/85262.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 紙芝居 金太郎の卷

@@ -1,5 +1,7 @@
 # Asobi ni Iku yo!
 
+![asobi-ni-iku-yo](https://cdn.myanimelist.net/images/manga/3/139873.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 57

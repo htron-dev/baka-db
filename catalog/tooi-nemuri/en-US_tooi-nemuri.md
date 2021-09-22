@@ -1,5 +1,7 @@
 # Tooi Nemuri
 
+![tooi-nemuri](https://cdn.myanimelist.net/images/manga/2/18443.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

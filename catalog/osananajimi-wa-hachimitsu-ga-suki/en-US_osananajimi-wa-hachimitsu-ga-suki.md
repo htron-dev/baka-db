@@ -1,5 +1,7 @@
 # Osananajimi wa Hachimitsu ga Suki
 
+![osananajimi-wa-hachimitsu-ga-suki](https://cdn.myanimelist.net/images/manga/3/202941.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

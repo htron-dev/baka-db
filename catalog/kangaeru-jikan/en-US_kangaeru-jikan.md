@@ -1,5 +1,7 @@
 # Kangaeru Jikan
 
+![kangaeru-jikan](https://cdn.myanimelist.net/images/anime/1846/107235.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 考える時間

@@ -1,5 +1,7 @@
 # Gakudan!
 
+![gakudan](https://cdn.myanimelist.net/images/manga/3/168287.jpg)
+
 -   **type**: manga
 -   **original-name**: がくだん!
 -   **start-date**: 2015-04-25

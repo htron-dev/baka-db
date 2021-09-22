@@ -1,5 +1,7 @@
 # Kenritsu Chikyuu Boueigun
 
+![kenritsu-chikyuu-boueigun](https://cdn.myanimelist.net/images/anime/7/75317.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 県立地球防衛軍

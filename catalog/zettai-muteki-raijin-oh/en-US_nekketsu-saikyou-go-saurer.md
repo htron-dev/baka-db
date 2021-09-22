@@ -1,5 +1,7 @@
 # Nekketsu Saikyou Go-Saurer
 
+![nekketsu-saikyou-go-saurer](https://cdn.myanimelist.net/images/anime/1138/100815.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 熱血最強ゴウザウラー

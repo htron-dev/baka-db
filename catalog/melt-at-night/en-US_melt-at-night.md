@@ -1,5 +1,7 @@
 # Melt at Night
 
+![melt-at-night](https://cdn.myanimelist.net/images/manga/1/245803.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

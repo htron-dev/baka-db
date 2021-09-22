@@ -1,5 +1,7 @@
 # Nar Doma Special
 
+![nar-doma-special](https://cdn.myanimelist.net/images/anime/4/77479.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ナルどマ 少女に優しい俺が好き

@@ -1,5 +1,7 @@
 # Renai Club
 
+![renai-club](https://cdn.myanimelist.net/images/manga/2/22020.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: レンアイ ☆ 倶楽部

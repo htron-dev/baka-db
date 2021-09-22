@@ -1,5 +1,7 @@
 # Zekkyou Gakkyuu: Tensei
 
+![zekkyou-gakkyuu-tensei](https://cdn.myanimelist.net/images/anime/4/79529.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 絶叫学級 転生

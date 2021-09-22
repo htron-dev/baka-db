@@ -1,5 +1,7 @@
 # Piece
 
+![piece](https://cdn.myanimelist.net/images/manga/1/40362.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 21

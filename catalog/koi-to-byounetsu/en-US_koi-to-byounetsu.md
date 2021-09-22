@@ -1,5 +1,7 @@
 # Koi to Byounetsu
 
+![koi-to-byounetsu](https://cdn.myanimelist.net/images/manga/1/192192.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

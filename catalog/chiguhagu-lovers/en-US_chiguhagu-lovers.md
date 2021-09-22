@@ -1,5 +1,7 @@
 # Chiguhagu Lovers
 
+![chiguhagu-lovers](https://cdn.myanimelist.net/images/manga/1/147359.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

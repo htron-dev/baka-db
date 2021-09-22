@@ -1,5 +1,7 @@
 # City Hunter: Ai to Shukumei no Magnum
 
+![city-hunter-ai-to-shukumei-no-magnum](https://cdn.myanimelist.net/images/anime/1978/94391.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: シティーハンター 愛と宿命のマグナム

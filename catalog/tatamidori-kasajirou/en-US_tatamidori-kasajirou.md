@@ -1,5 +1,7 @@
 # Tatamidori Kasajirou
 
+![tatamidori-kasajirou](https://cdn.myanimelist.net/images/manga/3/166556.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

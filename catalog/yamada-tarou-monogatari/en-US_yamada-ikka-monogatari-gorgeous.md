@@ -1,5 +1,7 @@
 # Yamada Ikka Monogatari Gorgeous
 
+![yamada-ikka-monogatari-gorgeous](https://cdn.myanimelist.net/images/manga/3/80815.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

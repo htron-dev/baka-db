@@ -1,5 +1,7 @@
 # Kyokkei Gakuen
 
+![kyokkei-gakuen](https://cdn.myanimelist.net/images/manga/2/203523.jpg)
+
 -   **type**: manga
 -   **original-name**: 極刑学園
 -   **start-date**: 2017-03-25

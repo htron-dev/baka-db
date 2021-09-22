@@ -1,5 +1,7 @@
 # Chou Yuu Sekai: Being the Reality
 
+![chou-yuu-sekai-being-the-reality](https://cdn.myanimelist.net/images/anime/7/83712.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 超游世界 -BEING THE REALITY-

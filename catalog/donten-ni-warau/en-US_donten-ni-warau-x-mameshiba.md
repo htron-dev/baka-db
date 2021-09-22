@@ -1,5 +1,7 @@
 # Donten ni Warau x Mameshiba
 
+![donten-ni-warau-x-mameshiba](https://cdn.myanimelist.net/images/anime/1946/90905.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 『曇天に笑う』×「豆しば」

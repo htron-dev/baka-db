@@ -1,5 +1,7 @@
 # Cynical Hysterie Hour: Utakata no Uta
 
+![cynical-hysterie-hour-utakata-no-uta](https://cdn.myanimelist.net/images/anime/6/27151.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: シニカル・ヒステリー・アワー うたかたのうた

@@ -1,5 +1,7 @@
 # Medarot
 
+![medarot](https://cdn.myanimelist.net/images/manga/3/171501.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: メダロット
@@ -10,7 +12,6 @@
 
 -   action
 -   adventure
-
 -   shounen
 
 ## Authors

@@ -1,5 +1,7 @@
 # Bocchi na Ace wo Lead Shitai
 
+![bocchi-na-ace-wo-lead-shitai](https://cdn.myanimelist.net/images/manga/2/241144.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 45

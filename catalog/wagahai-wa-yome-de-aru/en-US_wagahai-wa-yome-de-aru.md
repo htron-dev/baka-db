@@ -1,5 +1,7 @@
 # Wagahai wa Yome de Aru.
 
+![wagahai-wa-yome-de-aru](https://cdn.myanimelist.net/images/manga/3/111047.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

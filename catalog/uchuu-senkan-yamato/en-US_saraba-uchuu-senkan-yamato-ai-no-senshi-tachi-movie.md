@@ -1,5 +1,7 @@
 # Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi
 
+![saraba-uchuu-senkan-yamato-ai-no-senshi-tachi](https://cdn.myanimelist.net/images/anime/7/83047.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: さらば宇宙戦艦ヤマト・愛の戦士たち

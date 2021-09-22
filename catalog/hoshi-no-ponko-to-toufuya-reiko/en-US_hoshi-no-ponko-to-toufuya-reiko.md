@@ -1,5 +1,7 @@
 # Hoshi no Ponko to Toufuya Reiko
 
+![hoshi-no-ponko-to-toufuya-reiko](https://cdn.myanimelist.net/images/manga/2/137791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

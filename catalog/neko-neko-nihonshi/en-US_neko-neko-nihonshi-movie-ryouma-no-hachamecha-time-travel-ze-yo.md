@@ -1,5 +1,7 @@
 # Neko Neko Nihonshi Movie: Ryouma no Hachamecha Time Travel ze yo!
 
+![neko-neko-nihonshi-movie-ryouma-no-hachamecha-time-travel-ze-yo](https://cdn.myanimelist.net/images/anime/1288/104637.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ねこねこ日本史 ~龍馬のはちゃめちゃタイムトラベルぜよ!~
@@ -10,7 +12,6 @@
 ## Tags
 
 -   historical
-
 -   parody
 
 ## Sinopse

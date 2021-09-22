@@ -1,5 +1,7 @@
 # Yoroshiku Mechadock
 
+![yoroshiku-mechadock](https://cdn.myanimelist.net/images/anime/7/16963.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: よろしくメカドック

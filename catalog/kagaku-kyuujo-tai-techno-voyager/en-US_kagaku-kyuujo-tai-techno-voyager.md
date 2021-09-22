@@ -1,5 +1,7 @@
 # Kagaku Kyuujo-tai TechnoVoyager
 
+![kagaku-kyuujo-tai-techno-voyager](https://cdn.myanimelist.net/images/anime/11/7158.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 18
 -   **original-name**: 科学救助隊テクノボイジャー

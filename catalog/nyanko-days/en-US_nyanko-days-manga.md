@@ -1,5 +1,7 @@
 # Nyanko Days
 
+![nyanko-days](https://cdn.myanimelist.net/images/manga/2/184002.jpg)
+
 -   **type**: manga
 -   **original-name**: にゃんこデイズ
 -   **start-date**: 2014-08-27

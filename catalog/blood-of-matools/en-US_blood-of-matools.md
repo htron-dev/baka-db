@@ -1,5 +1,7 @@
 # Blood of Matools
 
+![blood-of-matools](https://cdn.myanimelist.net/images/manga/1/14365.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 60

@@ -1,5 +1,7 @@
 # Kami Pro.
 
+![kami-pro](https://cdn.myanimelist.net/images/manga/3/159692.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

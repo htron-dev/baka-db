@@ -1,5 +1,7 @@
 # Hoshikuzu Traffic
 
+![hoshikuzu-traffic](https://cdn.myanimelist.net/images/manga/2/122749.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 星屑トラフィック

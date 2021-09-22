@@ -1,5 +1,7 @@
 # ReLIFE: Kanketsu-hen Specials
 
+![re-life-kanketsu-hen-specials](https://cdn.myanimelist.net/images/anime/1563/93020.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 社外秘 リライフ研究所 サポート課

@@ -1,5 +1,7 @@
 # Hakugai Fukutsu no Blade Maker
 
+![hakugai-fukutsu-no-blade-maker](https://cdn.myanimelist.net/images/manga/2/167557.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 迫害不屈の聖剣錬師〈ブレイドメイカー〉
 -   **start-date**: 2015-11-10

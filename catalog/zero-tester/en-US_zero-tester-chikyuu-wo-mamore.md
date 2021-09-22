@@ -1,5 +1,7 @@
 # Zero Tester: Chikyuu wo Mamore!
 
+![zero-tester-chikyuu-wo-mamore](https://cdn.myanimelist.net/images/anime/7/26392.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 28
 -   **original-name**: ゼロテスター 地球を守れ!

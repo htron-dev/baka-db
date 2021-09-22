@@ -1,5 +1,7 @@
 # Heart wo Nusumu no wa Dare da
 
+![heart-wo-nusumu-no-wa-dare-da](https://cdn.myanimelist.net/images/manga/3/87315.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

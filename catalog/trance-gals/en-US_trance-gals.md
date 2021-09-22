@@ -1,5 +1,7 @@
 # Trance Gals
 
+![trance-gals](https://cdn.myanimelist.net/images/manga/2/148479.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

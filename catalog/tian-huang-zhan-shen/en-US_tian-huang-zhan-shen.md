@@ -1,5 +1,7 @@
 # Tian Huang Zhan Shen
 
+![tian-huang-zhan-shen](https://cdn.myanimelist.net/images/anime/1946/110439.jpg)
+
 -   **type**: ona
 -   **episodes**: 80
 -   **original-name**: 天荒战神

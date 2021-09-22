@@ -1,5 +1,7 @@
 # After Black
 
+![after-black](https://cdn.myanimelist.net/images/manga/1/160170.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アフターブラック
 -   **start-date**: 2015-07-31

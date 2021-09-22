@@ -1,5 +1,7 @@
 # Love Live! Comic Anthology μ's Sweet Memories
 
+![love-live-comic-anthology-μs-sweet-memories](https://cdn.myanimelist.net/images/manga/1/235600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

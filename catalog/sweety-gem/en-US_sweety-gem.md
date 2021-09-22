@@ -1,5 +1,7 @@
 # Sweety Gem
 
+![sweety-gem](https://cdn.myanimelist.net/images/manga/2/7301.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 27

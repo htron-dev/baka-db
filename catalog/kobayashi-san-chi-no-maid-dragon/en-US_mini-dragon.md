@@ -1,5 +1,7 @@
 # Mini Dragon
 
+![mini-dragon](https://cdn.myanimelist.net/images/anime/1646/114971.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ミニドラ

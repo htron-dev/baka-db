@@ -1,5 +1,7 @@
 # Aishite Aisare Nakucchane!
 
+![aishite-aisare-nakucchane](https://cdn.myanimelist.net/images/manga/2/9998.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛して愛されなくっちゃね!

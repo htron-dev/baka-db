@@ -1,5 +1,7 @@
 # Giniro Fuwari
 
+![giniro-fuwari](https://cdn.myanimelist.net/images/manga/3/176065.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 銀色ふわり

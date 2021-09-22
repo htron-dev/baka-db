@@ -1,5 +1,7 @@
 # Lord of Vermilion IV
 
+![lord-of-vermilion-iv](https://cdn.myanimelist.net/images/anime/8/87965.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: LORD of VERMILION IV

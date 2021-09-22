@@ -1,5 +1,7 @@
 # Nanocore: NG Scenes - Nano's Daily Life
 
+![nanocore-ng-scenes-nanos-daily-life](https://cdn.myanimelist.net/images/anime/2/79966.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 纳米核心 - NG 镜头 - 纳米的日

@@ -1,5 +1,7 @@
 # Hayami-san no Enmusubi
 
+![hayami-san-no-enmusubi](https://cdn.myanimelist.net/images/manga/1/126357.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 羽矢美さんの縁結び

@@ -1,5 +1,7 @@
 # Arcana Heart
 
+![arcana-heart](https://cdn.myanimelist.net/images/manga/3/171266.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ARCANA HEART アルカナハート

@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Gaiden: Missing Link
 
+![kidou-senshi-gundam-gaiden-missing-link](https://cdn.myanimelist.net/images/manga/1/146971.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

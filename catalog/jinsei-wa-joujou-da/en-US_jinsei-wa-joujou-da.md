@@ -1,5 +1,7 @@
 # Jinsei wa Joujou da
 
+![jinsei-wa-joujou-da](https://cdn.myanimelist.net/images/manga/3/24529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Kemono no Souja
 
+![kemono-no-souja](https://cdn.myanimelist.net/images/manga/1/169316.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: 獣の奏者

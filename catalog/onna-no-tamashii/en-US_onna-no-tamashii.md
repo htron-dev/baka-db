@@ -1,5 +1,7 @@
 # Onna no Tamashii
 
+![onna-no-tamashii](https://cdn.myanimelist.net/images/manga/1/154528.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

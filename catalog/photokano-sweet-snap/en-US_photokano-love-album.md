@@ -1,5 +1,7 @@
 # Photokano: Love Album
 
+![photokano-love-album](https://cdn.myanimelist.net/images/manga/3/117609.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

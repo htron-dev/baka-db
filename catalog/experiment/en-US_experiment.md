@@ -1,5 +1,7 @@
 # Experiment
 
+![experiment](https://cdn.myanimelist.net/images/anime/1269/92989.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: experiment

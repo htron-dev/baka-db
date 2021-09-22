@@ -1,5 +1,7 @@
 # Jazz
 
+![jazz](https://cdn.myanimelist.net/images/manga/2/142093.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

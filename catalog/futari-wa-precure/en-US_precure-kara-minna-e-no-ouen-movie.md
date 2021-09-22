@@ -1,5 +1,7 @@
 # Precure kara Minna e no Ouen Movie
 
+![precure-kara-minna-e-no-ouen-movie](https://cdn.myanimelist.net/images/anime/10/29572.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: プリキュアからみんなへの応援ムービー

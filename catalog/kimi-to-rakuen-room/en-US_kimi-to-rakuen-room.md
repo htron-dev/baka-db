@@ -1,5 +1,7 @@
 # Kimi to Rakuen Room
 
+![kimi-to-rakuen-room](https://cdn.myanimelist.net/images/manga/2/157260.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

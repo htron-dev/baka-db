@@ -1,5 +1,7 @@
 # Shibuya Guardian girls
 
+![shibuya-guardian-girls](https://cdn.myanimelist.net/images/manga/2/34306.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

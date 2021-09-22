@@ -1,5 +1,7 @@
 # Sennen Sensou Aigis: Shiro no Teikoku-hen
 
+![sennen-sensou-aigis-shiro-no-teikoku-hen](https://cdn.myanimelist.net/images/manga/1/237750.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 千年戦争アイギス 白の帝国編

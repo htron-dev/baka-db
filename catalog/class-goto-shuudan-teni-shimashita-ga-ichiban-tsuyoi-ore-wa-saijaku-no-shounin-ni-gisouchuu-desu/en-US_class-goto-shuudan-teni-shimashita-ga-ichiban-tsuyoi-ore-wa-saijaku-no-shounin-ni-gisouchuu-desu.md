@@ -1,5 +1,7 @@
 # Class-goto Shuudan Teni shimashita ga, Ichiban Tsuyoi Ore wa Saijaku no Shounin ni Gisouchuu desu.
 
+![class-goto-shuudan-teni-shimashita-ga-ichiban-tsuyoi-ore-wa-saijaku-no-shounin-ni-gisouchuu-desu](https://cdn.myanimelist.net/images/manga/1/239385.jpg)
+
 -   **type**: manga
 -   **original-name**: クラスごと集団転移しましたが、一番強い俺は最弱の商人に偽装中です。
 -   **start-date**: 2018-11-23

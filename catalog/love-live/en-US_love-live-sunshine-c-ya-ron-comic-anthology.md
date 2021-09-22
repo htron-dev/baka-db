@@ -1,5 +1,7 @@
 # Love Live! Sunshine!! CYaRon! Comic Anthology
 
+![love-live-sunshine-c-ya-ron-comic-anthology](https://cdn.myanimelist.net/images/manga/1/234742.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

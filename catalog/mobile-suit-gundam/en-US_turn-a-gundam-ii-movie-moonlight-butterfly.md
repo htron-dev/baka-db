@@ -1,5 +1,7 @@
 # Turn A Gundam II Movie: Moonlight Butterfly
 
+![turn-a-gundam-ii-movie-moonlight-butterfly](https://cdn.myanimelist.net/images/anime/12/7122.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ∀ ガンダム II 月光蝶

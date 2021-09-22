@@ -1,5 +1,7 @@
 # Punishment
 
+![punishment](https://cdn.myanimelist.net/images/manga/1/172027.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

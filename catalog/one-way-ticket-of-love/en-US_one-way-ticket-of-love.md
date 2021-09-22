@@ -1,5 +1,7 @@
 # One-Way Ticket of Love
 
+![one-way-ticket-of-love](https://cdn.myanimelist.net/images/manga/3/2688.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

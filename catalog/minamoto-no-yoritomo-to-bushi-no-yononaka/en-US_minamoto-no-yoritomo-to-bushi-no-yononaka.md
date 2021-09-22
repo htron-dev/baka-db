@@ -1,5 +1,7 @@
 # Minamoto no Yoritomo to Bushi no Yononaka
 
+![minamoto-no-yoritomo-to-bushi-no-yononaka](https://cdn.myanimelist.net/images/anime/3/66215.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 源頼朝と武士の世の中

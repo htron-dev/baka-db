@@ -1,5 +1,7 @@
 # Akechi
 
+![akechi](https://cdn.myanimelist.net/images/manga/1/222898.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

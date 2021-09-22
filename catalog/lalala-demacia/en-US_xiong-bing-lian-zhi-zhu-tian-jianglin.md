@@ -1,5 +1,7 @@
 # Xiong Bing Lian: Zhi Zhu Tian Jianglin
 
+![xiong-bing-lian-zhi-zhu-tian-jianglin](https://cdn.myanimelist.net/images/anime/1539/114403.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 雄兵连 II 诸天降临

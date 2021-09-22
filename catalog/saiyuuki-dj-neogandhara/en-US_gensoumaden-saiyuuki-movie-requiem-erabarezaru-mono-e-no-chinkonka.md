@@ -1,5 +1,7 @@
 # Gensoumaden Saiyuuki Movie: Requiem - Erabarezaru Mono e no Chinkonka
 
+![gensoumaden-saiyuuki-movie-requiem-erabarezaru-mono-e-no-chinkonka](https://cdn.myanimelist.net/images/anime/1093/92837.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版　幻想魔伝最遊記　 Requiem 　選ばれざる者への鎮魂歌

@@ -1,5 +1,7 @@
 # Contact 2
 
+![contact-2](https://cdn.myanimelist.net/images/anime/7/65741.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Contact 2

@@ -1,5 +1,7 @@
 # Hanazakari no Niwa
 
+![hanazakari-no-niwa](https://cdn.myanimelist.net/images/manga/2/152419.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 花盛りの庭

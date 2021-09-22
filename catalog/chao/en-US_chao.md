@@ -1,5 +1,7 @@
 # Chao
 
+![chao](https://cdn.myanimelist.net/images/manga/1/113021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

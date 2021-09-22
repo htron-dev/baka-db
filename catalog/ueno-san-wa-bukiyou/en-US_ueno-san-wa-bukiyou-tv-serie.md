@@ -1,5 +1,7 @@
 # Ueno-san wa Bukiyou
 
+![ueno-san-wa-bukiyou](https://cdn.myanimelist.net/images/anime/1874/111374.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 上野さんは不器用

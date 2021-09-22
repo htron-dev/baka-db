@@ -1,5 +1,7 @@
 # Final Fantasy Reishiki Gaiden: Hyouken no Shinigami
 
+![final-fantasy-reishiki-gaiden-hyouken-no-shinigami](https://cdn.myanimelist.net/images/manga/2/108091.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

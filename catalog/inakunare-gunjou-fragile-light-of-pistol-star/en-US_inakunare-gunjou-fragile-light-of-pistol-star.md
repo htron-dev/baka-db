@@ -1,5 +1,7 @@
 # Inakunare, Gunjou: Fragile Light of Pistol Star
 
+![inakunare-gunjou-fragile-light-of-pistol-star](https://cdn.myanimelist.net/images/manga/3/218115.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

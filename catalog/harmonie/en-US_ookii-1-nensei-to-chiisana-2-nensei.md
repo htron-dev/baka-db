@@ -1,5 +1,7 @@
 # Ookii 1 Nensei to Chiisana 2 Nensei
 
+![ookii-1-nensei-to-chiisana-2-nensei](https://cdn.myanimelist.net/images/anime/1539/112845.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 大きい 1 年生と小さな 2 年生

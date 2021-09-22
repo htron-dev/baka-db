@@ -1,5 +1,7 @@
 # Yagi-san Yuubin
 
+![yagi-san-yuubin](https://cdn.myanimelist.net/images/manga/3/179021.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

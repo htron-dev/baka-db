@@ -1,5 +1,7 @@
 # Oshiete. Sensei Jijou
 
+![oshiete-sensei-jijou](https://cdn.myanimelist.net/images/manga/1/23312.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: おしえて。先生事情

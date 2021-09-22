@@ -1,5 +1,7 @@
 # Aa! Megami-sama!: Tatakau Tsubasa
 
+![aa-megami-sama-tatakau-tsubasa](https://cdn.myanimelist.net/images/anime/7/18673.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ああっ女神さまっ 闘う翼

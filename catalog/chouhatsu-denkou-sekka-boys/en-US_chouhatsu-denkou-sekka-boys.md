@@ -1,5 +1,7 @@
 # Chouhatsu Denkou Sekka BOYS
 
+![chouhatsu-denkou-sekka-boys](https://cdn.myanimelist.net/images/manga/1/5896.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

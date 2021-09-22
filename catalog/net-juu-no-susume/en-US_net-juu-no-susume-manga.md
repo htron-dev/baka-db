@@ -1,5 +1,7 @@
 # Net-juu no Susume
 
+![net-juu-no-susume](https://cdn.myanimelist.net/images/manga/2/150436.jpg)
+
 -   **type**: manga
 -   **chapters**: 87
 -   **original-name**: ネト充のススメ

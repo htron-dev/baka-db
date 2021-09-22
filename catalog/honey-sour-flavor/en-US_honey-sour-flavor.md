@@ -1,5 +1,7 @@
 # Honey Sour Flavor
 
+![honey-sour-flavor](https://cdn.myanimelist.net/images/manga/3/178379.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

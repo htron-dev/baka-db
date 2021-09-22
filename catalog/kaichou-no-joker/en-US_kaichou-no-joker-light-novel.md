@@ -1,5 +1,7 @@
 # Kaichou no Joker
 
+![kaichou-no-joker](https://cdn.myanimelist.net/images/manga/3/82378.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 39

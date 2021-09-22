@@ -1,5 +1,7 @@
 # Inazuma Eleven Go
 
+![inazuma-eleven-go](https://cdn.myanimelist.net/images/manga/3/68243.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35
@@ -11,7 +13,6 @@
 
 -   action
 -   comedy
-
 -   sports
 
 ## Authors

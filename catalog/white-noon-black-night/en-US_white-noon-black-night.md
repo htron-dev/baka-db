@@ -1,5 +1,7 @@
 # White Noon, Black Night
 
+![white-noon-black-night](https://cdn.myanimelist.net/images/manga/1/224331.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

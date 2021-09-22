@@ -1,5 +1,7 @@
 # Hanayome no Kioku to Hanamuko no Omoi
 
+![hanayome-no-kioku-to-hanamuko-no-omoi](https://cdn.myanimelist.net/images/manga/3/190105.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

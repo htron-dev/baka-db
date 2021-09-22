@@ -1,5 +1,7 @@
 # Yukemuri Sniper
 
+![yukemuri-sniper](https://cdn.myanimelist.net/images/manga/1/221617.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 173

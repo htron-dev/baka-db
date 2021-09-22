@@ -1,5 +1,7 @@
 # Biotop
 
+![biotop](https://cdn.myanimelist.net/images/manga/2/191477.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Doraemon
 
+![doraemon](https://cdn.myanimelist.net/images/anime/10/33865.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ドラえもん
@@ -14,7 +16,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   shounen
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Triage X
 
+![triage-x](https://cdn.myanimelist.net/images/anime/8/73682.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: トリアージ X

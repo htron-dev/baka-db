@@ -1,5 +1,7 @@
 # Ossan's Love
 
+![ossans-love](https://cdn.myanimelist.net/images/manga/1/238013.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

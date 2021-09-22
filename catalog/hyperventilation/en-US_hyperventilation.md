@@ -1,5 +1,7 @@
 # Hyperventilation
 
+![hyperventilation](https://cdn.myanimelist.net/images/anime/1708/107833.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 과호흡 (過呼吸)

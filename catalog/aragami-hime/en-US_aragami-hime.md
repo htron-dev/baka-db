@@ -1,5 +1,7 @@
 # Aragami Hime
 
+![aragami-hime](https://cdn.myanimelist.net/images/manga/1/5389.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 45

@@ -1,5 +1,7 @@
 # Best Ending?
 
+![best-ending](https://cdn.myanimelist.net/images/manga/1/172591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

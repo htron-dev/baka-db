@@ -1,5 +1,7 @@
 # O-ri-ga-mi
 
+![o-ri-ga-mi](https://cdn.myanimelist.net/images/manga/3/64057.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: お・り・が・み

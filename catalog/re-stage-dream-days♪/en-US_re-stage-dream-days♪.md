@@ -1,5 +1,7 @@
 # Re:Stage! Dream Days♪
 
+![re-stage-dream-days♪](https://cdn.myanimelist.net/images/anime/1002/111617.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Re:ステージ! ドリームデイズ ♪

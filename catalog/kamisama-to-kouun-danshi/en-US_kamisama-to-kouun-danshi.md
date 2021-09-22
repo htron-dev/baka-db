@@ -1,5 +1,7 @@
 # Kamisama to Kouun Danshi
 
+![kamisama-to-kouun-danshi](https://cdn.myanimelist.net/images/manga/3/43373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

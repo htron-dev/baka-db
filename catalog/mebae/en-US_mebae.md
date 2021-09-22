@@ -1,5 +1,7 @@
 # Mebae
 
+![mebae](https://cdn.myanimelist.net/images/manga/1/150170.jpg)
+
 -   **type**: manga
 -   **original-name**: メバエ
 -   **start-date**: 2014-04-30

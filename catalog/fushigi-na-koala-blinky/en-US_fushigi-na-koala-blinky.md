@@ -1,5 +1,7 @@
 # Fushigi na Koala Blinky
 
+![fushigi-na-koala-blinky](https://cdn.myanimelist.net/images/anime/2/4322.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ふしぎなコアラ ブリンキー
@@ -13,7 +15,6 @@
 
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

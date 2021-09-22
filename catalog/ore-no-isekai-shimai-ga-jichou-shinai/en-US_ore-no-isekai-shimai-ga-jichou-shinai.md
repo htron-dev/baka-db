@@ -1,5 +1,7 @@
 # Ore no Isekai Shimai ga Jichou Shinai!
 
+![ore-no-isekai-shimai-ga-jichou-shinai](https://cdn.myanimelist.net/images/manga/3/187493.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺の異世界姉妹が自重しない！
 -   **start-date**: 2016-12-28

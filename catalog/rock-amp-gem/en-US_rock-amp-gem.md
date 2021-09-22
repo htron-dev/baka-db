@@ -1,5 +1,7 @@
 # Rock &amp; Gem
 
+![rock-amp-gem](https://cdn.myanimelist.net/images/manga/1/137665.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ロック&ジェム

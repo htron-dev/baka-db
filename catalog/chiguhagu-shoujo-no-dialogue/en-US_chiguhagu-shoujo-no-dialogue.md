@@ -1,5 +1,7 @@
 # Chiguhagu Shoujo no Dialogue
 
+![chiguhagu-shoujo-no-dialogue](https://cdn.myanimelist.net/images/manga/1/164043.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Yeonae Hyeokmyeong
 
+![yeonae-hyeokmyeong](https://cdn.myanimelist.net/images/manga/2/132129.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 연애혁명
 -   **start-date**: 2013-09-04

@@ -1,5 +1,7 @@
 # Dareka wo Norowazu ni Irarenai Kono Sekai de
 
+![dareka-wo-norowazu-ni-irarenai-kono-sekai-de](https://cdn.myanimelist.net/images/manga/1/223122.jpg)
+
 -   **type**: manga
 -   **original-name**: 誰かを呪わずにいられないこの世界で
 -   **start-date**: 2019-09-05

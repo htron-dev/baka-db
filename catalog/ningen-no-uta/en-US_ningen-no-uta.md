@@ -1,5 +1,7 @@
 # Ningen no Uta
 
+![ningen-no-uta](https://cdn.myanimelist.net/images/anime/12/74554.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: にんげんの詩

@@ -1,5 +1,7 @@
 # Darenimo Ienai, Futarigoto
 
+![darenimo-ienai-futarigoto](https://cdn.myanimelist.net/images/manga/2/229255.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: 誰にも言えない、ふたりごと

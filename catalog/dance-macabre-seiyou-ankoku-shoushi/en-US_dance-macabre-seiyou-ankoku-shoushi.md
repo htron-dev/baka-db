@@ -1,5 +1,7 @@
 # Dance Macabre: Seiyou Ankoku Shoushi
 
+![dance-macabre-seiyou-ankoku-shoushi](https://cdn.myanimelist.net/images/manga/2/70559.jpg)
+
 -   **type**: manga
 -   **original-name**: ダンス・マカブル－西洋暗黒小史－
 -   **start-date**: 2010-11-22

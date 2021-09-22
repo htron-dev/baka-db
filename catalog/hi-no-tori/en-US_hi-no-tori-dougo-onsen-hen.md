@@ -1,5 +1,7 @@
 # Hi no Tori "Dougo Onsen-hen"
 
+![hi-no-tori-dougo-onsen-hen](https://cdn.myanimelist.net/images/anime/1406/100409.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 火の鳥”道後温泉編”
@@ -22,4 +24,4 @@ A collaborative anime between Hi no Tori and the Dougo Onsen hot spring bath hou
 
 -   [My Anime list](https://myanimelist.net/anime/39663/Hi_no_Tori_Dougo_Onsen-hen)
 -   [Official Site](https://dogoreborn.info/)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E7%81%AB%E3%81%AE%E9%B3%A5_(%E6%BC%AB%E7%94%BB)#%E7%81%AB%E3%81%AE%E9%B3%A5%E2%80%9C%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89%E7%B7%A8%E2%80%9D>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E7%81%AB%E3%81%AE%E9%B3%A5_%28%E6%BC%AB%E7%94%BB%29#%E7%81%AB%E3%81%AE%E9%B3%A5%E2%80%9C%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89%E7%B7%A8%E2%80%9D)

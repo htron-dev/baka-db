@@ -1,5 +1,7 @@
 # Shuuen no Elysion
 
+![shuuen-no-elysion](https://cdn.myanimelist.net/images/manga/1/166266.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

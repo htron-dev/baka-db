@@ -1,5 +1,7 @@
 # Shachi ni Narimashita Orcanative
 
+![shachi-ni-narimashita-orcanative](https://cdn.myanimelist.net/images/manga/3/183470.jpg)
+
 -   **type**: light-novel
 -   **original-name**: シャチになりましたオルカナティブ
 -   **start-date**: 2016-10-01

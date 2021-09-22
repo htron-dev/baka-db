@@ -1,5 +1,7 @@
 # Jiisama ga Iku
 
+![jiisama-ga-iku](https://cdn.myanimelist.net/images/manga/2/220790.jpg)
+
 -   **type**: manga
 -   **original-name**: じい様が行く
 -   **start-date**: 2018-04-25

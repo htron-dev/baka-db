@@ -1,5 +1,7 @@
 # Yoshimoto Muchikko Monogatari
 
+![yoshimoto-muchikko-monogatari](https://cdn.myanimelist.net/images/anime/2/35871.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: ヨシモトムチッ子物語

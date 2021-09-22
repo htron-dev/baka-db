@@ -1,5 +1,7 @@
 # Michitemo Kaketemo
 
+![michitemo-kaketemo](https://cdn.myanimelist.net/images/manga/3/244600.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

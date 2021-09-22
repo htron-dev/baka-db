@@ -1,5 +1,7 @@
 # Bishoujo ni Natta kedo, Netoge Haijin Yattemasu.
 
+![bishoujo-ni-natta-kedo-netoge-haijin-yattemasu](https://cdn.myanimelist.net/images/manga/3/237139.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 美少女になったけど、ネトゲ廃人やってます。
 -   **start-date**: 2019-05-02

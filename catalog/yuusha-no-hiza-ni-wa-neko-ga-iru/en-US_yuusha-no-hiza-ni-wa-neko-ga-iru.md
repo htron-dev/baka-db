@@ -1,5 +1,7 @@
 # Yuusha no Hiza ni wa Neko ga Iru
 
+![yuusha-no-hiza-ni-wa-neko-ga-iru](https://cdn.myanimelist.net/images/manga/1/247877.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者のひざには猫がいる
 -   **start-date**: 2021-06-26

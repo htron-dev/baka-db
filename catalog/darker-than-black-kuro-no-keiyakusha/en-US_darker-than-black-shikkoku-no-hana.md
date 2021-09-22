@@ -1,5 +1,7 @@
 # Darker than Black: Shikkoku no Hana
 
+![darker-than-black-shikkoku-no-hana](https://cdn.myanimelist.net/images/manga/1/195103.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

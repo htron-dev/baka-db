@@ -1,5 +1,7 @@
 # Sanbika
 
+![sanbika](https://cdn.myanimelist.net/images/manga/1/24650.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

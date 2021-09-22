@@ -1,5 +1,7 @@
 # Marie to Elie no Atelier: Zarlburg no Renkinjutsushi - Second Season
 
+![marie-to-elie-no-atelier-zarlburg-no-renkinjutsushi-second-season](https://cdn.myanimelist.net/images/manga/3/61281.jpg)
+
 -   **type**: manga
 -   **original-name**: マリーとエリーのアトリエ ザールブルグの錬金術土 Second Season
 -   **start-date**: 2007-07-25

@@ -1,5 +1,7 @@
 # The iDOLM@STER Break!
 
+![the-i-dolm-ster-break](https://cdn.myanimelist.net/images/manga/2/19418.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

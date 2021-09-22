@@ -1,5 +1,7 @@
 # Suki ja Nai
 
+![suki-ja-nai](https://cdn.myanimelist.net/images/manga/2/164423.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

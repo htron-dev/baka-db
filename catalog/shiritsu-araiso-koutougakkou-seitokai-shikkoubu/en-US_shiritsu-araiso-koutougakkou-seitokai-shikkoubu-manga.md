@@ -1,5 +1,7 @@
 # Shiritsu Araiso Koutougakkou Seitokai Shikkoubu
 
+![shiritsu-araiso-koutougakkou-seitokai-shikkoubu](https://cdn.myanimelist.net/images/manga/2/2383.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

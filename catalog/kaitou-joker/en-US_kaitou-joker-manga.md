@@ -1,5 +1,7 @@
 # Kaitou Joker
 
+![kaitou-joker](https://cdn.myanimelist.net/images/manga/1/128849.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **original-name**: 怪盗ジョーカー

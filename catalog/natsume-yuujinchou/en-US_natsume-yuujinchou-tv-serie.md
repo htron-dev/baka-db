@@ -1,5 +1,7 @@
 # Natsume Yuujinchou
 
+![natsume-yuujinchou](https://cdn.myanimelist.net/images/anime/1681/108439.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 夏目友人帳

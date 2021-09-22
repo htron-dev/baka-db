@@ -1,5 +1,7 @@
 # Sono Apartment, Zashiki Warashi Tsuki Bukken ni Tsuki...
 
+![sono-apartment-zashiki-warashi-tsuki-bukken-ni-tsuki](https://cdn.myanimelist.net/images/manga/2/225750.jpg)
+
 -   **type**: manga
 -   **original-name**: そのアパート、座敷童子付き物件につき・・・
 -   **start-date**: 2016-10-11

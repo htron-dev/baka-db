@@ -1,5 +1,7 @@
 # Thermae Romae: Kodai Romajin ga Uchuu e
 
+![thermae-romae-kodai-romajin-ga-uchuu-e](https://cdn.myanimelist.net/images/anime/3/38713.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: テルマエ・ロマエ　古代ローマ人が宇宙へ

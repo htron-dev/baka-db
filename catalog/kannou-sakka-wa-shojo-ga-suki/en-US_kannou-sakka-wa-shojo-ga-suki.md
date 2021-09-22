@@ -1,5 +1,7 @@
 # Kannou Sakka wa Shojo ga Suki?
 
+![kannou-sakka-wa-shojo-ga-suki](https://cdn.myanimelist.net/images/manga/1/199421.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 官能作家は処女が好き？

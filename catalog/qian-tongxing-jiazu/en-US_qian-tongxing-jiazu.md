@@ -1,5 +1,7 @@
 # Qian Tongxing Jiazu
 
+![qian-tongxing-jiazu](https://cdn.myanimelist.net/images/anime/1153/115357.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 千童星家族

@@ -1,5 +1,7 @@
 # Aru Nihon no Ekaki Shounen
 
+![aru-nihon-no-ekaki-shounen](https://cdn.myanimelist.net/images/anime/1564/114969.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ある日本の絵描き少年

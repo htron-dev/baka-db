@@ -1,5 +1,7 @@
 # Pleasure Dome
 
+![pleasure-dome](https://cdn.myanimelist.net/images/manga/2/5898.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

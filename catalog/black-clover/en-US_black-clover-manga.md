@@ -1,5 +1,7 @@
 # Black Clover
 
+![black-clover](https://cdn.myanimelist.net/images/manga/2/166254.jpg)
+
 -   **type**: manga
 -   **original-name**: ブラッククローバー
 -   **start-date**: 2015-02-16

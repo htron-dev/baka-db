@@ -1,5 +1,7 @@
 # Believe
 
+![believe](https://cdn.myanimelist.net/images/manga/2/241647.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Believe

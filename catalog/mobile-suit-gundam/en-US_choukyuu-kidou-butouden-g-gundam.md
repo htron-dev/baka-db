@@ -1,5 +1,7 @@
 # Choukyuu! Kidou Butouden G Gundam
 
+![choukyuu-kidou-butouden-g-gundam](https://cdn.myanimelist.net/images/manga/2/227503.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 67

@@ -1,5 +1,7 @@
 # Ben-To Zero: Road to Witch
 
+![ben-to-zero-road-to-witch](https://cdn.myanimelist.net/images/manga/2/173159.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

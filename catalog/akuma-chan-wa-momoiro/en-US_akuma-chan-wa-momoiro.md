@@ -1,5 +1,7 @@
 # Akuma-chan wa Momoiro
 
+![akuma-chan-wa-momoiro](https://cdn.myanimelist.net/images/manga/3/203622.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

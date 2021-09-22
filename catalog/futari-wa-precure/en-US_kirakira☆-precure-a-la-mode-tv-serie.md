@@ -1,5 +1,7 @@
 # Kirakira☆Precure A La Mode
 
+![kirakira☆-precure-a-la-mode](https://cdn.myanimelist.net/images/anime/12/88612.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: キラキラ ☆ プリキュアアラモード

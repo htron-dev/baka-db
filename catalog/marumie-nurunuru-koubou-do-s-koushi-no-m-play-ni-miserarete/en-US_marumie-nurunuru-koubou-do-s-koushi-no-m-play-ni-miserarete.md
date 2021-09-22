@@ -1,5 +1,7 @@
 # Marumie Nurunuru Koubou: Do S Koushi no M Play ni Miserarete
 
+![marumie-nurunuru-koubou-do-s-koushi-no-m-play-ni-miserarete](https://cdn.myanimelist.net/images/manga/3/193660.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

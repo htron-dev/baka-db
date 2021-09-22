@@ -1,5 +1,7 @@
 # Aria the Crepuscolo
 
+![aria-the-crepuscolo](https://cdn.myanimelist.net/images/anime/1934/111002.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ARIA The CREPUSCOLO
@@ -26,4 +28,4 @@ The season is fall and the city of Neo-Venezia is covered in fallen leaves. Some
 -   [My Anime list](https://myanimelist.net/anime/41674/Aria_the_Crepuscolo)
 -   [Official Site](https://www.ariacompany.net/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15499)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Aria_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Aria_%28manga%29#Anime)

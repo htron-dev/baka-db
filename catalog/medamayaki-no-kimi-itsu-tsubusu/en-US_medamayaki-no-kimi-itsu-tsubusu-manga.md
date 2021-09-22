@@ -1,5 +1,7 @@
 # Medamayaki no Kimi Itsu Tsubusu?
 
+![medamayaki-no-kimi-itsu-tsubusu](https://cdn.myanimelist.net/images/manga/1/137245.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 73

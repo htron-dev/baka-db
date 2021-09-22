@@ -1,5 +1,7 @@
 # Aria the Animation
 
+![aria-the-animation](https://cdn.myanimelist.net/images/anime/2/77620.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ARIA The ANIMATION

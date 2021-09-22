@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Xenosaga
 
+![super-comic-gekijou-xenosaga](https://cdn.myanimelist.net/images/manga/3/151588.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: スーパーコミック劇場 ゼノサーガ

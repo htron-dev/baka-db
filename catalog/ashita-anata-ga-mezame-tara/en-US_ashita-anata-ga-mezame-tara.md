@@ -1,5 +1,7 @@
 # Ashita, Anata ga Mezame tara
 
+![ashita-anata-ga-mezame-tara](https://cdn.myanimelist.net/images/manga/1/17199.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

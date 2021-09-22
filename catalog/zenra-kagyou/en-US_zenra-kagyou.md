@@ -1,5 +1,7 @@
 # Zenra Kagyou
 
+![zenra-kagyou](https://cdn.myanimelist.net/images/manga/2/245353.jpg)
+
 -   **type**: manga
 -   **original-name**: 全裸稼業
 -   **start-date**: 2020-05-14

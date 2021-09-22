@@ -1,5 +1,7 @@
 # Bomberman Jetters
 
+![bomberman-jetters](https://cdn.myanimelist.net/images/anime/13/54335.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ボンバーマン ジェッターズ

@@ -1,5 +1,7 @@
 # Target
 
+![target](https://cdn.myanimelist.net/images/manga/3/35361.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **start-date**: 2003-06-20
@@ -13,8 +15,6 @@
 
 -   Kobayashi
 -   Takumi (Story & Art)
-
-## Sinopse
 
 ## Links
 

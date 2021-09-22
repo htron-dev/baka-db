@@ -1,5 +1,7 @@
 # Natsu ni Sekirannun made
 
+![natsu-ni-sekirannun-made](https://cdn.myanimelist.net/images/manga/3/195260.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

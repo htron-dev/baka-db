@@ -1,5 +1,7 @@
 # Isekai Shokudou 2
 
+![isekai-shokudou-2](https://cdn.myanimelist.net/images/anime/1073/116891.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 異世界食堂 2
 -   **start-date**: 2021-10-20

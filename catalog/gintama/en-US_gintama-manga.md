@@ -1,5 +1,7 @@
 # Gintama
 
+![gintama](https://cdn.myanimelist.net/images/manga/1/143121.jpg)
+
 -   **type**: manga
 -   **volumes**: 77
 -   **chapters**: 709

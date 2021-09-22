@@ -1,5 +1,7 @@
 # Suzumin wa Nikushokukei Karyu
 
+![suzumin-wa-nikushokukei-karyu](https://cdn.myanimelist.net/images/manga/3/163872.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Sparrow's Hotel Annex
 
+![sparrows-hotel-annex](https://cdn.myanimelist.net/images/manga/3/194162.jpg)
+
 -   **type**: manga
 -   **original-name**: スパロウズホテル ANNEX
 -   **start-date**: 2013-03-29

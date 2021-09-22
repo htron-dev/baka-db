@@ -1,5 +1,7 @@
 # Dekkai Chanto Atsumare
 
+![dekkai-chanto-atsumare](https://cdn.myanimelist.net/images/manga/3/13674.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

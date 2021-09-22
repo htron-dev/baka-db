@@ -1,5 +1,7 @@
 # Kenpuu Denki Berserk
 
+![kenpuu-denki-berserk](https://cdn.myanimelist.net/images/anime/12/18520.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 剣風伝奇ベルセルク

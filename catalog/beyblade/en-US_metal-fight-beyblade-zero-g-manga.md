@@ -1,5 +1,7 @@
 # Metal Fight: Beyblade - Zero G
 
+![metal-fight-beyblade-zero-g](https://cdn.myanimelist.net/images/manga/3/230844.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9
@@ -10,7 +12,6 @@
 ## Tags
 
 -   adventure
-
 -   sports
 
 ## Authors

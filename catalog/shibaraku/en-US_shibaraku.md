@@ -1,5 +1,7 @@
 # Shibaraku
 
+![shibaraku](https://cdn.myanimelist.net/images/manga/3/81610.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: シバラク

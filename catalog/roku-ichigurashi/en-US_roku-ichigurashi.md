@@ -1,5 +1,7 @@
 # Roku+Ichigurashi
 
+![roku-ichigurashi](https://cdn.myanimelist.net/images/manga/2/203460.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Isekai Furin: Maou Toubatsu kara 10-nen, Tsuma to wa Less no Motoyuusha to, Otto wo Nakushita Onna Senshi
 
+![isekai-furin-maou-toubatsu-kara-10-nen-tsuma-to-wa-less-no-motoyuusha-to-otto-wo-nakushita-onna-senshi](https://cdn.myanimelist.net/images/manga/1/242380.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界不倫～魔王討伐から十年、妻とはレスの元勇者と、夫を亡くした女戦士～
 -   **start-date**: 2020-12-17

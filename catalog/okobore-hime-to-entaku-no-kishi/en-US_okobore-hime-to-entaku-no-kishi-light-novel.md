@@ -1,5 +1,7 @@
 # Okobore Hime to Entaku no Kishi
 
+![okobore-hime-to-entaku-no-kishi](https://cdn.myanimelist.net/images/manga/1/123695.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 18
 -   **chapters**: 103

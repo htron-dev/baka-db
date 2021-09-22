@@ -1,5 +1,7 @@
 # Shinwa Keisatsu 24-ji
 
+![shinwa-keisatsu-24-ji](https://cdn.myanimelist.net/images/manga/2/216057.jpg)
+
 -   **type**: manga
 -   **original-name**: 神話警察 24 時
 -   **start-date**: 2018-10-05

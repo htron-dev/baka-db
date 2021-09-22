@@ -1,5 +1,7 @@
 # Visions of Frank: Short Films by Japan's Most Audacious Animators
 
+![visions-of-frank-short-films-by-japans-most-audacious-animators](https://cdn.myanimelist.net/images/anime/4/24754.jpg)
+
 -   **type**: ova
 -   **episodes**: 9
 -   **original-name**: Visions of Frank: Short Films by Japan's Most Audacious Animators

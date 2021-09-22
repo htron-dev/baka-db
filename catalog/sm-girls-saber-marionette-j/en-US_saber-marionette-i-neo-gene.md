@@ -1,5 +1,7 @@
 # Saber Marionette i: Neo Gene
 
+![saber-marionette-i-neo-gene](https://cdn.myanimelist.net/images/manga/2/132969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Nurse Witch Komugi-chan Magikarte
 
+![nurse-witch-komugi-chan-magikarte](https://cdn.myanimelist.net/images/anime/5/77618.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: ナースウィッチ小麦ちゃんマジカルて

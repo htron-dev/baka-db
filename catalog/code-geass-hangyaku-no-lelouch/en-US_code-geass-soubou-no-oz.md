@@ -1,5 +1,7 @@
 # Code Geass: Soubou no Oz
 
+![code-geass-soubou-no-oz](https://cdn.myanimelist.net/images/manga/2/130989.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

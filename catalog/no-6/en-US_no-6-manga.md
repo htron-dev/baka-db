@@ -1,5 +1,7 @@
 # No.6
 
+![no-6](https://cdn.myanimelist.net/images/manga/2/184479.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 35

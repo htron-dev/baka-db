@@ -1,5 +1,7 @@
 # Yoiko
 
+![yoiko](https://cdn.myanimelist.net/images/anime/11/47727.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: よいこ
@@ -25,4 +27,4 @@ Her name is Esumi Fuuka. Standing tall at 163 cm with a slender bodyline, she mu
 -   [Official Site](http://pierrot.jp/archives/tv_list_1995/tv_041.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3954)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2949)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Yoiko_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Yoiko_%28manga%29)

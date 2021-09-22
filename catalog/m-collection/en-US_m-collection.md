@@ -1,5 +1,7 @@
 # M Collection
 
+![m-collection](https://cdn.myanimelist.net/images/manga/1/16713.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

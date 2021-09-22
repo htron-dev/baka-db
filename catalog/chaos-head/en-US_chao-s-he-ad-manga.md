@@ -1,5 +1,7 @@
 # ChäoS;HEAd
 
+![chao-s-he-ad](https://cdn.myanimelist.net/images/manga/1/166811.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

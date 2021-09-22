@@ -1,5 +1,7 @@
 # Dr. Rurru
 
+![dr-rurru](https://cdn.myanimelist.net/images/manga/3/54135.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Glass no Kamen: Sen no Kamen wo Motsu Shoujo
 
+![glass-no-kamen-sen-no-kamen-wo-motsu-shoujo](https://cdn.myanimelist.net/images/anime/1788/97618.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ガラスの仮面～千の仮面を持つ少女～

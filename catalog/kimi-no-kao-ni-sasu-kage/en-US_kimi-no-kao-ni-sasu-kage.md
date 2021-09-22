@@ -1,5 +1,7 @@
 # Kimi no Kao ni Sasu Kage
 
+![kimi-no-kao-ni-sasu-kage](https://cdn.myanimelist.net/images/manga/2/160580.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

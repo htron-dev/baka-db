@@ -1,5 +1,7 @@
 # Eunhajeonseol Tera
 
+![eunhajeonseol-tera](https://cdn.myanimelist.net/images/anime/4/49073.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 은하전설 테라

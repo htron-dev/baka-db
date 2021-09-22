@@ -1,5 +1,7 @@
 # Joou Heika no Petite Angie
 
+![joou-heika-no-petite-angie](https://cdn.myanimelist.net/images/anime/2/5634.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 女王陛下のプティアンジェ

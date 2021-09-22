@@ -1,5 +1,7 @@
 # Senjou no Valkyria 3: Na mo Naki Chikai no Hana
 
+![senjou-no-valkyria-3-na-mo-naki-chikai-no-hana](https://cdn.myanimelist.net/images/manga/3/184041.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # The Antique Gift Shop
 
+![the-antique-gift-shop](https://cdn.myanimelist.net/images/manga/2/4732.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **chapters**: 16

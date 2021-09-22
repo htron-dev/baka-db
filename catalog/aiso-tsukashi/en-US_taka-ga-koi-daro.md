@@ -1,5 +1,7 @@
 # Taka ga Koi Daro
 
+![taka-ga-koi-daro](https://cdn.myanimelist.net/images/manga/1/23444.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

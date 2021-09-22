@@ -1,5 +1,7 @@
 # Kaitou Jigoma Ongaku-hen
 
+![kaitou-jigoma-ongaku-hen](https://cdn.myanimelist.net/images/anime/5/51101.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 怪盗ジゴマ 音楽篇

@@ -1,5 +1,7 @@
 # Genki Genki Non-tan (2006)
 
+![genki-genki-non-tan-2006](https://cdn.myanimelist.net/images/anime/6/65137.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: げんき げんき ノンタン

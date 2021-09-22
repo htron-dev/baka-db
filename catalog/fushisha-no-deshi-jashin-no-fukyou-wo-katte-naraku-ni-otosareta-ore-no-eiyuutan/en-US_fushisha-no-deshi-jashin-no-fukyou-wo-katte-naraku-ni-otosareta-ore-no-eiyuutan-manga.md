@@ -1,5 +1,7 @@
 # Fushisha no Deshi: Jashin no Fukyou wo Katte Naraku ni Otosareta Ore no Eiyuutan
 
+![fushisha-no-deshi-jashin-no-fukyou-wo-katte-naraku-ni-otosareta-ore-no-eiyuutan](https://cdn.myanimelist.net/images/manga/3/241606.jpg)
+
 -   **type**: manga
 -   **original-name**: 不死者の弟子 ～邪神の不興を買って奈落に落とされた俺の英雄譚～
 -   **start-date**: 2020-08-21

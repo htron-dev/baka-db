@@ -1,5 +1,7 @@
 # Momoiro Sausage
 
+![momoiro-sausage](https://cdn.myanimelist.net/images/manga/2/2703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

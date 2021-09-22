@@ -1,5 +1,7 @@
 # Sanpou Shoujo
 
+![sanpou-shoujo](https://cdn.myanimelist.net/images/anime/1390/92902.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 算法少女
@@ -21,4 +23,4 @@ It follows a 13 year old girl named Aki. During a pilgrimage to Sensou-ji (a Bud
 -   [My Anime list](https://myanimelist.net/anime/37878/Sanpou_Shoujo)
 -   [Official Site](http://redqueen.oops.jp/project.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13202)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E7%AE%97%E6%B3%95%E5%B0%91%E5%A5%B3_(%E5%B0%8F%E8%AA%AC)#%E3%82%A2%E3%83%8B%E3%83%A1>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E7%AE%97%E6%B3%95%E5%B0%91%E5%A5%B3_%28%E5%B0%8F%E8%AA%AC%29#%E3%82%A2%E3%83%8B%E3%83%A1)

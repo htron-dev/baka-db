@@ -1,5 +1,7 @@
 # Sekai de Ichiban Dai Kirai
 
+![sekai-de-ichiban-dai-kirai](https://cdn.myanimelist.net/images/manga/3/5257.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 78

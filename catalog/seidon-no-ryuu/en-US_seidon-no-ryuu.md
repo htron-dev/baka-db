@@ -1,5 +1,7 @@
 # Seidon no Ryuu
 
+![seidon-no-ryuu](https://cdn.myanimelist.net/images/manga/3/234398.jpg)
+
 -   **type**: manga
 -   **original-name**: 世呑の竜
 -   **start-date**: 2020-07-09

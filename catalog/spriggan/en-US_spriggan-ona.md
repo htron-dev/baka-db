@@ -1,5 +1,7 @@
 # Spriggan (ONA)
 
+![spriggan-ona](https://cdn.myanimelist.net/images/anime/1114/116908.jpg)
+
 -   **type**: ona
 -   **original-name**: スプリガン
 -   **start-date**: 2022-01-20
@@ -25,4 +27,4 @@ Deep in the Ararat Mountains of Turkey, a secret organization known as ARCAM has
 -   [Official Site](https://spriggan-anime.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14734)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24363)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Spriggan_(manga)#Anime_series>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Spriggan_%28manga%29#Anime_series)

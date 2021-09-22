@@ -1,5 +1,7 @@
 # Sorekara, Kimi wo Kangaeru
 
+![sorekara-kimi-wo-kangaeru](https://cdn.myanimelist.net/images/manga/2/160518.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

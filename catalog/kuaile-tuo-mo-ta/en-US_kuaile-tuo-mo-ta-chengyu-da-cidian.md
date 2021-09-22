@@ -1,5 +1,7 @@
 # Kuaile Tuo Mo Ta: Chengyu Da Cidian
 
+![kuaile-tuo-mo-ta-chengyu-da-cidian](https://cdn.myanimelist.net/images/anime/1413/115229.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 快乐椭魔塔之成语大词典

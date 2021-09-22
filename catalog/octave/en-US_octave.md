@@ -1,5 +1,7 @@
 # Octave
 
+![octave](https://cdn.myanimelist.net/images/manga/2/192724.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

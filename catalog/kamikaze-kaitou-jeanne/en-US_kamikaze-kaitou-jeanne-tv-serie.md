@@ -1,5 +1,7 @@
 # Kamikaze Kaitou Jeanne
 
+![kamikaze-kaitou-jeanne](https://cdn.myanimelist.net/images/anime/5/20389.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 44
 -   **original-name**: 神風怪盗ジャンヌ

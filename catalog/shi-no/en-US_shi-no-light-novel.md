@@ -1,5 +1,7 @@
 # SHI-NO
 
+![shi-no](https://cdn.myanimelist.net/images/manga/3/136843.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 28

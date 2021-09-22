@@ -1,5 +1,7 @@
 # King of Prism: Shiny Seven Stars I - Prologue x Yukinojou x Taiga
 
+![king-of-prism-shiny-seven-stars-i-prologue-x-yukinojou-x-taiga](https://cdn.myanimelist.net/images/anime/1726/96341.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: KING OF PRISM -Shiny Seven Stars- I プロローグ x ユキノジョウ × タイガ

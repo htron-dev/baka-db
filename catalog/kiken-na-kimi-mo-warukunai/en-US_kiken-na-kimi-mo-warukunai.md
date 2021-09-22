@@ -1,5 +1,7 @@
 # Kiken na Kimi mo Warukunai
 
+![kiken-na-kimi-mo-warukunai](https://cdn.myanimelist.net/images/manga/2/153394.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 危険なキミも悪くない

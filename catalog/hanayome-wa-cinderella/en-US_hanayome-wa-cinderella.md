@@ -1,5 +1,7 @@
 # Hanayome wa Cinderella
 
+![hanayome-wa-cinderella](https://cdn.myanimelist.net/images/manga/1/152809.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

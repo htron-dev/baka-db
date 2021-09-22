@@ -1,5 +1,7 @@
 # Majutsushi Orphen Hagure Tabi: Kimluck-hen
 
+![majutsushi-orphen-hagure-tabi-kimluck-hen](https://cdn.myanimelist.net/images/anime/1579/113945.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 魔術士オーフェンはぐれ旅 キムラック編

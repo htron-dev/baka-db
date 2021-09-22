@@ -1,5 +1,7 @@
 # Natural Born Idiots
 
+![natural-born-idiots](https://cdn.myanimelist.net/images/manga/2/183841.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 74

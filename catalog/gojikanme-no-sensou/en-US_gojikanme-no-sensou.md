@@ -1,5 +1,7 @@
 # Gojikanme no Sensou
 
+![gojikanme-no-sensou](https://cdn.myanimelist.net/images/manga/1/188788.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Marmalade Boy Movie
 
+![marmalade-boy-movie](https://cdn.myanimelist.net/images/anime/9/4286.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ママレード・ボーイ (1995)

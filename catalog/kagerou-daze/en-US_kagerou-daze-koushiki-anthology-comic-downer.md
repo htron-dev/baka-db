@@ -1,5 +1,7 @@
 # Kagerou Daze Koushiki Anthology Comic: Downer
 
+![kagerou-daze-koushiki-anthology-comic-downer](https://cdn.myanimelist.net/images/manga/2/140065.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

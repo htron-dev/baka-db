@@ -1,5 +1,7 @@
 # Sore ni Namae wo Tsukeru Nara
 
+![sore-ni-namae-wo-tsukeru-nara](https://cdn.myanimelist.net/images/manga/3/225694.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

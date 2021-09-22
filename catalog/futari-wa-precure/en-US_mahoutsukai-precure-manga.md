@@ -1,5 +1,7 @@
 # Mahoutsukai Precure!
 
+![mahoutsukai-precure](https://cdn.myanimelist.net/images/manga/1/195307.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

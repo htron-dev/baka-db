@@ -1,5 +1,7 @@
 # Frypan Jiisan
 
+![frypan-jiisan](https://cdn.myanimelist.net/images/anime/5/72052.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ふらいぱんじいさん

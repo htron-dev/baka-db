@@ -1,5 +1,7 @@
 # Scandalous Honey
 
+![scandalous-honey](https://cdn.myanimelist.net/images/manga/3/161779.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

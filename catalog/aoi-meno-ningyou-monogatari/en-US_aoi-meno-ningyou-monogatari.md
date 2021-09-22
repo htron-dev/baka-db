@@ -1,5 +1,7 @@
 # Aoi Meno Ningyou Monogatari
 
+![aoi-meno-ningyou-monogatari](https://cdn.myanimelist.net/images/anime/11/84559.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 青い目の人形物語

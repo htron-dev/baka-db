@@ -1,5 +1,7 @@
 # Mata, Koko kara!!
 
+![mata-koko-kara](https://cdn.myanimelist.net/images/manga/2/135635.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

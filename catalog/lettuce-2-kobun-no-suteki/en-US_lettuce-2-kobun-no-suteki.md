@@ -1,5 +1,7 @@
 # Lettuce 2-kobun no Suteki
 
+![lettuce-2-kobun-no-suteki](https://cdn.myanimelist.net/images/manga/1/158984.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Usotsuki Kitsune no Koi Hanashi
 
+![usotsuki-kitsune-no-koi-hanashi](https://cdn.myanimelist.net/images/manga/2/248185.jpg)
+
 -   **type**: manga
 -   **original-name**: うそつきキツネの恋噺
 -   **start-date**: 2020-10-22

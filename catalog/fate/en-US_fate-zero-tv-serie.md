@@ -1,5 +1,7 @@
 # Fate/Zero
 
+![fate-zero](https://cdn.myanimelist.net/images/anime/2/73249.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: フェイト/ゼロ

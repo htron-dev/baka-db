@@ -1,5 +1,7 @@
 # Shinmai Maou no Testament: Sweet!
 
+![shinmai-maou-no-testament-sweet](https://cdn.myanimelist.net/images/manga/3/179908.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

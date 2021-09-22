@@ -1,5 +1,7 @@
 # AM 8:00 Kimi ga Suki.
 
+![am-8-00-kimi-ga-suki](https://cdn.myanimelist.net/images/manga/3/29772.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

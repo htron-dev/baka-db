@@ -1,5 +1,7 @@
 # Doraemon Movie 16: Nobita no Sousei Nikki
 
+![doraemon-movie-16-nobita-no-sousei-nikki](https://cdn.myanimelist.net/images/anime/8/72421.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の創世日記
@@ -13,7 +15,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   sci-fi
 -   shounen
 

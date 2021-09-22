@@ -1,5 +1,7 @@
 # Uzumaki
 
+![uzumaki](https://cdn.myanimelist.net/images/anime/1432/105265.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: うずまき

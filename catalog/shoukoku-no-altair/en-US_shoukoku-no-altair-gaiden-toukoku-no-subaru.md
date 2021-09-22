@@ -1,5 +1,7 @@
 # Shoukoku no Altair Gaiden: Toukoku no Subaru
 
+![shoukoku-no-altair-gaiden-toukoku-no-subaru](https://cdn.myanimelist.net/images/manga/3/189775.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 34

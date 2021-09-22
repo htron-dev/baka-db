@@ -1,5 +1,7 @@
 # Sadako-san to Sadako-chan
 
+![sadako-san-to-sadako-chan](https://cdn.myanimelist.net/images/manga/1/228348.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

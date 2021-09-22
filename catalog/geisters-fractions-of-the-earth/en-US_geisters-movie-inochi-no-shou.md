@@ -1,5 +1,7 @@
 # Geisters Movie: Inochi no Shou
 
+![geisters-movie-inochi-no-shou](https://cdn.myanimelist.net/images/anime/9/85625.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ガイスターズ 命の章

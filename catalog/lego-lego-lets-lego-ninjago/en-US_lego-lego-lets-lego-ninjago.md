@@ -1,5 +1,7 @@
 # Lego Lego Let's: Lego Ninjago!!
 
+![lego-lego-lets-lego-ninjago](https://cdn.myanimelist.net/images/manga/2/242252.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: レゴレゴレッツ レゴ ニンジャゴー!!

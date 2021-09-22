@@ -1,5 +1,7 @@
 # Yoshinaga-san'chi no Gargoyle Specials
 
+![yoshinaga-sanchi-no-gargoyle-specials](https://cdn.myanimelist.net/images/anime/8/2913.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: 吉永さん家のガーゴイル

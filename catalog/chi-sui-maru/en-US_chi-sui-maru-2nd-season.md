@@ -1,5 +1,7 @@
 # Chi-Sui Maru 2nd Season
 
+![chi-sui-maru-2nd-season](https://cdn.myanimelist.net/images/anime/13/32755.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 34
 -   **original-name**: ちーすい丸

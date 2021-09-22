@@ -1,5 +1,7 @@
 # Rockman.EXE
 
+![rockman-exe](https://cdn.myanimelist.net/images/anime/2/26575.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 56
 -   **original-name**: ロックマン エグゼ

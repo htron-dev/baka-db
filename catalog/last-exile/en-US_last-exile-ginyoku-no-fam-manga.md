@@ -1,5 +1,7 @@
 # Last Exile: Ginyoku no Fam
 
+![last-exile-ginyoku-no-fam](https://cdn.myanimelist.net/images/manga/1/86893.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

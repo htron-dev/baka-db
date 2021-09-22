@@ -1,5 +1,7 @@
 # Kappa no Coo to Natsuyasumi
 
+![kappa-no-coo-to-natsuyasumi](https://cdn.myanimelist.net/images/anime/10/4001.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 河童のクゥと夏休み

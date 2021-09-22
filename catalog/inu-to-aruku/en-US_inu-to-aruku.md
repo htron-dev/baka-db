@@ -1,5 +1,7 @@
 # Inu to Aruku
 
+![inu-to-aruku](https://cdn.myanimelist.net/images/manga/1/53319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

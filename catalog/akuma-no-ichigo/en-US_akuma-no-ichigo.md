@@ -1,5 +1,7 @@
 # Akuma no Ichigo
 
+![akuma-no-ichigo](https://cdn.myanimelist.net/images/manga/2/92533.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

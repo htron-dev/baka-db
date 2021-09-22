@@ -1,5 +1,7 @@
 # Eko Eko Azarak
 
+![eko-eko-azarak](https://cdn.myanimelist.net/images/manga/2/174811.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 186

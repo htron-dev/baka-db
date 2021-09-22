@@ -1,5 +1,7 @@
 # Soko wo Nantoka
 
+![soko-wo-nantoka](https://cdn.myanimelist.net/images/manga/2/191798.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 64

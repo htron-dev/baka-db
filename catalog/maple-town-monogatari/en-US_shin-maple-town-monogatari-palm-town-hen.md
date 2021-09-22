@@ -1,5 +1,7 @@
 # Shin Maple Town Monogatari: Palm Town-hen
 
+![shin-maple-town-monogatari-palm-town-hen](https://cdn.myanimelist.net/images/anime/11/56391.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 44
 -   **original-name**: 新メイプルタウン物語 パームタウン編

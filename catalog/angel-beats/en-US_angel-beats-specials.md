@@ -1,5 +1,7 @@
 # Angel Beats! Specials
 
+![angel-beats-specials](https://cdn.myanimelist.net/images/anime/4/25073.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: エンジェルビーツ

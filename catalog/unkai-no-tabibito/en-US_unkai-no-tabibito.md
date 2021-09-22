@@ -1,5 +1,7 @@
 # Unkai no Tabibito
 
+![unkai-no-tabibito](https://cdn.myanimelist.net/images/manga/2/136343.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

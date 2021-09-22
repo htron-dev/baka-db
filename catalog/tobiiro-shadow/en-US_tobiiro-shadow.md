@@ -1,5 +1,7 @@
 # Tobiiro Shadow
 
+![tobiiro-shadow](https://cdn.myanimelist.net/images/manga/1/24840.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 鳶色シャドウ

@@ -1,5 +1,7 @@
 # Ayakashi Danshi - Mysterious Fantasy Anthology
 
+![ayakashi-danshi-mysterious-fantasy-anthology](https://cdn.myanimelist.net/images/manga/2/28899.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

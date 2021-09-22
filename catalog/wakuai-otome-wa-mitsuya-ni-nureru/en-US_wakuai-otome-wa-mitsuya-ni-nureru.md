@@ -1,5 +1,7 @@
 # Wakuai: Otome wa Mitsuya ni Nureru
 
+![wakuai-otome-wa-mitsuya-ni-nureru](https://cdn.myanimelist.net/images/manga/2/181449.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

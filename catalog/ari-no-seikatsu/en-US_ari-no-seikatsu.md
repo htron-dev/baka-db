@@ -1,5 +1,7 @@
 # Ari no Seikatsu
 
+![ari-no-seikatsu](https://cdn.myanimelist.net/images/anime/13/18361.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蟻の生活

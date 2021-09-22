@@ -1,5 +1,7 @@
 # Nu Wushen de Canzhuo II
 
+![nu-wushen-de-canzhuo-ii](https://cdn.myanimelist.net/images/anime/1806/108206.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: 女武神的餐桌 II

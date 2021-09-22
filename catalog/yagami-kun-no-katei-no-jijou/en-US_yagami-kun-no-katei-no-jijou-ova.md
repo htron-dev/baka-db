@@ -1,5 +1,7 @@
 # Yagami-kun no Katei no Jijou
 
+![yagami-kun-no-katei-no-jijou](https://cdn.myanimelist.net/images/anime/11/8713.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 八神くんの家庭の事情

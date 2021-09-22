@@ -1,5 +1,7 @@
 # Sasen mo Warukunai
 
+![sasen-mo-warukunai](https://cdn.myanimelist.net/images/manga/2/179350.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 左遷も悪くない

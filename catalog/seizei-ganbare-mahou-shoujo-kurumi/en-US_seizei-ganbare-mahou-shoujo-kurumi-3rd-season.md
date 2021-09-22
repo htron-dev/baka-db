@@ -1,5 +1,7 @@
 # Seizei Ganbare! Mahou Shoujo Kurumi 3rd Season
 
+![seizei-ganbare-mahou-shoujo-kurumi-3rd-season](https://cdn.myanimelist.net/images/anime/1097/108552.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: せいぜいがんばれ！魔法少女くるみ
 -   **start-date**: 2020-10-07

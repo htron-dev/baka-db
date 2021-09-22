@@ -1,5 +1,7 @@
 # Golden Time Gaiden: Nijigen-kun Special
 
+![golden-time-gaiden-nijigen-kun-special](https://cdn.myanimelist.net/images/manga/1/106207.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

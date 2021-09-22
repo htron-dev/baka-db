@@ -1,5 +1,7 @@
 # Diabolik Lovers Recap
 
+![diabolik-lovers-recap](https://cdn.myanimelist.net/images/anime/9/55639.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: DIABOLIK LOVERS 総集編【Episode6.5】

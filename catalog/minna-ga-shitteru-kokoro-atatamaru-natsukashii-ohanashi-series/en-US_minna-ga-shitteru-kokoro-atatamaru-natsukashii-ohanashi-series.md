@@ -1,5 +1,7 @@
 # Minna ga Shitteru: Kokoro Atatamaru Natsukashii Ohanashi Series
 
+![minna-ga-shitteru-kokoro-atatamaru-natsukashii-ohanashi-series](https://cdn.myanimelist.net/images/anime/7/84580.jpg)
+
 -   **type**: ova
 -   **episodes**: 20
 -   **original-name**: みんなが知ってる 心あたたまるなつかしいお話しシリーズ
@@ -10,7 +12,6 @@
 -   adventure
 -   fantasy
 -   historical
-
 -   magic
 -   romance
 -   supernatural

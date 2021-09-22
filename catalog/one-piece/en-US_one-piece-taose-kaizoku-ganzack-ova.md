@@ -1,5 +1,7 @@
 # One Piece: Taose! Kaizoku Ganzack
 
+![one-piece-taose-kaizoku-ganzack](https://cdn.myanimelist.net/images/anime/1848/96972.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ワンピース 倒せ！海賊ギャンザック

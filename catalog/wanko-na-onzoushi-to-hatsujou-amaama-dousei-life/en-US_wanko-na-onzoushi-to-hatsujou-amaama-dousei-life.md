@@ -1,5 +1,7 @@
 # Wanko na Onzoushi to Hatsujou: Amaama Dousei Life
 
+![wanko-na-onzoushi-to-hatsujou-amaama-dousei-life](https://cdn.myanimelist.net/images/manga/2/184615.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ワンコな御曹司と発情 甘々同棲ライフ

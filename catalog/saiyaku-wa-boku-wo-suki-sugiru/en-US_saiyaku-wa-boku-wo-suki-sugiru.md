@@ -1,5 +1,7 @@
 # Saiyaku wa Boku wo Suki Sugiru
 
+![saiyaku-wa-boku-wo-suki-sugiru](https://cdn.myanimelist.net/images/manga/2/163674.jpg)
+
 -   **type**: manga
 -   **original-name**: 災厄は僕を好きすぎる
 -   **start-date**: 2009-11-22

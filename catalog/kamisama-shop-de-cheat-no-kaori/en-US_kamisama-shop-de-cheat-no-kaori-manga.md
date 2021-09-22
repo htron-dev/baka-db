@@ -1,5 +1,7 @@
 # Kamisama Shop de Cheat no Kaori
 
+![kamisama-shop-de-cheat-no-kaori](https://cdn.myanimelist.net/images/manga/2/216089.jpg)
+
 -   **type**: manga
 -   **original-name**: 神さま SHOP でチートの香り
 -   **start-date**: 2018-03-23

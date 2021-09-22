@@ -1,5 +1,7 @@
 # Kiniro no Corda: Secondo Passo
 
+![kiniro-no-corda-secondo-passo](https://cdn.myanimelist.net/images/anime/8/13179.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 金色のコルダ セコンド・パッソ

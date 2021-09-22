@@ -1,5 +1,7 @@
 # Attack No.1: Namida no Kaiten Receive
 
+![attack-no-1-namida-no-kaiten-receive](https://cdn.myanimelist.net/images/anime/5/25378.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アタック No.1 涙の回転レシーブ

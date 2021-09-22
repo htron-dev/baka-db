@@ -1,5 +1,7 @@
 # Rusuden Hour: Sodan Brothers
 
+![rusuden-hour-sodan-brothers](https://cdn.myanimelist.net/images/anime/12/72155.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 留守電アワー SODAN ブラザーズ

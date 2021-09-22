@@ -1,5 +1,7 @@
 # Chocolate Underground
 
+![chocolate-underground](https://cdn.myanimelist.net/images/anime/8/12400.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: チョコレート・アンダーグラウンド

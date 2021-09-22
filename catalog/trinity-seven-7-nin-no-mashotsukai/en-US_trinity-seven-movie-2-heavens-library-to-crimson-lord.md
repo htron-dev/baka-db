@@ -1,5 +1,7 @@
 # Trinity Seven Movie 2: Heavens Library to Crimson Lord
 
+![trinity-seven-movie-2-heavens-library-to-crimson-lord](https://cdn.myanimelist.net/images/anime/1215/100764.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 トリニティセブン -天空図書館〈ヘブンズライブラリー〉と真紅の魔王〈クリムゾンロード〉

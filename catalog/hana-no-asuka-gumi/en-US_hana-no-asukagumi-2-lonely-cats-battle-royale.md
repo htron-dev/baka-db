@@ -1,5 +1,7 @@
 # Hana no Asukagumi! 2: Lonely Cats Battle Royale
 
+![hana-no-asukagumi-2-lonely-cats-battle-royale](https://cdn.myanimelist.net/images/anime/2/45979.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 花のあすか組! 2 ロンリーキャッツ・バトルロイヤル

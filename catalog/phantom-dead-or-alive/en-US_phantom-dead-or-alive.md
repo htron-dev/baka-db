@@ -1,5 +1,7 @@
 # Phantom Dead or Alive
 
+![phantom-dead-or-alive](https://cdn.myanimelist.net/images/manga/3/185864.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: ファントム デッド オア アライブ

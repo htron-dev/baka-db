@@ -1,5 +1,7 @@
 # Gun x Sword
 
+![gun-x-sword](https://cdn.myanimelist.net/images/anime/3/25380.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ガン × ソード

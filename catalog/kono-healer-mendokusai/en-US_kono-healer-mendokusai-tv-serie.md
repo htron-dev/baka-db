@@ -1,5 +1,7 @@
 # Kono Healer, Mendokusai
 
+![kono-healer-mendokusai](https://cdn.myanimelist.net/images/anime/1274/114386.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: このヒーラー、めんどくさい
 -   **rating**: None

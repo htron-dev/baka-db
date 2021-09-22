@@ -1,5 +1,7 @@
 # Zettai ni Derete wa Ikenai Tsundere
 
+![zettai-ni-derete-wa-ikenai-tsundere](https://cdn.myanimelist.net/images/manga/3/248134.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

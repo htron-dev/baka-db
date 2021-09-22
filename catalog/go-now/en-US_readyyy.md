@@ -1,5 +1,7 @@
 # Readyyy!
 
+![readyyy](https://cdn.myanimelist.net/images/anime/1130/95404.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Readyyy!

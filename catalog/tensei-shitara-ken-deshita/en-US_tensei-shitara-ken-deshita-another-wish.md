@@ -1,5 +1,7 @@
 # Tensei shitara Ken deshita: Another Wish
 
+![tensei-shitara-ken-deshita-another-wish](https://cdn.myanimelist.net/images/manga/3/239533.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生したら剣でした Another Wish
 -   **start-date**: 2020-06-01

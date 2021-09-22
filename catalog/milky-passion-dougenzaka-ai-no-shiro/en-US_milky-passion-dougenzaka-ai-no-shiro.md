@@ -1,5 +1,7 @@
 # Milky Passion: Dougenzaka - Ai no Shiro
 
+![milky-passion-dougenzaka-ai-no-shiro](https://cdn.myanimelist.net/images/anime/1496/111262.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ミルキィパッション 道玄坂 愛の城

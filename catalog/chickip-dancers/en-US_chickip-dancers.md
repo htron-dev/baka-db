@@ -1,5 +1,7 @@
 # Chickip Dancers
 
+![chickip-dancers](https://cdn.myanimelist.net/images/anime/1546/117554.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: チキップダンサーズ
 -   **start-date**: 2021-10-20

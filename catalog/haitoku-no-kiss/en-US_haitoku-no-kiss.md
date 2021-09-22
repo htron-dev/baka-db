@@ -1,5 +1,7 @@
 # Haitoku no Kiss
 
+![haitoku-no-kiss](https://cdn.myanimelist.net/images/manga/1/126647.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 背徳のキス

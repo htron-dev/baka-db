@@ -1,5 +1,7 @@
 # Yuuryou Shoujo Family Yan
 
+![yuuryou-shoujo-family-yan](https://cdn.myanimelist.net/images/manga/3/222961.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 44

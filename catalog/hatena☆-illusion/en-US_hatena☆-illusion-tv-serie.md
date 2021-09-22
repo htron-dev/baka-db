@@ -1,5 +1,7 @@
 # Hatena☆Illusion
 
+![hatena☆-illusion](https://cdn.myanimelist.net/images/anime/1299/106117.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: はてな ☆ イリュージョン

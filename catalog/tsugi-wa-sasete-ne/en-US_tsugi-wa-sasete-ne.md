@@ -1,5 +1,7 @@
 # Tsugi wa Sasete ne
 
+![tsugi-wa-sasete-ne](https://cdn.myanimelist.net/images/manga/1/190711.jpg)
+
 -   **type**: manga
 -   **original-name**: 次はさせてね
 -   **start-date**: 2016-06-22

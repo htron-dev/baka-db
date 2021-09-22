@@ -1,5 +1,7 @@
 # Yowamushi Pedal: Grande Road
 
+![yowamushi-pedal-grande-road](https://cdn.myanimelist.net/images/anime/12/67799.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 弱虫ペダル GRANDE ROAD

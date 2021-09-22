@@ -1,5 +1,7 @@
 # Hana to Ookami
 
+![hana-to-ookami](https://cdn.myanimelist.net/images/manga/2/60119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Yuuwakusha: Kedamono Triangle
 
+![yuuwakusha-kedamono-triangle](https://cdn.myanimelist.net/images/manga/3/30710.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 誘・惑・者～ケダモノトライアングル～

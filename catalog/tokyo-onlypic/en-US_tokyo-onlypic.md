@@ -1,5 +1,7 @@
 # Tokyo Onlypic
 
+![tokyo-onlypic](https://cdn.myanimelist.net/images/anime/9/80665.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 東京オンリーピック

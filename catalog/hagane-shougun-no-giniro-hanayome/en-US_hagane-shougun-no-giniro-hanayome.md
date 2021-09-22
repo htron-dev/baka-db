@@ -1,5 +1,7 @@
 # Hagane Shougun no Giniro Hanayome
 
+![hagane-shougun-no-giniro-hanayome](https://cdn.myanimelist.net/images/manga/3/248025.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

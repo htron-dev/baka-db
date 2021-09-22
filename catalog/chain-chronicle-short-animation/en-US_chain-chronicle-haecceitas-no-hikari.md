@@ -1,5 +1,7 @@
 # Chain Chronicle: Haecceitas no Hikari
 
+![chain-chronicle-haecceitas-no-hikari](https://cdn.myanimelist.net/images/anime/10/83740.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: チェインクロニクル～ヘクセイタスの閃〈ひかり〉～

@@ -1,5 +1,7 @@
 # Tsugihagi Hyoryu Sakka
 
+![tsugihagi-hyoryu-sakka](https://cdn.myanimelist.net/images/manga/1/205715.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

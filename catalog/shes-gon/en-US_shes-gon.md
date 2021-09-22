@@ -1,5 +1,7 @@
 # She's Gon
 
+![shes-gon](https://cdn.myanimelist.net/images/manga/1/61655.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 25

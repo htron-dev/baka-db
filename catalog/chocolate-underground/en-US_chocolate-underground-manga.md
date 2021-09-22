@@ -1,5 +1,7 @@
 # Chocolate Underground
 
+![chocolate-underground](https://cdn.myanimelist.net/images/manga/3/96031.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

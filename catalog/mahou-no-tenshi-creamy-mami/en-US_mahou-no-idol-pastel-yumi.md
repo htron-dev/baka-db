@@ -1,5 +1,7 @@
 # Mahou no Idol Pastel Yumi
 
+![mahou-no-idol-pastel-yumi](https://cdn.myanimelist.net/images/anime/7/43623.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 魔法のアイドル パステルユーミ
@@ -13,7 +15,6 @@
 
 -   comedy
 -   fantasy
-
 -   magic
 -   shoujo
 

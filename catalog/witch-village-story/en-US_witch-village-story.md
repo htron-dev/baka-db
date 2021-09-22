@@ -1,5 +1,7 @@
 # Witch Village Story
 
+![witch-village-story](https://cdn.myanimelist.net/images/anime/4/76384.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ウィッチ ヴィレッジ ストーリー

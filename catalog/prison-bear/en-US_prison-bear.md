@@ -1,5 +1,7 @@
 # Prison Bear
 
+![prison-bear](https://cdn.myanimelist.net/images/anime/6/63759.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: くまのけいむしょ

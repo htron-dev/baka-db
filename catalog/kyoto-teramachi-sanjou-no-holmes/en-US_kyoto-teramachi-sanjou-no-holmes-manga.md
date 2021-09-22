@@ -1,5 +1,7 @@
 # Kyoto Teramachi Sanjou no Holmes
 
+![kyoto-teramachi-sanjou-no-holmes](https://cdn.myanimelist.net/images/manga/2/207748.jpg)
+
 -   **type**: manga
 -   **original-name**: 京都寺町三条のホームズ
 -   **start-date**: 2017-10-25

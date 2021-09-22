@@ -1,5 +1,7 @@
 # Bouken Shounen Shadar
 
+![bouken-shounen-shadar](https://cdn.myanimelist.net/images/anime/3/20774.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 156
 -   **original-name**: 冒険少年シャダー

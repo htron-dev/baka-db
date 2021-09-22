@@ -1,5 +1,7 @@
 # Isekai de Tochi wo Katte Noujou wo Tsukurou
 
+![isekai-de-tochi-wo-katte-noujou-wo-tsukurou](https://cdn.myanimelist.net/images/manga/1/238797.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界で土地を買って農場を作ろう
 -   **start-date**: 2018-08-25

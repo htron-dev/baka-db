@@ -1,5 +1,7 @@
 # Natsu ni Tokeru Himitsu no Koi
 
+![natsu-ni-tokeru-himitsu-no-koi](https://cdn.myanimelist.net/images/manga/3/225088.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

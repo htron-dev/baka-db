@@ -1,5 +1,7 @@
 # Tsuki to Kin no Shangri-La
 
+![tsuki-to-kin-no-shangri-la](https://cdn.myanimelist.net/images/manga/2/238802.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

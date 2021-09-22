@@ -1,5 +1,7 @@
 # Precure All Stars Movie DX2: Kibou no Hikari☆Rainbow Jewel wo Mamore!
 
+![precure-all-stars-movie-dx-2-kibou-no-hikari☆-rainbow-jewel-wo-mamore](https://cdn.myanimelist.net/images/anime/9/20237.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 プリキュアオールスターズ DX2 希望の光 ☆ レインボージュエルを守れ!

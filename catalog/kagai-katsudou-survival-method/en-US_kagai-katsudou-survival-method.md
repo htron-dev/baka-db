@@ -1,5 +1,7 @@
 # Kagai Katsudou Survival Method
 
+![kagai-katsudou-survival-method](https://cdn.myanimelist.net/images/manga/3/176714.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 課外活動サバイバルメソッド

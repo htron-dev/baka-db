@@ -1,5 +1,7 @@
 # Sono Musume, Musashi
 
+![sono-musume-musashi](https://cdn.myanimelist.net/images/manga/2/167220.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

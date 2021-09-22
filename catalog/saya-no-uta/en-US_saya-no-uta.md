@@ -1,5 +1,7 @@
 # Saya no Uta
 
+![saya-no-uta](https://cdn.myanimelist.net/images/manga/1/236467.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 沙耶の唄

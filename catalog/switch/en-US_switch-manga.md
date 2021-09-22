@@ -1,5 +1,7 @@
 # Switch
 
+![switch](https://cdn.myanimelist.net/images/manga/3/1157.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 73

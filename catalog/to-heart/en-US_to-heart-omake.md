@@ -1,5 +1,7 @@
 # To Heart Omake
 
+![to-heart-omake](https://cdn.myanimelist.net/images/anime/9/29923.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: トゥハート おまけ

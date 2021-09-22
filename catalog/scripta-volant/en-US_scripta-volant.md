@@ -1,5 +1,7 @@
 # Scripta Volant
 
+![scripta-volant](https://cdn.myanimelist.net/images/anime/8/82246.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Scripta volant

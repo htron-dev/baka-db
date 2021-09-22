@@ -1,5 +1,7 @@
 # FLCL
 
+![flcl](https://cdn.myanimelist.net/images/manga/1/11144.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

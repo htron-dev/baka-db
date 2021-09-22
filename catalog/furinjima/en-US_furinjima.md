@@ -1,5 +1,7 @@
 # Furinjima
 
+![furinjima](https://cdn.myanimelist.net/images/manga/1/238074.jpg)
+
 -   **type**: manga
 -   **original-name**: 不倫島
 -   **start-date**: 2020-01-29

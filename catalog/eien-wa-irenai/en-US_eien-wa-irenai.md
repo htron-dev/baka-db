@@ -1,5 +1,7 @@
 # Eien wa irenai
 
+![eien-wa-irenai](https://cdn.myanimelist.net/images/manga/2/45369.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

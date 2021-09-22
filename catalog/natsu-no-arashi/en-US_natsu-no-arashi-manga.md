@@ -1,5 +1,7 @@
 # Natsu no Arashi!
 
+![natsu-no-arashi](https://cdn.myanimelist.net/images/manga/2/55599.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 50

@@ -1,5 +1,7 @@
 # Sankaku-teki Renai no Kyouen
 
+![sankaku-teki-renai-no-kyouen](https://cdn.myanimelist.net/images/manga/3/198698.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 48

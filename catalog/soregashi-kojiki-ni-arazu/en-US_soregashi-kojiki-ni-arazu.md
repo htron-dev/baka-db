@@ -1,5 +1,7 @@
 # Soregashi Kojiki ni Arazu
 
+![soregashi-kojiki-ni-arazu](https://cdn.myanimelist.net/images/manga/5/29024.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

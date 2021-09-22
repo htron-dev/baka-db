@@ -1,5 +1,7 @@
 # TOHO Cinemas x One Piece Film: Gold - Tokubetsu Eizou
 
+![toho-cinemas-x-one-piece-film-gold-tokubetsu-eizou](https://cdn.myanimelist.net/images/anime/3/87543.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ONE PIECE FILM GOLD× ＴＯＨＯシネマズ 特別映像

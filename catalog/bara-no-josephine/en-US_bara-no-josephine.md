@@ -1,5 +1,7 @@
 # Bara no Josephine
 
+![bara-no-josephine](https://cdn.myanimelist.net/images/manga/1/71067.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 薔薇のジョゼフィーヌ

@@ -1,5 +1,7 @@
 # Otome Game Rokushuume, Auto Mode ga Kiremashita.
 
+![otome-game-rokushuume-auto-mode-ga-kiremashita](https://cdn.myanimelist.net/images/manga/3/226724.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 乙女ゲーム六周目、オートモードが切れました。

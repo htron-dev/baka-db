@@ -1,5 +1,7 @@
 # Yuuki Aru Hotaru to Tobe Nai Hotaru
 
+![yuuki-aru-hotaru-to-tobe-nai-hotaru](https://cdn.myanimelist.net/images/anime/9/84551.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 勇気あるホタルととべないホタル

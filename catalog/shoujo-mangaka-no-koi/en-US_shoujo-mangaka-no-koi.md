@@ -1,5 +1,7 @@
 # Shoujo Mangaka no Koi
 
+![shoujo-mangaka-no-koi](https://cdn.myanimelist.net/images/manga/2/230141.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 少女漫画家の恋

@@ -1,5 +1,7 @@
 # Boukyaku no Haou Rolan
 
+![boukyaku-no-haou-rolan](https://cdn.myanimelist.net/images/manga/1/129029.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

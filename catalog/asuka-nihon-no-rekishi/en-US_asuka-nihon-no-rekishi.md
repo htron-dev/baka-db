@@ -1,5 +1,7 @@
 # Asuka: Nihon no Rekishi
 
+![asuka-nihon-no-rekishi](https://cdn.myanimelist.net/images/anime/12/86239.jpg)
+
 -   **type**: ova
 -   **episodes**: 20
 -   **original-name**: ASUKA -日本の歴史-

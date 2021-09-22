@@ -1,5 +1,7 @@
 # Tales of Phantasia The Animation
 
+![tales-of-phantasia-the-animation](https://cdn.myanimelist.net/images/anime/11/78319.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: テイルズ オブ ファンタジア THE ANIMATION

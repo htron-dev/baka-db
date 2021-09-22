@@ -1,5 +1,7 @@
 # Yakimochi Yaki na Koimonogatari
 
+![yakimochi-yaki-na-koimonogatari](https://cdn.myanimelist.net/images/manga/1/84227.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

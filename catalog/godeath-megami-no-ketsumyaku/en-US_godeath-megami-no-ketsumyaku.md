@@ -1,5 +1,7 @@
 # Godeath: Megami no Ketsumyaku
 
+![godeath-megami-no-ketsumyaku](https://cdn.myanimelist.net/images/manga/1/169213.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

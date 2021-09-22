@@ -1,5 +1,7 @@
 # Anata ga Megane wo Hazushitara
 
+![anata-ga-megane-wo-hazushitara](https://cdn.myanimelist.net/images/manga/2/27176.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

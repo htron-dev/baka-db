@@ -1,5 +1,7 @@
 # Last Magica no Dualism
 
+![last-magica-no-dualism](https://cdn.myanimelist.net/images/manga/3/160760.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

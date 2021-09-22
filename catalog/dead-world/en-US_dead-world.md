@@ -1,5 +1,7 @@
 # Dead World
 
+![dead-world](https://cdn.myanimelist.net/images/anime/4/82024.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **start-date**: 2016-09-16

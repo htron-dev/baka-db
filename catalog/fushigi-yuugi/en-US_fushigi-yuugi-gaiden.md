@@ -1,5 +1,7 @@
 # Fushigi Yuugi Gaiden
 
+![fushigi-yuugi-gaiden](https://cdn.myanimelist.net/images/manga/3/29069.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 130

@@ -1,5 +1,7 @@
 # Hoshikuzu Lemonade
 
+![hoshikuzu-lemonade](https://cdn.myanimelist.net/images/manga/1/148579.jpg)
+
 -   **type**: manga
 -   **original-name**: 星屑レモネード
 -   **start-date**: 2013-08-29

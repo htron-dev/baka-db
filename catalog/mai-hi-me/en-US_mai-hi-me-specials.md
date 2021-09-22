@@ -1,5 +1,7 @@
 # Mai-HiME Specials
 
+![mai-hi-me-specials](https://cdn.myanimelist.net/images/anime/11/3569.jpg)
+
 -   **type**: special
 -   **episodes**: 27
 -   **original-name**: 舞-HiME

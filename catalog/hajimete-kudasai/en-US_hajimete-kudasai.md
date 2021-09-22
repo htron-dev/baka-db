@@ -1,5 +1,7 @@
 # Hajimete, Kudasai.
 
+![hajimete-kudasai](https://cdn.myanimelist.net/images/manga/1/105965.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # JRA Hokan Keikaku
 
+![jra-hokan-keikaku](https://cdn.myanimelist.net/images/anime/8/78558.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: JRA 補完計画

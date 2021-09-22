@@ -1,5 +1,7 @@
 # Kaze Densetsu: Bukkomi no Taku
 
+![kaze-densetsu-bukkomi-no-taku](https://cdn.myanimelist.net/images/manga/3/183368.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 259

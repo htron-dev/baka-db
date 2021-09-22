@@ -1,5 +1,7 @@
 # Cooking Papa Christmas Special
 
+![cooking-papa-christmas-special](https://cdn.myanimelist.net/images/anime/7/71976.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: クッキングパパ クリスマススペシャル

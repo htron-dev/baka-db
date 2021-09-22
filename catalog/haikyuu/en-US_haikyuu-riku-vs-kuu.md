@@ -1,5 +1,7 @@
 # Haikyuu!!: Riku vs. Kuu
 
+![haikyuu-riku-vs-kuu](https://cdn.myanimelist.net/images/anime/1527/102671.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ハイキュー!! 陸 VS 空

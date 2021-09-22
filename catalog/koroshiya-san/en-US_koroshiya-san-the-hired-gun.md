@@ -1,5 +1,7 @@
 # Koroshiya-san: The Hired Gun
 
+![koroshiya-san-the-hired-gun](https://cdn.myanimelist.net/images/anime/11/55531.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 殺し屋さん The hired gun

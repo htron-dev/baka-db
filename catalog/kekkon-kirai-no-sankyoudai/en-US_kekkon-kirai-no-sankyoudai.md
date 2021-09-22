@@ -1,5 +1,7 @@
 # Kekkon Kirai no Sankyoudai
 
+![kekkon-kirai-no-sankyoudai](https://cdn.myanimelist.net/images/manga/3/89907.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 結婚嫌いの三兄弟

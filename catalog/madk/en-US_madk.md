@@ -1,5 +1,7 @@
 # MADK
 
+![madk](https://cdn.myanimelist.net/images/manga/2/224943.jpg)
+
 -   **type**: manga
 -   **original-name**: MADK
 -   **start-date**: 2017-08-28

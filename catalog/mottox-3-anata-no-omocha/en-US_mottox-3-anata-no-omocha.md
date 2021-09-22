@@ -1,5 +1,7 @@
 # Mottox3 Anata no Omocha
 
+![mottox-3-anata-no-omocha](https://cdn.myanimelist.net/images/manga/3/26633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: もっと ×3 あなたのおもちゃ

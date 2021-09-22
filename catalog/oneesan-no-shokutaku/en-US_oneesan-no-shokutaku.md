@@ -1,5 +1,7 @@
 # Oneesan no Shokutaku
 
+![oneesan-no-shokutaku](https://cdn.myanimelist.net/images/manga/3/149162.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

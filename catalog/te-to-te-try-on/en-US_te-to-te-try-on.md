@@ -1,5 +1,7 @@
 # Te to Te Try On!
 
+![te-to-te-try-on](https://cdn.myanimelist.net/images/manga/3/55685.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: てとてトライオン！

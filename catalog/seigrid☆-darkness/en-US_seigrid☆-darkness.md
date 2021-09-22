@@ -1,5 +1,7 @@
 # Seigrid☆Darkness
 
+![seigrid☆-darkness](https://cdn.myanimelist.net/images/manga/2/227646.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Yuukoku no Moriarty
 
+![yuukoku-no-moriarty](https://cdn.myanimelist.net/images/anime/1464/108330.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 憂国のモリアーティ

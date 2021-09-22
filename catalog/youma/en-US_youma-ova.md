@@ -1,5 +1,7 @@
 # Youma
 
+![youma](https://cdn.myanimelist.net/images/anime/1123/94526.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 妖魔

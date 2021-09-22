@@ -1,5 +1,7 @@
 # Kaibutsu-kun
 
+![kaibutsu-kun](https://cdn.myanimelist.net/images/anime/6/79850.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 怪物くん

@@ -1,5 +1,7 @@
 # Star Ocean: Blue Sphere
 
+![star-ocean-blue-sphere](https://cdn.myanimelist.net/images/manga/5/812.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: スターオーシャン ブルースフィア

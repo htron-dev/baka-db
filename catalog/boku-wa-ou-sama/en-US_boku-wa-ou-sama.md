@@ -1,5 +1,7 @@
 # Boku wa Ou-sama
 
+![boku-wa-ou-sama](https://cdn.myanimelist.net/images/anime/3/63739.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ぼくは王さま

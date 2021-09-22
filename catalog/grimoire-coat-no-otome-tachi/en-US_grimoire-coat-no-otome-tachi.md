@@ -1,5 +1,7 @@
 # Grimoire Coat no Otome-tachi
 
+![grimoire-coat-no-otome-tachi](https://cdn.myanimelist.net/images/manga/1/158167.jpg)
+
 -   **type**: light-novel
 -   **original-name**: グリモアコートの乙女たち
 -   **start-date**: 2015-06-02

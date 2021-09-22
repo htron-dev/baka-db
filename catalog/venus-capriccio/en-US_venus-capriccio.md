@@ -1,5 +1,7 @@
 # Venus Capriccio
 
+![venus-capriccio](https://cdn.myanimelist.net/images/manga/1/6272.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

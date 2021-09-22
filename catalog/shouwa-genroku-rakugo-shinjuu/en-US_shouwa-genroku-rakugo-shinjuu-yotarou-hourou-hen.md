@@ -1,5 +1,7 @@
 # Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen
 
+![shouwa-genroku-rakugo-shinjuu-yotarou-hourou-hen](https://cdn.myanimelist.net/images/anime/7/66057.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 昭和元禄落語心中 与太郎放浪篇

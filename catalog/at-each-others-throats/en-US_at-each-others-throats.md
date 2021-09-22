@@ -1,5 +1,7 @@
 # At Each Other's Throats
 
+![at-each-others-throats](https://cdn.myanimelist.net/images/manga/1/205034.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 180
 -   **original-name**: 못 잡아먹어 안달

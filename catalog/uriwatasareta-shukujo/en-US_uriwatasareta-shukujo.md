@@ -1,5 +1,7 @@
 # Uriwatasareta Shukujo
 
+![uriwatasareta-shukujo](https://cdn.myanimelist.net/images/manga/1/246966.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 売り渡された淑女

@@ -1,5 +1,7 @@
 # Kamisama Hajimemashita
 
+![kamisama-hajimemashita](https://cdn.myanimelist.net/images/anime/3/85429.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 神様はじめました

@@ -1,5 +1,7 @@
 # Fate/Grand Order: Moonlight/Lostroom
 
+![fate-grand-order-moonlight-lostroom](https://cdn.myanimelist.net/images/anime/13/89976.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Fate/Grand Order -MOONLIGHT/LOSTROOM-

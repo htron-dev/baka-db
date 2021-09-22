@@ -1,5 +1,7 @@
 # Shin Chuuka Ichiban! 2nd Season
 
+![shin-chuuka-ichiban-2nd-season](https://cdn.myanimelist.net/images/anime/1503/109131.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 真・中華一番!

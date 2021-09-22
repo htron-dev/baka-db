@@ -1,5 +1,7 @@
 # Zasetsu Otoko to Manga Shoujo
 
+![zasetsu-otoko-to-manga-shoujo](https://cdn.myanimelist.net/images/manga/3/207425.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

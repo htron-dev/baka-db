@@ -1,5 +1,7 @@
 # Ue wo Muite Arukou!
 
+![ue-wo-muite-arukou](https://cdn.myanimelist.net/images/manga/2/155934.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 上を向いて歩こう!

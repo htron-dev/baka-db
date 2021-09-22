@@ -1,5 +1,7 @@
 # Ao Oni The Animation
 
+![ao-oni-the-animation](https://cdn.myanimelist.net/images/anime/3/81430.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: あおおに ～じ・あにめぇしょん～

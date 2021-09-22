@@ -1,5 +1,7 @@
 # Tonari no 801-chan R
 
+![tonari-no-801-chan-r](https://cdn.myanimelist.net/images/anime/13/17047.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: となりの 801 ちゃん R

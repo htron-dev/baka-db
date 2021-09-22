@@ -1,5 +1,7 @@
 # Mon-Soni!: Senritsu no Lucifer, Tada Hitotsu no Hajimari no Uta
 
+![mon-soni-senritsu-no-lucifer-tada-hitotsu-no-hajimari-no-uta](https://cdn.myanimelist.net/images/anime/5/85670.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: モンストアニメ GW スペシャル番外編「センリツのルシファー ただひとつの始まりの歌」

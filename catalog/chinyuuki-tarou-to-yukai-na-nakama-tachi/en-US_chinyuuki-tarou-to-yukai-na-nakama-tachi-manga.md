@@ -1,5 +1,7 @@
 # Chinyuuki: Tarou to Yukai na Nakama-tachi
 
+![chinyuuki-tarou-to-yukai-na-nakama-tachi](https://cdn.myanimelist.net/images/manga/1/119489.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 63

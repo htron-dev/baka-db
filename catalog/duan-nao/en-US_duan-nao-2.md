@@ -1,5 +1,7 @@
 # Duan Nao 2
 
+![duan-nao-2](https://cdn.myanimelist.net/images/anime/7/84840.jpg)
+
 -   **type**: ona
 -   **original-name**: 端脑
 -   **rating**: R - 17+ (violence & profanity)
@@ -22,4 +24,4 @@ College student Chi Xia's girlfriend disappeared, and he was told that she never
 -   [My Anime list](https://myanimelist.net/anime/35211/Duan_Nao_2)
 -   [Official Site](http://www.u17.com/z/zt/dienow)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13009)
--   [Wikipedia](<https://zh.wikipedia.org/wiki/%E7%AB%AF%E8%84%91_(%E6%BC%AB%E7%94%BB)>)
+-   [Wikipedia](https://zh.wikipedia.org/wiki/%E7%AB%AF%E8%84%91_%28%E6%BC%AB%E7%94%BB%29)

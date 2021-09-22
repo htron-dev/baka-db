@@ -1,12 +1,13 @@
 # Kocchi Muite! Miiko
 
+![kocchi-muite-miiko](https://cdn.myanimelist.net/images/manga/4/39638.jpg)
+
 -   **type**: manga
 -   **original-name**: こっちむいて!みい子
 
 ## Tags
 
 -   comedy
-
 -   slice-of-life
 
 ## Authors

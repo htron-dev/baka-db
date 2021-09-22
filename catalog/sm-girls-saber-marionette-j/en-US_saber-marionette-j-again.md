@@ -1,5 +1,7 @@
 # Saber Marionette J Again
 
+![saber-marionette-j-again](https://cdn.myanimelist.net/images/anime/9/61135.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: またまたセイバーマリオネットＪ

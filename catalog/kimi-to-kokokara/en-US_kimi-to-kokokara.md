@@ -1,5 +1,7 @@
 # Kimi to Kokokara!
 
+![kimi-to-kokokara](https://cdn.myanimelist.net/images/manga/1/32547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キミとここから!

@@ -1,5 +1,7 @@
 # Busou Renkin
 
+![busou-renkin](https://cdn.myanimelist.net/images/anime/6/75566.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 武装錬金

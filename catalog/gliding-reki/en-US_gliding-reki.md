@@ -1,5 +1,7 @@
 # Gliding Reki
 
+![gliding-reki](https://cdn.myanimelist.net/images/manga/1/133887.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: グライディング REKI

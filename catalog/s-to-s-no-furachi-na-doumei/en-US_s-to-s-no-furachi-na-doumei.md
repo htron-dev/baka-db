@@ -1,5 +1,7 @@
 # S to S no Furachi na Doumei
 
+![s-to-s-no-furachi-na-doumei](https://cdn.myanimelist.net/images/manga/1/177325.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 9

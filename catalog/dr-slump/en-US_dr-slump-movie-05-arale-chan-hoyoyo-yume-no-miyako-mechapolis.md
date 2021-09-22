@@ -1,5 +1,7 @@
 # Dr. Slump Movie 05: Arale-chan Hoyoyo! Yume no Miyako Mechapolis
 
+![dr-slump-movie-05-arale-chan-hoyoyo-yume-no-miyako-mechapolis](https://cdn.myanimelist.net/images/anime/4/23175.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Dr.スランプ アラレちゃん ほよよ!夢の都メカポリス

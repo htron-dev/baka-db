@@ -1,5 +1,7 @@
 # Himeanole
 
+![himeanole](https://cdn.myanimelist.net/images/manga/3/98229.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 65

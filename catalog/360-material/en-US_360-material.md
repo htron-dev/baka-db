@@ -1,5 +1,7 @@
 # 360° Material
 
+![360-material](https://cdn.myanimelist.net/images/manga/2/176931.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 33

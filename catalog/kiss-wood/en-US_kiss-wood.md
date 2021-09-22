@@ -1,5 +1,7 @@
 # Kiss Wood
 
+![kiss-wood](https://cdn.myanimelist.net/images/manga/1/65275.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 34

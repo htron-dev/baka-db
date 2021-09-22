@@ -1,5 +1,7 @@
 # Okane Ariki no Kankei desu ga
 
+![okane-ariki-no-kankei-desu-ga](https://cdn.myanimelist.net/images/manga/1/236957.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

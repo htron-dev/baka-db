@@ -1,5 +1,7 @@
 # Platonic Chain
 
+![platonic-chain](https://cdn.myanimelist.net/images/anime/6/83128.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: プラトニック・チェーン

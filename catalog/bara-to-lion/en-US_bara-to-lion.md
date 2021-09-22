@@ -1,5 +1,7 @@
 # Bara to Lion
 
+![bara-to-lion](https://cdn.myanimelist.net/images/manga/3/21060.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 薔薇とライオン

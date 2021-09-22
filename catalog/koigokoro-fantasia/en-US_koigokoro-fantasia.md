@@ -1,5 +1,7 @@
 # Koigokoro Fantasia
 
+![koigokoro-fantasia](https://cdn.myanimelist.net/images/manga/2/6694.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

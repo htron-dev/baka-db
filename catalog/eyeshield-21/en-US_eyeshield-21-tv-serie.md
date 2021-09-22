@@ -1,5 +1,7 @@
 # Eyeshield 21
 
+![eyeshield-21](https://cdn.myanimelist.net/images/anime/12/66961.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 145
 -   **original-name**: アイシールド 21

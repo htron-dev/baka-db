@@ -1,5 +1,7 @@
 # Seikoku no Ryuu to Powder Kiss
 
+![seikoku-no-ryuu-to-powder-kiss](https://cdn.myanimelist.net/images/manga/1/177494.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Back Street Girls
 
+![back-street-girls](https://cdn.myanimelist.net/images/manga/1/188817.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 144

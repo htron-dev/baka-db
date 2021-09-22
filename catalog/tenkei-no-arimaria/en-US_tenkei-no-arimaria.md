@@ -1,5 +1,7 @@
 # Tenkei no Arimaria
 
+![tenkei-no-arimaria](https://cdn.myanimelist.net/images/manga/1/137799.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

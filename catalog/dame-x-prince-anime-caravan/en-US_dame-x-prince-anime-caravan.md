@@ -1,5 +1,7 @@
 # Dame x Prince Anime Caravan
 
+![dame-x-prince-anime-caravan](https://cdn.myanimelist.net/images/anime/9/87462.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ダメプリ ANIME CARAVAN

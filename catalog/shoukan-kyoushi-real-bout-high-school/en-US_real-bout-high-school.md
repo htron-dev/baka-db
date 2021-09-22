@@ -1,5 +1,7 @@
 # Real Bout High School
 
+![real-bout-high-school](https://cdn.myanimelist.net/images/manga/2/166934.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 46

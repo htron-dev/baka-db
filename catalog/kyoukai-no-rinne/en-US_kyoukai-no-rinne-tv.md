@@ -1,5 +1,7 @@
 # Kyoukai no Rinne (TV)
 
+![kyoukai-no-rinne-tv](https://cdn.myanimelist.net/images/anime/13/73436.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 境界の RINNE

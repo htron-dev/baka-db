@@ -1,5 +1,7 @@
 # Gori Papa Ikka no Nougyou wa Omoshiroi
 
+![gori-papa-ikka-no-nougyou-wa-omoshiroi](https://cdn.myanimelist.net/images/anime/1869/92106.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ゴリパパ一家の農業はオモシロイ

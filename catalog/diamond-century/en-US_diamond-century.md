@@ -1,5 +1,7 @@
 # Diamond Century
 
+![diamond-century](https://cdn.myanimelist.net/images/manga/2/5762.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ダイヤモンド・センチュリー

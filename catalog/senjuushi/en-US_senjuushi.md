@@ -1,5 +1,7 @@
 # Senjuushi
 
+![senjuushi](https://cdn.myanimelist.net/images/anime/1357/95039.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 千銃士

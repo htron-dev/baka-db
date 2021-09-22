@@ -1,5 +1,7 @@
 # Handy 99
 
+![handy-99](https://cdn.myanimelist.net/images/manga/2/74133.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ハンディ 99

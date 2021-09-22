@@ -1,5 +1,7 @@
 # Dandan Machi no Tokuma to Yome
 
+![dandan-machi-no-tokuma-to-yome](https://cdn.myanimelist.net/images/manga/2/202011.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

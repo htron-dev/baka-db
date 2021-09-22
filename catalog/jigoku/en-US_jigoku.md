@@ -1,5 +1,7 @@
 # Jigoku
 
+![jigoku](https://cdn.myanimelist.net/images/manga/1/131091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Tamashichi!
 
+![tamashichi](https://cdn.myanimelist.net/images/anime/5/88295.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: たましち！

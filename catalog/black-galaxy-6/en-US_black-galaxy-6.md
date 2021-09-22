@@ -1,5 +1,7 @@
 # Black Galaxy 6
 
+![black-galaxy-6](https://cdn.myanimelist.net/images/manga/2/124559.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

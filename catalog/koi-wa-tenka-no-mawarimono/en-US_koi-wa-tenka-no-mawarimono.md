@@ -1,5 +1,7 @@
 # Koi wa Tenka no Mawarimono
 
+![koi-wa-tenka-no-mawarimono](https://cdn.myanimelist.net/images/manga/1/21513.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

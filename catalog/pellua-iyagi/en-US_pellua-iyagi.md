@@ -1,5 +1,7 @@
 # Pellua Iyagi
 
+![pellua-iyagi](https://cdn.myanimelist.net/images/manga/3/70977.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 펠루아 이야기
 

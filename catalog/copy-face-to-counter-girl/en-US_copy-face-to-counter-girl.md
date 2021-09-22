@@ -1,5 +1,7 @@
 # Copy Face to Counter Girl
 
+![copy-face-to-counter-girl](https://cdn.myanimelist.net/images/manga/3/175944.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 27

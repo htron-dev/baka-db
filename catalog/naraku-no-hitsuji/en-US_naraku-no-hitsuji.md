@@ -1,5 +1,7 @@
 # Naraku no Hitsuji
 
+![naraku-no-hitsuji](https://cdn.myanimelist.net/images/manga/3/176869.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 49

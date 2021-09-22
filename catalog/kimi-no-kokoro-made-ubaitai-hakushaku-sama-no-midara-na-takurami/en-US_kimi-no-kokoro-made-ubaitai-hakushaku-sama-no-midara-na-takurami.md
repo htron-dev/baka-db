@@ -1,5 +1,7 @@
 # Kimi no Kokoro made Ubaitai: Hakushaku-sama no Midara na Takurami
 
+![kimi-no-kokoro-made-ubaitai-hakushaku-sama-no-midara-na-takurami](https://cdn.myanimelist.net/images/manga/1/183333.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

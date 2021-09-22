@@ -1,5 +1,7 @@
 # Ikebukuro West Gate Park
 
+![ikebukuro-west-gate-park](https://cdn.myanimelist.net/images/manga/3/235433.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

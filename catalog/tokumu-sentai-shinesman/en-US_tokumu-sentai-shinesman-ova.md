@@ -1,5 +1,7 @@
 # Tokumu Sentai Shinesman
 
+![tokumu-sentai-shinesman](https://cdn.myanimelist.net/images/anime/13/3952.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 特務戦隊シャインズマン

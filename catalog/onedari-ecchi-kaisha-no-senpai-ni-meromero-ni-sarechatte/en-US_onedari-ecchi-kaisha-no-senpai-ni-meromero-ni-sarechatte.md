@@ -1,5 +1,7 @@
 # Onedari Ecchi: Kaisha no Senpai ni Meromero ni Sarechatte
 
+![onedari-ecchi-kaisha-no-senpai-ni-meromero-ni-sarechatte](https://cdn.myanimelist.net/images/manga/3/193424.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

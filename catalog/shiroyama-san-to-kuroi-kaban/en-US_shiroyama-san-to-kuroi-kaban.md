@@ -1,5 +1,7 @@
 # Shiroyama-san to Kuroi Kaban
 
+![shiroyama-san-to-kuroi-kaban](https://cdn.myanimelist.net/images/manga/1/164576.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 白山さんと黒い鞄

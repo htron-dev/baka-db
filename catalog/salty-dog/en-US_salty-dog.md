@@ -1,5 +1,7 @@
 # Salty Dog
 
+![salty-dog](https://cdn.myanimelist.net/images/manga/3/147227.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: SALTY DOG

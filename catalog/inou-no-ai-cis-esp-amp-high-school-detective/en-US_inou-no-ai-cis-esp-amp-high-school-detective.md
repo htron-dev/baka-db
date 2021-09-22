@@ -1,5 +1,7 @@
 # Inou no AICis: ESP &amp; High School Detective
 
+![inou-no-ai-cis-esp-amp-high-school-detective](https://cdn.myanimelist.net/images/anime/1199/112305.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: 異能のアイシス ESP & HIGH SCHOOL DETECTIVE

@@ -1,5 +1,7 @@
 # Fushigiboshi no☆Futagohime
 
+![fushigiboshi-no☆-futagohime](https://cdn.myanimelist.net/images/anime/2/49793.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ふしぎ星の ☆ ふたご姫

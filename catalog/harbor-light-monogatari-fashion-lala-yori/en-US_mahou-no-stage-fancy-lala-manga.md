@@ -1,5 +1,7 @@
 # Mahou no Stage Fancy Lala
 
+![mahou-no-stage-fancy-lala](https://cdn.myanimelist.net/images/manga/1/13119.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

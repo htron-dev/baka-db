@@ -1,5 +1,7 @@
 # Abashiri Ikka
 
+![abashiri-ikka](https://cdn.myanimelist.net/images/manga/4/176261.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 50

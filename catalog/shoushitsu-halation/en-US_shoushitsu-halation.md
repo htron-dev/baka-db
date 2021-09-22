@@ -1,5 +1,7 @@
 # Shoushitsu Halation
 
+![shoushitsu-halation](https://cdn.myanimelist.net/images/manga/1/229790.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

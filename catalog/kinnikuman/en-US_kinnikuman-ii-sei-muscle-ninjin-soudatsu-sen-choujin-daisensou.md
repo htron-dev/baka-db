@@ -1,5 +1,7 @@
 # Kinnikuman II Sei: Muscle Ninjin Soudatsu sen! Choujin Daisensou
 
+![kinnikuman-ii-sei-muscle-ninjin-soudatsu-sen-choujin-daisensou](https://cdn.myanimelist.net/images/anime/1994/97587.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キン肉マン II 世 マッスル人参争奪！ 超人大戦争

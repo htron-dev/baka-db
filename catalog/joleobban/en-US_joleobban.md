@@ -1,5 +1,7 @@
 # Joleobban
 
+![joleobban](https://cdn.myanimelist.net/images/anime/11/87067.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 졸업반

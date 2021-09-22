@@ -1,5 +1,7 @@
 # Kimi Akirameru Koto Nakare
 
+![kimi-akirameru-koto-nakare](https://cdn.myanimelist.net/images/manga/1/247446.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

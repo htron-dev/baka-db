@@ -1,5 +1,7 @@
 # Do Whatever You Want
 
+![do-whatever-you-want](https://cdn.myanimelist.net/images/manga/2/3897.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 29

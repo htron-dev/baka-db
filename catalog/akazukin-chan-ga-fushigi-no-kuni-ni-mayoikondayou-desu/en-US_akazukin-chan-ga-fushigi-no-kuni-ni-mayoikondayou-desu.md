@@ -1,5 +1,7 @@
 # Akazukin-chan ga Fushigi no Kuni ni Mayoikondayou desu
 
+![akazukin-chan-ga-fushigi-no-kuni-ni-mayoikondayou-desu](https://cdn.myanimelist.net/images/manga/3/38919.jpg)
+
 -   **type**: manga
 -   **original-name**: 赤ずきんちゃんが不思議の国に迷い込んだようです
 

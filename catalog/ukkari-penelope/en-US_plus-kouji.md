@@ -1,5 +1,7 @@
 # Plus Kouji
 
+![plus-kouji](https://cdn.myanimelist.net/images/anime/11/87491.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: プラス糀

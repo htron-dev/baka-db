@@ -1,5 +1,7 @@
 # Igano Kabamaru
 
+![igano-kabamaru](https://cdn.myanimelist.net/images/manga/2/151850.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 伊賀野カバ丸

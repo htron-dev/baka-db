@@ -1,5 +1,7 @@
 # Killer Friends
 
+![killer-friends](https://cdn.myanimelist.net/images/manga/3/247042.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

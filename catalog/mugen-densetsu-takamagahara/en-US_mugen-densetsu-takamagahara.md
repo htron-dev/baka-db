@@ -1,5 +1,7 @@
 # Mugen Densetsu Takamagahara
 
+![mugen-densetsu-takamagahara](https://cdn.myanimelist.net/images/manga/1/180638.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Tenshi no 3P!
 
+![tenshi-no-3-p](https://cdn.myanimelist.net/images/manga/1/177819.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 天使の 3P！〈スリーピース〉
 -   **start-date**: 2012-06-10

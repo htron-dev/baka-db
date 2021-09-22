@@ -1,5 +1,7 @@
 # Suukikyou no Midara na Kyuusai: Doku no Yubiwa wa Himitsu ni Nurete
 
+![suukikyou-no-midara-na-kyuusai-doku-no-yubiwa-wa-himitsu-ni-nurete](https://cdn.myanimelist.net/images/manga/1/192500.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

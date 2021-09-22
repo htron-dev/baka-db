@@ -1,5 +1,7 @@
 # Machi no Tom &amp; Sawyer
 
+![machi-no-tom-amp-sawyer](https://cdn.myanimelist.net/images/manga/3/179088.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

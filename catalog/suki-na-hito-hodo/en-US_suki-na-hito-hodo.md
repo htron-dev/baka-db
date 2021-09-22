@@ -1,5 +1,7 @@
 # Suki na Hito hodo
 
+![suki-na-hito-hodo](https://cdn.myanimelist.net/images/manga/3/157213.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

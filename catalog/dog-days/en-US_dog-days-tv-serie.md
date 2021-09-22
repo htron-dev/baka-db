@@ -1,5 +1,7 @@
 # Dog Days'
 
+![dog-days](https://cdn.myanimelist.net/images/anime/9/42105.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ドッグデイズ'
@@ -30,8 +32,8 @@ As with the first season though, with so many secrets to be uncovered and myster
 -   [Official Site](http://www.dogdays.tv/2nd/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8882)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13636)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Dog_Days_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Dog_Days_%28anime%29)
 -   [Official Site](http://www.dogdays.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9517)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16193)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Dog_Days_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Dog_Days_%28anime%29)

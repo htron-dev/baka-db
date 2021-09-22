@@ -1,5 +1,7 @@
 # Fatal Fury: The Motion Picture
 
+![fatal-fury-the-motion-picture](https://cdn.myanimelist.net/images/anime/1460/92435.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 餓狼伝説

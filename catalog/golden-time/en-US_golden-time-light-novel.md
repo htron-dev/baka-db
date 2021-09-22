@@ -1,5 +1,7 @@
 # Golden Time
 
+![golden-time](https://cdn.myanimelist.net/images/manga/2/179802.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 45

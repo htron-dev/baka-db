@@ -1,5 +1,7 @@
 # Kujakuou Denki
 
+![kujakuou-denki](https://cdn.myanimelist.net/images/manga/1/248106.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Sayasaya to
 
+![sayasaya-to](https://cdn.myanimelist.net/images/manga/3/169794.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

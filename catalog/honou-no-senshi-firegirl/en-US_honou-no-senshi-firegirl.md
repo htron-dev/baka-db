@@ -1,5 +1,7 @@
 # Honou no Senshi: Firegirl
 
+![honou-no-senshi-firegirl](https://cdn.myanimelist.net/images/anime/6/87716.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 炎の戦士　ファイアーガール

@@ -1,5 +1,7 @@
 # Hana to Hina wa Houkago
 
+![hana-to-hina-wa-houkago](https://cdn.myanimelist.net/images/manga/2/174495.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

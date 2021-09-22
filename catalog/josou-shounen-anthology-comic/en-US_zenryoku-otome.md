@@ -1,5 +1,7 @@
 # Zenryoku Otome
 
+![zenryoku-otome](https://cdn.myanimelist.net/images/manga/3/102029.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Hatsutaiken
 
+![hatsutaiken](https://cdn.myanimelist.net/images/manga/2/125493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Aishite Nanka yara ne yo!
 
+![aishite-nanka-yara-ne-yo](https://cdn.myanimelist.net/images/manga/2/33832.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛してなんかやらねーよ!

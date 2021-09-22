@@ -1,5 +1,7 @@
 # Death March kara Hajimaru Isekai Kyousoukyoku Extra
 
+![death-march-kara-hajimaru-isekai-kyousoukyoku-extra](https://cdn.myanimelist.net/images/manga/3/206403.jpg)
+
 -   **type**: light-novel
 -   **original-name**: デスマーチからはじまる異世界狂想曲 Ex
 -   **start-date**: 2018-01-10

@@ -1,5 +1,7 @@
 # Ten no Hate Chi no Kagiri
 
+![ten-no-hate-chi-no-kagiri](https://cdn.myanimelist.net/images/manga/3/25041.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

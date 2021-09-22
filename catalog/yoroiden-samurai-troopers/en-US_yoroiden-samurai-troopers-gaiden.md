@@ -1,5 +1,7 @@
 # Yoroiden Samurai Troopers Gaiden
 
+![yoroiden-samurai-troopers-gaiden](https://cdn.myanimelist.net/images/anime/1484/92210.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 鎧伝サムライトルーパー外伝

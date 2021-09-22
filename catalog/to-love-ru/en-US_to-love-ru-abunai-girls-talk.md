@@ -1,5 +1,7 @@
 # To LOVE-Ru: Abunai Girls Talk
 
+![to-love-ru-abunai-girls-talk](https://cdn.myanimelist.net/images/manga/2/97547.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

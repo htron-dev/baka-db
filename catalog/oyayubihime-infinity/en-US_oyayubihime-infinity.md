@@ -1,5 +1,7 @@
 # Oyayubihime Infinity
 
+![oyayubihime-infinity](https://cdn.myanimelist.net/images/manga/2/343.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

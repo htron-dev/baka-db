@@ -1,5 +1,7 @@
 # Kirameki no Lion Boy
 
+![kirameki-no-lion-boy](https://cdn.myanimelist.net/images/manga/1/185324.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

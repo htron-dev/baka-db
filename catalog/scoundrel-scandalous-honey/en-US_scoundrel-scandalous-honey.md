@@ -1,5 +1,7 @@
 # Scoundrel Scandalous Honey
 
+![scoundrel-scandalous-honey](https://cdn.myanimelist.net/images/manga/1/6695.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

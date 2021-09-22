@@ -1,5 +1,7 @@
 # Hana-san wa Minorasetai!
 
+![hana-san-wa-minorasetai](https://cdn.myanimelist.net/images/manga/3/243095.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

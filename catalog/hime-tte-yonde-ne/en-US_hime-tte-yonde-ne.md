@@ -1,5 +1,7 @@
 # Hime tte Yonde ne
 
+![hime-tte-yonde-ne](https://cdn.myanimelist.net/images/manga/2/1557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

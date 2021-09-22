@@ -1,5 +1,7 @@
 # Digimon Universe: Appli Monsters
 
+![digimon-universe-appli-monsters](https://cdn.myanimelist.net/images/anime/7/84900.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: デジモンユニバース アプリモンスターズ
@@ -15,7 +17,6 @@
 -   sci-fi
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

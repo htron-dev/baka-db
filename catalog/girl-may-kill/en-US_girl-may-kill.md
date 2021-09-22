@@ -1,5 +1,7 @@
 # Girl May Kill
 
+![girl-may-kill](https://cdn.myanimelist.net/images/manga/1/112059.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

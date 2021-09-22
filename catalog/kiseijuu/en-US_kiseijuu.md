@@ -1,5 +1,7 @@
 # Kiseijuu
 
+![kiseijuu](https://cdn.myanimelist.net/images/manga/2/188928.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 64

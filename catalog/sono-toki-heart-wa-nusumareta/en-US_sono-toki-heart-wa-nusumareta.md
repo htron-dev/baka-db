@@ -1,5 +1,7 @@
 # Sono Toki Heart wa Nusumareta
 
+![sono-toki-heart-wa-nusumareta](https://cdn.myanimelist.net/images/manga/3/21485.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

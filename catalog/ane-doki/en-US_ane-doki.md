@@ -1,5 +1,7 @@
 # Ane Doki
 
+![ane-doki](https://cdn.myanimelist.net/images/manga/1/172900.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

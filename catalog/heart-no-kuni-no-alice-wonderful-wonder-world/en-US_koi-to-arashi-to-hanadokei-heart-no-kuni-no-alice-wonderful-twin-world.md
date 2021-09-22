@@ -1,5 +1,7 @@
 # Koi to Arashi to Hanadokei: Heart no Kuni no Alice - Wonderful Twin World
 
+![koi-to-arashi-to-hanadokei-heart-no-kuni-no-alice-wonderful-twin-world](https://cdn.myanimelist.net/images/manga/3/193819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

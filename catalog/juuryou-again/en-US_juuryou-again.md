@@ -1,5 +1,7 @@
 # Juuryou Again
 
+![juuryou-again](https://cdn.myanimelist.net/images/manga/2/227938.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

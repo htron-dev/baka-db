@@ -1,5 +1,7 @@
 # Three
 
+![three](https://cdn.myanimelist.net/images/manga/3/196159.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: 3 THREE

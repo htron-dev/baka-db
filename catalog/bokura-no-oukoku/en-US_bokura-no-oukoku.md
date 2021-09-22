@@ -1,5 +1,7 @@
 # Bokura no Oukoku
 
+![bokura-no-oukoku](https://cdn.myanimelist.net/images/manga/3/170877.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

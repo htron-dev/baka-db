@@ -1,5 +1,7 @@
 # Shibou to Iu Na no Fuku wo Kite
 
+![shibou-to-iu-na-no-fuku-wo-kite](https://cdn.myanimelist.net/images/manga/2/50495.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

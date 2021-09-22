@@ -1,5 +1,7 @@
 # Nigeru Otoko
 
+![nigeru-otoko](https://cdn.myanimelist.net/images/manga/3/40768.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

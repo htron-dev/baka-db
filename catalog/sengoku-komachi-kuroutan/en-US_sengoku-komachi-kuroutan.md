@@ -1,5 +1,7 @@
 # Sengoku Komachi Kuroutan
 
+![sengoku-komachi-kuroutan](https://cdn.myanimelist.net/images/manga/1/170249.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 戦国小町苦労譚
 -   **start-date**: 2016-01-15

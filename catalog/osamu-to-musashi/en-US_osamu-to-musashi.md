@@ -1,5 +1,7 @@
 # Osamu to Musashi
 
+![osamu-to-musashi](https://cdn.myanimelist.net/images/anime/3/53337.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: オサムとムサシ
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

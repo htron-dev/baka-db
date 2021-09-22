@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Gekitotsu!! Ijigen Youkai no Daihanran
 
+![gegege-no-kitarou-gekitotsu-ijigen-youkai-no-daihanran](https://cdn.myanimelist.net/images/anime/1383/100504.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゲゲゲの鬼太郎 激突!!異次元妖怪の大反乱

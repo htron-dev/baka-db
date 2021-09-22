@@ -1,5 +1,7 @@
 # Kagerou Inazuma Mizu no Tsuki
 
+![kagerou-inazuma-mizu-no-tsuki](https://cdn.myanimelist.net/images/manga/3/84873.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

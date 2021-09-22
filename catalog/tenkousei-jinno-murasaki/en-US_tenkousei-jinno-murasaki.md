@@ -1,5 +1,7 @@
 # Tenkousei Jinno Murasaki
 
+![tenkousei-jinno-murasaki](https://cdn.myanimelist.net/images/manga/1/77683.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

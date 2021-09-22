@@ -1,5 +1,7 @@
 # Otokomae Ikusei Katei!
 
+![otokomae-ikusei-katei](https://cdn.myanimelist.net/images/manga/2/21465.jpg)
+
 -   **type**: manga
 -   **original-name**: オトコマエ育成課程！
 -   **start-date**: 2008-06-20

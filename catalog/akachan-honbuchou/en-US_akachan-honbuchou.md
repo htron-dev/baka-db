@@ -1,5 +1,7 @@
 # Akachan Honbuchou
 
+![akachan-honbuchou](https://cdn.myanimelist.net/images/anime/1585/113558.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: 赤ちゃん本部長

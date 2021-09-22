@@ -1,5 +1,7 @@
 # C!!
 
+![c](https://cdn.myanimelist.net/images/manga/1/150076.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: C!!

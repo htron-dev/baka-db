@@ -1,5 +1,7 @@
 # Mashira: Satsuriku no Mura
 
+![mashira-satsuriku-no-mura](https://cdn.myanimelist.net/images/manga/1/201023.jpg)
+
 -   **type**: manga
 -   **original-name**: マシラ ―殺戮の村―
 -   **start-date**: 2017-02-28

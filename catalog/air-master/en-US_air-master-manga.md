@@ -1,5 +1,7 @@
 # Air Master
 
+![air-master](https://cdn.myanimelist.net/images/manga/1/162278.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 254

@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS
 
+![mahou-shoujo-lyrical-nanoha-striker-s-the-comics](https://cdn.myanimelist.net/images/manga/2/30379.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

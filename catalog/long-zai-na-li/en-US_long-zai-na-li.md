@@ -1,5 +1,7 @@
 # Long Zai Na Li
 
+![long-zai-na-li](https://cdn.myanimelist.net/images/anime/1924/112369.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 龙在哪里?

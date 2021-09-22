@@ -1,5 +1,7 @@
 # Gin no Sereira
 
+![gin-no-sereira](https://cdn.myanimelist.net/images/manga/1/58199.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 銀のセレイラ

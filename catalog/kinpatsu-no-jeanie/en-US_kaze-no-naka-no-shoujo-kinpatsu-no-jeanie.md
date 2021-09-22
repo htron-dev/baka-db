@@ -1,5 +1,7 @@
 # Kaze no Naka no Shoujo: Kinpatsu no Jeanie
 
+![kaze-no-naka-no-shoujo-kinpatsu-no-jeanie](https://cdn.myanimelist.net/images/anime/5/89782.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 風の中の少女 金髪のジェニー

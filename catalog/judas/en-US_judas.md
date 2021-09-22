@@ -1,5 +1,7 @@
 # Judas
 
+![judas](https://cdn.myanimelist.net/images/manga/2/178192.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

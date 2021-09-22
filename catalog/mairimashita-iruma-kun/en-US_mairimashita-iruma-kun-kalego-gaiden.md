@@ -1,5 +1,7 @@
 # Mairimashita! Iruma-kun Kalego Gaiden
 
+![mairimashita-iruma-kun-kalego-gaiden](https://cdn.myanimelist.net/images/manga/3/243453.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔入りました! 入間くん カルエゴ外伝
 -   **start-date**: 2021-04-15

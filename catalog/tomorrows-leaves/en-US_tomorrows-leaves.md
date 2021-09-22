@@ -1,5 +1,7 @@
 # Tomorrow's Leaves
 
+![tomorrows-leaves](https://cdn.myanimelist.net/images/anime/1880/116886.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Tomorrow's Leaves

@@ -1,5 +1,7 @@
 # Itsuka Tenma no Kuro Usagi
 
+![itsuka-tenma-no-kuro-usagi](https://cdn.myanimelist.net/images/manga/2/53745.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

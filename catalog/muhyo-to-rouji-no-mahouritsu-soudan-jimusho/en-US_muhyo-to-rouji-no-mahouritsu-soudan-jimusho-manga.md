@@ -1,5 +1,7 @@
 # Muhyo to Rouji no Mahouritsu Soudan Jimusho
 
+![muhyo-to-rouji-no-mahouritsu-soudan-jimusho](https://cdn.myanimelist.net/images/manga/3/99591.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 159

@@ -1,5 +1,7 @@
 # Idea ga Tsukamaranai.
 
+![idea-ga-tsukamaranai](https://cdn.myanimelist.net/images/anime/5/74775.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アイデアが捕まらない。

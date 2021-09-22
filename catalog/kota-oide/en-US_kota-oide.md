@@ -1,5 +1,7 @@
 # Kota Oide
 
+![kota-oide](https://cdn.myanimelist.net/images/manga/2/224825.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 38

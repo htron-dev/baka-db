@@ -1,5 +1,7 @@
 # Tokyo Mew Mew
 
+![tokyo-mew-mew](https://cdn.myanimelist.net/images/manga/3/177748.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 32

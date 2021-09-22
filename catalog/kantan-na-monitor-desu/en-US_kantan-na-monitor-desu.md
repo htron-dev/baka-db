@@ -1,5 +1,7 @@
 # Kantan na Monitor desu
 
+![kantan-na-monitor-desu](https://cdn.myanimelist.net/images/manga/3/117771.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 28

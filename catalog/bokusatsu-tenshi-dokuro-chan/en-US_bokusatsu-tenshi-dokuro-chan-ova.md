@@ -1,5 +1,7 @@
 # Bokusatsu Tenshi Dokuro-chan
 
+![bokusatsu-tenshi-dokuro-chan](https://cdn.myanimelist.net/images/anime/10/13210.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 撲殺天使ドクロちゃん

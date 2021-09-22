@@ -1,5 +1,7 @@
 # Bakuman.
 
+![bakuman](https://cdn.myanimelist.net/images/anime/6/26138.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: バクマン。

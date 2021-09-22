@@ -1,5 +1,7 @@
 # Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito
 
+![dragon-quest-dai-no-daibouken-tachiagare-aban-no-shito](https://cdn.myanimelist.net/images/anime/12/31457.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンクエスト　ダイの大冒険　起ち・がれ！！アバンの使徒

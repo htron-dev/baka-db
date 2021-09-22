@@ -1,5 +1,7 @@
 # Kyou no Cerberus
 
+![kyou-no-cerberus](https://cdn.myanimelist.net/images/manga/3/115893.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 58

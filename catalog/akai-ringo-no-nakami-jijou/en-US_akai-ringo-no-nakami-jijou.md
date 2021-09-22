@@ -1,5 +1,7 @@
 # Akai Ringo no Nakami Jijou
 
+![akai-ringo-no-nakami-jijou](https://cdn.myanimelist.net/images/manga/1/231800.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

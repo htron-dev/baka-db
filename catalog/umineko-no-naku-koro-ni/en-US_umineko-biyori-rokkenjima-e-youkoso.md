@@ -1,5 +1,7 @@
 # Umineko Biyori: Rokkenjima e Youkoso!!
 
+![umineko-biyori-rokkenjima-e-youkoso](https://cdn.myanimelist.net/images/manga/2/66641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: うみねこびより。～六軒島へようこそ!!～

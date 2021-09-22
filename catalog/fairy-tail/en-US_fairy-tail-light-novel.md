@@ -1,5 +1,7 @@
 # Fairy Tail
 
+![fairy-tail](https://cdn.myanimelist.net/images/manga/2/140795.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 29

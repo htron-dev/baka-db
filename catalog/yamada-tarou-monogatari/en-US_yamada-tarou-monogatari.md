@@ -1,5 +1,7 @@
 # Yamada Tarou Monogatari
 
+![yamada-tarou-monogatari](https://cdn.myanimelist.net/images/manga/1/80813.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: 山田太郎ものがたり

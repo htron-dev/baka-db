@@ -1,5 +1,7 @@
 # Crimson Prison: Ikasaretara Haiboku, Chijoku Game ni Sanka Saserareta Onna-tachi
 
+![crimson-prison-ikasaretara-haiboku-chijoku-game-ni-sanka-saserareta-onna-tachi](https://cdn.myanimelist.net/images/manga/1/147519.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 4

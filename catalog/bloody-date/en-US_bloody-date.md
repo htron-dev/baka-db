@@ -1,5 +1,7 @@
 # Bloody Date
 
+![bloody-date](https://cdn.myanimelist.net/images/anime/12/32603.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 血みどろデート

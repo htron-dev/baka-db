@@ -1,5 +1,7 @@
 # Flexible Kid
 
+![flexible-kid](https://cdn.myanimelist.net/images/manga/2/70141.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

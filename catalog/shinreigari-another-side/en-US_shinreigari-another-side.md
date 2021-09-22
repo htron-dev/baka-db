@@ -1,5 +1,7 @@
 # Shinreigari: Another Side
 
+![shinreigari-another-side](https://cdn.myanimelist.net/images/manga/2/99699.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 神霊狩 ANOTHER SIDE

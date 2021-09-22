@@ -1,5 +1,7 @@
 # Uma Musume: Pretty Derby (TV)
 
+![uma-musume-pretty-derby-tv](https://cdn.myanimelist.net/images/anime/1683/91888.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ウマ娘 プリティーダービー

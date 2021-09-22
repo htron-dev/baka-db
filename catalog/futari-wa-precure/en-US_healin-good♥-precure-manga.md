@@ -1,5 +1,7 @@
 # Healin' Good♥Precure
 
+![healin-good♥-precure](https://cdn.myanimelist.net/images/manga/1/239888.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ヒーリングっど ♥ プリキュア

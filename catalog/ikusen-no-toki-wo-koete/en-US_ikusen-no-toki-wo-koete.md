@@ -1,5 +1,7 @@
 # Ikusen no Toki wo Koete
 
+![ikusen-no-toki-wo-koete](https://cdn.myanimelist.net/images/manga/1/118497.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

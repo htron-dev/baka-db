@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 08: Arashi wo Yobu Jungle
 
+![crayon-shin-chan-movie-08-arashi-wo-yobu-jungle](https://cdn.myanimelist.net/images/anime/13/22024.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 クレヨンしんちゃん　嵐を呼ぶジャングル

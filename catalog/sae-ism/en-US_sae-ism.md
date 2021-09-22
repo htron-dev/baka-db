@@ -1,5 +1,7 @@
 # Sae-ism
 
+![sae-ism](https://cdn.myanimelist.net/images/manga/1/154638.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

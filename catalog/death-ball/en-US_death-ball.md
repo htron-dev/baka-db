@@ -1,5 +1,7 @@
 # Death Ball
 
+![death-ball](https://cdn.myanimelist.net/images/manga/2/239228.jpg)
+
 -   **type**: manga
 -   **original-name**: デスボール
 -   **start-date**: 2018-11-22

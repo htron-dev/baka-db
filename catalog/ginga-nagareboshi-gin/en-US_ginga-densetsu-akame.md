@@ -1,5 +1,7 @@
 # Ginga Densetsu Akame
 
+![ginga-densetsu-akame](https://cdn.myanimelist.net/images/manga/3/207496.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 40

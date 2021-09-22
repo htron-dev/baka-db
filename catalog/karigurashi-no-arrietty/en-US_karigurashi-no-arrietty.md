@@ -1,5 +1,7 @@
 # Karigurashi no Arrietty
 
+![karigurashi-no-arrietty](https://cdn.myanimelist.net/images/anime/9/75905.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 借りぐらしのアリエッティ

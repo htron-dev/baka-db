@@ -1,5 +1,7 @@
 # Slayers: The Motion Picture
 
+![slayers-the-motion-picture](https://cdn.myanimelist.net/images/anime/10/2644.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版スレイヤーズ

@@ -1,5 +1,7 @@
 # Kono Kekkon, Himitsu ni Sasete Itadakimasu!? Dannasama wa Ikemen Seiyuu
 
+![kono-kekkon-himitsu-ni-sasete-itadakimasu-dannasama-wa-ikemen-seiyuu](https://cdn.myanimelist.net/images/manga/2/192108.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Misumi-san wa Misukasenai
 
+![misumi-san-wa-misukasenai](https://cdn.myanimelist.net/images/manga/3/245180.jpg)
+
 -   **type**: manga
 -   **original-name**: ミスミさんは見透かせない
 -   **start-date**: 2021-04-19

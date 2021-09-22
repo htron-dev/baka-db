@@ -1,5 +1,7 @@
 # Torikago no Naka no Kimi
 
+![torikago-no-naka-no-kimi](https://cdn.myanimelist.net/images/manga/2/226452.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

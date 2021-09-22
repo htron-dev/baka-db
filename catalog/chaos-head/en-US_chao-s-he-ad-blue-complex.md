@@ -1,5 +1,7 @@
 # ChäoS;HEAd: Blue Complex
 
+![chao-s-he-ad-blue-complex](https://cdn.myanimelist.net/images/manga/3/111221.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

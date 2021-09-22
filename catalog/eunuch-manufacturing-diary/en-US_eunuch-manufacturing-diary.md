@@ -1,5 +1,7 @@
 # Eunuch Manufacturing Diary
 
+![eunuch-manufacturing-diary](https://cdn.myanimelist.net/images/manga/3/228571.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 55

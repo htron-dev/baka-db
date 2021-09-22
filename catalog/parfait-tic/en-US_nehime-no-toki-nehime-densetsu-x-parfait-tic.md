@@ -1,5 +1,7 @@
 # Nehime no Toki: Nehime Densetsu x Parfait Tic!
 
+![nehime-no-toki-nehime-densetsu-x-parfait-tic](https://cdn.myanimelist.net/images/manga/3/121213.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ねひめのとき 根日女伝説 ×『パフェちっく！』

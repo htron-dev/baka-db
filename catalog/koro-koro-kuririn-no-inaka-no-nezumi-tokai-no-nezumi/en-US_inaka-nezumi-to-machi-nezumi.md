@@ -1,5 +1,7 @@
 # Inaka Nezumi to Machi Nezumi
 
+![inaka-nezumi-to-machi-nezumi](https://cdn.myanimelist.net/images/anime/13/71814.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: いなかねずみとまちねずみ

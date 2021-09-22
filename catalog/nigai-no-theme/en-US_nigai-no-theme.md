@@ -1,5 +1,7 @@
 # Nigai no Theme
 
+![nigai-no-theme](https://cdn.myanimelist.net/images/manga/2/225745.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Kenritsu Umisora Koukou Yakyuubu-in Yamashita Tarou-kun
 
+![kenritsu-umisora-koukou-yakyuubu-in-yamashita-tarou-kun](https://cdn.myanimelist.net/images/anime/7/67439.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 県立海空高校野球部員山下たろーくん

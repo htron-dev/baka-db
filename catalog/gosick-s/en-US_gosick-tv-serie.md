@@ -1,5 +1,7 @@
 # Gosick
 
+![gosick](https://cdn.myanimelist.net/images/anime/11/27906.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: GOSICK -ゴシック-

@@ -1,5 +1,7 @@
 # Yakusoku no Neverland 2nd Season
 
+![yakusoku-no-neverland-2nd-season](https://cdn.myanimelist.net/images/anime/1815/110626.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 約束のネバーランド

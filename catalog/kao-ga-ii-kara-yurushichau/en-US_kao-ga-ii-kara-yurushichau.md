@@ -1,5 +1,7 @@
 # Kao ga Ii kara Yurushichau
 
+![kao-ga-ii-kara-yurushichau](https://cdn.myanimelist.net/images/manga/2/180763.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

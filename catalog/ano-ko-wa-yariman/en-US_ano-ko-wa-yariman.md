@@ -1,5 +1,7 @@
 # Ano Ko wa Yariman
 
+![ano-ko-wa-yariman](https://cdn.myanimelist.net/images/manga/2/170778.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

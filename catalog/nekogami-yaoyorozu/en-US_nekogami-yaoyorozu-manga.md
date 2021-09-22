@@ -1,5 +1,7 @@
 # Nekogami Yaoyorozu
 
+![nekogami-yaoyorozu](https://cdn.myanimelist.net/images/manga/2/173593.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 37

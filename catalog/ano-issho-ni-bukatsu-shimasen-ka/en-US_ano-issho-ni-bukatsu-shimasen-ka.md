@@ -1,5 +1,7 @@
 # Ano, Issho ni Bukatsu Shimasen ka?
 
+![ano-issho-ni-bukatsu-shimasen-ka](https://cdn.myanimelist.net/images/manga/3/198067.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: あの、一緒に戦争〈ブカツ〉しませんか？

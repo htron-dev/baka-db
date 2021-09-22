@@ -1,5 +1,7 @@
 # Hello Kitty no Suteki na Kyoudai
 
+![hello-kitty-no-suteki-na-kyoudai](https://cdn.myanimelist.net/images/anime/7/47925.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのすてきな姉妹

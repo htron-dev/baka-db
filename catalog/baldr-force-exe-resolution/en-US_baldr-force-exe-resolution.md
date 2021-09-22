@@ -1,5 +1,7 @@
 # Baldr Force Exe Resolution
 
+![baldr-force-exe-resolution](https://cdn.myanimelist.net/images/anime/3/76295.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: バルドフォース　エグゼ　レソリューション

@@ -1,5 +1,7 @@
 # Seiyuu no Tamago ga, Ore no Kanojo Datta you desu.
 
+![seiyuu-no-tamago-ga-ore-no-kanojo-datta-you-desu](https://cdn.myanimelist.net/images/manga/2/126171.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 声優のたまごが、俺の彼女だったようです。

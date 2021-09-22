@@ -1,5 +1,7 @@
 # Warui Ko no Tame no Wasuremono Techou
 
+![warui-ko-no-tame-no-wasuremono-techou](https://cdn.myanimelist.net/images/manga/3/35165.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

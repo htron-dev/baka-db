@@ -1,5 +1,7 @@
 # Live Machine
 
+![live-machine](https://cdn.myanimelist.net/images/manga/1/159907.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ライブマシーン

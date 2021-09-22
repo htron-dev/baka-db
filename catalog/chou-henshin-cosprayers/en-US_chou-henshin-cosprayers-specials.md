@@ -1,5 +1,7 @@
 # Chou Henshin Cosprayers Specials
 
+![chou-henshin-cosprayers-specials](https://cdn.myanimelist.net/images/anime/6/4489.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 超変身コス ∞ プレイヤー

@@ -1,5 +1,7 @@
 # Juusen Battle Monsuno
 
+![juusen-battle-monsuno](https://cdn.myanimelist.net/images/anime/11/40891.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 獣旋バトル モンスーノ

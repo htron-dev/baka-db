@@ -1,5 +1,7 @@
 # Hibike! Euphonium 2 Specials
 
+![hibike-euphonium-2-specials](https://cdn.myanimelist.net/images/anime/13/83486.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 響け！ユーフォニアム 2

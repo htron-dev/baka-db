@@ -1,5 +1,7 @@
 # Katte ni Kaizou Specials
 
+![katte-ni-kaizou-specials](https://cdn.myanimelist.net/images/anime/11/36477.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: かってに改蔵

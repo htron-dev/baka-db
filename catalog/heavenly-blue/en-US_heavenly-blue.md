@@ -1,5 +1,7 @@
 # Heavenly Blue
 
+![heavenly-blue](https://cdn.myanimelist.net/images/manga/2/24410.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kaseifu ga Ita.
 
+![kaseifu-ga-ita](https://cdn.myanimelist.net/images/anime/11/68495.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: カセイフがイタ.

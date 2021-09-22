@@ -1,5 +1,7 @@
 # Dark Striker
 
+![dark-striker](https://cdn.myanimelist.net/images/manga/1/14504.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 팔용신전설

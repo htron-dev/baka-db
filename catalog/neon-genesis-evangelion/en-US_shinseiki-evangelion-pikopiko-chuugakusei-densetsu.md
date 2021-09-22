@@ -1,5 +1,7 @@
 # Shinseiki Evangelion: Pikopiko Chuugakusei Densetsu
 
+![shinseiki-evangelion-pikopiko-chuugakusei-densetsu](https://cdn.myanimelist.net/images/manga/2/210797.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 70

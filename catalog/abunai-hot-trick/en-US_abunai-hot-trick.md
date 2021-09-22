@@ -1,5 +1,7 @@
 # Abunai HOT Trick
 
+![abunai-hot-trick](https://cdn.myanimelist.net/images/manga/3/10263.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あぶない HOT トリック

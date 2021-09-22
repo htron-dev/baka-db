@@ -1,5 +1,7 @@
 # Sakasama no Patema: Beginning of the Day
 
+![sakasama-no-patema-beginning-of-the-day](https://cdn.myanimelist.net/images/anime/3/37569.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: サカサマのパテマ Beginning of the Day

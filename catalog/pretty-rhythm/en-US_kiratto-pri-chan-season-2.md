@@ -1,5 +1,7 @@
 # Kiratto Pri☆chan Season 2
 
+![kiratto-pri☆chan-season-2](https://cdn.myanimelist.net/images/anime/1616/103082.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: キラッとプリ ☆ チャン シーズン 2

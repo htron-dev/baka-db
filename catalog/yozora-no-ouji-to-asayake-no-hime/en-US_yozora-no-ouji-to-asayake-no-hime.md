@@ -1,5 +1,7 @@
 # Yozora no Ouji to Asayake no Hime
 
+![yozora-no-ouji-to-asayake-no-hime](https://cdn.myanimelist.net/images/manga/1/32415.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

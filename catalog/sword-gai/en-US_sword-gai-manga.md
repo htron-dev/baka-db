@@ -1,5 +1,7 @@
 # Sword Gai
 
+![sword-gai](https://cdn.myanimelist.net/images/manga/1/179170.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Gekkou no Carnevale
 
+![gekkou-no-carnevale](https://cdn.myanimelist.net/images/manga/1/15939.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

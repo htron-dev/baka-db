@@ -1,5 +1,7 @@
 # Gozonji! Kakuza Tousan
 
+![gozonji-kakuza-tousan](https://cdn.myanimelist.net/images/anime/1437/105576.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: ご存知!かくざ父さん

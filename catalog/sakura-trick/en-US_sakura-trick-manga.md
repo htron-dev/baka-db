@@ -1,5 +1,7 @@
 # Sakura Trick
 
+![sakura-trick](https://cdn.myanimelist.net/images/manga/1/172310.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 84

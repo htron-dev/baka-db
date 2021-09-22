@@ -1,5 +1,7 @@
 # Kedamono Switch
 
+![kedamono-switch](https://cdn.myanimelist.net/images/manga/2/183257.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

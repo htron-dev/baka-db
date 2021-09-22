@@ -1,5 +1,7 @@
 # Nishuume Cheat no Tensei Madoushi: Saikyou ga 1000-nengo ni Tensei shitara, Jinsei Yoyuu sugimashita
 
+![nishuume-cheat-no-tensei-madoushi-saikyou-ga-1000-nengo-ni-tensei-shitara-jinsei-yoyuu-sugimashita](https://cdn.myanimelist.net/images/manga/3/239376.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 二周目チートの転生魔導士　～最強が１０００年後に転生したら、人生余裕すぎました～
 -   **start-date**: 2019-07-02

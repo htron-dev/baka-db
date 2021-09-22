@@ -1,5 +1,7 @@
 # Elleair x Kamiusagi Rope
 
+![elleair-x-kamiusagi-rope](https://cdn.myanimelist.net/images/anime/1377/92748.jpg)
+
 -   **type**: ona
 -   **original-name**: エリエール × 紙兎ロペ
 -   **start-date**: 2018-01-03

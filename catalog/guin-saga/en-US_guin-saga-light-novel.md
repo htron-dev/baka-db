@@ -1,5 +1,7 @@
 # Guin Saga
 
+![guin-saga](https://cdn.myanimelist.net/images/manga/2/34235.jpg)
+
 -   **type**: light-novel
 -   **original-name**: グイン・サーガ
 -   **start-date**: 1979-09-30

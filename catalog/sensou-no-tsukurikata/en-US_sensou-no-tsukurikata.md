@@ -1,5 +1,7 @@
 # Sensou no Tsukurikata
 
+![sensou-no-tsukurikata](https://cdn.myanimelist.net/images/anime/1444/93487.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 戦争のつくりかた

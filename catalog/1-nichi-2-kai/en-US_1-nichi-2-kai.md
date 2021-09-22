@@ -1,5 +1,7 @@
 # 1-nichi 2-kai
 
+![1-nichi-2-kai](https://cdn.myanimelist.net/images/manga/3/230483.jpg)
+
 -   **type**: manga
 -   **original-name**: 1 日 2 回
 -   **start-date**: 2019-04-27

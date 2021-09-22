@@ -1,5 +1,7 @@
 # Yozora no Sumikko de,
 
+![yozora-no-sumikko-de](https://cdn.myanimelist.net/images/manga/1/177221.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

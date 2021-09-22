@@ -1,5 +1,7 @@
 # Boku to Kimi dake ni Seiya wa Konai
 
+![boku-to-kimi-dake-ni-seiya-wa-konai](https://cdn.myanimelist.net/images/manga/1/241514.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

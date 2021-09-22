@@ -1,5 +1,7 @@
 # Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.
 
+![yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita](https://cdn.myanimelist.net/images/manga/1/158592.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 77

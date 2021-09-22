@@ -1,5 +1,7 @@
 # Ookami-kun wa Kowakunai
 
+![ookami-kun-wa-kowakunai](https://cdn.myanimelist.net/images/manga/2/224837.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

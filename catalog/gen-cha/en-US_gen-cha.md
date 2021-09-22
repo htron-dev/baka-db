@@ -1,5 +1,7 @@
 # Gen-Cha!
 
+![gen-cha](https://cdn.myanimelist.net/images/manga/1/113845.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

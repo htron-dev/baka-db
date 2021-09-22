@@ -1,5 +1,7 @@
 # Kuroko no Basket: Oshaberi Demo Shimasen ka
 
+![kuroko-no-basket-oshaberi-demo-shimasen-ka](https://cdn.myanimelist.net/images/anime/11/71175.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: お喋りでもしませんか

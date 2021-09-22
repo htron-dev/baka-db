@@ -1,5 +1,7 @@
 # R18!
 
+![r-18](https://cdn.myanimelist.net/images/manga/2/159422.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 88

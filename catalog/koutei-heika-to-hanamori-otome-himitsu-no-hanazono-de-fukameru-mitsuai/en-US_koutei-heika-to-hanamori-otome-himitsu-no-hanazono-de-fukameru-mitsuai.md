@@ -1,5 +1,7 @@
 # Koutei Heika to Hanamori Otome: Himitsu no Hanazono de Fukameru Mitsuai
 
+![koutei-heika-to-hanamori-otome-himitsu-no-hanazono-de-fukameru-mitsuai](https://cdn.myanimelist.net/images/manga/1/194979.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 皇帝陛下と花守乙女　秘密の花園で深める蜜愛

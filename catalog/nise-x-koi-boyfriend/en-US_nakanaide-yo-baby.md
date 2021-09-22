@@ -1,5 +1,7 @@
 # Nakanaide yo Baby
 
+![nakanaide-yo-baby](https://cdn.myanimelist.net/images/manga/1/209401.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

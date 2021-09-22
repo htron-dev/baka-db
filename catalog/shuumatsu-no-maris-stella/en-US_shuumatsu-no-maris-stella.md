@@ -1,5 +1,7 @@
 # Shuumatsu no Maris Stella
 
+![shuumatsu-no-maris-stella](https://cdn.myanimelist.net/images/manga/3/120329.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

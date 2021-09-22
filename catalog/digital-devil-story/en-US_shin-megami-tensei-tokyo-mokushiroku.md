@@ -1,5 +1,7 @@
 # Shin Megami Tensei: Tokyo Mokushiroku
 
+![shin-megami-tensei-tokyo-mokushiroku](https://cdn.myanimelist.net/images/anime/6/22243.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 真・女神転生　東京黙示録

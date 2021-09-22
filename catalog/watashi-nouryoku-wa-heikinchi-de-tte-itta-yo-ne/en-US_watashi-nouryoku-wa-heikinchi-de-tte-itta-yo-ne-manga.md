@@ -1,5 +1,7 @@
 # Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!
 
+![watashi-nouryoku-wa-heikinchi-de-tte-itta-yo-ne](https://cdn.myanimelist.net/images/manga/3/192963.jpg)
+
 -   **type**: manga
 -   **original-name**: 私、能力は平均値でって言ったよね！
 -   **start-date**: 2016-08-05

@@ -1,5 +1,7 @@
 # Deva Zan
 
+![deva-zan](https://cdn.myanimelist.net/images/anime/10/29286.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: DEVA ZAN

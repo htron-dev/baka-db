@@ -1,5 +1,7 @@
 # Koi wa Etude!
 
+![koi-wa-etude](https://cdn.myanimelist.net/images/manga/2/221741.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

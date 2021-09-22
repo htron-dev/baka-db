@@ -1,5 +1,7 @@
 # Iruka-chan Yoroshiku
 
+![iruka-chan-yoroshiku](https://cdn.myanimelist.net/images/manga/2/146879.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: いるかちゃんヨロシク

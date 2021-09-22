@@ -1,5 +1,7 @@
 # Wonder-kun no Hatsu Yume Uchuu Ryokou
 
+![wonder-kun-no-hatsu-yume-uchuu-ryokou](https://cdn.myanimelist.net/images/anime/1937/101556.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンダー君の初夢宇宙旅行

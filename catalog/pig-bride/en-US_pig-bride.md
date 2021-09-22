@@ -1,5 +1,7 @@
 # Pig Bride
 
+![pig-bride](https://cdn.myanimelist.net/images/manga/5/30366.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 22

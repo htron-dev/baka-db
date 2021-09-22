@@ -1,5 +1,7 @@
 # Chou Denji Robo Combattler V
 
+![chou-denji-robo-combattler-v](https://cdn.myanimelist.net/images/anime/1262/96449.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 54
 -   **original-name**: 超電磁ロボ コンバトラーＶ

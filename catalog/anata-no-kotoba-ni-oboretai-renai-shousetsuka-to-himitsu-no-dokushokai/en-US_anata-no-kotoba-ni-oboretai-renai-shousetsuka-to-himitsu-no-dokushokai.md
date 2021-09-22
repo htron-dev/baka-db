@@ -1,5 +1,7 @@
 # Anata no Kotoba ni Oboretai: Renai Shousetsuka to Himitsu no Dokushokai
 
+![anata-no-kotoba-ni-oboretai-renai-shousetsuka-to-himitsu-no-dokushokai](https://cdn.myanimelist.net/images/manga/3/193143.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

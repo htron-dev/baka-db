@@ -1,5 +1,7 @@
 # Urakatana Kami no ki
 
+![urakatana-kami-no-ki](https://cdn.myanimelist.net/images/manga/1/35498.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 裏刀神記

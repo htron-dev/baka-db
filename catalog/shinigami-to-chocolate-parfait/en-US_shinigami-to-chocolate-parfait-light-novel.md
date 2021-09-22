@@ -1,5 +1,7 @@
 # Shinigami to Chocolate Parfait
 
+![shinigami-to-chocolate-parfait](https://cdn.myanimelist.net/images/manga/1/141837.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 死神とチョコレート・パフェ

@@ -1,5 +1,7 @@
 # Samurai Spirits
 
+![samurai-spirits](https://cdn.myanimelist.net/images/manga/3/38859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: サムライスピリッツ

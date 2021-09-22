@@ -1,5 +1,7 @@
 # Ankoku Kishi no Ore desu ga Saikyou no Paladin wo Mezashimasu
 
+![ankoku-kishi-no-ore-desu-ga-saikyou-no-paladin-wo-mezashimasu](https://cdn.myanimelist.net/images/manga/3/235374.jpg)
+
 -   **type**: manga
 -   **original-name**: 暗黒騎士の俺ですが最強の聖騎士〈パラディン〉をめざします
 -   **start-date**: 2019-09-28

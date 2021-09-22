@@ -1,5 +1,7 @@
 # Minna no Go
 
+![minna-no-go](https://cdn.myanimelist.net/images/manga/2/86409.jpg)
+
 -   **type**: manga
 -   **original-name**: みんなの呉
 -   **start-date**: 2009-10-27

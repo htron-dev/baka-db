@@ -1,5 +1,7 @@
 # Battle Athletess Daiundoukai
 
+![battle-athletess-daiundoukai](https://cdn.myanimelist.net/images/anime/5/83761.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: バトルアスリーテス大運動会

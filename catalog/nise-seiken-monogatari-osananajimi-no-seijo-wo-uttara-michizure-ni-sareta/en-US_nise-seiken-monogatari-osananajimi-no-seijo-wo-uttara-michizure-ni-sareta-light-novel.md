@@ -1,5 +1,7 @@
 # Nise Seiken Monogatari: Osananajimi no Seijo wo Uttara Michizure ni Sareta
 
+![nise-seiken-monogatari-osananajimi-no-seijo-wo-uttara-michizure-ni-sareta](https://cdn.myanimelist.net/images/manga/1/227919.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 偽・聖剣物語 幼なじみの聖女を売ったら道連れにされた
 -   **start-date**: 2019-09-20

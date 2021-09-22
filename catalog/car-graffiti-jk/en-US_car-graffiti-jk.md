@@ -1,5 +1,7 @@
 # Car Graffiti JK
 
+![car-graffiti-jk](https://cdn.myanimelist.net/images/manga/3/164605.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

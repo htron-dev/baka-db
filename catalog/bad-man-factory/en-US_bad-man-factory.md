@@ -1,5 +1,7 @@
 # Bad Man Factory
 
+![bad-man-factory](https://cdn.myanimelist.net/images/manga/3/38288.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

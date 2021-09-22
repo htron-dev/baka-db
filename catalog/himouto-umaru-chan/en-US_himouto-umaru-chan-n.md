@@ -1,5 +1,7 @@
 # Himouto! Umaru-chan N
 
+![himouto-umaru-chan-n](https://cdn.myanimelist.net/images/manga/2/171219.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 8

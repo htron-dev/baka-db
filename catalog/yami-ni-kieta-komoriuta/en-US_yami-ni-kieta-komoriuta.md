@@ -1,5 +1,7 @@
 # Yami ni Kieta Komoriuta
 
+![yami-ni-kieta-komoriuta](https://cdn.myanimelist.net/images/manga/2/44247.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 闇に消えた子守唄

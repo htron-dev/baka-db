@@ -1,5 +1,7 @@
 # -Hitogatana-
 
+![hitogatana](https://cdn.myanimelist.net/images/manga/1/158526.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 68

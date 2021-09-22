@@ -1,5 +1,7 @@
 # Itsuwari no Wedding
 
+![itsuwari-no-wedding](https://cdn.myanimelist.net/images/manga/2/191901.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

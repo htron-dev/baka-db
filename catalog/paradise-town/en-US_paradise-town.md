@@ -1,5 +1,7 @@
 # Paradise Town
 
+![paradise-town](https://cdn.myanimelist.net/images/manga/1/25339.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 極楽町一丁目

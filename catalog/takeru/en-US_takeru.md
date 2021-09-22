@@ -1,5 +1,7 @@
 # Takeru
 
+![takeru](https://cdn.myanimelist.net/images/manga/3/103505.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 武 TAKERU

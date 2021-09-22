@@ -1,5 +1,7 @@
 # Oudou no Inu
 
+![oudou-no-inu](https://cdn.myanimelist.net/images/manga/1/89481.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 50

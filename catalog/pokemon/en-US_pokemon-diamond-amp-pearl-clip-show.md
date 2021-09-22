@@ -1,5 +1,7 @@
 # Pokemon Diamond &amp; Pearl: Clip Show
 
+![pokemon-diamond-amp-pearl-clip-show](https://cdn.myanimelist.net/images/anime/9/89042.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター ダイヤモンド&パール

@@ -1,5 +1,7 @@
 # Futari Solo Camp
 
+![futari-solo-camp](https://cdn.myanimelist.net/images/manga/2/220919.jpg)
+
 -   **type**: manga
 -   **original-name**: ふたりソロキャンプ
 -   **start-date**: 2018-10-09

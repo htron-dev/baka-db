@@ -1,5 +1,7 @@
 # Macaroni Switch
 
+![macaroni-switch](https://cdn.myanimelist.net/images/manga/3/196456.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 67

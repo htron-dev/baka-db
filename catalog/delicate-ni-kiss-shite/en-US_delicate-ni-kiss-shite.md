@@ -1,5 +1,7 @@
 # Delicate ni Kiss Shite
 
+![delicate-ni-kiss-shite](https://cdn.myanimelist.net/images/manga/2/59211.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Chibi Maruko-chan Movie: Italia kara Kita Shounen
 
+![chibi-maruko-chan-movie-italia-kara-kita-shounen](https://cdn.myanimelist.net/images/anime/6/76874.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画ちびまる子ちゃん イタリアから来た少年
@@ -11,7 +13,6 @@
 
 -   slice-of-life
 -   comedy
-
 -   school
 
 ## Sinopse

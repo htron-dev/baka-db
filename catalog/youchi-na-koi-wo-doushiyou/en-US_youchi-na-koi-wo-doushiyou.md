@@ -1,5 +1,7 @@
 # Youchi na Koi wo Doushiyou
 
+![youchi-na-koi-wo-doushiyou](https://cdn.myanimelist.net/images/manga/2/221822.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

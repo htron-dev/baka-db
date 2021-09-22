@@ -1,5 +1,7 @@
 # Voynich Hotel
 
+![voynich-hotel](https://cdn.myanimelist.net/images/manga/1/157463.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 68

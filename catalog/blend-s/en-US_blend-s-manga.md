@@ -1,5 +1,7 @@
 # Blend S
 
+![blend-s](https://cdn.myanimelist.net/images/manga/2/149976.jpg)
+
 -   **type**: manga
 -   **original-name**: ブレンド・S
 -   **start-date**: 2013-08-28

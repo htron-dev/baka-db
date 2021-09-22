@@ -1,5 +1,7 @@
 # Koi wa Itsumo Tabekake
 
+![koi-wa-itsumo-tabekake](https://cdn.myanimelist.net/images/manga/2/58779.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

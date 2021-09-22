@@ -1,5 +1,7 @@
 # Juuni Kokuki
 
+![juuni-kokuki](https://cdn.myanimelist.net/images/manga/3/157938.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 十二国記
 -   **start-date**: 1992-06-20

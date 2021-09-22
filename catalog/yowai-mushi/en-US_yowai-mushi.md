@@ -1,5 +1,7 @@
 # Yowai Mushi
 
+![yowai-mushi](https://cdn.myanimelist.net/images/anime/12/68995.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 弱い虫

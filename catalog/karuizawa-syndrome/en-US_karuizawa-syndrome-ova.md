@@ -1,5 +1,7 @@
 # Karuizawa Syndrome
 
+![karuizawa-syndrome](https://cdn.myanimelist.net/images/anime/1611/112297.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 軽井沢シンドローム

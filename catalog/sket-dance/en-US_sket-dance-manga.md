@@ -1,5 +1,7 @@
 # SKET Dance
 
+![sket-dance](https://cdn.myanimelist.net/images/manga/1/173959.jpg)
+
 -   **type**: manga
 -   **volumes**: 32
 -   **chapters**: 288

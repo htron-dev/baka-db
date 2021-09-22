@@ -1,5 +1,7 @@
 # Hidamari Sketch Specials
 
+![hidamari-sketch-specials](https://cdn.myanimelist.net/images/anime/9/14372.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ひだまりスケッチ 特別編

@@ -1,5 +1,7 @@
 # Sensei no Jijou
 
+![sensei-no-jijou](https://cdn.myanimelist.net/images/manga/1/137433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

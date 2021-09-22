@@ -1,5 +1,7 @@
 # Burapa: The Black Parade
 
+![burapa-the-black-parade](https://cdn.myanimelist.net/images/manga/3/67593.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

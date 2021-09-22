@@ -1,5 +1,7 @@
 # Sachi-iro no One Room Gaiden: Seikai no Meitantei
 
+![sachi-iro-no-one-room-gaiden-seikai-no-meitantei](https://cdn.myanimelist.net/images/manga/3/234748.jpg)
+
 -   **type**: manga
 -   **original-name**: 幸色のワンルーム 外伝 正壊の名探偵
 -   **start-date**: 2019-09-21

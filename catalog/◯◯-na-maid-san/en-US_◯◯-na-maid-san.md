@@ -1,5 +1,7 @@
 # ◯◯ na Maid-san
 
+![◯◯-na-maid-san](https://cdn.myanimelist.net/images/manga/2/241952.jpg)
+
 -   **type**: manga
 -   **original-name**: ◯◯ なメイドさん
 -   **start-date**: 2020-03-25

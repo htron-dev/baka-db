@@ -1,5 +1,7 @@
 # Seton Doubutsuki
 
+![seton-doubutsuki](https://cdn.myanimelist.net/images/anime/11/19086.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: シートン動物記

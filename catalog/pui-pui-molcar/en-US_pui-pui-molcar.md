@@ -1,5 +1,7 @@
 # Pui Pui Molcar
 
+![pui-pui-molcar](https://cdn.myanimelist.net/images/anime/1899/111488.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: PUI PUI モルカー

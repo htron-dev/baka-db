@@ -1,5 +1,7 @@
 # Kikan Gentei Imouto.
 
+![kikan-gentei-imouto](https://cdn.myanimelist.net/images/manga/3/162537.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

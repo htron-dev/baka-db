@@ -1,5 +1,7 @@
 # Coffee Ikaga Deshou
 
+![coffee-ikaga-deshou](https://cdn.myanimelist.net/images/anime/1674/94360.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: 珈琲いかがでしょう

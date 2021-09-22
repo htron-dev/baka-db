@@ -1,5 +1,7 @@
 # Mizuchidou Houfukuroku
 
+![mizuchidou-houfukuroku](https://cdn.myanimelist.net/images/manga/2/168576.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: 蛟堂報復録

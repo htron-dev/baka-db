@@ -1,5 +1,7 @@
 # Trigun Maximum
 
+![trigun-maximum](https://cdn.myanimelist.net/images/manga/3/55331.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 102

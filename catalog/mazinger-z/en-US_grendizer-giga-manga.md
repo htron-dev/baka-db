@@ -1,5 +1,7 @@
 # Grendizer Giga
 
+![grendizer-giga](https://cdn.myanimelist.net/images/manga/2/161291.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

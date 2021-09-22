@@ -1,5 +1,7 @@
 # Chuugakusei Subetega. Hajimete Datta
 
+![chuugakusei-subetega-hajimete-datta](https://cdn.myanimelist.net/images/manga/3/9890.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 中学生　すべてが。初めてだった

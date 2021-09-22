@@ -1,5 +1,7 @@
 # Majo to Houki to Kurobuchi Megane
 
+![majo-to-houki-to-kurobuchi-megane](https://cdn.myanimelist.net/images/manga/1/145167.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 45

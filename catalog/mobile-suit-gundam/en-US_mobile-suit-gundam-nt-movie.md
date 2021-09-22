@@ -1,5 +1,7 @@
 # Mobile Suit Gundam NT
 
+![mobile-suit-gundam-nt](https://cdn.myanimelist.net/images/anime/1552/95706.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム NT（ナラティブ）

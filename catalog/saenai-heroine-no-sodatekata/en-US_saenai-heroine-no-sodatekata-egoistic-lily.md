@@ -1,5 +1,7 @@
 # Saenai Heroine no Sodatekata: Egoistic-Lily
 
+![saenai-heroine-no-sodatekata-egoistic-lily](https://cdn.myanimelist.net/images/manga/2/181003.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

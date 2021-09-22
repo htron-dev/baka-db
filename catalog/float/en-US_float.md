@@ -1,5 +1,7 @@
 # Float
 
+![float](https://cdn.myanimelist.net/images/anime/1425/115143.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: FLOAT

@@ -1,5 +1,7 @@
 # Japanda
 
+![japanda](https://cdn.myanimelist.net/images/anime/1400/103107.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ジャパンダ

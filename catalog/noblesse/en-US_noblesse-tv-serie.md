@@ -1,5 +1,7 @@
 # Noblesse
 
+![noblesse](https://cdn.myanimelist.net/images/anime/1903/111646.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: NOBLESSE -ノブレス-
@@ -32,4 +34,4 @@ To further complicate matters, Nobles Regis K. Landegre and Seira J. Loyard enro
 -   [Official Site](https://noblesse-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15409)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23083)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Noblesse_(manhwa)#Anime_television_series>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Noblesse_%28manhwa%29#Anime_television_series)

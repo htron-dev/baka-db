@@ -1,5 +1,7 @@
 # Owa Rande!
 
+![owa-rande](https://cdn.myanimelist.net/images/manga/1/197901.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

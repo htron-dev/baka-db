@@ -1,5 +1,7 @@
 # Rikoteki na Seijin Kouho: Toriaezu Isekai de Wagamama sasete Moraimasu
 
+![rikoteki-na-seijin-kouho-toriaezu-isekai-de-wagamama-sasete-moraimasu](https://cdn.myanimelist.net/images/manga/1/244724.jpg)
+
 -   **type**: manga
 -   **original-name**: 利己的な聖人候補 とりあえず異世界でワガママさせてもらいます
 -   **start-date**: 2020-10-28

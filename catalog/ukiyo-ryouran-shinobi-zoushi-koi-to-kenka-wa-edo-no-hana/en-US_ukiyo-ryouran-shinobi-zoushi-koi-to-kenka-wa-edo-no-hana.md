@@ -1,5 +1,7 @@
 # Ukiyo Ryouran Shinobi-zoushi: Koi to Kenka wa Edo no Hana
 
+![ukiyo-ryouran-shinobi-zoushi-koi-to-kenka-wa-edo-no-hana](https://cdn.myanimelist.net/images/manga/2/165564.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

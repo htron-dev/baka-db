@@ -1,5 +1,7 @@
 # Kiss de Okoshite.
 
+![kiss-de-okoshite](https://cdn.myanimelist.net/images/manga/2/234034.jpg)
+
 -   **type**: manga
 -   **original-name**: キスで起こして。
 -   **start-date**: 2020-04-03

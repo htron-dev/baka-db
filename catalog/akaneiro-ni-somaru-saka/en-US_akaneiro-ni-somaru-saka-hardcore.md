@@ -1,5 +1,7 @@
 # Akaneiro ni Somaru Saka: Hardcore
 
+![akaneiro-ni-somaru-saka-hardcore](https://cdn.myanimelist.net/images/anime/11/12090.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あかね色に染まる坂 Hardcore

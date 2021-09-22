@@ -1,5 +1,7 @@
 # Koakuma Biyori
 
+![koakuma-biyori](https://cdn.myanimelist.net/images/manga/1/230480.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

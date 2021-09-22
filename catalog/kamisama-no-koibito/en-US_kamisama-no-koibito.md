@@ -1,5 +1,7 @@
 # Kamisama no Koibito
 
+![kamisama-no-koibito](https://cdn.myanimelist.net/images/manga/2/228748.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

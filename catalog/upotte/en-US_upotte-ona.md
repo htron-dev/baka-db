@@ -1,5 +1,7 @@
 # Upotte!!
 
+![upotte](https://cdn.myanimelist.net/images/anime/13/35121.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: うぽって!!

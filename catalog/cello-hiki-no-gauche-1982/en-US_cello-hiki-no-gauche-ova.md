@@ -1,5 +1,7 @@
 # Cello Hiki no Gauche (OVA)
 
+![cello-hiki-no-gauche-ova](https://cdn.myanimelist.net/images/anime/7/74771.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: セロひきのゴーシュ

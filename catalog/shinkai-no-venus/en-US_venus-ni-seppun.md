@@ -1,5 +1,7 @@
 # Venus ni Seppun
 
+![venus-ni-seppun](https://cdn.myanimelist.net/images/manga/3/42028.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

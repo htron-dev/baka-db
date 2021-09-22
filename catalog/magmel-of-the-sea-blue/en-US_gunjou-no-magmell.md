@@ -1,5 +1,7 @@
 # Gunjou no Magmell
 
+![gunjou-no-magmell](https://cdn.myanimelist.net/images/anime/1063/98597.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 群青のマグメル

@@ -1,5 +1,7 @@
 # Strike Witches OVA
 
+![strike-witches-ova](https://cdn.myanimelist.net/images/anime/12/82422.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ストライクウィッチーズ

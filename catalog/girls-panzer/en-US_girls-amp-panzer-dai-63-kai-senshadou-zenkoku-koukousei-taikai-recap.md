@@ -1,5 +1,7 @@
 # Girls &amp; Panzer: Dai 63-kai Senshadou Zenkoku Koukousei Taikai Recap
 
+![girls-amp-panzer-dai-63-kai-senshadou-zenkoku-koukousei-taikai-recap](https://cdn.myanimelist.net/images/anime/1429/90829.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ガールズ&パンツァー 第 63 回戦車道全国高校生大会 総集編

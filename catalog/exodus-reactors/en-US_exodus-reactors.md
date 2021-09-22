@@ -1,5 +1,7 @@
 # Exodus Reactors
 
+![exodus-reactors](https://cdn.myanimelist.net/images/manga/3/176405.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

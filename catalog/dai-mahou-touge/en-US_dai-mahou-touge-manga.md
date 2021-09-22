@@ -1,5 +1,7 @@
 # Dai Mahou Touge
 
+![dai-mahou-touge](https://cdn.myanimelist.net/images/manga/2/180913.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

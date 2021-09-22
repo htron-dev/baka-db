@@ -1,5 +1,7 @@
 # Hanhua Riji
 
+![hanhua-riji](https://cdn.myanimelist.net/images/anime/1042/100435.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 汉化日记

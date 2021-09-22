@@ -1,5 +1,7 @@
 # Hiyokoi (2012)
 
+![hiyokoi-2012](https://cdn.myanimelist.net/images/anime/4/46827.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: ひよ恋

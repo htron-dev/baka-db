@@ -1,5 +1,7 @@
 # Hajimete no Hito
 
+![hajimete-no-hito](https://cdn.myanimelist.net/images/manga/2/179112.jpg)
+
 -   **type**: manga
 -   **original-name**: はじめてのひと
 -   **start-date**: 2015-07-28

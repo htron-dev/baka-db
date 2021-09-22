@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken (TV)
 
+![jo-jo-no-kimyou-na-bouken-tv](https://cdn.myanimelist.net/images/anime/3/40409.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ジョジョの奇妙な冒険

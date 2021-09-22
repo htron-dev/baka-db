@@ -1,5 +1,7 @@
 # Akogare♡Ai Land
 
+![akogare♡-ai-land](https://cdn.myanimelist.net/images/manga/2/121995.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あこがれ ♡ 愛ランド

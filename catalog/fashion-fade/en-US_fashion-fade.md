@@ -1,5 +1,7 @@
 # Fashion Fade
 
+![fashion-fade](https://cdn.myanimelist.net/images/manga/1/37352.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: ファンション・ファデ

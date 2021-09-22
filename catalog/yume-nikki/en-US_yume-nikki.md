@@ -1,5 +1,7 @@
 # Yume Nikki
 
+![yume-nikki](https://cdn.myanimelist.net/images/manga/3/123761.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

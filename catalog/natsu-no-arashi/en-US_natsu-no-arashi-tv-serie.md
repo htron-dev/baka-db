@@ -1,5 +1,7 @@
 # Natsu no Arashi!
 
+![natsu-no-arashi](https://cdn.myanimelist.net/images/anime/5/75256.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 夏のあらし！

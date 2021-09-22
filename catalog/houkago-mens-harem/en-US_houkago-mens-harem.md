@@ -1,5 +1,7 @@
 # Houkago Men's Harem
 
+![houkago-mens-harem](https://cdn.myanimelist.net/images/manga/1/14519.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

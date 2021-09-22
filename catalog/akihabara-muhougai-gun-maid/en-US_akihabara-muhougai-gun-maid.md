@@ -1,5 +1,7 @@
 # Akihabara Muhougai: Gun Maid
 
+![akihabara-muhougai-gun-maid](https://cdn.myanimelist.net/images/manga/1/155144.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

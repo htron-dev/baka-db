@@ -1,5 +1,7 @@
 # Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi
 
+![ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi](https://cdn.myanimelist.net/images/manga/3/230957.jpg)
+
 -   **type**: manga
 -   **original-name**: ポンコツ風紀委員とスカート丈が不適切な JK の話
 -   **start-date**: 2019-03-26

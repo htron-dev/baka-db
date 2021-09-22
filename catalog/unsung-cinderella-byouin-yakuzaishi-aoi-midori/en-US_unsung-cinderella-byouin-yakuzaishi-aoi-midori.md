@@ -1,5 +1,7 @@
 # Unsung Cinderella: Byouin Yakuzaishi Aoi Midori
 
+![unsung-cinderella-byouin-yakuzaishi-aoi-midori](https://cdn.myanimelist.net/images/manga/1/236437.jpg)
+
 -   **type**: manga
 -   **original-name**: アンサングシンデレラ 病院薬剤師 葵みどり
 -   **start-date**: 2018-05-25

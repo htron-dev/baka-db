@@ -1,5 +1,7 @@
 # Dolls Don't Cry
 
+![dolls-dont-cry](https://cdn.myanimelist.net/images/manga/1/79471.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ドールズドントクライ

@@ -1,5 +1,7 @@
 # And2! And2!
 
+![and-2-and-2](https://cdn.myanimelist.net/images/anime/1937/93875.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 安菟！安菟！

@@ -1,5 +1,7 @@
 # Sayuki
 
+![sayuki](https://cdn.myanimelist.net/images/manga/2/35581.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: さゆき

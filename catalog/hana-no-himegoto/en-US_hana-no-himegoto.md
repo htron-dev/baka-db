@@ -1,5 +1,7 @@
 # Hana no Himegoto
 
+![hana-no-himegoto](https://cdn.myanimelist.net/images/manga/2/10159.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 花のヒメゴト

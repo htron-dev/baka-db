@@ -1,5 +1,7 @@
 # Bishoujo Senshi Datta Hito.
 
+![bishoujo-senshi-datta-hito](https://cdn.myanimelist.net/images/manga/3/230703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

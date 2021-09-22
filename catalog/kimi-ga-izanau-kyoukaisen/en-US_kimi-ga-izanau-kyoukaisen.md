@@ -1,5 +1,7 @@
 # Kimi ga Izanau Kyoukaisen
 
+![kimi-ga-izanau-kyoukaisen](https://cdn.myanimelist.net/images/manga/3/162764.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

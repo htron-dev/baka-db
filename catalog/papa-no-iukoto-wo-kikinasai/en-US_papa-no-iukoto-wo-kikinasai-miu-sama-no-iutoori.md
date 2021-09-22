@@ -1,5 +1,7 @@
 # Papa no Iukoto wo Kikinasai!: Miu-sama no Iutoori
 
+![papa-no-iukoto-wo-kikinasai-miu-sama-no-iutoori](https://cdn.myanimelist.net/images/manga/3/177224.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

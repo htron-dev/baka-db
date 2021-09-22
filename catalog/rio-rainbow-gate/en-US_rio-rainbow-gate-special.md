@@ -1,5 +1,7 @@
 # Rio: Rainbow Gate! Special
 
+![rio-rainbow-gate-special](https://cdn.myanimelist.net/images/anime/8/28328.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: リオ レインボーゲート!

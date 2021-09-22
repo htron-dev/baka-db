@@ -1,5 +1,7 @@
 # Nisekoi:
 
+![nisekoi](https://cdn.myanimelist.net/images/anime/13/75587.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ニセコイ:
@@ -22,17 +24,6 @@
 Despite having seemingly quelled the war between their respective gangs, Raku Ichijou and Chitoge Kirisaki still carry on with their fake relationship. Eventually, as Chitoge's perception of Raku slowly changes, she even begins to see him as a little charming.
 
 Chitoge struggles to come to terms with her newfound feelings for Raku, as a new girl joins the slew of Raku's admirers and the competition among those vying for the yakuza heir's attention grows even fiercer. And amidst all this, Raku's search for his first love and the contents of the mysterious sealed locket continues in Nisekoi:, which picks up where the first season left off.
-
-[Source My Anime List]
-
-## Links
-
--   [My Anime list](https://myanimelist.net/anime/27787/Nisekoi_)
--   [Official Site](http://www.nisekoi.jp/)
--   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10859)
--   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16645)
--   [Wikipedia](http://en.wikipedia.org/wiki/Nisekoi)
-    n forced to get along for the sake of maintaining the city's peace. With many more girls popping up his life, all involved with Raku's past somehow, his search for the girl who holds his heart and his promise leads him in more unexpected directions than he expects.
 
 [Source My Anime List]
 

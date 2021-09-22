@@ -1,5 +1,7 @@
 # Okuman Chouja no Hanayome
 
+![okuman-chouja-no-hanayome](https://cdn.myanimelist.net/images/manga/3/247067.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 億万長者の花嫁

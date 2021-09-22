@@ -1,5 +1,7 @@
 # Kanojo, Okarishimasu
 
+![kanojo-okarishimasu](https://cdn.myanimelist.net/images/manga/3/201707.jpg)
+
 -   **type**: manga
 -   **original-name**: 彼女、お借りします
 -   **start-date**: 2017-07-12

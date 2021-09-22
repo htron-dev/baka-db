@@ -1,5 +1,7 @@
 # Fujiwara-kun wa Daitai Tadashii
 
+![fujiwara-kun-wa-daitai-tadashii](https://cdn.myanimelist.net/images/manga/3/183387.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 45

@@ -1,5 +1,7 @@
 # Ikenai Koto Kai?
 
+![ikenai-koto-kai](https://cdn.myanimelist.net/images/manga/2/46277.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: イケナイことかい?

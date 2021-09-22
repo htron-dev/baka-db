@@ -1,5 +1,7 @@
 # Koi wa Tsuzuku yo Dokomademo
 
+![koi-wa-tsuzuku-yo-dokomademo](https://cdn.myanimelist.net/images/manga/1/185180.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 37

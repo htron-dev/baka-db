@@ -1,5 +1,7 @@
 # Calendar Boy
 
+![calendar-boy](https://cdn.myanimelist.net/images/manga/1/24844.jpg)
+
 -   **type**: manga
 -   **original-name**: カレンダー ボーイ
 -   **start-date**: 2009-10-20

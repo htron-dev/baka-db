@@ -1,5 +1,7 @@
 # Doraemon
 
+![doraemon](https://cdn.myanimelist.net/images/manga/2/41460.jpg)
+
 -   **type**: manga
 -   **volumes**: 45
 -   **chapters**: 821
@@ -11,7 +13,6 @@
 
 -   adventure
 -   comedy
-
 -   school
 -   sci-fi
 -   shounen

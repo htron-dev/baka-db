@@ -1,5 +1,7 @@
 # Girl's Underground
 
+![girls-underground](https://cdn.myanimelist.net/images/manga/1/159123.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

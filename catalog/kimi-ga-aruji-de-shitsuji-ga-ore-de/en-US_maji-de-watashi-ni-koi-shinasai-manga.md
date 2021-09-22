@@ -1,5 +1,7 @@
 # Maji de Watashi ni Koi Shinasai!
 
+![maji-de-watashi-ni-koi-shinasai](https://cdn.myanimelist.net/images/manga/3/95425.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 33

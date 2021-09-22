@@ -1,5 +1,7 @@
 # Shishiou no Gekiai Osanazuma
 
+![shishiou-no-gekiai-osanazuma](https://cdn.myanimelist.net/images/manga/3/240759.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 獅子王の激愛幼妻

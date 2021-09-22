@@ -1,5 +1,7 @@
 # Youjo Senki: Sabaku no Pasta Daisakusen
 
+![youjo-senki-sabaku-no-pasta-daisakusen](https://cdn.myanimelist.net/images/anime/1210/117213.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 幼女戦記 砂漠のパスタ大作戦

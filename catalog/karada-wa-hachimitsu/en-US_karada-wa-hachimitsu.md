@@ -1,5 +1,7 @@
 # Karada wa Hachimitsu
 
+![karada-wa-hachimitsu](https://cdn.myanimelist.net/images/manga/2/10324.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カラダはハチミツ

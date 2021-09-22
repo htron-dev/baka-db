@@ -1,5 +1,7 @@
 # Spelunker: Fujimi no Yuusha to Oukoku no Nazo
 
+![spelunker-fujimi-no-yuusha-to-oukoku-no-nazo](https://cdn.myanimelist.net/images/manga/2/149597.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: スペランカー 不死身の勇者と王国の謎

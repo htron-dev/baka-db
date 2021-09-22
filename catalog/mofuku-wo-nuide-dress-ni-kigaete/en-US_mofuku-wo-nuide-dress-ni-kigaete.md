@@ -1,5 +1,7 @@
 # Mofuku wo Nuide, Dress ni Kigaete
 
+![mofuku-wo-nuide-dress-ni-kigaete](https://cdn.myanimelist.net/images/manga/3/199553.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Sono Mukou no Mukougawa
 
+![sono-mukou-no-mukougawa](https://cdn.myanimelist.net/images/manga/4/138525.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 38

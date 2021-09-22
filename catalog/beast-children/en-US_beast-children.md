@@ -1,5 +1,7 @@
 # Beast Children
 
+![beast-children](https://cdn.myanimelist.net/images/manga/1/224193.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Kaijuu no Tokage
 
+![kaijuu-no-tokage](https://cdn.myanimelist.net/images/manga/2/221851.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

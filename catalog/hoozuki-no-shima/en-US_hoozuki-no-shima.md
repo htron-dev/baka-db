@@ -1,5 +1,7 @@
 # Hoozuki no Shima
 
+![hoozuki-no-shima](https://cdn.myanimelist.net/images/manga/2/179297.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

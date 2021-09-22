@@ -1,5 +1,7 @@
 # Shirogane no Ou
 
+![shirogane-no-ou](https://cdn.myanimelist.net/images/manga/3/21428.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

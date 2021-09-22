@@ -1,5 +1,7 @@
 # Okitsune-sama no Kamikakushi: Saikyou Inari ni Do Sukarete Komattemasu
 
+![okitsune-sama-no-kamikakushi-saikyou-inari-ni-do-sukarete-komattemasu](https://cdn.myanimelist.net/images/manga/3/178158.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

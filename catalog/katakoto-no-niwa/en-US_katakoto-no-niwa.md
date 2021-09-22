@@ -1,5 +1,7 @@
 # Katakoto no Niwa
 
+![katakoto-no-niwa](https://cdn.myanimelist.net/images/manga/2/220974.jpg)
+
 -   **type**: manga
 -   **original-name**: カタコトの庭
 -   **start-date**: 2018-10-19

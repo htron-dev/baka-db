@@ -1,5 +1,7 @@
 # Binbou Shimai Monogatari
 
+![binbou-shimai-monogatari](https://cdn.myanimelist.net/images/anime/1959/108682.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 貧乏姉妹物語

@@ -1,5 +1,7 @@
 # Ioujima Gakuen Series
 
+![ioujima-gakuen-series](https://cdn.myanimelist.net/images/manga/1/124987.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 63

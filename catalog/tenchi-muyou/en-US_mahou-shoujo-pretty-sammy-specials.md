@@ -1,5 +1,7 @@
 # Mahou Shoujo Pretty Sammy Specials
 
+![mahou-shoujo-pretty-sammy-specials](https://cdn.myanimelist.net/images/anime/4/14618.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 魔法少女プリティサミー(1996)

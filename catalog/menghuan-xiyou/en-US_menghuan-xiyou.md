@@ -1,5 +1,7 @@
 # Menghuan Xiyou
 
+![menghuan-xiyou](https://cdn.myanimelist.net/images/anime/7/83529.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 梦幻西游之天命之路

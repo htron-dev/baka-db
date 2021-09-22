@@ -1,5 +1,7 @@
 # Oichii tte Yutte yo.
 
+![oichii-tte-yutte-yo](https://cdn.myanimelist.net/images/manga/2/177222.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

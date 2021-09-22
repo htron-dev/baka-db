@@ -1,5 +1,7 @@
 # Waltz wa Shiroi Dress de
 
+![waltz-wa-shiroi-dress-de](https://cdn.myanimelist.net/images/manga/2/59541.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

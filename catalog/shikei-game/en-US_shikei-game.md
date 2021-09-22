@@ -1,5 +1,7 @@
 # Shikei Game
 
+![shikei-game](https://cdn.myanimelist.net/images/manga/2/226361.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

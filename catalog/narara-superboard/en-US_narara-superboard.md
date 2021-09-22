@@ -1,5 +1,7 @@
 # Narara Superboard
 
+![narara-superboard](https://cdn.myanimelist.net/images/anime/7/77220.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 54
 -   **original-name**: 날아라 슈퍼보드

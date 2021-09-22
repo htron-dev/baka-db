@@ -1,5 +1,7 @@
 # Neko Machi
 
+![neko-machi](https://cdn.myanimelist.net/images/anime/9/13999.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 猫町

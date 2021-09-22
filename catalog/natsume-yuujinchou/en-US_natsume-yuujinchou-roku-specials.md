@@ -1,5 +1,7 @@
 # Natsume Yuujinchou Roku Specials
 
+![natsume-yuujinchou-roku-specials](https://cdn.myanimelist.net/images/anime/10/87615.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 夏目友人帳 陸 特別編

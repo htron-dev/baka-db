@@ -1,5 +1,7 @@
 # Psyche Matashitemo
 
+![psyche-matashitemo](https://cdn.myanimelist.net/images/manga/2/153803.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 142

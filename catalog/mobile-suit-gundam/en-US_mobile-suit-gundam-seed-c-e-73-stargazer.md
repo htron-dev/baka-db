@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED C.E.73: Stargazer
 
+![mobile-suit-gundam-seed-c-e-73-stargazer](https://cdn.myanimelist.net/images/anime/1013/91082.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 機動戦士ガンダム SEED C.E.73: Stargazer

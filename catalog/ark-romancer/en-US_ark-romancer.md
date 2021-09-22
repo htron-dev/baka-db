@@ -1,5 +1,7 @@
 # ARK:Romancer
 
+![ark-romancer](https://cdn.myanimelist.net/images/manga/3/140309.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

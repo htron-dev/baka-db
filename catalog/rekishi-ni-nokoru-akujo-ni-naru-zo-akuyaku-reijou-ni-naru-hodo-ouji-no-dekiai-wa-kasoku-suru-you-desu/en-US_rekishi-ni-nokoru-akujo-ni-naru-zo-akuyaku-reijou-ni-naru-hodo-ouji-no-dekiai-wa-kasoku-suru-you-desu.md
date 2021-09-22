@@ -1,5 +1,7 @@
 # Rekishi ni Nokoru Akujo ni Naru zo: Akuyaku Reijou ni Naru hodo Ouji no Dekiai wa Kasoku suru you desu!
 
+![rekishi-ni-nokoru-akujo-ni-naru-zo-akuyaku-reijou-ni-naru-hodo-ouji-no-dekiai-wa-kasoku-suru-you-desu](https://cdn.myanimelist.net/images/manga/1/238941.jpg)
+
 -   **type**: manga
 -   **original-name**: 歴史に残る悪女になるぞ 悪役令嬢になるほど王子の溺愛は加速するようです！
 -   **start-date**: 2020-05-05

@@ -1,5 +1,7 @@
 # Opette
 
+![opette](https://cdn.myanimelist.net/images/anime/1141/108737.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Opette

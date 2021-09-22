@@ -1,5 +1,7 @@
 # Ecchi suru nara Papa Ana de
 
+![ecchi-suru-nara-papa-ana-de](https://cdn.myanimelist.net/images/manga/1/242791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Boku, Otaryman.
 
+![boku-otaryman](https://cdn.myanimelist.net/images/anime/13/19796.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぼく、オタリーマン。

@@ -1,5 +1,7 @@
 # Maestro
 
+![maestro](https://cdn.myanimelist.net/images/manga/3/116595.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: マエストロ

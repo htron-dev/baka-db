@@ -1,5 +1,7 @@
 # Kenketsu
 
+![kenketsu](https://cdn.myanimelist.net/images/anime/1341/99893.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: けんけつ
@@ -19,4 +21,4 @@ A Japanese Red Cross Society commissioned work promoting blood donations by help
 
 -   [My Anime list](https://myanimelist.net/anime/39564/Kenketsu)
 -   [Official Site](http://www.jrc.or.jp/activity/blood/news/190319_005658.html)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B3_(%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B3_%28%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA%29)

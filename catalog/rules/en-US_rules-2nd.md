@@ -1,5 +1,7 @@
 # Rules 2nd
 
+![rules-2nd](https://cdn.myanimelist.net/images/manga/1/178607.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

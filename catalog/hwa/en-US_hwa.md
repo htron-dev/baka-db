@@ -1,5 +1,7 @@
 # HWA
 
+![hwa](https://cdn.myanimelist.net/images/manga/1/4196.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Nyan Koi!
 
+![nyan-koi](https://cdn.myanimelist.net/images/manga/1/52693.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

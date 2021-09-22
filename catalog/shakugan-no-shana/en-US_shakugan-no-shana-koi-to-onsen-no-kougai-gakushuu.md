@@ -1,5 +1,7 @@
 # Shakugan no Shana: Koi to Onsen no Kougai Gakushuu!
 
+![shakugan-no-shana-koi-to-onsen-no-kougai-gakushuu](https://cdn.myanimelist.net/images/anime/8/23258.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 灼眼のシャナ SP 　恋と温泉の校外学習！

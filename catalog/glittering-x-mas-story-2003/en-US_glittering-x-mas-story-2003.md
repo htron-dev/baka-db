@@ -1,5 +1,7 @@
 # Glittering X-Mas Story 2003
 
+![glittering-x-mas-story-2003](https://cdn.myanimelist.net/images/manga/1/26655.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

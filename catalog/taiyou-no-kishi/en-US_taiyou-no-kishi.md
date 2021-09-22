@@ -1,5 +1,7 @@
 # Taiyou no Kishi
 
+![taiyou-no-kishi](https://cdn.myanimelist.net/images/manga/1/26853.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 太陽の騎士

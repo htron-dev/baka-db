@@ -1,5 +1,7 @@
 # Orange Yane no Chiisana Ie
 
+![orange-yane-no-chiisana-ie](https://cdn.myanimelist.net/images/manga/2/53051.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 64

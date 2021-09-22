@@ -1,9 +1,10 @@
 # Animation!
 
+![animation](https://cdn.myanimelist.net/images/anime/8/19405.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: Animation!
-
 -   **rating**: G - All Ages
 
 ## Tags

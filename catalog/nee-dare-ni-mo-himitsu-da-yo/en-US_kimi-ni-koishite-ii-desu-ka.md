@@ -1,5 +1,7 @@
 # Kimi ni Koishite Ii desu ka.
 
+![kimi-ni-koishite-ii-desu-ka](https://cdn.myanimelist.net/images/manga/3/96901.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

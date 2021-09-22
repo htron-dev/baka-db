@@ -1,5 +1,7 @@
 # Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary OVA
 
+![tsuki-wa-higashi-ni-hi-wa-nishi-ni-operation-sanctuary-ova](https://cdn.myanimelist.net/images/anime/2/36177.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 月は東に日は西に〜Operation Sanctuary〜 OVA

@@ -1,5 +1,7 @@
 # The End kara Hajimaru Junai
 
+![the-end-kara-hajimaru-junai](https://cdn.myanimelist.net/images/manga/1/242741.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

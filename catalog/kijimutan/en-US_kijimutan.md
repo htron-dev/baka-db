@@ -1,5 +1,7 @@
 # Kijimutan
 
+![kijimutan](https://cdn.myanimelist.net/images/manga/2/105275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

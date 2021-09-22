@@ -1,5 +1,7 @@
 # Lotus
 
+![lotus](https://cdn.myanimelist.net/images/anime/1285/108147.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: LOTUS

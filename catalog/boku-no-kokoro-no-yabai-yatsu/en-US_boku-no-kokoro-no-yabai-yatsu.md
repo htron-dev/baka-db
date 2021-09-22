@@ -1,5 +1,7 @@
 # Boku no Kokoro no Yabai Yatsu
 
+![boku-no-kokoro-no-yabai-yatsu](https://cdn.myanimelist.net/images/manga/3/213349.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕の心のヤバイやつ
 -   **start-date**: 2018-03-08

@@ -1,5 +1,7 @@
 # Sakurai Die Energy
 
+![sakurai-die-energy](https://cdn.myanimelist.net/images/manga/2/162094.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

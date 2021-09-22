@@ -1,5 +1,7 @@
 # Rocket Princess
 
+![rocket-princess](https://cdn.myanimelist.net/images/manga/1/9973.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

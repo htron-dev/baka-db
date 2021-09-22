@@ -1,5 +1,7 @@
 # Yuki ni Tsubasa: Haru
 
+![yuki-ni-tsubasa-haru](https://cdn.myanimelist.net/images/manga/3/131589.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 71

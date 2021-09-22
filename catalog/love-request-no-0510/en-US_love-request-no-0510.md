@@ -1,5 +1,7 @@
 # Love Request No.0510
 
+![love-request-no-0510](https://cdn.myanimelist.net/images/manga/2/238203.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

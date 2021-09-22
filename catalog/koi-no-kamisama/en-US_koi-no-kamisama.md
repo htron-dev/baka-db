@@ -1,5 +1,7 @@
 # Koi no Kamisama
 
+![koi-no-kamisama](https://cdn.myanimelist.net/images/manga/3/149631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

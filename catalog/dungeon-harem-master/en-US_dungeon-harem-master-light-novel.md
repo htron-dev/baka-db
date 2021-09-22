@@ -1,5 +1,7 @@
 # Dungeon+Harem+Master
 
+![dungeon-harem-master](https://cdn.myanimelist.net/images/manga/2/189953.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 47

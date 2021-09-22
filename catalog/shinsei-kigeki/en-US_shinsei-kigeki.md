@@ -1,5 +1,7 @@
 # Shinsei Kigeki
 
+![shinsei-kigeki](https://cdn.myanimelist.net/images/manga/3/194195.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 71

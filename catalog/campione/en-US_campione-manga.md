@@ -1,5 +1,7 @@
 # Campione!
 
+![campione](https://cdn.myanimelist.net/images/manga/2/152739.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

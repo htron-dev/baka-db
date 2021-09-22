@@ -1,5 +1,7 @@
 # Taberu dake
 
+![taberu-dake](https://cdn.myanimelist.net/images/manga/3/104887.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

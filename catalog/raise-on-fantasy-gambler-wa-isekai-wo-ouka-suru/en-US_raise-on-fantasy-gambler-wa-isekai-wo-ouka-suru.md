@@ -1,5 +1,7 @@
 # Raise On Fantasy: Gambler wa Isekai wo Ouka suru
 
+![raise-on-fantasy-gambler-wa-isekai-wo-ouka-suru](https://cdn.myanimelist.net/images/manga/1/228280.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

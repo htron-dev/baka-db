@@ -1,5 +1,7 @@
 # Ys
 
+![ys](https://cdn.myanimelist.net/images/anime/9/23207.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: Ys イース

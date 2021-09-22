@@ -1,5 +1,7 @@
 # Shimasho.
 
+![shimasho](https://cdn.myanimelist.net/images/manga/2/149909.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

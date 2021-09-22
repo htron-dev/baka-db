@@ -1,5 +1,7 @@
 # The Great Catsby
 
+![the-great-catsby](https://cdn.myanimelist.net/images/manga/3/105607.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 72

@@ -1,5 +1,7 @@
 # Iinari Gohan
 
+![iinari-gohan](https://cdn.myanimelist.net/images/manga/1/161548.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 27

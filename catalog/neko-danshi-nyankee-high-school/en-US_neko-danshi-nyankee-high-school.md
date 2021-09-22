@@ -1,5 +1,7 @@
 # Neko Danshi: Nyankee High School
 
+![neko-danshi-nyankee-high-school](https://cdn.myanimelist.net/images/manga/3/225411.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

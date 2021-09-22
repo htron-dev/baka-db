@@ -1,5 +1,7 @@
 # My Little Pony: Tomodachi wa Mahou
 
+![my-little-pony-tomodachi-wa-mahou](https://cdn.myanimelist.net/images/manga/1/100561.jpg)
+
 -   **type**: manga
 -   **original-name**: マイリトルポニー～トモダチは魔法～
 -   **start-date**: 2013-08-12

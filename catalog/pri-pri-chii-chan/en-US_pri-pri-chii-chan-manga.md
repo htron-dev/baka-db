@@ -1,5 +1,7 @@
 # PriPri Chii-chan!!
 
+![pri-pri-chii-chan](https://cdn.myanimelist.net/images/manga/2/180508.jpg)
+
 -   **type**: manga
 -   **original-name**: プリプリちぃちゃん!!
 -   **start-date**: 2015-03-03

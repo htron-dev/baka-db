@@ -1,5 +1,7 @@
 # Taimadou Gakuen 35 Shiken Shoutai: Another Mission
 
+![taimadou-gakuen-35-shiken-shoutai-another-mission](https://cdn.myanimelist.net/images/manga/2/167513.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

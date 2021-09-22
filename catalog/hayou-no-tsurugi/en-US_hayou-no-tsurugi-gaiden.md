@@ -1,5 +1,7 @@
 # Hayou no Tsurugi Gaiden
 
+![hayou-no-tsurugi-gaiden](https://cdn.myanimelist.net/images/manga/2/128413.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 破妖の剣 外伝
 -   **start-date**: 1990-11-02

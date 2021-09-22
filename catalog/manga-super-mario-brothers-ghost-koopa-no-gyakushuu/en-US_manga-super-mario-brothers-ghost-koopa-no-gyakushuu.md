@@ -1,5 +1,7 @@
 # Manga Super Mario Brothers: Ghost Koopa no Gyakushuu
 
+![manga-super-mario-brothers-ghost-koopa-no-gyakushuu](https://cdn.myanimelist.net/images/manga/2/239180.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

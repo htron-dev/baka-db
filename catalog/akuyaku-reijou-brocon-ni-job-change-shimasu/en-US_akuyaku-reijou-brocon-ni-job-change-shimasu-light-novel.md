@@ -1,5 +1,7 @@
 # Akuyaku Reijou, Brocon ni Job Change Shimasu
 
+![akuyaku-reijou-brocon-ni-job-change-shimasu](https://cdn.myanimelist.net/images/manga/2/240776.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 悪役令嬢、ブラコンにジョブチェンジします
 -   **start-date**: 2019-11-01

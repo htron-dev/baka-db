@@ -1,5 +1,7 @@
 # Ignis no Meiyaku Kishi
 
+![ignis-no-meiyaku-kishi](https://cdn.myanimelist.net/images/manga/2/176593.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 赫竜王〈イグニス〉の盟約騎士

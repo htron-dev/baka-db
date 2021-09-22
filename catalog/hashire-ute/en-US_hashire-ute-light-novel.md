@@ -1,5 +1,7 @@
 # Hashire, Ute!
 
+![hashire-ute](https://cdn.myanimelist.net/images/manga/3/70385.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 116

@@ -1,5 +1,7 @@
 # Bakuman. 3rd Season Specials
 
+![bakuman-3rd-season-specials](https://cdn.myanimelist.net/images/anime/2/62061.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: バクマン。

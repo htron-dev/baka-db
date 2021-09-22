@@ -1,5 +1,7 @@
 # Kantai Collection: Tomarigi no Chinjufu
 
+![kantai-collection-tomarigi-no-chinjufu](https://cdn.myanimelist.net/images/manga/2/202183.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

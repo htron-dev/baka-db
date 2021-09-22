@@ -1,5 +1,7 @@
 # Akuma na Koibito
 
+![akuma-na-koibito](https://cdn.myanimelist.net/images/manga/3/152807.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 悪魔な恋人

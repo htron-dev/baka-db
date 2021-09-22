@@ -1,5 +1,7 @@
 # Eniro\*Cinderella
 
+![eniro-cinderella](https://cdn.myanimelist.net/images/manga/1/26456.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 艶色\*シンデレラ

@@ -1,5 +1,7 @@
 # Asa mo, Hiru mo, Yoru mo.
 
+![asa-mo-hiru-mo-yoru-mo](https://cdn.myanimelist.net/images/manga/2/130557.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

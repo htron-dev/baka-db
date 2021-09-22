@@ -1,5 +1,7 @@
 # K Side:Blue
 
+![k-side-blue](https://cdn.myanimelist.net/images/manga/3/82948.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

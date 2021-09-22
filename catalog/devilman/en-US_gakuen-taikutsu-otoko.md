@@ -1,5 +1,7 @@
 # Gakuen Taikutsu Otoko
 
+![gakuen-taikutsu-otoko](https://cdn.myanimelist.net/images/manga/3/29080.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

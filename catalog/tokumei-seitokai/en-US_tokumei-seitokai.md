@@ -1,5 +1,7 @@
 # Tokumei Seitokai
 
+![tokumei-seitokai](https://cdn.myanimelist.net/images/manga/3/177344.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 特命生徒会
 -   **start-date**: 2016-06-01

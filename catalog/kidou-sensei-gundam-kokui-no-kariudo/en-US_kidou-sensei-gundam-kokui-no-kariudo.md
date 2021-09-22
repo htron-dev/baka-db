@@ -1,5 +1,7 @@
 # Kidou Sensei Gundam: Kokui no Kariudo
 
+![kidou-sensei-gundam-kokui-no-kariudo](https://cdn.myanimelist.net/images/manga/2/174585.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

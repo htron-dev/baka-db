@@ -1,5 +1,7 @@
 # Koisuru Harinezumi
 
+![koisuru-harinezumi](https://cdn.myanimelist.net/images/manga/1/165651.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Suiryuu Kitouden
 
+![suiryuu-kitouden](https://cdn.myanimelist.net/images/manga/2/19347.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

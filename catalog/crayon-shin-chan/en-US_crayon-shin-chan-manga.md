@@ -1,5 +1,7 @@
 # Crayon Shin-chan
 
+![crayon-shin-chan](https://cdn.myanimelist.net/images/manga/5/165300.jpg)
+
 -   **type**: manga
 -   **volumes**: 50
 -   **chapters**: 1126

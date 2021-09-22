@@ -1,5 +1,7 @@
 # Kyou kara Ω ni Narimashita.
 
+![kyou-kara-ω-ni-narimashita](https://cdn.myanimelist.net/images/manga/2/220670.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

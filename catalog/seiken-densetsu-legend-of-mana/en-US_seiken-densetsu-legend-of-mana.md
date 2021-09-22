@@ -1,5 +1,7 @@
 # Seiken Densetsu: Legend of Mana
 
+![seiken-densetsu-legend-of-mana](https://cdn.myanimelist.net/images/manga/3/5612.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

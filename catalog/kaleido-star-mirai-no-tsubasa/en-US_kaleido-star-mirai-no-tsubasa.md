@@ -1,5 +1,7 @@
 # Kaleido Star: Mirai no Tsubasa
 
+![kaleido-star-mirai-no-tsubasa](https://cdn.myanimelist.net/images/manga/3/133055.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: カレイドスター 〜未来への翼〜

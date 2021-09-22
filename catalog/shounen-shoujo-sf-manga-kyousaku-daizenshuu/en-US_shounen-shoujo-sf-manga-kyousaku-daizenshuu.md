@@ -1,5 +1,7 @@
 # Shounen/Shoujo SF Manga Kyousaku Daizenshuu
 
+![shounen-shoujo-sf-manga-kyousaku-daizenshuu](https://cdn.myanimelist.net/images/manga/1/167189.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **original-name**: 少年／少女 SF マンガ競作大全集

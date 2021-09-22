@@ -1,5 +1,7 @@
 # Danmatsu no Millennion
 
+![danmatsu-no-millennion](https://cdn.myanimelist.net/images/manga/3/176324.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

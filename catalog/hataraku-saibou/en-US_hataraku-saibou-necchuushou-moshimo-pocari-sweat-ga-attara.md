@@ -1,5 +1,7 @@
 # Hataraku Saibou: Necchuushou - Moshimo Pocari Sweat ga Attara
 
+![hataraku-saibou-necchuushou-moshimo-pocari-sweat-ga-attara](https://cdn.myanimelist.net/images/anime/1070/102533.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ポカリスエット web movie ｜はたらく細胞第 11.5 話熱中症～もしもポカリスエットがあったら～

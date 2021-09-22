@@ -1,5 +1,7 @@
 # Mikubon
 
+![mikubon](https://cdn.myanimelist.net/images/manga/1/175480.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # 6
 
+![6](https://cdn.myanimelist.net/images/manga/2/167691.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 6 -ゼクス-

@@ -1,5 +1,7 @@
 # Kirarin☆Revolution
 
+![kirarin☆-revolution](https://cdn.myanimelist.net/images/anime/1796/94726.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 153
 -   **original-name**: きらりん ☆ レボリューション

@@ -1,5 +1,7 @@
 # Denpa-teki na Kanojo
 
+![denpa-teki-na-kanojo](https://cdn.myanimelist.net/images/anime/1722/111810.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 電波的な彼女

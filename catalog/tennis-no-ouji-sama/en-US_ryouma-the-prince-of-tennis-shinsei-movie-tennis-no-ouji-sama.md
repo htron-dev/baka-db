@@ -1,5 +1,7 @@
 # Ryouma! The Prince of Tennis Shinsei Movie: Tennis no Ouji-sama
 
+![ryouma-the-prince-of-tennis-shinsei-movie-tennis-no-ouji-sama](https://cdn.myanimelist.net/images/anime/1737/117734.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: リョーマ！The Prince of Tennis 新生劇場版テニスの王子様

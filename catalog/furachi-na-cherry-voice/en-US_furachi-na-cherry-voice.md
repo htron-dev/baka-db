@@ -1,5 +1,7 @@
 # Furachi na Cherry Voice
 
+![furachi-na-cherry-voice](https://cdn.myanimelist.net/images/manga/1/85821.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

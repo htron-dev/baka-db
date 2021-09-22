@@ -1,5 +1,7 @@
 # Hulaing Babies Aratame: Staying Babies
 
+![hulaing-babies-aratame-staying-babies](https://cdn.myanimelist.net/images/anime/1331/107858.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: フライングベイビーズ改め ステイングベイビーズ

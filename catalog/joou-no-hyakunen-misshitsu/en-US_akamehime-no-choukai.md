@@ -1,5 +1,7 @@
 # Akamehime no Choukai
 
+![akamehime-no-choukai](https://cdn.myanimelist.net/images/manga/2/208220.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

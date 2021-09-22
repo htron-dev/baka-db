@@ -1,5 +1,7 @@
 # Chibi demo Ii yo.
 
+![chibi-demo-ii-yo](https://cdn.myanimelist.net/images/manga/3/213574.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

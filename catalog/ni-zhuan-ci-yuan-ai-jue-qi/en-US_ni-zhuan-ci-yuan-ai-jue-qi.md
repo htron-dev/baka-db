@@ -1,5 +1,7 @@
 # Ni Zhuan Ci Yuan: AI Jue Qi
 
+![ni-zhuan-ci-yuan-ai-jue-qi](https://cdn.myanimelist.net/images/anime/1021/105729.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 逆转次元：AI 崛起

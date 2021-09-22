@@ -1,5 +1,7 @@
 # Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Spin-off sareta Ken
 
+![ore-ga-ojousama-gakkou-ni-shomin-sample-toshite-spin-off-sareta-ken](https://cdn.myanimelist.net/images/manga/1/173130.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

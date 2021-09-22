@@ -1,5 +1,7 @@
 # Lunatic Moon
 
+![lunatic-moon](https://cdn.myanimelist.net/images/manga/2/164509.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: ルナティック・ムーン

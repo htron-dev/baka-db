@@ -1,5 +1,7 @@
 # Matsuda-ke Curry Battle
 
+![matsuda-ke-curry-battle](https://cdn.myanimelist.net/images/anime/1665/95448.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 松田家カレーバトル

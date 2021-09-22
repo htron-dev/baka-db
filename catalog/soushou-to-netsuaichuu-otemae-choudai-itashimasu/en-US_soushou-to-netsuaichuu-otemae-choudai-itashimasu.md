@@ -1,5 +1,7 @@
 # Soushou to Netsuaichuu: Otemae Choudai Itashimasu!?
 
+![soushou-to-netsuaichuu-otemae-choudai-itashimasu](https://cdn.myanimelist.net/images/manga/2/192211.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

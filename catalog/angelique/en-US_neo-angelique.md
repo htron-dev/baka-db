@@ -1,5 +1,7 @@
 # Neo Angelique
 
+![neo-angelique](https://cdn.myanimelist.net/images/manga/5/24609.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

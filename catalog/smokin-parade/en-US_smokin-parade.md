@@ -1,5 +1,7 @@
 # Smokin' Parade
 
+![smokin-parade](https://cdn.myanimelist.net/images/manga/2/174453.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 49

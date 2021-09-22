@@ -1,5 +1,7 @@
 # Anata ni Sasageru Akai Bara
 
+![anata-ni-sasageru-akai-bara](https://cdn.myanimelist.net/images/manga/1/238945.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

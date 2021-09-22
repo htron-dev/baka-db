@@ -1,5 +1,7 @@
 # Fairy Tail: City Hero
 
+![fairy-tail-city-hero](https://cdn.myanimelist.net/images/manga/1/219511.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 46

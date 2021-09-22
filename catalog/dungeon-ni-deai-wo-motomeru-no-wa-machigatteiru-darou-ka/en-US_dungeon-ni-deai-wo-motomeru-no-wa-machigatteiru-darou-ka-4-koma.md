@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka 4-koma
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-4-koma](https://cdn.myanimelist.net/images/manga/2/156619.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Turning Mecard W: Vandyne-ui Bimil
 
+![turning-mecard-w-vandyne-ui-bimil](https://cdn.myanimelist.net/images/anime/1728/91954.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: 터닝메카드 W 반다인의 비밀
@@ -12,7 +14,6 @@
 -   adventure
 -   cars
 -   game
-
 -   mecha
 
 ## Sinopse

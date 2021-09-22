@@ -1,5 +1,7 @@
 # Narue no Sekai
 
+![narue-no-sekai](https://cdn.myanimelist.net/images/anime/7/19048.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 成恵の世界

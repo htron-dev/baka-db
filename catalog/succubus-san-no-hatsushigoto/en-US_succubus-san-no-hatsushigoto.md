@@ -1,5 +1,7 @@
 # Succubus-san no Hatsushigoto.
 
+![succubus-san-no-hatsushigoto](https://cdn.myanimelist.net/images/manga/1/228029.jpg)
+
 -   **type**: manga
 -   **original-name**: サキュバスさんのはつしごと。
 -   **start-date**: 2016-10-22

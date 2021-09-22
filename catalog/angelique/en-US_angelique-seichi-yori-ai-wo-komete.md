@@ -1,5 +1,7 @@
 # Angelique: Seichi yori Ai wo Komete
 
+![angelique-seichi-yori-ai-wo-komete](https://cdn.myanimelist.net/images/anime/4/55963.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: アンジェリーク　聖地より愛をこめて

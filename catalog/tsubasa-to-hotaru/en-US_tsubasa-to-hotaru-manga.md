@@ -1,5 +1,7 @@
 # Tsubasa to Hotaru
 
+![tsubasa-to-hotaru](https://cdn.myanimelist.net/images/manga/1/168284.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 55

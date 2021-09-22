@@ -1,5 +1,7 @@
 # Kareshi Kanojo no Jijou
 
+![kareshi-kanojo-no-jijou](https://cdn.myanimelist.net/images/anime/1222/108880.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 彼氏彼女の事情

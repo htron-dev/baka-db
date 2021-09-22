@@ -1,5 +1,7 @@
 # Tomino no Jigoku
 
+![tomino-no-jigoku](https://cdn.myanimelist.net/images/manga/1/232340.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

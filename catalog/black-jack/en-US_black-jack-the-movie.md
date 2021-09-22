@@ -1,5 +1,7 @@
 # Black Jack the Movie
 
+![black-jack-the-movie](https://cdn.myanimelist.net/images/anime/6/76031.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブラック･ジャック 劇場版

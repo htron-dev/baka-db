@@ -1,5 +1,7 @@
 # Amon Saga
 
+![amon-saga](https://cdn.myanimelist.net/images/anime/1240/114477.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アモン・サーガ

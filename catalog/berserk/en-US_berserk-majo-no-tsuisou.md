@@ -1,5 +1,7 @@
 # Berserk: Majo no Tsuisou
 
+![berserk-majo-no-tsuisou](https://cdn.myanimelist.net/images/anime/13/86045.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ベルセルク 魔女の追想

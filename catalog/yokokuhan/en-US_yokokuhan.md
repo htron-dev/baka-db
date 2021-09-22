@@ -1,5 +1,7 @@
 # Yokokuhan
 
+![yokokuhan](https://cdn.myanimelist.net/images/manga/3/70211.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

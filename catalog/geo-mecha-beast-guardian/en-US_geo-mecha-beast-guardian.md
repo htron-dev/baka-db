@@ -1,5 +1,7 @@
 # Geo Mecha: Beast Guardian
 
+![geo-mecha-beast-guardian](https://cdn.myanimelist.net/images/anime/1905/115251.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 지오메카 비스트가디언
@@ -11,7 +13,6 @@
 
 -   action
 -   sci-fi
-
 -   mecha
 
 ## Sinopse

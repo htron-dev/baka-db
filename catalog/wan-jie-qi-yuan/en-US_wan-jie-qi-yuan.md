@@ -1,5 +1,7 @@
 # Wan Jie Qi Yuan
 
+![wan-jie-qi-yuan](https://cdn.myanimelist.net/images/anime/1664/112449.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 万界奇缘

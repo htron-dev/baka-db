@@ -1,5 +1,7 @@
 # Jakusansei Million Arthur Specials
 
+![jakusansei-million-arthur-specials](https://cdn.myanimelist.net/images/anime/10/81339.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 弱酸性ミリオンアーサー 配信決定記念 CM

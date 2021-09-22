@@ -1,5 +1,7 @@
 # Zuihou de Zhaohuan Shi
 
+![zuihou-de-zhaohuan-shi](https://cdn.myanimelist.net/images/anime/1622/107435.jpg)
+
 -   **type**: ona
 -   **original-name**: 最后的召唤师
 -   **rating**: None

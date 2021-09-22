@@ -1,5 +1,7 @@
 # Iguana no Musume
 
+![iguana-no-musume](https://cdn.myanimelist.net/images/manga/5/43269.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

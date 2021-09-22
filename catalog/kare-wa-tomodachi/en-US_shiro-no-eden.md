@@ -1,5 +1,7 @@
 # Shiro no Eden
 
+![shiro-no-eden](https://cdn.myanimelist.net/images/manga/1/36542.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

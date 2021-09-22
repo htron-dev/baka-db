@@ -1,5 +1,7 @@
 # Shimoeda-san Chi no Akarui Shokutaku
 
+![shimoeda-san-chi-no-akarui-shokutaku](https://cdn.myanimelist.net/images/manga/1/117773.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

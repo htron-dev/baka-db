@@ -1,5 +1,7 @@
 # Hetamen
 
+![hetamen](https://cdn.myanimelist.net/images/manga/4/127421.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

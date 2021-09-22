@@ -1,5 +1,7 @@
 # Bousou-kei Tsundere wa Itta! "Kakugo Shinasai, Kono Donkan Yarou"
 
+![bousou-kei-tsundere-wa-itta-kakugo-shinasai-kono-donkan-yarou](https://cdn.myanimelist.net/images/manga/3/169785.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

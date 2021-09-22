@@ -1,5 +1,7 @@
 # Kid's Log
 
+![kids-log](https://cdn.myanimelist.net/images/manga/3/32766.jpg)
+
 -   **type**: manga
 -   **original-name**: キッズログ
 

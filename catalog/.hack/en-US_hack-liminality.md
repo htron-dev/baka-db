@@ -1,5 +1,7 @@
 # .hack//Liminality
 
+![hack-liminality](https://cdn.myanimelist.net/images/anime/7/23079.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: .hack//LIMINALITY

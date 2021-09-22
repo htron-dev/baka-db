@@ -1,5 +1,7 @@
 # Kakkun Cafe
 
+![kakkun-cafe](https://cdn.myanimelist.net/images/anime/9/61157.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カッくんカフェ

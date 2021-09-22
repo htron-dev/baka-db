@@ -1,5 +1,7 @@
 # Futari de Koi wo Suru Riyuu
 
+![futari-de-koi-wo-suru-riyuu](https://cdn.myanimelist.net/images/manga/1/221389.jpg)
+
 -   **type**: manga
 -   **original-name**: ふたりで恋をする理由
 -   **start-date**: 2018-11-20

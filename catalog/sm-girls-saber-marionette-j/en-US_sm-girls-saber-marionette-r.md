@@ -1,5 +1,7 @@
 # SM Girls: Saber Marionette R
 
+![sm-girls-saber-marionette-r](https://cdn.myanimelist.net/images/manga/2/157909.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

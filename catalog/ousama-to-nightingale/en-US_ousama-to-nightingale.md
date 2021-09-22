@@ -1,5 +1,7 @@
 # Ousama to Nightingale
 
+![ousama-to-nightingale](https://cdn.myanimelist.net/images/anime/5/83055.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 王様とナイチンゲール
@@ -18,4 +20,4 @@ A stop-motion adaptation of Hans Christian Anderson's The Nightingale.
 
 -   [My Anime list](https://myanimelist.net/anime/34458/Ousama_to_Nightingale)
 -   [Official Site](http://www.gakken.co.jp/sp/campaign/70th/archives/)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Nightingale_(fairy_tale)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Nightingale_%28fairy_tale%29)

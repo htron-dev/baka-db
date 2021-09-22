@@ -1,5 +1,7 @@
 # Sorairo Lemon to Mayoi Neko
 
+![sorairo-lemon-to-mayoi-neko](https://cdn.myanimelist.net/images/manga/3/204849.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

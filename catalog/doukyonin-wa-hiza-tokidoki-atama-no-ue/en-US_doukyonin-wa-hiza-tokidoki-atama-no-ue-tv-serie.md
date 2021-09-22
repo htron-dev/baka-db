@@ -1,5 +1,7 @@
 # Doukyonin wa Hiza, Tokidoki, Atama no Ue.
 
+![doukyonin-wa-hiza-tokidoki-atama-no-ue](https://cdn.myanimelist.net/images/anime/1251/99191.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 同居人はひざ、時々、頭のうえ。

@@ -1,5 +1,7 @@
 # Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi
 
+![mob-psycho-100-dai-ikkai-rei-toka-soudansho-ian-ryokou-kokoro-mitasu-iyashi-no-tabi](https://cdn.myanimelist.net/images/anime/1528/117108.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: モブサイコ 100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅

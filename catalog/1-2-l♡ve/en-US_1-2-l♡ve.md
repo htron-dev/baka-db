@@ -1,5 +1,7 @@
 # 1/2 L♡VE!
 
+![1-2-l♡ve](https://cdn.myanimelist.net/images/manga/3/111051.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

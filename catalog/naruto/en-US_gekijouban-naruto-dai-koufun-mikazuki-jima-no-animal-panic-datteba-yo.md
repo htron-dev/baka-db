@@ -1,5 +1,7 @@
 # Gekijouban Naruto: Dai Koufun! Mikazuki-jima no Animal Panic Datteba yo
 
+![gekijouban-naruto-dai-koufun-mikazuki-jima-no-animal-panic-datteba-yo](https://cdn.myanimelist.net/images/manga/1/228880.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 劇場版 NARUTO 大興奮!みかづき島のアニマル騒動〈パニック〉だってばよ

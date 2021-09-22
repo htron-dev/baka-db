@@ -1,5 +1,7 @@
 # Man with a Mission Animated Short Movie
 
+![man-with-a-mission-animated-short-movie](https://cdn.myanimelist.net/images/anime/1368/107587.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: MAN WITH A MISSION アニメティザー ショートムービー

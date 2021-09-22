@@ -1,5 +1,7 @@
 # Kimi no Tonari de Seishunchuu.
 
+![kimi-no-tonari-de-seishunchuu](https://cdn.myanimelist.net/images/manga/2/148945.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 39

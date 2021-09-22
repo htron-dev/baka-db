@@ -1,5 +1,7 @@
 # Before Daylight Love
 
+![before-daylight-love](https://cdn.myanimelist.net/images/manga/3/81820.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

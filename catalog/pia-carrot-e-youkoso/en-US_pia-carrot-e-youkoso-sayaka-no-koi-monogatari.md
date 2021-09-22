@@ -1,5 +1,7 @@
 # Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari
 
+![pia-carrot-e-youkoso-sayaka-no-koi-monogatari](https://cdn.myanimelist.net/images/anime/9/33511.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Pia キャロットへようこそ！！劇場版～さやかの恋物語～

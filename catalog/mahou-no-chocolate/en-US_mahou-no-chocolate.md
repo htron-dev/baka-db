@@ -1,5 +1,7 @@
 # Mahou no Chocolate
 
+![mahou-no-chocolate](https://cdn.myanimelist.net/images/anime/1055/112163.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔法のチョコレート

@@ -1,5 +1,7 @@
 # Kori no Hanatori
 
+![kori-no-hanatori](https://cdn.myanimelist.net/images/manga/1/205479.jpg)
+
 -   **type**: manga
 -   **original-name**: 狐狸の花盗り
 -   **start-date**: 2017-07-24

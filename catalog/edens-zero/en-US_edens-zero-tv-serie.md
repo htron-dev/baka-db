@@ -1,5 +1,7 @@
 # Edens Zero
 
+![edens-zero](https://cdn.myanimelist.net/images/anime/1011/111811.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: EDENS ZERO

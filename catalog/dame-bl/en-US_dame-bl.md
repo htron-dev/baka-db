@@ -1,5 +1,7 @@
 # Dame BL
 
+![dame-bl](https://cdn.myanimelist.net/images/manga/1/70183.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

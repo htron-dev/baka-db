@@ -1,5 +1,7 @@
 # Minami-ke Betsubara
 
+![minami-ke-betsubara](https://cdn.myanimelist.net/images/anime/10/25454.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: みなみけ べつばら

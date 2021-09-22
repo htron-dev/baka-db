@@ -1,5 +1,7 @@
 # Kyojin no Hoshi
 
+![kyojin-no-hoshi](https://cdn.myanimelist.net/images/anime/12/59519.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 182
 -   **original-name**: 巨人の星

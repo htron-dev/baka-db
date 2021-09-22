@@ -1,5 +1,7 @@
 # Ao no Deracine
 
+![ao-no-deracine](https://cdn.myanimelist.net/images/manga/3/9399.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Kikenai Yoru wa Nai
 
+![kikenai-yoru-wa-nai](https://cdn.myanimelist.net/images/manga/3/236346.jpg)
+
 -   **type**: manga
 -   **original-name**: 聴けない夜は亡い
 -   **start-date**: 2019-09-09

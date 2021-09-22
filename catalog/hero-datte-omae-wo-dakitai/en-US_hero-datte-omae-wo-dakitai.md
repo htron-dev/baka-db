@@ -1,5 +1,7 @@
 # Hero datte... Omae wo Dakitai.
 
+![hero-datte-omae-wo-dakitai](https://cdn.myanimelist.net/images/manga/2/235413.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

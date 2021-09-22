@@ -1,5 +1,7 @@
 # Honey kids
 
+![honey-kids](https://cdn.myanimelist.net/images/manga/1/11008.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

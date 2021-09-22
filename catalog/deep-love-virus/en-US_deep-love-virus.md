@@ -1,5 +1,7 @@
 # Deep Love Virus
 
+![deep-love-virus](https://cdn.myanimelist.net/images/manga/3/4267.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

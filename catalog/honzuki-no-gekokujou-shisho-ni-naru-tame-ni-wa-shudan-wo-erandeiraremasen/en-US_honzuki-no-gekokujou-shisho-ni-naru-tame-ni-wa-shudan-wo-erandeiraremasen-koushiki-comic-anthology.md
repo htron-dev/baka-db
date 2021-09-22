@@ -1,5 +1,7 @@
 # Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Koushiki Comic Anthology
 
+![honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-koushiki-comic-anthology](https://cdn.myanimelist.net/images/manga/3/248093.jpg)
+
 -   **type**: manga
 -   **original-name**: 本好きの下剋上～司書になるためには手段を選んでいられません～ 公式コミックアンソロジー
 -   **start-date**: 2019-07-01

@@ -1,5 +1,7 @@
 # Angelic Runes
 
+![angelic-runes](https://cdn.myanimelist.net/images/manga/1/15303.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

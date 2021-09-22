@@ -1,5 +1,7 @@
 # Ayashi Kazokukeikaku
 
+![ayashi-kazokukeikaku](https://cdn.myanimelist.net/images/manga/3/79347.jpg)
+
 -   **type**: manga
 -   **original-name**: あやしい家族計画
 

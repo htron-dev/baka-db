@@ -1,5 +1,7 @@
 # Saigo no Kuushuu: Kumagaya
 
+![saigo-no-kuushuu-kumagaya](https://cdn.myanimelist.net/images/anime/7/84683.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 最後の空襲 KUMAGAYA

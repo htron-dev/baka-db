@@ -1,5 +1,7 @@
 # Naisho no Futari
 
+![naisho-no-futari](https://cdn.myanimelist.net/images/manga/1/132343.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 内緒のふたり

@@ -1,5 +1,7 @@
 # Asobi Asobase Specials
 
+![asobi-asobase-specials](https://cdn.myanimelist.net/images/anime/1270/97437.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: あそびあそばせ

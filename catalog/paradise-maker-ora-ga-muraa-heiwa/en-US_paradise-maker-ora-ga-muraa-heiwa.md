@@ -1,5 +1,7 @@
 # Paradise Maker: Ora ga Muraa Heiwa
 
+![paradise-maker-ora-ga-muraa-heiwa](https://cdn.myanimelist.net/images/manga/1/158727.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

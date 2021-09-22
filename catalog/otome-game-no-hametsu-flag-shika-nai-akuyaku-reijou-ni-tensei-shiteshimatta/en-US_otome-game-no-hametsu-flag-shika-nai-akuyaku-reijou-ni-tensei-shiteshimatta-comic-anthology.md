@@ -1,5 +1,7 @@
 # Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... Comic Anthology
 
+![otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-comic-anthology](https://cdn.myanimelist.net/images/manga/1/234780.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… コミックアンソロジー
 -   **start-date**: 2020-03-25

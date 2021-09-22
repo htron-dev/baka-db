@@ -1,5 +1,7 @@
 # Burutabu-chan
 
+![burutabu-chan](https://cdn.myanimelist.net/images/anime/2/79324.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ぶるたぶちゃん
 -   **rating**: PG-13 - Teens 13 or older

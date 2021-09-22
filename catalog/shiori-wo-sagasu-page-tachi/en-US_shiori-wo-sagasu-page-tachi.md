@@ -1,5 +1,7 @@
 # Shiori wo Sagasu Page-tachi
 
+![shiori-wo-sagasu-page-tachi](https://cdn.myanimelist.net/images/manga/2/206831.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

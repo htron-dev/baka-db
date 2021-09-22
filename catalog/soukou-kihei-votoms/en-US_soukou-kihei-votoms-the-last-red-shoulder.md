@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms: The Last Red Shoulder
 
+![soukou-kihei-votoms-the-last-red-shoulder](https://cdn.myanimelist.net/images/anime/8/24536.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 装甲騎兵ボトムズ　ザ・ラストレッドショルダー

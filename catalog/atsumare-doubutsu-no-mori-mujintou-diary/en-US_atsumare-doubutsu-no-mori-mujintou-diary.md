@@ -1,5 +1,7 @@
 # Atsumare Doubutsu no Mori: Mujintou Diary
 
+![atsumare-doubutsu-no-mori-mujintou-diary](https://cdn.myanimelist.net/images/manga/1/247629.jpg)
+
 -   **type**: manga
 -   **original-name**: あつまれ　どうぶつの森　～無人島 Diary ～
 -   **start-date**: 2020-05-15
@@ -8,7 +10,6 @@
 
 -   comedy
 -   fantasy
-
 -   slice-of-life
 
 ## Authors

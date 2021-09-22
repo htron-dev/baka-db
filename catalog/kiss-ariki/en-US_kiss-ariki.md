@@ -1,5 +1,7 @@
 # Kiss Ariki.
 
+![kiss-ariki](https://cdn.myanimelist.net/images/manga/2/75443.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

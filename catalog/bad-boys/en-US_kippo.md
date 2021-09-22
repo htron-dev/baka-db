@@ -1,5 +1,7 @@
 # Kippo
 
+![kippo](https://cdn.myanimelist.net/images/manga/1/139533.jpg)
+
 -   **type**: manga
 -   **original-name**: キッポ
 -   **start-date**: 2008-08-22

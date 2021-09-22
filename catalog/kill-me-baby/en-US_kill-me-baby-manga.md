@@ -1,5 +1,7 @@
 # Kill Me Baby
 
+![kill-me-baby](https://cdn.myanimelist.net/images/manga/1/158552.jpg)
+
 -   **type**: manga
 -   **original-name**: キルミーベイベー
 -   **start-date**: 2008-07-27

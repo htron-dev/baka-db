@@ -1,5 +1,7 @@
 # Rockman: Dr. Wily no Inbou
 
+![rockman-dr-wily-no-inbou](https://cdn.myanimelist.net/images/manga/2/115917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

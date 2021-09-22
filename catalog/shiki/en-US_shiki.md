@@ -1,5 +1,7 @@
 # Shiki
 
+![shiki](https://cdn.myanimelist.net/images/manga/3/189507.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 56

@@ -1,5 +1,7 @@
 # Hatsukoi no Katachi wa △
 
+![hatsukoi-no-katachi-wa-△](https://cdn.myanimelist.net/images/manga/3/192631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

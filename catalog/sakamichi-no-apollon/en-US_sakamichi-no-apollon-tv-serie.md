@@ -1,5 +1,7 @@
 # Sakamichi no Apollon
 
+![sakamichi-no-apollon](https://cdn.myanimelist.net/images/anime/12/79781.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 坂道のアポロン

@@ -1,5 +1,7 @@
 # Eightman After
 
+![eightman-after](https://cdn.myanimelist.net/images/anime/1150/92809.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: エイトマン AFTER

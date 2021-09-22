@@ -1,5 +1,7 @@
 # Azusa, Otetsudai Shimasu!
 
+![azusa-otetsudai-shimasu](https://cdn.myanimelist.net/images/anime/13/18625.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アズサ、お手伝いします！

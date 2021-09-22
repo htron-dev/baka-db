@@ -1,5 +1,7 @@
 # Rock Me Amadeus
 
+![rock-me-amadeus](https://cdn.myanimelist.net/images/manga/3/151716.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

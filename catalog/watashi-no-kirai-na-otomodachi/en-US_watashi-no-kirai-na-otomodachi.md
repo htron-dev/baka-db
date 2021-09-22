@@ -1,5 +1,7 @@
 # Watashi no Kirai na Otomodachi
 
+![watashi-no-kirai-na-otomodachi](https://cdn.myanimelist.net/images/manga/2/152026.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

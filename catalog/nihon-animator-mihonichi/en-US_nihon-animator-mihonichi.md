@@ -1,5 +1,7 @@
 # Nihon Animator Mihonichi
 
+![nihon-animator-mihonichi](https://cdn.myanimelist.net/images/anime/11/71901.jpg)
+
 -   **type**: ona
 -   **episodes**: 35
 -   **original-name**: 日本アニメ（ーター）見本市

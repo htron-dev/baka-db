@@ -1,5 +1,7 @@
 # Manga Jinbutsushi
 
+![manga-jinbutsushi](https://cdn.myanimelist.net/images/anime/13/59663.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 365
 -   **original-name**: マンガ人物史

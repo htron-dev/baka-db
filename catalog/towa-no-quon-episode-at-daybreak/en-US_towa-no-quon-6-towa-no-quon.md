@@ -1,5 +1,7 @@
 # Towa no Quon 6: Towa no Quon
 
+![towa-no-quon-6-towa-no-quon](https://cdn.myanimelist.net/images/anime/10/35131.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トワノクオン 第６章 永久の久遠

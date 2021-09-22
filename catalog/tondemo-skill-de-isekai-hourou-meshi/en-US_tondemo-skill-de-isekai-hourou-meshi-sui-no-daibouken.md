@@ -1,5 +1,7 @@
 # Tondemo Skill de Isekai Hourou Meshi: Sui no Daibouken
 
+![tondemo-skill-de-isekai-hourou-meshi-sui-no-daibouken](https://cdn.myanimelist.net/images/manga/3/215071.jpg)
+
 -   **type**: manga
 -   **original-name**: とんでもスキルで異世界放浪メシ スイの大冒険
 -   **start-date**: 2018-08-24

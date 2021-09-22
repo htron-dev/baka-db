@@ -1,5 +1,7 @@
 # Chuuji-kun wo Dareka Tomete!
 
+![chuuji-kun-wo-dareka-tomete](https://cdn.myanimelist.net/images/manga/3/169397.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

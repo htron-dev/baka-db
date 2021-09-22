@@ -1,5 +1,7 @@
 # MeruPuri: Märchen☆Prince
 
+![meru-puri-marchen☆-prince](https://cdn.myanimelist.net/images/manga/1/160609.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

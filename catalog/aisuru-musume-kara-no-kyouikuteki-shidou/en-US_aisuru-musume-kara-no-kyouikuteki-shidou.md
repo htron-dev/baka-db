@@ -1,5 +1,7 @@
 # Aisuru Musume kara no Kyouikuteki Shidou
 
+![aisuru-musume-kara-no-kyouikuteki-shidou](https://cdn.myanimelist.net/images/manga/2/122137.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 愛するムスメからの教育的指導

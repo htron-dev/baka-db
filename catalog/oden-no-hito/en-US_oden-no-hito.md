@@ -1,5 +1,7 @@
 # Oden no Hito
 
+![oden-no-hito](https://cdn.myanimelist.net/images/manga/1/59193.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: おでんの人

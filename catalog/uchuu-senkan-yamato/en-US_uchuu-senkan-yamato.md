@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato
 
+![uchuu-senkan-yamato](https://cdn.myanimelist.net/images/manga/3/60983.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

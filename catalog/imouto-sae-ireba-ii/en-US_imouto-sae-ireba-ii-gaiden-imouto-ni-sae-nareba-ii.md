@@ -1,5 +1,7 @@
 # Imouto sae Ireba Ii. Gaiden: Imouto ni sae Nareba Ii!
 
+![imouto-sae-ireba-ii-gaiden-imouto-ni-sae-nareba-ii](https://cdn.myanimelist.net/images/manga/2/196817.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

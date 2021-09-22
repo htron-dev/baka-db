@@ -1,5 +1,7 @@
 # Xue Haizi
 
+![xue-haizi](https://cdn.myanimelist.net/images/anime/7/75394.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 雪孩子

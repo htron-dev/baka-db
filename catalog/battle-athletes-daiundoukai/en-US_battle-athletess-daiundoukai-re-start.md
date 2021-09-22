@@ -1,5 +1,7 @@
 # Battle Athletess Daiundoukai ReSTART!
 
+![battle-athletess-daiundoukai-re-start](https://cdn.myanimelist.net/images/anime/1752/113795.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: バトルアスリーテス 大運動会 ReSTART!

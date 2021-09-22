@@ -1,5 +1,7 @@
 # Juubee Ninpuuchou
 
+![juubee-ninpuuchou](https://cdn.myanimelist.net/images/anime/6/66727.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 獣兵衛忍風帖

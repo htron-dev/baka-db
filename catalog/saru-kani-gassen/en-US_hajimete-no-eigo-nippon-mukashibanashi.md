@@ -1,5 +1,7 @@
 # Hajimete no Eigo: Nippon Mukashibanashi
 
+![hajimete-no-eigo-nippon-mukashibanashi](https://cdn.myanimelist.net/images/anime/6/80091.jpg)
+
 -   **type**: ova
 -   **episodes**: 18
 -   **original-name**: 初めてのえいご・日本昔ばなし

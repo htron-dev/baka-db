@@ -1,5 +1,7 @@
 # Cut &amp; Paste de Kono Sekai wo Ikiteiku
 
+![cut-amp-paste-de-kono-sekai-wo-ikiteiku](https://cdn.myanimelist.net/images/manga/3/233588.jpg)
+
 -   **type**: light-novel
 -   **original-name**: カット&ペーストでこの世界を生きていく
 -   **start-date**: 2017-06-10

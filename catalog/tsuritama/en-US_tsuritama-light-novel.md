@@ -1,5 +1,7 @@
 # Tsuritama
 
+![tsuritama](https://cdn.myanimelist.net/images/manga/1/91209.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

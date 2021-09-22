@@ -1,5 +1,7 @@
 # Virgin★Mama
 
+![virgin★-mama](https://cdn.myanimelist.net/images/manga/1/193281.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 202

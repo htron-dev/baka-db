@@ -1,5 +1,7 @@
 # S-kei Joushi to Himitsu no Koukan Jouken
 
+![s-kei-joushi-to-himitsu-no-koukan-jouken](https://cdn.myanimelist.net/images/manga/1/153317.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: S 系上司とヒミツの交換条件

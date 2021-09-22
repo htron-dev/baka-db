@@ -1,5 +1,7 @@
 # Kachou Fuugetsu: Touhou Project Hitori Sakuhinshuu
 
+![kachou-fuugetsu-touhou-project-hitori-sakuhinshuu](https://cdn.myanimelist.net/images/manga/2/228525.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kage
 
+![kage](https://cdn.myanimelist.net/images/anime/8/71335.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かげ

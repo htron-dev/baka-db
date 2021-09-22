@@ -1,5 +1,7 @@
 # Maison Ikkoku: Bangai-hen - Ikkokujima Nanpa Shimatsuki
 
+![maison-ikkoku-bangai-hen-ikkokujima-nanpa-shimatsuki](https://cdn.myanimelist.net/images/anime/3/4678.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: めぞん一刻番外編 一刻島ナンパ始末記

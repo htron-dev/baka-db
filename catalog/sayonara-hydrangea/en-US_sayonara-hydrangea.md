@@ -1,5 +1,7 @@
 # Sayonara Hydrangea
 
+![sayonara-hydrangea](https://cdn.myanimelist.net/images/manga/3/244794.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

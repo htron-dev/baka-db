@@ -1,5 +1,7 @@
 # Slayers Special
 
+![slayers-special](https://cdn.myanimelist.net/images/anime/1372/92532.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: スレイヤーズすぺしゃる

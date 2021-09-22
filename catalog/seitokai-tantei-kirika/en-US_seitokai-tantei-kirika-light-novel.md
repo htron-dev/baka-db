@@ -1,5 +1,7 @@
 # Seitokai Tantei Kirika
 
+![seitokai-tantei-kirika](https://cdn.myanimelist.net/images/manga/1/158192.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 生徒会探偵キリカ
 -   **start-date**: 2011-12-02

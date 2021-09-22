@@ -1,5 +1,7 @@
 # Lemon Home Animation Gekijou
 
+![lemon-home-animation-gekijou](https://cdn.myanimelist.net/images/anime/6/72684.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: レモンホームアニメ劇場

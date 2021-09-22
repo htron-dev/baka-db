@@ -1,5 +1,7 @@
 # Hunter x Hunter: Greed Island
 
+![hunter-x-hunter-greed-island](https://cdn.myanimelist.net/images/anime/13/37203.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: ハンターｘハンター: Greed Island

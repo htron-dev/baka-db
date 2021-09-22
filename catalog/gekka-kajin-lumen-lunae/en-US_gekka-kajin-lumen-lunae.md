@@ -1,5 +1,7 @@
 # Gekka Kajin Lumen Lunae
 
+![gekka-kajin-lumen-lunae](https://cdn.myanimelist.net/images/manga/2/1836.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

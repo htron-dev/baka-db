@@ -1,5 +1,7 @@
 # Shin Kamen Rider Spirits
 
+![shin-kamen-rider-spirits](https://cdn.myanimelist.net/images/manga/3/100661.jpg)
+
 -   **type**: manga
 -   **original-name**: 新仮面ライダー SPIRITS
 

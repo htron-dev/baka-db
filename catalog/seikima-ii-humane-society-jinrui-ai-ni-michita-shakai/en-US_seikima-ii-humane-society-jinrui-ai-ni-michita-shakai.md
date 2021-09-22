@@ -1,5 +1,7 @@
 # Seikima II Humane Society: Jinrui Ai ni Michita Shakai
 
+![seikima-ii-humane-society-jinrui-ai-ni-michita-shakai](https://cdn.myanimelist.net/images/anime/2/24158.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 聖飢魔 II HUMANE SOCIETY ~人類愛に満ちた社会~

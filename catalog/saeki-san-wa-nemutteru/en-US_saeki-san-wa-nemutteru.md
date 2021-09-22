@@ -1,5 +1,7 @@
 # Saeki-san wa Nemutteru
 
+![saeki-san-wa-nemutteru](https://cdn.myanimelist.net/images/manga/2/217795.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 52

@@ -1,5 +1,7 @@
 # Ex-Arm
 
+![ex-arm](https://cdn.myanimelist.net/images/anime/1847/113935.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: EX-ARM エクスアーム

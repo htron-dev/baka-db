@@ -1,5 +1,7 @@
 # Yasashii Shinsetsu Shiryoujutsu
 
+![yasashii-shinsetsu-shiryoujutsu](https://cdn.myanimelist.net/images/manga/2/235918.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

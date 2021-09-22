@@ -1,5 +1,7 @@
 # Hakushaku Reijou to Furachi na Aijin
 
+![hakushaku-reijou-to-furachi-na-aijin](https://cdn.myanimelist.net/images/manga/1/195276.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

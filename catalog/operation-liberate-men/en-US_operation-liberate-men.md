@@ -1,5 +1,7 @@
 # Operation Liberate Men
 
+![operation-liberate-men](https://cdn.myanimelist.net/images/manga/2/4884.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: 남성해방 대작전

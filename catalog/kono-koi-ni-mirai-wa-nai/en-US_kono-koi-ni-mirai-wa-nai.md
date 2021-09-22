@@ -1,5 +1,7 @@
 # Kono Koi ni Mirai wa Nai
 
+![kono-koi-ni-mirai-wa-nai](https://cdn.myanimelist.net/images/manga/2/206467.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

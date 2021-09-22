@@ -1,5 +1,7 @@
 # Heian Joruri Monogatari
 
+![heian-joruri-monogatari](https://cdn.myanimelist.net/images/manga/3/12796.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

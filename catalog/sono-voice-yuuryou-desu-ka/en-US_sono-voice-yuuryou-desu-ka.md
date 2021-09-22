@@ -1,5 +1,7 @@
 # Sono Voice, Yuuryou desu ka?
 
+![sono-voice-yuuryou-desu-ka](https://cdn.myanimelist.net/images/manga/3/203946.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

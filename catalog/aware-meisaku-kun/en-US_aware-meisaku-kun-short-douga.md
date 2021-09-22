@@ -1,5 +1,7 @@
 # Aware! Meisaku-kun: Short Douga
 
+![aware-meisaku-kun-short-douga](https://cdn.myanimelist.net/images/anime/1253/91712.jpg)
+
 -   **type**: ona
 -   **original-name**: あはれ！名作くん ショート動画
 -   **start-date**: 2018-04-04

@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume The Movie 4: Kaspersky wo Motsu Otoko
 
+![himitsukessha-taka-no-tsume-the-movie-4-kaspersky-wo-motsu-otoko](https://cdn.myanimelist.net/images/anime/2/74060.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 秘密結社鷹の爪 THE MOVIE4 〜カスペルスキーを持つ男〜

@@ -1,5 +1,7 @@
 # Quiz Tokiko-san
 
+![quiz-tokiko-san](https://cdn.myanimelist.net/images/anime/1313/91294.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: クイズとき子さん

@@ -1,5 +1,7 @@
 # Odoru Respawn
 
+![odoru-respawn](https://cdn.myanimelist.net/images/manga/3/236123.jpg)
+
 -   **type**: manga
 -   **original-name**: 踊るリスポーン
 -   **start-date**: 2018-12-06

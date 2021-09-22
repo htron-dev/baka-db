@@ -1,5 +1,7 @@
 # Tsurenai Kare no Mune no Uchi
 
+![tsurenai-kare-no-mune-no-uchi](https://cdn.myanimelist.net/images/manga/2/128211.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

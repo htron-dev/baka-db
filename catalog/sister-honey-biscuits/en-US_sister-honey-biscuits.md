@@ -1,5 +1,7 @@
 # Sister Honey Biscuits
 
+![sister-honey-biscuits](https://cdn.myanimelist.net/images/manga/1/152732.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

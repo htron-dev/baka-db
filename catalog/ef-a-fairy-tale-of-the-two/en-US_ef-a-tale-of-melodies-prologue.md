@@ -1,5 +1,7 @@
 # ef: A Tale of Melodies. - Prologue
 
+![ef-a-tale-of-melodies-prologue](https://cdn.myanimelist.net/images/anime/6/25650.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ef - a tale of melodies. ~prologue~

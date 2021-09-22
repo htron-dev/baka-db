@@ -1,5 +1,7 @@
 # Mikan-bune
 
+![mikan-bune](https://cdn.myanimelist.net/images/anime/12/17997.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: みかん船

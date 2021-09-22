@@ -1,5 +1,7 @@
 # Shirojishi no Kodomotachi
 
+![shirojishi-no-kodomotachi](https://cdn.myanimelist.net/images/manga/3/159488.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

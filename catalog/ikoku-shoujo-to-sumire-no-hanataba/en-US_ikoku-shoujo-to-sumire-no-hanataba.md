@@ -1,5 +1,7 @@
 # Ikoku Shoujo to Sumire no Hanataba
 
+![ikoku-shoujo-to-sumire-no-hanataba](https://cdn.myanimelist.net/images/manga/1/43807.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

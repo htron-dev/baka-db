@@ -1,5 +1,7 @@
 # Starry☆Sky: In Summer - Comic Anthology
 
+![starry☆-sky-in-summer-comic-anthology](https://cdn.myanimelist.net/images/manga/3/26568.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

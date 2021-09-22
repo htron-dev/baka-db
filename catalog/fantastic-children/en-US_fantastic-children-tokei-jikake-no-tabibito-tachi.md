@@ -1,5 +1,7 @@
 # Fantastic Children: Tokei Jikake no Tabibito-tachi
 
+![fantastic-children-tokei-jikake-no-tabibito-tachi](https://cdn.myanimelist.net/images/manga/1/132331.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

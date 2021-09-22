@@ -1,5 +1,7 @@
 # Aqua
 
+![aqua](https://cdn.myanimelist.net/images/manga/1/153102.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Legend of Dou
 
+![legend-of-dou](https://cdn.myanimelist.net/images/manga/1/38847.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 70

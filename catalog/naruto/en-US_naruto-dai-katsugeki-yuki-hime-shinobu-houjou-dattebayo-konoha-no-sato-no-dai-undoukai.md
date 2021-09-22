@@ -1,5 +1,7 @@
 # Naruto: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! - Konoha no Sato no Dai Undoukai
 
+![naruto-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo-konoha-no-sato-no-dai-undoukai](https://cdn.myanimelist.net/images/anime/1/2473.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 木ノ葉の里の大うん動会

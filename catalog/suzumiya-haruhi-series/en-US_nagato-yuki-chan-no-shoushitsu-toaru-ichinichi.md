@@ -1,5 +1,7 @@
 # Nagato Yuki-chan no Shoushitsu: Toaru Ichinichi
 
+![nagato-yuki-chan-no-shoushitsu-toaru-ichinichi](https://cdn.myanimelist.net/images/manga/2/153401.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 36

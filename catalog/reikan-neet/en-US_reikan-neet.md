@@ -1,5 +1,7 @@
 # Reikan NEET
 
+![reikan-neet](https://cdn.myanimelist.net/images/manga/2/108325.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Trap
 
+![trap](https://cdn.myanimelist.net/images/manga/2/150709.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 올가미

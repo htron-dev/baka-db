@@ -1,5 +1,7 @@
 # Boku to Senpai-tachi wa Omo ni Hakken Shiteimasu.
 
+![boku-to-senpai-tachi-wa-omo-ni-hakken-shiteimasu](https://cdn.myanimelist.net/images/manga/3/164227.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

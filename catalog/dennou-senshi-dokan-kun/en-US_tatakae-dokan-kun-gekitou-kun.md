@@ -1,5 +1,7 @@
 # Tatakae! Dokan-kun: Gekitou-kun
 
+![tatakae-dokan-kun-gekitou-kun](https://cdn.myanimelist.net/images/anime/1901/95812.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: たたかえ!土管くん 激闘編

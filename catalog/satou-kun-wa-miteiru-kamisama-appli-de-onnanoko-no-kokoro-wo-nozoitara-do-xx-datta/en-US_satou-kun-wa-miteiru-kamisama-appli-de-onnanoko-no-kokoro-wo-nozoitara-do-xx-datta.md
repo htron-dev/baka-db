@@ -1,5 +1,7 @@
 # Satou-kun wa Miteiru.: Kamisama Appli de Onnanoko no Kokoro wo Nozoitara Do xx Datta
 
+![satou-kun-wa-miteiru-kamisama-appli-de-onnanoko-no-kokoro-wo-nozoitara-do-xx-datta](https://cdn.myanimelist.net/images/manga/3/234495.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

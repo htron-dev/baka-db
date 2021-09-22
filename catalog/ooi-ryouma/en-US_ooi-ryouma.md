@@ -1,5 +1,7 @@
 # Ooi! Ryouma
 
+![ooi-ryouma](https://cdn.myanimelist.net/images/manga/4/147053.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **original-name**: お～い！竜馬

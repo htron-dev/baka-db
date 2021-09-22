@@ -1,5 +1,7 @@
 # Working'!! Announcement Specials
 
+![working-announcement-specials](https://cdn.myanimelist.net/images/anime/12/28941.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ワーキング!!

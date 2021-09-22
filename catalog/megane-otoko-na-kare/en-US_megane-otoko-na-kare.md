@@ -1,5 +1,7 @@
 # Megane Otoko na Kare
 
+![megane-otoko-na-kare](https://cdn.myanimelist.net/images/manga/3/14688.jpg)
+
 -   **type**: manga
 -   **original-name**: メガネ男子な彼
 -   **start-date**: 2008-02-20

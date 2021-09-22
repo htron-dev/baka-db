@@ -1,5 +1,7 @@
 # Love-yan
 
+![love-yan](https://cdn.myanimelist.net/images/manga/2/115031.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 158

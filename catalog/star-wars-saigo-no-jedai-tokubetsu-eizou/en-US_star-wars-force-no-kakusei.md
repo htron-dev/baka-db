@@ -1,5 +1,7 @@
 # Star Wars/Force no Kakusei
 
+![star-wars-force-no-kakusei](https://cdn.myanimelist.net/images/anime/1391/90625.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: スター・ウォーズ／フォースの覚醒

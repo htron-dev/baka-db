@@ -1,5 +1,7 @@
 # Lost Man
 
+![lost-man](https://cdn.myanimelist.net/images/manga/3/135585.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 168

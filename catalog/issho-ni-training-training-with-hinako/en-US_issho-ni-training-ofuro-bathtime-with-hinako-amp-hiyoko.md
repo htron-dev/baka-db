@@ -1,5 +1,7 @@
 # Issho ni Training Ofuro: Bathtime with Hinako &amp; Hiyoko
 
+![issho-ni-training-ofuro-bathtime-with-hinako-amp-hiyoko](https://cdn.myanimelist.net/images/anime/8/26989.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いっしょにとれーにんぐ 026[おふろ] BATHTIME WITH HINAKO&HIYOKO

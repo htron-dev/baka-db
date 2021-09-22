@@ -1,5 +1,7 @@
 # Dash! Kappei
 
+![dash-kappei](https://cdn.myanimelist.net/images/anime/1319/90363.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 65
 -   **original-name**: ダッシュ勝平

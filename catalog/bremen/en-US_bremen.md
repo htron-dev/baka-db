@@ -1,5 +1,7 @@
 # Bremen
 
+![bremen](https://cdn.myanimelist.net/images/manga/5/167613.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 82

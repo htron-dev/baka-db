@@ -1,5 +1,7 @@
 # K-sensei no Yajuu na Aijou
 
+![k-sensei-no-yajuu-na-aijou](https://cdn.myanimelist.net/images/manga/2/72583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

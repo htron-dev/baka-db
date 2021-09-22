@@ -1,5 +1,7 @@
 # Ouritsu Gakkou Hiren Monogatari: Itoshiki Dansou Reijou
 
+![ouritsu-gakkou-hiren-monogatari-itoshiki-dansou-reijou](https://cdn.myanimelist.net/images/manga/1/181558.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

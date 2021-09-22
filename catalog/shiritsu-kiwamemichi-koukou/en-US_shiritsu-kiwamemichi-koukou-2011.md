@@ -1,5 +1,7 @@
 # Shiritsu Kiwamemichi Koukou 2011
 
+![shiritsu-kiwamemichi-koukou-2011](https://cdn.myanimelist.net/images/manga/3/108061.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 私立極道高校 2011

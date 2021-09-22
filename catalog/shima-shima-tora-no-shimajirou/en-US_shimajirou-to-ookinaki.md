@@ -1,5 +1,7 @@
 # Shimajirou to Ookinaki
 
+![shimajirou-to-ookinaki](https://cdn.myanimelist.net/images/anime/11/72464.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: しまじろうと おおきなき

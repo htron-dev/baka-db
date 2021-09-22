@@ -1,5 +1,7 @@
 # Dotanba no Manners
 
+![dotanba-no-manners](https://cdn.myanimelist.net/images/anime/6/53515.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 283
 -   **original-name**: ドタンバのマナー

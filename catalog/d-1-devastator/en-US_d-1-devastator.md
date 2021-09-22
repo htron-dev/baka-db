@@ -1,5 +1,7 @@
 # D-1 Devastator
 
+![d-1-devastator](https://cdn.myanimelist.net/images/anime/7/55845.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: D-1 デバステイター

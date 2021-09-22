@@ -1,5 +1,7 @@
 # Youkai Seishun Hakusho: Yukio-kun to Kaoruko-san
 
+![youkai-seishun-hakusho-yukio-kun-to-kaoruko-san](https://cdn.myanimelist.net/images/manga/2/164667.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 妖怪青春白書　―雪雄くんと薫子さん―

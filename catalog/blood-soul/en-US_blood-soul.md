@@ -1,5 +1,7 @@
 # Blood Soul
 
+![blood-soul](https://cdn.myanimelist.net/images/manga/2/174525.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

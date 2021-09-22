@@ -1,5 +1,7 @@
 # She Loved Him, and He Loved Himself
 
+![she-loved-him-and-he-loved-himself](https://cdn.myanimelist.net/images/manga/1/35402.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **start-date**: 2010-04-20

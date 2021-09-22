@@ -1,5 +1,7 @@
 # Yurippu Chu♡
 
+![yurippu-chu♡](https://cdn.myanimelist.net/images/manga/1/151515.jpg)
+
 -   **type**: manga
 -   **original-name**: ユリップ chu♡
 -   **start-date**: 2013-09-18

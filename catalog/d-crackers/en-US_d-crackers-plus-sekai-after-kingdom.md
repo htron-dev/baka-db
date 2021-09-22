@@ -1,5 +1,7 @@
 # D-Crackers Plus: Sekai - After Kingdom
 
+![d-crackers-plus-sekai-after-kingdom](https://cdn.myanimelist.net/images/manga/3/112961.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: D クラッカーズ＋プラス　世界―after kingdom―

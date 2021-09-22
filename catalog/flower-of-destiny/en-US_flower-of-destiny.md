@@ -1,5 +1,7 @@
 # Flower of Destiny
 
+![flower-of-destiny](https://cdn.myanimelist.net/images/manga/3/19004.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 연화
 -   **start-date**: 2009-03-20

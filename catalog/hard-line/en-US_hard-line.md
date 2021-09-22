@@ -1,5 +1,7 @@
 # Hard Line
 
+![hard-line](https://cdn.myanimelist.net/images/manga/2/41800.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: ハードライン

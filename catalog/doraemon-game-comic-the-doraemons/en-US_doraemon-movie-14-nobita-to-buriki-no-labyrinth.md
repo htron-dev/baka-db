@@ -1,5 +1,7 @@
 # Doraemon Movie 14: Nobita to Buriki no Labyrinth
 
+![doraemon-movie-14-nobita-to-buriki-no-labyrinth](https://cdn.myanimelist.net/images/anime/4/72419.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太とブリキの迷宮[ラビリンス]

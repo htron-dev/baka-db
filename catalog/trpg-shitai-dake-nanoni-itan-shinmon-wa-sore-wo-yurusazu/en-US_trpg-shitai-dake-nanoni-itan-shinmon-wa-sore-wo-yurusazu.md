@@ -1,5 +1,7 @@
 # TRPG Shitai dake nanoni! Itan Shinmon wa Sore wo Yurusazu
 
+![trpg-shitai-dake-nanoni-itan-shinmon-wa-sore-wo-yurusazu](https://cdn.myanimelist.net/images/manga/3/161074.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: TRPG したいだけなのにっ！異端審問ハ ソレヲ許サズ

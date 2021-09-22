@@ -1,5 +1,7 @@
 # Kichiku R18: Nyoudouzeme
 
+![kichiku-r-18-nyoudouzeme](https://cdn.myanimelist.net/images/manga/1/139109.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

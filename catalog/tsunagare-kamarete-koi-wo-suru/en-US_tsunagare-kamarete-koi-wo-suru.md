@@ -1,5 +1,7 @@
 # Tsunagare Kamarete Koi wo Suru
 
+![tsunagare-kamarete-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/224931.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

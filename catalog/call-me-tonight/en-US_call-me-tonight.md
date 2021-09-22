@@ -1,5 +1,7 @@
 # Call Me Tonight
 
+![call-me-tonight](https://cdn.myanimelist.net/images/anime/4/18490.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: コール・ミー・トゥナイト

@@ -1,5 +1,7 @@
 # Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita. OVA
 
+![yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita-ova](https://cdn.myanimelist.net/images/anime/1624/112109.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 勇者になれなかった俺はしぶしぶ就職を決意しました。OVA

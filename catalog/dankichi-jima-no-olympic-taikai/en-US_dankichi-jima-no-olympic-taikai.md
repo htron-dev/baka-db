@@ -1,5 +1,7 @@
 # Dankichi-jima no Olympic Taikai
 
+![dankichi-jima-no-olympic-taikai](https://cdn.myanimelist.net/images/anime/4/12226.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ダン吉島のオリムピック大会

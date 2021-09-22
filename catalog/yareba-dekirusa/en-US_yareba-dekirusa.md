@@ -1,5 +1,7 @@
 # Yareba Dekirusa
 
+![yareba-dekirusa](https://cdn.myanimelist.net/images/manga/3/16027.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: やればできるさ

@@ -1,5 +1,7 @@
 # Qualidea Code
 
+![qualidea-code](https://cdn.myanimelist.net/images/anime/6/80823.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: クオリディア・コード

@@ -1,5 +1,7 @@
 # Pokemon: Utae Meloetta - Rinka no Mi wo Sagase!
 
+![pokemon-utae-meloetta-rinka-no-mi-wo-sagase](https://cdn.myanimelist.net/images/anime/6/81282.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: うたえメロエッタ リンカのみをさがせ

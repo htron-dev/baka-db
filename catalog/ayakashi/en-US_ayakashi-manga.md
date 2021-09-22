@@ -1,5 +1,7 @@
 # Ayakashi
 
+![ayakashi](https://cdn.myanimelist.net/images/manga/3/9955.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: アヤカシ

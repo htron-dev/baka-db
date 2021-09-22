@@ -1,5 +1,7 @@
 # Odds VS!
 
+![odds-vs](https://cdn.myanimelist.net/images/manga/1/230332.jpg)
+
 -   **type**: manga
 -   **original-name**: Odds VS!
 -   **start-date**: 2014-01-07

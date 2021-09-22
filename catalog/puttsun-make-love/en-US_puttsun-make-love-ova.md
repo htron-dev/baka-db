@@ -1,5 +1,7 @@
 # Puttsun Make Love
 
+![puttsun-make-love](https://cdn.myanimelist.net/images/anime/12/26453.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ぷッつんメイク LOVE

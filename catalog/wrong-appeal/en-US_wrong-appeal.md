@@ -1,5 +1,7 @@
 # Wrong Appeal
 
+![wrong-appeal](https://cdn.myanimelist.net/images/manga/3/22703.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 잘못된 어필

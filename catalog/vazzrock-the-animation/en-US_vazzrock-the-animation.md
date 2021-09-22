@@ -1,5 +1,7 @@
 # Vazzrock The Animation
 
+![vazzrock-the-animation](https://cdn.myanimelist.net/images/anime/1374/110110.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: VAZZROCK THE ANIMATION
 -   **rating**: None

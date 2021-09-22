@@ -1,5 +1,7 @@
 # Bakuretsu Hunters OVA
 
+![bakuretsu-hunters-ova](https://cdn.myanimelist.net/images/anime/1267/97321.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 元祖　爆れつハンター

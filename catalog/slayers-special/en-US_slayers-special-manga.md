@@ -1,5 +1,7 @@
 # Slayers Special
 
+![slayers-special](https://cdn.myanimelist.net/images/manga/3/165195.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

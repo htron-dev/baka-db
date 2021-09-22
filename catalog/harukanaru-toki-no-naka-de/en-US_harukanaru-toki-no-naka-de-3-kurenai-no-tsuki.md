@@ -1,5 +1,7 @@
 # Harukanaru Toki no Naka de 3: Kurenai no Tsuki
 
+![harukanaru-toki-no-naka-de-3-kurenai-no-tsuki](https://cdn.myanimelist.net/images/anime/6/5110.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 遙かなる時空の中で 3 紅の月

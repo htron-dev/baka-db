@@ -1,5 +1,7 @@
 # Mangirl!
 
+![mangirl](https://cdn.myanimelist.net/images/manga/2/67009.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Saigo no Isha wa Sakura wo Miagete Kimi wo Omou
 
+![saigo-no-isha-wa-sakura-wo-miagete-kimi-wo-omou](https://cdn.myanimelist.net/images/manga/3/220506.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

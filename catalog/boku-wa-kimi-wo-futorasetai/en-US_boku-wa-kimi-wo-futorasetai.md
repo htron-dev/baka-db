@@ -1,5 +1,7 @@
 # Boku wa Kimi wo Futorasetai!
 
+![boku-wa-kimi-wo-futorasetai](https://cdn.myanimelist.net/images/manga/2/216189.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕は君を太らせたい!
 -   **start-date**: 2018-06-22

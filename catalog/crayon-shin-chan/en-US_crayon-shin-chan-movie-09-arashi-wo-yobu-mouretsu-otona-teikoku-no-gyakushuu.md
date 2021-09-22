@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu
 
+![crayon-shin-chan-movie-09-arashi-wo-yobu-mouretsu-otona-teikoku-no-gyakushuu](https://cdn.myanimelist.net/images/anime/1824/94859.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画　クレヨンしんちゃん　嵐を呼ぶモーレツ！オトナ帝国の逆襲

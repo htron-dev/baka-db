@@ -1,5 +1,7 @@
 # Hana to Shounen
 
+![hana-to-shounen](https://cdn.myanimelist.net/images/anime/4/61379.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 花と少年

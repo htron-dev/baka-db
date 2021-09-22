@@ -1,5 +1,7 @@
 # Shinshoku Dungeon to Shinsoku no Dakkan Shoutai
 
+![shinshoku-dungeon-to-shinsoku-no-dakkan-shoutai](https://cdn.myanimelist.net/images/manga/2/179066.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Shuujin to Kamihikouki: Shounen Paradox
 
+![shuujin-to-kamihikouki-shounen-paradox](https://cdn.myanimelist.net/images/manga/1/106369.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

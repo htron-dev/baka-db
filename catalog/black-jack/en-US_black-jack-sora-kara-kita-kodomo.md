@@ -1,5 +1,7 @@
 # Black Jack: Sora kara Kita Kodomo
 
+![black-jack-sora-kara-kita-kodomo](https://cdn.myanimelist.net/images/anime/9/88341.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ブラック・ジャック 空からきた子ども

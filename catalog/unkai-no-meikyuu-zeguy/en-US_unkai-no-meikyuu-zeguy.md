@@ -1,5 +1,7 @@
 # Unkai no Meikyuu Zeguy
 
+![unkai-no-meikyuu-zeguy](https://cdn.myanimelist.net/images/anime/2/6215.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 雲界の迷宮 ZEGUY

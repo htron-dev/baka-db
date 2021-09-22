@@ -1,5 +1,7 @@
 # Shinobi Masen!
 
+![shinobi-masen](https://cdn.myanimelist.net/images/manga/3/16565.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

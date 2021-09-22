@@ -1,5 +1,7 @@
 # Yoshihara Yuki - The Best Selection
 
+![yoshihara-yuki-the-best-selection](https://cdn.myanimelist.net/images/manga/3/21117.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

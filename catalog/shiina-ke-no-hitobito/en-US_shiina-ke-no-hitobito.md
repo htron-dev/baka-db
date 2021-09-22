@@ -1,5 +1,7 @@
 # Shiina-ke no Hitobito
 
+![shiina-ke-no-hitobito](https://cdn.myanimelist.net/images/manga/1/101129.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Gunners
 
+![gunners](https://cdn.myanimelist.net/images/manga/3/174902.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 55

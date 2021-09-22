@@ -1,5 +1,7 @@
 # Prince of Sahara
 
+![prince-of-sahara](https://cdn.myanimelist.net/images/manga/2/165176.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

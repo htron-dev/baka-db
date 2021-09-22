@@ -1,5 +1,7 @@
 # Kooritsukai wa Eikou no Yume wo Miru
 
+![kooritsukai-wa-eikou-no-yume-wo-miru](https://cdn.myanimelist.net/images/manga/2/195789.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 氷使いは栄光の夢を見る
 -   **start-date**: 2017-05-23

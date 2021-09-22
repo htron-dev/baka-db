@@ -1,5 +1,7 @@
 # W Change!!
 
+![w-change](https://cdn.myanimelist.net/images/manga/1/48379.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 31

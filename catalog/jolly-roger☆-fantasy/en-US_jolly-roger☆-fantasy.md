@@ -1,5 +1,7 @@
 # Jolly Roger☆Fantasy
 
+![jolly-roger☆-fantasy](https://cdn.myanimelist.net/images/manga/3/15207.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ジョリーロジャー ☆ ファンタジー

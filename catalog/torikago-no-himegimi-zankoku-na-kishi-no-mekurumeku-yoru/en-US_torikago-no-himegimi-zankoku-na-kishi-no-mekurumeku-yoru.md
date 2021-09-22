@@ -1,5 +1,7 @@
 # Torikago no Himegimi: Zankoku na Kishi no Mekurumeku Yoru
 
+![torikago-no-himegimi-zankoku-na-kishi-no-mekurumeku-yoru](https://cdn.myanimelist.net/images/manga/3/183942.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

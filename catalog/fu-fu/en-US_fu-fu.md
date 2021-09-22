@@ -1,5 +1,7 @@
 # Fu-Fu
 
+![fu-fu](https://cdn.myanimelist.net/images/manga/2/157869.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ふーふ

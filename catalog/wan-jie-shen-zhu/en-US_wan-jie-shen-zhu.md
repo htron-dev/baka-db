@@ -1,5 +1,7 @@
 # Wan Jie Shen Zhu
 
+![wan-jie-shen-zhu](https://cdn.myanimelist.net/images/anime/1049/98778.jpg)
+
 -   **type**: ona
 -   **episodes**: 60
 -   **original-name**: 万界神主

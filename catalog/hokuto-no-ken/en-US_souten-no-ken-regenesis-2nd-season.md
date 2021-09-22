@@ -1,5 +1,7 @@
 # Souten no Ken: Regenesis 2nd Season
 
+![souten-no-ken-regenesis-2nd-season](https://cdn.myanimelist.net/images/anime/1002/93814.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 蒼天の拳 REGENESIS 第 2 期

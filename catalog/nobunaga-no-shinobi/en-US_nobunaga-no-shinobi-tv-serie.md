@@ -1,5 +1,7 @@
 # Nobunaga no Shinobi
 
+![nobunaga-no-shinobi](https://cdn.myanimelist.net/images/anime/2/78715.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 信長の忍び

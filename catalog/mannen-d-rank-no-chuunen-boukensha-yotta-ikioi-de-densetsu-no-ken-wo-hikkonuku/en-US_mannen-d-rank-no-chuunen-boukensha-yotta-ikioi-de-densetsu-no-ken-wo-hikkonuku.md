@@ -1,5 +1,7 @@
 # Mannen D-Rank no Chuunen Boukensha, Yotta Ikioi de Densetsu no Ken wo Hikkonuku
 
+![mannen-d-rank-no-chuunen-boukensha-yotta-ikioi-de-densetsu-no-ken-wo-hikkonuku](https://cdn.myanimelist.net/images/manga/1/224090.jpg)
+
 -   **type**: manga
 -   **original-name**: 万年 D ランクの中年冒険者、酔った勢いで伝説の剣を引っこ抜く
 -   **start-date**: 2018-09-28

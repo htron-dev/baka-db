@@ -1,5 +1,7 @@
 # Itoshi no Ellie
 
+![itoshi-no-ellie](https://cdn.myanimelist.net/images/manga/1/62715.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 200

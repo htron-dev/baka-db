@@ -1,5 +1,7 @@
 # Miao Xiansheng: Yan Luo Dadao
 
+![miao-xiansheng-yan-luo-dadao](https://cdn.myanimelist.net/images/anime/1586/115615.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 妙先生之雁落大道

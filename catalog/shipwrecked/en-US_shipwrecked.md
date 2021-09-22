@@ -1,5 +1,7 @@
 # Shipwrecked!
 
+![shipwrecked](https://cdn.myanimelist.net/images/manga/3/7707.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 14
 -   **original-name**: 탐나는도다

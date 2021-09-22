@@ -1,5 +1,7 @@
 # Ranma ½: Akumu! Shunmin Kou
 
+![ranma-akumu-shunmin-kou](https://cdn.myanimelist.net/images/anime/10/63469.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: らんま 1/2 悪夢! 春眠香

@@ -1,5 +1,7 @@
 # The Calling
 
+![the-calling](https://cdn.myanimelist.net/images/manga/1/37488.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: コーリング (岡野玲子)

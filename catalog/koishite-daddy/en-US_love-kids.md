@@ -1,5 +1,7 @@
 # Love Kids!!
 
+![love-kids](https://cdn.myanimelist.net/images/manga/2/116795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

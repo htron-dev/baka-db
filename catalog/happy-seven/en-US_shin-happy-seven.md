@@ -1,5 +1,7 @@
 # Shin Happy Seven
 
+![shin-happy-seven](https://cdn.myanimelist.net/images/manga/2/172051.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: 新・はっぴぃセブン

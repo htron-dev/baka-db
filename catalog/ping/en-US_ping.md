@@ -1,5 +1,7 @@
 # Ping
 
+![ping](https://cdn.myanimelist.net/images/manga/2/53241.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 30

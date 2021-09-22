@@ -1,5 +1,7 @@
 # Fate/Grand Order: Epic of Remnant - Ashu Tokuiten III/Ashu Heikou Sekai - Shizan Ketsuga Butai Shimousa no Kuni - Eirei Kengou Nanaban Shoubu
 
+![fate-grand-order-epic-of-remnant-ashu-tokuiten-iii-ashu-heikou-sekai-shizan-ketsuga-butai-shimousa-no-kuni-eirei-kengou-nanaban-shoubu](https://cdn.myanimelist.net/images/manga/3/226273.jpg)
+
 -   **type**: manga
 -   **original-name**: Fate/Grand Order-Epic of Remnant-亜種特異点 3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負
 -   **start-date**: 2019-01-29

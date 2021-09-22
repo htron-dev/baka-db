@@ -1,5 +1,7 @@
 # Oooku no Sakura: Gendai Oooku Jogakuin
 
+![oooku-no-sakura-gendai-oooku-jogakuin](https://cdn.myanimelist.net/images/manga/2/162923.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

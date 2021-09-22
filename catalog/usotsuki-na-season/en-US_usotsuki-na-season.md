@@ -1,5 +1,7 @@
 # Usotsuki na Season
 
+![usotsuki-na-season](https://cdn.myanimelist.net/images/manga/3/9981.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: うそつきなシーズン

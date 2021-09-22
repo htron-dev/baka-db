@@ -1,5 +1,7 @@
 # Ore no Suki na Ko ga Buracon sugiru!!
 
+![ore-no-suki-na-ko-ga-buracon-sugiru](https://cdn.myanimelist.net/images/manga/1/159547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

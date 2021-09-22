@@ -1,5 +1,7 @@
 # Examurai Sengoku
 
+![examurai-sengoku](https://cdn.myanimelist.net/images/anime/13/33643.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: エグザムライ戦国

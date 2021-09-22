@@ -1,5 +1,7 @@
 # Zettai Zetsubou Shoujo: Danganronpa Another Episode - Genocider Mode
 
+![zettai-zetsubou-shoujo-danganronpa-another-episode-genocider-mode](https://cdn.myanimelist.net/images/manga/1/167796.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

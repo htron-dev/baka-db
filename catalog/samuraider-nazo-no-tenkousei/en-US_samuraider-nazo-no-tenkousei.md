@@ -1,5 +1,7 @@
 # Samuraider: Nazo no Tenkousei
 
+![samuraider-nazo-no-tenkousei](https://cdn.myanimelist.net/images/anime/12/27645.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サムライダー 謎の転校生

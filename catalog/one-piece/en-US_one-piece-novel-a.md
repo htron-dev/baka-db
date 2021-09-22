@@ -1,5 +1,7 @@
 # One Piece Novel: A
 
+![one-piece-novel-a](https://cdn.myanimelist.net/images/manga/2/232216.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

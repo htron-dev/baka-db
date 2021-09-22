@@ -1,5 +1,7 @@
 # Gekiman!: Mazinger Z-hen
 
+![gekiman-mazinger-z-hen](https://cdn.myanimelist.net/images/manga/2/201415.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 激マン！マジンガー Z 編

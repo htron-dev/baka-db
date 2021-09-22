@@ -1,5 +1,7 @@
 # Dragon Nest: Shungeki no Sedo
 
+![dragon-nest-shungeki-no-sedo](https://cdn.myanimelist.net/images/manga/3/71807.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

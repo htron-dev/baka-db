@@ -1,5 +1,7 @@
 # Bran-New
 
+![bran-new](https://cdn.myanimelist.net/images/manga/3/25759.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ブラン・ニュー

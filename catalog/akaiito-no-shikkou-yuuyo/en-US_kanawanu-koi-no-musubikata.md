@@ -1,5 +1,7 @@
 # Kanawanu Koi no Musubikata
 
+![kanawanu-koi-no-musubikata](https://cdn.myanimelist.net/images/manga/3/224782.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

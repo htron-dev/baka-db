@@ -1,5 +1,7 @@
 # Mimitabu no Riyuu
 
+![mimitabu-no-riyuu](https://cdn.myanimelist.net/images/manga/1/19463.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

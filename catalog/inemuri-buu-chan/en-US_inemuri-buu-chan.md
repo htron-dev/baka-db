@@ -1,5 +1,7 @@
 # Inemuri Buu-chan
 
+![inemuri-buu-chan](https://cdn.myanimelist.net/images/anime/6/77376.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: いねむりぶーちゃん

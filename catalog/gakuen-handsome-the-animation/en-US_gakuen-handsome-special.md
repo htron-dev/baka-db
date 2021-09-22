@@ -1,5 +1,7 @@
 # Gakuen Handsome Special
 
+![gakuen-handsome-special](https://cdn.myanimelist.net/images/anime/2/80453.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 学園ハンサム

@@ -1,5 +1,7 @@
 # Hanjuku Miko no Midara na Chigiri!
 
+![hanjuku-miko-no-midara-na-chigiri](https://cdn.myanimelist.net/images/manga/3/201039.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Shoujo Manga Teki Risou to Genjitsu
 
+![shoujo-manga-teki-risou-to-genjitsu](https://cdn.myanimelist.net/images/manga/3/19290.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

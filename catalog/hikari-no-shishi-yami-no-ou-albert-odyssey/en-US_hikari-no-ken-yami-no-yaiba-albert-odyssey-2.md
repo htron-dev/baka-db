@@ -1,5 +1,7 @@
 # Hikari no Ken, Yami no Yaiba - Albert Odyssey 2
 
+![hikari-no-ken-yami-no-yaiba-albert-odyssey-2](https://cdn.myanimelist.net/images/manga/1/32557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 光の剣闇の刃 邪神の胎動 アルバートオデッセイ 2

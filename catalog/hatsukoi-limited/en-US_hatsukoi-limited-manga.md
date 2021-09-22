@@ -1,5 +1,7 @@
 # Hatsukoi Limited.
 
+![hatsukoi-limited](https://cdn.myanimelist.net/images/manga/3/191732.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

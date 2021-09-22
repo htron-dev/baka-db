@@ -1,5 +1,7 @@
 # Jinrou to Thief Guild
 
+![jinrou-to-thief-guild](https://cdn.myanimelist.net/images/manga/2/164117.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

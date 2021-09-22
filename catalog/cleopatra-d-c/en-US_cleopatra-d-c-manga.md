@@ -1,5 +1,7 @@
 # Cleopatra D.C.
 
+![cleopatra-d-c](https://cdn.myanimelist.net/images/manga/5/141203.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: クレオパトラ D.C.

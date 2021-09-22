@@ -1,5 +1,7 @@
 # Ectorave! Kanojo to Ore no Mokushiroku
 
+![ectorave-kanojo-to-ore-no-mokushiroku](https://cdn.myanimelist.net/images/manga/1/126375.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: エクトレイヴ！～彼女と俺の黙示録～

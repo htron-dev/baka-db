@@ -1,5 +1,7 @@
 # The Record of War in Crodia
 
+![the-record-of-war-in-crodia](https://cdn.myanimelist.net/images/manga/1/61277.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Glorious Dawn
 
+![glorious-dawn](https://cdn.myanimelist.net/images/manga/3/161768.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 106

@@ -1,5 +1,7 @@
 # Petit Four
 
+![petit-four](https://cdn.myanimelist.net/images/manga/3/16357.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

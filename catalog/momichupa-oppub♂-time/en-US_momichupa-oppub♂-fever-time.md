@@ -1,5 +1,7 @@
 # Momichupa Oppub♂Fever Time
 
+![momichupa-oppub♂-fever-time](https://cdn.myanimelist.net/images/manga/1/246730.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

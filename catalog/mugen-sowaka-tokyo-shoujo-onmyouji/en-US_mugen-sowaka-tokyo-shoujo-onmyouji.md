@@ -1,5 +1,7 @@
 # Mugen Sowaka: Tokyo Shoujo Onmyouji
 
+![mugen-sowaka-tokyo-shoujo-onmyouji](https://cdn.myanimelist.net/images/manga/2/144681.jpg)
+
 -   **type**: manga
 -   **original-name**: 夢幻ソワカ～東京少女陰陽師～
 -   **start-date**: 2013-08-24

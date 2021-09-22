@@ -1,5 +1,7 @@
 # Bu ni Mi wo Sasagete Hyaku to Yonen. Elf de Yarinaosu Musha Shugyou
 
+![bu-ni-mi-wo-sasagete-hyaku-to-yonen-elf-de-yarinaosu-musha-shugyou](https://cdn.myanimelist.net/images/manga/1/184838.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 180

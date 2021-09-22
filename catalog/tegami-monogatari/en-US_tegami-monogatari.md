@@ -1,5 +1,7 @@
 # Tegami Monogatari
 
+![tegami-monogatari](https://cdn.myanimelist.net/images/manga/1/192196.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

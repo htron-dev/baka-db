@@ -1,5 +1,7 @@
 # Mae yori mo Dare yori mo
 
+![mae-yori-mo-dare-yori-mo](https://cdn.myanimelist.net/images/manga/3/185970.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Battle Spirits: Double Drive
 
+![battle-spirits-double-drive](https://cdn.myanimelist.net/images/anime/13/79186.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: バトルスピリッツ ダブルドライブ

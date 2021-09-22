@@ -1,5 +1,7 @@
 # Kimi to no Tadashii Yakusoku
 
+![kimi-to-no-tadashii-yakusoku](https://cdn.myanimelist.net/images/anime/7/83670.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: キミとの正しい約束

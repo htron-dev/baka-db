@@ -1,5 +1,7 @@
 # Realist ni Yoru Romanticism
 
+![realist-ni-yoru-romanticism](https://cdn.myanimelist.net/images/manga/3/155663.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

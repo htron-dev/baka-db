@@ -1,5 +1,7 @@
 # Diamond Head
 
+![diamond-head](https://cdn.myanimelist.net/images/manga/1/1802.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 16

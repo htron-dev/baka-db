@@ -1,5 +1,7 @@
 # Garo Movie: Divine Flame
 
+![garo-movie-divine-flame](https://cdn.myanimelist.net/images/anime/12/83157.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 牙狼〈GARO〉‐DIVINE FLAME‐

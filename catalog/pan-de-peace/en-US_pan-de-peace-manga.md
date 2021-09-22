@@ -1,5 +1,7 @@
 # Pan de Peace!
 
+![pan-de-peace](https://cdn.myanimelist.net/images/manga/1/162742.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

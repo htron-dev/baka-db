@@ -1,5 +1,7 @@
 # Wagamama na Ningyo-sama
 
+![wagamama-na-ningyo-sama](https://cdn.myanimelist.net/images/manga/2/162430.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

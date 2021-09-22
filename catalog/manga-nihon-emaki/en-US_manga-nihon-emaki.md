@@ -1,5 +1,7 @@
 # Manga Nihon Emaki
 
+![manga-nihon-emaki](https://cdn.myanimelist.net/images/anime/13/27280.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: まんが日本絵巻

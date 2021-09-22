@@ -1,5 +1,7 @@
 # Motenasasugita Ore wa, Toutou Ningyou ni Te wo Dashita
 
+![motenasasugita-ore-wa-toutou-ningyou-ni-te-wo-dashita](https://cdn.myanimelist.net/images/manga/3/186738.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: モテなさすぎた俺は、とうとう人形に手を出した

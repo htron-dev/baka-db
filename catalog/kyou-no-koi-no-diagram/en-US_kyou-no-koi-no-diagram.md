@@ -1,5 +1,7 @@
 # Kyou no Koi no Diagram
 
+![kyou-no-koi-no-diagram](https://cdn.myanimelist.net/images/manga/1/180671.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

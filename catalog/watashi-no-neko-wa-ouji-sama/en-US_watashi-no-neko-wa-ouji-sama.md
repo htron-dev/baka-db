@@ -1,5 +1,7 @@
 # Watashi no Neko wa Ouji-sama
 
+![watashi-no-neko-wa-ouji-sama](https://cdn.myanimelist.net/images/manga/1/5828.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: わたしの猫は王子様

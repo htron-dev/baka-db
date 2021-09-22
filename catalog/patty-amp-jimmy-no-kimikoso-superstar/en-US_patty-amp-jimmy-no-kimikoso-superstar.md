@@ -1,5 +1,7 @@
 # Patty &amp; Jimmy no Kimikoso Superstar
 
+![patty-amp-jimmy-no-kimikoso-superstar](https://cdn.myanimelist.net/images/anime/2/59003.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: パティ&ジミィの君こそスーパースター

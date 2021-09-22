@@ -1,5 +1,7 @@
 # Toshishita Kareshi Dekiai Nikki
 
+![toshishita-kareshi-dekiai-nikki](https://cdn.myanimelist.net/images/manga/1/241264.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

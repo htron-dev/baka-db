@@ -1,5 +1,7 @@
 # Anekouji Naoko to Giniro no Shinigami
 
+![anekouji-naoko-to-giniro-no-shinigami](https://cdn.myanimelist.net/images/manga/2/176088.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

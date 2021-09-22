@@ -1,5 +1,7 @@
 # Yonhyaku-nijuu Renpai Girl
 
+![yonhyaku-nijuu-renpai-girl](https://cdn.myanimelist.net/images/anime/10/47723.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 四百二十連敗ガール

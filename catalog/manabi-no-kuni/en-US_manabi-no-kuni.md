@@ -1,5 +1,7 @@
 # Manabi no Kuni
 
+![manabi-no-kuni](https://cdn.myanimelist.net/images/manga/2/73083.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

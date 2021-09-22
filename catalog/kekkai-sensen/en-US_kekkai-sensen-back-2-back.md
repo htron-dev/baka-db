@@ -1,5 +1,7 @@
 # Kekkai Sensen: Back 2 Back
 
+![kekkai-sensen-back-2-back](https://cdn.myanimelist.net/images/manga/3/171019.jpg)
+
 -   **type**: manga
 -   **original-name**: 血界戦線 Back 2 Back
 -   **start-date**: 2015-07-17

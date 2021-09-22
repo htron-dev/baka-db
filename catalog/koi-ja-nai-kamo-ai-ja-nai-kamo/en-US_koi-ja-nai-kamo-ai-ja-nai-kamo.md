@@ -1,5 +1,7 @@
 # Koi ja Nai Kamo Ai ja Nai Kamo
 
+![koi-ja-nai-kamo-ai-ja-nai-kamo](https://cdn.myanimelist.net/images/manga/1/79489.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

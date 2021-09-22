@@ -1,5 +1,7 @@
 # Girls Be...
 
+![girls-be](https://cdn.myanimelist.net/images/manga/2/192097.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

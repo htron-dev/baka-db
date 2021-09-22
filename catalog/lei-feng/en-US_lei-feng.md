@@ -1,5 +1,7 @@
 # Lei Feng
 
+![lei-feng](https://cdn.myanimelist.net/images/anime/1502/114512.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 雷锋

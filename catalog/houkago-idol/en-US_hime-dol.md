@@ -1,5 +1,7 @@
 # Hime-dol!!
 
+![hime-dol](https://cdn.myanimelist.net/images/manga/1/222015.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Do M Wanko no Otona Keikaku - Zokusei S to M
 
+![do-m-wanko-no-otona-keikaku-zokusei-s-to-m](https://cdn.myanimelist.net/images/manga/1/22301.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7
@@ -13,8 +15,6 @@
 
 -   Akira
 -   Rika (Story & Art)
-
-## Sinopse
 
 ## Links
 

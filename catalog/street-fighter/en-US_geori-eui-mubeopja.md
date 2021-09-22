@@ -1,5 +1,7 @@
 # Geori-eui Mubeopja
 
+![geori-eui-mubeopja](https://cdn.myanimelist.net/images/anime/7/71955.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 거리의 무법자
@@ -20,4 +22,4 @@ In the year 2010, after World War III, the world is devastated and most of the w
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/30042/Geori-eui_Mubeopja)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Street_Fighter_(1992_film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Street_Fighter_%281992_film%29)

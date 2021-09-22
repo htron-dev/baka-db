@@ -1,5 +1,7 @@
 # Digimon Adventure:
 
+![digimon-adventure](https://cdn.myanimelist.net/images/anime/1745/105558.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 66
 -   **original-name**: デジモンアドベンチャー:
@@ -31,4 +33,4 @@ Taichi discovers he is in the "Network," and virus-like Digimon are attacking th
 -   [Official Site](http://www.toei-anim.co.jp/tv/digimon/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15358)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22976)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Digimon_Adventure_(2020_TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Digimon_Adventure_%282020_TV_series%29)

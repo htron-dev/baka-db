@@ -1,5 +1,7 @@
 # Owari no Seraph: Nagoya Kessen-hen
 
+![owari-no-seraph-nagoya-kessen-hen](https://cdn.myanimelist.net/images/anime/9/76632.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 終わりのセラフ　名古屋決戦編

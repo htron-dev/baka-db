@@ -1,5 +1,7 @@
 # Asa Okitara Dungeon ga Shutsugen shiteita Nichijou ni Tsuite: Meikyuu to Koukousei
 
+![asa-okitara-dungeon-ga-shutsugen-shiteita-nichijou-ni-tsuite-meikyuu-to-koukousei](https://cdn.myanimelist.net/images/manga/2/246175.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

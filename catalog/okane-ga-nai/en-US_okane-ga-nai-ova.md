@@ -1,5 +1,7 @@
 # Okane ga Nai
 
+![okane-ga-nai](https://cdn.myanimelist.net/images/anime/8/88352.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: お金がないっ

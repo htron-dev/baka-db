@@ -1,5 +1,7 @@
 # Renai Fuyuki Todoki
 
+![renai-fuyuki-todoki](https://cdn.myanimelist.net/images/manga/1/224509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Bakuon!!
 
+![bakuon](https://cdn.myanimelist.net/images/manga/2/114503.jpg)
+
 -   **type**: manga
 -   **original-name**: ばくおん!!
 -   **start-date**: 2011-02-15

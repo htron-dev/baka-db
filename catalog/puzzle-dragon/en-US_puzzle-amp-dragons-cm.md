@@ -1,5 +1,7 @@
 # Puzzle &amp; Dragons CM
 
+![puzzle-amp-dragons-cm](https://cdn.myanimelist.net/images/anime/2/76708.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: パズル＆ドラゴンズ CM

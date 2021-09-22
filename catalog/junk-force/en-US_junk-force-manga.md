@@ -1,5 +1,7 @@
 # Junk Force
 
+![junk-force](https://cdn.myanimelist.net/images/manga/2/3825.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

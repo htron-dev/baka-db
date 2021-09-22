@@ -1,5 +1,7 @@
 # Haa Haa
 
+![haa-haa](https://cdn.myanimelist.net/images/manga/3/3977.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

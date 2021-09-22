@@ -1,5 +1,7 @@
 # The Circle
 
+![the-circle](https://cdn.myanimelist.net/images/manga/3/42565.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

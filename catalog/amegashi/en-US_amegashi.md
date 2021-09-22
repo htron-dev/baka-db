@@ -1,5 +1,7 @@
 # Amegashi
 
+![amegashi](https://cdn.myanimelist.net/images/manga/1/175578.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

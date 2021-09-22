@@ -1,5 +1,7 @@
 # Boku no Yome no Ranbou na Aijou
 
+![boku-no-yome-no-ranbou-na-aijou](https://cdn.myanimelist.net/images/manga/1/240663.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぼくの嫁の乱暴な愛情

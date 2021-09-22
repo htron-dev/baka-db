@@ -1,5 +1,7 @@
 # Last Dungeon e Youkoso
 
+![last-dungeon-e-youkoso](https://cdn.myanimelist.net/images/manga/3/176967.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ラストダンジョンへようこそ

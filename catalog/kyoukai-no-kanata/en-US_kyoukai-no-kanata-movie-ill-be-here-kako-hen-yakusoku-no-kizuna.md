@@ -1,5 +1,7 @@
 # Kyoukai no Kanata Movie: I'll Be Here - Kako-hen - Yakusoku no Kizuna
 
+![kyoukai-no-kanata-movie-ill-be-here-kako-hen-yakusoku-no-kizuna](https://cdn.myanimelist.net/images/anime/13/73894.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 劇場版 境界の彼方 -I'LL BE HERE- 過去篇『約束の絆』ダンス PV

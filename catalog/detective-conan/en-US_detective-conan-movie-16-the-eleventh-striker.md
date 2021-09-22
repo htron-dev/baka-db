@@ -1,5 +1,7 @@
 # Detective Conan Movie 16: The Eleventh Striker
 
+![detective-conan-movie-16-the-eleventh-striker](https://cdn.myanimelist.net/images/anime/8/37511.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版　名探偵コナン　 11 人目のストライカー

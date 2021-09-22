@@ -1,5 +1,7 @@
 # Kodoku Miman
 
+![kodoku-miman](https://cdn.myanimelist.net/images/manga/1/149169.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

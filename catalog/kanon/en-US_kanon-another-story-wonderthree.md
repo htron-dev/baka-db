@@ -1,5 +1,7 @@
 # Kanon: Another Story - Wonderthree
 
+![kanon-another-story-wonderthree](https://cdn.myanimelist.net/images/manga/1/11598.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: Kanon アナザーストーリー WONDERTHREE

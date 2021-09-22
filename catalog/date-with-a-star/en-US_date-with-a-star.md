@@ -1,5 +1,7 @@
 # Date With A Star
 
+![date-with-a-star](https://cdn.myanimelist.net/images/manga/2/10402.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スタアとデート

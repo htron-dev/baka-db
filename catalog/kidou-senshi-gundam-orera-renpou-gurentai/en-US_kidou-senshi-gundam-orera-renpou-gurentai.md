@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Orera Renpou Gurentai
 
+![kidou-senshi-gundam-orera-renpou-gurentai](https://cdn.myanimelist.net/images/manga/1/147345.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

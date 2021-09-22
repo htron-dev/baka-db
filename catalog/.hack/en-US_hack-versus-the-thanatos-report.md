@@ -1,5 +1,7 @@
 # .hack//Versus: The Thanatos Report
 
+![hack-versus-the-thanatos-report](https://cdn.myanimelist.net/images/anime/10/42325.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: .hack//Versus タナトスレポート

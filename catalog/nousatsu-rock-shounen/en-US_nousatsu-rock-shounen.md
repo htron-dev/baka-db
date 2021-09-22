@@ -1,5 +1,7 @@
 # Nousatsu Rock Shounen
 
+![nousatsu-rock-shounen](https://cdn.myanimelist.net/images/manga/3/175051.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

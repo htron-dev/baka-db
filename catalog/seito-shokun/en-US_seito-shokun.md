@@ -1,5 +1,7 @@
 # Seito Shokun!
 
+![seito-shokun](https://cdn.myanimelist.net/images/manga/1/118515.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **original-name**: 生徒諸君!

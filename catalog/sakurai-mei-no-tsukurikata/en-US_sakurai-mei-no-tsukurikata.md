@@ -1,5 +1,7 @@
 # Sakurai Mei no Tsukurikata
 
+![sakurai-mei-no-tsukurikata](https://cdn.myanimelist.net/images/manga/3/204337.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # D'v
 
+![dv](https://cdn.myanimelist.net/images/manga/5/837.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

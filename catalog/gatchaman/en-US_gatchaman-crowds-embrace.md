@@ -1,5 +1,7 @@
 # Gatchaman Crowds: Embrace
 
+![gatchaman-crowds-embrace](https://cdn.myanimelist.net/images/anime/6/61523.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ガッチャマン クラウズ『Embrace』

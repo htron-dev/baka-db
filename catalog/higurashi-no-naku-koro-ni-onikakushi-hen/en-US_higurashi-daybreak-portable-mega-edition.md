@@ -1,5 +1,7 @@
 # Higurashi Daybreak Portable: Mega Edition
 
+![higurashi-daybreak-portable-mega-edition](https://cdn.myanimelist.net/images/manga/2/137919.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

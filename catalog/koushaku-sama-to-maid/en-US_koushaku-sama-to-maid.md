@@ -1,5 +1,7 @@
 # Koushaku-sama to Maid
 
+![koushaku-sama-to-maid](https://cdn.myanimelist.net/images/manga/3/241798.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

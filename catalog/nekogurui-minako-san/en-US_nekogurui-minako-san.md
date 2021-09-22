@@ -1,5 +1,7 @@
 # Nekogurui Minako-san
 
+![nekogurui-minako-san](https://cdn.myanimelist.net/images/manga/3/124819.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ねこぐるい美奈子さん

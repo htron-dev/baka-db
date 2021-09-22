@@ -1,5 +1,7 @@
 # Sakura Buntsuu
 
+![sakura-buntsuu](https://cdn.myanimelist.net/images/manga/1/149205.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

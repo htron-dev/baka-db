@@ -1,5 +1,7 @@
 # Fumikiri Jikan
 
+![fumikiri-jikan](https://cdn.myanimelist.net/images/manga/3/202746.jpg)
+
 -   **type**: manga
 -   **original-name**: 踏切時間
 -   **start-date**: 2016-05-25

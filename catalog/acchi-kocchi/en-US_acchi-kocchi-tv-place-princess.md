@@ -1,5 +1,7 @@
 # Acchi Kocchi (TV): Place=Princess
 
+![acchi-kocchi-tv-place-princess](https://cdn.myanimelist.net/images/anime/12/43823.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あっちこっち 第 13 話(未放送)「PLACE=PRINCESS」

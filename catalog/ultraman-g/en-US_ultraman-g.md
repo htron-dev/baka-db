@@ -1,5 +1,7 @@
 # Ultraman G
 
+![ultraman-g](https://cdn.myanimelist.net/images/manga/3/5856.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ウルトラマン G
@@ -7,7 +9,6 @@
 ## Tags
 
 -   action
-
 -   sci-fi
 -   super-power
 

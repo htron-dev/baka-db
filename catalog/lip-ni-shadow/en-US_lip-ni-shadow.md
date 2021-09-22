@@ -1,5 +1,7 @@
 # Lip ni Shadow
 
+![lip-ni-shadow](https://cdn.myanimelist.net/images/manga/2/166605.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

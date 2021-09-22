@@ -1,5 +1,7 @@
 # Tenshi to Diamond
 
+![tenshi-to-diamond](https://cdn.myanimelist.net/images/manga/2/208114.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

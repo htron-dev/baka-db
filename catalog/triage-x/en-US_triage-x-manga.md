@@ -1,5 +1,7 @@
 # Triage X
 
+![triage-x](https://cdn.myanimelist.net/images/manga/1/151056.jpg)
+
 -   **type**: manga
 -   **original-name**: トリアージ X
 -   **start-date**: 2009-04-09

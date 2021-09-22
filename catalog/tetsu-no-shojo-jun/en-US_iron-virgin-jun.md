@@ -1,5 +1,7 @@
 # Iron Virgin Jun
 
+![iron-virgin-jun](https://cdn.myanimelist.net/images/anime/1613/99931.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 鉄の処女 JUN

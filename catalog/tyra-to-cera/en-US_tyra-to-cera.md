@@ -1,5 +1,7 @@
 # Tyra to Cera
 
+![tyra-to-cera](https://cdn.myanimelist.net/images/manga/2/238479.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

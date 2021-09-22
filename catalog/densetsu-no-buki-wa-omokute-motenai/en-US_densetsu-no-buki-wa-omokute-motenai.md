@@ -1,5 +1,7 @@
 # Densetsu no Buki wa Omokute Motenai.
 
+![densetsu-no-buki-wa-omokute-motenai](https://cdn.myanimelist.net/images/manga/1/200283.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 伝説の武器は重くて持てない。

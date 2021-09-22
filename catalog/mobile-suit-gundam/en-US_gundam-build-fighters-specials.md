@@ -1,5 +1,7 @@
 # Gundam Build Fighters Specials
 
+![gundam-build-fighters-specials](https://cdn.myanimelist.net/images/anime/8/67643.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ガンダムビルドファイターズ

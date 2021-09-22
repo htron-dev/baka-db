@@ -1,5 +1,7 @@
 # Uso! Aitsu ga Watashi no Danna-sama!?: Mezametara 10-nengo no Mirai
 
+![uso-aitsu-ga-watashi-no-danna-sama-mezametara-10-nengo-no-mirai](https://cdn.myanimelist.net/images/manga/2/124189.jpg)
+
 -   **type**: manga
 -   **original-name**: 嘘! アイツが私の旦那様!? ～目覚めたら 10 年後の未来～
 -   **start-date**: 2013-11-04

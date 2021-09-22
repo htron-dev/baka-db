@@ -1,5 +1,7 @@
 # Kamige tte Souiu Koto desu ka
 
+![kamige-tte-souiu-koto-desu-ka](https://cdn.myanimelist.net/images/manga/3/224258.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

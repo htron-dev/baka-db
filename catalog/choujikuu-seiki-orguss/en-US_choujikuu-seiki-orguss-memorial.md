@@ -1,5 +1,7 @@
 # Choujikuu Seiki Orguss Memorial
 
+![choujikuu-seiki-orguss-memorial](https://cdn.myanimelist.net/images/anime/13/78066.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 超時空世紀オーガス MEMORIAL

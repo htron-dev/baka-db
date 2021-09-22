@@ -1,5 +1,7 @@
 # Baraouin Karen no Salon Jikenbo
 
+![baraouin-karen-no-salon-jikenbo](https://cdn.myanimelist.net/images/manga/3/171929.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 薔薇王院可憐のサロン事件簿
 -   **start-date**: 2015-06-04

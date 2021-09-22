@@ -1,5 +1,7 @@
 # Qingwa Wangguo
 
+![qingwa-wangguo](https://cdn.myanimelist.net/images/anime/1809/112668.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 青蛙王国
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   sports
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Kokoro ga Sakebitagatterunda. x Sony Hi-Res "Walkman" and Headphone
 
+![kokoro-ga-sakebitagatterunda-x-sony-hi-res-walkman-and-headphone](https://cdn.myanimelist.net/images/anime/12/79673.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 心が叫びたがってるんだ。× ソニー製ハイレゾ対応「ウォークマン ®」＆ヘッドホン

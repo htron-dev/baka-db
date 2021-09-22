@@ -1,5 +1,7 @@
 # Pure Love Seasons 1: Haru - Hajimete
 
+![pure-love-seasons-1-haru-hajimete](https://cdn.myanimelist.net/images/manga/2/71941.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Saikyou Densetsu Kurosawa
 
+![saikyou-densetsu-kurosawa](https://cdn.myanimelist.net/images/manga/4/31742.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 90

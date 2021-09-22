@@ -1,5 +1,7 @@
 # M☆G☆Darling
 
+![m☆g☆-darling](https://cdn.myanimelist.net/images/manga/2/10717.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

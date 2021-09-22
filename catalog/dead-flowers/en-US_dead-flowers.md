@@ -1,5 +1,7 @@
 # Dead Flowers
 
+![dead-flowers](https://cdn.myanimelist.net/images/manga/1/12308.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: DEAD FLOWERS

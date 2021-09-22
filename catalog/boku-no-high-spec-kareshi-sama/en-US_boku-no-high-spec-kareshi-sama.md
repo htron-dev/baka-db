@@ -1,5 +1,7 @@
 # Boku no High Spec Kareshi-sama
 
+![boku-no-high-spec-kareshi-sama](https://cdn.myanimelist.net/images/manga/1/192468.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

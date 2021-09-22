@@ -1,5 +1,7 @@
 # Kouya no Kotobuki Hikoutai Gaiden: Oozora no Harukaze Hikoutai
 
+![kouya-no-kotobuki-hikoutai-gaiden-oozora-no-harukaze-hikoutai](https://cdn.myanimelist.net/images/anime/1665/111718.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 荒野のコトブキ飛行隊 外伝 大空のハルカゼ飛行隊

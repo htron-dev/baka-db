@@ -1,5 +1,7 @@
 # Super Robot Taisen OG: The Inspector - Record of ATX - Bad Beat Bunker
 
+![super-robot-taisen-og-the-inspector-record-of-atx-bad-beat-bunker](https://cdn.myanimelist.net/images/manga/2/230710.jpg)
+
 -   **type**: manga
 -   **original-name**: スーパーロボット大戦 OG -ジ・インスペクター- Record of ATX BAD BEAT BUNKER
 -   **start-date**: 2015-11-04

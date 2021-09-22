@@ -1,5 +1,7 @@
 # Luo Xiao Hei Zhan Ji: Fan Wai
 
+![luo-xiao-hei-zhan-ji-fan-wai](https://cdn.myanimelist.net/images/anime/3/88421.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 罗小黑战记 番外

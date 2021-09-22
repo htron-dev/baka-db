@@ -1,5 +1,7 @@
 # Ouji-sama no Obenkyou
 
+![ouji-sama-no-obenkyou](https://cdn.myanimelist.net/images/manga/1/176571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

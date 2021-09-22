@@ -1,5 +1,7 @@
 # Paranoia Cage
 
+![paranoia-cage](https://cdn.myanimelist.net/images/manga/2/162093.jpg)
+
 -   **type**: manga
 -   **original-name**: ぱらのいあけ〜じ
 -   **start-date**: 2013-12-10

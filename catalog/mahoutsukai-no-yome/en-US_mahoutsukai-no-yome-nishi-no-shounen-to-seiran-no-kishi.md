@@ -1,5 +1,7 @@
 # Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi
 
+![mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi](https://cdn.myanimelist.net/images/anime/1454/117626.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 魔法使いの嫁 西の少年と青嵐の騎士

@@ -1,5 +1,7 @@
 # Dandarin 101
 
+![dandarin-101](https://cdn.myanimelist.net/images/manga/1/225527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

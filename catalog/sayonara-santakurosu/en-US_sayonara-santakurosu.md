@@ -1,5 +1,7 @@
 # Sayonara Santakurosu
 
+![sayonara-santakurosu](https://cdn.myanimelist.net/images/manga/2/31565.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: さよならサンタクロース

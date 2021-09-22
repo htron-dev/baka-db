@@ -1,5 +1,7 @@
 # Tabi
 
+![tabi](https://cdn.myanimelist.net/images/anime/2/81224.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 旅

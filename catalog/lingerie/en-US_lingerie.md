@@ -1,5 +1,7 @@
 # Lingerie
 
+![lingerie](https://cdn.myanimelist.net/images/manga/3/39650.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 42

@@ -1,5 +1,7 @@
 # Osaru no Monkichi no Kin no Ono Gin no Ono
 
+![osaru-no-monkichi-no-kin-no-ono-gin-no-ono](https://cdn.myanimelist.net/images/anime/6/58883.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おさるのもんきちの金の斧 銀の斧

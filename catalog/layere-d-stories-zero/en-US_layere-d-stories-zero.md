@@ -1,5 +1,7 @@
 # LayereD Stories Zero
 
+![layere-d-stories-zero](https://cdn.myanimelist.net/images/anime/13/89193.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: レイヤードストーリーズ ゼロ

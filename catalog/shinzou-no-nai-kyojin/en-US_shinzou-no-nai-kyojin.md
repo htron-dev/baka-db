@@ -1,5 +1,7 @@
 # Shinzou no Nai Kyojin
 
+![shinzou-no-nai-kyojin](https://cdn.myanimelist.net/images/manga/2/32891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

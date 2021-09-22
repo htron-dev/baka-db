@@ -1,5 +1,7 @@
 # Amai no ga Osuki
 
+![amai-no-ga-osuki](https://cdn.myanimelist.net/images/manga/1/83737.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 甘いのがお好き

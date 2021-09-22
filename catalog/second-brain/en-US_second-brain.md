@@ -1,5 +1,7 @@
 # Second Brain
 
+![second-brain](https://cdn.myanimelist.net/images/manga/2/123383.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

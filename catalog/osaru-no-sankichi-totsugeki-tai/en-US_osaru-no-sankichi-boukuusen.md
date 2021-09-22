@@ -1,5 +1,7 @@
 # Osaru no Sankichi: Boukuusen
 
+![osaru-no-sankichi-boukuusen](https://cdn.myanimelist.net/images/anime/8/15848.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: お猿の三吉～防空戦～

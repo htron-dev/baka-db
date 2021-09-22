@@ -1,5 +1,7 @@
 # Tenka Hyakken: Meiji-kan e Youkoso!
 
+![tenka-hyakken-meiji-kan-e-youkoso](https://cdn.myanimelist.net/images/anime/1191/114788.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 天華百剣 ~めいじ館へようこそ!~

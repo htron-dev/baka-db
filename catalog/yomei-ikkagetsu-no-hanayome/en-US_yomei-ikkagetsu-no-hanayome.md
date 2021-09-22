@@ -1,5 +1,7 @@
 # Yomei Ikkagetsu no Hanayome
 
+![yomei-ikkagetsu-no-hanayome](https://cdn.myanimelist.net/images/manga/2/61591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

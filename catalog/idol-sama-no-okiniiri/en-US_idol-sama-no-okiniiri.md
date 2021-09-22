@@ -1,5 +1,7 @@
 # Idol-sama no Okiniiri!?
 
+![idol-sama-no-okiniiri](https://cdn.myanimelist.net/images/manga/3/223472.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

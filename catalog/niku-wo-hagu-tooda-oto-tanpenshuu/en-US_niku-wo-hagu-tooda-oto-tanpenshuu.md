@@ -1,5 +1,7 @@
 # Niku wo Hagu: Tooda Oto Tanpenshuu
 
+![niku-wo-hagu-tooda-oto-tanpenshuu](https://cdn.myanimelist.net/images/manga/2/244750.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

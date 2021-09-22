@@ -1,5 +1,7 @@
 # Italian no Onnanoko ga Isourou Suru Koto ni Natta
 
+![italian-no-onnanoko-ga-isourou-suru-koto-ni-natta](https://cdn.myanimelist.net/images/manga/3/240266.jpg)
+
 -   **type**: manga
 -   **original-name**: イタリア人の女の子が居候することになった
 -   **start-date**: 2020-12-23

@@ -1,5 +1,7 @@
 # Doamaiger D
 
+![doamaiger-d](https://cdn.myanimelist.net/images/anime/4/70995.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ドアマイガー D

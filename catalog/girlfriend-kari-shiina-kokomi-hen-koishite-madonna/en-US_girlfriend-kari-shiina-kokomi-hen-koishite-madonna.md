@@ -1,5 +1,7 @@
 # Girlfriend (Kari): Shiina Kokomi-hen - Koishite Madonna
 
+![girlfriend-kari-shiina-kokomi-hen-koishite-madonna](https://cdn.myanimelist.net/images/manga/3/154594.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Sam to Chip no wa Hachamecha Dai Race
 
+![sam-to-chip-no-wa-hachamecha-dai-race](https://cdn.myanimelist.net/images/anime/7/84562.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サムとチップのハチャメチャ大レース

@@ -1,5 +1,7 @@
 # Wakako-zake
 
+![wakako-zake](https://cdn.myanimelist.net/images/manga/2/110425.jpg)
+
 -   **type**: manga
 -   **original-name**: ワカコ酒
 -   **start-date**: 2011-07-25

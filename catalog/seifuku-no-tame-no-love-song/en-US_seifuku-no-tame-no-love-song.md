@@ -1,5 +1,7 @@
 # Seifuku no Tame no Love Song
 
+![seifuku-no-tame-no-love-song](https://cdn.myanimelist.net/images/manga/3/4858.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

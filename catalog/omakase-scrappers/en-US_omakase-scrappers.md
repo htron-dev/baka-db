@@ -1,5 +1,7 @@
 # Omakase Scrappers
 
+![omakase-scrappers](https://cdn.myanimelist.net/images/anime/5/47062.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: おまかせ スクラッパーズ

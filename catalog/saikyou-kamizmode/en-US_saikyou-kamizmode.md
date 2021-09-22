@@ -1,5 +1,7 @@
 # Saikyou Kamizmode!
 
+![saikyou-kamizmode](https://cdn.myanimelist.net/images/anime/1355/108815.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 最響カミズモード！

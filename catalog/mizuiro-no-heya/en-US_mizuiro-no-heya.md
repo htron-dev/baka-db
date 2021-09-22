@@ -1,5 +1,7 @@
 # Mizuiro no Heya
 
+![mizuiro-no-heya](https://cdn.myanimelist.net/images/manga/3/222491.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

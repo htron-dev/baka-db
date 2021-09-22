@@ -1,5 +1,7 @@
 # Hen na Chishiki ni Kuwashii Kanojo Takayukashiki Souko-san
 
+![hen-na-chishiki-ni-kuwashii-kanojo-takayukashiki-souko-san](https://cdn.myanimelist.net/images/manga/3/215416.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 85

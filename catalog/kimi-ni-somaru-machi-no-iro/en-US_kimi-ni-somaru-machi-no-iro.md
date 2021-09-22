@@ -1,5 +1,7 @@
 # Kimi ni Somaru Machi no Iro
 
+![kimi-ni-somaru-machi-no-iro](https://cdn.myanimelist.net/images/manga/3/241429.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

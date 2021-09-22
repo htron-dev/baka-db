@@ -1,5 +1,7 @@
 # Joker Series
 
+![joker-series](https://cdn.myanimelist.net/images/manga/2/240625.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 17

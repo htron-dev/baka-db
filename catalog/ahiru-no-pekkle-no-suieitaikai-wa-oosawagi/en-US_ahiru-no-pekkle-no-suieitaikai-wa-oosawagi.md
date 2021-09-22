@@ -1,5 +1,7 @@
 # Ahiru no Pekkle no Suieitaikai wa Oosawagi
 
+![ahiru-no-pekkle-no-suieitaikai-wa-oosawagi](https://cdn.myanimelist.net/images/anime/10/58947.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アヒルのペックルの水泳大会は大騷ぎ

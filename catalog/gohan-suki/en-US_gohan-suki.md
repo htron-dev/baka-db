@@ -1,5 +1,7 @@
 # Gohan Suki
 
+![gohan-suki](https://cdn.myanimelist.net/images/anime/1567/108113.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: ゴハンスキー

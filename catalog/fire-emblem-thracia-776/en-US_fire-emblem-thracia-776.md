@@ -1,5 +1,7 @@
 # Fire Emblem: Thracia 776
 
+![fire-emblem-thracia-776](https://cdn.myanimelist.net/images/manga/1/7186.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ファイアーエムブレムトラキア 776

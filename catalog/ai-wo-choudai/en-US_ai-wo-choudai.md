@@ -1,5 +1,7 @@
 # Ai wo Choudai!
 
+![ai-wo-choudai](https://cdn.myanimelist.net/images/manga/2/169045.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

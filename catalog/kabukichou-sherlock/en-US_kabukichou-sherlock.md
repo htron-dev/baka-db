@@ -1,5 +1,7 @@
 # Kabukichou Sherlock
 
+![kabukichou-sherlock](https://cdn.myanimelist.net/images/anime/1657/111622.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 歌舞伎町シャーロック

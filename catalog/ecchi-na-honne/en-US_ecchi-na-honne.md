@@ -1,5 +1,7 @@
 # Ecchi na Honne
 
+![ecchi-na-honne](https://cdn.myanimelist.net/images/manga/2/9243.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: えっちなホンネ

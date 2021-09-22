@@ -1,5 +1,7 @@
 # 10-nengoshi no Hiki-NEET wo Yamete Gaishutsu shitara
 
+![10-nengoshi-no-hiki-neet-wo-yamete-gaishutsu-shitara](https://cdn.myanimelist.net/images/manga/2/202361.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 42

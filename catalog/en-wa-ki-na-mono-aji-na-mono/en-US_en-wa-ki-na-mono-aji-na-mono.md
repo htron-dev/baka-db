@@ -1,5 +1,7 @@
 # En wa Ki na Mono Aji na Mono
 
+![en-wa-ki-na-mono-aji-na-mono](https://cdn.myanimelist.net/images/manga/1/12148.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

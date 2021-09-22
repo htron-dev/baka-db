@@ -1,5 +1,7 @@
 # Abu Shui Qian Gushi
 
+![abu-shui-qian-gushi](https://cdn.myanimelist.net/images/anime/1388/115444.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 77
 -   **original-name**: 阿布睡前故事

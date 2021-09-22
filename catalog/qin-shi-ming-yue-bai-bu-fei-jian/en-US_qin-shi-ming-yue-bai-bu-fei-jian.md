@@ -1,5 +1,7 @@
 # Qin Shi Ming Yue: Bai Bu Fei Jian
 
+![qin-shi-ming-yue-bai-bu-fei-jian](https://cdn.myanimelist.net/images/anime/7/63587.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 秦时明月

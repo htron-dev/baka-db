@@ -1,5 +1,7 @@
 # Kaitouranma The Animation
 
+![kaitouranma-the-animation](https://cdn.myanimelist.net/images/anime/5/61785.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 快刀乱麻 THE ANIMATION

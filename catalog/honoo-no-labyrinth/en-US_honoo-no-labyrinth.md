@@ -1,5 +1,7 @@
 # Honoo no Labyrinth
 
+![honoo-no-labyrinth](https://cdn.myanimelist.net/images/anime/3/20329.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 炎のらびりんす

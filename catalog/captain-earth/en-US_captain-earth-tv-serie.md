@@ -1,5 +1,7 @@
 # Captain Earth
 
+![captain-earth](https://cdn.myanimelist.net/images/anime/7/61051.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: キャプテン・アース

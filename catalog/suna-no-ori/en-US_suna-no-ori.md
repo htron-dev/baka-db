@@ -1,5 +1,7 @@
 # Suna no Ori
 
+![suna-no-ori](https://cdn.myanimelist.net/images/manga/3/228806.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 砂の檻

@@ -1,5 +1,7 @@
 # Touhou Sangetsusei: Oriental Sacred Place
 
+![touhou-sangetsusei-oriental-sacred-place](https://cdn.myanimelist.net/images/manga/2/171905.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

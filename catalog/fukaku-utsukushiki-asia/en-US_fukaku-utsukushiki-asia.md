@@ -1,5 +1,7 @@
 # Fukaku Utsukushiki Asia
 
+![fukaku-utsukushiki-asia](https://cdn.myanimelist.net/images/manga/1/240706.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

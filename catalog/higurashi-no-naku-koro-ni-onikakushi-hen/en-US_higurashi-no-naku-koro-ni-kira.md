@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Kira
 
+![higurashi-no-naku-koro-ni-kira](https://cdn.myanimelist.net/images/anime/6/29774.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ひぐらしのなく頃に煌

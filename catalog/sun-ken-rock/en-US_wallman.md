@@ -1,5 +1,7 @@
 # Wallman
 
+![wallman](https://cdn.myanimelist.net/images/manga/2/165375.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

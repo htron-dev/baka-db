@@ -1,5 +1,7 @@
 # Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka
 
+![yuu☆-yuu☆-hakusho-two-shots-noru-ka-soru-ka](https://cdn.myanimelist.net/images/anime/1191/97154.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 幽 ☆ 遊 ☆ 白書 完全新作アニメーション

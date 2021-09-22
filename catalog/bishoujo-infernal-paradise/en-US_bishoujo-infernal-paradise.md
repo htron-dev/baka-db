@@ -1,5 +1,7 @@
 # Bishoujo Infernal Paradise!
 
+![bishoujo-infernal-paradise](https://cdn.myanimelist.net/images/manga/3/194172.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 131

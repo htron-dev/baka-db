@@ -1,5 +1,7 @@
 # Maria-sama ga Miteru
 
+![maria-sama-ga-miteru](https://cdn.myanimelist.net/images/manga/1/962.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6
@@ -19,13 +21,6 @@
 ## Sinopse
 
 Manga shorts based on the light novels and drawn by the series's original illustrator, Hibiki Reine.
-
-## Links
-
--   [My Anime list](https://myanimelist.net/manga/18784/Maria-sama_ga_Miteru)
-    rls with a tradition that older girls take a younger girl as their little sister or "soeur," suddenly finds herself interacting with the members of the Yamayurikai and their soeurs when an innocent encounter leads Sachiko to impulsively ask Yumi to be her soeur.
-
-(Source: ANN)
 
 ## Links
 

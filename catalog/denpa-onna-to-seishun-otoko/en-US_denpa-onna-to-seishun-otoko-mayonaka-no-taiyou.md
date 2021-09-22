@@ -1,5 +1,7 @@
 # Denpa Onna to Seishun Otoko: Mayonaka no Taiyou
 
+![denpa-onna-to-seishun-otoko-mayonaka-no-taiyou](https://cdn.myanimelist.net/images/anime/3/36709.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 電波女と青春男 真夜中の太陽

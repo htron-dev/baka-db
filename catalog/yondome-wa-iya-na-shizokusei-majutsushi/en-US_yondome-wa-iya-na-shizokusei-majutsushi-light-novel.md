@@ -1,5 +1,7 @@
 # Yondome wa Iya na Shizokusei Majutsushi
 
+![yondome-wa-iya-na-shizokusei-majutsushi](https://cdn.myanimelist.net/images/manga/1/192745.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 四度目は嫌な死属性魔術師
 -   **start-date**: 2016-12-15

@@ -1,5 +1,7 @@
 # Uchi no Himesama ni wa Gakkari desu....
 
+![uchi-no-himesama-ni-wa-gakkari-desu](https://cdn.myanimelist.net/images/manga/2/164570.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: ウチの姫さまにはがっかりです・・・。

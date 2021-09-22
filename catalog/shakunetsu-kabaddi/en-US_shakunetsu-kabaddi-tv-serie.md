@@ -1,5 +1,7 @@
 # Shakunetsu Kabaddi
 
+![shakunetsu-kabaddi](https://cdn.myanimelist.net/images/anime/1936/114022.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 灼熱カバディ

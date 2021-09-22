@@ -1,5 +1,7 @@
 # Mabudachi Jingi
 
+![mabudachi-jingi](https://cdn.myanimelist.net/images/manga/1/71099.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Ore to Kanojo ga Geboku de Dorei de Shuujuu Keiyaku
 
+![ore-to-kanojo-ga-geboku-de-dorei-de-shuujuu-keiyaku](https://cdn.myanimelist.net/images/manga/1/177265.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 33

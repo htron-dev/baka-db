@@ -1,5 +1,7 @@
 # Samejima-kun to Sasahara-kun
 
+![samejima-kun-to-sasahara-kun](https://cdn.myanimelist.net/images/manga/2/64303.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

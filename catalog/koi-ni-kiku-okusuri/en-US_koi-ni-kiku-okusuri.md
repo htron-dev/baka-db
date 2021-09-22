@@ -1,5 +1,7 @@
 # Koi ni Kiku Okusuri
 
+![koi-ni-kiku-okusuri](https://cdn.myanimelist.net/images/manga/2/79473.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋に効くお薬

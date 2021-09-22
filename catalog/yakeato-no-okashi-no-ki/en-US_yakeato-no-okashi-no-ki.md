@@ -1,5 +1,7 @@
 # Yakeato no, Okashi no Ki
 
+![yakeato-no-okashi-no-ki](https://cdn.myanimelist.net/images/anime/9/42867.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 焼跡の, お菓子の木

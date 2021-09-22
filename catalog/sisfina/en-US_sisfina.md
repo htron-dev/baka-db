@@ -1,5 +1,7 @@
 # Sisfina
 
+![sisfina](https://cdn.myanimelist.net/images/manga/1/166941.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

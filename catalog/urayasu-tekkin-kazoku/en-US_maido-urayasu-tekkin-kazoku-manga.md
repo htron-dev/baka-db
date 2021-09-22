@@ -1,5 +1,7 @@
 # Maido! Urayasu Tekkin Kazoku
 
+![maido-urayasu-tekkin-kazoku](https://cdn.myanimelist.net/images/manga/2/46049.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 362

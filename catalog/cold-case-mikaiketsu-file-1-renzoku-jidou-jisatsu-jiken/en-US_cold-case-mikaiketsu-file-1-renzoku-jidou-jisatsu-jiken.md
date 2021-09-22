@@ -1,5 +1,7 @@
 # Cold Case: Mikaiketsu File.1 - Renzoku Jidou Jisatsu Jiken
 
+![cold-case-mikaiketsu-file-1-renzoku-jidou-jisatsu-jiken](https://cdn.myanimelist.net/images/manga/1/178759.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

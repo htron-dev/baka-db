@@ -1,5 +1,7 @@
 # Dog Days
 
+![dog-days](https://cdn.myanimelist.net/images/manga/2/145041.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 4
 -   **original-name**: DOG DAYS

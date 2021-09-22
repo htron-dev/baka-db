@@ -1,5 +1,7 @@
 # The Devil's Trill
 
+![the-devils-trill](https://cdn.myanimelist.net/images/manga/2/21540.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 4

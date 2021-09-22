@@ -1,5 +1,7 @@
 # The Sock Monster Season 3
 
+![the-sock-monster-season-3](https://cdn.myanimelist.net/images/manga/1/205784.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 21

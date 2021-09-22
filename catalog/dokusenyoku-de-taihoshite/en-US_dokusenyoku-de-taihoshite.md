@@ -1,5 +1,7 @@
 # Dokusenyoku de Taihoshite!
 
+![dokusenyoku-de-taihoshite](https://cdn.myanimelist.net/images/manga/1/195005.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 独占欲で逮捕して！

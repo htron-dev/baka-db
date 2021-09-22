@@ -1,5 +1,7 @@
 # Sapphire: Ribbon no Kishi
 
+![sapphire-ribbon-no-kishi](https://cdn.myanimelist.net/images/manga/4/84069.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: サファイア　リボンの騎士

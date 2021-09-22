@@ -1,5 +1,7 @@
 # Shimotsuki-sensei no Amakunai Renai Kouza
 
+![shimotsuki-sensei-no-amakunai-renai-kouza](https://cdn.myanimelist.net/images/manga/1/224539.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

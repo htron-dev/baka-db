@@ -1,5 +1,7 @@
 # Yuuki wo Dashite
 
+![yuuki-wo-dashite](https://cdn.myanimelist.net/images/manga/3/238179.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

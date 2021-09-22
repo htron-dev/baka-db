@@ -1,5 +1,7 @@
 # Boku to Shishou no Himitsu Koubou
 
+![boku-to-shishou-no-himitsu-koubou](https://cdn.myanimelist.net/images/manga/3/208013.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

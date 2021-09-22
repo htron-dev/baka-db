@@ -1,5 +1,7 @@
 # Haou ni Tsunagareta Kotori
 
+![haou-ni-tsunagareta-kotori](https://cdn.myanimelist.net/images/manga/1/192417.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

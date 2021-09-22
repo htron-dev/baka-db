@@ -1,5 +1,7 @@
 # Kimi no Na wa.
 
+![kimi-no-na-wa](https://cdn.myanimelist.net/images/manga/1/182270.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

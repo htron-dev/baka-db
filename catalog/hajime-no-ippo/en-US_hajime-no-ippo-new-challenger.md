@@ -1,5 +1,7 @@
 # Hajime no Ippo: New Challenger
 
+![hajime-no-ippo-new-challenger](https://cdn.myanimelist.net/images/anime/8/56617.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: はじめの一歩 新シリーズ
@@ -28,4 +30,4 @@ Japanese Featherweight Champion Ippo Makunouchi has successfully defended and re
 -   [Official Site](http://www.vap.co.jp/ippo/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6153)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10387)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Fighting_Spirit_(manga)#The_Second_Series>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Fighting_Spirit_%28manga%29#The_Second_Series)

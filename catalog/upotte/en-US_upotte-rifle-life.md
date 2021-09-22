@@ -1,5 +1,7 @@
 # Upotte!! Rifle Life
 
+![upotte-rifle-life](https://cdn.myanimelist.net/images/manga/3/162577.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

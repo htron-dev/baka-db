@@ -1,5 +1,7 @@
 # Kimi ga Mai Orite Kita
 
+![kimi-ga-mai-orite-kita](https://cdn.myanimelist.net/images/manga/4/5354.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

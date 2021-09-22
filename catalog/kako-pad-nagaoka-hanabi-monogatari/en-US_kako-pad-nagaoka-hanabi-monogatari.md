@@ -1,5 +1,7 @@
 # KakoPad: Nagaoka Hanabi Monogatari
 
+![kako-pad-nagaoka-hanabi-monogatari](https://cdn.myanimelist.net/images/anime/1014/92897.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: かこパッド ー長岡花火物語ー
@@ -9,7 +11,6 @@
 ## Tags
 
 -   historical
-
 -   sci-fi
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Chueog-ui Geomjeong-gomusin
 
+![chueog-ui-geomjeong-gomusin](https://cdn.myanimelist.net/images/anime/1933/114492.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 추억의 검정고무신

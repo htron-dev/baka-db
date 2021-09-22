@@ -1,5 +1,7 @@
 # Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu
 
+![tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu](https://cdn.myanimelist.net/images/manga/3/239197.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生した大聖女は、聖女であることをひた隠す
 -   **start-date**: 2019-12-19

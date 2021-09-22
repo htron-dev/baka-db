@@ -1,5 +1,7 @@
 # Kingsglaive: FFXV Fan Kansha Tokubetsu Movie
 
+![kingsglaive-ffxv-fan-kansha-tokubetsu-movie](https://cdn.myanimelist.net/images/anime/9/83648.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: KINGSGLAIVE FFXV ファン感謝特別ムービー

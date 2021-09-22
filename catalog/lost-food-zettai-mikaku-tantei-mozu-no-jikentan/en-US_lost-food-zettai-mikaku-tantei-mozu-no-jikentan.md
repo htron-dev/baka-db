@@ -1,5 +1,7 @@
 # Lost Food: Zettai Mikaku Tantei Mozu no Jikentan
 
+![lost-food-zettai-mikaku-tantei-mozu-no-jikentan](https://cdn.myanimelist.net/images/manga/3/217089.jpg)
+
 -   **type**: manga
 -   **original-name**: ロストフード 絶対味覚探偵モズの事件譚
 -   **start-date**: 2018-07-24

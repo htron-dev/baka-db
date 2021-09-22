@@ -1,5 +1,7 @@
 # Boku datte, Kiss shitai.
 
+![boku-datte-kiss-shitai](https://cdn.myanimelist.net/images/manga/1/226236.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

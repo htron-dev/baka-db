@@ -1,5 +1,7 @@
 # Dekitara Ii na
 
+![dekitara-ii-na](https://cdn.myanimelist.net/images/manga/1/204522.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

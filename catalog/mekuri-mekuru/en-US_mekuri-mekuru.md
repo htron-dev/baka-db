@@ -1,5 +1,7 @@
 # Mekuri Mekuru
 
+![mekuri-mekuru](https://cdn.myanimelist.net/images/manga/3/129927.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 46

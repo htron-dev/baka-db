@@ -1,5 +1,7 @@
 # Rescue Wings Zero
 
+![rescue-wings-zero](https://cdn.myanimelist.net/images/manga/2/34267.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: レスキューウイングスゼロ

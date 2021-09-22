@@ -1,5 +1,7 @@
 # Junjou Minimum
 
+![junjou-minimum](https://cdn.myanimelist.net/images/manga/3/8582.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kaijuu no Shiiku Iin
 
+![kaijuu-no-shiiku-iin](https://cdn.myanimelist.net/images/manga/1/200644.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

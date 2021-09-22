@@ -1,5 +1,7 @@
 # Chihiro-kun wa, Atashi Holic.
 
+![chihiro-kun-wa-atashi-holic](https://cdn.myanimelist.net/images/manga/1/234835.jpg)
+
 -   **type**: manga
 -   **original-name**: 千紘くんは、あたし中毒〈ホリック〉。
 -   **start-date**: 2019-06-03

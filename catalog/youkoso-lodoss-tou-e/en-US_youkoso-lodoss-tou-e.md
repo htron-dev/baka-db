@@ -1,5 +1,7 @@
 # Youkoso Lodoss-tou e!
 
+![youkoso-lodoss-tou-e](https://cdn.myanimelist.net/images/manga/3/17027.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ようこそロードス島へ!

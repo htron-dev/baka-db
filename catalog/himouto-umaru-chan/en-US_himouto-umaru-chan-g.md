@@ -1,5 +1,7 @@
 # Himouto! Umaru-chan G
 
+![himouto-umaru-chan-g](https://cdn.myanimelist.net/images/manga/1/210505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

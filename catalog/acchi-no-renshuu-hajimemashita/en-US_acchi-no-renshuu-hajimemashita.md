@@ -1,5 +1,7 @@
 # Acchi no Renshuu Hajimemashita.
 
+![acchi-no-renshuu-hajimemashita](https://cdn.myanimelist.net/images/manga/1/236026.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

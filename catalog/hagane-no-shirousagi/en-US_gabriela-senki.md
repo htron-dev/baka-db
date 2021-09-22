@@ -1,5 +1,7 @@
 # Gabriela Senki
 
+![gabriela-senki](https://cdn.myanimelist.net/images/manga/3/162041.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 48

@@ -1,5 +1,7 @@
 # Zetsubou no Eve
 
+![zetsubou-no-eve](https://cdn.myanimelist.net/images/manga/3/166839.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

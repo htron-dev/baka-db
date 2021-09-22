@@ -1,5 +1,7 @@
 # Tobaku Datenroku Kaiji: Kazuya-hen
 
+![tobaku-datenroku-kaiji-kazuya-hen](https://cdn.myanimelist.net/images/manga/2/24616.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 100

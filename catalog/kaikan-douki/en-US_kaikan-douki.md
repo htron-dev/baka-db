@@ -1,5 +1,7 @@
 # Kaikan Douki
 
+![kaikan-douki](https://cdn.myanimelist.net/images/manga/3/227701.jpg)
+
 -   **type**: manga
 -   **original-name**: カイカンドウキ
 -   **start-date**: 2019-09-23

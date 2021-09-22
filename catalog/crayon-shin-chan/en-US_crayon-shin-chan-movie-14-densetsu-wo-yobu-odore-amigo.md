@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 14: Densetsu wo Yobu Odore! Amigo!
 
+![crayon-shin-chan-movie-14-densetsu-wo-yobu-odore-amigo](https://cdn.myanimelist.net/images/anime/10/83750.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 クレヨンしんちゃん　伝説を呼ぶ　踊れ！アミーゴ！

@@ -1,5 +1,7 @@
 # Chao Zhi Neng Zu Qiu
 
+![chao-zhi-neng-zu-qiu](https://cdn.myanimelist.net/images/anime/1021/91274.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 超智能足球

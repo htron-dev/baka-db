@@ -1,5 +1,7 @@
 # Luck & Logic: Paradox Twin
 
+![luck-logic-paradox-twin](https://cdn.myanimelist.net/images/manga/2/210728.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

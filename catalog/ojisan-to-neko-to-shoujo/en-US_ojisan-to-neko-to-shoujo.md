@@ -1,5 +1,7 @@
 # Ojisan to Neko to Shoujo
 
+![ojisan-to-neko-to-shoujo](https://cdn.myanimelist.net/images/manga/2/222327.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 38

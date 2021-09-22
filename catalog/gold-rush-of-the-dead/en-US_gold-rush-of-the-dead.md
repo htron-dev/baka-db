@@ -1,5 +1,7 @@
 # Gold Rush of the Dead
 
+![gold-rush-of-the-dead](https://cdn.myanimelist.net/images/manga/1/158157.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

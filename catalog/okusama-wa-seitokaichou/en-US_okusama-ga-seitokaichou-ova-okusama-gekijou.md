@@ -1,5 +1,7 @@
 # Okusama ga Seitokaichou! OVA: Okusama Gekijou
 
+![okusama-ga-seitokaichou-ova-okusama-gekijou](https://cdn.myanimelist.net/images/anime/12/78487.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: おくさまが生徒会長！OAD「おくさま劇場」

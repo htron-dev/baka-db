@@ -1,5 +1,7 @@
 # Hoshino, Me wo Tsubutte.
 
+![hoshino-me-wo-tsubutte](https://cdn.myanimelist.net/images/manga/3/188902.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 107

@@ -1,5 +1,7 @@
 # Mugen Spiral
 
+![mugen-spiral](https://cdn.myanimelist.net/images/manga/1/109475.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

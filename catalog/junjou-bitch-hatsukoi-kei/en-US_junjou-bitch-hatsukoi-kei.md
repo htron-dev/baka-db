@@ -1,5 +1,7 @@
 # Junjou Bitch, Hatsukoi-kei
 
+![junjou-bitch-hatsukoi-kei](https://cdn.myanimelist.net/images/manga/1/201116.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

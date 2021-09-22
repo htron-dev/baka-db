@@ -1,5 +1,7 @@
 # Direct Animation
 
+![direct-animation](https://cdn.myanimelist.net/images/anime/4/72632.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ダイレクト・アニメーション

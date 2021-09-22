@@ -1,5 +1,7 @@
 # Kuru-Mix
 
+![kuru-mix](https://cdn.myanimelist.net/images/manga/1/35609.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: くるみっくす
@@ -11,8 +13,6 @@
 
 -   Kurumi
 -   Chino (Story & Art)
-
-## Sinopse
 
 ## Links
 

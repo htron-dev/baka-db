@@ -1,5 +1,7 @@
 # Hengen Taima Yakou Karura Mau! Sendai Kokeshi Enka
 
+![hengen-taima-yakou-karura-mau-sendai-kokeshi-enka](https://cdn.myanimelist.net/images/anime/1539/97315.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 変幻退魔夜行 カルラ舞う！ 仙台小芥子怨歌

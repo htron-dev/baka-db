@@ -1,5 +1,7 @@
 # Zettai Shougeki: Platonic Heart Picture Drama
 
+![zettai-shougeki-platonic-heart-picture-drama](https://cdn.myanimelist.net/images/anime/2/56101.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 絶対衝激 ~PLATONIC HEART~ ピクチャードラマ

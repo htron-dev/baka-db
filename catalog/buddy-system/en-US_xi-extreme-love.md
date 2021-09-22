@@ -1,5 +1,7 @@
 # XI Extreme Love
 
+![xi-extreme-love](https://cdn.myanimelist.net/images/manga/3/1344.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Sayonara Note
 
+![sayonara-note](https://cdn.myanimelist.net/images/manga/2/169796.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Cinderella Express
 
+![cinderella-express](https://cdn.myanimelist.net/images/manga/3/48495.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: シンデレラ・エクスプレス

@@ -1,5 +1,7 @@
 # S.I.A.: Seitokai Himitsu Jouhoubu
 
+![s-i-a-seitokai-himitsu-jouhoubu](https://cdn.myanimelist.net/images/manga/2/178272.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: S.I.A. ―生徒会秘密情報部―

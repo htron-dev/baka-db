@@ -1,5 +1,7 @@
 # Konjiki no Gash!!
 
+![konjiki-no-gash](https://cdn.myanimelist.net/images/manga/3/172209.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **chapters**: 323

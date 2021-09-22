@@ -1,5 +1,7 @@
 # Dennou Coil
 
+![dennou-coil](https://cdn.myanimelist.net/images/anime/5/12844.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 電脳コイル

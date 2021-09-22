@@ -1,5 +1,7 @@
 # Kyuujou Sajiki
 
+![kyuujou-sajiki](https://cdn.myanimelist.net/images/manga/1/225710.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

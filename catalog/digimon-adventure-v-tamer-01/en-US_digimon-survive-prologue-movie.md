@@ -1,5 +1,7 @@
 # Digimon Survive: Prologue Movie
 
+![digimon-survive-prologue-movie](https://cdn.myanimelist.net/images/anime/1099/102198.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 『デジモンサヴァイブ』プロローグムービー

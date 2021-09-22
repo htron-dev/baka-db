@@ -1,5 +1,7 @@
 # Lovers Flowers
 
+![lovers-flowers](https://cdn.myanimelist.net/images/manga/2/169807.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

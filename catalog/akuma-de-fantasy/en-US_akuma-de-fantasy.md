@@ -1,5 +1,7 @@
 # Akuma de Fantasy!?
 
+![akuma-de-fantasy](https://cdn.myanimelist.net/images/manga/1/97229.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

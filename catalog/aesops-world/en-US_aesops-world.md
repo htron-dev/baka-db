@@ -1,5 +1,7 @@
 # Aesop's World
 
+![aesops-world](https://cdn.myanimelist.net/images/anime/8/72148.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: イソップ・ワールド

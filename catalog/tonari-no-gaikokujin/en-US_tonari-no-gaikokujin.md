@@ -1,5 +1,7 @@
 # Tonari no Gaikokujin
 
+![tonari-no-gaikokujin](https://cdn.myanimelist.net/images/manga/1/164047.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

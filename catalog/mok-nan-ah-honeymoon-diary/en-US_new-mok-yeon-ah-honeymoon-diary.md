@@ -1,5 +1,7 @@
 # New Mok Yeon-Ah Honeymoon Diary
 
+![new-mok-yeon-ah-honeymoon-diary](https://cdn.myanimelist.net/images/manga/3/35711.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 13
 -   **original-name**: 신 목연아의 신혼일기

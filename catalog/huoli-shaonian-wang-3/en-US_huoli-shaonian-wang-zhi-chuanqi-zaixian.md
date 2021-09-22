@@ -1,5 +1,7 @@
 # Huoli Shaonian Wang zhi Chuanqi Zaixian
 
+![huoli-shaonian-wang-zhi-chuanqi-zaixian](https://cdn.myanimelist.net/images/anime/1882/93045.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 火力少年王之传奇再现
@@ -10,7 +12,6 @@
 ## Tags
 
 -   game
-
 -   magic
 -   fantasy
 

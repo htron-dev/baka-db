@@ -1,5 +1,7 @@
 # Bestia
 
+![bestia](https://cdn.myanimelist.net/images/manga/2/232608.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

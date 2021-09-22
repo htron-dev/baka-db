@@ -1,5 +1,7 @@
 # Wonder 3 Pilot
 
+![wonder-3-pilot](https://cdn.myanimelist.net/images/anime/13/74032.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンダースリー

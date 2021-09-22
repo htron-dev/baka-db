@@ -1,5 +1,7 @@
 # Gakuen Kakumeiden Mitsurugi Nakayoshi
 
+![gakuen-kakumeiden-mitsurugi-nakayoshi](https://cdn.myanimelist.net/images/manga/1/222018.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

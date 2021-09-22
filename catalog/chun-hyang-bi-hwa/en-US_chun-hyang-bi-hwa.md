@@ -1,5 +1,7 @@
 # Chun Hyang Bi Hwa
 
+![chun-hyang-bi-hwa](https://cdn.myanimelist.net/images/manga/2/22390.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 天香秘話 천향비화

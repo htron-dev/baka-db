@@ -1,5 +1,7 @@
 # Robot Taekwon V
 
+![robot-taekwon-v](https://cdn.myanimelist.net/images/anime/5/29661.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 로보트 태권 V

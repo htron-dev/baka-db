@@ -1,5 +1,7 @@
 # Kurayami no Venus
 
+![kurayami-no-venus](https://cdn.myanimelist.net/images/manga/1/228883.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 暗闇のヴィーナス

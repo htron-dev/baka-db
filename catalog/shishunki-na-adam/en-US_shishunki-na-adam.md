@@ -1,5 +1,7 @@
 # Shishunki na Adam
 
+![shishunki-na-adam](https://cdn.myanimelist.net/images/manga/3/177681.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 82

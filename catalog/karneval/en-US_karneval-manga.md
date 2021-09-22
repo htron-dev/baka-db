@@ -1,5 +1,7 @@
 # Karneval
 
+![karneval](https://cdn.myanimelist.net/images/manga/3/172699.jpg)
+
 -   **type**: manga
 -   **original-name**: カーニヴァル
 -   **start-date**: 2007-08-28

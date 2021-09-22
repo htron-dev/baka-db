@@ -1,5 +1,7 @@
 # Zom 100: Zombie ni Naru made ni Shitai 100 no Koto
 
+![zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto](https://cdn.myanimelist.net/images/manga/3/223116.jpg)
+
 -   **type**: manga
 -   **original-name**: ゾン 100 ～ゾンビになるまでにしたい 100 のこと～
 -   **start-date**: 2018-10-19

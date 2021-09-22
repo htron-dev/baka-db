@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Nihon no Kibo - Akujo Den
 
+![manga-grimm-douwa-nihon-no-kibo-akujo-den](https://cdn.myanimelist.net/images/manga/3/141949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

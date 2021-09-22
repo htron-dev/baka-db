@@ -1,5 +1,7 @@
 # Gomenne♥Idol-kun
 
+![gomenne♥-idol-kun](https://cdn.myanimelist.net/images/manga/2/136925.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

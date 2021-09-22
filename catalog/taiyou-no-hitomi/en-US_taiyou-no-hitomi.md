@@ -1,5 +1,7 @@
 # Taiyou no Hitomi
 
+![taiyou-no-hitomi](https://cdn.myanimelist.net/images/manga/1/102017.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: タイヨウノヒトミ

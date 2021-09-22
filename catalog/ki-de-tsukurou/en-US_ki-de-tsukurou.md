@@ -1,5 +1,7 @@
 # Ki de Tsukurou
 
+![ki-de-tsukurou](https://cdn.myanimelist.net/images/anime/7/88416.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 木でつくろう

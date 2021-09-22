@@ -1,5 +1,7 @@
 # Eden no Sakura
 
+![eden-no-sakura](https://cdn.myanimelist.net/images/manga/1/14051.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: エデンの桜

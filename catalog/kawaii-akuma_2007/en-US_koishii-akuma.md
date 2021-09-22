@@ -1,5 +1,7 @@
 # Koishii Akuma
 
+![koishii-akuma](https://cdn.myanimelist.net/images/manga/2/161599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

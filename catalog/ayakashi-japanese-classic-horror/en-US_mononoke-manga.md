@@ -1,5 +1,7 @@
 # Mononoke
 
+![mononoke](https://cdn.myanimelist.net/images/manga/1/21247.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

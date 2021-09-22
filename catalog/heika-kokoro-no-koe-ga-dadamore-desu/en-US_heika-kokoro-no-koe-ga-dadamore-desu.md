@@ -1,5 +1,7 @@
 # Heika, Kokoro no Koe ga Dadamore desu!
 
+![heika-kokoro-no-koe-ga-dadamore-desu](https://cdn.myanimelist.net/images/manga/1/243843.jpg)
+
 -   **type**: manga
 -   **original-name**: 陛下、心の声がだだ漏れです！
 -   **start-date**: 2020-12-28

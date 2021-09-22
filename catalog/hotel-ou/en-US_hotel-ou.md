@@ -1,5 +1,7 @@
 # Hotel-ou
 
+![hotel-ou](https://cdn.myanimelist.net/images/manga/3/182384.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

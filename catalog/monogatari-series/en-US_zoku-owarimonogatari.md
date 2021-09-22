@@ -1,5 +1,7 @@
 # Zoku Owarimonogatari
 
+![zoku-owarimonogatari](https://cdn.myanimelist.net/images/anime/1022/96168.jpg)
+
 -   **type**: movie
 -   **episodes**: 6
 -   **original-name**: 続・終物語

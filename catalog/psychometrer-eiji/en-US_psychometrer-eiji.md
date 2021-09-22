@@ -1,5 +1,7 @@
 # Psychometrer Eiji
 
+![psychometrer-eiji](https://cdn.myanimelist.net/images/manga/2/206035.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 213

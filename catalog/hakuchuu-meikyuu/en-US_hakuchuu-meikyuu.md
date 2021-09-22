@@ -1,5 +1,7 @@
 # Hakuchuu Meikyuu
 
+![hakuchuu-meikyuu](https://cdn.myanimelist.net/images/anime/10/71875.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 白昼迷宮

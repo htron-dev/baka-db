@@ -1,5 +1,7 @@
 # Dead Dead Demon's Dededededestruction
 
+![dead-dead-demons-dededededestruction](https://cdn.myanimelist.net/images/manga/3/142079.jpg)
+
 -   **type**: manga
 -   **original-name**: デッドデッドデーモンズデデデデデストラクション
 -   **start-date**: 2014-04-28

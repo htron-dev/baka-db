@@ -1,5 +1,7 @@
 # Hoshi yori Hisoka ni
 
+![hoshi-yori-hisoka-ni](https://cdn.myanimelist.net/images/manga/2/150621.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

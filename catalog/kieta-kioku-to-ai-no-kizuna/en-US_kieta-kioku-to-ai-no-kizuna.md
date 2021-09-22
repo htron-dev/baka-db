@@ -1,5 +1,7 @@
 # Kieta Kioku to Ai no Kizuna
 
+![kieta-kioku-to-ai-no-kizuna](https://cdn.myanimelist.net/images/manga/3/227534.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 消えた記憶と愛の絆

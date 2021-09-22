@@ -1,5 +1,7 @@
 # Ano Koro ni Aitai
 
+![ano-koro-ni-aitai](https://cdn.myanimelist.net/images/manga/2/43297.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

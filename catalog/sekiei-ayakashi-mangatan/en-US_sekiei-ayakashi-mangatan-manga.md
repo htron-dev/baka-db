@@ -1,5 +1,7 @@
 # Sekiei Ayakashi Mangatan
 
+![sekiei-ayakashi-mangatan](https://cdn.myanimelist.net/images/manga/3/198880.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 114

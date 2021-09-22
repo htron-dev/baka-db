@@ -1,5 +1,7 @@
 # Seina-chan Full Traction
 
+![seina-chan-full-traction](https://cdn.myanimelist.net/images/manga/1/154817.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

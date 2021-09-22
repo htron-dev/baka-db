@@ -1,5 +1,7 @@
 # The Best of Pokémon 4-Koma
 
+![the-best-of-pokemon-4-koma](https://cdn.myanimelist.net/images/manga/2/39363.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ポケモン 4 コマ大百科
@@ -12,11 +14,6 @@
 ## Authors
 
 -   None
-
-## Links
-
--   [My Anime list](https://myanimelist.net/manga/24419/The_Best_of_Pokémon_4-Koma)
-    by Takahiro Yamashita.
 
 ## Links
 

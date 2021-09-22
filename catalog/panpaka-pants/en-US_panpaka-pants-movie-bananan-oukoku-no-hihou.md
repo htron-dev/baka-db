@@ -1,5 +1,7 @@
 # Panpaka Pants Movie: Bananan Oukoku no Hihou
 
+![panpaka-pants-movie-bananan-oukoku-no-hihou](https://cdn.myanimelist.net/images/anime/12/75651.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: えいがパンパカパンツ バナナン王国の秘宝

@@ -1,5 +1,7 @@
 # Hotori: Tada Saiwai wo Koinegau
 
+![hotori-tada-saiwai-wo-koinegau](https://cdn.myanimelist.net/images/anime/3/15358.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ほとり～たださいわいを希う

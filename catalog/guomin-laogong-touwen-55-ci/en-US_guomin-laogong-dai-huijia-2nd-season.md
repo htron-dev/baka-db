@@ -1,5 +1,7 @@
 # Guomin Laogong Dai Huijia 2nd season
 
+![guomin-laogong-dai-huijia-2nd-season](https://cdn.myanimelist.net/images/anime/1838/90259.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 国民老公带回家 第二季

@@ -1,5 +1,7 @@
 # Koisuru Asahaka
 
+![koisuru-asahaka](https://cdn.myanimelist.net/images/manga/2/244994.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

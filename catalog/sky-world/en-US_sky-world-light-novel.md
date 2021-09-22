@@ -1,5 +1,7 @@
 # Sky World
 
+![sky-world](https://cdn.myanimelist.net/images/manga/2/159367.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **chapters**: 64

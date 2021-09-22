@@ -1,5 +1,7 @@
 # Gunslinger Girl: Il Teatrino
 
+![gunslinger-girl-il-teatrino](https://cdn.myanimelist.net/images/anime/5/16697.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ガンスリンガー ガール -IL TEATRINO-

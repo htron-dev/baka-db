@@ -1,5 +1,7 @@
 # Naruto Hiden Series
 
+![naruto-hiden-series](https://cdn.myanimelist.net/images/manga/1/175457.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 49

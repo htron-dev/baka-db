@@ -1,5 +1,7 @@
 # Danshaku ni Fusawashii Ginga Ryokou
 
+![danshaku-ni-fusawashii-ginga-ryokou](https://cdn.myanimelist.net/images/manga/3/236484.jpg)
+
 -   **type**: manga
 -   **original-name**: 男爵にふさわしい銀河旅行
 -   **start-date**: 2016-05-21

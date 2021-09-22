@@ -1,5 +1,7 @@
 # Kiseijuu: Sei no Kakuritsu
 
+![kiseijuu-sei-no-kakuritsu](https://cdn.myanimelist.net/images/anime/3/73178.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 寄生獣 セイの格率

@@ -1,5 +1,7 @@
 # Sagishi
 
+![sagishi](https://cdn.myanimelist.net/images/manga/1/170159.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: 詐騎士

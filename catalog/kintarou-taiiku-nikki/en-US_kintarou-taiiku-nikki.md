@@ -1,5 +1,7 @@
 # Kintarou Taiiku Nikki
 
+![kintarou-taiiku-nikki](https://cdn.myanimelist.net/images/anime/3/18000.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キンタロー体育日記

@@ -1,5 +1,7 @@
 # Hana no Android Gakuen
 
+![hana-no-android-gakuen](https://cdn.myanimelist.net/images/manga/3/104221.jpg)
+
 -   **type**: manga
 -   **original-name**: 花のアンドロイド学園
 

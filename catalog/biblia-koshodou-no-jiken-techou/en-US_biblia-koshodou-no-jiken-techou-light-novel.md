@@ -1,5 +1,7 @@
 # Biblia Koshodou no Jiken Techou
 
+![biblia-koshodou-no-jiken-techou](https://cdn.myanimelist.net/images/manga/2/164402.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 36

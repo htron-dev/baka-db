@@ -1,5 +1,7 @@
 # Naisho no Toguro-san
 
+![naisho-no-toguro-san](https://cdn.myanimelist.net/images/manga/2/180326.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

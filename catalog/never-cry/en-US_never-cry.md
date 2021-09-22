@@ -1,5 +1,7 @@
 # Never Cry
 
+![never-cry](https://cdn.myanimelist.net/images/manga/3/28212.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 13
 -   **original-name**: 절대 울지마; 네버 크라이

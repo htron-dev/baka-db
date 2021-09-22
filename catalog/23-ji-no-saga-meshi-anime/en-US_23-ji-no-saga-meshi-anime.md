@@ -1,5 +1,7 @@
 # 23-ji no Saga Meshi Anime
 
+![23-ji-no-saga-meshi-anime](https://cdn.myanimelist.net/images/anime/1384/111726.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 23 時の佐賀飯アニメ

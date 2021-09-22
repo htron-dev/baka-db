@@ -1,5 +1,7 @@
 # Sennenki no Regalia
 
+![sennenki-no-regalia](https://cdn.myanimelist.net/images/manga/1/182701.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 千年紀のレガリア
 -   **start-date**: 2016-08-30

@@ -1,5 +1,7 @@
 # Entotsuya Peroo
 
+![entotsuya-peroo](https://cdn.myanimelist.net/images/anime/7/69013.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 煙突屋ペロー

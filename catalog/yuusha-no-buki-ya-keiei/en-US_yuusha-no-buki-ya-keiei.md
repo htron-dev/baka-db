@@ -1,5 +1,7 @@
 # Yuusha no Buki-ya Keiei
 
+![yuusha-no-buki-ya-keiei](https://cdn.myanimelist.net/images/manga/3/195962.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 勇者の武器屋経営
 -   **start-date**: 2017-05-13

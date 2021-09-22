@@ -1,5 +1,7 @@
 # Yakusoku (2011)
 
+![yakusoku-2011](https://cdn.myanimelist.net/images/anime/1882/103877.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 約束

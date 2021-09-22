@@ -1,5 +1,7 @@
 # Nanatsusa
 
+![nanatsusa](https://cdn.myanimelist.net/images/manga/1/155655.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ななつさ

@@ -1,5 +1,7 @@
 # Kenta to Nyanta no Kuruma Daisuki!
 
+![kenta-to-nyanta-no-kuruma-daisuki](https://cdn.myanimelist.net/images/anime/2/84775.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ケンタとニャンタのクルマ大好き！

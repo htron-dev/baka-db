@@ -1,5 +1,7 @@
 # Pokémon 4Koma: Gold and Silver
 
+![pokemon-4-koma-gold-and-silver](https://cdn.myanimelist.net/images/manga/3/80063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ポケモン 4 コマ大百科 金・銀

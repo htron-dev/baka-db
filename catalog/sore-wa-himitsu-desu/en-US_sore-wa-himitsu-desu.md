@@ -1,5 +1,7 @@
 # Sore wa Himitsu desu
 
+![sore-wa-himitsu-desu](https://cdn.myanimelist.net/images/manga/1/161183.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: それは秘密です

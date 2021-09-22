@@ -1,5 +1,7 @@
 # Akimoto Osamu SF Tanpenshuu
 
+![akimoto-osamu-sf-tanpenshuu](https://cdn.myanimelist.net/images/manga/1/173162.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Dolls' Frontline
 
+![dolls-frontline](https://cdn.myanimelist.net/images/anime/1013/116968.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ドールズフロントライン
 -   **rating**: None

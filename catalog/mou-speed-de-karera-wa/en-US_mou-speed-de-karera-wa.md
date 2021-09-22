@@ -1,5 +1,7 @@
 # Mou Speed de Karera wa
 
+![mou-speed-de-karera-wa](https://cdn.myanimelist.net/images/manga/2/112139.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

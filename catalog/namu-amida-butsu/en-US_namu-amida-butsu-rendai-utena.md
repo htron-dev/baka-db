@@ -1,5 +1,7 @@
 # Namu Amida Butsu!: Rendai Utena
 
+![namu-amida-butsu-rendai-utena](https://cdn.myanimelist.net/images/anime/1752/100366.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: なむあみだ仏っ! -蓮台 UTENA-

@@ -1,5 +1,7 @@
 # Tonari no Kyuuketsuki-san
 
+![tonari-no-kyuuketsuki-san](https://cdn.myanimelist.net/images/manga/2/164792.jpg)
+
 -   **type**: manga
 -   **original-name**: となりの吸血鬼さん
 -   **start-date**: 2014-08-27

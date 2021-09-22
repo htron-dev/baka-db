@@ -1,5 +1,7 @@
 # Good Night, I Love You
 
+![good-night-i-love-you](https://cdn.myanimelist.net/images/manga/3/193809.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

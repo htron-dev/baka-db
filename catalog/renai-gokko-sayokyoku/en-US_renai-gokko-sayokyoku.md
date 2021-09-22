@@ -1,5 +1,7 @@
 # Renai Gokko Sayokyoku
 
+![renai-gokko-sayokyoku](https://cdn.myanimelist.net/images/manga/1/234740.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋愛ごっこ小夜曲
 -   **start-date**: 2018-05-04

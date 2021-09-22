@@ -1,5 +1,7 @@
 # Engage Pink
 
+![engage-pink](https://cdn.myanimelist.net/images/manga/1/211746.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

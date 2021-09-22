@@ -1,5 +1,7 @@
 # Otsuru Hana: Meiji Shuuai Roumantan
 
+![otsuru-hana-meiji-shuuai-roumantan](https://cdn.myanimelist.net/images/manga/3/183752.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

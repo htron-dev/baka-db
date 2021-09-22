@@ -1,5 +1,7 @@
 # Aragami
 
+![aragami](https://cdn.myanimelist.net/images/manga/1/123941.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: 荒神

@@ -1,5 +1,7 @@
 # Uwa Youjo Tsuyoi
 
+![uwa-youjo-tsuyoi](https://cdn.myanimelist.net/images/manga/2/229618.jpg)
+
 -   **type**: manga
 -   **original-name**: うわようじょつよい
 -   **start-date**: 2015-11-11

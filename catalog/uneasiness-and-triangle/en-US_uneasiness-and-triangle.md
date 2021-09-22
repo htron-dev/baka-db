@@ -1,5 +1,7 @@
 # Uneasiness and Triangle
 
+![uneasiness-and-triangle](https://cdn.myanimelist.net/images/anime/1049/98175.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Uneasiness and triangle

@@ -1,5 +1,7 @@
 # Munakata Kyouju Denkikou
 
+![munakata-kyouju-denkikou](https://cdn.myanimelist.net/images/manga/2/38883.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 42

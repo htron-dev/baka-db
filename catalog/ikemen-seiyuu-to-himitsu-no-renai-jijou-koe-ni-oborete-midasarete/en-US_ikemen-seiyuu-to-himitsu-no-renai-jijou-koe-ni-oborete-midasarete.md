@@ -1,5 +1,7 @@
 # Ikemen Seiyuu to Himitsu no Renai Jijou: Koe ni Oborete Midasarete
 
+![ikemen-seiyuu-to-himitsu-no-renai-jijou-koe-ni-oborete-midasarete](https://cdn.myanimelist.net/images/manga/3/195634.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

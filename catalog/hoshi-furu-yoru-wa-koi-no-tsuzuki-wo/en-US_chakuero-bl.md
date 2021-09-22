@@ -1,5 +1,7 @@
 # Chakuero BL
 
+![chakuero-bl](https://cdn.myanimelist.net/images/manga/2/244591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

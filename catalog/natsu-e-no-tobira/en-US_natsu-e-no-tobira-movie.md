@@ -1,5 +1,7 @@
 # Natsu e no Tobira
 
+![natsu-e-no-tobira](https://cdn.myanimelist.net/images/anime/3/3592.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 夏への扉

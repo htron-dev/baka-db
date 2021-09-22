@@ -1,5 +1,7 @@
 # Arcana - Kyuuketsuki
 
+![arcana-kyuuketsuki](https://cdn.myanimelist.net/images/manga/3/37765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

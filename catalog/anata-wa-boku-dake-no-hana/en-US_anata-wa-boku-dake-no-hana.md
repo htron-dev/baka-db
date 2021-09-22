@@ -1,5 +1,7 @@
 # Anata wa Boku dake no Hana
 
+![anata-wa-boku-dake-no-hana](https://cdn.myanimelist.net/images/manga/1/2196.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

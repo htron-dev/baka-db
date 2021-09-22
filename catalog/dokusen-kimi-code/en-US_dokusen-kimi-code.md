@@ -1,5 +1,7 @@
 # Dokusen Kimi-Code
 
+![dokusen-kimi-code](https://cdn.myanimelist.net/images/manga/1/131777.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

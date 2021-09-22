@@ -1,5 +1,7 @@
 # Gaikotsu Shotenin Honda-san
 
+![gaikotsu-shotenin-honda-san](https://cdn.myanimelist.net/images/anime/1555/93865.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ガイコツ書店員本田さん

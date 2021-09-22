@@ -1,5 +1,7 @@
 # Kinari no Hoshikuzu
 
+![kinari-no-hoshikuzu](https://cdn.myanimelist.net/images/manga/4/205917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

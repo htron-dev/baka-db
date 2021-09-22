@@ -1,5 +1,7 @@
 # Save &amp; Load no Dekiru Yadoya-san: Counter Stop Tenseisha ga Yadoya de Shinjin Ikusei wo Hajimeta you desu
 
+![save-amp-load-no-dekiru-yadoya-san-counter-stop-tenseisha-ga-yadoya-de-shinjin-ikusei-wo-hajimeta-you-desu](https://cdn.myanimelist.net/images/manga/3/227732.jpg)
+
 -   **type**: manga
 -   **original-name**: セーブ＆ロードのできる宿屋さん ～カンスト転生者が宿屋で新人育成を始めたようです～
 -   **start-date**: 2018-12-27

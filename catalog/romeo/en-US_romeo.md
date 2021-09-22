@@ -1,5 +1,7 @@
 # Romeo
 
+![romeo](https://cdn.myanimelist.net/images/manga/1/190687.jpg)
+
 -   **type**: manga
 -   **original-name**: ROMEO
 -   **start-date**: 2014-12-28

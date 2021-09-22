@@ -1,5 +1,7 @@
 # Kannou Kissaten
 
+![kannou-kissaten](https://cdn.myanimelist.net/images/manga/1/2416.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ayakashi Tennen Beans
 
+![ayakashi-tennen-beans](https://cdn.myanimelist.net/images/manga/3/39698.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

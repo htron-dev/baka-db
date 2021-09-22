@@ -1,5 +1,7 @@
 # Vanish Drops: Iede Chuu Idol wo Follow Shimasu ka?
 
+![vanish-drops-iede-chuu-idol-wo-follow-shimasu-ka](https://cdn.myanimelist.net/images/manga/1/164301.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: バニッシュ・ドロップス　家出中アイドルをフォローしますか？

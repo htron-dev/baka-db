@@ -1,5 +1,7 @@
 # Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service-kai
 
+![saenai-heroine-no-sodatekata-♭-koi-to-junjou-no-service-kai](https://cdn.myanimelist.net/images/anime/12/85115.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 冴えない彼女〈ヒロイン〉の育てかた ♭ #0 「恋と純情のサービス回」

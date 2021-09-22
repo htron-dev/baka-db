@@ -1,5 +1,7 @@
 # Sabu to Ichi Torimono Hikae
 
+![sabu-to-ichi-torimono-hikae](https://cdn.myanimelist.net/images/manga/3/150162.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 83

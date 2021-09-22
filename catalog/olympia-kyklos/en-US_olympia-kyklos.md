@@ -1,5 +1,7 @@
 # Olympia Kyklos
 
+![olympia-kyklos](https://cdn.myanimelist.net/images/manga/2/226057.jpg)
+
 -   **type**: manga
 -   **original-name**: オリンピア・キュクロス
 -   **start-date**: 2018-03-20

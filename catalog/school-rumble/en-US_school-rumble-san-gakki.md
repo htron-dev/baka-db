@@ -1,5 +1,7 @@
 # School Rumble San Gakki
 
+![school-rumble-san-gakki](https://cdn.myanimelist.net/images/anime/2/9553.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: スクールランブル三学期

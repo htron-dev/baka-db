@@ -1,5 +1,7 @@
 # Amatsuka Mikoto wa Zenchi Zennou desu.
 
+![amatsuka-mikoto-wa-zenchi-zennou-desu](https://cdn.myanimelist.net/images/manga/3/129307.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 天束ミコトは全知全能です。

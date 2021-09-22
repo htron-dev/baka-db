@@ -1,5 +1,7 @@
 # Kenritsu Umisora Koukou Yakyuubu-in Yamashita Tarou-kun
 
+![kenritsu-umisora-koukou-yakyuubu-in-yamashita-tarou-kun](https://cdn.myanimelist.net/images/manga/2/236240.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 180

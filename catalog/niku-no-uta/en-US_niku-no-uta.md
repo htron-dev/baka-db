@@ -1,5 +1,7 @@
 # Niku no Uta
 
+![niku-no-uta](https://cdn.myanimelist.net/images/manga/3/189904.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

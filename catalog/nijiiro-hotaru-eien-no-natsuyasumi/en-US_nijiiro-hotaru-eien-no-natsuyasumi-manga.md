@@ -1,5 +1,7 @@
 # Nijiiro Hotaru: Eien no Natsuyasumi
 
+![nijiiro-hotaru-eien-no-natsuyasumi](https://cdn.myanimelist.net/images/manga/1/153879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

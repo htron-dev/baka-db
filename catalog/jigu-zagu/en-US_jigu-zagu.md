@@ -1,5 +1,7 @@
 # Jigu+Zagu
 
+![jigu-zagu](https://cdn.myanimelist.net/images/manga/1/14505.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ジグ+ザグ

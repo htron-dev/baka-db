@@ -1,5 +1,7 @@
 # Seven Nights
 
+![seven-nights](https://cdn.myanimelist.net/images/manga/1/85077.jpg)
+
 -   **type**: light-novel
 -   **original-name**: セヴンナイツ
 -   **start-date**: 2007-12-07

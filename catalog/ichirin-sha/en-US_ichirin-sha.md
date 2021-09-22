@@ -1,5 +1,7 @@
 # Ichirin-sha
 
+![ichirin-sha](https://cdn.myanimelist.net/images/anime/7/47679.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 一輪者 ICHIRIN-SHA

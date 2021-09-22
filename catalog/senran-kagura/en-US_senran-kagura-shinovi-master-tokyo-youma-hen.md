@@ -1,5 +1,7 @@
 # Senran Kagura Shinovi Master: Tokyo Youma-hen
 
+![senran-kagura-shinovi-master-tokyo-youma-hen](https://cdn.myanimelist.net/images/anime/1358/93867.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 閃乱カグラ SHINOVI MASTER -東京妖魔篇-

@@ -1,11 +1,13 @@
 # Seisen no regiosu
 
+![seisen-no-regiosu](https://cdn.myanimelist.net/images/manga/2/244747.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 30
+-   **original-name**: 聖戦のレギオス
 -   **start-date**: 2011-09-17
 -   **end-date**: 2011-09-17
--   **original-name**: 聖戦のレギオス
 
 ## Tags
 

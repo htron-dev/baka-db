@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha ViVid
 
+![mahou-shoujo-lyrical-nanoha-vi-vid](https://cdn.myanimelist.net/images/manga/3/202273.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 104

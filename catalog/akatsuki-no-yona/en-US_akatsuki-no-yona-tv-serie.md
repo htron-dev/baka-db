@@ -1,5 +1,7 @@
 # Akatsuki no Yona
 
+![akatsuki-no-yona](https://cdn.myanimelist.net/images/anime/9/64225.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 暁のヨナ

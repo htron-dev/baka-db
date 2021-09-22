@@ -1,5 +1,7 @@
 # Karakai Jouzu no Takagi-san: Water Slide
 
+![karakai-jouzu-no-takagi-san-water-slide](https://cdn.myanimelist.net/images/anime/1600/92476.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: からかい上手の高木さん ウォータースライダー

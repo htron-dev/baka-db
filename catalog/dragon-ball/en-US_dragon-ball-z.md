@@ -1,5 +1,7 @@
 # Dragon Ball Z
 
+![dragon-ball-z](https://cdn.myanimelist.net/images/anime/1607/117271.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 291
 -   **original-name**: ドラゴンボール Z

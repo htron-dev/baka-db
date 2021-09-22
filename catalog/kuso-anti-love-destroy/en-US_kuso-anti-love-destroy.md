@@ -1,5 +1,7 @@
 # Kuso Anti Love Destroy
 
+![kuso-anti-love-destroy](https://cdn.myanimelist.net/images/manga/2/246914.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

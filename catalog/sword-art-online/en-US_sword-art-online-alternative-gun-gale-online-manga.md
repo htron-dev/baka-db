@@ -1,5 +1,7 @@
 # Sword Art Online Alternative: Gun Gale Online
 
+![sword-art-online-alternative-gun-gale-online](https://cdn.myanimelist.net/images/manga/2/184352.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

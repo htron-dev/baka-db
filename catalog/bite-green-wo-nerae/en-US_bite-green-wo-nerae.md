@@ -1,5 +1,7 @@
 # Bite! Green wo Nerae
 
+![bite-green-wo-nerae](https://cdn.myanimelist.net/images/manga/1/35935.jpg)
+
 -   **type**: manga
 -   **original-name**: Ｂｉｔｅ！グリーンを狙え
 -   **start-date**: 2009-01-05

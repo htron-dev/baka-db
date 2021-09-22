@@ -1,5 +1,7 @@
 # Suisei no Gargantia: Puchitto Furikaerintia
 
+![suisei-no-gargantia-puchitto-furikaerintia](https://cdn.myanimelist.net/images/anime/11/74737.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ぷちっとふりかえりんてぃあ

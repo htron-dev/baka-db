@@ -1,5 +1,7 @@
 # Sin: Nanatsu no Taizai
 
+![sin-nanatsu-no-taizai](https://cdn.myanimelist.net/images/anime/7/86621.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: sin 七つの大罪

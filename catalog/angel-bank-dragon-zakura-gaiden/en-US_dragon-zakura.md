@@ -1,5 +1,7 @@
 # Dragon Zakura
 
+![dragon-zakura](https://cdn.myanimelist.net/images/manga/3/12815.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 193

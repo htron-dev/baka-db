@@ -1,5 +1,7 @@
 # Canvas: Sepia-iro no Motif
 
+![canvas-sepia-iro-no-motif](https://cdn.myanimelist.net/images/anime/3/22124.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: Canvas ～セピア色のモチーフ～

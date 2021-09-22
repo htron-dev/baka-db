@@ -1,5 +1,7 @@
 # Frontier Diary: Motokizoku no Isekai Henkyou Seikatsu Nikki
 
+![frontier-diary-motokizoku-no-isekai-henkyou-seikatsu-nikki](https://cdn.myanimelist.net/images/manga/3/227796.jpg)
+
 -   **type**: manga
 -   **original-name**: フロンティアダイアリー ～元貴族の異世界辺境生活日記
 -   **start-date**: 2019-03-15

@@ -1,5 +1,7 @@
 # Shinki Shoujo wa Koi wo Suru ka?
 
+![shinki-shoujo-wa-koi-wo-suru-ka](https://cdn.myanimelist.net/images/manga/2/171766.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Moshi Koukou Yakyuu no Joshi Manager ga Drucker no "Management" wo Yondara
 
+![moshi-koukou-yakyuu-no-joshi-manager-ga-drucker-no-management-wo-yondara](https://cdn.myanimelist.net/images/manga/3/181249.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Mokushiroku Alice
 
+![mokushiroku-alice](https://cdn.myanimelist.net/images/manga/2/177137.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Con Con x Honey
 
+![con-con-x-honey](https://cdn.myanimelist.net/images/manga/4/29752.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

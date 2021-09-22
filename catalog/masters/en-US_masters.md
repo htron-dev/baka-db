@@ -1,5 +1,7 @@
 # Master's
 
+![masters](https://cdn.myanimelist.net/images/manga/2/205857.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 80

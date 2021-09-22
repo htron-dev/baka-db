@@ -1,5 +1,7 @@
 # Inoue-kun Hajimemasen ka?
 
+![inoue-kun-hajimemasen-ka](https://cdn.myanimelist.net/images/manga/3/237737.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

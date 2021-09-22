@@ -1,5 +1,7 @@
 # Adobe Student and Teacher Edition
 
+![adobe-student-and-teacher-edition](https://cdn.myanimelist.net/images/anime/1712/95535.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ADOBE STUDENT AND TEACHER EDITION

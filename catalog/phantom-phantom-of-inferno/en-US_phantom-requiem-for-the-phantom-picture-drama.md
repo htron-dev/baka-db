@@ -1,5 +1,7 @@
 # Phantom: Requiem for the Phantom Picture Drama
 
+![phantom-requiem-for-the-phantom-picture-drama](https://cdn.myanimelist.net/images/anime/3/23998.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: Phantom 〜Requiem for the Phantom〜 ピクチャー・ドラマ

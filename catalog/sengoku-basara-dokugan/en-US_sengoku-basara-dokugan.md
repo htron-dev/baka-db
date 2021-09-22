@@ -1,5 +1,7 @@
 # Sengoku Basara Dokugan
 
+![sengoku-basara-dokugan](https://cdn.myanimelist.net/images/manga/2/192231.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

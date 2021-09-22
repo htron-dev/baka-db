@@ -1,5 +1,7 @@
 # Osomatsu-san Special
 
+![osomatsu-san-special](https://cdn.myanimelist.net/images/anime/11/77727.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: おそ松さん

@@ -1,5 +1,7 @@
 # Black Lagoon: Soujiya Sawyer - Kaitai! Gore Gore Musume
 
+![black-lagoon-soujiya-sawyer-kaitai-gore-gore-musume](https://cdn.myanimelist.net/images/manga/1/238697.jpg)
+
 -   **type**: manga
 -   **original-name**: BLACK LAGOON 掃除屋ソーヤー 解体！ゴアゴア娘
 -   **start-date**: 2019-09-19

@@ -1,5 +1,7 @@
 # Mahoutsukai no Namida
 
+![mahoutsukai-no-namida](https://cdn.myanimelist.net/images/manga/1/98991.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

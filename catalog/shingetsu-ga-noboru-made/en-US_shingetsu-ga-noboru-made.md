@@ -1,5 +1,7 @@
 # Shingetsu ga Noboru made
 
+![shingetsu-ga-noboru-made](https://cdn.myanimelist.net/images/manga/1/241244.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 16

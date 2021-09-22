@@ -1,5 +1,7 @@
 # Ai to Kanashimi no Esperman
 
+![ai-to-kanashimi-no-esperman](https://cdn.myanimelist.net/images/manga/3/157915.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

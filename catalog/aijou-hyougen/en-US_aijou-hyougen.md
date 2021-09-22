@@ -1,5 +1,7 @@
 # Aijou Hyougen
 
+![aijou-hyougen](https://cdn.myanimelist.net/images/manga/2/200769.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Ginchou Kidan
 
+![ginchou-kidan](https://cdn.myanimelist.net/images/manga/2/2449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Crazy Food Truck
 
+![crazy-food-truck](https://cdn.myanimelist.net/images/manga/2/239862.jpg)
+
 -   **type**: manga
 -   **original-name**: クレイジーフードトラック
 -   **start-date**: 2020-07-21

@@ -1,5 +1,7 @@
 # Hana-kun to Koisuru Watashi
 
+![hana-kun-to-koisuru-watashi](https://cdn.myanimelist.net/images/manga/2/162159.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 45

@@ -1,5 +1,7 @@
 # Nara-shi x Inoue Ryou
 
+![nara-shi-x-inoue-ryou](https://cdn.myanimelist.net/images/anime/1497/90627.jpg)
+
 -   **type**: special
 -   **episodes**: 13
 -   **original-name**: 奈良市 × 井上涼

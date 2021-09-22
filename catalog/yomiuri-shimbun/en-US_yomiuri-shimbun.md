@@ -1,5 +1,7 @@
 # Yomiuri Shimbun
 
+![yomiuri-shimbun](https://cdn.myanimelist.net/images/anime/8/64609.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 読売新聞

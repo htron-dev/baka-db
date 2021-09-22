@@ -1,5 +1,7 @@
 # .hack//4-koma
 
+![hack-4-koma](https://cdn.myanimelist.net/images/manga/1/162030.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

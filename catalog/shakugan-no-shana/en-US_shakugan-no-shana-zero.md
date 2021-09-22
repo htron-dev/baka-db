@@ -1,5 +1,7 @@
 # Shakugan no Shana Zero
 
+![shakugan-no-shana-zero](https://cdn.myanimelist.net/images/manga/1/133561.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

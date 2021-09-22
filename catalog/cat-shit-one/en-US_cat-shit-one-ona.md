@@ -1,5 +1,7 @@
 # Cat Shit One
 
+![cat-shit-one](https://cdn.myanimelist.net/images/anime/3/25928.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: キャットシットワン

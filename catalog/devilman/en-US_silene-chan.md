@@ -1,5 +1,7 @@
 # Silene-chan
 
+![silene-chan](https://cdn.myanimelist.net/images/manga/2/131327.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: シレーヌちゃん

@@ -1,5 +1,7 @@
 # Azumi Mamma★Mia
 
+![azumi-mamma★-mia](https://cdn.myanimelist.net/images/anime/7/58375.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: あずみ マンマ ★ ミーア

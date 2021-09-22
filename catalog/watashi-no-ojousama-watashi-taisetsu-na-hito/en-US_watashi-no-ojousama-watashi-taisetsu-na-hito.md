@@ -1,5 +1,7 @@
 # Watashi no Ojousama, Watashi Taisetsu na Hito
 
+![watashi-no-ojousama-watashi-taisetsu-na-hito](https://cdn.myanimelist.net/images/manga/2/184576.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 私のお嬢様、わたしのたいせつなひと

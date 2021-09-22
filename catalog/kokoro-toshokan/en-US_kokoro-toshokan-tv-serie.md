@@ -1,5 +1,7 @@
 # Kokoro Toshokan
 
+![kokoro-toshokan](https://cdn.myanimelist.net/images/anime/3/21207.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ココロ図書館

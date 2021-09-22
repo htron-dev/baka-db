@@ -1,5 +1,7 @@
 # Men's Life
 
+![mens-life](https://cdn.myanimelist.net/images/manga/1/209998.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

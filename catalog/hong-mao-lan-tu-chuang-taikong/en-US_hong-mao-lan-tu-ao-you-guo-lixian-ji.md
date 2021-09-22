@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Ao You Guo Lixian Ji
 
+![hong-mao-lan-tu-ao-you-guo-lixian-ji](https://cdn.myanimelist.net/images/anime/1232/98709.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: 虹猫蓝兔奥悠国历险记

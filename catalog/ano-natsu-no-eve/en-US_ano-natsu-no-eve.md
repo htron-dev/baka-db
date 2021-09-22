@@ -1,5 +1,7 @@
 # Ano Natsu no Eve
 
+![ano-natsu-no-eve](https://cdn.myanimelist.net/images/manga/1/203660.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

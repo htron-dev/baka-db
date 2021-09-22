@@ -1,5 +1,7 @@
 # Fumetsu No Hana
 
+![fumetsu-no-hana](https://cdn.myanimelist.net/images/manga/3/83559.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Eru-Eru Sister
 
+![eru-eru-sister](https://cdn.myanimelist.net/images/manga/3/74521.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

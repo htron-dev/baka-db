@@ -1,5 +1,7 @@
 # I.R:I.S - Indirect Ruler:Infinite Seizor
 
+![i-r-i-s-indirect-ruler-infinite-seizor](https://cdn.myanimelist.net/images/manga/2/160658.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

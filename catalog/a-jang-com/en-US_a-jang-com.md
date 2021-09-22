@@ -1,5 +1,7 @@
 # A-jang.com
 
+![a-jang-com](https://cdn.myanimelist.net/images/anime/1256/106351.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 아장닷컴

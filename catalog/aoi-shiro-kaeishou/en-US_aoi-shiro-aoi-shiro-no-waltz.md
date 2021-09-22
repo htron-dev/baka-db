@@ -1,5 +1,7 @@
 # Aoi Shiro - Aoi Shiro no Waltz
 
+![aoi-shiro-aoi-shiro-no-waltz](https://cdn.myanimelist.net/images/manga/2/17435.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

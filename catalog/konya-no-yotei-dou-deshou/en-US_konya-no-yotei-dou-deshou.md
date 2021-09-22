@@ -1,5 +1,7 @@
 # Konya no Yotei, Dou Deshou?
 
+![konya-no-yotei-dou-deshou](https://cdn.myanimelist.net/images/manga/2/184300.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

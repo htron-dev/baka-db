@@ -1,5 +1,7 @@
 # Nietzsche ga Kyoto ni Yattekite 17-sai no Watashi ni Tetsugaku no Koto Oshietekureta.
 
+![nietzsche-ga-kyoto-ni-yattekite-17-sai-no-watashi-ni-tetsugaku-no-koto-oshietekureta](https://cdn.myanimelist.net/images/manga/3/243297.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

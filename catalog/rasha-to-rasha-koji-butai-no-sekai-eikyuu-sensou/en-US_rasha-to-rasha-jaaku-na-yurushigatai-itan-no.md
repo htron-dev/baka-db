@@ -1,5 +1,7 @@
 # Rasha to Rasha: Jaaku na Yurushigatai Itan no
 
+![rasha-to-rasha-jaaku-na-yurushigatai-itan-no](https://cdn.myanimelist.net/images/manga/3/164002.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

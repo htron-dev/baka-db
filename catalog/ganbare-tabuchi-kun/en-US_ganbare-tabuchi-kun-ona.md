@@ -1,5 +1,7 @@
 # Ganbare!! Tabuchi-kun!! (ONA)
 
+![ganbare-tabuchi-kun-ona](https://cdn.myanimelist.net/images/anime/5/85746.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: がんばれ！！タブチくん！！

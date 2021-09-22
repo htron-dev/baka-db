@@ -1,5 +1,7 @@
 # Taikyoku Senkaden Series
 
+![taikyoku-senkaden-series](https://cdn.myanimelist.net/images/manga/2/167640.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 太極仙華伝シリーズ
 -   **start-date**: 2015-07-15

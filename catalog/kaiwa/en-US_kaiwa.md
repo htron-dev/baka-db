@@ -1,5 +1,7 @@
 # Kaiwa
 
+![kaiwa](https://cdn.myanimelist.net/images/manga/3/139143.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 35

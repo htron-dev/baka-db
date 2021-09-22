@@ -1,5 +1,7 @@
 # Damned
 
+![damned](https://cdn.myanimelist.net/images/manga/2/69981.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

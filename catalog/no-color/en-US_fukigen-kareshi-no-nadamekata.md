@@ -1,5 +1,7 @@
 # Fukigen Kareshi no Nadamekata
 
+![fukigen-kareshi-no-nadamekata](https://cdn.myanimelist.net/images/manga/3/155984.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

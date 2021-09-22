@@ -1,5 +1,7 @@
 # Chikotan
 
+![chikotan](https://cdn.myanimelist.net/images/anime/5/71181.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チコタン

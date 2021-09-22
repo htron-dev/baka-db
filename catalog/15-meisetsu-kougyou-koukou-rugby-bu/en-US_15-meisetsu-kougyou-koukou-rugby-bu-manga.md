@@ -1,5 +1,7 @@
 # 15: Meisetsu Kougyou Koukou Rugby-bu
 
+![15-meisetsu-kougyou-koukou-rugby-bu](https://cdn.myanimelist.net/images/manga/2/161797.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Ijippari Wedding: Aisuru Hito to Seiryaku Kekkon!?
 
+![ijippari-wedding-aisuru-hito-to-seiryaku-kekkon](https://cdn.myanimelist.net/images/manga/1/182600.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

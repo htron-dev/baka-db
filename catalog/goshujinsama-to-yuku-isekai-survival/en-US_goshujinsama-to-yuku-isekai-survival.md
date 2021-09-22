@@ -1,5 +1,7 @@
 # Goshujinsama to Yuku Isekai Survival!
 
+![goshujinsama-to-yuku-isekai-survival](https://cdn.myanimelist.net/images/manga/3/248012.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ご主人様とゆく異世界サバイバル!
 -   **start-date**: 2019-05-30

@@ -1,5 +1,7 @@
 # Sachi-iro no One Room
 
+![sachi-iro-no-one-room](https://cdn.myanimelist.net/images/manga/1/192115.jpg)
+
 -   **type**: manga
 -   **original-name**: 幸色のワンルーム
 -   **start-date**: 2016-09-30

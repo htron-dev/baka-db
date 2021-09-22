@@ -1,5 +1,7 @@
 # All Out!!
 
+![all-out](https://cdn.myanimelist.net/images/manga/1/124809.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 123

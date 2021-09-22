@@ -1,5 +1,7 @@
 # Wakakusa no Charlotte
 
+![wakakusa-no-charlotte](https://cdn.myanimelist.net/images/anime/4/5035.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: 若草のシャルロット
@@ -13,7 +15,6 @@
 
 -   drama
 -   historical
-
 -   shoujo
 -   slice-of-life
 

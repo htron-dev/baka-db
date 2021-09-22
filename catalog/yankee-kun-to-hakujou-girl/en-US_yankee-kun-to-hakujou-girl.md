@@ -1,5 +1,7 @@
 # Yankee-kun to Hakujou Girl
 
+![yankee-kun-to-hakujou-girl](https://cdn.myanimelist.net/images/manga/1/217297.jpg)
+
 -   **type**: manga
 -   **original-name**: ヤンキー君と白杖ガール
 -   **start-date**: 2019-01-23

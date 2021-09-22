@@ -1,5 +1,7 @@
 # Pittanko!! Nekozakana
 
+![pittanko-nekozakana](https://cdn.myanimelist.net/images/anime/1058/102001.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 93
 -   **original-name**: ぴったんこ!! ねこざかな

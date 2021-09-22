@@ -1,5 +1,7 @@
 # Itsumo Dokodemo Nin² Ninja
 
+![itsumo-dokodemo-nin-ninja](https://cdn.myanimelist.net/images/manga/2/140185.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: いつもどこでも忍 ² ニンジャ

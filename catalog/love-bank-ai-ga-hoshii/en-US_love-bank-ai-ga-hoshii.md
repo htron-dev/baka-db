@@ -1,5 +1,7 @@
 # Love Bank: Ai ga Hoshii
 
+![love-bank-ai-ga-hoshii](https://cdn.myanimelist.net/images/manga/2/197078.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ラブバンク　愛がほしい

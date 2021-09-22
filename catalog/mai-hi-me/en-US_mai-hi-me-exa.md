@@ -1,5 +1,7 @@
 # Mai-HiME EXA
 
+![mai-hi-me-exa](https://cdn.myanimelist.net/images/manga/1/29214.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

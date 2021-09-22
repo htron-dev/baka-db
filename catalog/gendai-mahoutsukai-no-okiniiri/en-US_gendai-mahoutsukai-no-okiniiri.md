@@ -1,5 +1,7 @@
 # Gendai Mahoutsukai no Okiniiri
 
+![gendai-mahoutsukai-no-okiniiri](https://cdn.myanimelist.net/images/manga/1/247642.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

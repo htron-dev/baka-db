@@ -1,5 +1,7 @@
 # Opera no Kaijin
 
+![opera-no-kaijin](https://cdn.myanimelist.net/images/manga/1/78717.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: オペラ座の怪人

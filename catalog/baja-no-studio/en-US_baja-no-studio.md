@@ -1,5 +1,7 @@
 # Baja no Studio
 
+![baja-no-studio](https://cdn.myanimelist.net/images/anime/11/87069.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バジャのスタジオ

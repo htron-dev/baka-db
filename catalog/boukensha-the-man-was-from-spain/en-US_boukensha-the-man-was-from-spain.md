@@ -1,5 +1,7 @@
 # Boukensha: The Man Was from Spain
 
+![boukensha-the-man-was-from-spain](https://cdn.myanimelist.net/images/anime/5/77942.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 冒険者－THE MAN WAS FROM SPAIN－

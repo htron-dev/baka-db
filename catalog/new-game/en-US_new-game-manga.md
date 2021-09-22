@@ -1,5 +1,7 @@
 # New Game!
 
+![new-game](https://cdn.myanimelist.net/images/manga/3/117451.jpg)
+
 -   **type**: manga
 -   **original-name**: NEW GAME!
 -   **start-date**: 2013-01-28

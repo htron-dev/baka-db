@@ -1,5 +1,7 @@
 # Shonan Junai Gumi!
 
+![shonan-junai-gumi](https://cdn.myanimelist.net/images/anime/1941/98123.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 湘南純愛組!

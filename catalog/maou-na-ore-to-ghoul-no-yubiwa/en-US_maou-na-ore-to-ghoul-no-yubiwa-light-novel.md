@@ -1,5 +1,7 @@
 # Maou na Ore to Ghoul no Yubiwa
 
+![maou-na-ore-to-ghoul-no-yubiwa](https://cdn.myanimelist.net/images/manga/1/163682.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 38

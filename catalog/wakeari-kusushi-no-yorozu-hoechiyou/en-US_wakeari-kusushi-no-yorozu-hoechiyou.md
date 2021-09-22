@@ -1,5 +1,7 @@
 # Wakeari Kusushi no Yorozu Hoechiyou
 
+![wakeari-kusushi-no-yorozu-hoechiyou](https://cdn.myanimelist.net/images/manga/2/238469.jpg)
+
 -   **type**: manga
 -   **original-name**: ワケあり薬師の万覚帳
 -   **start-date**: 2019-04-11

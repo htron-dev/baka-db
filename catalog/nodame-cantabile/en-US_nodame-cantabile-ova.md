@@ -1,5 +1,7 @@
 # Nodame Cantabile OVA
 
+![nodame-cantabile-ova](https://cdn.myanimelist.net/images/anime/10/18677.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: のだめカンタービレ OVA

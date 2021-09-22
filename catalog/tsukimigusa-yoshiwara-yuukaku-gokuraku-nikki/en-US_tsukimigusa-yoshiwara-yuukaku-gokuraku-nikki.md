@@ -1,5 +1,7 @@
 # Tsukimigusa: Yoshiwara Yuukaku Gokuraku Nikki
 
+![tsukimigusa-yoshiwara-yuukaku-gokuraku-nikki](https://cdn.myanimelist.net/images/manga/2/163664.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

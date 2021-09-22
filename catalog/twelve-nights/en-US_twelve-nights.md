@@ -1,5 +1,7 @@
 # Twelve Nights
 
+![twelve-nights](https://cdn.myanimelist.net/images/manga/3/205618.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 95

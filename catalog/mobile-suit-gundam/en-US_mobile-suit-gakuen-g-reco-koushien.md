@@ -1,5 +1,7 @@
 # Mobile Suit Gakuen: G-Reco Koushien
 
+![mobile-suit-gakuen-g-reco-koushien](https://cdn.myanimelist.net/images/anime/2/83237.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: モビルスーツ学園「Ｇ-レコ甲子園」

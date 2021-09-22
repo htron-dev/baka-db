@@ -1,5 +1,7 @@
 # Sh15uya
 
+![sh-15-uya](https://cdn.myanimelist.net/images/manga/2/131285.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

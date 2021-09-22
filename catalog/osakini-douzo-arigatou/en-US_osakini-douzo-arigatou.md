@@ -1,5 +1,7 @@
 # Osakini Douzo Arigatou
 
+![osakini-douzo-arigatou](https://cdn.myanimelist.net/images/anime/3/84787.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: お先にどうぞ ありがとう

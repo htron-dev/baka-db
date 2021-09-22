@@ -1,5 +1,7 @@
 # Dannasama wa Dekiai Izonshou
 
+![dannasama-wa-dekiai-izonshou](https://cdn.myanimelist.net/images/manga/2/186014.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

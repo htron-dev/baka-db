@@ -1,5 +1,7 @@
 # Maou-sama, Retry!
 
+![maou-sama-retry](https://cdn.myanimelist.net/images/manga/2/197349.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔王様、リトライ!
 -   **start-date**: 2017-06-30

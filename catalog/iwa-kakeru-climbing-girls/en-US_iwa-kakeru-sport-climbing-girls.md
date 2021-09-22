@@ -1,5 +1,7 @@
 # Iwa Kakeru!: Sport Climbing Girls
 
+![iwa-kakeru-sport-climbing-girls](https://cdn.myanimelist.net/images/anime/1626/108849.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: いわかける！ -Sport Climbing Girls-

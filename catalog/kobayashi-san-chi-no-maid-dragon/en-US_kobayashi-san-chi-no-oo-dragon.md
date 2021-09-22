@@ -1,5 +1,7 @@
 # Kobayashi-san Chi no OO Dragon
 
+![kobayashi-san-chi-no-oo-dragon](https://cdn.myanimelist.net/images/anime/8/84751.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 小林さんちの ○○ ドラゴン

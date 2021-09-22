@@ -1,5 +1,7 @@
 # Soshite Tsuzuki ga Aru no nara
 
+![soshite-tsuzuki-ga-aru-no-nara](https://cdn.myanimelist.net/images/manga/3/86195.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: そして続きがあるのなら

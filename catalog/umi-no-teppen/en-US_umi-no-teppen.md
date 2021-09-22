@@ -1,5 +1,7 @@
 # Umi no Teppen
 
+![umi-no-teppen](https://cdn.myanimelist.net/images/manga/3/53701.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

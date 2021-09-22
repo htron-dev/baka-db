@@ -1,5 +1,7 @@
 # Ling Long: Incarnation
 
+![ling-long-incarnation](https://cdn.myanimelist.net/images/anime/1944/108210.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 灵笼: INCARNATION

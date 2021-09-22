@@ -1,5 +1,7 @@
 # Conceited Yes!
 
+![conceited-yes](https://cdn.myanimelist.net/images/manga/2/18209.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

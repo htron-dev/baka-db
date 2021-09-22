@@ -1,5 +1,7 @@
 # Moshimoshi, Terumi Desu.
 
+![moshimoshi-terumi-desu](https://cdn.myanimelist.net/images/anime/1812/108112.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: もしもし, てるみです.

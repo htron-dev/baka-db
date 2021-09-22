@@ -1,5 +1,7 @@
 # Another: The Other - Inga
 
+![another-the-other-inga](https://cdn.myanimelist.net/images/anime/9/42051.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アナザー The Other -因果-

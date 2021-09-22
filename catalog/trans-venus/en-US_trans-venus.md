@@ -1,5 +1,7 @@
 # Trans Venus
 
+![trans-venus](https://cdn.myanimelist.net/images/manga/2/31955.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

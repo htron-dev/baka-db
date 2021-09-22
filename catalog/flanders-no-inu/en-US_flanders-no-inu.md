@@ -1,5 +1,7 @@
 # Flanders no Inu
 
+![flanders-no-inu](https://cdn.myanimelist.net/images/anime/2/17492.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: フランダースの犬

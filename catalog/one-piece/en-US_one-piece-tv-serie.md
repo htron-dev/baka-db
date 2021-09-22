@@ -1,5 +1,7 @@
 # One Piece
 
+![one-piece](https://cdn.myanimelist.net/images/anime/6/73245.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ONE PIECE
 -   **start-date**: 1999-10-20

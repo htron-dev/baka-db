@@ -1,5 +1,7 @@
 # Hatara Kids Mai Ham Gumi
 
+![hatara-kids-mai-ham-gumi](https://cdn.myanimelist.net/images/anime/8/21232.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: はたらキッズマイハム組

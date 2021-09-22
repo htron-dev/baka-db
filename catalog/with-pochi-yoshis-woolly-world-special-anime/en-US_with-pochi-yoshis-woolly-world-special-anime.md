@@ -1,5 +1,7 @@
 # With Pochi! Yoshi's Woolly World Special Anime
 
+![with-pochi-yoshis-woolly-world-special-anime](https://cdn.myanimelist.net/images/anime/1376/114700.jpg)
+
 -   **type**: ona
 -   **episodes**: 31
 -   **original-name**: ポチと! ヨッシー ウールワールド スペシャルアニメ

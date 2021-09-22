@@ -1,5 +1,7 @@
 # Otona na H to Kodomo na Kare
 
+![otona-na-h-to-kodomo-na-kare](https://cdn.myanimelist.net/images/manga/1/30434.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: オトナなＨとコドモな彼

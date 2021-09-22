@@ -1,5 +1,7 @@
 # Food Hunter Futaraiden
 
+![food-hunter-futaraiden](https://cdn.myanimelist.net/images/manga/2/39177.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: フードハンター双雷伝

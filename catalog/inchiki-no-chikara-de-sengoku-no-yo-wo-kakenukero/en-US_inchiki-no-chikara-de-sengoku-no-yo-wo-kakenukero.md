@@ -1,5 +1,7 @@
 # Inchiki no Chikara de, Sengoku no Yo wo Kakenukero.
 
+![inchiki-no-chikara-de-sengoku-no-yo-wo-kakenukero](https://cdn.myanimelist.net/images/manga/1/176554.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 銭〈インチキ〉の力で、戦国の世を駆け抜ける。
 -   **start-date**: 2016-04-25

@@ -1,5 +1,7 @@
 # Kuro no Kerykeion
 
+![kuro-no-kerykeion](https://cdn.myanimelist.net/images/manga/3/162582.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

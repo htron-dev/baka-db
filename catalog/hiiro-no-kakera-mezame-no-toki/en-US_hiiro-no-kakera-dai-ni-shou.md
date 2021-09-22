@@ -1,5 +1,7 @@
 # Hiiro no Kakera Dai Ni Shou
 
+![hiiro-no-kakera-dai-ni-shou](https://cdn.myanimelist.net/images/anime/13/42709.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 緋色の欠片 第二章

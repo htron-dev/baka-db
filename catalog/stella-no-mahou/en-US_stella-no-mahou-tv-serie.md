@@ -1,5 +1,7 @@
 # Stella no Mahou
 
+![stella-no-mahou](https://cdn.myanimelist.net/images/anime/3/81471.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ステラのまほう

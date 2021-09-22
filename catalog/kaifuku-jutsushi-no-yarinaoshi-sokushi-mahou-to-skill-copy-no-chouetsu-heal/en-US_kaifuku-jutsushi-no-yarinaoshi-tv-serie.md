@@ -1,5 +1,7 @@
 # Kaifuku Jutsushi no Yarinaoshi
 
+![kaifuku-jutsushi-no-yarinaoshi](https://cdn.myanimelist.net/images/anime/1301/110018.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 回復術士のやり直し

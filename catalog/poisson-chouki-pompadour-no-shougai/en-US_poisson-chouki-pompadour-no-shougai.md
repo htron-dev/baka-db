@@ -1,5 +1,7 @@
 # Poisson: Chouki Pompadour no Shougai
 
+![poisson-chouki-pompadour-no-shougai](https://cdn.myanimelist.net/images/manga/2/184748.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

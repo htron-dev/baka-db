@@ -1,5 +1,7 @@
 # Yurumates
 
+![yurumates](https://cdn.myanimelist.net/images/manga/3/185253.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆるめいつ
 -   **start-date**: 2005-11-04

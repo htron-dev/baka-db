@@ -1,5 +1,7 @@
 # Estima: Sense of Wonder
 
+![estima-sense-of-wonder](https://cdn.myanimelist.net/images/anime/13/81540.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 【ESTIMA】 Sense of Wonder

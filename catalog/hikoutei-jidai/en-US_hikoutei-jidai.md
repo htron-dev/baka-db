@@ -1,5 +1,7 @@
 # Hikoutei Jidai
 
+![hikoutei-jidai](https://cdn.myanimelist.net/images/manga/1/40249.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

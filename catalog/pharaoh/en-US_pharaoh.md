@@ -1,5 +1,7 @@
 # Pharaoh
 
+![pharaoh](https://cdn.myanimelist.net/images/manga/2/205006.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 79

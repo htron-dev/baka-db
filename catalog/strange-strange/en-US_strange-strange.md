@@ -1,5 +1,7 @@
 # Strange Strange
 
+![strange-strange](https://cdn.myanimelist.net/images/manga/3/176026.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

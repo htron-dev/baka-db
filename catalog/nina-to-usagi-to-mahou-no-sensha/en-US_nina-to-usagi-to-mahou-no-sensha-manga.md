@@ -1,5 +1,7 @@
 # Nina to Usagi to Mahou no Sensha
 
+![nina-to-usagi-to-mahou-no-sensha](https://cdn.myanimelist.net/images/manga/1/98271.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ニーナとうさぎと魔法の戦車

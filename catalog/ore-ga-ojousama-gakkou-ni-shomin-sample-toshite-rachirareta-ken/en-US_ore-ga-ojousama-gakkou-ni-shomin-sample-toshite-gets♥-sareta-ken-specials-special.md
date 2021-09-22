@@ -1,5 +1,7 @@
 # Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Gets♥Sareta Ken Specials
 
+![ore-ga-ojousama-gakkou-ni-shomin-sample-toshite-gets♥-sareta-ken-specials](https://cdn.myanimelist.net/images/anime/13/80488.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 俺がお嬢様学校に『庶民サンプル』としてゲッツされた件　『九条さんのド S 相談室アニメ版』

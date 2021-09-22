@@ -1,5 +1,7 @@
 # Cold Rush
 
+![cold-rush](https://cdn.myanimelist.net/images/manga/2/155908.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Migawari Hakushaku no Bouken
 
+![migawari-hakushaku-no-bouken](https://cdn.myanimelist.net/images/manga/1/119111.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

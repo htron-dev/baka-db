@@ -1,5 +1,7 @@
 # Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Recaps
 
+![magia-record-mahou-shoujo-madoka☆-magica-gaiden-tv-recaps](https://cdn.myanimelist.net/images/anime/1275/116607.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: マギアレコード 魔法少女まどか ☆ マギカ外伝 1st SEASON 総集編

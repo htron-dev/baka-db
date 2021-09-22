@@ -1,5 +1,7 @@
 # Owari no Seraph: Ichinose Guren, 16-sai no Catastrophe
 
+![owari-no-seraph-ichinose-guren-16-sai-no-catastrophe](https://cdn.myanimelist.net/images/manga/2/205755.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 46

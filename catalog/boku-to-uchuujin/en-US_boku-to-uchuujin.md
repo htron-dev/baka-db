@@ -1,5 +1,7 @@
 # Boku to Uchuujin
 
+![boku-to-uchuujin](https://cdn.myanimelist.net/images/manga/1/198624.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

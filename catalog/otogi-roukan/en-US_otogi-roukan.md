@@ -1,5 +1,7 @@
 # Otogi Roukan
 
+![otogi-roukan](https://cdn.myanimelist.net/images/manga/3/44233.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 御伽楼館

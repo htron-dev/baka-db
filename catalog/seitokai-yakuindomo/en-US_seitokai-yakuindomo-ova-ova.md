@@ -1,5 +1,7 @@
 # Seitokai Yakuindomo\* OVA
 
+![seitokai-yakuindomo-ova](https://cdn.myanimelist.net/images/anime/5/79008.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: 生徒会役員共＊ OAD

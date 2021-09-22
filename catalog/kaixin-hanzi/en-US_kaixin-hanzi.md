@@ -1,5 +1,7 @@
 # Kaixin Hanzi
 
+![kaixin-hanzi](https://cdn.myanimelist.net/images/anime/1577/115497.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 1000
 -   **original-name**: 开心汉字

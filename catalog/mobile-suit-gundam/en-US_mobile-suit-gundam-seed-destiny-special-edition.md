@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED Destiny Special Edition
 
+![mobile-suit-gundam-seed-destiny-special-edition](https://cdn.myanimelist.net/images/anime/2/18686.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 機動戦士ガンダム SEED DESTINY スペシャルエディション

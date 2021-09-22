@@ -1,5 +1,7 @@
 # Rui wa Koi wo Yobu
 
+![rui-wa-koi-wo-yobu](https://cdn.myanimelist.net/images/manga/3/208864.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

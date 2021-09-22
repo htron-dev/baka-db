@@ -1,5 +1,7 @@
 # Guild wa Honjitsu mo Heiwa nari
 
+![guild-wa-honjitsu-mo-heiwa-nari](https://cdn.myanimelist.net/images/manga/3/187886.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ギルドは本日も平和なり
 -   **start-date**: 2016-12-28

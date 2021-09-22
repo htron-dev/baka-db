@@ -1,5 +1,7 @@
 # Chikyuu SOS: Chikyuu ga Netsu wo Dashite Iru
 
+![chikyuu-sos-chikyuu-ga-netsu-wo-dashite-iru](https://cdn.myanimelist.net/images/anime/1978/98611.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 地球 SOS 地球が熱を出している

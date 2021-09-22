@@ -1,5 +1,7 @@
 # Fujilog (ONA)
 
+![fujilog-ona](https://cdn.myanimelist.net/images/anime/3/81524.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: フジログ

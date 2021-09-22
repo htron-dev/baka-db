@@ -1,5 +1,7 @@
 # IDOLiSH7: Second Beat!
 
+![ido-li-sh-7-second-beat](https://cdn.myanimelist.net/images/anime/1962/106361.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 15
 -   **original-name**: アイドリッシュセブン Second BEAT!

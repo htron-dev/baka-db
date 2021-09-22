@@ -1,5 +1,7 @@
 # Doukyuusei: Gold Ring & Silver Ring
 
+![doukyuusei-gold-ring-silver-ring](https://cdn.myanimelist.net/images/manga/2/192985.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

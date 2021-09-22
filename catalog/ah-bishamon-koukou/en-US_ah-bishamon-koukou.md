@@ -1,5 +1,7 @@
 # Ah!! Bishamon Koukou
 
+![ah-bishamon-koukou](https://cdn.myanimelist.net/images/manga/2/125227.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

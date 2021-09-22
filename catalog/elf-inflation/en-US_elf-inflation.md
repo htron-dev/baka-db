@@ -1,5 +1,7 @@
 # Elf Inflation
 
+![elf-inflation](https://cdn.myanimelist.net/images/manga/1/167629.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 51

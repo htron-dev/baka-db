@@ -1,5 +1,7 @@
 # Ouji-sama Lv.1 Comic Anthology
 
+![ouji-sama-lv-1-comic-anthology](https://cdn.myanimelist.net/images/manga/2/22130.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 王子さまＬｖ１コミックアンソロジー

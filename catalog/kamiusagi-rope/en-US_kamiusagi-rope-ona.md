@@ -1,5 +1,7 @@
 # Kamiusagi Rope (ONA)
 
+![kamiusagi-rope-ona](https://cdn.myanimelist.net/images/anime/10/72185.jpg)
+
 -   **type**: ona
 -   **original-name**: 紙兎ロペ
 -   **start-date**: 2013-07-15

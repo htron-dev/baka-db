@@ -1,5 +1,7 @@
 # Kuma Miko
 
+![kuma-miko](https://cdn.myanimelist.net/images/anime/8/78863.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: くまみこ

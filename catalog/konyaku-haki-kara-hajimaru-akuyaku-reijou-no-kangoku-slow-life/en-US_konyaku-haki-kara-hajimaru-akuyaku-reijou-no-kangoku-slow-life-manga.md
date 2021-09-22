@@ -1,5 +1,7 @@
 # Konyaku Haki kara Hajimaru Akuyaku Reijou no Kangoku Slow Life
 
+![konyaku-haki-kara-hajimaru-akuyaku-reijou-no-kangoku-slow-life](https://cdn.myanimelist.net/images/manga/3/224357.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

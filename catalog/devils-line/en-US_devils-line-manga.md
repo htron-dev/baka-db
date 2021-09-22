@@ -1,5 +1,7 @@
 # Devils Line
 
+![devils-line](https://cdn.myanimelist.net/images/manga/1/167817.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 80

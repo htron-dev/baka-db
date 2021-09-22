@@ -1,5 +1,7 @@
 # Neji no Kaiten
 
+![neji-no-kaiten](https://cdn.myanimelist.net/images/manga/3/164993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Houkago, Seifuku wo Nuide
 
+![houkago-seifuku-wo-nuide](https://cdn.myanimelist.net/images/manga/2/38475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Hana Ichi Monme (OVA)
 
+![hana-ichi-monme-ova](https://cdn.myanimelist.net/images/anime/6/64155.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: はないちもんめ

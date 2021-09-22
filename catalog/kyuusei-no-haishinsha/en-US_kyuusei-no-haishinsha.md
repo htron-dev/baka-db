@@ -1,5 +1,7 @@
 # Kyuusei no Haishinsha
 
+![kyuusei-no-haishinsha](https://cdn.myanimelist.net/images/manga/1/185688.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 救世の背信者
 -   **start-date**: 2016-12-02

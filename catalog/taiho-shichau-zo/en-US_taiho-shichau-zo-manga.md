@@ -1,5 +1,7 @@
 # Taiho Shichau zo
 
+![taiho-shichau-zo](https://cdn.myanimelist.net/images/manga/3/156057.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 79

@@ -1,5 +1,7 @@
 # Hakaishin Magu-chan
 
+![hakaishin-magu-chan](https://cdn.myanimelist.net/images/manga/2/237234.jpg)
+
 -   **type**: manga
 -   **original-name**: 破壊神マグちゃん
 -   **start-date**: 2020-06-22

@@ -1,5 +1,7 @@
 # Body Jack: Tanoshii Yutai Ridatsu
 
+![body-jack-tanoshii-yutai-ridatsu](https://cdn.myanimelist.net/images/anime/1606/94217.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ボディジャック 楽しい幽体離脱

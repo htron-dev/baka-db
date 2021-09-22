@@ -1,5 +1,7 @@
 # Garnet Cradle: Gekkou no Aria
 
+![garnet-cradle-gekkou-no-aria](https://cdn.myanimelist.net/images/manga/3/153304.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

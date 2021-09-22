@@ -1,5 +1,7 @@
 # Dededen
 
+![dededen](https://cdn.myanimelist.net/images/anime/7/75717.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: でででん

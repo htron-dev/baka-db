@@ -1,5 +1,7 @@
 # Anata no Tsubomi wo Osewa Shimasu!
 
+![anata-no-tsubomi-wo-osewa-shimasu](https://cdn.myanimelist.net/images/manga/1/28981.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

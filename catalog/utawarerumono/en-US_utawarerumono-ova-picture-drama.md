@@ -1,5 +1,7 @@
 # Utawarerumono OVA Picture Drama
 
+![utawarerumono-ova-picture-drama](https://cdn.myanimelist.net/images/anime/10/19945.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: OVA うたわれるもの

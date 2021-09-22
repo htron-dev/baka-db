@@ -1,5 +1,7 @@
 # Kare no Ondo
 
+![kare-no-ondo](https://cdn.myanimelist.net/images/manga/3/29058.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Tengen Toppa Gurren Lagann Movie 2: Lagann-hen
 
+![tengen-toppa-gurren-lagann-movie-2-lagann-hen](https://cdn.myanimelist.net/images/anime/12/19698.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 天元突破グレンラガン 螺巌篇

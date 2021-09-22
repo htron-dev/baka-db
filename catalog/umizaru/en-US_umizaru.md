@@ -1,5 +1,7 @@
 # Umizaru
 
+![umizaru](https://cdn.myanimelist.net/images/manga/1/200408.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 119

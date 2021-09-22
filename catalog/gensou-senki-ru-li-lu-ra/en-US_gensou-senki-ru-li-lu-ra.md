@@ -1,5 +1,7 @@
 # Gensou Senki RuLiLuRa
 
+![gensou-senki-ru-li-lu-ra](https://cdn.myanimelist.net/images/manga/1/74227.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 幻奏戦記ルリルラ

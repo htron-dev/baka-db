@@ -1,5 +1,7 @@
 # Megu♥Milk
 
+![megu♥-milk](https://cdn.myanimelist.net/images/manga/2/137317.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

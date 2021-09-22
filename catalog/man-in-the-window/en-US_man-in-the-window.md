@@ -1,5 +1,7 @@
 # Man in the Window
 
+![man-in-the-window](https://cdn.myanimelist.net/images/manga/3/195304.jpg)
+
 -   **type**: manga
 -   **original-name**: Man In The Window
 -   **start-date**: 2015-06-19

@@ -1,5 +1,7 @@
 # Yogoto no Yubisaki/Mahiru no Hate
 
+![yogoto-no-yubisaki-mahiru-no-hate](https://cdn.myanimelist.net/images/manga/3/149366.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

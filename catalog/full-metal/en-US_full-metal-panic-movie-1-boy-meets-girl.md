@@ -1,5 +1,7 @@
 # Full Metal Panic! Movie 1: Boy Meets Girl
 
+![full-metal-panic-movie-1-boy-meets-girl](https://cdn.myanimelist.net/images/anime/6/88543.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: フルメタル・パニック！ボーイ・ミーツ・ガール

@@ -1,5 +1,7 @@
 # Midnight Rain
 
+![midnight-rain](https://cdn.myanimelist.net/images/manga/3/223729.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

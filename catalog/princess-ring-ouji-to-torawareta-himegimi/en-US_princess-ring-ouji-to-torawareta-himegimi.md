@@ -1,5 +1,7 @@
 # Princess Ring: Ouji to Torawareta Himegimi
 
+![princess-ring-ouji-to-torawareta-himegimi](https://cdn.myanimelist.net/images/manga/2/182204.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

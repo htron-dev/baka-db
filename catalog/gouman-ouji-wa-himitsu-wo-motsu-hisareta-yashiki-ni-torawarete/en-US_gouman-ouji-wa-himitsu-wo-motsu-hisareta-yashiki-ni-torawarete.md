@@ -1,5 +1,7 @@
 # Gouman Ouji wa, Himitsu wo Motsu: Hisareta Yashiki ni Torawarete
 
+![gouman-ouji-wa-himitsu-wo-motsu-hisareta-yashiki-ni-torawarete](https://cdn.myanimelist.net/images/manga/2/192524.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

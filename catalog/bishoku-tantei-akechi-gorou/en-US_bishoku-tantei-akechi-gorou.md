@@ -1,5 +1,7 @@
 # Bishoku Tantei Akechi Gorou
 
+![bishoku-tantei-akechi-gorou](https://cdn.myanimelist.net/images/manga/3/196757.jpg)
+
 -   **type**: manga
 -   **original-name**: 美食探偵 明智五郎
 -   **start-date**: 2015-06-27

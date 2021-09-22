@@ -1,5 +1,7 @@
 # Out Law
 
+![out-law](https://cdn.myanimelist.net/images/manga/1/225695.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 134

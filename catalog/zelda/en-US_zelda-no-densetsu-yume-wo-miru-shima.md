@@ -1,5 +1,7 @@
 # Zelda no Densetsu: Yume wo Miru Shima
 
+![zelda-no-densetsu-yume-wo-miru-shima](https://cdn.myanimelist.net/images/manga/1/23081.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

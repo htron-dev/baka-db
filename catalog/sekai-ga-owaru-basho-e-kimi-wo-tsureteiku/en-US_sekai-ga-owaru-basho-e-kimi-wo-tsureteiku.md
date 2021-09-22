@@ -1,5 +1,7 @@
 # Sekai ga Owaru Basho e Kimi wo Tsureteiku
 
+![sekai-ga-owaru-basho-e-kimi-wo-tsureteiku](https://cdn.myanimelist.net/images/manga/1/171100.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

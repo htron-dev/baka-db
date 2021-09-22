@@ -1,5 +1,7 @@
 # Kininaru Ano Ko
 
+![kininaru-ano-ko](https://cdn.myanimelist.net/images/manga/3/155717.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

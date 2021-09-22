@@ -1,5 +1,7 @@
 # Boku no Himitsu wo Oshiete Ageru
 
+![boku-no-himitsu-wo-oshiete-ageru](https://cdn.myanimelist.net/images/manga/3/9240.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

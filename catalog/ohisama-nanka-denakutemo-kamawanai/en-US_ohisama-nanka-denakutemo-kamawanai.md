@@ -1,5 +1,7 @@
 # Ohisama nanka Denakutemo Kamawanai
 
+![ohisama-nanka-denakutemo-kamawanai](https://cdn.myanimelist.net/images/manga/1/167520.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

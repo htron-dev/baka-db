@@ -1,5 +1,7 @@
 # Seisenshi Dunbine
 
+![seisenshi-dunbine](https://cdn.myanimelist.net/images/anime/1562/94955.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 聖戦士ダンバイン

@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei: Nyuugaku-hen
 
+![mahouka-koukou-no-rettousei-nyuugaku-hen](https://cdn.myanimelist.net/images/manga/3/120981.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

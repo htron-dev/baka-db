@@ -1,5 +1,7 @@
 # Azuki-chan the Movie
 
+![azuki-chan-the-movie](https://cdn.myanimelist.net/images/anime/12/45236.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あずきちゃん

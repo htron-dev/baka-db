@@ -1,5 +1,7 @@
 # Swan Castle
 
+![swan-castle](https://cdn.myanimelist.net/images/manga/3/109457.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Bollogi Iyagi
 
+![bollogi-iyagi](https://cdn.myanimelist.net/images/anime/2/18010.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 볼로기 이야기

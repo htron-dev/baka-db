@@ -1,5 +1,7 @@
 # Norakuro Shoui: Nichiyoubi no Kaijiken
 
+![norakuro-shoui-nichiyoubi-no-kaijiken](https://cdn.myanimelist.net/images/anime/5/15854.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: のらくろ少尉～日曜日の怪事件～

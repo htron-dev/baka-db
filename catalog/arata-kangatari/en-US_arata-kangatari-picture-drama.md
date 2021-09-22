@@ -1,5 +1,7 @@
 # Arata Kangatari Picture Drama
 
+![arata-kangatari-picture-drama](https://cdn.myanimelist.net/images/anime/4/52145.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: アラタ カンガタリ ~革神語~ ピクチャードラマ

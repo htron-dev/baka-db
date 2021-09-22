@@ -1,5 +1,7 @@
 # Buchou Shima Kousaku
 
+![buchou-shima-kousaku](https://cdn.myanimelist.net/images/manga/2/129001.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 163

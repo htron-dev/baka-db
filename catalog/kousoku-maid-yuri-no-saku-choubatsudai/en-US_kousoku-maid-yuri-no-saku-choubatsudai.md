@@ -1,5 +1,7 @@
 # Kousoku Maid: Yuri no Saku Choubatsudai
 
+![kousoku-maid-yuri-no-saku-choubatsudai](https://cdn.myanimelist.net/images/manga/1/169727.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

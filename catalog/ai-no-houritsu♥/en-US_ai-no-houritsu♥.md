@@ -1,5 +1,7 @@
 # Ai no Houritsu♥
 
+![ai-no-houritsu♥](https://cdn.myanimelist.net/images/manga/2/158530.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

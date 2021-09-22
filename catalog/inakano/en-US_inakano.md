@@ -1,5 +1,7 @@
 # Inakano
 
+![inakano](https://cdn.myanimelist.net/images/manga/2/34992.jpg)
+
 -   **type**: manga
 -   **original-name**: いなかの
 -   **start-date**: 2009-06-12

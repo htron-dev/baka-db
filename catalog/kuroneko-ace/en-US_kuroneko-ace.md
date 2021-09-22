@@ -1,5 +1,7 @@
 # Kuroneko Ace
 
+![kuroneko-ace](https://cdn.myanimelist.net/images/manga/2/239207.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 黒猫エース

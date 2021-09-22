@@ -1,5 +1,7 @@
 # Pokemon Best Wishes! Season 2: Decolora Adventure - Dent to Takeshi! Gyarados no Gekirin!!
 
+![pokemon-best-wishes-season-2-decolora-adventure-dent-to-takeshi-gyarados-no-gekirin](https://cdn.myanimelist.net/images/anime/13/54899.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: デントとタケシ！ギャラドスのげきりん！！

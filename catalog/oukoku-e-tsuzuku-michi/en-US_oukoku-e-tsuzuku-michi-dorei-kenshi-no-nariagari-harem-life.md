@@ -1,5 +1,7 @@
 # Oukoku e Tsuzuku Michi: Dorei Kenshi no Nariagari Harem Life
 
+![oukoku-e-tsuzuku-michi-dorei-kenshi-no-nariagari-harem-life](https://cdn.myanimelist.net/images/manga/1/233386.jpg)
+
 -   **type**: manga
 -   **original-name**: 王国へ続く道 奴隷剣士の成り上がり英雄譚〈ハーレムライフ〉
 -   **start-date**: 2019-11-19

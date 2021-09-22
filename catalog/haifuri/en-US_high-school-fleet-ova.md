@@ -1,5 +1,7 @@
 # High School Fleet OVA
 
+![high-school-fleet-ova](https://cdn.myanimelist.net/images/anime/5/84267.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: OVA ハイスクール・フリート

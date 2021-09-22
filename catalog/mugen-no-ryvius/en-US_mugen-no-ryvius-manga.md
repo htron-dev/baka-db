@@ -1,5 +1,7 @@
 # Mugen no Ryvius
 
+![mugen-no-ryvius](https://cdn.myanimelist.net/images/manga/2/162310.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

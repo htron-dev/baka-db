@@ -1,5 +1,7 @@
 # Nisekoi: Urabana
 
+![nisekoi-urabana](https://cdn.myanimelist.net/images/manga/2/111109.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # 4-goushitsu no Atelier
 
+![4-goushitsu-no-atelier](https://cdn.myanimelist.net/images/manga/1/135753.jpg)
+
 -   **type**: manga
 -   **original-name**: 4 号室のアトリエ
 -   **start-date**: 2014-02-20

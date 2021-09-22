@@ -1,5 +1,7 @@
 # Boku, Otaryman
 
+![boku-otaryman](https://cdn.myanimelist.net/images/manga/3/40980.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ぼく、オタリーマン。

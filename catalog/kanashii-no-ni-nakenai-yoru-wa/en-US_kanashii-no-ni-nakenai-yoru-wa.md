@@ -1,5 +1,7 @@
 # Kanashii no ni Nakenai Yoru wa
 
+![kanashii-no-ni-nakenai-yoru-wa](https://cdn.myanimelist.net/images/manga/3/148987.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

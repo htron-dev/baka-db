@@ -1,5 +1,7 @@
 # Detective Conan: Amuro Secret Call
 
+![detective-conan-amuro-secret-call](https://cdn.myanimelist.net/images/anime/1039/98287.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン シークレット安室コール

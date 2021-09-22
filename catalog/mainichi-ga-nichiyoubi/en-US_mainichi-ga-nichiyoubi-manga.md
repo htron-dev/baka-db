@@ -1,5 +1,7 @@
 # Mainichi ga Nichiyoubi
 
+![mainichi-ga-nichiyoubi](https://cdn.myanimelist.net/images/manga/2/80123.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

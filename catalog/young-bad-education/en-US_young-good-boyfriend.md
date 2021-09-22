@@ -1,5 +1,7 @@
 # Young Good Boyfriend
 
+![young-good-boyfriend](https://cdn.myanimelist.net/images/manga/2/224269.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

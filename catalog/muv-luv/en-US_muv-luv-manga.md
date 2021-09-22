@@ -1,5 +1,7 @@
 # Muv-Luv
 
+![muv-luv](https://cdn.myanimelist.net/images/manga/3/135017.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

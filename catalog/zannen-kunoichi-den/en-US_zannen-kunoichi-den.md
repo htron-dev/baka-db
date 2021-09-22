@@ -1,5 +1,7 @@
 # Zannen Kunoichi Den
 
+![zannen-kunoichi-den](https://cdn.myanimelist.net/images/manga/2/45505.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

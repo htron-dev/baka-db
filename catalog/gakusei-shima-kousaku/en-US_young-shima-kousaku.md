@@ -1,5 +1,7 @@
 # Young Shima Kousaku
 
+![young-shima-kousaku](https://cdn.myanimelist.net/images/manga/1/128993.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Zashiki Warashi ga Deteiku Sou desu
 
+![zashiki-warashi-ga-deteiku-sou-desu](https://cdn.myanimelist.net/images/manga/3/233609.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

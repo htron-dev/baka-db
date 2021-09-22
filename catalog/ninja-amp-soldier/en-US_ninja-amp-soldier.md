@@ -1,5 +1,7 @@
 # Ninja &amp; Soldier
 
+![ninja-amp-soldier](https://cdn.myanimelist.net/images/anime/10/69831.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: NINJA & SOLDIER

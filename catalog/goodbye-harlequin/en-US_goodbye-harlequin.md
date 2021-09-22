@@ -1,5 +1,7 @@
 # Goodbye Harlequin
 
+![goodbye-harlequin](https://cdn.myanimelist.net/images/manga/3/212355.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

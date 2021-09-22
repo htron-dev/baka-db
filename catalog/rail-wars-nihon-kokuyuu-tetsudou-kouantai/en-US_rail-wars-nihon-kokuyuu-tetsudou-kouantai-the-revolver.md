@@ -1,5 +1,7 @@
 # Rail Wars! Nihon Kokuyuu Tetsudou Kouantai - The Revolver
 
+![rail-wars-nihon-kokuyuu-tetsudou-kouantai-the-revolver](https://cdn.myanimelist.net/images/manga/2/110069.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

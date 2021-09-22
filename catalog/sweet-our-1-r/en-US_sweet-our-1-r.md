@@ -1,5 +1,7 @@
 # Sweet Our 1R
 
+![sweet-our-1-r](https://cdn.myanimelist.net/images/manga/3/238315.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

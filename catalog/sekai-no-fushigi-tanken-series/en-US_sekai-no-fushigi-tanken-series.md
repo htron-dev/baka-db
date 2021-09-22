@@ -1,5 +1,7 @@
 # Sekai no Fushigi Tanken Series
 
+![sekai-no-fushigi-tanken-series](https://cdn.myanimelist.net/images/anime/10/65129.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 世界の不思議・探検シリーズ

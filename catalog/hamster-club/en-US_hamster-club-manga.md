@@ -1,5 +1,7 @@
 # Hamster Club
 
+![hamster-club](https://cdn.myanimelist.net/images/manga/3/86049.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ハムスター倶楽部

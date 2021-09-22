@@ -1,5 +1,7 @@
 # Seven Sisters
 
+![seven-sisters](https://cdn.myanimelist.net/images/manga/2/188874.jpg)
+
 -   **type**: manga
 -   **original-name**: セブンシスターズ
 -   **start-date**: 2011-06-27

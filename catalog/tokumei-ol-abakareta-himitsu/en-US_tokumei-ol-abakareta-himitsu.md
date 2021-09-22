@@ -1,5 +1,7 @@
 # Tokumei OL Abakareta Himitsu
 
+![tokumei-ol-abakareta-himitsu](https://cdn.myanimelist.net/images/manga/3/195937.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 特命 OL 暴かれた秘蜜

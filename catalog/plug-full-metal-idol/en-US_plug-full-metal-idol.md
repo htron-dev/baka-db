@@ -1,5 +1,7 @@
 # Plug: Full Metal Idol
 
+![plug-full-metal-idol](https://cdn.myanimelist.net/images/manga/3/149985.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: PLUG FULL METAL IDOL

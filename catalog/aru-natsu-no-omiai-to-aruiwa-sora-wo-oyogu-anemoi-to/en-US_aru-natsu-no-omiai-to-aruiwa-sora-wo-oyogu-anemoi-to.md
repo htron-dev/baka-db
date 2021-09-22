@@ -1,5 +1,7 @@
 # Aru Natsu no Omiai to, Aruiwa Sora wo Oyogu Anemoi to.
 
+![aru-natsu-no-omiai-to-aruiwa-sora-wo-oyogu-anemoi-to](https://cdn.myanimelist.net/images/manga/3/186107.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

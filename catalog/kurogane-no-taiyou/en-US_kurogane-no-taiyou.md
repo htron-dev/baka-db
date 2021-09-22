@@ -1,5 +1,7 @@
 # Kurogane no Taiyou
 
+![kurogane-no-taiyou](https://cdn.myanimelist.net/images/manga/3/173963.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Rocket Man
 
+![rocket-man](https://cdn.myanimelist.net/images/manga/1/198872.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 38

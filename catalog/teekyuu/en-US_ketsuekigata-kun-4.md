@@ -1,5 +1,7 @@
 # Ketsuekigata-kun! 4
 
+![ketsuekigata-kun-4](https://cdn.myanimelist.net/images/anime/10/77836.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 血液型くん！4

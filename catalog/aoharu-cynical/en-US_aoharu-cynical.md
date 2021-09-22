@@ -1,5 +1,7 @@
 # Aoharu Cynical
 
+![aoharu-cynical](https://cdn.myanimelist.net/images/manga/2/171810.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

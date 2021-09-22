@@ -1,5 +1,7 @@
 # Planet Ladder
 
+![planet-ladder](https://cdn.myanimelist.net/images/manga/3/155810.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: プラネット・ラダー

@@ -1,5 +1,7 @@
 # Youjo Shachou
 
+![youjo-shachou](https://cdn.myanimelist.net/images/anime/1844/110500.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 幼女社長

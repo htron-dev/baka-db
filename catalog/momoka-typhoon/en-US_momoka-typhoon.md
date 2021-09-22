@@ -1,5 +1,7 @@
 # Momoka Typhoon!!
 
+![momoka-typhoon](https://cdn.myanimelist.net/images/manga/2/53641.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 桃花タイフーン!!

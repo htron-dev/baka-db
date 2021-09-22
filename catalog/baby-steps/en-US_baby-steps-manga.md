@@ -1,5 +1,7 @@
 # Baby Steps
 
+![baby-steps](https://cdn.myanimelist.net/images/manga/2/202589.jpg)
+
 -   **type**: manga
 -   **volumes**: 47
 -   **chapters**: 462

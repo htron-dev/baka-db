@@ -1,5 +1,7 @@
 # Mitsuiro Pancake
 
+![mitsuiro-pancake](https://cdn.myanimelist.net/images/manga/1/11384.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

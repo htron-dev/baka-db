@@ -1,5 +1,7 @@
 # Lassie
 
+![lassie](https://cdn.myanimelist.net/images/manga/1/12505.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

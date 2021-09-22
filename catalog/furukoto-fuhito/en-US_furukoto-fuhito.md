@@ -1,5 +1,7 @@
 # Furukoto Fuhito
 
+![furukoto-fuhito](https://cdn.myanimelist.net/images/manga/5/228917.jpg)
+
 -   **type**: manga
 -   **original-name**: ふることふひと
 -   **start-date**: 2019-09-15

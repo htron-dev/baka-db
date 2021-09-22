@@ -1,5 +1,7 @@
 # Tales of Crestoria: Toga Waga wo Shoite Kare wa Tatsu
 
+![tales-of-crestoria-toga-waga-wo-shoite-kare-wa-tatsu](https://cdn.myanimelist.net/images/anime/1225/109133.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: TALES OF CRESTORIA-咎我ヲ背負いて彼は発つ-

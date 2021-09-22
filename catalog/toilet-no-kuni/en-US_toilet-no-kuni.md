@@ -1,5 +1,7 @@
 # Toilet no Kuni
 
+![toilet-no-kuni](https://cdn.myanimelist.net/images/anime/8/88493.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: トイレのくに

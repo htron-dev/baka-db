@@ -1,5 +1,7 @@
 # Hidamari Sketch: Hidamari School Life
 
+![hidamari-sketch-hidamari-school-life](https://cdn.myanimelist.net/images/manga/2/234399.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ひだまりスケッチ ひだまり School Life

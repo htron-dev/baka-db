@@ -1,5 +1,7 @@
 # Chocolate Junkie
 
+![chocolate-junkie](https://cdn.myanimelist.net/images/manga/1/172424.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

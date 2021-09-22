@@ -1,5 +1,7 @@
 # Hitori no Shita: The Outcast Fanwai Pian
 
+![hitori-no-shita-the-outcast-fanwai-pian](https://cdn.myanimelist.net/images/anime/1595/93783.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 一人之下 天师下山 番外篇

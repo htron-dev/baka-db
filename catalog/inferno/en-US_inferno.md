@@ -1,5 +1,7 @@
 # Inferno
 
+![inferno](https://cdn.myanimelist.net/images/manga/2/173142.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 31

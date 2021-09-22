@@ -1,5 +1,7 @@
 # Detective Conan Movie 11: Jolly Roger in the Deep Azure
 
+![detective-conan-movie-11-jolly-roger-in-the-deep-azure](https://cdn.myanimelist.net/images/anime/1765/94323.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 紺碧の棺 （ジョリー・ロジャー）

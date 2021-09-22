@@ -1,5 +1,7 @@
 # Grancrest Senki Tsuisou
 
+![grancrest-senki-tsuisou](https://cdn.myanimelist.net/images/anime/1795/91146.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: グランクレスト戦記 追想

@@ -1,5 +1,7 @@
 # All of You in the World
 
+![all-of-you-in-the-world](https://cdn.myanimelist.net/images/manga/2/25301.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: 니가 세상의 전부다

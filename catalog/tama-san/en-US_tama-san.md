@@ -1,5 +1,7 @@
 # Tama-san
 
+![tama-san](https://cdn.myanimelist.net/images/manga/1/229874.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: タマさん

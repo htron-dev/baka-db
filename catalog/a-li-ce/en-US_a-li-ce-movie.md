@@ -1,5 +1,7 @@
 # A.LI.CE
 
+![a-li-ce](https://cdn.myanimelist.net/images/anime/1401/112244.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Ａ・ＬＩ・ＣＥ

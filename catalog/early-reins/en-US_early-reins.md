@@ -1,5 +1,7 @@
 # Early Reins
 
+![early-reins](https://cdn.myanimelist.net/images/anime/1/1928.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: EARLY REINS

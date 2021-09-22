@@ -1,5 +1,7 @@
 # Survival P-Game
 
+![survival-p-game](https://cdn.myanimelist.net/images/manga/2/164461.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Ark
 
+![ark](https://cdn.myanimelist.net/images/manga/3/36402.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

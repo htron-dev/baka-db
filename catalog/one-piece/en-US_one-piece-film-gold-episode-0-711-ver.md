@@ -1,5 +1,7 @@
 # One Piece Film: Gold Episode 0 - 711 ver.
 
+![one-piece-film-gold-episode-0-711-ver](https://cdn.myanimelist.net/images/anime/4/83792.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンピース フィルム ゴールド ～ episode 0 ～ 711ver.

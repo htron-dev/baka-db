@@ -1,5 +1,7 @@
 # Xing Hai Qi Shi
 
+![xing-hai-qi-shi](https://cdn.myanimelist.net/images/anime/1500/110781.jpg)
+
 -   **type**: ona
 -   **episodes**: 14
 -   **original-name**: 星骸骑士

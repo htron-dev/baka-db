@@ -1,5 +1,7 @@
 # Don't Cheat on Me!
 
+![dont-cheat-on-me](https://cdn.myanimelist.net/images/manga/1/35712.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 

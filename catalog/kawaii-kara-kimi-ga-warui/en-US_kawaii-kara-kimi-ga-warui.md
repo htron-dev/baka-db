@@ -1,5 +1,7 @@
 # Kawaii kara Kimi ga Warui
 
+![kawaii-kara-kimi-ga-warui](https://cdn.myanimelist.net/images/manga/1/244448.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Korette Unmei?: Ichizu na Seifukuou no Kageki na Chouai
 
+![korette-unmei-ichizu-na-seifukuou-no-kageki-na-chouai](https://cdn.myanimelist.net/images/manga/3/218099.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Hana no O-en Step
 
+![hana-no-o-en-step](https://cdn.myanimelist.net/images/manga/2/168510.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 花の O-EN ステップ

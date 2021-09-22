@@ -1,5 +1,7 @@
 # Aldnoah.Zero
 
+![aldnoah-zero](https://cdn.myanimelist.net/images/manga/2/171877.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 12

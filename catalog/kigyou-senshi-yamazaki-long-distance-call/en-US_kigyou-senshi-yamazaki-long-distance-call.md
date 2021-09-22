@@ -1,5 +1,7 @@
 # Kigyou Senshi Yamazaki: Long Distance Call
 
+![kigyou-senshi-yamazaki-long-distance-call](https://cdn.myanimelist.net/images/anime/1238/96361.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 企業戦士 YAMAZAKI ~LONG DISTANCE CALL~

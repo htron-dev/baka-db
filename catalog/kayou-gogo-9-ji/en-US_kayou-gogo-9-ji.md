@@ -1,5 +1,7 @@
 # Kayou Gogo 9-ji
 
+![kayou-gogo-9-ji](https://cdn.myanimelist.net/images/manga/4/14800.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 火曜午後９時

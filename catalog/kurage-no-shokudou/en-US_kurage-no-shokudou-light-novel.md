@@ -1,5 +1,7 @@
 # Kurage no Shokudou
 
+![kurage-no-shokudou](https://cdn.myanimelist.net/images/manga/3/147729.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: クラゲの食堂

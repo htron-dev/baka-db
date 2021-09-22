@@ -1,5 +1,7 @@
 # K: Memory of Red
 
+![k-memory-of-red](https://cdn.myanimelist.net/images/manga/5/80003.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

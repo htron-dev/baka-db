@@ -1,5 +1,7 @@
 # Grimm Douwa: Hitomi Akiko Sakuhinshuu
 
+![grimm-douwa-hitomi-akiko-sakuhinshuu](https://cdn.myanimelist.net/images/manga/2/137477.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

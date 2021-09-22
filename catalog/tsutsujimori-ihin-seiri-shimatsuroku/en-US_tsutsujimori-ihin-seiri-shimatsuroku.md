@@ -1,5 +1,7 @@
 # Tsutsujimori: Ihin Seiri Shimatsuroku
 
+![tsutsujimori-ihin-seiri-shimatsuroku](https://cdn.myanimelist.net/images/manga/3/201406.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

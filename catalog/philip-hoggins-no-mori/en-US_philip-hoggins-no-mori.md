@@ -1,5 +1,7 @@
 # Philip Hoggins no Mori
 
+![philip-hoggins-no-mori](https://cdn.myanimelist.net/images/manga/3/116539.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: フィリップ・ホギンズの森

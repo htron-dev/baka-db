@@ -1,5 +1,7 @@
 # Minami no Teiou
 
+![minami-no-teiou](https://cdn.myanimelist.net/images/manga/1/67807.jpg)
+
 -   **type**: manga
 -   **original-name**: ミナミの帝王
 -   **start-date**: 1992-03-06

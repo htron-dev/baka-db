@@ -1,5 +1,7 @@
 # Niji no Kanata e! Shoujo Diana Monogatari
 
+![niji-no-kanata-e-shoujo-diana-monogatari](https://cdn.myanimelist.net/images/anime/6/34347.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 虹のかなたへ! 少女ダイアナ物語

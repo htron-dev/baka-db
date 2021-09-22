@@ -1,5 +1,7 @@
 # Kindan no Scenario
 
+![kindan-no-scenario](https://cdn.myanimelist.net/images/manga/1/163652.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

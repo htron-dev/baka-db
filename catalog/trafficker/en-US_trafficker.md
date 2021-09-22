@@ -1,5 +1,7 @@
 # Trafficker
 
+![trafficker](https://cdn.myanimelist.net/images/manga/2/225885.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

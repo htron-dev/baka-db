@@ -1,5 +1,7 @@
 # After The Last
 
+![after-the-last](https://cdn.myanimelist.net/images/manga/2/216750.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: NARUTO–ナルト–特別番外編~After THE LAST~,

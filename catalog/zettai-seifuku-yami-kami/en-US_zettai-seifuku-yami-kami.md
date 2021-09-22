@@ -1,5 +1,7 @@
 # Zettai Seifuku Yami Kami!
 
+![zettai-seifuku-yami-kami](https://cdn.myanimelist.net/images/manga/2/97601.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: 絶対征服ヤミカミ!

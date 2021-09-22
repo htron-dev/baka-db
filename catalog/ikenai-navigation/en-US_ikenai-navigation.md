@@ -1,5 +1,7 @@
 # Ikenai Navigation
 
+![ikenai-navigation](https://cdn.myanimelist.net/images/manga/3/3152.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

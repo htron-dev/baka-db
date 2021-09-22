@@ -1,5 +1,7 @@
 # Negawakuba Kono Te ni Koufuku wo
 
+![negawakuba-kono-te-ni-koufuku-wo](https://cdn.myanimelist.net/images/manga/2/236276.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

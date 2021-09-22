@@ -1,5 +1,7 @@
 # In Wonderland
 
+![in-wonderland](https://cdn.myanimelist.net/images/manga/1/190703.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

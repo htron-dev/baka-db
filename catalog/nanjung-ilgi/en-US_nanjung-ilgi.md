@@ -1,5 +1,7 @@
 # Nanjung Ilgi
 
+![nanjung-ilgi](https://cdn.myanimelist.net/images/anime/1798/108249.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 난중일기
@@ -18,4 +20,4 @@ No synopsis information has been added to this title. Help improve our database 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/42323/Nanjung_Ilgi)
--   [Wikipedia](<https://ko.wikipedia.org/wiki/난중일기_(1997년_영화)>)
+-   [Wikipedia](https://ko.wikipedia.org/wiki/난중일기_%281997년_영화%29)

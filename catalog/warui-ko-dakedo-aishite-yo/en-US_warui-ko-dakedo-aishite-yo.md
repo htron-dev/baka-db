@@ -1,5 +1,7 @@
 # Warui Ko dakedo Aishite yo
 
+![warui-ko-dakedo-aishite-yo](https://cdn.myanimelist.net/images/manga/1/227053.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

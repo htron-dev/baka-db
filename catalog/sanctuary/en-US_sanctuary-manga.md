@@ -1,5 +1,7 @@
 # Sanctuary
 
+![sanctuary](https://cdn.myanimelist.net/images/manga/1/170458.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 108

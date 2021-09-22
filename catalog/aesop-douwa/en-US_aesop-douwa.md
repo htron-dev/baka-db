@@ -1,5 +1,7 @@
 # Aesop Douwa
 
+![aesop-douwa](https://cdn.myanimelist.net/images/anime/3/86238.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **start-date**: 1993-11-21

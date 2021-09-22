@@ -1,5 +1,7 @@
 # Konjiki no Gash Bell!!: 101 Banme no Mamono
 
+![konjiki-no-gash-bell-101-banme-no-mamono](https://cdn.myanimelist.net/images/anime/5/15308.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 金色のガッシュベル!! 101 番目の魔物

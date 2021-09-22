@@ -1,5 +1,7 @@
 # Ushinawareta Mirai wo Motomete
 
+![ushinawareta-mirai-wo-motomete](https://cdn.myanimelist.net/images/manga/3/143093.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

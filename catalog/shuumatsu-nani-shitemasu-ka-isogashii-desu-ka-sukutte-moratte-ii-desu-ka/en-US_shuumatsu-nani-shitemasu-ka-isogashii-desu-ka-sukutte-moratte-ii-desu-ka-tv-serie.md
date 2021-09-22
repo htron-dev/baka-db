@@ -1,5 +1,7 @@
 # Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?
 
+![shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka](https://cdn.myanimelist.net/images/anime/4/85260.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 終末なにしてますか？忙しいですか？救ってもらっていいですか？

@@ -1,5 +1,7 @@
 # Tokyu Plaza Ginza Open
 
+![tokyu-plaza-ginza-open](https://cdn.myanimelist.net/images/anime/11/81555.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Tokyu Plaza Ginza Open

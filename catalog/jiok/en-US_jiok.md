@@ -1,5 +1,7 @@
 # Jiok
 
+![jiok](https://cdn.myanimelist.net/images/anime/1206/112326.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 지옥 두개 의 삶

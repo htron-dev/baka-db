@@ -1,5 +1,7 @@
 # Komugi Panic!
 
+![komugi-panic](https://cdn.myanimelist.net/images/manga/3/125191.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 小麦パニック!

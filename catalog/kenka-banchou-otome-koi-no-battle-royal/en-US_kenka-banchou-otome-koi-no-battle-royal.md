@@ -1,5 +1,7 @@
 # Kenka Banchou Otome: Koi no Battle Royal
 
+![kenka-banchou-otome-koi-no-battle-royal](https://cdn.myanimelist.net/images/manga/2/190412.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

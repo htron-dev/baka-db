@@ -1,5 +1,7 @@
 # Hayou no Tsurugi: Shikkoku no Mashou
 
+![hayou-no-tsurugi-shikkoku-no-mashou](https://cdn.myanimelist.net/images/anime/13/41089.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 破妖の剣 漆黒の魔性

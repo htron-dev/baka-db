@@ -1,5 +1,7 @@
 # Tenshi wo Hirotta Yoru
 
+![tenshi-wo-hirotta-yoru](https://cdn.myanimelist.net/images/manga/3/247161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天使を拾った夜

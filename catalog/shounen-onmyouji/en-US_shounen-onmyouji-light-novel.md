@@ -1,5 +1,7 @@
 # Shounen Onmyouji
 
+![shounen-onmyouji](https://cdn.myanimelist.net/images/manga/2/119825.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 少年陰陽師
 

@@ -1,5 +1,7 @@
 # Karakai Jouzu no Takagi-san 2
 
+![karakai-jouzu-no-takagi-san-2](https://cdn.myanimelist.net/images/anime/1393/107033.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: からかい上手の高木さん 2

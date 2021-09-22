@@ -1,5 +1,7 @@
 # Strawberry-chan no Karei na Seikatsu
 
+![strawberry-chan-no-karei-na-seikatsu](https://cdn.myanimelist.net/images/manga/2/61153.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 51

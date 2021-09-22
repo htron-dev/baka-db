@@ -1,5 +1,7 @@
 # Nagagutsu wo Haita Neko: 80 Nichikan Sekai Isshuu
 
+![nagagutsu-wo-haita-neko-80-nichikan-sekai-isshuu](https://cdn.myanimelist.net/images/anime/6/61463.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 長靴をはいた猫 80 日間世界一周

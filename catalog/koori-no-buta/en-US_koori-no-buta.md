@@ -1,5 +1,7 @@
 # Koori no Buta
 
+![koori-no-buta](https://cdn.myanimelist.net/images/manga/3/203505.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

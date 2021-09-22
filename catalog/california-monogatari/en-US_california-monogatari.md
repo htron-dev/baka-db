@@ -1,5 +1,7 @@
 # California Monogatari
 
+![california-monogatari](https://cdn.myanimelist.net/images/manga/2/12565.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: カリフォルニア物語

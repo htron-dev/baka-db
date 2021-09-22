@@ -1,5 +1,7 @@
 # Totsukuni no Shoujo OVA
 
+![totsukuni-no-shoujo-ova](https://cdn.myanimelist.net/images/anime/1957/113267.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とつくにの少女

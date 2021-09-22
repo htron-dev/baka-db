@@ -1,5 +1,7 @@
 # Chi.: Chikyuu no Undou ni Tsuite
 
+![chi-chikyuu-no-undou-ni-tsuite](https://cdn.myanimelist.net/images/manga/2/246956.jpg)
+
 -   **type**: manga
 -   **original-name**: チ。―地球の運動について―
 -   **start-date**: 2020-09-14

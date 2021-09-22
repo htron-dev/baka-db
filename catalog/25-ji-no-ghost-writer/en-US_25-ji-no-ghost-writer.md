@@ -1,5 +1,7 @@
 # 25-ji no Ghost Writer
 
+![25-ji-no-ghost-writer](https://cdn.myanimelist.net/images/manga/3/234238.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

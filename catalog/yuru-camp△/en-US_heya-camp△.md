@@ -1,5 +1,7 @@
 # Heya Camp△
 
+![heya-camp△](https://cdn.myanimelist.net/images/anime/1228/104364.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: へやキャン △

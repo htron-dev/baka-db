@@ -1,5 +1,7 @@
 # Gancheopjamneun Ttorijanggun
 
+![gancheopjamneun-ttorijanggun](https://cdn.myanimelist.net/images/anime/6/49141.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 간첩잡는 똘이장군

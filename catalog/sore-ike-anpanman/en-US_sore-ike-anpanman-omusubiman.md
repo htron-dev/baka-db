@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Omusubiman
 
+![sore-ike-anpanman-omusubiman](https://cdn.myanimelist.net/images/anime/9/52081.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン おむすびまん

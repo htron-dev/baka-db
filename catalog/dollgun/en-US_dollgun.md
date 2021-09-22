@@ -1,5 +1,7 @@
 # Dollgun
 
+![dollgun](https://cdn.myanimelist.net/images/manga/3/148175.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: ドールガン

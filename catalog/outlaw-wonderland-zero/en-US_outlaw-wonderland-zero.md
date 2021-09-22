@@ -1,5 +1,7 @@
 # Outlaw Wonderland Zero
 
+![outlaw-wonderland-zero](https://cdn.myanimelist.net/images/manga/1/176863.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

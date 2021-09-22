@@ -1,5 +1,7 @@
 # Dragon Slayer Eiyuu Densetsu: Ouji no Tabidachi
 
+![dragon-slayer-eiyuu-densetsu-ouji-no-tabidachi](https://cdn.myanimelist.net/images/anime/1113/92580.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ドラゴンスレイヤー英雄伝説 王子の旅立ち

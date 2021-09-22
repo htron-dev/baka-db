@@ -1,5 +1,7 @@
 # Kakushigoto Movie
 
+![kakushigoto-movie](https://cdn.myanimelist.net/images/anime/1115/114953.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場編集版 かくしごと

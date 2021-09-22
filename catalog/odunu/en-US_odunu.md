@@ -1,5 +1,7 @@
 # Odunu
 
+![odunu](https://cdn.myanimelist.net/images/manga/2/129889.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: オヅヌ

@@ -1,5 +1,7 @@
 # Yorishiro Trunk
 
+![yorishiro-trunk](https://cdn.myanimelist.net/images/manga/3/242819.jpg)
+
 -   **type**: manga
 -   **original-name**: ヨリシロトランク
 -   **start-date**: 2020-02-27

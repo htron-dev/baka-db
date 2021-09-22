@@ -1,5 +1,7 @@
 # Seishaku Geika no Niizuma wa Rikon Shimasen!
 
+![seishaku-geika-no-niizuma-wa-rikon-shimasen](https://cdn.myanimelist.net/images/manga/2/181276.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

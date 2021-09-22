@@ -1,5 +1,7 @@
 # Kiken Junai D.N.A.
 
+![kiken-junai-d-n-a](https://cdn.myanimelist.net/images/manga/1/119493.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

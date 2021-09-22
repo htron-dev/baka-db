@@ -1,5 +1,7 @@
 # Argonavis from BanG Dream! Movie
 
+![argonavis-from-ban-g-dream-movie](https://cdn.myanimelist.net/images/anime/1696/111117.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ARGONAVIS from BanG Dream!
@@ -10,8 +12,6 @@
 
 -   music
 -   drama
-
-## Sinopse
 
 ## Links
 

@@ -1,5 +1,7 @@
 # Eien no 0
 
+![eien-no-0](https://cdn.myanimelist.net/images/manga/3/100859.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

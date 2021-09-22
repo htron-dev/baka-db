@@ -1,5 +1,7 @@
 # Clockwork Planet
 
+![clockwork-planet](https://cdn.myanimelist.net/images/manga/3/132635.jpg)
+
 -   **type**: light-novel
 -   **original-name**: クロックワーク・プラネット
 -   **start-date**: 2013-04-02

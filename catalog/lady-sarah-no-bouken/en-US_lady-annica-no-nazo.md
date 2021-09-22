@@ -1,5 +1,7 @@
 # Lady Annica no Nazo
 
+![lady-annica-no-nazo](https://cdn.myanimelist.net/images/manga/1/227537.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: レディ・アニカの謎

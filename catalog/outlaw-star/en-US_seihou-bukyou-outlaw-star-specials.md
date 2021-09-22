@@ -1,5 +1,7 @@
 # Seihou Bukyou Outlaw Star Specials
 
+![seihou-bukyou-outlaw-star-specials](https://cdn.myanimelist.net/images/anime/8/81082.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 星方武侠アウトロースター

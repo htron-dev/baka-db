@@ -1,5 +1,7 @@
 # Helck
 
+![helck](https://cdn.myanimelist.net/images/manga/3/138699.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 111

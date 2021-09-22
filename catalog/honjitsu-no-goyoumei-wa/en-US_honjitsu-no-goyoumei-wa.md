@@ -1,5 +1,7 @@
 # Honjitsu no Goyoumei wa?
 
+![honjitsu-no-goyoumei-wa](https://cdn.myanimelist.net/images/manga/1/55863.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

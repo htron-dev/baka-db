@@ -1,5 +1,7 @@
 # Katte ni Hero Yattemasu.
 
+![katte-ni-hero-yattemasu](https://cdn.myanimelist.net/images/manga/3/210196.jpg)
+
 -   **type**: manga
 -   **original-name**: 勝手にヒーローやってます。
 -   **start-date**: 2018-01-19

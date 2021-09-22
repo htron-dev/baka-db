@@ -1,5 +1,7 @@
 # Gregory Horror Show
 
+![gregory-horror-show](https://cdn.myanimelist.net/images/anime/5/13265.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: グレゴリーホラーショー

@@ -1,5 +1,7 @@
 # Bonjour♪Koiaji Pâtisserie
 
+![bonjour♪-koiaji-patisserie](https://cdn.myanimelist.net/images/anime/5/66059.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: Bonjour♪ 恋味パティスリー

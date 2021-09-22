@@ -1,5 +1,7 @@
 # QP Gaiden
 
+![qp-gaiden](https://cdn.myanimelist.net/images/manga/2/223376.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

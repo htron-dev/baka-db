@@ -1,5 +1,7 @@
 # His Lipstick
 
+![his-lipstick](https://cdn.myanimelist.net/images/anime/8/65797.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: his Lipstick

@@ -1,5 +1,7 @@
 # V・I・P
 
+![v・i・p](https://cdn.myanimelist.net/images/manga/2/166416.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

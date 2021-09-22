@@ -1,5 +1,7 @@
 # Zetsushinkai no Solaris
 
+![zetsushinkai-no-solaris](https://cdn.myanimelist.net/images/manga/1/208573.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

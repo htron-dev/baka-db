@@ -1,5 +1,7 @@
 # Rainbow: Nisha Rokubou no Shichinin
 
+![rainbow-nisha-rokubou-no-shichinin](https://cdn.myanimelist.net/images/manga/2/217981.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 235

@@ -1,5 +1,7 @@
 # Ruleman no Koutsuu Anzen
 
+![ruleman-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/4/84785.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ルールマンの交通安全

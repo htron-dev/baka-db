@@ -1,5 +1,7 @@
 # Kayashimashi no Yuugana Seikatsu
 
+![kayashimashi-no-yuugana-seikatsu](https://cdn.myanimelist.net/images/manga/1/25318.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

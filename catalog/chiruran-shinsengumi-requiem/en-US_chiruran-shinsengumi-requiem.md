@@ -1,5 +1,7 @@
 # Chiruran: Shinsengumi Requiem
 
+![chiruran-shinsengumi-requiem](https://cdn.myanimelist.net/images/manga/3/162944.jpg)
+
 -   **type**: manga
 -   **original-name**: ちるらん 新撰組鎮魂歌【レクイエム】
 -   **start-date**: 2010-10-25

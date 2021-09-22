@@ -1,5 +1,7 @@
 # Mitsukoi Emaki: Kaikan Time Slip
 
+![mitsukoi-emaki-kaikan-time-slip](https://cdn.myanimelist.net/images/manga/2/184770.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

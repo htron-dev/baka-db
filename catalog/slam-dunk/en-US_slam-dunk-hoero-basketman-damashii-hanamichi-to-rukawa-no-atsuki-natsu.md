@@ -1,5 +1,7 @@
 # Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu
 
+![slam-dunk-hoero-basketman-damashii-hanamichi-to-rukawa-no-atsuki-natsu](https://cdn.myanimelist.net/images/anime/1931/94408.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スラムダンク 吠えろバスケットマン魂!!花道と流川の熱き夏

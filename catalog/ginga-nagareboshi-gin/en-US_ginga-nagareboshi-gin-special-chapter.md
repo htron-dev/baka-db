@@ -1,5 +1,7 @@
 # Ginga Nagareboshi Gin - Special Chapter
 
+![ginga-nagareboshi-gin-special-chapter](https://cdn.myanimelist.net/images/manga/1/13325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

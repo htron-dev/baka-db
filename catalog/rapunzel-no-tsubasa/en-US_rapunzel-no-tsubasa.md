@@ -1,5 +1,7 @@
 # Rapunzel no Tsubasa
 
+![rapunzel-no-tsubasa](https://cdn.myanimelist.net/images/manga/2/164312.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: ラプンツェルの翼

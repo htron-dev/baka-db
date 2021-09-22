@@ -1,5 +1,7 @@
 # School Park!
 
+![school-park](https://cdn.myanimelist.net/images/manga/3/201080.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: スクぱ！

@@ -1,5 +1,7 @@
 # The Case of Tanaka-kun
 
+![the-case-of-tanaka-kun](https://cdn.myanimelist.net/images/manga/2/18359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

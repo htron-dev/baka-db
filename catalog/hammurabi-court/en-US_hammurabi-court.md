@@ -1,5 +1,7 @@
 # Hammurabi Court
 
+![hammurabi-court](https://cdn.myanimelist.net/images/manga/1/193230.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ハムラビコート

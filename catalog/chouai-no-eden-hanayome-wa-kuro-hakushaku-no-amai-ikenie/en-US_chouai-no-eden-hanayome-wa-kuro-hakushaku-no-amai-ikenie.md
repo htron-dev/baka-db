@@ -1,5 +1,7 @@
 # Chouai no Eden: Hanayome wa Kuro Hakushaku no Amai Ikenie
 
+![chouai-no-eden-hanayome-wa-kuro-hakushaku-no-amai-ikenie](https://cdn.myanimelist.net/images/manga/1/181317.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

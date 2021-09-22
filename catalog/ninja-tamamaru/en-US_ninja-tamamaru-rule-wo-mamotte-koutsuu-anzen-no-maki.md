@@ -1,5 +1,7 @@
 # Ninja Tamamaru: Rule wo Mamotte Koutsuu Anzen! no Maki
 
+![ninja-tamamaru-rule-wo-mamotte-koutsuu-anzen-no-maki](https://cdn.myanimelist.net/images/anime/12/84702.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 忍者玉丸　ルールを守って交通安全!!の巻

@@ -1,5 +1,7 @@
 # Tsumasaki ni Kiss
 
+![tsumasaki-ni-kiss](https://cdn.myanimelist.net/images/manga/2/4927.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

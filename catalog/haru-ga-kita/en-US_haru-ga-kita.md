@@ -1,5 +1,7 @@
 # Haru ga Kita
 
+![haru-ga-kita](https://cdn.myanimelist.net/images/manga/3/240705.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # Seifuku no Koibito
 
+![seifuku-no-koibito](https://cdn.myanimelist.net/images/manga/2/30093.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

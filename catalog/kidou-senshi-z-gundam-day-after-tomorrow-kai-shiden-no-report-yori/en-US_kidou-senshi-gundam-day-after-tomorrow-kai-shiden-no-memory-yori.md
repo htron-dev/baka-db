@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Day After Tomorrow - Kai Shiden no Memory yori
 
+![kidou-senshi-gundam-day-after-tomorrow-kai-shiden-no-memory-yori](https://cdn.myanimelist.net/images/manga/3/189613.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 31

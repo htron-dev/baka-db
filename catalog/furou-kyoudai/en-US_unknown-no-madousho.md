@@ -1,5 +1,7 @@
 # Unknown no Madousho
 
+![unknown-no-madousho](https://cdn.myanimelist.net/images/manga/3/100729.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

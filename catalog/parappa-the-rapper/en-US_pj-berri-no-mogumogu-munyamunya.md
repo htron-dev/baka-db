@@ -1,5 +1,7 @@
 # PJ Berri no Mogumogu Munyamunya
 
+![pj-berri-no-mogumogu-munyamunya](https://cdn.myanimelist.net/images/anime/2/81465.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: PJ ベリーのもぐもぐむにゃむにゃ

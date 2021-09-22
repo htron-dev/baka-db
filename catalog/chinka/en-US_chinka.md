@@ -1,5 +1,7 @@
 # Chinka
 
+![chinka](https://cdn.myanimelist.net/images/anime/12/71467.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ちんか

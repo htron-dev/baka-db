@@ -1,5 +1,7 @@
 # Ou no Ibara
 
+![ou-no-ibara](https://cdn.myanimelist.net/images/manga/1/202235.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 48

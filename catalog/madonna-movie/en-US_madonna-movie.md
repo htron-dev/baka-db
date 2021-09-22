@@ -1,5 +1,7 @@
 # Madonna (Movie)
 
+![madonna-movie](https://cdn.myanimelist.net/images/anime/10/58127.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: MADONNA

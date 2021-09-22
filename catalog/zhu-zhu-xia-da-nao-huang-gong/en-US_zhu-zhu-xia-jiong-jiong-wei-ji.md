@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Jiong Jiong Wei Ji
 
+![zhu-zhu-xia-jiong-jiong-wei-ji](https://cdn.myanimelist.net/images/anime/1111/93359.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 猪猪侠 囧囧危机

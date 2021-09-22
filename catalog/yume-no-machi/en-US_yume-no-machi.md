@@ -1,5 +1,7 @@
 # Yume no Machi
 
+![yume-no-machi](https://cdn.myanimelist.net/images/manga/2/7737.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ユメノ街

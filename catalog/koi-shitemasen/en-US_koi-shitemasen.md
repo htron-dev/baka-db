@@ -1,5 +1,7 @@
 # Koi Shitemasen!
 
+![koi-shitemasen](https://cdn.myanimelist.net/images/manga/3/89599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋してません!

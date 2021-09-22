@@ -1,5 +1,7 @@
 # Ace no Keifu
 
+![ace-no-keifu](https://cdn.myanimelist.net/images/manga/1/172480.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

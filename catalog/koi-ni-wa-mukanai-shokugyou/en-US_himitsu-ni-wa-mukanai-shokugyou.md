@@ -1,5 +1,7 @@
 # Himitsu ni wa Mukanai Shokugyou
 
+![himitsu-ni-wa-mukanai-shokugyou](https://cdn.myanimelist.net/images/manga/3/238311.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Shiawase no Ouji
 
+![shiawase-no-ouji](https://cdn.myanimelist.net/images/anime/3/64153.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: しあわせの王子

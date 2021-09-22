@@ -1,5 +1,7 @@
 # Hello Kitty no Hakuchou no Ouji
 
+![hello-kitty-no-hakuchou-no-ouji](https://cdn.myanimelist.net/images/anime/12/48019.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティの白鳥の王子

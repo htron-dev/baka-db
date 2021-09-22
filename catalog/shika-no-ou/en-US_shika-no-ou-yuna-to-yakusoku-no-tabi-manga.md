@@ -1,5 +1,7 @@
 # Shika no Ou: Yuna to Yakusoku no Tabi
 
+![shika-no-ou-yuna-to-yakusoku-no-tabi](https://cdn.myanimelist.net/images/manga/3/249384.jpg)
+
 -   **type**: manga
 -   **original-name**: 鹿の王 ユナと約束の旅
 -   **start-date**: 2021-07-26

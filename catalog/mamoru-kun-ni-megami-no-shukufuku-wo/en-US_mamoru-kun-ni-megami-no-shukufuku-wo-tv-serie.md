@@ -1,5 +1,7 @@
 # Mamoru-kun ni Megami no Shukufuku wo!
 
+![mamoru-kun-ni-megami-no-shukufuku-wo](https://cdn.myanimelist.net/images/anime/7/75243.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 護くんに女神の祝福を！

@@ -1,5 +1,7 @@
 # Kakkou no Iinazuke
 
+![kakkou-no-iinazuke](https://cdn.myanimelist.net/images/anime/1372/114231.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: カッコウの許嫁
 -   **rating**: None

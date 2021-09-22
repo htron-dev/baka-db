@@ -1,5 +1,7 @@
 # Liar Game: Roots of A
 
+![liar-game-roots-of-a](https://cdn.myanimelist.net/images/manga/3/31976.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

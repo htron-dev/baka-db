@@ -1,5 +1,7 @@
 # Taida de NEET na Maou no Sewa wo Suru dake no Chaos na Shigoto
 
+![taida-de-neet-na-maou-no-sewa-wo-suru-dake-no-chaos-na-shigoto](https://cdn.myanimelist.net/images/manga/3/215426.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 怠惰でニートな魔王の世話をするだけの混沌〈カオス〉な仕事

@@ -1,5 +1,7 @@
 # Gin no Cross to Draculea
 
+![gin-no-cross-to-draculea](https://cdn.myanimelist.net/images/manga/1/175677.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 40

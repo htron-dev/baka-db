@@ -1,5 +1,7 @@
 # Keyman: The Hand of Judgement
 
+![keyman-the-hand-of-judgement](https://cdn.myanimelist.net/images/manga/2/168114.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 67

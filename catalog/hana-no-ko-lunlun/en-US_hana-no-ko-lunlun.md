@@ -1,5 +1,7 @@
 # Hana no Ko Lunlun
 
+![hana-no-ko-lunlun](https://cdn.myanimelist.net/images/anime/3/16095.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 花の子ルンルン

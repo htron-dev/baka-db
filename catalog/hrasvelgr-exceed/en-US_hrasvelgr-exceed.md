@@ -1,5 +1,7 @@
 # Hrasvelgr Exceed
 
+![hrasvelgr-exceed](https://cdn.myanimelist.net/images/manga/2/163375.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 42

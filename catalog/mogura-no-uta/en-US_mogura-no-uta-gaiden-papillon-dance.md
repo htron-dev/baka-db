@@ -1,5 +1,7 @@
 # Mogura no Uta Gaiden: Papillon Dance
 
+![mogura-no-uta-gaiden-papillon-dance](https://cdn.myanimelist.net/images/manga/3/131249.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 45

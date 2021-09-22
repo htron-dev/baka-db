@@ -1,5 +1,7 @@
 # Kare no Amai Yubi
 
+![kare-no-amai-yubi](https://cdn.myanimelist.net/images/manga/3/40296.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 彼の甘い指

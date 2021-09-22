@@ -1,5 +1,7 @@
 # Val x Love
 
+![val-x-love](https://cdn.myanimelist.net/images/anime/1577/111404.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 戦 × 恋（ヴァルラヴ）

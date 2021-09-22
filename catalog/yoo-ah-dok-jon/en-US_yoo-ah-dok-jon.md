@@ -1,5 +1,7 @@
 # Yoo Ah Dok-Jon
 
+![yoo-ah-dok-jon](https://cdn.myanimelist.net/images/manga/2/14147.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 15

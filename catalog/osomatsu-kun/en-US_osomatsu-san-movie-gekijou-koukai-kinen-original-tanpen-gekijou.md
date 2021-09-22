@@ -1,5 +1,7 @@
 # Osomatsu-san Movie: Gekijou Koukai Kinen - Original Tanpen Gekijou
 
+![osomatsu-san-movie-gekijou-koukai-kinen-original-tanpen-gekijou](https://cdn.myanimelist.net/images/anime/1245/99297.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: えいがのおそ松さん 劇場公開記念 オリジナル短編劇場

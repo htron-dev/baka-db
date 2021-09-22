@@ -1,5 +1,7 @@
 # Hisho Lesson de Nurechatta: Yokushitsu de Awamamire no 3P
 
+![hisho-lesson-de-nurechatta-yokushitsu-de-awamamire-no-3-p](https://cdn.myanimelist.net/images/manga/3/193483.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

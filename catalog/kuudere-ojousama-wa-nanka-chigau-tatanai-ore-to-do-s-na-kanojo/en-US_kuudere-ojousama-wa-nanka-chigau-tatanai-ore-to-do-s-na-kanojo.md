@@ -1,5 +1,7 @@
 # Kuudere Ojousama wa Nanka Chigau: Tatanai Ore to Do S na Kanojo
 
+![kuudere-ojousama-wa-nanka-chigau-tatanai-ore-to-do-s-na-kanojo](https://cdn.myanimelist.net/images/manga/3/169786.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

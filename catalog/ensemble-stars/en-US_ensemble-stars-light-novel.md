@@ -1,5 +1,7 @@
 # Ensemble Stars!
 
+![ensemble-stars](https://cdn.myanimelist.net/images/manga/3/236963.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 33

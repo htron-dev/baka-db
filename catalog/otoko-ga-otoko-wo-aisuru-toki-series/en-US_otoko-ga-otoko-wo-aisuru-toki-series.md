@@ -1,5 +1,7 @@
 # Otoko ga Otoko wo Aisuru Toki Series
 
+![otoko-ga-otoko-wo-aisuru-toki-series](https://cdn.myanimelist.net/images/manga/1/25656.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 52

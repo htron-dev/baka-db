@@ -1,5 +1,7 @@
 # Koigokoro Hiroimashita
 
+![koigokoro-hiroimashita](https://cdn.myanimelist.net/images/manga/2/221883.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

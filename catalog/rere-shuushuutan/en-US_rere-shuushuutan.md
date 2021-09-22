@@ -1,5 +1,7 @@
 # Rere Shuushuutan
 
+![rere-shuushuutan](https://cdn.myanimelist.net/images/manga/3/24664.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 怜々蒐集譚

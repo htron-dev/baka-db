@@ -1,5 +1,7 @@
 # Monogusa na Kenja
 
+![monogusa-na-kenja](https://cdn.myanimelist.net/images/manga/1/223282.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: ものぐさな賢者

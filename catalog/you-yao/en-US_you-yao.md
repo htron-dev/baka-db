@@ -1,5 +1,7 @@
 # You Yao
 
+![you-yao](https://cdn.myanimelist.net/images/anime/1821/108124.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 有药

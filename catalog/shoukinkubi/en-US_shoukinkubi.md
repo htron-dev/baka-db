@@ -1,5 +1,7 @@
 # Shoukinkubi
 
+![shoukinkubi](https://cdn.myanimelist.net/images/manga/2/192528.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 賞金首

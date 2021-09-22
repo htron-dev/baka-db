@@ -1,5 +1,7 @@
 # SKET Dance
 
+![sket-dance](https://cdn.myanimelist.net/images/anime/9/73974.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 77
 -   **original-name**: スケットダンス

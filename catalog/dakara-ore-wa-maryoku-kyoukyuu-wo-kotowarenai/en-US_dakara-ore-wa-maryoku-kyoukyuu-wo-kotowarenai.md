@@ -1,5 +1,7 @@
 # Dakara Ore wa Maryoku Kyoukyuu wo Kotowarenai
 
+![dakara-ore-wa-maryoku-kyoukyuu-wo-kotowarenai](https://cdn.myanimelist.net/images/manga/2/241622.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 17

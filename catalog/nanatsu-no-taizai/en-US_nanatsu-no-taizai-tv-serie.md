@@ -1,5 +1,7 @@
 # Nanatsu no Taizai
 
+![nanatsu-no-taizai](https://cdn.myanimelist.net/images/anime/8/65409.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 七つの大罪
@@ -32,4 +34,4 @@ Based on the best-selling manga series of the same name, Nanatsu no Taizai follo
 -   [Official Site](http://www.7-taizai.net/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10596)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16167)
--   [Wikipedia](<http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_%28manga%29)

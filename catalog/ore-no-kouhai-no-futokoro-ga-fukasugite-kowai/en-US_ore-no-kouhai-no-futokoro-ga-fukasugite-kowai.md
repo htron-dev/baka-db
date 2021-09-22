@@ -1,5 +1,7 @@
 # Ore no Kouhai no Futokoro ga Fukasugite Kowai.
 
+![ore-no-kouhai-no-futokoro-ga-fukasugite-kowai](https://cdn.myanimelist.net/images/manga/3/204888.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

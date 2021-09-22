@@ -1,5 +1,7 @@
 # Omae ga Mama ni Suru n da yo!: Isekai de ♀x♀ no Haramasex
 
+![omae-ga-mama-ni-suru-n-da-yo-isekai-de-♀x♀-no-haramasex](https://cdn.myanimelist.net/images/manga/1/219238.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

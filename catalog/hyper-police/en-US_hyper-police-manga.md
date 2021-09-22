@@ -1,5 +1,7 @@
 # Hyper Police
 
+![hyper-police](https://cdn.myanimelist.net/images/manga/3/180631.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 97

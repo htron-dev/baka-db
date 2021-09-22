@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh!
 
+![yu☆-gi☆-oh](https://cdn.myanimelist.net/images/manga/2/156076.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

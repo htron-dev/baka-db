@@ -1,5 +1,7 @@
 # Pocket Monster BW: Enrai no Eiyuu
 
+![pocket-monster-bw-enrai-no-eiyuu](https://cdn.myanimelist.net/images/manga/3/88167.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

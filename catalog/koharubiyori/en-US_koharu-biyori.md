@@ -1,5 +1,7 @@
 # Koharu Biyori
 
+![koharu-biyori](https://cdn.myanimelist.net/images/anime/8/5074.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: こはるびより

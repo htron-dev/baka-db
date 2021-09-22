@@ -1,5 +1,7 @@
 # Hit wo Nerae! Specials
 
+![hit-wo-nerae-specials](https://cdn.myanimelist.net/images/anime/3/5357.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ヒットをねらえ!

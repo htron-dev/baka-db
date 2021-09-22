@@ -1,5 +1,7 @@
 # Le;0 - Ash to Leviathan
 
+![le-0-ash-to-leviathan](https://cdn.myanimelist.net/images/manga/1/125751.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: Le;0 -灰とリヴァイアサン-

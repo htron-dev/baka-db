@@ -1,5 +1,7 @@
 # Lamperius no Kyuuketsuki
 
+![lamperius-no-kyuuketsuki](https://cdn.myanimelist.net/images/manga/3/158351.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ランペリウスの吸血姫

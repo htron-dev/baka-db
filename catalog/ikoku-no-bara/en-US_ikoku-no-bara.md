@@ -1,5 +1,7 @@
 # Ikoku no Bara
 
+![ikoku-no-bara](https://cdn.myanimelist.net/images/manga/2/124363.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 異国の薔薇

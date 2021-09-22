@@ -1,5 +1,7 @@
 # Koume-chan ga Iku!
 
+![koume-chan-ga-iku](https://cdn.myanimelist.net/images/anime/3/15018.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 小梅ちゃんが行く!!

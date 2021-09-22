@@ -1,5 +1,7 @@
 # Hiyoko no Shokudou
 
+![hiyoko-no-shokudou](https://cdn.myanimelist.net/images/manga/2/195379.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ひよこの食堂

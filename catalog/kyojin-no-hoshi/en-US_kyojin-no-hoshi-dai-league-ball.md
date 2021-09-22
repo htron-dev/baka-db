@@ -1,5 +1,7 @@
 # Kyojin no Hoshi: Dai League Ball
 
+![kyojin-no-hoshi-dai-league-ball](https://cdn.myanimelist.net/images/anime/11/46617.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 巨人の星 大リーグボール

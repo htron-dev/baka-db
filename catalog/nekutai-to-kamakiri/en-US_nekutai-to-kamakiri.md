@@ -1,5 +1,7 @@
 # Nekutai to Kamakiri
 
+![nekutai-to-kamakiri](https://cdn.myanimelist.net/images/manga/2/46901.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ネクタイとカマキリ

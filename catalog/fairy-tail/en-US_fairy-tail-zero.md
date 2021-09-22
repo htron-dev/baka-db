@@ -1,5 +1,7 @@
 # Fairy Tail Zerø
 
+![fairy-tail-zero](https://cdn.myanimelist.net/images/manga/1/167384.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

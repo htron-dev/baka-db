@@ -1,5 +1,7 @@
 # Tomorrows
 
+![tomorrows](https://cdn.myanimelist.net/images/manga/3/82722.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

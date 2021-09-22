@@ -1,5 +1,7 @@
 # Nishiouji-kun ni Kokuhaku Saremashita.
 
+![nishiouji-kun-ni-kokuhaku-saremashita](https://cdn.myanimelist.net/images/manga/3/202316.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

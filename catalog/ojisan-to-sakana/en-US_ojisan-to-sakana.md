@@ -1,5 +1,7 @@
 # Ojisan to Sakana
 
+![ojisan-to-sakana](https://cdn.myanimelist.net/images/anime/1782/107640.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ディアナチュラゴールド「おじさんと魚」篇

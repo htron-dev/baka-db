@@ -1,5 +1,7 @@
 # Otome Youkai Zakuro Picture Drama
 
+![otome-youkai-zakuro-picture-drama](https://cdn.myanimelist.net/images/anime/5/28077.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: おとめ妖怪 ざくろ

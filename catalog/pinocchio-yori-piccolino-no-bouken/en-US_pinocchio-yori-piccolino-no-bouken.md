@@ -1,5 +1,7 @@
 # Pinocchio yori Piccolino no Bouken
 
+![pinocchio-yori-piccolino-no-bouken](https://cdn.myanimelist.net/images/anime/3/60891.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ピノキオより ピコリーノの冒険

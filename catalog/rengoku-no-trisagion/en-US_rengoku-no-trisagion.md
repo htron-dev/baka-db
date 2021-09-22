@@ -1,5 +1,7 @@
 # Rengoku no Trisagion
 
+![rengoku-no-trisagion](https://cdn.myanimelist.net/images/manga/2/170682.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

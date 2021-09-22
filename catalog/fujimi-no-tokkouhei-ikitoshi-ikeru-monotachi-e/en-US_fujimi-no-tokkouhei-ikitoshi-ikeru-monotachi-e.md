@@ -1,5 +1,7 @@
 # Fujimi no Tokkouhei: Ikitoshi Ikeru Monotachi e
 
+![fujimi-no-tokkouhei-ikitoshi-ikeru-monotachi-e](https://cdn.myanimelist.net/images/manga/2/225605.jpg)
+
 -   **type**: manga
 -   **original-name**: 不死身の特攻兵 生キトシ生ケル者タチヘ
 -   **start-date**: 2018-08-06

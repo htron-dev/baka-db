@@ -1,5 +1,7 @@
 # Keroro Gunsou
 
+![keroro-gunsou](https://cdn.myanimelist.net/images/manga/4/152242.jpg)
+
 -   **type**: manga
 -   **original-name**: ケロロ軍曹
 -   **start-date**: 1999-11-29

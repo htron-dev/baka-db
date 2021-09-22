@@ -1,5 +1,7 @@
 # Yami no Shihosha Judge
 
+![yami-no-shihosha-judge](https://cdn.myanimelist.net/images/anime/12/66755.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 闇の司法官ジャッジ

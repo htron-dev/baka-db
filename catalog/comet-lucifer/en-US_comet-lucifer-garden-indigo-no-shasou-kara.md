@@ -1,5 +1,7 @@
 # Comet Lucifer: Garden Indigo no Shasou kara
 
+![comet-lucifer-garden-indigo-no-shasou-kara](https://cdn.myanimelist.net/images/anime/12/76688.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ガーデン・インディゴの車窓から

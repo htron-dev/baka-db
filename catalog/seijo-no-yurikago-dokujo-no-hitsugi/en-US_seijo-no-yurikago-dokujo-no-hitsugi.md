@@ -1,5 +1,7 @@
 # Seijo no Yurikago, Dokujo no Hitsugi
 
+![seijo-no-yurikago-dokujo-no-hitsugi](https://cdn.myanimelist.net/images/manga/1/224893.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖女の揺籃、毒女の柩
 -   **start-date**: 2018-10-22

@@ -1,5 +1,7 @@
 # Nijou na Koi no Kakehiki
 
+![nijou-na-koi-no-kakehiki](https://cdn.myanimelist.net/images/manga/3/34725.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

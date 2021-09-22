@@ -1,5 +1,7 @@
 # Boku no Rideen
 
+![boku-no-rideen](https://cdn.myanimelist.net/images/manga/2/207007.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

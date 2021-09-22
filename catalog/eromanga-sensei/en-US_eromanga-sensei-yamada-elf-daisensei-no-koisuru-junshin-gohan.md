@@ -1,5 +1,7 @@
 # Eromanga-sensei: Yamada Elf Daisensei no Koisuru Junshin Gohan
 
+![eromanga-sensei-yamada-elf-daisensei-no-koisuru-junshin-gohan](https://cdn.myanimelist.net/images/manga/1/222076.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

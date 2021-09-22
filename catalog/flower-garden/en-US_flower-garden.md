@@ -1,5 +1,7 @@
 # Flower Garden
 
+![flower-garden](https://cdn.myanimelist.net/images/manga/3/40623.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: フラワー・ガーデン

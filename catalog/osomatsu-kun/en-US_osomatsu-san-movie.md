@@ -1,5 +1,7 @@
 # Osomatsu-san Movie
 
+![osomatsu-san-movie](https://cdn.myanimelist.net/images/anime/1492/113860.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: えいがのおそ松さん

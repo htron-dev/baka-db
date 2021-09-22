@@ -1,5 +1,7 @@
 # Nekojiru Dango
 
+![nekojiru-dango](https://cdn.myanimelist.net/images/manga/2/180252.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ねこぢるだんご

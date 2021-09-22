@@ -1,5 +1,7 @@
 # Muriyari♥Wedding
 
+![muriyari♥-wedding](https://cdn.myanimelist.net/images/manga/2/167084.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

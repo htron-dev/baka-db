@@ -1,5 +1,7 @@
 # Mitsuaji Darling
 
+![mitsuaji-darling](https://cdn.myanimelist.net/images/manga/2/152175.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 蜜味ダーリン

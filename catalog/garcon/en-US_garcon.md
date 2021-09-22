@@ -1,5 +1,7 @@
 # Garçon
 
+![garcon](https://cdn.myanimelist.net/images/manga/3/225528.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Granblue Fantasy: Souken no Kizuna
 
+![granblue-fantasy-souken-no-kizuna](https://cdn.myanimelist.net/images/manga/2/190007.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

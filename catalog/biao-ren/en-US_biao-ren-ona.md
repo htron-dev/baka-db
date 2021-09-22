@@ -1,5 +1,7 @@
 # Biao Ren
 
+![biao-ren](https://cdn.myanimelist.net/images/anime/1968/110585.jpg)
+
 -   **type**: ona
 -   **original-name**: 镖人
 -   **rating**: None

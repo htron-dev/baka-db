@@ -1,5 +1,7 @@
 # Isekai no Honya-san e Youkoso!
 
+![isekai-no-honya-san-e-youkoso](https://cdn.myanimelist.net/images/manga/3/208724.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

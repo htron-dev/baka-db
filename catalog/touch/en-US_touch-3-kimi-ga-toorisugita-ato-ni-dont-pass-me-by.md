@@ -1,5 +1,7 @@
 # Touch 3: Kimi ga Toorisugita Ato ni - Don't Pass Me By
 
+![touch-3-kimi-ga-toorisugita-ato-ni-dont-pass-me-by](https://cdn.myanimelist.net/images/anime/13/3044.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: タッチ３ 君が通り過ぎたあとに -DON`T PASS ME BY-

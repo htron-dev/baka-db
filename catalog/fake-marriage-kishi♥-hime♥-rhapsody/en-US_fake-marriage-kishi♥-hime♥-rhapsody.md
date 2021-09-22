@@ -1,5 +1,7 @@
 # Fake Marriage: Kishi♥Hime♥Rhapsody
 
+![fake-marriage-kishi♥-hime♥-rhapsody](https://cdn.myanimelist.net/images/manga/1/182044.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

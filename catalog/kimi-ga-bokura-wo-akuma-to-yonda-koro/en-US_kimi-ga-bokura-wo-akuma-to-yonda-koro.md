@@ -1,5 +1,7 @@
 # Kimi ga Bokura wo Akuma to Yonda Koro
 
+![kimi-ga-bokura-wo-akuma-to-yonda-koro](https://cdn.myanimelist.net/images/manga/2/226512.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 154

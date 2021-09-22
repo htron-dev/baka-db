@@ -1,5 +1,7 @@
 # Risu no Panache
 
+![risu-no-panache](https://cdn.myanimelist.net/images/anime/12/71584.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: りすのパナシ

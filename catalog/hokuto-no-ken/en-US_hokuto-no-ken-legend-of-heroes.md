@@ -1,5 +1,7 @@
 # Hokuto no Ken: Legend of Heroes
 
+![hokuto-no-ken-legend-of-heroes](https://cdn.myanimelist.net/images/anime/9/17616.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 北斗の拳 LEGEND of HEROES

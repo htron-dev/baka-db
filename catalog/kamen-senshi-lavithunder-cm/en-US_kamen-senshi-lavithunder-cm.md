@@ -1,5 +1,7 @@
 # Kamen Senshi Lavithunder CM
 
+![kamen-senshi-lavithunder-cm](https://cdn.myanimelist.net/images/anime/1287/111838.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 仮面戦士ラビサンダー

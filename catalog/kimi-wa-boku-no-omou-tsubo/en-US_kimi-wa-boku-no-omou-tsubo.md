@@ -1,5 +1,7 @@
 # Kimi wa Boku no Omou Tsubo
 
+![kimi-wa-boku-no-omou-tsubo](https://cdn.myanimelist.net/images/manga/3/39894.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 君は僕の思うツボ

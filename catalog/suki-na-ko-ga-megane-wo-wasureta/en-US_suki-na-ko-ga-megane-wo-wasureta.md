@@ -1,5 +1,7 @@
 # Suki na Ko ga Megane wo Wasureta
 
+![suki-na-ko-ga-megane-wo-wasureta](https://cdn.myanimelist.net/images/manga/3/219461.jpg)
+
 -   **type**: manga
 -   **original-name**: 好きな子がめがねを忘れた
 -   **start-date**: 2018-11-22

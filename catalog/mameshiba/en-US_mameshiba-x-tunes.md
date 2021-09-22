@@ -1,5 +1,7 @@
 # Mameshiba x Tunes!
 
+![mameshiba-x-tunes](https://cdn.myanimelist.net/images/anime/1423/100491.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 豆しば × ちゅーんず！

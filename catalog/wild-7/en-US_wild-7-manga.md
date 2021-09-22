@@ -1,5 +1,7 @@
 # Wild 7
 
+![wild-7](https://cdn.myanimelist.net/images/manga/3/195178.jpg)
+
 -   **type**: manga
 -   **volumes**: 48
 -   **original-name**: ワイルド 7

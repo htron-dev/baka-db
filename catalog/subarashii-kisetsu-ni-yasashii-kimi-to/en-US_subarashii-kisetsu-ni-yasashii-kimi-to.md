@@ -1,5 +1,7 @@
 # Subarashii Kisetsu ni Yasashii Kimi to
 
+![subarashii-kisetsu-ni-yasashii-kimi-to](https://cdn.myanimelist.net/images/manga/2/244270.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

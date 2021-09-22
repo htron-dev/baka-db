@@ -1,5 +1,7 @@
 # Waga Tousou: Imouto no Tame nara Sekai wo Shukusei shitemo Ii yo ne!
 
+![waga-tousou-imouto-no-tame-nara-sekai-wo-shukusei-shitemo-ii-yo-ne](https://cdn.myanimelist.net/images/manga/1/180701.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

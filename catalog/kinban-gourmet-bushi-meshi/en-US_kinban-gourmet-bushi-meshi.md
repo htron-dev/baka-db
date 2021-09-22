@@ -1,5 +1,7 @@
 # Kinban Gourmet Bushi Meshi!
 
+![kinban-gourmet-bushi-meshi](https://cdn.myanimelist.net/images/manga/2/191463.jpg)
+
 -   **type**: manga
 -   **original-name**: 勤番グルメ ブシメシ！
 -   **start-date**: 2014-11-27

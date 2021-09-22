@@ -1,5 +1,7 @@
 # Kojirase☆Ressenti Girl
 
+![kojirase☆-ressenti-girl](https://cdn.myanimelist.net/images/manga/2/216450.jpg)
+
 -   **type**: manga
 -   **original-name**: こじらせ ☆ ルサンチガール
 -   **start-date**: 2018-12-20

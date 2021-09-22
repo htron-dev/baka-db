@@ -1,5 +1,7 @@
 # Ore dake no Otoko
 
+![ore-dake-no-otoko](https://cdn.myanimelist.net/images/manga/2/80565.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

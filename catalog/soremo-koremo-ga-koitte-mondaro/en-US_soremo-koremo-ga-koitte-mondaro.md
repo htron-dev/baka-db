@@ -1,5 +1,7 @@
 # Soremo Koremo ga Koitte Mondaro
 
+![soremo-koremo-ga-koitte-mondaro](https://cdn.myanimelist.net/images/manga/2/39146.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

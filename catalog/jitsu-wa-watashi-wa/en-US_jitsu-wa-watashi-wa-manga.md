@@ -1,5 +1,7 @@
 # Jitsu wa Watashi wa
 
+![jitsu-wa-watashi-wa](https://cdn.myanimelist.net/images/manga/3/191399.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 196

@@ -1,5 +1,7 @@
 # Baby Pop
 
+![baby-pop](https://cdn.myanimelist.net/images/manga/2/164503.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

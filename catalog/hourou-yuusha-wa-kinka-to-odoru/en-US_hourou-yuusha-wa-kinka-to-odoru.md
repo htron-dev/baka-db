@@ -1,5 +1,7 @@
 # Hourou Yuusha wa Kinka to Odoru
 
+![hourou-yuusha-wa-kinka-to-odoru](https://cdn.myanimelist.net/images/manga/1/186696.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

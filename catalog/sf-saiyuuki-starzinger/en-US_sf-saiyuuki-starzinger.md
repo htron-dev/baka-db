@@ -1,5 +1,7 @@
 # SF Saiyuuki Starzinger
 
+![sf-saiyuuki-starzinger](https://cdn.myanimelist.net/images/anime/8/45698.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 73
 -   **original-name**: ＳＦ西遊記 スタージンガー

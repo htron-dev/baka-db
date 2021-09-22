@@ -1,5 +1,7 @@
 # Ai no Nikushokujuu
 
+![ai-no-nikushokujuu](https://cdn.myanimelist.net/images/manga/2/23134.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛の肉食獣

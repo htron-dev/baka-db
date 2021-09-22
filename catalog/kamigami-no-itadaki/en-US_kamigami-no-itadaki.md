@@ -1,5 +1,7 @@
 # Kamigami no Itadaki
 
+![kamigami-no-itadaki](https://cdn.myanimelist.net/images/manga/2/166336.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

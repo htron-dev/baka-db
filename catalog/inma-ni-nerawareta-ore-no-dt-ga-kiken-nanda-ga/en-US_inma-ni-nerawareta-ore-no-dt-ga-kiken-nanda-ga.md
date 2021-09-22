@@ -1,5 +1,7 @@
 # Inma ni Nerawareta Ore no DT ga Kiken Nanda ga
 
+![inma-ni-nerawareta-ore-no-dt-ga-kiken-nanda-ga](https://cdn.myanimelist.net/images/manga/3/129617.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 淫魔に狙われた俺の DT が危険なんだが

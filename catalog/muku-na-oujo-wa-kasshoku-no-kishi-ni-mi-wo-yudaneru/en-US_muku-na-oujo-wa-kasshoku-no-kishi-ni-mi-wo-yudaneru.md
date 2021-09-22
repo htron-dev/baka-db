@@ -1,5 +1,7 @@
 # Muku na Oujo wa Kasshoku no Kishi ni Mi wo Yudaneru
 
+![muku-na-oujo-wa-kasshoku-no-kishi-ni-mi-wo-yudaneru](https://cdn.myanimelist.net/images/manga/1/194277.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

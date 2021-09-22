@@ -1,5 +1,7 @@
 # Kiniro no Corda: Primo Passo - Hitonatsu no Encore
 
+![kiniro-no-corda-primo-passo-hitonatsu-no-encore](https://cdn.myanimelist.net/images/anime/6/10567.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 金色のコルダ ~primo passo~ ひと夏のアンコール

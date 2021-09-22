@@ -1,5 +1,7 @@
 # Kojirase Boy Meets Girl!
 
+![kojirase-boy-meets-girl](https://cdn.myanimelist.net/images/manga/2/198352.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

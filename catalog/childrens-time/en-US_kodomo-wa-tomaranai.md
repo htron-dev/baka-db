@@ -1,5 +1,7 @@
 # Kodomo wa Tomaranai
 
+![kodomo-wa-tomaranai](https://cdn.myanimelist.net/images/manga/3/18372.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

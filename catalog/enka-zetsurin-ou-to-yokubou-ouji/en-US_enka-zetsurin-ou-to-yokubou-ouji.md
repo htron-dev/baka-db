@@ -1,5 +1,7 @@
 # Enka: Zetsurin Ou to Yokubou Ouji
 
+![enka-zetsurin-ou-to-yokubou-ouji](https://cdn.myanimelist.net/images/manga/2/60107.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

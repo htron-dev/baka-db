@@ -1,5 +1,7 @@
 # Airyouran Gakuen
 
+![airyouran-gakuen](https://cdn.myanimelist.net/images/manga/2/15503.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

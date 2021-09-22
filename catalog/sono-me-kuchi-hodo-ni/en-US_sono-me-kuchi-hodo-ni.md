@@ -1,5 +1,7 @@
 # Sono Me, Kuchi hodo ni.
 
+![sono-me-kuchi-hodo-ni](https://cdn.myanimelist.net/images/manga/2/51913.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

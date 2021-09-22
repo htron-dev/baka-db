@@ -1,5 +1,7 @@
 # 2.43 Mini Anime: Volleyball Kouza
 
+![2-43-mini-anime-volleyball-kouza](https://cdn.myanimelist.net/images/anime/1194/111069.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 「2.43 　清陰高校男子バレー部」ミニアニメ　バレーボール講座編

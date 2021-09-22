@@ -1,5 +1,7 @@
 # Kimi wa Kokan no Mochigusare
 
+![kimi-wa-kokan-no-mochigusare](https://cdn.myanimelist.net/images/manga/2/236691.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

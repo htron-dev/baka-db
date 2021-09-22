@@ -1,5 +1,7 @@
 # Astekaizer
 
+![astekaizer](https://cdn.myanimelist.net/images/manga/3/169922.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アステカイザー

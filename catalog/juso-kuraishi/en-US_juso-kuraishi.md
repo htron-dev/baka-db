@@ -1,5 +1,7 @@
 # Juso Kuraishi
 
+![juso-kuraishi](https://cdn.myanimelist.net/images/manga/2/168622.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

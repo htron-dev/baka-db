@@ -1,5 +1,7 @@
 # Isekai ni Kita Boku wa Kiyoubinbou de Subayasa Dayori na Tabi wo Suru
 
+![isekai-ni-kita-boku-wa-kiyoubinbou-de-subayasa-dayori-na-tabi-wo-suru](https://cdn.myanimelist.net/images/manga/3/241508.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界に来た僕は器用貧乏で素早さ頼りな旅をする
 -   **start-date**: 2018-06-22

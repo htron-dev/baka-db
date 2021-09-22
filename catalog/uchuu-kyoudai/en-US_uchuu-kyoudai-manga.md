@@ -1,5 +1,7 @@
 # Uchuu Kyoudai
 
+![uchuu-kyoudai](https://cdn.myanimelist.net/images/manga/3/166256.jpg)
+
 -   **type**: manga
 -   **original-name**: 宇宙兄弟
 -   **start-date**: 2007-12-06

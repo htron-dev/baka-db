@@ -1,5 +1,7 @@
 # Sora to Houki to Tomato Sauce
 
+![sora-to-houki-to-tomato-sauce](https://cdn.myanimelist.net/images/manga/1/217172.jpg)
+
 -   **type**: manga
 -   **original-name**: そらと箒とトマトソース
 -   **start-date**: 2017-12-26

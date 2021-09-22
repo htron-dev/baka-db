@@ -1,5 +1,7 @@
 # Calbee Hitokuchi Gekijou
 
+![calbee-hitokuchi-gekijou](https://cdn.myanimelist.net/images/anime/10/78557.jpg)
+
 -   **type**: special
 -   **episodes**: 18
 -   **original-name**: Calbee ひとくち劇場

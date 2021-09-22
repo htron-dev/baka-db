@@ -1,5 +1,7 @@
 # Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai
 
+![sekaiichi-hatsukoi-yokozawa-takafumi-no-baai](https://cdn.myanimelist.net/images/manga/2/81400.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 世界一初恋 〜横澤隆史の場合〜
 -   **start-date**: 2011-11-01

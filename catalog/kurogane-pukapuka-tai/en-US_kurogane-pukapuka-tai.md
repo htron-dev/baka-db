@@ -1,5 +1,7 @@
 # Kurogane Pukapuka-tai
 
+![kurogane-pukapuka-tai](https://cdn.myanimelist.net/images/manga/2/78925.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒鉄ぷかぷか隊
 -   **start-date**: 2006-06-20

@@ -1,5 +1,7 @@
 # Avenir no Haitatsunin
 
+![avenir-no-haitatsunin](https://cdn.myanimelist.net/images/manga/1/157911.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

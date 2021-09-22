@@ -1,5 +1,7 @@
 # Ludwig Gensoukyoku
 
+![ludwig-gensoukyoku](https://cdn.myanimelist.net/images/manga/1/120059.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

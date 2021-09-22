@@ -1,5 +1,7 @@
 # Klan
 
+![klan](https://cdn.myanimelist.net/images/manga/1/54055.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

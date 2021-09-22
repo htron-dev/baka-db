@@ -1,5 +1,7 @@
 # Angel: Season II
 
+![angel-season-ii](https://cdn.myanimelist.net/images/manga/3/37801.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ANGEL~SEASON 2

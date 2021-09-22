@@ -1,5 +1,7 @@
 # Shin Gakuen Tengoku
 
+![shin-gakuen-tengoku](https://cdn.myanimelist.net/images/manga/3/15318.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 新学园天国

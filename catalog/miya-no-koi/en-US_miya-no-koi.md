@@ -1,5 +1,7 @@
 # Miya no Koi
 
+![miya-no-koi](https://cdn.myanimelist.net/images/manga/2/203702.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

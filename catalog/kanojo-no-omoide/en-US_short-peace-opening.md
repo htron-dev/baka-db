@@ -1,5 +1,7 @@
 # Short Peace Opening
 
+![short-peace-opening](https://cdn.myanimelist.net/images/anime/10/55731.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 武器よさらばオープニング

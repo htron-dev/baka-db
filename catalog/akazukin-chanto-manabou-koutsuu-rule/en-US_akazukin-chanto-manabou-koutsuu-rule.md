@@ -1,5 +1,7 @@
 # Akazukin Chanto Manabou! Koutsuu Rule
 
+![akazukin-chanto-manabou-koutsuu-rule](https://cdn.myanimelist.net/images/anime/9/74430.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 赤ずきんちゃんと学ぼう！交通ルール

@@ -1,5 +1,7 @@
 # Zenmon no Tora, Koumon no Ookami
 
+![zenmon-no-tora-koumon-no-ookami](https://cdn.myanimelist.net/images/manga/3/13987.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

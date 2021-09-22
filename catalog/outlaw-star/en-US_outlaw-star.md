@@ -1,5 +1,7 @@
 # Outlaw Star
 
+![outlaw-star](https://cdn.myanimelist.net/images/manga/3/10168.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

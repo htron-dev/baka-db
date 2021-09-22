@@ -1,5 +1,7 @@
 # Umibe no Machi
 
+![umibe-no-machi](https://cdn.myanimelist.net/images/manga/3/167340.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 37

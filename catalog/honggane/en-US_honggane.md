@@ -1,5 +1,7 @@
 # Honggane
 
+![honggane](https://cdn.myanimelist.net/images/manga/4/4576.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **chapters**: 56

@@ -1,5 +1,7 @@
 # Choujin Gakuen: Konton Mouryou Seishun Jihen
 
+![choujin-gakuen-konton-mouryou-seishun-jihen](https://cdn.myanimelist.net/images/manga/1/57725.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 41

@@ -1,5 +1,7 @@
 # Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season
 
+![honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-2nd-season](https://cdn.myanimelist.net/images/anime/1464/107998.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第 2 期

@@ -1,5 +1,7 @@
 # xxxHOLiC Movie: Manatsu no Yoru no Yume
 
+![xxx-ho-li-c-movie-manatsu-no-yoru-no-yume](https://cdn.myanimelist.net/images/anime/1482/107802.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版　 ×××HOLiC 　真夏ノ夜ノ夢

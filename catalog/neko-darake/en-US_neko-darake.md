@@ -1,5 +1,7 @@
 # Neko Darake
 
+![neko-darake](https://cdn.myanimelist.net/images/manga/1/96743.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ねこだらけ

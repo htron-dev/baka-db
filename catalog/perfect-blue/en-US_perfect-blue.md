@@ -1,5 +1,7 @@
 # Perfect Blue
 
+![perfect-blue](https://cdn.myanimelist.net/images/anime/11/79127.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: パーフェクトブルー

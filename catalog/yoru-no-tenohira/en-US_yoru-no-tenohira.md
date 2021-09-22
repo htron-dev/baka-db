@@ -1,5 +1,7 @@
 # Yoru no Tenohira
 
+![yoru-no-tenohira](https://cdn.myanimelist.net/images/manga/3/46531.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 夜のてのひら

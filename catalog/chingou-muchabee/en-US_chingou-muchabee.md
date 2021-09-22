@@ -1,5 +1,7 @@
 # Chingou Muchabee
 
+![chingou-muchabee](https://cdn.myanimelist.net/images/anime/10/46641.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 珍豪ムチャ兵衛

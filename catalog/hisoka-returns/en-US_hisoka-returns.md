@@ -1,5 +1,7 @@
 # Hisoka Returns!
 
+![hisoka-returns](https://cdn.myanimelist.net/images/manga/1/113029.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 60

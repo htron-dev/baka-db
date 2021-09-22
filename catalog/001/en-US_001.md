@@ -1,5 +1,7 @@
 # 001
 
+![001](https://cdn.myanimelist.net/images/anime/6/71882.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 001

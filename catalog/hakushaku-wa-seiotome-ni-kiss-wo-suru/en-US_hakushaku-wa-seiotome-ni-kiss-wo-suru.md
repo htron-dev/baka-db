@@ -1,5 +1,7 @@
 # Hakushaku wa Seiotome ni Kiss wo Suru
 
+![hakushaku-wa-seiotome-ni-kiss-wo-suru](https://cdn.myanimelist.net/images/manga/1/182080.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

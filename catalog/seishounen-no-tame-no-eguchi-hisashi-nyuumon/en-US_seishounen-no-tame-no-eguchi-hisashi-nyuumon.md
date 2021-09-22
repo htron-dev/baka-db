@@ -1,5 +1,7 @@
 # Seishounen no Tame no Eguchi Hisashi Nyuumon
 
+![seishounen-no-tame-no-eguchi-hisashi-nyuumon](https://cdn.myanimelist.net/images/manga/2/90721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 青少年のための江口寿史入門

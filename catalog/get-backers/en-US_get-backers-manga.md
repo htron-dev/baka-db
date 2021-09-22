@@ -1,5 +1,7 @@
 # GetBackers
 
+![get-backers](https://cdn.myanimelist.net/images/manga/1/169369.jpg)
+
 -   **type**: manga
 -   **volumes**: 39
 -   **chapters**: 344

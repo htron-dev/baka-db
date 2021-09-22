@@ -1,5 +1,7 @@
 # Realist Maou ni Yoru Seiikinaki Isekai Kaikaku
 
+![realist-maou-ni-yoru-seiikinaki-isekai-kaikaku](https://cdn.myanimelist.net/images/manga/3/226970.jpg)
+
 -   **type**: manga
 -   **original-name**: リアリスト魔王による聖域なき異世界改革
 -   **start-date**: 2019-01-26

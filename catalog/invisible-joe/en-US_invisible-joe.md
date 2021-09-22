@@ -1,5 +1,7 @@
 # Invisible Joe
 
+![invisible-joe](https://cdn.myanimelist.net/images/manga/1/167105.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

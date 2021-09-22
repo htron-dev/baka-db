@@ -1,5 +1,7 @@
 # Sumi de Ii desu. Kamawanaide Kudasai yo.
 
+![sumi-de-ii-desu-kamawanaide-kudasai-yo](https://cdn.myanimelist.net/images/manga/2/225366.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 隅でいいです。構わないでくださいよ。

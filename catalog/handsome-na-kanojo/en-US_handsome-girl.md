@@ -1,5 +1,7 @@
 # Handsome Girl
 
+![handsome-girl](https://cdn.myanimelist.net/images/anime/10/34835.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハンサムな彼女

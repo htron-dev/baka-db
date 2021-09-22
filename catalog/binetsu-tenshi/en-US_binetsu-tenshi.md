@@ -1,5 +1,7 @@
 # Binetsu Tenshi
 
+![binetsu-tenshi](https://cdn.myanimelist.net/images/manga/3/35013.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 微熱天使
@@ -14,8 +16,6 @@
 
 -   Kobayashi
 -   Takumi (Story & Art)
-
-## Sinopse
 
 ## Links
 

@@ -1,5 +1,7 @@
 # Nani wa Nakuto mo Oyotsugi wo!
 
+![nani-wa-nakuto-mo-oyotsugi-wo](https://cdn.myanimelist.net/images/manga/3/121173.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: なにはなくともお世継ぎを!

@@ -1,5 +1,7 @@
 # Hidamari Sketch: Story Anthology Comic
 
+![hidamari-sketch-story-anthology-comic](https://cdn.myanimelist.net/images/manga/2/234941.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

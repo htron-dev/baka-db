@@ -1,5 +1,7 @@
 # Hokkyoku no Muushika Miishika
 
+![hokkyoku-no-muushika-miishika](https://cdn.myanimelist.net/images/anime/1607/96653.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 北極のムーシカ・ミーシカ

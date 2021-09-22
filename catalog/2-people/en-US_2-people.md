@@ -1,5 +1,7 @@
 # 2 People
 
+![2-people](https://cdn.myanimelist.net/images/manga/3/248365.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Gaikotsu Kishidan no, Oujo ni Sasageru Kajou na Chuuai
 
+![gaikotsu-kishidan-no-oujo-ni-sasageru-kajou-na-chuuai](https://cdn.myanimelist.net/images/manga/3/235275.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Nanashi: Nakushita Nanika no Sagashikata
 
+![nanashi-nakushita-nanika-no-sagashikata](https://cdn.myanimelist.net/images/manga/3/236741.jpg)
+
 -   **type**: manga
 -   **original-name**: ナナシ　～ナくしたナにかのさがシかた～
 -   **start-date**: 2018-09-29

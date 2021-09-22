@@ -1,5 +1,7 @@
 # Dirty Pair: Lovely Angels yori Ai wo Komete
 
+![dirty-pair-lovely-angels-yori-ai-wo-komete](https://cdn.myanimelist.net/images/anime/7/29694.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ダーティペア ラブリーエンジェルより愛をこめて

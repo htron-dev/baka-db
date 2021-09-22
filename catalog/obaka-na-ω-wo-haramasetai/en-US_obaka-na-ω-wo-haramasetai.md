@@ -1,5 +1,7 @@
 # Obaka na Ω wo Haramasetai.
 
+![obaka-na-ω-wo-haramasetai](https://cdn.myanimelist.net/images/manga/3/239478.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

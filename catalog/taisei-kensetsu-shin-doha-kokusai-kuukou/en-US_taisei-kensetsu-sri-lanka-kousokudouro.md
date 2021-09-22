@@ -1,5 +1,7 @@
 # Taisei Kensetsu: Sri Lanka Kousokudouro
 
+![taisei-kensetsu-sri-lanka-kousokudouro](https://cdn.myanimelist.net/images/anime/8/56577.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 大成建設テレビ CM「スリランカ高速道路」篇

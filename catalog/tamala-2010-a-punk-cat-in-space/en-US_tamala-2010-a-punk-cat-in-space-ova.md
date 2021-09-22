@@ -1,5 +1,7 @@
 # Tamala 2010: A Punk Cat in Space OVA
 
+![tamala-2010-a-punk-cat-in-space-ova](https://cdn.myanimelist.net/images/anime/8/19770.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: TAMALA2010 a punk cat in space

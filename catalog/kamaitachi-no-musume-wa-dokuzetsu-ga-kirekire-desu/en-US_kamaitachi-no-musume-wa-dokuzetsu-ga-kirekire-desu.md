@@ -1,5 +1,7 @@
 # Kamaitachi no Musume wa Dokuzetsu ga Kirekire desu
 
+![kamaitachi-no-musume-wa-dokuzetsu-ga-kirekire-desu](https://cdn.myanimelist.net/images/manga/2/138719.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: かまいたちの娘は毒舌がキレキレです

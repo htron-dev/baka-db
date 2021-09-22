@@ -1,5 +1,7 @@
 # Joou to Shitateya
 
+![joou-to-shitateya](https://cdn.myanimelist.net/images/manga/1/186508.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

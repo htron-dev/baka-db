@@ -1,5 +1,7 @@
 # Unagi Oni
 
+![unagi-oni](https://cdn.myanimelist.net/images/manga/3/172686.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

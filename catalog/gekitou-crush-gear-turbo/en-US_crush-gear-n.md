@@ -1,5 +1,7 @@
 # Crush Gear N
 
+![crush-gear-n](https://cdn.myanimelist.net/images/manga/2/120897.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index Movie: Endymion no Kiseki
 
+![toaru-majutsu-no-index-movie-endymion-no-kiseki](https://cdn.myanimelist.net/images/anime/1885/93861.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 とある魔術の禁書目録 エンデュミオンの奇蹟

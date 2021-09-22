@@ -1,5 +1,7 @@
 # Edomae Sushi Shokunin: Kirara no Shigoto
 
+![edomae-sushi-shokunin-kirara-no-shigoto](https://cdn.myanimelist.net/images/manga/3/101063.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **original-name**: 江戸前鮨職人 きららの仕事

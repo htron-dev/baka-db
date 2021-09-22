@@ -1,5 +1,7 @@
 # Kiss wa Hitomi ni Shite
 
+![kiss-wa-hitomi-ni-shite](https://cdn.myanimelist.net/images/anime/13/29208.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キッスは瞳にして

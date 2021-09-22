@@ -1,5 +1,7 @@
 # Shi ni Itaru Yamai
 
+![shi-ni-itaru-yamai](https://cdn.myanimelist.net/images/manga/3/58519.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

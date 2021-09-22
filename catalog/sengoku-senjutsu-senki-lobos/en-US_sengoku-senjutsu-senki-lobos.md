@@ -1,5 +1,7 @@
 # Sengoku Senjutsu Senki Lobos
 
+![sengoku-senjutsu-senki-lobos](https://cdn.myanimelist.net/images/manga/1/80205.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Koi ni Ochite Ikeba ii
 
+![koi-ni-ochite-ikeba-ii](https://cdn.myanimelist.net/images/manga/3/13469.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋に堕ちていけばいい

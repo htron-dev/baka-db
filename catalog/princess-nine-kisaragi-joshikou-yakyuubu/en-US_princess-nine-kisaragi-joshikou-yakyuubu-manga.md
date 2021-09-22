@@ -1,5 +1,7 @@
 # Princess Nine: Kisaragi Joshikou Yakyuubu
 
+![princess-nine-kisaragi-joshikou-yakyuubu](https://cdn.myanimelist.net/images/manga/2/132173.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: プリンセスナイン 如月女子高野球部

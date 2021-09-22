@@ -1,5 +1,7 @@
 # Mimoza de Sarada
 
+![mimoza-de-sarada](https://cdn.myanimelist.net/images/manga/5/147159.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

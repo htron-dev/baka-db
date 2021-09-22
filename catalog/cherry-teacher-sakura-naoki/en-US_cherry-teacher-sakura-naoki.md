@@ -1,5 +1,7 @@
 # Cherry Teacher Sakura Naoki
 
+![cherry-teacher-sakura-naoki](https://cdn.myanimelist.net/images/manga/2/188825.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Love Marmot
 
+![love-marmot](https://cdn.myanimelist.net/images/manga/3/10877.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラブ・モルモット

@@ -1,5 +1,7 @@
 # Ai no Labyrinth
 
+![ai-no-labyrinth](https://cdn.myanimelist.net/images/manga/1/127105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛の迷路(ラビリンス)

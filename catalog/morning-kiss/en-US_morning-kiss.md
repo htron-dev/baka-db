@@ -1,5 +1,7 @@
 # Morning Kiss
 
+![morning-kiss](https://cdn.myanimelist.net/images/manga/1/182713.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

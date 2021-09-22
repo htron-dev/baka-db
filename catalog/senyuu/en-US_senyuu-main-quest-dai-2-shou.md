@@ -1,5 +1,7 @@
 # Senyuu.: Main Quest Dai-2 Shou
 
+![senyuu-main-quest-dai-2-shou](https://cdn.myanimelist.net/images/manga/3/202218.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 95

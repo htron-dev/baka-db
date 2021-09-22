@@ -1,5 +1,7 @@
 # Eisen no Lovelock
 
+![eisen-no-lovelock](https://cdn.myanimelist.net/images/manga/2/248103.jpg)
+
 -   **type**: manga
 -   **original-name**: 英戦のラブロック
 -   **start-date**: 2021-05-12

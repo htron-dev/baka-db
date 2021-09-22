@@ -1,5 +1,7 @@
 # Kiki to Lala no Hansel to Gretel
 
+![kiki-to-lala-no-hansel-to-gretel](https://cdn.myanimelist.net/images/anime/11/46707.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キキとララのヘンゼルとグレーテル

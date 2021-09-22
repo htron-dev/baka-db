@@ -1,5 +1,7 @@
 # Ossan ga Bijo.
 
+![ossan-ga-bijo](https://cdn.myanimelist.net/images/manga/3/190104.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: おっさんがびじょ。

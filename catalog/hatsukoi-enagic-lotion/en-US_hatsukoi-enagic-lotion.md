@@ -1,5 +1,7 @@
 # Hatsukoi Enagic Lotion
 
+![hatsukoi-enagic-lotion](https://cdn.myanimelist.net/images/manga/1/190100.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

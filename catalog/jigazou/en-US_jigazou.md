@@ -1,5 +1,7 @@
 # Jigazou
 
+![jigazou](https://cdn.myanimelist.net/images/anime/3/68385.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 自画像

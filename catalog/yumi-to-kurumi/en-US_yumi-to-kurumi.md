@@ -1,5 +1,7 @@
 # Yumi to Kurumi
 
+![yumi-to-kurumi](https://cdn.myanimelist.net/images/manga/2/222806.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

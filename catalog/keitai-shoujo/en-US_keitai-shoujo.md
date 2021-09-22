@@ -1,5 +1,7 @@
 # Keitai Shoujo
 
+![keitai-shoujo](https://cdn.myanimelist.net/images/anime/7/18524.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: ケータイ少女

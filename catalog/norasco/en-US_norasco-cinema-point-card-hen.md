@@ -1,5 +1,7 @@
 # Norasco: Cinema Point Card-hen
 
+![norasco-cinema-point-card-hen](https://cdn.myanimelist.net/images/anime/5/74576.jpg)
+
 -   **type**: movie
 -   **episodes**: 10
 -   **original-name**: 野良スコ「シネマポイントカード」編

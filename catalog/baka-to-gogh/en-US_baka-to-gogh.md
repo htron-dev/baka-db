@@ -1,5 +1,7 @@
 # Baka to Gogh
 
+![baka-to-gogh](https://cdn.myanimelist.net/images/manga/3/173686.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

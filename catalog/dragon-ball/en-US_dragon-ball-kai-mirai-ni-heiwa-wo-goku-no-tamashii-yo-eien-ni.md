@@ -1,5 +1,7 @@
 # Dragon Ball Kai: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni
 
+![dragon-ball-kai-mirai-ni-heiwa-wo-goku-no-tamashii-yo-eien-ni](https://cdn.myanimelist.net/images/anime/13/33877.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール改 未来に平和を！悟空の魂よ永遠に

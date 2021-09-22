@@ -1,5 +1,7 @@
 # Gakkou no Ojikan
 
+![gakkou-no-ojikan](https://cdn.myanimelist.net/images/manga/1/5744.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 115

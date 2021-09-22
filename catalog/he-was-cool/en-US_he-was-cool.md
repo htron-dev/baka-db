@@ -1,5 +1,7 @@
 # He was Cool
 
+![he-was-cool](https://cdn.myanimelist.net/images/manga/3/33814.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 18

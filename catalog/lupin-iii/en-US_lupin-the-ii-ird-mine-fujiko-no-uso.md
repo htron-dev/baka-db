@@ -1,5 +1,7 @@
 # Lupin the IIIrd: Mine Fujiko no Uso
 
+![lupin-the-ii-ird-mine-fujiko-no-uso](https://cdn.myanimelist.net/images/anime/1376/100562.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: LUPIN THE IIIRD 峰不二子の嘘

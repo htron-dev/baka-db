@@ -1,5 +1,7 @@
 # Chuchun ga Chun
 
+![chuchun-ga-chun](https://cdn.myanimelist.net/images/manga/3/130129.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

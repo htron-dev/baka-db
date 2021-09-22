@@ -1,5 +1,7 @@
 # Shinshi to Otome no Mitsuyaku
 
+![shinshi-to-otome-no-mitsuyaku](https://cdn.myanimelist.net/images/manga/3/228841.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 紳士と乙女の密約

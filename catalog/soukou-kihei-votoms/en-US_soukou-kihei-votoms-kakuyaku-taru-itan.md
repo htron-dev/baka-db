@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms: Kakuyaku taru Itan
 
+![soukou-kihei-votoms-kakuyaku-taru-itan](https://cdn.myanimelist.net/images/anime/1212/94628.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 装甲騎兵ボトムズ 赫奕たる異端

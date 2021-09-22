@@ -1,5 +1,7 @@
 # Nezumi no Yomeiri
 
+![nezumi-no-yomeiri](https://cdn.myanimelist.net/images/anime/6/71636.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ねずみのよめいり

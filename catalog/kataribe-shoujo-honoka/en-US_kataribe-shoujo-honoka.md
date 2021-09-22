@@ -1,5 +1,7 @@
 # Kataribe Shoujo Honoka
 
+![kataribe-shoujo-honoka](https://cdn.myanimelist.net/images/anime/10/75474.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 語りべ少女ほのか

@@ -1,5 +1,7 @@
 # Kirameki☆Gingachou Shoutengai
 
+![kirameki☆-gingachou-shoutengai](https://cdn.myanimelist.net/images/manga/3/41130.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 48

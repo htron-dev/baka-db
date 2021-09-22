@@ -1,5 +1,7 @@
 # Ikemen Sengoku: Toki wo Kakeru ga Koi wa Hajimaranai
 
+![ikemen-sengoku-toki-wo-kakeru-ga-koi-wa-hajimaranai](https://cdn.myanimelist.net/images/anime/7/86054.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: イケメン戦国 ◆ 時をかけるが恋ははじまらない

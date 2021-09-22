@@ -1,5 +1,7 @@
 # Shinigami-kun
 
+![shinigami-kun](https://cdn.myanimelist.net/images/manga/3/116603.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: 死神くん

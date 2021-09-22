@@ -1,5 +1,7 @@
 # Geten no Hana
 
+![geten-no-hana](https://cdn.myanimelist.net/images/manga/2/111011.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

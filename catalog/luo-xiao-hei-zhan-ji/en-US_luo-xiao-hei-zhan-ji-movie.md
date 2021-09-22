@@ -1,5 +1,7 @@
 # Luo Xiao Hei Zhan Ji (Movie)
 
+![luo-xiao-hei-zhan-ji-movie](https://cdn.myanimelist.net/images/anime/1583/108598.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 羅小黑戰記

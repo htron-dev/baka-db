@@ -1,5 +1,7 @@
 # DS Anime Soushuuhen '98
 
+![ds-anime-soushuuhen-98](https://cdn.myanimelist.net/images/anime/9/83893.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ＤＳアニメ総集編 '98

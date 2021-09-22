@@ -1,5 +1,7 @@
 # Royal 17
 
+![royal-17](https://cdn.myanimelist.net/images/manga/1/1495.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

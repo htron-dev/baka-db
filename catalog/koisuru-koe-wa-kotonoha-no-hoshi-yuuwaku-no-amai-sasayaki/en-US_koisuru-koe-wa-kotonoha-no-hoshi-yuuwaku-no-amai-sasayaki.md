@@ -1,5 +1,7 @@
 # Koisuru Koe wa Kotonoha no Hoshi: Yuuwaku no Amai Sasayaki
 
+![koisuru-koe-wa-kotonoha-no-hoshi-yuuwaku-no-amai-sasayaki](https://cdn.myanimelist.net/images/manga/1/195268.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋する声はコトノハの星～誘惑の甘い囁き～

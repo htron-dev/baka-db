@@ -1,5 +1,7 @@
 # Kohaku no Shinzou
 
+![kohaku-no-shinzou](https://cdn.myanimelist.net/images/manga/1/162717.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

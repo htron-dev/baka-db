@@ -1,5 +1,7 @@
 # 86: Operation High School
 
+![86-operation-high-school](https://cdn.myanimelist.net/images/manga/2/239974.jpg)
+
 -   **type**: manga
 -   **original-name**: 86―エイティシックス― オペレーション・ハイスクール
 -   **start-date**: 2020-06-27

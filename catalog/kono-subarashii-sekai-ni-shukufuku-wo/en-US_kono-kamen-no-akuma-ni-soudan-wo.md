@@ -1,5 +1,7 @@
 # Kono Kamen no Akuma ni Soudan wo!
 
+![kono-kamen-no-akuma-ni-soudan-wo](https://cdn.myanimelist.net/images/manga/1/217631.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

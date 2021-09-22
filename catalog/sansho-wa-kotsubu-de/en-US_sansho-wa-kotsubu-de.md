@@ -1,5 +1,7 @@
 # Sansho wa Kotsubu de
 
+![sansho-wa-kotsubu-de](https://cdn.myanimelist.net/images/manga/4/62329.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

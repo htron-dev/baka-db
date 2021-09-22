@@ -1,5 +1,7 @@
 # Saint☆Oniisan
 
+![saint☆-oniisan](https://cdn.myanimelist.net/images/manga/2/194935.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖 ☆ おにいさん
 -   **start-date**: 2006-08-10

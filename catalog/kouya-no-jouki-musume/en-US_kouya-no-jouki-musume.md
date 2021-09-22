@@ -1,5 +1,7 @@
 # Kouya no Jouki Musume
 
+![kouya-no-jouki-musume](https://cdn.myanimelist.net/images/manga/1/82608.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 荒野の蒸気娘

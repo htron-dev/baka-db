@@ -1,5 +1,7 @@
 # Material Puzzle: Zero Kreuz
 
+![material-puzzle-zero-kreuz](https://cdn.myanimelist.net/images/manga/5/90109.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: マテリアル・パズル ゼロクロイツ

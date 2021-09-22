@@ -1,5 +1,7 @@
 # Made in Abyss
 
+![made-in-abyss](https://cdn.myanimelist.net/images/anime/6/86733.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: メイドインアビス

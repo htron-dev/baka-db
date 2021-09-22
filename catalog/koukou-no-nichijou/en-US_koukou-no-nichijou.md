@@ -1,5 +1,7 @@
 # Koukou no Nichijou
 
+![koukou-no-nichijou](https://cdn.myanimelist.net/images/manga/2/168920.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

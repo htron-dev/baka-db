@@ -1,5 +1,7 @@
 # Zoids SS
 
+![zoids-ss](https://cdn.myanimelist.net/images/manga/3/97039.jpg)
+
 -   **type**: manga
 -   **original-name**: Zoids SS
 -   **start-date**: 2013-05-25

@@ -1,5 +1,7 @@
 # Futsuu tte Nandarou?
 
+![futsuu-tte-nandarou](https://cdn.myanimelist.net/images/anime/1960/96526.jpg)
+
 -   **type**: special
 -   **original-name**: ふつうってなんだろう？
 -   **start-date**: 2018-11-11

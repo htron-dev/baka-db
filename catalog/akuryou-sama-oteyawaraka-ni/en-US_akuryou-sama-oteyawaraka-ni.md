@@ -1,5 +1,7 @@
 # Akuryou-sama Oteyawaraka ni
 
+![akuryou-sama-oteyawaraka-ni](https://cdn.myanimelist.net/images/manga/1/49071.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

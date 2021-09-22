@@ -1,5 +1,7 @@
 # Kizudarake no Akuma
 
+![kizudarake-no-akuma](https://cdn.myanimelist.net/images/manga/2/165399.jpg)
+
 -   **type**: manga
 -   **original-name**: 傷だらけの悪魔
 -   **start-date**: 2014-05-30

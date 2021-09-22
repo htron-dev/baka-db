@@ -1,5 +1,7 @@
 # Doko ni Iku?
 
+![doko-ni-iku](https://cdn.myanimelist.net/images/manga/3/33568.jpg)
+
 -   **type**: manga
 -   **original-name**: 何処に行く?
 

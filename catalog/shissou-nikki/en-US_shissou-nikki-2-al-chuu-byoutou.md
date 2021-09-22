@@ -1,5 +1,7 @@
 # Shissou Nikki 2: Al-chuu Byoutou
 
+![shissou-nikki-2-al-chuu-byoutou](https://cdn.myanimelist.net/images/manga/1/117625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 失踪日記 2 アル中病棟

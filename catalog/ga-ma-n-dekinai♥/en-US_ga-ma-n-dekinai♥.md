@@ -1,5 +1,7 @@
 # Ga-ma-n Dekinai♥
 
+![ga-ma-n-dekinai♥](https://cdn.myanimelist.net/images/manga/2/143901.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ガ・マ・ンできない ♥

@@ -1,5 +1,7 @@
 # A Secretary's Love Story
 
+![a-secretarys-love-story](https://cdn.myanimelist.net/images/manga/3/6519.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

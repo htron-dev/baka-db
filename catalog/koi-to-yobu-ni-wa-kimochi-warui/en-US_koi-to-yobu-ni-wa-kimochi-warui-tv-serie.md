@@ -1,5 +1,7 @@
 # Koi to Yobu ni wa Kimochi Warui
 
+![koi-to-yobu-ni-wa-kimochi-warui](https://cdn.myanimelist.net/images/anime/1519/110527.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 恋と呼ぶには気持ち悪い

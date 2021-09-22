@@ -1,5 +1,7 @@
 # Seikaku Warui Uke ga Guzuguzu ni Nakasareru Hon.
 
+![seikaku-warui-uke-ga-guzuguzu-ni-nakasareru-hon](https://cdn.myanimelist.net/images/manga/3/238638.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

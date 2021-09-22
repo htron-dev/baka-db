@@ -1,5 +1,7 @@
 # News Parade
 
+![news-parade](https://cdn.myanimelist.net/images/manga/1/241442.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

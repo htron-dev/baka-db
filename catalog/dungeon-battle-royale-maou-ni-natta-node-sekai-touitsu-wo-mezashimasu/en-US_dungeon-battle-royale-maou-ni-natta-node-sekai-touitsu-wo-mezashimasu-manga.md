@@ -1,5 +1,7 @@
 # Dungeon Battle Royale: Maou ni Natta node Sekai Touitsu wo Mezashimasu
 
+![dungeon-battle-royale-maou-ni-natta-node-sekai-touitsu-wo-mezashimasu](https://cdn.myanimelist.net/images/manga/1/242591.jpg)
+
 -   **type**: manga
 -   **original-name**: ダンジョンバトルロワイヤル〜魔王になったので世界統一を目指します〜
 -   **start-date**: 2020-03-30

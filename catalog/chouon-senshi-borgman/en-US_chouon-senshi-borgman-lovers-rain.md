@@ -1,5 +1,7 @@
 # Chouon Senshi Borgman: Lovers Rain
 
+![chouon-senshi-borgman-lovers-rain](https://cdn.myanimelist.net/images/anime/5/6671.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 超音戦士ボーグマン LOVERS RAIN

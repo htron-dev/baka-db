@@ -1,5 +1,7 @@
 # Bad Boys
 
+![bad-boys](https://cdn.myanimelist.net/images/anime/9/13330.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: BAD BOYS

@@ -1,5 +1,7 @@
 # Yousei no Okyakusama
 
+![yousei-no-okyakusama](https://cdn.myanimelist.net/images/manga/1/243308.jpg)
+
 -   **type**: manga
 -   **original-name**: 妖精のおきゃくさま
 -   **start-date**: 2020-05-08

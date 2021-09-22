@@ -1,5 +1,7 @@
 # Precure All Stars Movie New Stage 3: Eien no Tomodachi
 
+![precure-all-stars-movie-new-stage-3-eien-no-tomodachi](https://cdn.myanimelist.net/images/anime/1923/109733.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画プリキュアオールスターズ New Stage3 永遠のともだち

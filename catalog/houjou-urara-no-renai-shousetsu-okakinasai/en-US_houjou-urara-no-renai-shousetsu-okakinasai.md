@@ -1,5 +1,7 @@
 # Houjou Urara no Renai Shousetsu Okakinasai!
 
+![houjou-urara-no-renai-shousetsu-okakinasai](https://cdn.myanimelist.net/images/manga/2/236049.jpg)
+
 -   **type**: manga
 -   **original-name**: 北条うららの恋愛小説お書きなさい!
 -   **start-date**: 2019-08-06

@@ -1,5 +1,7 @@
 # Ecchi na Outaishi Denka ni Hiru mo Aisaresugitemasu: Oyomesan wa "Dakimakura" dewa Arimasen!
 
+![ecchi-na-outaishi-denka-ni-hiru-mo-aisaresugitemasu-oyomesan-wa-dakimakura-dewa-arimasen](https://cdn.myanimelist.net/images/manga/1/191440.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

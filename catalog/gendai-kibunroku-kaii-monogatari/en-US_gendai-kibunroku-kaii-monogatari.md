@@ -1,5 +1,7 @@
 # Gendai Kibunroku Kaii Monogatari
 
+![gendai-kibunroku-kaii-monogatari](https://cdn.myanimelist.net/images/anime/11/14000.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 現代畸聞録　怪異物語

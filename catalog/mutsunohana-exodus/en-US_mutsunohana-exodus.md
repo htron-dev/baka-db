@@ -1,5 +1,7 @@
 # Mutsunohana\*Exodus
 
+![mutsunohana-exodus](https://cdn.myanimelist.net/images/manga/2/175573.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

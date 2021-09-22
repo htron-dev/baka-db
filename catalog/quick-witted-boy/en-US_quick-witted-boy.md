@@ -1,5 +1,7 @@
 # Quick Witted Boy
 
+![quick-witted-boy](https://cdn.myanimelist.net/images/manga/2/32857.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 有机男孩; 유기 소년

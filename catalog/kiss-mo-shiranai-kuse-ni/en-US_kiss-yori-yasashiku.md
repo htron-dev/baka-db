@@ -1,5 +1,7 @@
 # Kiss yori Yasashiku
 
+![kiss-yori-yasashiku](https://cdn.myanimelist.net/images/manga/3/247251.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

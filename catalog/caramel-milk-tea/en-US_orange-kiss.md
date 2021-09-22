@@ -1,5 +1,7 @@
 # Orange Kiss
 
+![orange-kiss](https://cdn.myanimelist.net/images/manga/2/183165.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

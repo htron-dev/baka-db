@@ -1,5 +1,7 @@
 # Saigo no Restaurant
 
+![saigo-no-restaurant](https://cdn.myanimelist.net/images/manga/3/112937.jpg)
+
 -   **type**: manga
 -   **original-name**: 最後のレストラン
 -   **start-date**: 2011-02-21

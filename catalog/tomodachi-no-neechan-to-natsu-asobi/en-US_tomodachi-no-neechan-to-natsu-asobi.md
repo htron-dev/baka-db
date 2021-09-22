@@ -1,5 +1,7 @@
 # Tomodachi no Neechan to Natsu Asobi
 
+![tomodachi-no-neechan-to-natsu-asobi](https://cdn.myanimelist.net/images/manga/2/243784.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Hi Asobi wa Kaji no Moto: Kenta to Nyanta no Hi no Youjin
 
+![hi-asobi-wa-kaji-no-moto-kenta-to-nyanta-no-hi-no-youjin](https://cdn.myanimelist.net/images/anime/8/68943.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 火あそびは火事のもと ケンタとニャンタの火の用心

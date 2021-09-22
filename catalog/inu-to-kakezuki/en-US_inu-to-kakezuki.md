@@ -1,5 +1,7 @@
 # Inu to Kakezuki
 
+![inu-to-kakezuki](https://cdn.myanimelist.net/images/manga/2/228140.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

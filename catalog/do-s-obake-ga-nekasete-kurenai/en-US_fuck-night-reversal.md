@@ -1,5 +1,7 @@
 # Fuck Night Reversal
 
+![fuck-night-reversal](https://cdn.myanimelist.net/images/manga/3/242974.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

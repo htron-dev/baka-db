@@ -1,5 +1,7 @@
 # Naruto Jinraiden: Okami no Naku Hi
 
+![naruto-jinraiden-okami-no-naku-hi](https://cdn.myanimelist.net/images/manga/2/152723.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

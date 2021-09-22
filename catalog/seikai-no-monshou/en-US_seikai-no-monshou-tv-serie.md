@@ -1,5 +1,7 @@
 # Seikai no Monshou
 
+![seikai-no-monshou](https://cdn.myanimelist.net/images/anime/1493/94479.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 星界の紋章

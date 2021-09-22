@@ -1,5 +1,7 @@
 # Maid-san wa Taberu dake
 
+![maid-san-wa-taberu-dake](https://cdn.myanimelist.net/images/manga/1/234636.jpg)
+
 -   **type**: manga
 -   **original-name**: メイドさんは食べるだけ
 -   **start-date**: 2019-12-02

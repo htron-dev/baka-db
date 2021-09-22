@@ -1,5 +1,7 @@
 # Oh My Vamp
 
+![oh-my-vamp](https://cdn.myanimelist.net/images/manga/2/25160.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: OH MY VAMP

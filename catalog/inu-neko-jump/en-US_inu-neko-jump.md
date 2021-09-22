@@ -1,5 +1,7 @@
 # Inu Neko Jump!
 
+![inu-neko-jump](https://cdn.myanimelist.net/images/manga/3/76839.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

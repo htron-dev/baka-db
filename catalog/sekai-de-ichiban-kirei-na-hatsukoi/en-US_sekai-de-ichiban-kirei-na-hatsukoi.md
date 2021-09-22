@@ -1,5 +1,7 @@
 # Sekai de Ichiban Kirei na Hatsukoi
 
+![sekai-de-ichiban-kirei-na-hatsukoi](https://cdn.myanimelist.net/images/manga/1/238525.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

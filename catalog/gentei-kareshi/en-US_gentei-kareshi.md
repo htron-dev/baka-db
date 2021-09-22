@@ -1,5 +1,7 @@
 # Gentei Kareshi
 
+![gentei-kareshi](https://cdn.myanimelist.net/images/manga/5/116055.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

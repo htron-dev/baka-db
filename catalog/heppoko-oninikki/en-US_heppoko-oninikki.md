@@ -1,5 +1,7 @@
 # Heppoko Oninikki
 
+![heppoko-oninikki](https://cdn.myanimelist.net/images/manga/2/176540.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: へっぽこ鬼日記

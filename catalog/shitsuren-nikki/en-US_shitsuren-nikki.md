@@ -1,5 +1,7 @@
 # Shitsuren Nikki
 
+![shitsuren-nikki](https://cdn.myanimelist.net/images/manga/1/144107.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

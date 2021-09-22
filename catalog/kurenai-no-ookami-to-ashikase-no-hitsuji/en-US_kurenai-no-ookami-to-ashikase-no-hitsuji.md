@@ -1,5 +1,7 @@
 # Kurenai no Ookami to Ashikase no Hitsuji
 
+![kurenai-no-ookami-to-ashikase-no-hitsuji](https://cdn.myanimelist.net/images/manga/3/71701.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

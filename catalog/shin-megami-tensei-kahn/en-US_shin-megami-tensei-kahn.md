@@ -1,5 +1,7 @@
 # Shin Megami Tensei [Kahn]
 
+![shin-megami-tensei-kahn](https://cdn.myanimelist.net/images/manga/4/167349.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 70

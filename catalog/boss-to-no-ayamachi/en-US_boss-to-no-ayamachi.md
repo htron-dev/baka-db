@@ -1,5 +1,7 @@
 # Boss to no Ayamachi
 
+![boss-to-no-ayamachi](https://cdn.myanimelist.net/images/manga/3/227490.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ボスとの過ち

@@ -1,5 +1,7 @@
 # Huoli Shaonian Wang zhi You Quan Yingxiong
 
+![huoli-shaonian-wang-zhi-you-quan-yingxiong](https://cdn.myanimelist.net/images/anime/1180/95685.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 42
 -   **original-name**: 火力少年王之悠拳英雄
@@ -10,7 +12,6 @@
 ## Tags
 
 -   game
-
 -   magic
 -   super-power
 

@@ -1,5 +1,7 @@
 # Tremolo Letra
 
+![tremolo-letra](https://cdn.myanimelist.net/images/manga/1/123169.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

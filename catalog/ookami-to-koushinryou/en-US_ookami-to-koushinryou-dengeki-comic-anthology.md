@@ -1,5 +1,7 @@
 # Ookami to Koushinryou: Dengeki Comic Anthology
 
+![ookami-to-koushinryou-dengeki-comic-anthology](https://cdn.myanimelist.net/images/manga/3/247829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

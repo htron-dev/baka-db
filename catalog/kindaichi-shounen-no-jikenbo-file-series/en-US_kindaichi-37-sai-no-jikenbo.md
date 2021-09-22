@@ -1,7 +1,9 @@
 # Kindaichi 37-sai no Jikenbo
 
+![kindaichi-37-sai-no-jikenbo](https://cdn.myanimelist.net/images/manga/1/210476.jpg)
+
 -   **type**: manga
--   **original-name**: 金田一37歳の事件簿
+-   **original-name**: 金田一 37 歳の事件簿
 -   **start-date**: 2018-01-23
 
 ## Tags

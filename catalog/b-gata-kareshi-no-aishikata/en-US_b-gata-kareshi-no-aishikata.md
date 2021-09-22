@@ -1,5 +1,7 @@
 # B-Gata Kareshi no Aishikata
 
+![b-gata-kareshi-no-aishikata](https://cdn.myanimelist.net/images/manga/2/73325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

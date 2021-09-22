@@ -1,5 +1,7 @@
 # Road to Ninja: Naruto the Movie
 
+![road-to-ninja-naruto-the-movie](https://cdn.myanimelist.net/images/manga/2/228890.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ROAD TO NINJA NARUTO THE MOVIE

@@ -1,5 +1,7 @@
 # Menou Futatsuki!
 
+![menou-futatsuki](https://cdn.myanimelist.net/images/manga/1/83943.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Kakemochi Jokan no Hana-○ Shuugyou
 
+![kakemochi-jokan-no-hana-○-shuugyou](https://cdn.myanimelist.net/images/manga/2/156955.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

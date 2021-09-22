@@ -1,5 +1,7 @@
 # Watashitachi no Tamura-kun
 
+![watashitachi-no-tamura-kun](https://cdn.myanimelist.net/images/manga/1/11268.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 20

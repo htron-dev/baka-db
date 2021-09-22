@@ -1,5 +1,7 @@
 # Salaryman Kintarou: Money Wars-hen
 
+![salaryman-kintarou-money-wars-hen](https://cdn.myanimelist.net/images/manga/2/171903.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

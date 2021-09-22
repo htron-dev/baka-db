@@ -1,5 +1,7 @@
 # World Bring It On!
 
+![world-bring-it-on](https://cdn.myanimelist.net/images/manga/2/145555.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 16
 -   **original-name**: 세상아 덤벼라!

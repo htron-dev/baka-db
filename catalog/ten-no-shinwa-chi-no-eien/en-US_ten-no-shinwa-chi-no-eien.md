@@ -1,5 +1,7 @@
 # Ten no Shinwa Chi no Eien
 
+![ten-no-shinwa-chi-no-eien](https://cdn.myanimelist.net/images/manga/3/42819.jpg)
+
 -   **type**: manga
 -   **original-name**: 天の神話 地の永遠
 

@@ -1,5 +1,7 @@
 # Afghanistan Paghman-mura no Monogatari: Boku no Mura ni Circus ga Kita
 
+![afghanistan-paghman-mura-no-monogatari-boku-no-mura-ni-circus-ga-kita](https://cdn.myanimelist.net/images/anime/3/66027.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アフガニスタン・パグマン村の物語 ぼくの村にサーカスがきた

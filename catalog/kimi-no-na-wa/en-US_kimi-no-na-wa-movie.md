@@ -1,5 +1,7 @@
 # Kimi no Na wa.
 
+![kimi-no-na-wa](https://cdn.myanimelist.net/images/anime/5/87048.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 君の名は。

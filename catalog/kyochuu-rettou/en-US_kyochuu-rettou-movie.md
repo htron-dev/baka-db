@@ -1,5 +1,7 @@
 # Kyochuu Rettou Movie
 
+![kyochuu-rettou-movie](https://cdn.myanimelist.net/images/anime/1965/111416.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 巨蟲列島

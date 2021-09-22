@@ -1,5 +1,7 @@
 # Zettai Karen Children: The Unlimited - Hyoubu Kyousuke
 
+![zettai-karen-children-the-unlimited-hyoubu-kyousuke](https://cdn.myanimelist.net/images/anime/11/44522.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 絶対可憐チルドレン THE UNLIMITED 兵部京介

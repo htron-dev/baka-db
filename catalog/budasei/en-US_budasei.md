@@ -1,5 +1,7 @@
 # Budasei
 
+![budasei](https://cdn.myanimelist.net/images/manga/2/95847.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

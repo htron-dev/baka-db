@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index 10th Anniversary PV
 
+![toaru-majutsu-no-index-10th-anniversary-pv](https://cdn.myanimelist.net/images/anime/3/66819.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 鎌池和馬『とある魔術の禁書目録』10 周年記念完全新作アニメーション PV 映像

@@ -1,5 +1,7 @@
 # Dr. Slump: Robot Taiketsu! Shukuteki Dr. Mashirito Toujou / Keen de Yuushou!? Penguin Grand Prix
 
+![dr-slump-robot-taiketsu-shukuteki-dr-mashirito-toujou-keen-de-yuushou-penguin-grand-prix](https://cdn.myanimelist.net/images/anime/10/72852.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドクタースランプ ロボット対決! 宿敵ドクターマシリト登場 / キーンで優勝!? ペンギン・グランプリ

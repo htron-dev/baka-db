@@ -1,5 +1,7 @@
 # Meitantei Hokenshitsu no Obasan
 
+![meitantei-hokenshitsu-no-obasan](https://cdn.myanimelist.net/images/manga/3/31990.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 名探偵保健室のオバさん

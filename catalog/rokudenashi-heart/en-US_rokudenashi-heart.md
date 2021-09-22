@@ -1,5 +1,7 @@
 # Rokudenashi Heart
 
+![rokudenashi-heart](https://cdn.myanimelist.net/images/manga/2/156300.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ろくでなし heart

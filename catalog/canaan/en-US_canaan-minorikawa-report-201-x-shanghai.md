@@ -1,5 +1,7 @@
 # Canaan: Minorikawa Report 201X Shanghai
 
+![canaan-minorikawa-report-201-x-shanghai](https://cdn.myanimelist.net/images/anime/8/26908.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: カナン 御法川レポート 201X 上海
@@ -20,4 +22,4 @@ Special included in BD vol. 5.
 -   [My Anime list](https://myanimelist.net/anime/9706/Canaan__Minorikawa_Report_201X_Shanghai)
 -   [Official Site](http://www.canaan.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6275)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Canaan_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Canaan_%28anime%29)

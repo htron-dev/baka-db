@@ -1,5 +1,7 @@
 # Pink Mizu Dorobou Ame Dorobou
 
+![pink-mizu-dorobou-ame-dorobou](https://cdn.myanimelist.net/images/anime/1605/107687.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ピンク みずドロボウあめドロボウ
@@ -23,4 +25,4 @@ The plot is about a young girl named Pink who is a bandit in the desert who stea
 -   [My Anime list](https://myanimelist.net/anime/11659/Pink_Mizu_Dorobou_Ame_Dorobou)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4042)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3677)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Pink_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Pink_%28manga%29)

@@ -1,5 +1,7 @@
 # PositioN
 
+![positio-n](https://cdn.myanimelist.net/images/manga/1/86083.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: PositioN -ポジション-

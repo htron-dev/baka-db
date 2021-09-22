@@ -1,5 +1,7 @@
 # Ka.re.shi
 
+![ka-re-shi](https://cdn.myanimelist.net/images/manga/1/14992.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: KA・RE・SHI

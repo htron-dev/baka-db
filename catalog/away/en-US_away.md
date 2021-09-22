@@ -1,5 +1,7 @@
 # Away
 
+![away](https://cdn.myanimelist.net/images/manga/2/150292.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

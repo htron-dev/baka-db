@@ -1,5 +1,7 @@
 # Mirai ni Mukete: Bousai wo Kangaeru
 
+![mirai-ni-mukete-bousai-wo-kangaeru](https://cdn.myanimelist.net/images/anime/7/81777.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 未来に向けて 防災を考える

@@ -1,5 +1,7 @@
 # Tonari wa Nani wo Kuu Hito zo
 
+![tonari-wa-nani-wo-kuu-hito-zo](https://cdn.myanimelist.net/images/manga/2/208172.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Shijin-sou no Satsujin
 
+![shijin-sou-no-satsujin](https://cdn.myanimelist.net/images/manga/1/227276.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

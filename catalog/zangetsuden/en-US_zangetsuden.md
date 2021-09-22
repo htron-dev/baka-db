@@ -1,5 +1,7 @@
 # Zangetsuden
 
+![zangetsuden](https://cdn.myanimelist.net/images/manga/1/171924.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 斬月伝

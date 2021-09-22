@@ -1,5 +1,7 @@
 # Hajime no Ippo
 
+![hajime-no-ippo](https://cdn.myanimelist.net/images/manga/2/250313.jpg)
+
 -   **type**: manga
 -   **original-name**: はじめの一歩
 -   **start-date**: 1989-09-27

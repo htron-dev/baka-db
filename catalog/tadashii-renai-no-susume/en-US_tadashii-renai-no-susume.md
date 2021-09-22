@@ -1,5 +1,7 @@
 # Tadashii Renai no Susume
 
+![tadashii-renai-no-susume](https://cdn.myanimelist.net/images/manga/1/18605.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 正しい恋愛のススメ

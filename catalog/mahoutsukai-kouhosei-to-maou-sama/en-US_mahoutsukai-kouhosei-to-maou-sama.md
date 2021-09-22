@@ -1,5 +1,7 @@
 # Mahoutsukai Kouhosei to Maou-sama
 
+![mahoutsukai-kouhosei-to-maou-sama](https://cdn.myanimelist.net/images/manga/1/164560.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

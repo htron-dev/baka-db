@@ -1,5 +1,7 @@
 # Ichiya no Oshikake Cupid: Ano Hi, Ore wa Bishoujo Datta
 
+![ichiya-no-oshikake-cupid-ano-hi-ore-wa-bishoujo-datta](https://cdn.myanimelist.net/images/manga/1/158306.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

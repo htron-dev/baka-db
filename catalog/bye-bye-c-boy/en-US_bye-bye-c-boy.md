@@ -1,5 +1,7 @@
 # Bye Bye C-Boy
 
+![bye-bye-c-boy](https://cdn.myanimelist.net/images/manga/3/40029.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ばいばいＣ－ＢＯＹ

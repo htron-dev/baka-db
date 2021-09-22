@@ -1,5 +1,7 @@
 # Yappari Kimi wo Suki ni Naru
 
+![yappari-kimi-wo-suki-ni-naru](https://cdn.myanimelist.net/images/manga/3/2870.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

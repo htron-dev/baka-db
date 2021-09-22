@@ -1,5 +1,7 @@
 # Gerekusis
 
+![gerekusis](https://cdn.myanimelist.net/images/manga/3/183932.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

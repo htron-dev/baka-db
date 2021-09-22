@@ -1,5 +1,7 @@
 # One Piece Gakuen
 
+![one-piece-gakuen](https://cdn.myanimelist.net/images/manga/2/233977.jpg)
+
 -   **type**: manga
 -   **original-name**: ONE PIECE 学園
 -   **start-date**: 2019-08-02

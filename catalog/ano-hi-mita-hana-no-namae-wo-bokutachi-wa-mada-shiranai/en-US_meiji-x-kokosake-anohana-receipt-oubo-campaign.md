@@ -1,5 +1,7 @@
 # Meiji x Kokosake & anohana Receipt Oubo Campaign
 
+![meiji-x-kokosake-anohana-receipt-oubo-campaign](https://cdn.myanimelist.net/images/anime/7/75927.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 明治 ×「ここさけ」＆「あの花」レシート応募キャンペーン

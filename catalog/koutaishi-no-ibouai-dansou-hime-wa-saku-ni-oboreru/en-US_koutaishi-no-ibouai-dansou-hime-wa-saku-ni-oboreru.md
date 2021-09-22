@@ -1,5 +1,7 @@
 # Koutaishi no Ibouai: Dansou-hime wa Saku ni Oboreru
 
+![koutaishi-no-ibouai-dansou-hime-wa-saku-ni-oboreru](https://cdn.myanimelist.net/images/manga/2/192595.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

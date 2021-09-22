@@ -1,5 +1,7 @@
 # Kinu Roku
 
+![kinu-roku](https://cdn.myanimelist.net/images/manga/1/157709.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

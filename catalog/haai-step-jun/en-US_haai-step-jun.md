@@ -1,5 +1,7 @@
 # Haai Step Jun
 
+![haai-step-jun](https://cdn.myanimelist.net/images/anime/10/73332.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: はーいステップジュン

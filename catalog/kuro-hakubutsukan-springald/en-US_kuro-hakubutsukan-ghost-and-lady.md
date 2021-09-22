@@ -1,5 +1,7 @@
 # Kuro Hakubutsukan: Ghost and Lady
 
+![kuro-hakubutsukan-ghost-and-lady](https://cdn.myanimelist.net/images/manga/2/161362.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

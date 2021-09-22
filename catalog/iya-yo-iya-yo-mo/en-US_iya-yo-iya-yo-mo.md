@@ -1,5 +1,7 @@
 # Iya yo Iya yo mo?
 
+![iya-yo-iya-yo-mo](https://cdn.myanimelist.net/images/manga/3/226707.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

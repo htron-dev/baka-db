@@ -1,5 +1,7 @@
 # Anime Tenchou Movie
 
+![anime-tenchou-movie](https://cdn.myanimelist.net/images/anime/11/27282.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アニメ店長 激情版

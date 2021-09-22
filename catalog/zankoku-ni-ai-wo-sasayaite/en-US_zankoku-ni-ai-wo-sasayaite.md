@@ -1,5 +1,7 @@
 # Zankoku ni Ai wo Sasayaite
 
+![zankoku-ni-ai-wo-sasayaite](https://cdn.myanimelist.net/images/manga/3/164850.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

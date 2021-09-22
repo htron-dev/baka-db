@@ -1,5 +1,7 @@
 # Hako no Naka
 
+![hako-no-naka](https://cdn.myanimelist.net/images/manga/3/91993.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

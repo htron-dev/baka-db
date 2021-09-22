@@ -1,5 +1,7 @@
 # Koe de Oshigoto!!
 
+![koe-de-oshigoto](https://cdn.myanimelist.net/images/manga/3/236906.jpg)
+
 -   **type**: manga
 -   **original-name**: こえでおしごと!!
 -   **start-date**: 2020-05-25

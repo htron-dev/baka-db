@@ -1,5 +1,7 @@
 # Mirai Shouboushi Kyuuta
 
+![mirai-shouboushi-kyuuta](https://cdn.myanimelist.net/images/anime/4/87713.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: みらいしょうぼうし キュータ

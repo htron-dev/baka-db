@@ -1,5 +1,7 @@
 # Triple Complex!!!
 
+![triple-complex](https://cdn.myanimelist.net/images/manga/2/151943.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

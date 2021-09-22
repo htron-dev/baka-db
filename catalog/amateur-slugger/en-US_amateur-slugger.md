@@ -1,5 +1,7 @@
 # Amateur Slugger
 
+![amateur-slugger](https://cdn.myanimelist.net/images/manga/2/171397.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Akiba-chan
 
+![akiba-chan](https://cdn.myanimelist.net/images/anime/2/10634.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: アキバちゃん
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   slice-of-life
 
 ## Sinopse

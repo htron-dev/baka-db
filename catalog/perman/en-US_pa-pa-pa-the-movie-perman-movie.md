@@ -1,5 +1,7 @@
 # Pa-Pa-Pa the ★ Movie: Perman
 
+![pa-pa-pa-the-★-movie-perman](https://cdn.myanimelist.net/images/anime/4/53741.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Pa-Pa-Pa ザ ★ ムービー パーマン

@@ -1,5 +1,7 @@
 # Blue Reflection Ray Special
 
+![blue-reflection-ray-special](https://cdn.myanimelist.net/images/anime/1159/116282.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: BLUE REFLECTION RAY/澪 特別編

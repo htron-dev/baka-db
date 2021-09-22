@@ -1,5 +1,7 @@
 # Warau Salesman
 
+![warau-salesman](https://cdn.myanimelist.net/images/anime/5/61389.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 103
 -   **original-name**: 笑ゥせぇるすまん

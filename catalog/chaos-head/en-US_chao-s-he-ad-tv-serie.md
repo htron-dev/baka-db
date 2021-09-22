@@ -1,5 +1,7 @@
 # ChäoS;HEAd
 
+![chao-s-he-ad](https://cdn.myanimelist.net/images/anime/13/15443.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: カオスヘッド

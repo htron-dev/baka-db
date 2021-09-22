@@ -1,5 +1,7 @@
 # Hipira-kun
 
+![hipira-kun](https://cdn.myanimelist.net/images/anime/13/46765.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: ヒピラくん
@@ -11,7 +13,6 @@
 
 -   comedy
 -   fantasy
-
 -   supernatural
 -   vampire
 

@@ -1,5 +1,7 @@
 # B Reaction
 
+![b-reaction](https://cdn.myanimelist.net/images/manga/2/15045.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

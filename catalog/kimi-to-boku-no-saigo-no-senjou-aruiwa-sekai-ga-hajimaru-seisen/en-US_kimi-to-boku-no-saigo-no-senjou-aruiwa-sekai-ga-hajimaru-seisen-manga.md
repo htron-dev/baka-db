@@ -1,5 +1,7 @@
 # Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
 
+![kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen](https://cdn.myanimelist.net/images/manga/1/223262.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Megumi
 
+![megumi](https://cdn.myanimelist.net/images/anime/3/15872.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: めぐみ

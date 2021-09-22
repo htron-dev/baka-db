@@ -1,5 +1,7 @@
 # Umi Monogatari: Kanon to Iku Amamikoshima
 
+![umi-monogatari-kanon-to-iku-amamikoshima](https://cdn.myanimelist.net/images/anime/9/28351.jpg)
+
 -   **type**: special
 -   **episodes**: 13
 -   **original-name**: うみものがたり 夏音と行く天神子島

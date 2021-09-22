@@ -1,5 +1,7 @@
 # Tantei no Tantei
 
+![tantei-no-tantei](https://cdn.myanimelist.net/images/manga/3/194530.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

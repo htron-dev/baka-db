@@ -1,5 +1,7 @@
 # Gomen, Daikirai - Side:H
 
+![gomen-daikirai-side-h](https://cdn.myanimelist.net/images/manga/3/134455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

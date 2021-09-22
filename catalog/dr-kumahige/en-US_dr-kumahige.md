@@ -1,5 +1,7 @@
 # Dr. Kumahige
 
+![dr-kumahige](https://cdn.myanimelist.net/images/manga/3/226244.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

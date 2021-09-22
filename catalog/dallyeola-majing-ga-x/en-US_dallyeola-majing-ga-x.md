@@ -1,5 +1,7 @@
 # Dallyeola Majing-ga-X
 
+![dallyeola-majing-ga-x](https://cdn.myanimelist.net/images/anime/13/44766.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 달려라 마징가 X

@@ -1,5 +1,7 @@
 # Anata no Ichiban ni Naritai
 
+![anata-no-ichiban-ni-naritai](https://cdn.myanimelist.net/images/manga/2/10872.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あなたの一番になりたい

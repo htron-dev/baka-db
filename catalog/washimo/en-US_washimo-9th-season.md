@@ -1,5 +1,7 @@
 # Washimo 9th Season
 
+![washimo-9th-season](https://cdn.myanimelist.net/images/anime/1522/113649.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: わしも-wasimo-(第 9 シリーズ)
 -   **start-date**: 2021-03-29
@@ -8,7 +10,6 @@
 ## Tags
 
 -   comedy
-
 -   school
 -   sci-fi
 -   slice-of-life

@@ -1,5 +1,7 @@
 # Boku no Tsugai wa Thoroughbred Ω
 
+![boku-no-tsugai-wa-thoroughbred-ω](https://cdn.myanimelist.net/images/manga/2/248358.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

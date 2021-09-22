@@ -1,5 +1,7 @@
 # Akegata ni Yamu Ame
 
+![akegata-ni-yamu-ame](https://cdn.myanimelist.net/images/manga/2/119645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Fantascope: Tylostoma
 
+![fantascope-tylostoma](https://cdn.myanimelist.net/images/anime/11/12164.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Fantascope~tylostoma~

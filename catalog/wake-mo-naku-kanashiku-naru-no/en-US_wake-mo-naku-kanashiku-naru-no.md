@@ -1,5 +1,7 @@
 # Wake mo Naku Kanashiku naru no
 
+![wake-mo-naku-kanashiku-naru-no](https://cdn.myanimelist.net/images/manga/1/149545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

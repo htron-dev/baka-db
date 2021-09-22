@@ -1,5 +1,7 @@
 # Koi to Himitsu no Gakuseiryou
 
+![koi-to-himitsu-no-gakuseiryou](https://cdn.myanimelist.net/images/manga/1/215138.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

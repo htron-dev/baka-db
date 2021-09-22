@@ -1,5 +1,7 @@
 # Kaimetsu Kishidan to Toraware no Otome
 
+![kaimetsu-kishidan-to-toraware-no-otome](https://cdn.myanimelist.net/images/manga/2/219670.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 50

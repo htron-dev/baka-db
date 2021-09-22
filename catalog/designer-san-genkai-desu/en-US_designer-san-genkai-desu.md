@@ -1,5 +1,7 @@
 # Designer-san, Genkai desu.
 
+![designer-san-genkai-desu](https://cdn.myanimelist.net/images/manga/1/203211.jpg)
+
 -   **type**: manga
 -   **original-name**: デザイナーさん、限界です。
 -   **start-date**: 2017-09-19

@@ -1,5 +1,7 @@
 # Holo no Graffiti
 
+![holo-no-graffiti](https://cdn.myanimelist.net/images/anime/1259/110227.jpg)
+
 -   **type**: ona
 -   **original-name**: ホロのぐらふぃてぃ
 -   **start-date**: 2019-05-05

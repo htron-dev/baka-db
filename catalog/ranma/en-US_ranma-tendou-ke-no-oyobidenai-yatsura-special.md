@@ -1,5 +1,7 @@
 # Ranma ½: Tendou-ke no Oyobidenai Yatsura!
 
+![ranma-tendou-ke-no-oyobidenai-yatsura](https://cdn.myanimelist.net/images/anime/12/29881.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: らんま 1/2 天道家のおよびでない奴ら!

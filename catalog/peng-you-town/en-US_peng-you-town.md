@@ -1,5 +1,7 @@
 # Peng You Town
 
+![peng-you-town](https://cdn.myanimelist.net/images/anime/5/18618.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ポンユタウン

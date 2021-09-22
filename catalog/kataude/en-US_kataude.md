@@ -1,5 +1,7 @@
 # Kataude
 
+![kataude](https://cdn.myanimelist.net/images/anime/1522/113137.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 片腕

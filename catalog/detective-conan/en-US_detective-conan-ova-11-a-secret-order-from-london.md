@@ -1,5 +1,7 @@
 # Detective Conan OVA 11: A Secret Order from London
 
+![detective-conan-ova-11-a-secret-order-from-london](https://cdn.myanimelist.net/images/anime/11/29489.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン ～ロンドンからの㊙指令 (ロンドンからのマル秘指令)

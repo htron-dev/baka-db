@@ -1,5 +1,7 @@
 # Tsubasa Chronicle: Tori Kago no Kuni no Himegimi
 
+![tsubasa-chronicle-tori-kago-no-kuni-no-himegimi](https://cdn.myanimelist.net/images/anime/6/45953.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ツバサ・クロニクル 鳥カゴの国の姫君

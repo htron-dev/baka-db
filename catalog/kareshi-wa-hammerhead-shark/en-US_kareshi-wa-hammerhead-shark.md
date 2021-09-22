@@ -1,5 +1,7 @@
 # Kareshi wa Hammerhead Shark
 
+![kareshi-wa-hammerhead-shark](https://cdn.myanimelist.net/images/anime/6/70657.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: かれしはハンマーヘッドシャーク
 -   **start-date**: 2015-01-03

@@ -1,5 +1,7 @@
 # Yamato Gensouki
 
+![yamato-gensouki](https://cdn.myanimelist.net/images/manga/1/5672.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

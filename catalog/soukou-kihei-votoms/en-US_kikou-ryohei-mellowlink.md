@@ -1,5 +1,7 @@
 # Kikou Ryohei Mellowlink
 
+![kikou-ryohei-mellowlink](https://cdn.myanimelist.net/images/anime/4/23503.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: 機甲猟兵メロウリンク

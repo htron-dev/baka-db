@@ -1,5 +1,7 @@
 # El Hazard: The Alternative World
 
+![el-hazard-the-alternative-world](https://cdn.myanimelist.net/images/anime/3/61047.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 異次元の世界エルハザード

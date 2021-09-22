@@ -1,5 +1,7 @@
 # Kimama ni Idol
 
+![kimama-ni-idol](https://cdn.myanimelist.net/images/manga/1/248307.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 気ままにアイドル

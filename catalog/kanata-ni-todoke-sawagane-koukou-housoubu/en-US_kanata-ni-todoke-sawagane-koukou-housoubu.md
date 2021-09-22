@@ -1,5 +1,7 @@
 # Kanata ni Todoke: Sawagane Koukou Housoubu
 
+![kanata-ni-todoke-sawagane-koukou-housoubu](https://cdn.myanimelist.net/images/manga/3/145499.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: カナタに届け 沢金高校放送部

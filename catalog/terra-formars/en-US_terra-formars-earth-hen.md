@@ -1,5 +1,7 @@
 # Terra Formars: Earth-hen
 
+![terra-formars-earth-hen](https://cdn.myanimelist.net/images/anime/1662/97844.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: テラフォーマーズ アース編

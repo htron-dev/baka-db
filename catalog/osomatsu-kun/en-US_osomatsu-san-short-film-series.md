@@ -1,5 +1,7 @@
 # Osomatsu-san Short Film Series
 
+![osomatsu-san-short-film-series](https://cdn.myanimelist.net/images/anime/9/78354.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: おそ松さん ショートフィルムシリーズ

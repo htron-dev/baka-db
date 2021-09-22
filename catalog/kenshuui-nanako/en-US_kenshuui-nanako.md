@@ -1,5 +1,7 @@
 # Kenshuui Nanako
 
+![kenshuui-nanako](https://cdn.myanimelist.net/images/manga/1/223237.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 80

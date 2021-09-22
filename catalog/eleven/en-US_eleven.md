@@ -1,5 +1,7 @@
 # Eleven
 
+![eleven](https://cdn.myanimelist.net/images/manga/1/131451.jpg)
+
 -   **type**: manga
 -   **volumes**: 43
 -   **chapters**: 168

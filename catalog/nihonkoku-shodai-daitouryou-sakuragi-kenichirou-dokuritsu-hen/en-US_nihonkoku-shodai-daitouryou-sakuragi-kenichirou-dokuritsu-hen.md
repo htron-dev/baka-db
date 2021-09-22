@@ -1,5 +1,7 @@
 # Nihonkoku Shodai Daitouryou Sakuragi Kenichirou: Dokuritsu-hen
 
+![nihonkoku-shodai-daitouryou-sakuragi-kenichirou-dokuritsu-hen](https://cdn.myanimelist.net/images/manga/3/136579.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

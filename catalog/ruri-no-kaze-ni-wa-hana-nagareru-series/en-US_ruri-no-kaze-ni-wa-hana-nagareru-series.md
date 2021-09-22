@@ -1,5 +1,7 @@
 # Ruri no Kaze ni wa Hana Nagareru Series
 
+![ruri-no-kaze-ni-wa-hana-nagareru-series](https://cdn.myanimelist.net/images/manga/3/157375.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **original-name**: 瑠璃の風に花は流れるシリーズ

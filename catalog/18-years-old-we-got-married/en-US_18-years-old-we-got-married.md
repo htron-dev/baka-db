@@ -1,5 +1,7 @@
 # 18 Years Old, We Got Married
 
+![18-years-old-we-got-married](https://cdn.myanimelist.net/images/manga/2/28713.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 18세, 우리 결혼했어요

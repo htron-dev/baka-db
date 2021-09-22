@@ -1,5 +1,7 @@
 # Sawatari-san wo Kouryakusuru Houhou
 
+![sawatari-san-wo-kouryakusuru-houhou](https://cdn.myanimelist.net/images/manga/3/71581.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

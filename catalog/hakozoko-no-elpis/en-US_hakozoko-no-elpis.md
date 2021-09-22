@@ -1,5 +1,7 @@
 # Hakozoko no Elpis
 
+![hakozoko-no-elpis](https://cdn.myanimelist.net/images/manga/1/176525.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 筺底のエルピス
 -   **start-date**: 2014-12-18

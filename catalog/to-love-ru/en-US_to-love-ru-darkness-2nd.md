@@ -1,5 +1,7 @@
 # To LOVE-Ru Darkness 2nd
 
+![to-love-ru-darkness-2nd](https://cdn.myanimelist.net/images/anime/5/69847.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: To LOVE る -とらぶる- ダークネス 2nd

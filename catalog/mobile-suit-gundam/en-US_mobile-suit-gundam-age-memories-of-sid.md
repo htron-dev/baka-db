@@ -1,5 +1,7 @@
 # Mobile Suit Gundam AGE: Memories of Sid
 
+![mobile-suit-gundam-age-memories-of-sid](https://cdn.myanimelist.net/images/manga/2/74135.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

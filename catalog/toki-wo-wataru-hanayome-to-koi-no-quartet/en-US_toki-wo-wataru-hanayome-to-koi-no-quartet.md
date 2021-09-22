@@ -1,5 +1,7 @@
 # Toki wo Wataru Hanayome to Koi no Quartet
 
+![toki-wo-wataru-hanayome-to-koi-no-quartet](https://cdn.myanimelist.net/images/manga/3/217877.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

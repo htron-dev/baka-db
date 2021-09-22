@@ -1,5 +1,7 @@
 # Amayaka na Yubisaki: Kare to Watashi no Tokushu na Kankei
 
+![amayaka-na-yubisaki-kare-to-watashi-no-tokushu-na-kankei](https://cdn.myanimelist.net/images/manga/3/197986.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

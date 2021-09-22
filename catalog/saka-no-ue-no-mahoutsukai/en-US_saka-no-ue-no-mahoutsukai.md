@@ -1,5 +1,7 @@
 # Saka no Ue no Mahoutsukai
 
+![saka-no-ue-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/1/60669.jpg)
+
 -   **type**: manga
 -   **original-name**: 坂の上の魔法使い
 

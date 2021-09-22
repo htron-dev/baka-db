@@ -1,5 +1,7 @@
 # Kyoushirou to Towa no Sora
 
+![kyoushirou-to-towa-no-sora](https://cdn.myanimelist.net/images/manga/3/168976.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

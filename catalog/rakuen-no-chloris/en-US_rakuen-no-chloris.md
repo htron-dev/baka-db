@@ -1,5 +1,7 @@
 # Rakuen no Chloris
 
+![rakuen-no-chloris](https://cdn.myanimelist.net/images/manga/1/205411.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

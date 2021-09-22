@@ -1,5 +1,7 @@
 # Ore ga Bishoujo wo Tsukuru Wake
 
+![ore-ga-bishoujo-wo-tsukuru-wake](https://cdn.myanimelist.net/images/manga/3/124487.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 僕が美少女をつくる理由

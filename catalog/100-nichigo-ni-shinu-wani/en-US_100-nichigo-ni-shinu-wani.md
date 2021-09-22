@@ -1,5 +1,7 @@
 # 100-nichigo ni Shinu Wani
 
+![100-nichigo-ni-shinu-wani](https://cdn.myanimelist.net/images/manga/2/232814.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 100 日後に死ぬワニ

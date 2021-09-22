@@ -1,5 +1,7 @@
 # Toraware Gokko
 
+![toraware-gokko](https://cdn.myanimelist.net/images/manga/3/245408.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Lightning Trap: Leina &amp; Laika
 
+![lightning-trap-leina-amp-laika](https://cdn.myanimelist.net/images/anime/13/56759.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ライトニングトラップ レイナ＆ライカ

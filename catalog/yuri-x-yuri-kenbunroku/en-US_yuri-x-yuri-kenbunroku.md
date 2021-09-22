@@ -1,5 +1,7 @@
 # Yuri x Yuri Kenbunroku
 
+![yuri-x-yuri-kenbunroku](https://cdn.myanimelist.net/images/manga/3/17601.jpg)
+
 -   **type**: manga
 
 ## Tags

@@ -1,5 +1,7 @@
 # Song of the Doll
 
+![song-of-the-doll](https://cdn.myanimelist.net/images/manga/1/40990.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Lanting Xiao Jingling
 
+![lanting-xiao-jingling](https://cdn.myanimelist.net/images/anime/1612/115509.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 兰亭小精灵

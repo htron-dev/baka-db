@@ -1,5 +1,7 @@
 # Maybe So Sweet
 
+![maybe-so-sweet](https://cdn.myanimelist.net/images/manga/3/31672.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **original-name**: 아마도 달콤 하겠지

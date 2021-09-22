@@ -1,5 +1,7 @@
 # Strike Witches: Erica Hartmann 1941
 
+![strike-witches-erica-hartmann-1941](https://cdn.myanimelist.net/images/manga/3/223509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

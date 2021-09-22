@@ -1,5 +1,7 @@
 # Nieruchi
 
+![nieruchi](https://cdn.myanimelist.net/images/manga/3/109477.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

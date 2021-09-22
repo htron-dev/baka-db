@@ -1,5 +1,7 @@
 # The iDOLM@STER Live For You!
 
+![the-i-dolm-ster-live-for-you](https://cdn.myanimelist.net/images/anime/11/39771.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アイドルマスター ライブフォーユー!

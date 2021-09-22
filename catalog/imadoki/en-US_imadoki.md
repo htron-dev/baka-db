@@ -1,5 +1,7 @@
 # Imadoki!
 
+![imadoki](https://cdn.myanimelist.net/images/manga/3/82696.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

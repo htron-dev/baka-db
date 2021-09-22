@@ -1,5 +1,7 @@
 # Moral Sense
 
+![moral-sense](https://cdn.myanimelist.net/images/manga/2/181951.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 146
 -   **original-name**: 모럴센스

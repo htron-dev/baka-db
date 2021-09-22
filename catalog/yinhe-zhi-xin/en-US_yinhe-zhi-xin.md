@@ -1,5 +1,7 @@
 # Yinhe Zhi Xin
 
+![yinhe-zhi-xin](https://cdn.myanimelist.net/images/anime/1418/110441.jpg)
+
 -   **type**: ona
 -   **original-name**: 银河之心
 -   **rating**: None

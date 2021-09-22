@@ -1,5 +1,7 @@
 # Shinkon Ijou Koibito Miman: Mazu wa Kekkon kara Hajimemasu
 
+![shinkon-ijou-koibito-miman-mazu-wa-kekkon-kara-hajimemasu](https://cdn.myanimelist.net/images/manga/2/200184.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

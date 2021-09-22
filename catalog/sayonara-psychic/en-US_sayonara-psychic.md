@@ -1,5 +1,7 @@
 # Sayonara, Psychic
 
+![sayonara-psychic](https://cdn.myanimelist.net/images/manga/2/181992.jpg)
+
 -   **type**: light-novel
 -   **original-name**: さよなら、サイキック
 -   **start-date**: 2016-09-01

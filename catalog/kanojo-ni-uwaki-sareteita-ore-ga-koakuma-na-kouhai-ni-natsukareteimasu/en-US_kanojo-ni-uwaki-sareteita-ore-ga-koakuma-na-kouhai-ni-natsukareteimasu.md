@@ -1,5 +1,7 @@
 # Kanojo ni Uwaki Sareteita Ore ga, Koakuma na Kouhai ni Natsukareteimasu
 
+![kanojo-ni-uwaki-sareteita-ore-ga-koakuma-na-kouhai-ni-natsukareteimasu](https://cdn.myanimelist.net/images/manga/1/238607.jpg)
+
 -   **type**: light-novel
 -   **original-name**: カノジョに浮気されていた俺が、小悪魔な後輩に懐かれています
 -   **start-date**: 2019-12-01

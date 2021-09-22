@@ -1,5 +1,7 @@
 # Kemeko no Love
 
+![kemeko-no-love](https://cdn.myanimelist.net/images/anime/13/64691.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ケメ子の LOVE

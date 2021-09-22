@@ -1,5 +1,7 @@
 # Sekai wa Amai Okashi de Dekiteiru
 
+![sekai-wa-amai-okashi-de-dekiteiru](https://cdn.myanimelist.net/images/manga/1/169561.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

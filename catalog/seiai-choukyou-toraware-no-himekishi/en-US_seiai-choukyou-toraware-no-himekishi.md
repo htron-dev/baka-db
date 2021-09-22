@@ -1,5 +1,7 @@
 # Seiai Choukyou: Toraware no Himekishi
 
+![seiai-choukyou-toraware-no-himekishi](https://cdn.myanimelist.net/images/manga/2/199756.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 性愛調教　囚われの姫騎士

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 0083: The Fading Light of Zeon
 
+![mobile-suit-gundam-0083-the-fading-light-of-zeon](https://cdn.myanimelist.net/images/anime/5/75776.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム 0083 －ジオンの残光－

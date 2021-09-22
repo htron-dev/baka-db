@@ -1,5 +1,7 @@
 # Joushikousei de, Hanayome de.
 
+![joushikousei-de-hanayome-de](https://cdn.myanimelist.net/images/manga/2/86411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

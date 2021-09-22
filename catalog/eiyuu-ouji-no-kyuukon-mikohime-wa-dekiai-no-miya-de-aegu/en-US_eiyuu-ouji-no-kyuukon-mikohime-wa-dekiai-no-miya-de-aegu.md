@@ -1,5 +1,7 @@
 # Eiyuu Ouji no Kyuukon: Mikohime wa Dekiai no Miya de Aegu
 
+![eiyuu-ouji-no-kyuukon-mikohime-wa-dekiai-no-miya-de-aegu](https://cdn.myanimelist.net/images/manga/1/183061.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

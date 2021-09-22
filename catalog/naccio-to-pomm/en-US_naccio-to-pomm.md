@@ -1,5 +1,7 @@
 # Naccio to Pomm
 
+![naccio-to-pomm](https://cdn.myanimelist.net/images/anime/7/70633.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 41
 -   **original-name**: ナッチョとポム
@@ -10,7 +12,6 @@
 ## Tags
 
 -   adventure
-
 -   sci-fi
 
 ## Sinopse

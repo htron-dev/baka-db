@@ -1,5 +1,7 @@
 # Alice in Deadly School
 
+![alice-in-deadly-school](https://cdn.myanimelist.net/images/manga/1/182424.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

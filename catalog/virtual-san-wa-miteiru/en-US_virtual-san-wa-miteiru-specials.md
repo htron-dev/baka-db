@@ -1,5 +1,7 @@
 # Virtual-san wa Miteiru Specials
 
+![virtual-san-wa-miteiru-specials](https://cdn.myanimelist.net/images/anime/1604/98213.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: バーチャルさんはみている

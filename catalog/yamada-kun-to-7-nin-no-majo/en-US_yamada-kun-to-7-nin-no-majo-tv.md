@@ -1,5 +1,7 @@
 # Yamada-kun to 7-nin no Majo (TV)
 
+![yamada-kun-to-7-nin-no-majo-tv](https://cdn.myanimelist.net/images/anime/2/73700.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 山田くんと 7 人の魔女

@@ -1,5 +1,7 @@
 # Konyaku 0-nichikon wa Dou desu ka?
 
+![konyaku-0-nichikon-wa-dou-desu-ka](https://cdn.myanimelist.net/images/manga/2/191018.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

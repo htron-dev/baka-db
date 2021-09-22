@@ -1,5 +1,7 @@
 # Genji Monogatari
 
+![genji-monogatari](https://cdn.myanimelist.net/images/anime/13/13741.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 源氏物語

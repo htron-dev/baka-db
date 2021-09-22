@@ -1,5 +1,7 @@
 # Mr. Fiction
 
+![mr-fiction](https://cdn.myanimelist.net/images/manga/2/231606.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

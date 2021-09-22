@@ -1,5 +1,7 @@
 # Usagi wa Seigi
 
+![usagi-wa-seigi](https://cdn.myanimelist.net/images/manga/1/234662.jpg)
+
 -   **type**: manga
 -   **original-name**: うさぎは正義
 -   **start-date**: 2016-02-23

@@ -1,5 +1,7 @@
 # Yogoto Akuma to Kiss wo Suru
 
+![yogoto-akuma-to-kiss-wo-suru](https://cdn.myanimelist.net/images/manga/2/92087.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

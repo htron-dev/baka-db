@@ -1,5 +1,7 @@
 # Kyouran Kazoku Nikki Bangai
 
+![kyouran-kazoku-nikki-bangai](https://cdn.myanimelist.net/images/manga/3/125389.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 39

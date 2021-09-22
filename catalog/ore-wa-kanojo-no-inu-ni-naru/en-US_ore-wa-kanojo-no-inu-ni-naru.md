@@ -1,5 +1,7 @@
 # Ore wa Kanojo no Inu ni Naru!
 
+![ore-wa-kanojo-no-inu-ni-naru](https://cdn.myanimelist.net/images/manga/2/163001.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

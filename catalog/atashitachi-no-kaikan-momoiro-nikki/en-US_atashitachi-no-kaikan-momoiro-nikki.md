@@ -1,5 +1,7 @@
 # Atashitachi no Kaikan Momoiro Nikki
 
+![atashitachi-no-kaikan-momoiro-nikki](https://cdn.myanimelist.net/images/manga/2/152277.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

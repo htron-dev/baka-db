@@ -1,5 +1,7 @@
 # Bloody Bunny
 
+![bloody-bunny](https://cdn.myanimelist.net/images/anime/2/63741.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: BLOODY BUNNY

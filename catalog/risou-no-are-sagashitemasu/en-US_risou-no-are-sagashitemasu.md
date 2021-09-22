@@ -1,5 +1,7 @@
 # Risou no Are, Sagashitemasu
 
+![risou-no-are-sagashitemasu](https://cdn.myanimelist.net/images/manga/1/187944.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

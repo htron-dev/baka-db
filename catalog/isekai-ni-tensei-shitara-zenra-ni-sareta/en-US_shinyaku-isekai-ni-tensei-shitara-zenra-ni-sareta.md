@@ -1,5 +1,7 @@
 # Shinyaku Isekai ni Tensei shitara Zenra ni Sareta
 
+![shinyaku-isekai-ni-tensei-shitara-zenra-ni-sareta](https://cdn.myanimelist.net/images/manga/3/227908.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 新約・異世界に転生したら全裸にされた
 -   **start-date**: 2019-08-23

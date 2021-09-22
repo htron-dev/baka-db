@@ -1,5 +1,7 @@
 # Omoi wa Itsumo Senkou Hanabi
 
+![omoi-wa-itsumo-senkou-hanabi](https://cdn.myanimelist.net/images/manga/3/164244.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 想いはいつも線香花火

@@ -1,5 +1,7 @@
 # Shuuen Sekai no Saviorcode
 
+![shuuen-sekai-no-saviorcode](https://cdn.myanimelist.net/images/manga/2/161037.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

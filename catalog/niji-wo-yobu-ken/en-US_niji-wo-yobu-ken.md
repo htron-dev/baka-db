@@ -1,5 +1,7 @@
 # Niji wo Yobu Ken
 
+![niji-wo-yobu-ken](https://cdn.myanimelist.net/images/manga/1/234798.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 虹をよぶ拳

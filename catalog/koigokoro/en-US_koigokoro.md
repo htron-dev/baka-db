@@ -1,5 +1,7 @@
 # Koigokoro
 
+![koigokoro](https://cdn.myanimelist.net/images/manga/1/129905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Fake
 
+![fake](https://cdn.myanimelist.net/images/manga/3/161939.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 20

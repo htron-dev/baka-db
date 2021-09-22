@@ -1,5 +1,7 @@
 # Momokuri
 
+![momokuri](https://cdn.myanimelist.net/images/anime/8/76056.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: ももくり

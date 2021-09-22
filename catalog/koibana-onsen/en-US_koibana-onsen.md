@@ -1,5 +1,7 @@
 # Koibana Onsen
 
+![koibana-onsen](https://cdn.myanimelist.net/images/manga/1/51425.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 72

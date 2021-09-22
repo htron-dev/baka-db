@@ -1,5 +1,7 @@
 # Cake Sushi
 
+![cake-sushi](https://cdn.myanimelist.net/images/anime/2/86118.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ケーキすし

@@ -1,5 +1,7 @@
 # Seitokai no Ichizon
 
+![seitokai-no-ichizon](https://cdn.myanimelist.net/images/manga/3/149328.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 101

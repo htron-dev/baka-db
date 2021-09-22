@@ -1,5 +1,7 @@
 # Jumbagi: Hanbandoui gongryong 3D
 
+![jumbagi-hanbandoui-gongryong-3-d](https://cdn.myanimelist.net/images/anime/9/86041.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 점박이: 한반도의 공룡 3D

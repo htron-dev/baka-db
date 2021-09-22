@@ -1,5 +1,7 @@
 # Hikikomori Yuusha no Tame ni Bishoujo Party ga Hitohadanugu you desu
 
+![hikikomori-yuusha-no-tame-ni-bishoujo-party-ga-hitohadanugu-you-desu](https://cdn.myanimelist.net/images/manga/1/168648.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Doukyuusei ni Koi wo Shita
 
+![doukyuusei-ni-koi-wo-shita](https://cdn.myanimelist.net/images/manga/3/208603.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 30

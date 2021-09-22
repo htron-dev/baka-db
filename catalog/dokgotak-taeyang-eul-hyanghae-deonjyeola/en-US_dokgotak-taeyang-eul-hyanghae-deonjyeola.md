@@ -1,5 +1,7 @@
 # Dokgotak: Taeyang-eul Hyanghae Deonjyeola
 
+![dokgotak-taeyang-eul-hyanghae-deonjyeola](https://cdn.myanimelist.net/images/anime/6/44676.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 독고탁 태양을 향해 던져라

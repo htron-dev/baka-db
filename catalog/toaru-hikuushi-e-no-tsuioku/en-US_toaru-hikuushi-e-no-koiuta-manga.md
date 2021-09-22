@@ -1,5 +1,7 @@
 # Toaru Hikuushi e no Koiuta
 
+![toaru-hikuushi-e-no-koiuta](https://cdn.myanimelist.net/images/manga/3/149986.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

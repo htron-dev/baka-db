@@ -1,5 +1,7 @@
 # Slayers VS Orphen
 
+![slayers-vs-orphen](https://cdn.myanimelist.net/images/manga/2/33363.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: スレイヤーズ VS オーフェン

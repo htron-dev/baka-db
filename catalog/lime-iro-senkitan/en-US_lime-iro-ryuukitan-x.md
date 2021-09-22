@@ -1,5 +1,7 @@
 # Lime-iro Ryuukitan X
 
+![lime-iro-ryuukitan-x](https://cdn.myanimelist.net/images/anime/6/75504.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: らいむいろ流奇譚 X CROSS ～恋, 教ヘテクダサイ.～

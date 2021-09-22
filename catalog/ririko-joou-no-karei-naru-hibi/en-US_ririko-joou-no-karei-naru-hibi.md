@@ -1,5 +1,7 @@
 # Ririko Joou no Karei naru Hibi
 
+![ririko-joou-no-karei-naru-hibi](https://cdn.myanimelist.net/images/manga/2/203565.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 瑠璃子女王の華麗なる日々

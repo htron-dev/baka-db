@@ -1,5 +1,7 @@
 # Second Honey
 
+![second-honey](https://cdn.myanimelist.net/images/manga/2/30404.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Maken-Ki! Specials
 
+![maken-ki-specials](https://cdn.myanimelist.net/images/anime/9/80502.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: マケン姫っ！ ドキドキッ！マケン姫っ！秘密の訓練

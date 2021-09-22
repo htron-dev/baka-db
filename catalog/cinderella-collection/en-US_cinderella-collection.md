@@ -1,5 +1,7 @@
 # Cinderella Collection
 
+![cinderella-collection](https://cdn.myanimelist.net/images/manga/2/39994.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: シンデレラコレクション

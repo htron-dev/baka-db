@@ -1,5 +1,7 @@
 # Happy Pretty
 
+![happy-pretty](https://cdn.myanimelist.net/images/manga/1/20595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Koi no Jikan
 
+![koi-no-jikan](https://cdn.myanimelist.net/images/manga/1/143217.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

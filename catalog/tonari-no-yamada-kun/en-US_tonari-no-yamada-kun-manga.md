@@ -1,5 +1,7 @@
 # Tonari no Yamada-kun
 
+![tonari-no-yamada-kun](https://cdn.myanimelist.net/images/manga/2/97281.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: となりのやまだ君

@@ -1,5 +1,7 @@
 # Yami no Koe
 
+![yami-no-koe](https://cdn.myanimelist.net/images/manga/2/234264.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

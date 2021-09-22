@@ -1,5 +1,7 @@
 # Okawari Hanzou
 
+![okawari-hanzou](https://cdn.myanimelist.net/images/manga/3/67165.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: おかわり飯蔵

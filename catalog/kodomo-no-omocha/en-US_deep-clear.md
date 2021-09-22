@@ -1,5 +1,7 @@
 # Deep Clear
 
+![deep-clear](https://cdn.myanimelist.net/images/manga/3/58043.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

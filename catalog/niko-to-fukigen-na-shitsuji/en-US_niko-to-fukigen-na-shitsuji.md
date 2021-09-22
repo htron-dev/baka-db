@@ -1,5 +1,7 @@
 # Niko to Fukigen na Shitsuji
 
+![niko-to-fukigen-na-shitsuji](https://cdn.myanimelist.net/images/manga/2/180886.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

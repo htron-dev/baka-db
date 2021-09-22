@@ -1,5 +1,7 @@
 # Nijigen Jumpin'
 
+![nijigen-jumpin](https://cdn.myanimelist.net/images/manga/2/154675.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

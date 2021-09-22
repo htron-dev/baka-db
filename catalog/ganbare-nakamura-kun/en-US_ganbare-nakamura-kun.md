@@ -1,5 +1,7 @@
 # Ganbare! Nakamura-kun!!
 
+![ganbare-nakamura-kun](https://cdn.myanimelist.net/images/manga/2/196622.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

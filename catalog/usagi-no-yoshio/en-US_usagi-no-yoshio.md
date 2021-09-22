@@ -1,5 +1,7 @@
 # Usagi no Yoshio
 
+![usagi-no-yoshio](https://cdn.myanimelist.net/images/manga/1/202830.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

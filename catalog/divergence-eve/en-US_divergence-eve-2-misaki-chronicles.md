@@ -1,5 +1,7 @@
 # Divergence Eve 2: Misaki Chronicles
 
+![divergence-eve-2-misaki-chronicles](https://cdn.myanimelist.net/images/anime/11/20200.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: みさきクロニクル 〜ダイバージェンス・イヴ〜

@@ -1,5 +1,7 @@
 # Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu (TV)
 
+![tomica-hyper-rescue-drive-head-kidou-kyuukyuu-keisatsu-tv](https://cdn.myanimelist.net/images/anime/1385/95682.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: トミカハイパーレスキュー ドライブヘッド 機動救急警察

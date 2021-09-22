@@ -1,5 +1,7 @@
 # Yugami-kun ni wa Tomodachi ga Inai
 
+![yugami-kun-ni-wa-tomodachi-ga-inai](https://cdn.myanimelist.net/images/anime/10/57345.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 湯神くんには友達がいない

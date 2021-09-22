@@ -1,5 +1,7 @@
 # Flicker Love No.1
 
+![flicker-love-no-1](https://cdn.myanimelist.net/images/anime/1623/108712.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: FLICKER LOVE NO.1

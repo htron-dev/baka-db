@@ -1,5 +1,7 @@
 # Gift: Eternal Rainbow
 
+![gift-eternal-rainbow](https://cdn.myanimelist.net/images/anime/2/75540.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ギフト～ eternal rainbow

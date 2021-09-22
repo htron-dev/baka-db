@@ -1,5 +1,7 @@
 # Seraphim: 2-oku 6661-man 3336 no Tsubasa
 
+![seraphim-2-oku-6661-man-3336-no-tsubasa](https://cdn.myanimelist.net/images/manga/5/157830.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Yankee JK no Ijou na Aijou
 
+![yankee-jk-no-ijou-na-aijou](https://cdn.myanimelist.net/images/manga/2/225510.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 40

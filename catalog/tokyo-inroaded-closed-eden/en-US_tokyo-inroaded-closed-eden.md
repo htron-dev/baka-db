@@ -1,5 +1,7 @@
 # Tokyo Inroaded: Closed Eden
 
+![tokyo-inroaded-closed-eden](https://cdn.myanimelist.net/images/manga/3/153642.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 東京侵域：クローズドエデン
 -   **start-date**: 2015-03-31

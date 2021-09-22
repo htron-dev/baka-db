@@ -1,5 +1,7 @@
 # Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me
 
+![danna-ga-nani-wo-itteiru-ka-wakaranai-ken-2-sure-me](https://cdn.myanimelist.net/images/anime/9/73595.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 旦那が何を言っているかわからない件 2 スレ目

@@ -1,5 +1,7 @@
 # Mushishi: Hihamukage
 
+![mushishi-hihamukage](https://cdn.myanimelist.net/images/anime/10/59315.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 蟲師 特別篇「日蝕む翳」

@@ -1,5 +1,7 @@
 # Sono Mae ni!? Series
 
+![sono-mae-ni-series](https://cdn.myanimelist.net/images/manga/1/164096.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: その前に!?シリーズ

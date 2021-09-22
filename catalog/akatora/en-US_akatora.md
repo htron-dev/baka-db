@@ -1,5 +1,7 @@
 # Akatora
 
+![akatora](https://cdn.myanimelist.net/images/manga/2/216647.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

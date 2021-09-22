@@ -1,5 +1,7 @@
 # Tabemono Kemono
 
+![tabemono-kemono](https://cdn.myanimelist.net/images/manga/2/174581.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

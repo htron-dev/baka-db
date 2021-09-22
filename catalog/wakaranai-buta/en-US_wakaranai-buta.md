@@ -1,5 +1,7 @@
 # Wakaranai Buta
 
+![wakaranai-buta](https://cdn.myanimelist.net/images/anime/13/27618.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: わからないブタ

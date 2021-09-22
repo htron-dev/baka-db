@@ -1,5 +1,7 @@
 # One Love
 
+![one-love](https://cdn.myanimelist.net/images/manga/2/36836.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **start-date**: 2006-07-29
@@ -13,8 +15,6 @@
 
 -   Yuuki
 -   Ryo (Story)
-
-## Sinopse
 
 ## Links
 

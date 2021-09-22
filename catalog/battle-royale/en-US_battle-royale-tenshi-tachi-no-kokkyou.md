@@ -1,5 +1,7 @@
 # Battle Royale: Tenshi-tachi no Kokkyou
 
+![battle-royale-tenshi-tachi-no-kokkyou](https://cdn.myanimelist.net/images/manga/2/106899.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Aoi (Ooruu)
 
+![aoi-ooruu](https://cdn.myanimelist.net/images/manga/2/42599.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 青―オールー

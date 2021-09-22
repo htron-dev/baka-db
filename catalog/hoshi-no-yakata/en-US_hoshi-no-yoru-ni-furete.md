@@ -1,5 +1,7 @@
 # Hoshi no Yoru ni Furete
 
+![hoshi-no-yoru-ni-furete](https://cdn.myanimelist.net/images/manga/4/28664.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

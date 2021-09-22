@@ -1,5 +1,7 @@
 # Gotou-san wa Ore wo Kaitai
 
+![gotou-san-wa-ore-wo-kaitai](https://cdn.myanimelist.net/images/manga/2/244890.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

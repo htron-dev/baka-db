@@ -1,5 +1,7 @@
 # TV Bakari Miteru to Baka ni Naru
 
+![tv-bakari-miteru-to-baka-ni-naru](https://cdn.myanimelist.net/images/manga/2/226158.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

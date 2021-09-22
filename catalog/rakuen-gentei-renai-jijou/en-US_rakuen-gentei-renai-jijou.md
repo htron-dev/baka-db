@@ -1,5 +1,7 @@
 # Rakuen Gentei Renai Jijou
 
+![rakuen-gentei-renai-jijou](https://cdn.myanimelist.net/images/manga/1/19084.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 楽園限定恋愛事情

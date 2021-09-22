@@ -1,5 +1,7 @@
 # The Peak
 
+![the-peak](https://cdn.myanimelist.net/images/anime/1909/103551.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: THE PEAK

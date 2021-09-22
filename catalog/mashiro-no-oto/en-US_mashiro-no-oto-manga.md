@@ -1,5 +1,7 @@
 # Mashiro no Oto
 
+![mashiro-no-oto](https://cdn.myanimelist.net/images/manga/3/37873.jpg)
+
 -   **type**: manga
 -   **original-name**: ましろのおと
 -   **start-date**: 2010-04-06

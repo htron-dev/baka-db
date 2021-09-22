@@ -1,5 +1,7 @@
 # Arthur Bright
 
+![arthur-bright](https://cdn.myanimelist.net/images/manga/2/203487.jpg)
+
 -   **type**: manga
 -   **original-name**: アーサーブライト
 -   **start-date**: 2017-05-25

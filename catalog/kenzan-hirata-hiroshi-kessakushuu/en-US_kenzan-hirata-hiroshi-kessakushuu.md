@@ -1,5 +1,7 @@
 # Kenzan: Hirata Hiroshi Kessakushuu
 
+![kenzan-hirata-hiroshi-kessakushuu](https://cdn.myanimelist.net/images/manga/3/233638.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Cheat na Kaineko no Okage de Rakuraku Level Up. Sarani Juujin ni Shite, Icha Love shimasu.
 
+![cheat-na-kaineko-no-okage-de-rakuraku-level-up-sarani-juujin-ni-shite-icha-love-shimasu](https://cdn.myanimelist.net/images/manga/3/185115.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

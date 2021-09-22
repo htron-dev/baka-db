@@ -1,5 +1,7 @@
 # Heukkkokdujanggun
 
+![heukkkokdujanggun](https://cdn.myanimelist.net/images/anime/1495/108164.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 흙꼭두장군

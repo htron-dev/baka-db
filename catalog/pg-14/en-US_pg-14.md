@@ -1,5 +1,7 @@
 # PG14
 
+![pg-14](https://cdn.myanimelist.net/images/manga/1/160925.jpg)
+
 -   **type**: light-novel
 -   **original-name**: PG14〈パラグラフ・フォーティーン〉
 -   **start-date**: 2014-07-05

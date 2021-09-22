@@ -1,5 +1,7 @@
 # Shoujo☆Kageki Revue Starlight Movie
 
+![shoujo☆-kageki-revue-starlight-movie](https://cdn.myanimelist.net/images/anime/1655/114440.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 少女 ☆ 歌劇 レヴュースタァライト

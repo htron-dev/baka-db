@@ -1,5 +1,7 @@
 # Hanayashiki no Juunin-tachi
 
+![hanayashiki-no-juunin-tachi](https://cdn.myanimelist.net/images/manga/2/138481.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

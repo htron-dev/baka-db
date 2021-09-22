@@ -1,5 +1,7 @@
 # Furachi na Kyouken no Tenazukekata
 
+![furachi-na-kyouken-no-tenazukekata](https://cdn.myanimelist.net/images/manga/1/63399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

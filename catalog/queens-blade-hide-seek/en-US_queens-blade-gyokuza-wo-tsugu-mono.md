@@ -1,5 +1,7 @@
 # Queen's Blade: Gyokuza wo Tsugu Mono
 
+![queens-blade-gyokuza-wo-tsugu-mono](https://cdn.myanimelist.net/images/anime/11/75171.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: クイーンズブレイド 玉座を継ぐ者

@@ -1,5 +1,7 @@
 # Arist Craisi
 
+![arist-craisi](https://cdn.myanimelist.net/images/manga/2/159872.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: アリストクライシ

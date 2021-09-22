@@ -1,5 +1,7 @@
 # Sasuga no Sarutobi
 
+![sasuga-no-sarutobi](https://cdn.myanimelist.net/images/manga/1/18574.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 46

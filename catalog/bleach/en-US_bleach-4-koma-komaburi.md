@@ -1,5 +1,7 @@
 # Bleach 4-koma: Komaburi
 
+![bleach-4-koma-komaburi](https://cdn.myanimelist.net/images/manga/2/85903.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

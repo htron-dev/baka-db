@@ -1,5 +1,7 @@
 # Uragiri no Marriage: Hanayome wa Osananajimi ni Sarawareru
 
+![uragiri-no-marriage-hanayome-wa-osananajimi-ni-sarawareru](https://cdn.myanimelist.net/images/manga/2/195844.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

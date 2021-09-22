@@ -1,5 +1,7 @@
 # Fate/Zero Remix
 
+![fate-zero-remix](https://cdn.myanimelist.net/images/anime/6/37081.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: フェイト/ゼロ Remix

@@ -1,5 +1,7 @@
 # S.e.x &amp; Love
 
+![s-e-x-amp-love](https://cdn.myanimelist.net/images/manga/2/40145.jpg)
+
 -   **type**: manga
 
 ## Tags

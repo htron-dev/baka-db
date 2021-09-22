@@ -1,5 +1,7 @@
 # Jihad
 
+![jihad](https://cdn.myanimelist.net/images/manga/1/41556.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: Jihad (聖戦)

@@ -1,5 +1,7 @@
 # Toumei Ningen no Koi
 
+![toumei-ningen-no-koi](https://cdn.myanimelist.net/images/manga/1/107299.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

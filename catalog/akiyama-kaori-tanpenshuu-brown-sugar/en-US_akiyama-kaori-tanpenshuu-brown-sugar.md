@@ -1,5 +1,7 @@
 # Akiyama Kaori Tanpenshuu - Brown Sugar
 
+![akiyama-kaori-tanpenshuu-brown-sugar](https://cdn.myanimelist.net/images/manga/1/68141.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

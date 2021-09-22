@@ -1,5 +1,7 @@
 # Justice: Wyatt Earp Monogatari
 
+![justice-wyatt-earp-monogatari](https://cdn.myanimelist.net/images/manga/3/180678.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

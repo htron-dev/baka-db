@@ -1,5 +1,7 @@
 # Tsuzuki wa Asa made
 
+![tsuzuki-wa-asa-made](https://cdn.myanimelist.net/images/manga/2/207176.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

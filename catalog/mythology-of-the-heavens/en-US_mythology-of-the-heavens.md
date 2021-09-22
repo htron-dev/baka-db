@@ -1,5 +1,7 @@
 # Mythology of the Heavens
 
+![mythology-of-the-heavens](https://cdn.myanimelist.net/images/manga/3/69953.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **original-name**: 천국의 신화

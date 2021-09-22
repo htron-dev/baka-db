@@ -1,5 +1,7 @@
 # Sengoku Basara 3: Roar of Dragon
 
+![sengoku-basara-3-roar-of-dragon](https://cdn.myanimelist.net/images/manga/3/193160.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

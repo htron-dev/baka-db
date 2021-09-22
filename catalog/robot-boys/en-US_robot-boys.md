@@ -1,5 +1,7 @@
 # Robot Boys
 
+![robot-boys](https://cdn.myanimelist.net/images/manga/1/220558.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

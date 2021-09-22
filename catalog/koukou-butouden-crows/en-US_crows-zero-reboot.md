@@ -1,5 +1,7 @@
 # Crows Zero Reboot
 
+![crows-zero-reboot](https://cdn.myanimelist.net/images/manga/2/233909.jpg)
+
 -   **type**: manga
 -   **original-name**: クローズ ZERO リブート
 -   **start-date**: 2018-08-04

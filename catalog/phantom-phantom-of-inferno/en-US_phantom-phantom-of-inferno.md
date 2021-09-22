@@ -1,5 +1,7 @@
 # Phantom: Phantom of Inferno
 
+![phantom-phantom-of-inferno](https://cdn.myanimelist.net/images/manga/3/158922.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 20

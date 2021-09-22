@@ -1,5 +1,7 @@
 # Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara
 
+![kyuukyoku-shinka-shita-full-dive-rpg-ga-genjitsu-yori-mo-kusoge-dattara](https://cdn.myanimelist.net/images/manga/3/249734.jpg)
+
 -   **type**: manga
 -   **original-name**: 究極進化したフルダイブ RPG が現実よりもクソゲーだったら
 -   **start-date**: 2021-01-27

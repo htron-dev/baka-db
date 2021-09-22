@@ -1,5 +1,7 @@
 # Rokudou Juku
 
+![rokudou-juku](https://cdn.myanimelist.net/images/anime/1349/91849.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 六道塾

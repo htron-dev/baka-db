@@ -1,5 +1,7 @@
 # The Siamese: First Mission
 
+![the-siamese-first-mission](https://cdn.myanimelist.net/images/anime/8/41795.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: シャム猫 / ファーストミッション

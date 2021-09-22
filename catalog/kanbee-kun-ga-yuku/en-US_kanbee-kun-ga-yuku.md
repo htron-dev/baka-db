@@ -1,5 +1,7 @@
 # Kanbee-kun ga Yuku
 
+![kanbee-kun-ga-yuku](https://cdn.myanimelist.net/images/anime/8/57663.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 官兵衛くんがゆく

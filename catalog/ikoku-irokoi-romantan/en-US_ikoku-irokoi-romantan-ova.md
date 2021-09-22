@@ -1,5 +1,7 @@
 # Ikoku Irokoi Romantan
 
+![ikoku-irokoi-romantan](https://cdn.myanimelist.net/images/anime/9/27506.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 異国色恋浪漫譚

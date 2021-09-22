@@ -1,5 +1,7 @@
 # Ookumo-chan Flashback
 
+![ookumo-chan-flashback](https://cdn.myanimelist.net/images/manga/1/202208.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

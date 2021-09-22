@@ -1,5 +1,7 @@
 # Kono Hito ni Kakero
 
+![kono-hito-ni-kakero](https://cdn.myanimelist.net/images/manga/2/212877.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 167

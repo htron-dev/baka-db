@@ -1,5 +1,7 @@
 # Kogan no Mouten
 
+![kogan-no-mouten](https://cdn.myanimelist.net/images/manga/4/71091.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

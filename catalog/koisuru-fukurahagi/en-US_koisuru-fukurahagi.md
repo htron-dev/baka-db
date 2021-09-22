@@ -1,5 +1,7 @@
 # Koisuru Fukurahagi
 
+![koisuru-fukurahagi](https://cdn.myanimelist.net/images/manga/3/226819.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

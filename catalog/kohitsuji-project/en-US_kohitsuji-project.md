@@ -1,5 +1,7 @@
 # Kohitsuji Project
 
+![kohitsuji-project](https://cdn.myanimelist.net/images/manga/3/201123.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

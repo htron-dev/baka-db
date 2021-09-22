@@ -1,5 +1,7 @@
 # Montage
 
+![montage](https://cdn.myanimelist.net/images/manga/3/160210.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 193

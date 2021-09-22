@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Jan: Tsubamegaeshi-hen
 
+![higurashi-no-naku-koro-ni-jan-tsubamegaeshi-hen](https://cdn.myanimelist.net/images/manga/2/80009.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

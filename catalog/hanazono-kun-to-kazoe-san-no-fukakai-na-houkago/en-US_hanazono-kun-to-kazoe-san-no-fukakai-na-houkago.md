@@ -1,5 +1,7 @@
 # Hanazono-kun to Kazoe-san no Fukakai na Houkago
 
+![hanazono-kun-to-kazoe-san-no-fukakai-na-houkago](https://cdn.myanimelist.net/images/manga/3/226735.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

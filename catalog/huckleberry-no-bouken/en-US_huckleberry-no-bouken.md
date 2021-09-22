@@ -1,5 +1,7 @@
 # Huckleberry no Bouken
 
+![huckleberry-no-bouken](https://cdn.myanimelist.net/images/anime/13/3207.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ハックルベリィの冒険

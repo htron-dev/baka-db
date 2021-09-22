@@ -1,5 +1,7 @@
 # Crookclock
 
+![crookclock](https://cdn.myanimelist.net/images/manga/1/14641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

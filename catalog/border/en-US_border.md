@@ -1,5 +1,7 @@
 # Border
 
+![border](https://cdn.myanimelist.net/images/manga/2/150745.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

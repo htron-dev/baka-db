@@ -1,5 +1,7 @@
 # Yume-iro Cast
 
+![yume-iro-cast](https://cdn.myanimelist.net/images/manga/3/237582.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

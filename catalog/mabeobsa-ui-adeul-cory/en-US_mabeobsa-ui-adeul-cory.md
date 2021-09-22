@@ -1,5 +1,7 @@
 # Mabeobsa-ui Adeul Cory
 
+![mabeobsa-ui-adeul-cory](https://cdn.myanimelist.net/images/anime/2/72012.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 마법사의 아들 코리

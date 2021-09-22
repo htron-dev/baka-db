@@ -1,5 +1,7 @@
 # Slayers Excellent
 
+![slayers-excellent](https://cdn.myanimelist.net/images/anime/8/34993.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: スレイヤーズえくせれんと

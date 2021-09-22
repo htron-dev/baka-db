@@ -1,5 +1,7 @@
 # Kara no Kyoukai Remix: Gate of Seventh Heaven
 
+![kara-no-kyoukai-remix-gate-of-seventh-heaven](https://cdn.myanimelist.net/images/anime/11/15175.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 空の境界 Remix -Gate of seventh heaven-

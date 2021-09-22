@@ -1,5 +1,7 @@
 # Soul Link Picture Drama
 
+![soul-link-picture-drama](https://cdn.myanimelist.net/images/anime/8/28530.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: Soul Link

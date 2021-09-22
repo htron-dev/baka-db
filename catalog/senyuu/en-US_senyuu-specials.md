@@ -1,5 +1,7 @@
 # Senyuu. Specials
 
+![senyuu-specials](https://cdn.myanimelist.net/images/anime/2/51475.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 戦勇。

@@ -1,5 +1,7 @@
 # Online no Hitsuji-tachi
 
+![online-no-hitsuji-tachi](https://cdn.myanimelist.net/images/manga/3/231717.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

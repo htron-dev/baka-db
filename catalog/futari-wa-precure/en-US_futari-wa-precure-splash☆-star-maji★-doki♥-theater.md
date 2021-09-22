@@ -1,5 +1,7 @@
 # Futari wa Precure: Splash☆Star Maji★Doki♥ Theater
 
+![futari-wa-precure-splash☆-star-maji★-doki♥-theater](https://cdn.myanimelist.net/images/anime/4/67529.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ふたりはプリキュア Splash Star マジッ ★ ドキッ ♥ シアター

@@ -1,5 +1,7 @@
 # Shingeki no Bahamut: Twin Heads
 
+![shingeki-no-bahamut-twin-heads](https://cdn.myanimelist.net/images/manga/1/198433.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

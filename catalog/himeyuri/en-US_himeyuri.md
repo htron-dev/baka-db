@@ -1,5 +1,7 @@
 # Himeyuri
 
+![himeyuri](https://cdn.myanimelist.net/images/anime/5/54359.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ひめゆり

@@ -1,5 +1,7 @@
 # Saraware Reijou to Himitsu no Yubiwa
 
+![saraware-reijou-to-himitsu-no-yubiwa](https://cdn.myanimelist.net/images/manga/3/152787.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: さらわれ令嬢と秘密の指輪

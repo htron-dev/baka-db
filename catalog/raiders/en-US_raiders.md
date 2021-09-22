@@ -1,5 +1,7 @@
 # Raiders
 
+![raiders](https://cdn.myanimelist.net/images/manga/3/13722.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 36

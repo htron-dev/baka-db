@@ -1,5 +1,7 @@
 # Ookami Shounen wa Uso wo Tsukanai
 
+![ookami-shounen-wa-uso-wo-tsukanai](https://cdn.myanimelist.net/images/manga/3/247563.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

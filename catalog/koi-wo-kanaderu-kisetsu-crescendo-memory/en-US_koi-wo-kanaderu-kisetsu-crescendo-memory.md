@@ -1,5 +1,7 @@
 # Koi wo Kanaderu Kisetsu: Crescendo Memory
 
+![koi-wo-kanaderu-kisetsu-crescendo-memory](https://cdn.myanimelist.net/images/manga/1/167297.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

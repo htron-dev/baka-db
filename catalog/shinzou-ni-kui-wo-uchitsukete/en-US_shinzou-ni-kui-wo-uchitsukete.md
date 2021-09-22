@@ -1,5 +1,7 @@
 # Shinzou ni Kui wo Uchitsukete
 
+![shinzou-ni-kui-wo-uchitsukete](https://cdn.myanimelist.net/images/manga/2/201372.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

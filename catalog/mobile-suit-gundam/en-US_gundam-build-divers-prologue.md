@@ -1,5 +1,7 @@
 # Gundam Build Divers Prologue
 
+![gundam-build-divers-prologue](https://cdn.myanimelist.net/images/anime/1605/90391.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ガンダムビルドダイバーズ プロローグ

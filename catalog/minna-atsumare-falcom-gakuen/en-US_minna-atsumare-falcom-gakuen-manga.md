@@ -1,5 +1,7 @@
 # Minna Atsumare! Falcom Gakuen
 
+![minna-atsumare-falcom-gakuen](https://cdn.myanimelist.net/images/manga/1/100873.jpg)
+
 -   **type**: manga
 -   **original-name**: みんな集まれ！ファルコム学園
 -   **start-date**: 2010-01-27

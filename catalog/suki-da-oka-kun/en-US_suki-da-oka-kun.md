@@ -1,5 +1,7 @@
 # Suki da!! Oka-kun!!
 
+![suki-da-oka-kun](https://cdn.myanimelist.net/images/manga/3/245906.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

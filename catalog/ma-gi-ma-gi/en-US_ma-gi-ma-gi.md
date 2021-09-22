@@ -1,5 +1,7 @@
 # MAGiMAGi
 
+![ma-gi-ma-gi](https://cdn.myanimelist.net/images/manga/3/5858.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

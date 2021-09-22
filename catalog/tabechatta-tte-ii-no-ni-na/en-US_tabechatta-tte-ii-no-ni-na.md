@@ -1,5 +1,7 @@
 # Tabechatta tte Ii no ni na!
 
+![tabechatta-tte-ii-no-ni-na](https://cdn.myanimelist.net/images/anime/1350/90837.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: 食べちゃったっていいのにな!

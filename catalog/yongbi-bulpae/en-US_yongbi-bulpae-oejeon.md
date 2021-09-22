@@ -1,5 +1,7 @@
 # Yongbi Bulpae Oejeon
 
+![yongbi-bulpae-oejeon](https://cdn.myanimelist.net/images/manga/2/88309.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 용비불패 외전
 

@@ -1,5 +1,7 @@
 # Full Metal Panic! Invisible Victory
 
+![full-metal-panic-invisible-victory](https://cdn.myanimelist.net/images/anime/1033/92011.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: フルメタル・パニック！Invisible Victory

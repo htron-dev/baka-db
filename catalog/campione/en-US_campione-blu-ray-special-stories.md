@@ -1,5 +1,7 @@
 # Campione! Blu-Ray Special Stories
 
+![campione-blu-ray-special-stories](https://cdn.myanimelist.net/images/manga/2/90699.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 7
 -   **original-name**: カンピオーネ！

@@ -1,5 +1,7 @@
 # Toki wo Koeru Kage
 
+![toki-wo-koeru-kage](https://cdn.myanimelist.net/images/manga/3/216981.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

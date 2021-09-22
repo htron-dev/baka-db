@@ -1,5 +1,7 @@
 # Tsukikage Baby
 
+![tsukikage-baby](https://cdn.myanimelist.net/images/manga/2/166775.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 45

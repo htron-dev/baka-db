@@ -1,5 +1,7 @@
 # Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki
 
+![ninja-hattori-kun-nin-nin-ninpo-enikki-no-maki](https://cdn.myanimelist.net/images/anime/6/56699.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 忍者ハットリくん ニンニン忍法絵日記の巻

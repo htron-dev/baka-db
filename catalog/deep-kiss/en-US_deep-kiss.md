@@ -1,5 +1,7 @@
 # Deep Kiss
 
+![deep-kiss](https://cdn.myanimelist.net/images/manga/1/12091.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

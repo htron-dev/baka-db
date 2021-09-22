@@ -1,5 +1,7 @@
 # Keshikasu-kun
 
+![keshikasu-kun](https://cdn.myanimelist.net/images/anime/11/21327.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ケシカスくん

@@ -1,5 +1,7 @@
 # Idol Ace
 
+![idol-ace](https://cdn.myanimelist.net/images/anime/6/18140.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: アイドル A

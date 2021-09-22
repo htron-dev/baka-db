@@ -1,5 +1,7 @@
 # Seupideuwang Beongae
 
+![seupideuwang-beongae](https://cdn.myanimelist.net/images/anime/13/26097.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 스피드왕 번개

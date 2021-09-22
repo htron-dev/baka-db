@@ -1,5 +1,7 @@
 # Sanbun no Ichi
 
+![sanbun-no-ichi](https://cdn.myanimelist.net/images/manga/2/204429.jpg)
+
 -   **type**: manga
 -   **original-name**: ⅓ さんぶんのいち
 -   **start-date**: 2017-01-13

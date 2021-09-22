@@ -1,5 +1,7 @@
 # BlazBlue
 
+![blaz-blue](https://cdn.myanimelist.net/images/manga/1/113589.jpg)
+
 -   **type**: light-novel
 -   **original-name**: BLAZBLUE －ブレイブルー－
 -   **start-date**: 2013-01-20

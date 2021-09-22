@@ -1,5 +1,7 @@
 # Happyakuya
 
+![happyakuya](https://cdn.myanimelist.net/images/manga/1/246332.jpg)
+
 -   **type**: manga
 -   **original-name**: 八百夜
 -   **start-date**: 2017-12-28

@@ -1,5 +1,7 @@
 # Tokimeki Midnight
 
+![tokimeki-midnight](https://cdn.myanimelist.net/images/manga/3/14487.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: ときめきミッドナイト

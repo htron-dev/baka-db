@@ -1,5 +1,7 @@
 # Devidol!
 
+![devidol](https://cdn.myanimelist.net/images/anime/1094/93923.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: でびどる！

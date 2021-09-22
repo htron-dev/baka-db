@@ -1,5 +1,7 @@
 # Ebihara-san Chi wa Kyou mo Taihen! - The Second Part
 
+![ebihara-san-chi-wa-kyou-mo-taihen-the-second-part](https://cdn.myanimelist.net/images/manga/2/20770.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

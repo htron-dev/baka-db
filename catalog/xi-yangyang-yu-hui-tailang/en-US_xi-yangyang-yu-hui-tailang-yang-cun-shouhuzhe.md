@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Yang Cun Shouhuzhe
 
+![xi-yangyang-yu-hui-tailang-yang-cun-shouhuzhe](https://cdn.myanimelist.net/images/anime/1368/115288.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之羊村守護者

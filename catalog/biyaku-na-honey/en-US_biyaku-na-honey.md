@@ -1,5 +1,7 @@
 # Biyaku na Honey
 
+![biyaku-na-honey](https://cdn.myanimelist.net/images/manga/1/40536.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

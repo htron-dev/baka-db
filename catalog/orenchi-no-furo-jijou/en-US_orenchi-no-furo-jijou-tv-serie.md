@@ -1,5 +1,7 @@
 # Orenchi no Furo Jijou
 
+![orenchi-no-furo-jijou](https://cdn.myanimelist.net/images/anime/12/67085.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: オレん家のフロ事情

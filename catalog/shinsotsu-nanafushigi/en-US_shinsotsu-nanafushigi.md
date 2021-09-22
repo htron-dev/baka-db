@@ -1,5 +1,7 @@
 # Shinsotsu Nanafushigi
 
+![shinsotsu-nanafushigi](https://cdn.myanimelist.net/images/manga/2/178357.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 56

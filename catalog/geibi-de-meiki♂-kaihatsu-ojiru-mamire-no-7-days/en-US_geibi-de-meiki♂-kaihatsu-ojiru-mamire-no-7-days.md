@@ -1,5 +1,7 @@
 # Geibi de Meiki♂Kaihatsu: Ojiru-mamire no 7 Days
 
+![geibi-de-meiki♂-kaihatsu-ojiru-mamire-no-7-days](https://cdn.myanimelist.net/images/manga/2/148085.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ゲイビで名器 ♂ 開発～雄汁まみれの 7days ～

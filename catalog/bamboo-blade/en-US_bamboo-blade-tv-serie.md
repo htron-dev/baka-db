@@ -1,5 +1,7 @@
 # Bamboo Blade
 
+![bamboo-blade](https://cdn.myanimelist.net/images/anime/1790/114537.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: バンブーブレード

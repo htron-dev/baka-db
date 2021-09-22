@@ -1,5 +1,7 @@
 # Derenai Neko no Aishikata
 
+![derenai-neko-no-aishikata](https://cdn.myanimelist.net/images/manga/2/167562.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: デレない猫の愛しかた

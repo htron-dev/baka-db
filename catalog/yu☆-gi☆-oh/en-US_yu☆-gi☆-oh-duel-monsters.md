@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! Duel Monsters
 
+![yu☆-gi☆-oh-duel-monsters](https://cdn.myanimelist.net/images/anime/3/77055.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 224
 -   **original-name**: 遊 ☆ 戯 ☆ 王　デュエルモンスターズ

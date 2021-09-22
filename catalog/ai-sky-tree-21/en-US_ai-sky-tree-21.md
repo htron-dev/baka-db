@@ -1,5 +1,7 @@
 # Ai Sky Tree 21
 
+![ai-sky-tree-21](https://cdn.myanimelist.net/images/anime/7/77498.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 愛・スカイツリー 21

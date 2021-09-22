@@ -1,5 +1,7 @@
 # Dokyou Shichau zo!
 
+![dokyou-shichau-zo](https://cdn.myanimelist.net/images/manga/2/150981.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

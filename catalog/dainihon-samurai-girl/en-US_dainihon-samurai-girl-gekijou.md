@@ -1,5 +1,7 @@
 # Dainihon Samurai Girl Gekijou
 
+![dainihon-samurai-girl-gekijou](https://cdn.myanimelist.net/images/manga/1/116495.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 29

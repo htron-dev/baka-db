@@ -1,5 +1,7 @@
 # Entaku no Himeshi!
 
+![entaku-no-himeshi](https://cdn.myanimelist.net/images/manga/4/29072.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 円卓の姫士！

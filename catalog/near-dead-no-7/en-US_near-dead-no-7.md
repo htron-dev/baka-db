@@ -1,5 +1,7 @@
 # Near Dead No.7
 
+![near-dead-no-7](https://cdn.myanimelist.net/images/manga/3/195832.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ニアデッドＮ o.7
 -   **start-date**: 2017-04-08

@@ -1,5 +1,7 @@
 # Wu Shang Shen Di 2nd Season
 
+![wu-shang-shen-di-2nd-season](https://cdn.myanimelist.net/images/anime/1558/114920.jpg)
+
 -   **type**: ona
 -   **episodes**: 64
 -   **original-name**: 无上神帝

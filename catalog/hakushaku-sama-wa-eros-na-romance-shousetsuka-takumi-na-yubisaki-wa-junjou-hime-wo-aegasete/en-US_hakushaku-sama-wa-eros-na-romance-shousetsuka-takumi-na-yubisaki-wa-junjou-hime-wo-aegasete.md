@@ -1,5 +1,7 @@
 # Hakushaku-sama wa Eros na Romance Shousetsuka: Takumi na Yubisaki wa Junjou-hime wo Aegasete
 
+![hakushaku-sama-wa-eros-na-romance-shousetsuka-takumi-na-yubisaki-wa-junjou-hime-wo-aegasete](https://cdn.myanimelist.net/images/manga/1/182916.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

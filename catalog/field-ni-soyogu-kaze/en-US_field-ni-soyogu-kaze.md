@@ -1,5 +1,7 @@
 # Field ni Soyogu Kaze
 
+![field-ni-soyogu-kaze](https://cdn.myanimelist.net/images/anime/1628/112475.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: フィールドにそよぐ風

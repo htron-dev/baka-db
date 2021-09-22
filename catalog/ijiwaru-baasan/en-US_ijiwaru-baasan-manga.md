@@ -1,5 +1,7 @@
 # Ijiwaru Baasan
 
+![ijiwaru-baasan](https://cdn.myanimelist.net/images/manga/3/69811.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: いじわるばあさん

@@ -1,5 +1,7 @@
 # Tedama ni Toritai Kurokiya-san
 
+![tedama-ni-toritai-kurokiya-san](https://cdn.myanimelist.net/images/manga/3/236873.jpg)
+
 -   **type**: manga
 -   **original-name**: 手玉に取りたい黒木屋さん
 -   **start-date**: 2019-11-20

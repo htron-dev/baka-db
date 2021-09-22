@@ -1,5 +1,7 @@
 # Sakura Rhythm
 
+![sakura-rhythm](https://cdn.myanimelist.net/images/manga/2/1922.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

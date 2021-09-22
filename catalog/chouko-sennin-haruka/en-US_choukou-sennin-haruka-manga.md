@@ -1,5 +1,7 @@
 # Choukou Sennin Haruka
 
+![choukou-sennin-haruka](https://cdn.myanimelist.net/images/manga/2/216335.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 超昂閃忍ハルカ

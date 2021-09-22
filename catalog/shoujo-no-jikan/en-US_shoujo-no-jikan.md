@@ -1,5 +1,7 @@
 # Shoujo no Jikan
 
+![shoujo-no-jikan](https://cdn.myanimelist.net/images/manga/1/39535.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

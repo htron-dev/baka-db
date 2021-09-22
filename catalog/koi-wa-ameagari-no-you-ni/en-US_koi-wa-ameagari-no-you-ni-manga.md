@@ -1,5 +1,7 @@
 # Koi wa Ameagari no You ni
 
+![koi-wa-ameagari-no-you-ni](https://cdn.myanimelist.net/images/manga/1/154544.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 82

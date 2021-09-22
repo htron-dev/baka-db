@@ -1,5 +1,7 @@
 # Carino Coni
 
+![carino-coni](https://cdn.myanimelist.net/images/anime/8/61725.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: カリーノ・コニ

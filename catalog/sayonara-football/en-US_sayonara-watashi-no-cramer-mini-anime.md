@@ -1,5 +1,7 @@
 # Sayonara Watashi no Cramer Mini Anime
 
+![sayonara-watashi-no-cramer-mini-anime](https://cdn.myanimelist.net/images/anime/1467/113877.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: さよなら私のクラマー ミニアニメ

@@ -1,5 +1,7 @@
 # Akujo no Kamen
 
+![akujo-no-kamen](https://cdn.myanimelist.net/images/manga/1/232068.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 悪女の仮面

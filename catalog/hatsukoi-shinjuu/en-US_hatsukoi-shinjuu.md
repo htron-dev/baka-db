@@ -1,5 +1,7 @@
 # Hatsukoi Shinjuu
 
+![hatsukoi-shinjuu](https://cdn.myanimelist.net/images/manga/1/128601.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 38

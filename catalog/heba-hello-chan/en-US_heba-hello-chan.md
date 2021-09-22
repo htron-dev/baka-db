@@ -1,5 +1,7 @@
 # Heba! Hello-chan!
 
+![heba-hello-chan](https://cdn.myanimelist.net/images/manga/3/4026.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

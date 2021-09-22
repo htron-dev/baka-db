@@ -1,5 +1,7 @@
 # Suisei no Gargantia
 
+![suisei-no-gargantia](https://cdn.myanimelist.net/images/anime/11/48817.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 翠星のガルガンティア

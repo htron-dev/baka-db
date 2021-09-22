@@ -1,5 +1,7 @@
 # The Hard
 
+![the-hard](https://cdn.myanimelist.net/images/manga/2/230717.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 90

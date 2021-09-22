@@ -1,5 +1,7 @@
 # Cakes
 
+![cakes](https://cdn.myanimelist.net/images/anime/11/81523.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Cakes

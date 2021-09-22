@@ -1,5 +1,7 @@
 # Kirei na Oniisan wa Suki desu ka?
 
+![kirei-na-oniisan-wa-suki-desu-ka](https://cdn.myanimelist.net/images/manga/1/246725.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

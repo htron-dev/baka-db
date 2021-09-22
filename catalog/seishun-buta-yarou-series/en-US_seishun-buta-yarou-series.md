@@ -1,5 +1,7 @@
 # Seishun Buta Yarou Series
 
+![seishun-buta-yarou-series](https://cdn.myanimelist.net/images/manga/2/177502.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 青春ブタ野郎シリーズ
 -   **start-date**: 2014-04-10

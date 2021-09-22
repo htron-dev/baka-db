@@ -1,5 +1,7 @@
 # Akuyaku Reijou no Shitsuji-sama: Hametsu Flag wa Ore ga Tsubusasete Itadakimasu
 
+![akuyaku-reijou-no-shitsuji-sama-hametsu-flag-wa-ore-ga-tsubusasete-itadakimasu](https://cdn.myanimelist.net/images/manga/3/237204.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 悪役令嬢の執事様 破滅フラグは俺が潰させていただきます
 -   **start-date**: 2020-04-03

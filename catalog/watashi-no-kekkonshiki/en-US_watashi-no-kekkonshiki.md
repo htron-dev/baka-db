@@ -1,5 +1,7 @@
 # Watashi no Kekkonshiki!
 
+![watashi-no-kekkonshiki](https://cdn.myanimelist.net/images/manga/1/66807.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 私の結婚式!

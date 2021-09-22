@@ -1,5 +1,7 @@
 # Taiho Shichau zo The Movie
 
+![taiho-shichau-zo-the-movie](https://cdn.myanimelist.net/images/anime/1921/92313.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 逮捕しちゃうぞ　 the MOVIE

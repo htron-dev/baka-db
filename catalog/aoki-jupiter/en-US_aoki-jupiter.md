@@ -1,5 +1,7 @@
 # Aoki Jupiter
 
+![aoki-jupiter](https://cdn.myanimelist.net/images/manga/3/114083.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

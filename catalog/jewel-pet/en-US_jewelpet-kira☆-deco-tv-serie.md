@@ -1,5 +1,7 @@
 # Jewelpet Kira☆Deco!
 
+![jewelpet-kira☆-deco](https://cdn.myanimelist.net/images/anime/1750/103979.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ジュエルペットきら ☆ デコッ!

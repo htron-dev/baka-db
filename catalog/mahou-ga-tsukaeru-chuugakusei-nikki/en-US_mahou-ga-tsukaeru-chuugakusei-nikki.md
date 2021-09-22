@@ -1,5 +1,7 @@
 # Mahou ga Tsukaeru Chuugakusei Nikki
 
+![mahou-ga-tsukaeru-chuugakusei-nikki](https://cdn.myanimelist.net/images/manga/1/204959.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Mienai Kimi e no Okurimono
 
+![mienai-kimi-e-no-okurimono](https://cdn.myanimelist.net/images/manga/2/10311.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

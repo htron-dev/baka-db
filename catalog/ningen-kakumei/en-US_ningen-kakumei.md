@@ -1,9 +1,10 @@
 # Ningen Kakumei
 
+![ningen-kakumei](https://cdn.myanimelist.net/images/anime/13/58465.jpg)
+
 -   **type**: ova
 -   **episodes**: 20
 -   **original-name**: 人間革命
-
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags

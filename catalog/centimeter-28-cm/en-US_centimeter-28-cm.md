@@ -1,5 +1,7 @@
 # Centimeter 28 cm
 
+![centimeter-28-cm](https://cdn.myanimelist.net/images/manga/2/167216.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: センチ・28cm

@@ -1,5 +1,7 @@
 # Zelda no Densetsu: Kamigami no Triforce (2005)
 
+![zelda-no-densetsu-kamigami-no-triforce-2005](https://cdn.myanimelist.net/images/manga/1/126023.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

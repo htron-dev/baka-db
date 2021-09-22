@@ -1,5 +1,7 @@
 # Youhei Butai: Ryoujoku no Senjou
 
+![youhei-butai-ryoujoku-no-senjou](https://cdn.myanimelist.net/images/manga/3/197008.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 傭兵部隊　凌辱の戦場

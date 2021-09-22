@@ -1,5 +1,7 @@
 # Hand Which
 
+![hand-which](https://cdn.myanimelist.net/images/manga/3/82192.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

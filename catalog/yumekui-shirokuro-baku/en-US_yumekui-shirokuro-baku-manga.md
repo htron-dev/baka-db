@@ -1,5 +1,7 @@
 # Yumekui Shirokuro Baku
 
+![yumekui-shirokuro-baku](https://cdn.myanimelist.net/images/manga/1/231063.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 夢喰い白黒バク

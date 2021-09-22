@@ -1,5 +1,7 @@
 # Daremo Shiranai Tou no Aru Machi
 
+![daremo-shiranai-tou-no-aru-machi](https://cdn.myanimelist.net/images/manga/3/195950.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

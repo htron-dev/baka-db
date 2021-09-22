@@ -1,5 +1,7 @@
 # Yatterman
 
+![yatterman](https://cdn.myanimelist.net/images/anime/9/44217.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: ヤッターマン

@@ -1,5 +1,7 @@
 # B'T X
 
+![bt-x](https://cdn.myanimelist.net/images/manga/3/205170.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 63

@@ -1,5 +1,7 @@
 # Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei
 
+![danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei](https://cdn.myanimelist.net/images/manga/3/149867.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ダンガンロンパ 希望の学園と絶望の高校生

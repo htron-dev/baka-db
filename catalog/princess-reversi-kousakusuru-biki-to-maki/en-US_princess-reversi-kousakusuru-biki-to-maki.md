@@ -1,5 +1,7 @@
 # Princess Reversi‼ Kousakusuru Biki to Maki
 
+![princess-reversi-kousakusuru-biki-to-maki](https://cdn.myanimelist.net/images/manga/1/168644.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

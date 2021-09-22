@@ -1,5 +1,7 @@
 # Mushi Mushi Mura no Nakama-tachi: Minna Ii Toko Arun Da yo
 
+![mushi-mushi-mura-no-nakama-tachi-minna-ii-toko-arun-da-yo](https://cdn.myanimelist.net/images/anime/3/87719.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: むしむし村の仲間たち　みんないいとこあるんだよ

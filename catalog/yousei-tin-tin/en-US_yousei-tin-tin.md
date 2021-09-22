@@ -1,5 +1,7 @@
 # Yousei Tin Tin
 
+![yousei-tin-tin](https://cdn.myanimelist.net/images/anime/1716/91280.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 妖精てぃんてぃん

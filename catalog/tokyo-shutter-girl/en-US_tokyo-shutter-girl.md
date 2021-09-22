@@ -1,5 +1,7 @@
 # Tokyo Shutter Girl
 
+![tokyo-shutter-girl](https://cdn.myanimelist.net/images/manga/2/191305.jpg)
+
 -   **type**: manga
 -   **original-name**: 東京シャッターガール
 -   **start-date**: 2010-07-20

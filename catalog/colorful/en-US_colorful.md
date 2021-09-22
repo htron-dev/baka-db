@@ -1,5 +1,7 @@
 # Colorful
 
+![colorful](https://cdn.myanimelist.net/images/manga/3/10838.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

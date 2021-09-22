@@ -1,5 +1,7 @@
 # Turn A Gundam I Movie: Earth Light
 
+![turn-a-gundam-i-movie-earth-light](https://cdn.myanimelist.net/images/anime/12/7121.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ∀ ガンダム I 地球光

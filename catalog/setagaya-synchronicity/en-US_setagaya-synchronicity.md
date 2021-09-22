@@ -1,5 +1,7 @@
 # Setagaya Synchronicity
 
+![setagaya-synchronicity](https://cdn.myanimelist.net/images/manga/2/228213.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

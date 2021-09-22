@@ -1,5 +1,7 @@
 # Mosaic no Sakana
 
+![mosaic-no-sakana](https://cdn.myanimelist.net/images/manga/1/10816.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: モザイクの魚

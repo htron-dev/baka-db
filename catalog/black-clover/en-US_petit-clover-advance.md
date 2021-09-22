@@ -1,5 +1,7 @@
 # Petit Clover Advance
 
+![petit-clover-advance](https://cdn.myanimelist.net/images/anime/1752/101126.jpg)
+
 -   **type**: special
 -   **original-name**: プチット・クローバー あどばんす
 -   **start-date**: 2018-02-23

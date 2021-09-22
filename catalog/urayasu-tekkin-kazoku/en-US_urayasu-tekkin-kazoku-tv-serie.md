@@ -1,5 +1,7 @@
 # Urayasu Tekkin Kazoku
 
+![urayasu-tekkin-kazoku](https://cdn.myanimelist.net/images/anime/5/3656.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 33
 -   **original-name**: 浦安鉄筋家族

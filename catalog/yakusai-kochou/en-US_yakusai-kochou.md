@@ -1,5 +1,7 @@
 # Yakusai Kochou
 
+![yakusai-kochou](https://cdn.myanimelist.net/images/anime/2/22356.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 厄災仔寵 [やくさいこちょう]

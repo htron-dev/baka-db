@@ -1,5 +1,7 @@
 # Aki
 
+![aki](https://cdn.myanimelist.net/images/manga/2/60243.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

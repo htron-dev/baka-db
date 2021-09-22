@@ -1,5 +1,7 @@
 # Gakkari Kankouchi to Noroi no Toami
 
+![gakkari-kankouchi-to-noroi-no-toami](https://cdn.myanimelist.net/images/manga/3/25934.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

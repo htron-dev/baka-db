@@ -1,5 +1,7 @@
 # Kuwadou
 
+![kuwadou](https://cdn.myanimelist.net/images/manga/2/78921.jpg)
+
 -   **type**: manga
 -   **original-name**: 鍬道
 -   **start-date**: 2001-12-27

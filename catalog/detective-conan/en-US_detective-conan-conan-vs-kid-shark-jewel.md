@@ -1,5 +1,7 @@
 # Detective Conan: Conan vs. Kid - Shark & Jewel
 
+![detective-conan-conan-vs-kid-shark-jewel](https://cdn.myanimelist.net/images/anime/13/27101.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン コナン vs キッド SHARK & JEWEL
@@ -10,7 +12,6 @@
 
 -   adventure
 -   comedy
-
 -   mystery
 -   police
 -   shounen

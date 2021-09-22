@@ -1,5 +1,7 @@
 # Wo Wei Ge Kuang
 
+![wo-wei-ge-kuang](https://cdn.myanimelist.net/images/anime/12/27546.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 我为歌狂

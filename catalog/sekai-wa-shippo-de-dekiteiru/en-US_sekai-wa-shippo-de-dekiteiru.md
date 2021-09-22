@@ -1,5 +1,7 @@
 # Sekai wa Shippo de Dekiteiru
 
+![sekai-wa-shippo-de-dekiteiru](https://cdn.myanimelist.net/images/manga/3/224279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

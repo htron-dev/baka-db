@@ -1,5 +1,7 @@
 # ★★★ no Specialite
 
+![★★★-no-specialite](https://cdn.myanimelist.net/images/manga/3/145485.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 57

@@ -1,5 +1,7 @@
 # Houkago Random Dungeon
 
+![houkago-random-dungeon](https://cdn.myanimelist.net/images/manga/2/125599.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 放課後ランダムダンジョン

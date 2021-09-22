@@ -1,5 +1,7 @@
 # Sugar Wall
 
+![sugar-wall](https://cdn.myanimelist.net/images/manga/1/117489.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 38

@@ -1,5 +1,7 @@
 # Watanuki-san Chi to
 
+![watanuki-san-chi-to](https://cdn.myanimelist.net/images/anime/1136/111640.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 四月一日さん家と

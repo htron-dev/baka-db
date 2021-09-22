@@ -1,5 +1,7 @@
 # Juuni Kishidan no Revenger
 
+![juuni-kishidan-no-revenger](https://cdn.myanimelist.net/images/manga/1/201760.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 十二騎士団の反逆軍師〈リヴェンジャー〉
 -   **start-date**: 2017-10-20

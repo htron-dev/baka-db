@@ -1,5 +1,7 @@
 # Eiyuu Kyoushitsu
 
+![eiyuu-kyoushitsu](https://cdn.myanimelist.net/images/manga/3/176352.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 英雄教室
 -   **start-date**: 2015-01-23

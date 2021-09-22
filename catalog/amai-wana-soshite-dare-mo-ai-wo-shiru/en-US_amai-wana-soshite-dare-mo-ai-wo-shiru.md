@@ -1,5 +1,7 @@
 # Amai Wana: Soshite Dare mo Ai wo Shiru
 
+![amai-wana-soshite-dare-mo-ai-wo-shiru](https://cdn.myanimelist.net/images/manga/2/77113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

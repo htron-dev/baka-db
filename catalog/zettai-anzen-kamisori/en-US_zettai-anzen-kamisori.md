@@ -1,5 +1,7 @@
 # Zettai Anzen Kamisori
 
+![zettai-anzen-kamisori](https://cdn.myanimelist.net/images/manga/2/171039.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

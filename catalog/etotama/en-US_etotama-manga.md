@@ -1,5 +1,7 @@
 # Etotama
 
+![etotama](https://cdn.myanimelist.net/images/manga/1/149277.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

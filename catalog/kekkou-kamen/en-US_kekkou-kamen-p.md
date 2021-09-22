@@ -1,5 +1,7 @@
 # Kekkou Kamen P
 
+![kekkou-kamen-p](https://cdn.myanimelist.net/images/manga/2/157127.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: けっこう仮面 P

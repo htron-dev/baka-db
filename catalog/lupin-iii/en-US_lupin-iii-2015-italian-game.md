@@ -1,5 +1,7 @@
 # Lupin III (2015): Italian Game
 
+![lupin-iii-2015-italian-game](https://cdn.myanimelist.net/images/anime/10/78054.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 イタリアン・ゲーム

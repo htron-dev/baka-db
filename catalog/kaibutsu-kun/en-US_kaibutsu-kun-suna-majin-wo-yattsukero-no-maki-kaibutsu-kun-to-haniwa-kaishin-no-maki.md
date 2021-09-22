@@ -1,5 +1,7 @@
 # Kaibutsu-kun: Suna Majin wo Yattsukero no Maki / Kaibutsu-kun to Haniwa Kaishin no Maki
 
+![kaibutsu-kun-suna-majin-wo-yattsukero-no-maki-kaibutsu-kun-to-haniwa-kaishin-no-maki](https://cdn.myanimelist.net/images/anime/2/79851.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 怪物くん 「砂魔人をやっつけろの巻／怪物くんとハニワ怪神の巻」

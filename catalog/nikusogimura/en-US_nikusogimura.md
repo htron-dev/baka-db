@@ -1,5 +1,7 @@
 # Nikusogimura
 
+![nikusogimura](https://cdn.myanimelist.net/images/manga/3/230340.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

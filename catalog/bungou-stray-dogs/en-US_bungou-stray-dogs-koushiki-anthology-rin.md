@@ -1,5 +1,7 @@
 # Bungou Stray Dogs Koushiki Anthology: Rin
 
+![bungou-stray-dogs-koushiki-anthology-rin](https://cdn.myanimelist.net/images/manga/1/235430.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

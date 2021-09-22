@@ -1,5 +1,7 @@
 # Hakoiri Devil Princess
 
+![hakoiri-devil-princess](https://cdn.myanimelist.net/images/manga/3/52591.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 41

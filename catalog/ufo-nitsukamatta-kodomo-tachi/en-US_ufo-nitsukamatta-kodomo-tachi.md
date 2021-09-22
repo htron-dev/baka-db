@@ -1,5 +1,7 @@
 # UFO Nitsukamatta Kodomo-tachi
 
+![ufo-nitsukamatta-kodomo-tachi](https://cdn.myanimelist.net/images/anime/10/51113.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: UFO につかまった子供たち

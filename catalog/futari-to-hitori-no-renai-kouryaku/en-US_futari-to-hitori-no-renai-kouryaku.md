@@ -1,5 +1,7 @@
 # Futari to Hitori no Renai Kouryaku
 
+![futari-to-hitori-no-renai-kouryaku](https://cdn.myanimelist.net/images/manga/2/226380.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Tian Yu
 
+![tian-yu](https://cdn.myanimelist.net/images/anime/1888/92934.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 天谕

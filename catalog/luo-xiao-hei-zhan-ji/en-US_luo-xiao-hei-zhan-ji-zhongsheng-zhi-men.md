@@ -1,5 +1,7 @@
 # Luo Xiao Hei Zhan Ji: Zhongsheng Zhi Men
 
+![luo-xiao-hei-zhan-ji-zhongsheng-zhi-men](https://cdn.myanimelist.net/images/anime/1909/114536.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 罗小黑战记 众生之门

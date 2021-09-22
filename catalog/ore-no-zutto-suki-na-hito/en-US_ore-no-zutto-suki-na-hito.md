@@ -1,5 +1,7 @@
 # Ore no Zutto Suki na Hito
 
+![ore-no-zutto-suki-na-hito](https://cdn.myanimelist.net/images/manga/3/6248.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

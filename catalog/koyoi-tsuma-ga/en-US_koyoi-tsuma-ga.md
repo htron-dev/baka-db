@@ -1,5 +1,7 @@
 # Koyoi, Tsuma ga.
 
+![koyoi-tsuma-ga](https://cdn.myanimelist.net/images/manga/2/226615.jpg)
+
 -   **type**: manga
 -   **original-name**: 今宵、妻が。
 -   **start-date**: 2015-04-10

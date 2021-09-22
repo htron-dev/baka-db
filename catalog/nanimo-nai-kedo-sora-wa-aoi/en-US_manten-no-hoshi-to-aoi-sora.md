@@ -1,5 +1,7 @@
 # Manten no Hoshi to Aoi Sora
 
+![manten-no-hoshi-to-aoi-sora](https://cdn.myanimelist.net/images/manga/2/219559.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

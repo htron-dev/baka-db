@@ -1,5 +1,7 @@
 # Hatsukoi Zombie
 
+![hatsukoi-zombie](https://cdn.myanimelist.net/images/manga/2/188797.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 167

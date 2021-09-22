@@ -1,5 +1,7 @@
 # Noise:Dragora
 
+![noise-dragora](https://cdn.myanimelist.net/images/manga/1/186000.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ノイズ：ドラゴラ
 -   **start-date**: 2016-10-08

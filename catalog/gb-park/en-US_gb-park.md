@@ -1,5 +1,7 @@
 # GB Park
 
+![gb-park](https://cdn.myanimelist.net/images/manga/2/60559.jpg)
+
 -   **type**: manga
 -   **chapters**: 25
 -   **original-name**: GB パーク

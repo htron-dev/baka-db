@@ -1,5 +1,7 @@
 # Utagawareta Tsuma
 
+![utagawareta-tsuma](https://cdn.myanimelist.net/images/manga/1/230090.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 疑われた妻

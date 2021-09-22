@@ -1,5 +1,7 @@
 # Yukikureinai no Miko
 
+![yukikureinai-no-miko](https://cdn.myanimelist.net/images/manga/2/18094.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 雪紅皇子

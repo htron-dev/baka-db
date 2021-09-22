@@ -1,5 +1,7 @@
 # Futaribocchi no Otaku Circle no Hime
 
+![futaribocchi-no-otaku-circle-no-hime](https://cdn.myanimelist.net/images/manga/2/240459.jpg)
+
 -   **type**: manga
 -   **original-name**: ふたりぼっちのオタサーの姫
 -   **start-date**: 2020-04-30

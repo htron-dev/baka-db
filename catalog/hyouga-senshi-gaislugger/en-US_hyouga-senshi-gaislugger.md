@@ -1,5 +1,7 @@
 # Hyouga Senshi Gaislugger
 
+![hyouga-senshi-gaislugger](https://cdn.myanimelist.net/images/anime/10/27078.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: 氷河戦士ガイスラッガー

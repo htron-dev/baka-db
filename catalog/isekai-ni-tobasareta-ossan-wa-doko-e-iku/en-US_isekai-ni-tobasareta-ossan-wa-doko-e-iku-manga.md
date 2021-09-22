@@ -1,5 +1,7 @@
 # Isekai ni Tobasareta Ossan wa Doko e Iku?
 
+![isekai-ni-tobasareta-ossan-wa-doko-e-iku](https://cdn.myanimelist.net/images/manga/2/210925.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界に飛ばされたおっさんは何処へ行く？
 -   **start-date**: 2017-12-14

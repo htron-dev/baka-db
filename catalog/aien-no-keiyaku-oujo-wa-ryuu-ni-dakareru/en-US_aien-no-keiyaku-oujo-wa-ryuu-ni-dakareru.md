@@ -1,5 +1,7 @@
 # Aien no Keiyaku: Oujo wa Ryuu ni Dakareru
 
+![aien-no-keiyaku-oujo-wa-ryuu-ni-dakareru](https://cdn.myanimelist.net/images/manga/3/192773.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

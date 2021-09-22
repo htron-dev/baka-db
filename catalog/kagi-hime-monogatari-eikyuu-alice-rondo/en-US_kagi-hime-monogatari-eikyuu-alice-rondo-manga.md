@@ -1,5 +1,7 @@
 # Kagi Hime Monogatari: Eikyuu Alice Rondo
 
+![kagi-hime-monogatari-eikyuu-alice-rondo](https://cdn.myanimelist.net/images/manga/2/108957.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # March Story
 
+![march-story](https://cdn.myanimelist.net/images/manga/1/18827.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

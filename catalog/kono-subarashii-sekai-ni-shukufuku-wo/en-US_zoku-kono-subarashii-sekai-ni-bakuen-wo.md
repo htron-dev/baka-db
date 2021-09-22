@@ -1,5 +1,7 @@
 # Zoku Kono Subarashii Sekai ni Bakuen wo!
 
+![zoku-kono-subarashii-sekai-ni-bakuen-wo](https://cdn.myanimelist.net/images/manga/2/217951.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

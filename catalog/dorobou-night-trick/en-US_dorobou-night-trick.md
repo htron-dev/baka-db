@@ -1,5 +1,7 @@
 # Dorobou Night Trick
 
+![dorobou-night-trick](https://cdn.myanimelist.net/images/manga/2/125701.jpg)
+
 -   **type**: manga
 -   **original-name**: ドロボウナイトトリック
 -   **start-date**: 2014-04-28

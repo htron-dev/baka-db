@@ -1,5 +1,7 @@
 # Boku no Koyuki
 
+![boku-no-koyuki](https://cdn.myanimelist.net/images/manga/1/174151.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

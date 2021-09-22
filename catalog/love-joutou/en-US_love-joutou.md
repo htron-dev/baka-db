@@ -1,5 +1,7 @@
 # Love Joutou!
 
+![love-joutou](https://cdn.myanimelist.net/images/manga/1/229082.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

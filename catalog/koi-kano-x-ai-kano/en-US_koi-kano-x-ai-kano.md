@@ -1,5 +1,7 @@
 # Koi Kano x Ai Kano
 
+![koi-kano-x-ai-kano](https://cdn.myanimelist.net/images/manga/2/112883.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

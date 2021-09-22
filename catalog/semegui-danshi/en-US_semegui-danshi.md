@@ -1,5 +1,7 @@
 # Semegui Danshi
 
+![semegui-danshi](https://cdn.myanimelist.net/images/manga/2/197065.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Uchuu no Hou: Reimei-hen
 
+![uchuu-no-hou-reimei-hen](https://cdn.myanimelist.net/images/anime/1446/93438.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宇宙の法-黎明編-

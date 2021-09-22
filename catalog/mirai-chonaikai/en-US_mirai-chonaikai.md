@@ -1,5 +1,7 @@
 # Mirai Chonaikai
 
+![mirai-chonaikai](https://cdn.myanimelist.net/images/manga/1/21913.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 未来町内会

@@ -1,5 +1,7 @@
 # Chuubyou Gekihatsu Boy
 
+![chuubyou-gekihatsu-boy](https://cdn.myanimelist.net/images/manga/1/234194.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 厨病激発ボーイ
 -   **start-date**: 2016-01-01

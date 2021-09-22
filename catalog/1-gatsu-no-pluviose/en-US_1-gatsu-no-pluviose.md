@@ -1,5 +1,7 @@
 # 1-gatsu no Pluviôse
 
+![1-gatsu-no-pluviose](https://cdn.myanimelist.net/images/manga/1/98269.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Lock On!
 
+![lock-on](https://cdn.myanimelist.net/images/manga/4/137235.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

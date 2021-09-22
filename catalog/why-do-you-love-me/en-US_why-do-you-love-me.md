@@ -1,5 +1,7 @@
 # Why Do You Love Me?
 
+![why-do-you-love-me](https://cdn.myanimelist.net/images/manga/1/77863.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 왜 날 좋아하는데?
 

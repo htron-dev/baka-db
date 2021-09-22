@@ -1,5 +1,7 @@
 # Heisei Tensai Bakabon
 
+![heisei-tensai-bakabon](https://cdn.myanimelist.net/images/anime/10/60843.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: 平成天才バカボン

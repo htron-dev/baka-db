@@ -1,5 +1,7 @@
 # Tantou Henshuu Botsuko-san
 
+![tantou-henshuu-botsuko-san](https://cdn.myanimelist.net/images/manga/2/190035.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

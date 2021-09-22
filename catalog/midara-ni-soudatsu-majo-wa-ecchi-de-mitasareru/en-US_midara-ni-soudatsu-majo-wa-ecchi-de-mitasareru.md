@@ -1,5 +1,7 @@
 # Midara ni Soudatsu! Majo wa Ecchi de Mitasareru
 
+![midara-ni-soudatsu-majo-wa-ecchi-de-mitasareru](https://cdn.myanimelist.net/images/manga/3/169742.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 淫らに争奪！魔女はえっちで満たされる

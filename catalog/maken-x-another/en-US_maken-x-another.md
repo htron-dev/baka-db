@@ -1,5 +1,7 @@
 # Maken X Another
 
+![maken-x-another](https://cdn.myanimelist.net/images/manga/2/56847.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

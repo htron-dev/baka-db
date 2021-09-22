@@ -1,5 +1,7 @@
 # Nana no Gakuen Life: Oneesama wo Get seyo
 
+![nana-no-gakuen-life-oneesama-wo-get-seyo](https://cdn.myanimelist.net/images/manga/2/170254.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

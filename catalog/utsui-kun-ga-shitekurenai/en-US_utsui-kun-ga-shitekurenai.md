@@ -1,5 +1,7 @@
 # Utsui-kun ga Shitekurenai
 
+![utsui-kun-ga-shitekurenai](https://cdn.myanimelist.net/images/manga/3/226082.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

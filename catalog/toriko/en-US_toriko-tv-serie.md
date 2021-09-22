@@ -1,5 +1,7 @@
 # Toriko
 
+![toriko](https://cdn.myanimelist.net/images/anime/1757/100671.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 147
 -   **original-name**: トリコ

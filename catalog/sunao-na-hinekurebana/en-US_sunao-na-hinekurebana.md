@@ -1,5 +1,7 @@
 # Sunao na Hinekurebana
 
+![sunao-na-hinekurebana](https://cdn.myanimelist.net/images/manga/1/246409.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Bokurano
 
+![bokurano](https://cdn.myanimelist.net/images/manga/1/57107.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 66

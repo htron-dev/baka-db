@@ -1,5 +1,7 @@
 # Onna Doushi de Kodomo wo Umukoto ni Shimashita
 
+![onna-doushi-de-kodomo-wo-umukoto-ni-shimashita](https://cdn.myanimelist.net/images/manga/2/191894.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Mazumeshi Elf to Yuubokugurashi
 
+![mazumeshi-elf-to-yuubokugurashi](https://cdn.myanimelist.net/images/manga/2/214800.jpg)
+
 -   **type**: manga
 -   **original-name**: マズ飯エルフと遊牧暮らし
 -   **start-date**: 2017-07-15

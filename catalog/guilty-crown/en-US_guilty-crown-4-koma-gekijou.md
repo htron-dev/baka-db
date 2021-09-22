@@ -1,5 +1,7 @@
 # Guilty Crown: 4-koma Gekijou
 
+![guilty-crown-4-koma-gekijou](https://cdn.myanimelist.net/images/anime/4/37761.jpg)
+
 -   **type**: special
 -   **episodes**: 11
 -   **original-name**: ギルクラ 4 コマ劇場 ぎる亭くら雲

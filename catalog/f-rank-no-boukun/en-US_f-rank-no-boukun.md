@@ -1,5 +1,7 @@
 # F-Rank no Boukun
 
+![f-rank-no-boukun](https://cdn.myanimelist.net/images/manga/1/196496.jpg)
+
 -   **type**: light-novel
 -   **original-name**: F ランクの暴君
 -   **start-date**: 2013-04-10

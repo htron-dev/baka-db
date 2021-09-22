@@ -1,5 +1,7 @@
 # Bathroom no Pepen
 
+![bathroom-no-pepen](https://cdn.myanimelist.net/images/manga/1/209676.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 59

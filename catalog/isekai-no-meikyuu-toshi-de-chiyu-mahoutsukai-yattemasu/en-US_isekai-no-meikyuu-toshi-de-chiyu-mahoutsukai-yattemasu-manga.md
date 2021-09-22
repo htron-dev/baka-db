@@ -1,5 +1,7 @@
 # Isekai no Meikyuu Toshi de Chiyu Mahoutsukai Yattemasu
 
+![isekai-no-meikyuu-toshi-de-chiyu-mahoutsukai-yattemasu](https://cdn.myanimelist.net/images/manga/2/216075.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界の迷宮都市で治癒魔法使いやってます
 -   **start-date**: 2018-08-24

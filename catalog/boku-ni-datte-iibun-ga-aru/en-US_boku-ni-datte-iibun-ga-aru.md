@@ -1,5 +1,7 @@
 # Boku ni Datte Iibun ga Aru
 
+![boku-ni-datte-iibun-ga-aru](https://cdn.myanimelist.net/images/manga/3/7227.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

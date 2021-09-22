@@ -1,5 +1,7 @@
 # Salty Road
 
+![salty-road](https://cdn.myanimelist.net/images/manga/2/161630.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

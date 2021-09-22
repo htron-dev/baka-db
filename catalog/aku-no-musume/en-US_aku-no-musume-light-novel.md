@@ -1,5 +1,7 @@
 # Aku no Musume
 
+![aku-no-musume](https://cdn.myanimelist.net/images/manga/3/104349.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 36

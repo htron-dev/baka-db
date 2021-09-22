@@ -1,5 +1,7 @@
 # Mobile Suit SD Gundam Musha, Knight, Commando
 
+![mobile-suit-sd-gundam-musha-knight-commando](https://cdn.myanimelist.net/images/anime/13/25171.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: 機動戦士ＳＤガンダム 武者・騎士・コマンド ＳＤガンダム緊急出撃

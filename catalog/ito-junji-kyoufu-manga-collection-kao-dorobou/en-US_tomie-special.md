@@ -1,5 +1,7 @@
 # Tomie
 
+![tomie](https://cdn.myanimelist.net/images/anime/2/89805.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 富江

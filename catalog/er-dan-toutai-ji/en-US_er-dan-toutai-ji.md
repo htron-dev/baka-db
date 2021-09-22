@@ -1,5 +1,7 @@
 # Er Dan Toutai Ji
 
+![er-dan-toutai-ji](https://cdn.myanimelist.net/images/anime/1745/115316.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 2
 -   **original-name**: 二蛋投胎记

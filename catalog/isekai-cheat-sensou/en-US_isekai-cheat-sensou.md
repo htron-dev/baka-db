@@ -1,5 +1,7 @@
 # Isekai Cheat Sensou
 
+![isekai-cheat-sensou](https://cdn.myanimelist.net/images/manga/3/174454.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界チート戦争
 -   **start-date**: 2015-09-25

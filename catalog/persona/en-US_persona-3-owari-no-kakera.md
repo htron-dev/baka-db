@@ -1,5 +1,7 @@
 # Persona 3: Owari no Kakera
 
+![persona-3-owari-no-kakera](https://cdn.myanimelist.net/images/manga/2/127027.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ペルソナ 3 オワリノカケラ

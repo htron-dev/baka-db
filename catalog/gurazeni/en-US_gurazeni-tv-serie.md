@@ -1,5 +1,7 @@
 # Gurazeni
 
+![gurazeni](https://cdn.myanimelist.net/images/anime/1365/95058.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: グラゼニ

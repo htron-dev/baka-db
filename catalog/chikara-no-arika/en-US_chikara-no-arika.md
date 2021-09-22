@@ -1,5 +1,7 @@
 # Chikara no Arika
 
+![chikara-no-arika](https://cdn.myanimelist.net/images/manga/1/118295.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

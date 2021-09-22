@@ -1,5 +1,7 @@
 # Sin: Nanatsu no Taizai
 
+![sin-nanatsu-no-taizai](https://cdn.myanimelist.net/images/manga/1/194328.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

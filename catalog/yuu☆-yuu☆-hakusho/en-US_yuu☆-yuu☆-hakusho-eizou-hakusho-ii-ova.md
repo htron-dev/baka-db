@@ -1,5 +1,7 @@
 # Yuu☆Yuu☆Hakusho: Eizou Hakusho II
 
+![yuu☆-yuu☆-hakusho-eizou-hakusho-ii](https://cdn.myanimelist.net/images/anime/10/21614.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 幽 ☆ 遊 ☆ 白書 Ⅱ: 幽助、蔵魔、飛影、桑原

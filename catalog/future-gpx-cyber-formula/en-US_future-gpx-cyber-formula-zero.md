@@ -1,5 +1,7 @@
 # Future GPX Cyber Formula Zero
 
+![future-gpx-cyber-formula-zero](https://cdn.myanimelist.net/images/anime/7/4085.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: 新世紀ＧＰＸサイバーフォーミュラＺＥＲＯ

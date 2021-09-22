@@ -1,5 +1,7 @@
 # Kimi wa Bocchi ja Nai!
 
+![kimi-wa-bocchi-ja-nai](https://cdn.myanimelist.net/images/manga/3/162983.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

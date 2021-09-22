@@ -1,5 +1,7 @@
 # Hoshi no Kirby: Pilot
 
+![hoshi-no-kirby-pilot](https://cdn.myanimelist.net/images/anime/9/32685.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 星のカービィ パイロット版

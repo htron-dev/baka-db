@@ -1,5 +1,7 @@
 # Kannazuki no Miko
 
+![kannazuki-no-miko](https://cdn.myanimelist.net/images/anime/8/73955.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 神無月の巫女

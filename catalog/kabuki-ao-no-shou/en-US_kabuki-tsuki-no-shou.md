@@ -1,5 +1,7 @@
 # Kabuki - Tsuki no Shou
 
+![kabuki-tsuki-no-shou](https://cdn.myanimelist.net/images/manga/3/14608.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カブキ～月の章～

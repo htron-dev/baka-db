@@ -1,5 +1,7 @@
 # Kamakura Deco &amp; Kofu Life
 
+![kamakura-deco-amp-kofu-life](https://cdn.myanimelist.net/images/manga/3/72033.jpg)
+
 -   **type**: manga
 -   **original-name**: 鎌倉デコフライフ
 -   **start-date**: 2011-06-18

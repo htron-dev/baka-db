@@ -1,5 +1,7 @@
 # Eien no Jewel
 
+![eien-no-jewel](https://cdn.myanimelist.net/images/manga/1/38333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Knighting Knight
 
+![knighting-knight](https://cdn.myanimelist.net/images/manga/3/4524.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Kouya no Hanayome
 
+![kouya-no-hanayome](https://cdn.myanimelist.net/images/manga/1/206306.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

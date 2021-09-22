@@ -1,5 +1,7 @@
 # Ashita, Kyou no Kimi ni Aenakutemo
 
+![ashita-kyou-no-kimi-ni-aenakutemo](https://cdn.myanimelist.net/images/manga/1/162771.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

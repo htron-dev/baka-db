@@ -1,5 +1,7 @@
 # Naze Boku no Sekai wo Daremo Oboeteinai no ka?
 
+![naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka](https://cdn.myanimelist.net/images/manga/2/198483.jpg)
+
 -   **type**: light-novel
 -   **original-name**: なぜ僕の世界を誰も覚えていないのか？
 -   **start-date**: 2017-07-25

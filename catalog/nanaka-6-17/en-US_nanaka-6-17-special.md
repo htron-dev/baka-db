@@ -1,5 +1,7 @@
 # Nanaka 6/17 Special
 
+![nanaka-6-17-special](https://cdn.myanimelist.net/images/anime/10/47051.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ななか６／１７

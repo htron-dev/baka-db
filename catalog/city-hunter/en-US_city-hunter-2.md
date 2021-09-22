@@ -1,5 +1,7 @@
 # City Hunter 2
 
+![city-hunter-2](https://cdn.myanimelist.net/images/anime/7/50523.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 63
 -   **original-name**: シティーハンター 2

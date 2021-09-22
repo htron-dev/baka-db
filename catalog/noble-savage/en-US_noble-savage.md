@@ -1,5 +1,7 @@
 # Noble Savage
 
+![noble-savage](https://cdn.myanimelist.net/images/manga/1/30438.jpg)
+
 -   **type**: manga
 
 ## Tags

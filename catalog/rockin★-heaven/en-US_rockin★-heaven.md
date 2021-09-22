@@ -1,5 +1,7 @@
 # Rockin'★Heaven
 
+![rockin★-heaven](https://cdn.myanimelist.net/images/manga/3/4992.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 36

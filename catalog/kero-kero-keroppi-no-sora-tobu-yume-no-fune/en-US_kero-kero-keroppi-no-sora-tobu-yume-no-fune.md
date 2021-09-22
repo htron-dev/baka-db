@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Sora Tobu Yume no Fune
 
+![kero-kero-keroppi-no-sora-tobu-yume-no-fune](https://cdn.myanimelist.net/images/anime/13/58987.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴの空とぶゆめの船

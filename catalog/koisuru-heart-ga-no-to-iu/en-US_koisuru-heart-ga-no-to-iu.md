@@ -1,5 +1,7 @@
 # Koisuru Heart ga No to Iu
 
+![koisuru-heart-ga-no-to-iu](https://cdn.myanimelist.net/images/manga/2/17243.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

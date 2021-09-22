@@ -1,5 +1,7 @@
 # Otome wa Boku ni Koishiteru: Futari no Elder
 
+![otome-wa-boku-ni-koishiteru-futari-no-elder](https://cdn.myanimelist.net/images/manga/1/39131.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

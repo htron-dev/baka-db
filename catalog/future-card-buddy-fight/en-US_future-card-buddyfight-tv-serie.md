@@ -1,5 +1,7 @@
 # Future Card Buddyfight
 
+![future-card-buddyfight](https://cdn.myanimelist.net/images/anime/9/78797.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 64
 -   **original-name**: フューチャーカード バディファイト

@@ -1,5 +1,7 @@
 # Kimi dake wa Shindemo Gomen
 
+![kimi-dake-wa-shindemo-gomen](https://cdn.myanimelist.net/images/manga/2/224431.jpg)
+
 -   **type**: manga
 -   **original-name**: 君だけは死んでもごめん
 -   **start-date**: 2018-05-03

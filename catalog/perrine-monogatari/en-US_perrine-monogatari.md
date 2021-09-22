@@ -1,5 +1,7 @@
 # Perrine Monogatari
 
+![perrine-monogatari](https://cdn.myanimelist.net/images/anime/9/17531.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 53
 -   **original-name**: ペリーヌ物語

@@ -1,5 +1,7 @@
 # Sekaiichi Hatsukoi: Onodera Ritsu no Baai
 
+![sekaiichi-hatsukoi-onodera-ritsu-no-baai](https://cdn.myanimelist.net/images/manga/4/14369.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界一初恋 ～小野寺律の場合～
 -   **start-date**: 2006-10-13

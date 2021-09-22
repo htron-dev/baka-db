@@ -1,5 +1,7 @@
 # Yama no Susume: Second Season
 
+![yama-no-susume-second-season](https://cdn.myanimelist.net/images/anime/10/56595.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ヤマノススメ セカンドシーズン

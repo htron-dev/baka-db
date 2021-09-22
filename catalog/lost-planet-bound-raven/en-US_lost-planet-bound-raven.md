@@ -1,5 +1,7 @@
 # Lost Planet: Bound Raven
 
+![lost-planet-bound-raven](https://cdn.myanimelist.net/images/manga/3/104503.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ロストプラネットバウンドレイブン

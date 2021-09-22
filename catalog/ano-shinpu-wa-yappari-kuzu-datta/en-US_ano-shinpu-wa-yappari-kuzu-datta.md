@@ -1,5 +1,7 @@
 # Ano Shinpu wa, Yappari Kuzu datta
 
+![ano-shinpu-wa-yappari-kuzu-datta](https://cdn.myanimelist.net/images/manga/1/177987.jpg)
+
 -   **type**: light-novel
 -   **original-name**: あの神父は、やっぱりクズだった
 -   **start-date**: 2016-04-01

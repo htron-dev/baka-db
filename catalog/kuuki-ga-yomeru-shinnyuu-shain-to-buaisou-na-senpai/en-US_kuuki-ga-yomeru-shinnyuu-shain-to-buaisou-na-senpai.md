@@ -1,5 +1,7 @@
 # Kuuki ga "Yomeru" Shinnyuu Shain to Buaisou na Senpai
 
+![kuuki-ga-yomeru-shinnyuu-shain-to-buaisou-na-senpai](https://cdn.myanimelist.net/images/manga/3/239426.jpg)
+
 -   **type**: manga
 -   **original-name**: 空気が「読める」新入社員と無愛想な先輩
 -   **start-date**: 2020-04-17

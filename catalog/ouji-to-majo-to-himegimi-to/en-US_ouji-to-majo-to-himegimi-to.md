@@ -1,5 +1,7 @@
 # Ouji to Majo to Himegimi to
 
+![ouji-to-majo-to-himegimi-to](https://cdn.myanimelist.net/images/manga/1/34772.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 72

@@ -1,5 +1,7 @@
 # Bokura no Chronostasis
 
+![bokura-no-chronostasis](https://cdn.myanimelist.net/images/manga/3/211202.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

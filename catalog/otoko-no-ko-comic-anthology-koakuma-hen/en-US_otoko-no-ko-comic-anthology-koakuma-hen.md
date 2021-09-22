@@ -1,5 +1,7 @@
 # Otoko no Ko Comic Anthology: Koakuma-hen
 
+![otoko-no-ko-comic-anthology-koakuma-hen](https://cdn.myanimelist.net/images/manga/3/151940.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

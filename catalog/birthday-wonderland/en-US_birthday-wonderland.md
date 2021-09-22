@@ -1,5 +1,7 @@
 # Birthday Wonderland
 
+![birthday-wonderland](https://cdn.myanimelist.net/images/anime/1802/98195.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: バースデー・ワンダーランド

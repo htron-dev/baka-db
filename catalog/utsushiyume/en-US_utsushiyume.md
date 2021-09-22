@@ -1,5 +1,7 @@
 # Utsushiyume
 
+![utsushiyume](https://cdn.myanimelist.net/images/manga/3/193052.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

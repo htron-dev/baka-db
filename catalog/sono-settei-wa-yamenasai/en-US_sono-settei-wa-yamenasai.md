@@ -1,5 +1,7 @@
 # Sono Settei wa Yamenasai!
 
+![sono-settei-wa-yamenasai](https://cdn.myanimelist.net/images/manga/1/163479.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

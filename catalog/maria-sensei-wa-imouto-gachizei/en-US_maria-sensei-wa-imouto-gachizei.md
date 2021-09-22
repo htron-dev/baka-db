@@ -1,5 +1,7 @@
 # Maria-sensei wa Imouto Gachizei!
 
+![maria-sensei-wa-imouto-gachizei](https://cdn.myanimelist.net/images/manga/1/213291.jpg)
+
 -   **type**: manga
 -   **original-name**: マリア先生は妹ガチ勢！
 -   **start-date**: 2018-04-06

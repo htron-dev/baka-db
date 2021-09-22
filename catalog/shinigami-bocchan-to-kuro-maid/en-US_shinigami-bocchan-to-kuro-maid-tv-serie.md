@@ -1,5 +1,7 @@
 # Shinigami Bocchan to Kuro Maid
 
+![shinigami-bocchan-to-kuro-maid](https://cdn.myanimelist.net/images/anime/1471/115593.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 死神坊ちゃんと黒メイド

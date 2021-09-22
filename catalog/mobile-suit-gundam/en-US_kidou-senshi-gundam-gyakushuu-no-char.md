@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Gyakushuu no Char
 
+![kidou-senshi-gundam-gyakushuu-no-char](https://cdn.myanimelist.net/images/manga/1/118069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

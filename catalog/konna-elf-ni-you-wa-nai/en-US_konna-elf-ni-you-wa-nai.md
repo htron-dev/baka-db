@@ -1,5 +1,7 @@
 # Konna Elf ni You wa Nai!
 
+![konna-elf-ni-you-wa-nai](https://cdn.myanimelist.net/images/manga/3/118893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

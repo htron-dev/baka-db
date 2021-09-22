@@ -1,5 +1,7 @@
 # Owarimonogatari 2nd Season Recaps
 
+![owarimonogatari-2nd-season-recaps](https://cdn.myanimelist.net/images/anime/9/88962.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 終わりに向かう物語; 阿良々木暦ノ物語

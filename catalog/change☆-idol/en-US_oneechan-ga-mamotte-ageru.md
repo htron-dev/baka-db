@@ -1,5 +1,7 @@
 # Oneechan ga Mamotte Ageru!
 
+![oneechan-ga-mamotte-ageru](https://cdn.myanimelist.net/images/manga/4/131545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

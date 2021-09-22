@@ -1,5 +1,7 @@
 # Heads
 
+![heads](https://cdn.myanimelist.net/images/manga/4/25739.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

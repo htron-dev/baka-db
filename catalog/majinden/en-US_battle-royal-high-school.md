@@ -1,5 +1,7 @@
 # Battle Royal High School
 
+![battle-royal-high-school](https://cdn.myanimelist.net/images/anime/10/6209.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 真魔神伝　バトルロイヤルハイスクール

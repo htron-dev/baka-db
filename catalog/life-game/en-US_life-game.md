@@ -1,5 +1,7 @@
 # Life Game
 
+![life-game](https://cdn.myanimelist.net/images/manga/1/227204.jpg)
+
 -   **type**: manga
 -   **chapters**: 56
 -   **original-name**: LIFE GAME

@@ -1,5 +1,7 @@
 # Kamidarake
 
+![kamidarake](https://cdn.myanimelist.net/images/manga/2/169446.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Ultraviolet: Code 044
 
+![ultraviolet-code-044](https://cdn.myanimelist.net/images/anime/5/21701.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ウルトラヴァイオレットコード 044

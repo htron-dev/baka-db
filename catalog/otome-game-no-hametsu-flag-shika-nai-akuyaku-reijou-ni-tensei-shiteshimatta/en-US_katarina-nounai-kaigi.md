@@ -1,5 +1,7 @@
 # Katarina Nounai Kaigi
 
+![katarina-nounai-kaigi](https://cdn.myanimelist.net/images/anime/1067/106344.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: カタリナ脳内会議

@@ -1,5 +1,7 @@
 # My Lovely Master
 
+![my-lovely-master](https://cdn.myanimelist.net/images/manga/1/31303.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 14
 -   **original-name**: 나의 사랑스런 주인님

@@ -1,5 +1,7 @@
 # Kaeru Ouji to Imomushi Henry
 
+![kaeru-ouji-to-imomushi-henry](https://cdn.myanimelist.net/images/anime/1782/95037.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 130
 -   **original-name**: カエル王子といもむしヘンリー

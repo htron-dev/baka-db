@@ -1,5 +1,7 @@
 # Kodoku no Naka no Watashi
 
+![kodoku-no-naka-no-watashi](https://cdn.myanimelist.net/images/manga/2/136517.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: コドクの中のワタシ

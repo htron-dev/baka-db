@@ -1,5 +1,7 @@
 # Bouquet Rouge Aichou Monogatari: Shinku no Heya de, Ouji no Inai ni Someagerarete
 
+![bouquet-rouge-aichou-monogatari-shinku-no-heya-de-ouji-no-inai-ni-someagerarete](https://cdn.myanimelist.net/images/manga/3/182782.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Itoshi no Momonga Kareshi
 
+![itoshi-no-momonga-kareshi](https://cdn.myanimelist.net/images/manga/1/238793.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

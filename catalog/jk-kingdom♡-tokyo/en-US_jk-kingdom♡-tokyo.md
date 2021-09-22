@@ -1,5 +1,7 @@
 # JK Kingdom♡Tokyo
 
+![jk-kingdom♡-tokyo](https://cdn.myanimelist.net/images/manga/3/213676.jpg)
+
 -   **type**: manga
 -   **original-name**: JK キングダム ♡ 東京
 -   **start-date**: 2018-09-14

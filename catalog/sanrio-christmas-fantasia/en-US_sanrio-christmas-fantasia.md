@@ -1,5 +1,7 @@
 # Sanrio Christmas Fantasia
 
+![sanrio-christmas-fantasia](https://cdn.myanimelist.net/images/anime/8/70989.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サンリオ・クリスマス・ファンタジア

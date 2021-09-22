@@ -1,5 +1,7 @@
 # Sekaiichi Hatsukoi: Propose-hen
 
+![sekaiichi-hatsukoi-propose-hen](https://cdn.myanimelist.net/images/anime/1896/102829.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 世界一初恋~プロポーズ編~

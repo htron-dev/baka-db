@@ -1,5 +1,7 @@
 # Shin Tennis no Ouji-sama: Hyoutei vs. Rikkai - Game of Future
 
+![shin-tennis-no-ouji-sama-hyoutei-vs-rikkai-game-of-future](https://cdn.myanimelist.net/images/anime/1382/116955.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 新テニスの王子様 氷帝 vs 立海 Game of Future

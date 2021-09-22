@@ -1,5 +1,7 @@
 # Kaigo to Ikiru
 
+![kaigo-to-ikiru](https://cdn.myanimelist.net/images/anime/1818/103921.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 介護と生きる

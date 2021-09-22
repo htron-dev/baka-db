@@ -1,5 +1,7 @@
 # Osomatsu-kun (1988)
 
+![osomatsu-kun-1988](https://cdn.myanimelist.net/images/anime/10/80073.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 86
 -   **original-name**: おそ松くん

@@ -1,5 +1,7 @@
 # Chika-chan to!
 
+![chika-chan-to](https://cdn.myanimelist.net/images/manga/2/226198.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

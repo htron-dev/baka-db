@@ -1,5 +1,7 @@
 # Aki no Kanade
 
+![aki-no-kanade](https://cdn.myanimelist.net/images/anime/9/72481.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アキの奏で

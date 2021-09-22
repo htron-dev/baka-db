@@ -1,5 +1,7 @@
 # Angel Mark
 
+![angel-mark](https://cdn.myanimelist.net/images/manga/1/37578.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: エンゼルマーク

@@ -1,5 +1,7 @@
 # Nano Invaders
 
+![nano-invaders](https://cdn.myanimelist.net/images/anime/2/67729.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ナノ・インベーダーズ

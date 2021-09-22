@@ -1,5 +1,7 @@
 # Ainaki Okuman Chouja no Shitto
 
+![ainaki-okuman-chouja-no-shitto](https://cdn.myanimelist.net/images/manga/2/227171.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛なき億万長者の嫉妬

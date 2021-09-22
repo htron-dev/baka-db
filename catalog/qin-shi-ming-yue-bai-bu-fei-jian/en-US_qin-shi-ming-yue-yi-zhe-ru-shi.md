@@ -1,5 +1,7 @@
 # Qin Shi Ming Yue: Yi Zhe Ru Shi
 
+![qin-shi-ming-yue-yi-zhe-ru-shi](https://cdn.myanimelist.net/images/anime/1491/91323.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 秦时明月之医者入世
@@ -20,4 +22,4 @@ This special focuses on Duanmu Rong. It tells a story happened when she was an a
 -   [My Anime list](https://myanimelist.net/anime/37566/Qin_Shi_Ming_Yue__Yi_Zhe_Ru_Shi)
 -   [Official Site](http://www.qinsmoon.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13962)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Legend_of_Qin_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Qin_%28TV_series%29)

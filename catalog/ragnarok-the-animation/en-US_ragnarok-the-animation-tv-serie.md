@@ -1,5 +1,7 @@
 # Ragnarök The Animation
 
+![ragnarok-the-animation](https://cdn.myanimelist.net/images/anime/10/2589.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: RAGNARÖK THE ANIMATION

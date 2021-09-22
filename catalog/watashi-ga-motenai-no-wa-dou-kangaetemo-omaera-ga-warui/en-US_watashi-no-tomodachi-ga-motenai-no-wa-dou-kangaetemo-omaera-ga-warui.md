@@ -1,5 +1,7 @@
 # Watashi no Tomodachi ga Motenai no wa Dou Kangaetemo Omaera ga Warui.
 
+![watashi-no-tomodachi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui](https://cdn.myanimelist.net/images/manga/2/162685.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 28

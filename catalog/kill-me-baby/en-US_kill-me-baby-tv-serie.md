@@ -1,5 +1,7 @@
 # Kill Me Baby
 
+![kill-me-baby](https://cdn.myanimelist.net/images/anime/9/87197.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: キルミーベイベー

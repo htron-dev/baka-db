@@ -1,5 +1,7 @@
 # Aisaretagari no Anti Romance
 
+![aisaretagari-no-anti-romance](https://cdn.myanimelist.net/images/manga/2/243493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Black Clover
 
+![black-clover](https://cdn.myanimelist.net/images/anime/2/88336.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 170
 -   **original-name**: ブラッククローバー

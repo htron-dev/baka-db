@@ -1,5 +1,7 @@
 # Soshite Koi ga Hajimaru
 
+![soshite-koi-ga-hajimaru](https://cdn.myanimelist.net/images/manga/5/130117.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

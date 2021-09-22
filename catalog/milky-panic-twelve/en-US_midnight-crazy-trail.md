@@ -1,5 +1,7 @@
 # Midnight Crazy Trail
 
+![midnight-crazy-trail](https://cdn.myanimelist.net/images/anime/2/89201.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Midnight Crazy Trail

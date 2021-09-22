@@ -1,5 +1,7 @@
 # Hankai no Hana
 
+![hankai-no-hana](https://cdn.myanimelist.net/images/manga/3/227888.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

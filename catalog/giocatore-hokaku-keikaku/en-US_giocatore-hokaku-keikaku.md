@@ -1,5 +1,7 @@
 # Giocatore, Hokaku Keikaku.
 
+![giocatore-hokaku-keikaku](https://cdn.myanimelist.net/images/manga/5/32635.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

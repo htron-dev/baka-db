@@ -1,5 +1,7 @@
 # Bananya
 
+![bananya](https://cdn.myanimelist.net/images/anime/11/80200.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ばなにゃ

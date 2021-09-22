@@ -1,5 +1,7 @@
 # Ahiru no Ko
 
+![ahiru-no-ko](https://cdn.myanimelist.net/images/anime/7/85275.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あひるの子

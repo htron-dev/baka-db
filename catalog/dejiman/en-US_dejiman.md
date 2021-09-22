@@ -1,5 +1,7 @@
 # Dejiman!
 
+![dejiman](https://cdn.myanimelist.net/images/manga/3/88699.jpg)
+
 -   **type**: manga
 -   **original-name**: でじまんっ！
 

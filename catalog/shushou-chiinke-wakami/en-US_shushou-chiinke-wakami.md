@@ -1,5 +1,7 @@
 # Shushou!! Chiinke Wakami
 
+![shushou-chiinke-wakami](https://cdn.myanimelist.net/images/manga/3/200409.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 88

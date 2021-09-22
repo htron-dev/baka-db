@@ -1,5 +1,7 @@
 # Cross†Wizard
 
+![cross-wizard](https://cdn.myanimelist.net/images/manga/1/160025.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

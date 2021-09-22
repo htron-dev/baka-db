@@ -1,5 +1,7 @@
 # Idol Master
 
+![idol-master](https://cdn.myanimelist.net/images/manga/2/167310.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

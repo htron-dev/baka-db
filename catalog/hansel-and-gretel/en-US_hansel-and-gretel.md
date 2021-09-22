@@ -1,5 +1,7 @@
 # Hansel and Gretel
 
+![hansel-and-gretel](https://cdn.myanimelist.net/images/manga/3/73059.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

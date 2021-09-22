@@ -1,5 +1,7 @@
 # World's End no Niwa
 
+![worlds-end-no-niwa](https://cdn.myanimelist.net/images/manga/2/187877.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

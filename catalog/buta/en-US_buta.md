@@ -1,5 +1,7 @@
 # Buta
 
+![buta](https://cdn.myanimelist.net/images/anime/11/50405.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: BUTA

@@ -1,5 +1,7 @@
 # Jigoku Shoujo Futakomori
 
+![jigoku-shoujo-futakomori](https://cdn.myanimelist.net/images/anime/5/86975.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 地獄少女 二籠

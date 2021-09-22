@@ -1,5 +1,7 @@
 # Urusei Yatsura
 
+![urusei-yatsura](https://cdn.myanimelist.net/images/anime/9/17573.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 195
 -   **original-name**: うる星やつら

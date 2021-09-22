@@ -1,5 +1,7 @@
 # 4-koma Manga Oukoku: Rockman X7
 
+![4-koma-manga-oukoku-rockman-x-7](https://cdn.myanimelist.net/images/manga/3/79223.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ROCKMANX7 4 コマまんが王国

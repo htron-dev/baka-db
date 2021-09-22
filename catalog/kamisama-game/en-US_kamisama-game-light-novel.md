@@ -1,5 +1,7 @@
 # Kamisama Game
 
+![kamisama-game](https://cdn.myanimelist.net/images/manga/1/162906.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 76

@@ -1,5 +1,7 @@
 # Seiyuu Mashimashi Club
 
+![seiyuu-mashimashi-club](https://cdn.myanimelist.net/images/manga/1/157822.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 49

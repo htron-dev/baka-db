@@ -1,5 +1,7 @@
 # Jaku-Chara Tomozaki-kun Specials
 
+![jaku-chara-tomozaki-kun-specials](https://cdn.myanimelist.net/images/anime/1892/114853.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 弱キャラ友崎くん

@@ -1,5 +1,7 @@
 # Sarawareta Nouvelle Mariée
 
+![sarawareta-nouvelle-mariee](https://cdn.myanimelist.net/images/manga/1/193300.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

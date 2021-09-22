@@ -1,5 +1,7 @@
 # The★Fire G-Men
 
+![the★-fire-g-men](https://cdn.myanimelist.net/images/anime/1369/93842.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ザ ★ ファイヤー G メン

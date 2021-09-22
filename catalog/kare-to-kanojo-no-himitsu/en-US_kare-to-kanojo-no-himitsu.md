@@ -1,5 +1,7 @@
 # Kare to Kanojo no Himitsu
 
+![kare-to-kanojo-no-himitsu](https://cdn.myanimelist.net/images/manga/1/35231.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 彼と彼女のひみつ

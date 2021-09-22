@@ -1,5 +1,7 @@
 # Byulbyul Iyagi
 
+![byulbyul-iyagi](https://cdn.myanimelist.net/images/anime/3/17743.jpg)
+
 -   **type**: movie
 -   **episodes**: 6
 -   **original-name**: 별별 이야기 -차별에 대한 유쾌한 풍자-

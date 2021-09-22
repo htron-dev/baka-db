@@ -1,5 +1,7 @@
 # Pinky Wakuwaku Tabi Stroll
 
+![pinky-wakuwaku-tabi-stroll](https://cdn.myanimelist.net/images/anime/6/70661.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: ピンキーわくわく旅ストロ

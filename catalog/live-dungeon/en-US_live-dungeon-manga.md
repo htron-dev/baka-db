@@ -1,5 +1,7 @@
 # Live Dungeon!
 
+![live-dungeon](https://cdn.myanimelist.net/images/manga/1/234329.jpg)
+
 -   **type**: manga
 -   **original-name**: ライブダンジョン!
 -   **start-date**: 2018-04-06

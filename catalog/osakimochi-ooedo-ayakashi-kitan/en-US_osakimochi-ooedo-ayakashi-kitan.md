@@ -1,5 +1,7 @@
 # Osakimochi: Ooedo Ayakashi Kitan
 
+![osakimochi-ooedo-ayakashi-kitan](https://cdn.myanimelist.net/images/manga/1/226882.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

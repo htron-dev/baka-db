@@ -1,5 +1,7 @@
 # Tamayomi
 
+![tamayomi](https://cdn.myanimelist.net/images/manga/3/215116.jpg)
+
 -   **type**: manga
 -   **original-name**: 球詠
 -   **start-date**: 2016-04-23

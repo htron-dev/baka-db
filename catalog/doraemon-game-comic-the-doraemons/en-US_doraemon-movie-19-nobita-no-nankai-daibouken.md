@@ -1,5 +1,7 @@
 # Doraemon Movie 19: Nobita no Nankai Daibouken
 
+![doraemon-movie-19-nobita-no-nankai-daibouken](https://cdn.myanimelist.net/images/anime/2/72424.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の南海大冒険
@@ -11,7 +13,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   sci-fi
 -   shounen
 

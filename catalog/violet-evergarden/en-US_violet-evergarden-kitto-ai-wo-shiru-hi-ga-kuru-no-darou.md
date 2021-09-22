@@ -1,5 +1,7 @@
 # Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou
 
+![violet-evergarden-kitto-ai-wo-shiru-hi-ga-kuru-no-darou](https://cdn.myanimelist.net/images/anime/9/89993.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ヴァイオレット・エヴァーガーデンきっと”恋”を知る日が来るのだろう

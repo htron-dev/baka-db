@@ -1,5 +1,7 @@
 # Katakoi Scream
 
+![katakoi-scream](https://cdn.myanimelist.net/images/manga/1/203574.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

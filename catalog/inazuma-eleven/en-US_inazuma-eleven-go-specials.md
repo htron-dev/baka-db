@@ -1,5 +1,7 @@
 # Inazuma Eleven Go Specials
 
+![inazuma-eleven-go-specials](https://cdn.myanimelist.net/images/anime/12/86762.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: イナズマイレブン GO 特別編

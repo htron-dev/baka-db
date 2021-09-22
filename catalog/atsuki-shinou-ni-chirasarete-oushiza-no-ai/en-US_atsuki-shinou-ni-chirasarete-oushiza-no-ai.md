@@ -1,5 +1,7 @@
 # Atsuki Shinou ni Chirasarete: Oushiza no Ai
 
+![atsuki-shinou-ni-chirasarete-oushiza-no-ai](https://cdn.myanimelist.net/images/manga/2/215186.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

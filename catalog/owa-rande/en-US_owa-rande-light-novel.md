@@ -1,5 +1,7 @@
 # Owa Rande!
 
+![owa-rande](https://cdn.myanimelist.net/images/manga/1/160218.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 27

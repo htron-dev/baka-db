@@ -1,5 +1,7 @@
 # Sword Art Online: Sword Art Offline
 
+![sword-art-online-sword-art-offline](https://cdn.myanimelist.net/images/anime/8/43461.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: そーどあーと・おふらいん

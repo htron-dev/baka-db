@@ -1,5 +1,7 @@
 # Maesetsu!
 
+![maesetsu](https://cdn.myanimelist.net/images/anime/1625/114783.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: まえせつ!

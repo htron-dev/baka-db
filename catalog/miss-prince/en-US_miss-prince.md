@@ -1,5 +1,7 @@
 # Miss Prince
 
+![miss-prince](https://cdn.myanimelist.net/images/manga/2/6466.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Go! Tenba Cheerleaders
 
+![go-tenba-cheerleaders](https://cdn.myanimelist.net/images/manga/2/155466.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 62

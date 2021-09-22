@@ -1,5 +1,7 @@
 # Pumpkin Night
 
+![pumpkin-night](https://cdn.myanimelist.net/images/manga/3/204405.jpg)
+
 -   **type**: manga
 -   **original-name**: パンプキンナイト
 -   **start-date**: 2016-10-20

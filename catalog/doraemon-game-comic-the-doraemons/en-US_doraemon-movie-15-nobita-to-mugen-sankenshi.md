@@ -1,5 +1,7 @@
 # Doraemon Movie 15: Nobita to Mugen Sankenshi
 
+![doraemon-movie-15-nobita-to-mugen-sankenshi](https://cdn.myanimelist.net/images/anime/7/72420.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太と夢幻三剣士
@@ -12,7 +14,6 @@
 
 -   adventure
 -   fantasy
-
 -   sci-fi
 -   shounen
 

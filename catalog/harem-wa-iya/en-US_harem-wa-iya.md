@@ -1,5 +1,7 @@
 # Harem wa Iya!!
 
+![harem-wa-iya](https://cdn.myanimelist.net/images/manga/1/128309.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ハーレムはイヤッ!!

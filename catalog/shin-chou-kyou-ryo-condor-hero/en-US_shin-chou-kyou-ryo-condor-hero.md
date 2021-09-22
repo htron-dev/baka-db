@@ -1,5 +1,7 @@
 # Shin Chou Kyou Ryo: Condor Hero
 
+![shin-chou-kyou-ryo-condor-hero](https://cdn.myanimelist.net/images/anime/11/56623.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 神鵰侠侶 コンドルヒーロー

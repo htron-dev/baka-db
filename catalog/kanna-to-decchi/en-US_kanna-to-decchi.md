@@ -1,5 +1,7 @@
 # Kanna to Decchi
 
+![kanna-to-decchi](https://cdn.myanimelist.net/images/manga/2/149716.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

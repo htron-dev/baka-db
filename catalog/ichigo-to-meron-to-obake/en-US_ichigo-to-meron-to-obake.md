@@ -1,5 +1,7 @@
 # Ichigo to Meron to Obake
 
+![ichigo-to-meron-to-obake](https://cdn.myanimelist.net/images/manga/3/28342.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: イチゴとメロンとオバケ

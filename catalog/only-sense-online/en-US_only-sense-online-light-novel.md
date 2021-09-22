@@ -1,5 +1,7 @@
 # Only Sense Online
 
+![only-sense-online](https://cdn.myanimelist.net/images/manga/3/177171.jpg)
+
 -   **type**: light-novel
 -   **original-name**: Only Sense Online ―オンリーセンス・オンライン―
 -   **start-date**: 2014-04-19

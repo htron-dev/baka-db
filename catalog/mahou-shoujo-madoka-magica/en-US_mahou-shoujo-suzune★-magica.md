@@ -1,5 +1,7 @@
 # Mahou Shoujo Suzune★Magica
 
+![mahou-shoujo-suzune★-magica](https://cdn.myanimelist.net/images/manga/3/107537.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

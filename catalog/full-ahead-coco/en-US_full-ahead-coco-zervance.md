@@ -1,5 +1,7 @@
 # Full Ahead! Coco: Zervance
 
+![full-ahead-coco-zervance](https://cdn.myanimelist.net/images/manga/3/207489.jpg)
+
 -   **type**: manga
 -   **original-name**: フルアヘッド！ココ ゼルヴァンス
 -   **start-date**: 2017-11-10

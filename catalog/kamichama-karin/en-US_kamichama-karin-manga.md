@@ -1,5 +1,7 @@
 # Kamichama Karin
 
+![kamichama-karin](https://cdn.myanimelist.net/images/manga/2/2074.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Kami no Kohitsuji -Agnus Dei-
 
+![kami-no-kohitsuji-agnus-dei](https://cdn.myanimelist.net/images/manga/2/22472.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

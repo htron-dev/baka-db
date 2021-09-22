@@ -1,5 +1,7 @@
 # Aoi Shiro: Kaeishou
 
+![aoi-shiro-kaeishou](https://cdn.myanimelist.net/images/manga/3/13200.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

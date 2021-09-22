@@ -1,5 +1,7 @@
 # Slayers Revolution
 
+![slayers-revolution](https://cdn.myanimelist.net/images/anime/7/20940.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: スレイヤーズ

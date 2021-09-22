@@ -1,5 +1,7 @@
 # Utsukushii Koto
 
+![utsukushii-koto](https://cdn.myanimelist.net/images/manga/1/249242.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

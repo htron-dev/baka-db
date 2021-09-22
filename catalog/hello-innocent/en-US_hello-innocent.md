@@ -1,5 +1,7 @@
 # Hello, Innocent
 
+![hello-innocent](https://cdn.myanimelist.net/images/manga/1/236475.jpg)
+
 -   **type**: manga
 -   **original-name**: ハロー、イノセント
 -   **start-date**: 2020-06-03

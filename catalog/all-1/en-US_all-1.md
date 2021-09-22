@@ -1,5 +1,7 @@
 # ALL 1
 
+![all-1](https://cdn.myanimelist.net/images/manga/2/6000.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

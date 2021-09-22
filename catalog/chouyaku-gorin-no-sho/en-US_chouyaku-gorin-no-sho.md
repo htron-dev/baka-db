@@ -1,5 +1,7 @@
 # Chouyaku Gorin no Sho
 
+![chouyaku-gorin-no-sho](https://cdn.myanimelist.net/images/manga/1/248068.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 超訳 五輪書

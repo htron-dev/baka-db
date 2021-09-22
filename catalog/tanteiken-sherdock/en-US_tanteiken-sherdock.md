@@ -1,5 +1,7 @@
 # Tanteiken Sherdock
 
+![tanteiken-sherdock](https://cdn.myanimelist.net/images/manga/1/136257.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 59

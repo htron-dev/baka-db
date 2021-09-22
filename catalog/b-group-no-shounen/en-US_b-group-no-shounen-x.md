@@ -1,5 +1,7 @@
 # B Group no Shounen X
 
+![b-group-no-shounen-x](https://cdn.myanimelist.net/images/manga/1/186474.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Tenchi Shinmei!
 
+![tenchi-shinmei](https://cdn.myanimelist.net/images/manga/4/113809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kimi ni wa Fureru to Naru Toko ga Atte
 
+![kimi-ni-wa-fureru-to-naru-toko-ga-atte](https://cdn.myanimelist.net/images/manga/2/228185.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

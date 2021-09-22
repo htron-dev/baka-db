@@ -1,5 +1,7 @@
 # Golden Age
 
+![golden-age](https://cdn.myanimelist.net/images/manga/3/83779.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: GOLDEN★AGE

@@ -1,5 +1,7 @@
 # Nemuranai Machi kara
 
+![nemuranai-machi-kara](https://cdn.myanimelist.net/images/manga/1/15496.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

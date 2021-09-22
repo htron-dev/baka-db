@@ -1,5 +1,7 @@
 # Kyoukasho ni Nai!
 
+![kyoukasho-ni-nai](https://cdn.myanimelist.net/images/anime/1159/100238.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 教科書にないッ!

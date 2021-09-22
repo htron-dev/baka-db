@@ -1,5 +1,7 @@
 # Chibi Maruko-chan no Koutsuu Anzen
 
+![chibi-maruko-chan-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1342/99356.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ちびまる子ちゃんの交通安全

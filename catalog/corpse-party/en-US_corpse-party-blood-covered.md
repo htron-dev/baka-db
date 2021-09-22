@@ -1,5 +1,7 @@
 # Corpse Party: Blood Covered
 
+![corpse-party-blood-covered](https://cdn.myanimelist.net/images/manga/3/166222.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 47

@@ -1,5 +1,7 @@
 # Time Slip Ichimannen: Prime Rose
 
+![time-slip-ichimannen-prime-rose](https://cdn.myanimelist.net/images/anime/5/10592.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: タイムスリップ１００００年　プライム・ローズ

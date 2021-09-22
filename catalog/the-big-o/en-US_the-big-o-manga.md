@@ -1,5 +1,7 @@
 # The Big O
 
+![the-big-o](https://cdn.myanimelist.net/images/manga/1/25.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 21

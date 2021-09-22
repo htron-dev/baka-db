@@ -1,5 +1,7 @@
 # Kanojo ga Kanji wo Suki na Riyuu.
 
+![kanojo-ga-kanji-wo-suki-na-riyuu](https://cdn.myanimelist.net/images/anime/4/76306.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 彼女が漢字を好きな理由。

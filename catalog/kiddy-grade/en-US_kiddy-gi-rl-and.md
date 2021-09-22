@@ -1,5 +1,7 @@
 # Kiddy GiRL-AND
 
+![kiddy-gi-rl-and](https://cdn.myanimelist.net/images/anime/4/74159.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: キディ・ガーランド

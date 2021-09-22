@@ -1,5 +1,7 @@
 # Shiritsu Horitsuba Gakuen
 
+![shiritsu-horitsuba-gakuen](https://cdn.myanimelist.net/images/manga/1/22065.jpg)
+
 -   **type**: manga
 -   **original-name**: 私立堀鐔学園
 -   **start-date**: 2006-04-26

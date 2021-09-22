@@ -1,5 +1,7 @@
 # Chase
 
+![chase](https://cdn.myanimelist.net/images/manga/2/143351.jpg)
+
 -   **type**: manga
 -   **original-name**: CHASE
 -   **start-date**: 2014-10-17

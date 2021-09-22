@@ -1,5 +1,7 @@
 # Yokujou Suru Hirusagari
 
+![yokujou-suru-hirusagari](https://cdn.myanimelist.net/images/manga/1/35518.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 欲情する昼下がり

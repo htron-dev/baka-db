@@ -1,5 +1,7 @@
 # Tokio
 
+![tokio](https://cdn.myanimelist.net/images/manga/2/31367.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: トキオ

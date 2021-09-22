@@ -1,5 +1,7 @@
 # Ba-thump Ba-thump Diary
 
+![ba-thump-ba-thump-diary](https://cdn.myanimelist.net/images/manga/2/6160.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **start-date**: 2005-01-20

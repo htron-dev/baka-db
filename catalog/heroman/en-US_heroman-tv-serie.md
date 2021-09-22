@@ -1,5 +1,7 @@
 # Heroman
 
+![heroman](https://cdn.myanimelist.net/images/anime/10/23841.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ヒーローマン

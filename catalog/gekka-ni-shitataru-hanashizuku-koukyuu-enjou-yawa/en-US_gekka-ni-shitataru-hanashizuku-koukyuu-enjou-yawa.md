@@ -1,5 +1,7 @@
 # Gekka ni Shitataru Hanashizuku: Koukyuu Enjou Yawa
 
+![gekka-ni-shitataru-hanashizuku-koukyuu-enjou-yawa](https://cdn.myanimelist.net/images/manga/2/184143.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

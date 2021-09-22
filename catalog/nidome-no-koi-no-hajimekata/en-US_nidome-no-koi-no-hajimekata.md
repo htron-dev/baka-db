@@ -1,5 +1,7 @@
 # Nidome no Koi no Hajimekata
 
+![nidome-no-koi-no-hajimekata](https://cdn.myanimelist.net/images/manga/2/131233.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

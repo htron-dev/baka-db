@@ -1,5 +1,7 @@
 # Okama Hakusho
 
+![okama-hakusho](https://cdn.myanimelist.net/images/anime/2/28453.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: おカマ白書

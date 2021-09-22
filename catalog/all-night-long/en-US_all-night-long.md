@@ -1,5 +1,7 @@
 # All Night Long
 
+![all-night-long](https://cdn.myanimelist.net/images/manga/1/193070.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

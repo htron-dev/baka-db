@@ -1,5 +1,7 @@
 # Tenshi no Pocket
 
+![tenshi-no-pocket](https://cdn.myanimelist.net/images/manga/4/103749.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

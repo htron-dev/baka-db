@@ -1,5 +1,7 @@
 # Ouhi-sama wa Toubouchuu
 
+![ouhi-sama-wa-toubouchuu](https://cdn.myanimelist.net/images/manga/3/224334.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

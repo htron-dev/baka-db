@@ -1,5 +1,7 @@
 # Anomalies
 
+![anomalies](https://cdn.myanimelist.net/images/anime/10/69593.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Anomalies

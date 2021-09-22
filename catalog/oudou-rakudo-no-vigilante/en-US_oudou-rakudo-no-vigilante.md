@@ -1,5 +1,7 @@
 # Oudou Rakudo no Vigilante
 
+![oudou-rakudo-no-vigilante](https://cdn.myanimelist.net/images/manga/3/169611.jpg)
+
 -   **type**: manga
 -   **original-name**: 王道楽土のビジランテ
 -   **start-date**: 2015-06-27

@@ -1,5 +1,7 @@
 # Kamisama x Oresama x Oyome-sama
 
+![kamisama-x-oresama-x-oyome-sama](https://cdn.myanimelist.net/images/manga/3/200518.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

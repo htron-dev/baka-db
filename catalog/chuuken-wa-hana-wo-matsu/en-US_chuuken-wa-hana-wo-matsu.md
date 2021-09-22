@@ -1,5 +1,7 @@
 # Chuuken wa Hana wo Matsu
 
+![chuuken-wa-hana-wo-matsu](https://cdn.myanimelist.net/images/manga/1/59319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

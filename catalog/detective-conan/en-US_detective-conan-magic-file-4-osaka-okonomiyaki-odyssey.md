@@ -1,5 +1,7 @@
 # Detective Conan Magic File 4: Osaka Okonomiyaki Odyssey
 
+![detective-conan-magic-file-4-osaka-okonomiyaki-odyssey](https://cdn.myanimelist.net/images/anime/2/21912.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン MAGIC FILE 4 ～大阪お好み焼きオデッセイ～

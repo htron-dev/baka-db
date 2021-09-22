@@ -1,5 +1,7 @@
 # Hikari no Oujo to Honoo no Ouji: Koi wa Midara na Keiyaku kara
 
+![hikari-no-oujo-to-honoo-no-ouji-koi-wa-midara-na-keiyaku-kara](https://cdn.myanimelist.net/images/manga/3/182260.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

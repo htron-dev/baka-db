@@ -1,5 +1,7 @@
 # Nekogami Yaoyorozu Specials
 
+![nekogami-yaoyorozu-specials](https://cdn.myanimelist.net/images/anime/12/37991.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 猫神やおよろず

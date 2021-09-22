@@ -1,5 +1,7 @@
 # Ten no Ryuu Chi no Sakura
 
+![ten-no-ryuu-chi-no-sakura](https://cdn.myanimelist.net/images/manga/3/30743.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

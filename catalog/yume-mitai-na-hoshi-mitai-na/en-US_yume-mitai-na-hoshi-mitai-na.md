@@ -1,5 +1,7 @@
 # Yume Mitai na Hoshi Mitai na
 
+![yume-mitai-na-hoshi-mitai-na](https://cdn.myanimelist.net/images/manga/1/16679.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

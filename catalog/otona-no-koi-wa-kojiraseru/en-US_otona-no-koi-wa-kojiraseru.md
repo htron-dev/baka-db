@@ -1,5 +1,7 @@
 # Otona no Koi wa Kojiraseru
 
+![otona-no-koi-wa-kojiraseru](https://cdn.myanimelist.net/images/manga/1/192734.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: オトナの恋はこじらせる

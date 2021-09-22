@@ -1,5 +1,7 @@
 # Senjin no Elias to Senkou no Lena
 
+![senjin-no-elias-to-senkou-no-lena](https://cdn.myanimelist.net/images/manga/3/135253.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 戦刃のエリアスと戦皇のレーナ

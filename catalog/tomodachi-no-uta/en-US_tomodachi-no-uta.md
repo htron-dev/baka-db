@@ -1,5 +1,7 @@
 # Tomodachi no Uta
 
+![tomodachi-no-uta](https://cdn.myanimelist.net/images/manga/2/198367.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ともだちのうた

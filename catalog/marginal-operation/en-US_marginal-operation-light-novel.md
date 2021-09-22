@@ -1,5 +1,7 @@
 # Marginal Operation
 
+![marginal-operation](https://cdn.myanimelist.net/images/manga/3/164170.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 29

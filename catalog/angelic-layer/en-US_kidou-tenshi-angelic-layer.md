@@ -1,5 +1,7 @@
 # Kidou Tenshi Angelic Layer
 
+![kidou-tenshi-angelic-layer](https://cdn.myanimelist.net/images/anime/1192/113699.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 機動天使エンジェリックレイヤー

@@ -1,5 +1,7 @@
 # Chiryokumaru
 
+![chiryokumaru](https://cdn.myanimelist.net/images/anime/5/82646.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 知力丸

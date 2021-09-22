@@ -1,5 +1,7 @@
 # Kimera: Final Chronicle
 
+![kimera-final-chronicle](https://cdn.myanimelist.net/images/manga/1/41414.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: キメラ ファイナルクロニクル

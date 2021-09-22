@@ -1,5 +1,7 @@
 # K-On!!: Ura-On!!
 
+![k-on-ura-on](https://cdn.myanimelist.net/images/anime/10/25513.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: うらおん!!

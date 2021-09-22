@@ -1,5 +1,7 @@
 # Onobori Monogatari
 
+![onobori-monogatari](https://cdn.myanimelist.net/images/manga/2/158248.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: おのぼり物語

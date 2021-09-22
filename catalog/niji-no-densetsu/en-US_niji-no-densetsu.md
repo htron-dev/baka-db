@@ -1,5 +1,7 @@
 # Niji no Densetsu
 
+![niji-no-densetsu](https://cdn.myanimelist.net/images/manga/2/2781.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 虹の伝説

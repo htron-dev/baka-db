@@ -1,5 +1,7 @@
 # Douraku Musuko
 
+![douraku-musuko](https://cdn.myanimelist.net/images/manga/3/235751.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 163

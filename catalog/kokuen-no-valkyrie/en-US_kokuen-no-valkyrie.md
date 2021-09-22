@@ -1,5 +1,7 @@
 # Kokuen no Valkyrie
 
+![kokuen-no-valkyrie](https://cdn.myanimelist.net/images/manga/3/224717.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

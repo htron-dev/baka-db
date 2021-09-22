@@ -1,5 +1,7 @@
 # Ben-To Another: Ripper's Night
 
+![ben-to-another-rippers-night](https://cdn.myanimelist.net/images/manga/1/173158.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Chaser
 
+![chaser](https://cdn.myanimelist.net/images/manga/2/118201.jpg)
+
 -   **type**: manga
 -   **original-name**: チェイサー
 -   **start-date**: 2012-08-10

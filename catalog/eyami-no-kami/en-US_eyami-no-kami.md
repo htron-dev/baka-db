@@ -1,5 +1,7 @@
 # Eyami-no-Kami
 
+![eyami-no-kami](https://cdn.myanimelist.net/images/manga/3/171395.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

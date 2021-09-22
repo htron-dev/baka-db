@@ -1,5 +1,7 @@
 # Seija no Mure
 
+![seija-no-mure](https://cdn.myanimelist.net/images/manga/3/41131.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 聖者の群れ

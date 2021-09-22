@@ -1,5 +1,7 @@
 # Choujigen Game Neptune
 
+![choujigen-game-neptune](https://cdn.myanimelist.net/images/manga/3/117445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

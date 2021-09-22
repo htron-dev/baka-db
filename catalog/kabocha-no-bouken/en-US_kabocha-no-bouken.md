@@ -1,5 +1,7 @@
 # Kabocha no Bouken
 
+![kabocha-no-bouken](https://cdn.myanimelist.net/images/manga/2/226877.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

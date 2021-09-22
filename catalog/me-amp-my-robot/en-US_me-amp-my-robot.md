@@ -1,5 +1,7 @@
 # Me &amp; My Robot
 
+![me-amp-my-robot](https://cdn.myanimelist.net/images/anime/1490/114530.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 미앤마이로봇
@@ -11,7 +13,6 @@
 
 -   sci-fi
 -   comedy
-
 -   school
 
 ## Sinopse
