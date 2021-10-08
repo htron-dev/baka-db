@@ -1,12 +1,11 @@
 import test from 'japa'
 import moment from 'moment'
-import path from 'path'
 import { createMarkdown, createCatalog, CatalogItem } from '@baka-db/cli'
 
 import validTypes from '../valid-types.json'
 import validTags from '../valid-tags.json'
 
-const catalog = createCatalog(path.resolve(__dirname, '..', '..', 'catalog'))
+const catalog = createCatalog()
 const markdown = createMarkdown()
 
 const args = process.argv.slice(2)
@@ -32,7 +31,7 @@ function isValidHttpUrl(string: string) {
 }
 
 filenames
-    .filter((f) => f.includes('catalog'))
+    .filter((f) => /.catalog\/.*.md/.test(f))
     .forEach((filename, index, array) => {
         test.group(
             `test content(${index + 1}/${array.length}): ${filename}`,
