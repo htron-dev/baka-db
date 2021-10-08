@@ -3,6 +3,9 @@ dist
 .vscode
 .github
 
+.cache
+.baka
+
 package.json
 package-lock.json
 tsconfig.json
