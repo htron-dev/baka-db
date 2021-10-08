@@ -31,7 +31,7 @@ function isValidHttpUrl(string: string) {
 }
 
 filenames
-    .filter((f) => f.includes('catalog'))
+    .filter((f) => /.catalog\/.*.md/.test(f))
     .forEach((filename, index, array) => {
         test.group(
             `test content(${index + 1}/${array.length}): ${filename}`,
