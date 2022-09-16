@@ -8,10 +8,8 @@
     },
     "scripts": {
         "prepare": "husky install",
+        "status": "ts-node --transpile-only src/index.ts status",
         "test": "ts-node japaFile.ts",
-        "conversor:json": "baka conversor json '*' -y ",
-        "make:summary": "baka make:summary",
-        "status": "baka status",
         "lint": "npm run eslint . && npm run prettier .",
         "eslint": "eslint --ext .ts",
         "prettier": "prettier -c"
@@ -51,6 +49,7 @@
         "@baka-db/cli": "^2.0.0",
         "axios": "^0.21.1",
         "cheerio": "^1.0.0-rc.10",
+        "fast-glob": "^3.2.12",
         "fastq": "^1.13.0",
         "lodash": "^4.17.21",
         "moment": "^2.29.1"
