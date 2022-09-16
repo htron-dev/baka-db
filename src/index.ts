@@ -1,11 +1,13 @@
 import status from './commands/status';
 import search from './commands/search'
+import show from './commands/show'
 
 
 async function main(){
     const all: Record<string, () => Promise<any>> = {
         status,
-        search
+        search,
+        show
     }
 
     const [name] = process.argv.slice(2)
