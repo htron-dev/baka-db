@@ -8,7 +8,7 @@
     },
     "scripts": {
         "prepare": "husky install",
-        "status": "ts-node --transpile-only src/index.ts status",
+        "command": "ts-node --transpile-only src/index.ts",
         "test": "ts-node japaFile.ts",
         "lint": "npm run eslint . && npm run prettier .",
         "eslint": "eslint --ext .ts",
@@ -29,6 +29,7 @@
         "@commitlint/cli": "^13.1.0",
         "@commitlint/config-conventional": "^13.1.0",
         "@types/lodash": "^4.14.173",
+        "@types/markdown-it": "^12.2.3",
         "@types/node": "^16.9.6",
         "@types/pino": "^6.3.11",
         "@typescript-eslint/eslint-plugin": "^4.31.2",
@@ -52,6 +53,7 @@
         "fast-glob": "^3.2.12",
         "fastq": "^1.13.0",
         "lodash": "^4.17.21",
+        "markdown-it": "^13.0.1",
         "moment": "^2.29.1"
     }
 }
