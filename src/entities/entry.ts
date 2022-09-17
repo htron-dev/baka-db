@@ -6,10 +6,16 @@ import get from 'lodash/get'
 
 const md = new MarkdownIt()
 
+interface Link {
+    text: string
+    link: string
+}
+
 export default class Entry {
     public title: string
+    public links: Link[] = []
 
-    private constructor(props: Entry){
+    constructor(props: Entry){
         Object.assign(this, props)
     }
 
@@ -34,7 +40,7 @@ export default class Entry {
 
             if (current === 'Links') {
                 content = {
-                    url: get(token, 'children[0].attrs[0][1]', ''),
+                    link: get(token, 'children[0].attrs[0][1]', ''),
                     text: get(token, 'children[1].content', ''),
                 }
             }
@@ -60,7 +66,13 @@ export default class Entry {
         Array.from(sections.entries())
             .filter(e => e[0] !== 'main')
             .forEach(([name, content]) => {
-                item[snakeCase(name)] = content
+                name = snakeCase(name)
+                
+                if (name === 'sinopse') {
+                    content = content[0]
+                }
+
+                item[name] = content
             })
 
         return new Entry(item)
